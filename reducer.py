@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+# Alex Hutcheson (amh4bm)
+# Jared Culp (jjc4fb)
+# CS 4501 - HW5 prelim
+
 from operator import itemgetter
 import sys
 
