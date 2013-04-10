@@ -1,0 +1,124 @@
+{
+  "created_at": "Wed Aug 29 17:13:07 +0000 2012",
+  "id": 240859638659170305,
+  "id_str": "240859638659170305",
+  "text": "RT @8sportsyianni: @Spider_Football HC Danny Rocco discussing #UVA game http://t.co/TSm2IBaY",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 38490096,
+    "id_str": "38490096",
+    "name": "Richmond Football",
+    "screen_name": "Spider_Football",
+    "location": "Richmond, Va.",
+    "description": "The Official Twitter Page of Richmond Spiders Football | 2008 National Champions | 11 Conference Championships | 8 NCAA Playoffs | 77 All-Americans",
+    "url": "http://RichmondSpiders.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://RichmondSpiders.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3089,
+    "friends_count": 38,
+    "listed_count": 97,
+    "created_at": "Thu May 07 18:47:56 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5031,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/27798299/TwitterBG_NEW.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/27798299/TwitterBG_NEW.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2627571447/3celypaskq4fk8apw6rh_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2627571447/3celypaskq4fk8apw6rh_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/38490096/1358523846",
+    "profile_link_color": "FE1021",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "94C1FF",
+    "profile_text_color": "0400A8",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/TSm2IBaY",
+        "expanded_url": "http://twitter.com/8SportsYianni/status/240859350011355136/photo/1",
+        "display_url": "pic.twitter.com/TSm2IBaY",
+        "indices": [
+          72,
+          92
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "8SportsYianni",
+        "name": "Yianni Kourakis",
+        "id": 22835639,
+        "id_str": "22835639",
+        "indices": [
+          3,
+          17
+        ]
+      },
+      {
+        "screen_name": "Spider_Football",
+        "name": "Richmond Football",
+        "id": 38490096,
+        "id_str": "38490096",
+        "indices": [
+          19,
+          35
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

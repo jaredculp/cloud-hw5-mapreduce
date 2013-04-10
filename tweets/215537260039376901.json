@@ -1,0 +1,92 @@
+{
+  "created_at": "Wed Jun 20 20:11:01 +0000 2012",
+  "id": 215537260039376901,
+  "id_str": "215537260039376901",
+  "text": "@GovernorVA Can we distract you from the Redskins in Maryland long enough to mitigate the implosion of your premier university? #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 104198706,
+  "in_reply_to_user_id_str": "104198706",
+  "in_reply_to_screen_name": "GovernorVA",
+  "user": {
+    "id": 475152020,
+    "id_str": "475152020",
+    "name": "ayekantspehl",
+    "screen_name": "ayekantspehl",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3,
+    "friends_count": 17,
+    "listed_count": 0,
+    "created_at": "Thu Jan 26 19:00:36 +0000 2012",
+    "favourites_count": 16,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 35,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          128,
+          132
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GovernorVA",
+        "name": "Bob McDonnell",
+        "id": 104198706,
+        "id_str": "104198706",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

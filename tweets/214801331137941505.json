@@ -1,0 +1,90 @@
+{
+  "created_at": "Mon Jun 18 19:26:42 +0000 2012",
+  "id": 214801331137941505,
+  "id_str": "214801331137941505",
+  "text": "Wishing I were on the Lawn right now #HoosforSullivan #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 234016962,
+    "id_str": "234016962",
+    "name": "Anna Brown",
+    "screen_name": "annacollinsb",
+    "location": "Birmingham, AL",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 93,
+    "friends_count": 209,
+    "listed_count": 0,
+    "created_at": "Tue Jan 04 17:15:17 +0000 2011",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 294,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/188671569/xee6117824ad09fdc5567d371a01f67c.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/188671569/xee6117824ad09fdc5567d371a01f67c.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1206771396/IMG_1566_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1206771396/IMG_1566_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HoosforSullivan",
+        "indices": [
+          37,
+          53
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          54,
+          58
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

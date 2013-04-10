@@ -1,0 +1,205 @@
+{
+  "created_at": "Tue Jun 19 22:37:47 +0000 2012",
+  "id": 215211806258495488,
+  "id_str": "215211806258495488",
+  "text": "RT @kevinsullivan: Bill Wulf's protest resignation #UVa is a seismic event in the international computer science community: http://t.co/ ...",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 307833,
+    "id_str": "307833",
+    "name": "Kendall Clark",
+    "screen_name": "kendall",
+    "location": "Washington, DC",
+    "description": "Running a Semantic Web startup in DC. See http://t.co/yJ18RX6d",
+    "url": "http://t.co/1N2QjzBL",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/1N2QjzBL",
+            "expanded_url": "http://www.enthuse.me/kendall",
+            "display_url": "enthuse.me/kendall",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/yJ18RX6d",
+            "expanded_url": "http://stardog.com/",
+            "display_url": "stardog.com",
+            "indices": [
+              42,
+              62
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2291,
+    "friends_count": 515,
+    "listed_count": 176,
+    "created_at": "Thu Dec 28 04:31:12 +0000 2006",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 51512,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F0E6C5",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/714443052/df61839b9f767cd80d95bb507b17a6b6.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/714443052/df61839b9f767cd80d95bb507b17a6b6.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2988334249/4c97b6c49bddfa9df5480a179e9b7614_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2988334249/4c97b6c49bddfa9df5480a179e9b7614_normal.jpeg",
+    "profile_link_color": "EE4E24",
+    "profile_sidebar_border_color": "3A2912",
+    "profile_sidebar_fill_color": "458B24",
+    "profile_text_color": "EAE44B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 19 22:09:53 +0000 2012",
+    "id": 215204784578375680,
+    "id_str": "215204784578375680",
+    "text": "Bill Wulf's protest resignation #UVa is a seismic event in the international computer science community: http://t.co/LRz5tevz",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14971097,
+      "id_str": "14971097",
+      "name": "kevinsullivan",
+      "screen_name": "kevinsullivan",
+      "location": "Charlottesville, VA USA",
+      "description": "Faculty in Computer Science at the University of Virginia, with research interests in software and computational systems engineering, including evolution and e ",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 68,
+      "friends_count": 61,
+      "listed_count": 3,
+      "created_at": "Sun Jun 01 12:27:44 +0000 2008",
+      "favourites_count": 0,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 60,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 15,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVa",
+          "indices": [
+            32,
+            36
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/LRz5tevz",
+          "expanded_url": "http://www.cccblog.org/2012/06/19/bill-wulf-resigns-from-the-university-of-virginia-in-protest/",
+          "display_url": "cccblog.org/2012/06/19/bil…",
+          "indices": [
+            105,
+            125
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  "retweet_count": 15,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          51,
+          55
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kevinsullivan",
+        "name": "kevinsullivan",
+        "id": 14971097,
+        "id_str": "14971097",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

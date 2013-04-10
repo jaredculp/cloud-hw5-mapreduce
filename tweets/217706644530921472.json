@@ -1,0 +1,83 @@
+{
+  "created_at": "Tue Jun 26 19:51:23 +0000 2012",
+  "id": 217706644530921472,
+  "id_str": "217706644530921472",
+  "text": "so proud to be a wahoo #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26675588,
+    "id_str": "26675588",
+    "name": "anna miron",
+    "screen_name": "annamiron",
+    "location": "eugene, oregon",
+    "description": "architecture, sports, and food. it's what i do :)",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 63,
+    "friends_count": 101,
+    "listed_count": 2,
+    "created_at": "Thu Mar 26 03:11:35 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1454,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2392918723/fumqloocu2n1l3pk8y7g_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2392918723/fumqloocu2n1l3pk8y7g_normal.jpeg",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          23,
+          27
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,118 @@
+{
+  "created_at": "Mon Jun 25 14:46:06 +0000 2012",
+  "id": 217267430072926208,
+  "id_str": "217267430072926208",
+  "text": "All he did was publicly scold everyone. @pmoraras \"thank you for finally DOING something. http://t.co/XZhqMrGC #UVA #McDonnell via @dcist\"",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 611934146,
+    "id_str": "611934146",
+    "name": "David Bolick",
+    "screen_name": "smushandrocky",
+    "location": "",
+    "description": "Senior Laboratory Technician at UVA...exciting, eh?",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3,
+    "friends_count": 11,
+    "listed_count": 0,
+    "created_at": "Mon Jun 18 19:34:12 +0000 2012",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 146,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2320153165/IMG_0098_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2320153165/IMG_0098_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          111,
+          115
+        ]
+      },
+      {
+        "text": "McDonnell",
+        "indices": [
+          116,
+          126
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/XZhqMrGC",
+        "expanded_url": "http://bit.ly/L0PXCa",
+        "display_url": "bit.ly/L0PXCa",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "pmoraras",
+        "name": "Pear Moraras",
+        "id": 17519548,
+        "id_str": "17519548",
+        "indices": [
+          40,
+          49
+        ]
+      },
+      {
+        "screen_name": "dcist",
+        "name": "DCist",
+        "id": 15295015,
+        "id_str": "15295015",
+        "indices": [
+          131,
+          137
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

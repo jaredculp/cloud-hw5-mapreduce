@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jun 20 07:01:35 +0000 2012",
+  "id": 215338590287314944,
+  "id_str": "215338590287314944",
+  "text": "About bloody time. MT @tigerljily: #UVA #BOV agrees to keep Classics Dept if they agree to cut Latin declensions from five to three.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 505040866,
+    "id_str": "505040866",
+    "name": "Evan Morris",
+    "screen_name": "word_detective",
+    "location": "",
+    "description": "Language columnist and cat farmer. My newspaper column, The Word Detective, has been available online since 1995 at:",
+    "url": "http://www.word-detective.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.word-detective.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 334,
+    "friends_count": 585,
+    "listed_count": 11,
+    "created_at": "Sun Feb 26 21:37:12 +0000 2012",
+    "favourites_count": 57,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 730,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/701803204/275e285a586544bd27161d4233e0e29c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/701803204/275e285a586544bd27161d4233e0e29c.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3118281311/b23e50125ca3a7f66d3975c7df0be3f8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3118281311/b23e50125ca3a7f66d3975c7df0be3f8_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/505040866/1351982947",
+    "profile_link_color": "1A27D9",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          35,
+          39
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          40,
+          44
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "tigerljily",
+        "name": "Highway Llama",
+        "id": 22292430,
+        "id_str": "22292430",
+        "indices": [
+          22,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

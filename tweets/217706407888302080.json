@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Jun 26 19:50:27 +0000 2012",
+  "id": 217706407888302080,
+  "id_str": "217706407888302080",
+  "text": "@BabesofNPR In honor of Sullivan's #UVA reinstatement, can we nominate our stone fox Peter Onuf? Schwing! http://t.co/Rv8RMhYB (min 1:30)",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 470352910,
+  "in_reply_to_user_id_str": "470352910",
+  "in_reply_to_screen_name": "BabesofNPR",
+  "user": {
+    "id": 108358687,
+    "id_str": "108358687",
+    "name": "BackStory",
+    "screen_name": "BackStoryRadio",
+    "location": "Charlottesville, Virginia",
+    "description": "We're doing American history on the radio and your iThing. Tweets by assoc. producer @ericmennel and whoever else wants to procrastinate.",
+    "url": "http://www.backstoryradio.org/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.backstoryradio.org/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1155,
+    "friends_count": 495,
+    "listed_count": 57,
+    "created_at": "Mon Jan 25 17:58:50 +0000 2010",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1519,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFDFD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/558386675/x110c4d7d56e1fd57f7ba07681f18be2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/558386675/x110c4d7d56e1fd57f7ba07681f18be2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/654790369/n61748727862_1449293_2848674_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/654790369/n61748727862_1449293_2848674_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/108358687/1353939524",
+    "profile_link_color": "FB0707",
+    "profile_sidebar_border_color": "D0F8F7",
+    "profile_sidebar_fill_color": "241F5F",
+    "profile_text_color": "A3B3C4",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          35,
+          39
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Rv8RMhYB",
+        "expanded_url": "http://ow.ly/bQk8d",
+        "display_url": "ow.ly/bQk8d",
+        "indices": [
+          106,
+          126
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BabesofNPR",
+        "name": "Babes of NPR",
+        "id": 470352910,
+        "id_str": "470352910",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

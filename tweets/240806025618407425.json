@@ -1,0 +1,127 @@
+{
+  "created_at": "Wed Aug 29 13:40:05 +0000 2012",
+  "id": 240806025618407425,
+  "id_str": "240806025618407425",
+  "text": "E a #merenda opta per una schiacciata con l' #uva, dolcissima e salutare http://t.co/ljUr5xI2 #cucina",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29176328,
+    "id_str": "29176328",
+    "name": "Donna Moderna",
+    "screen_name": "DonnaModerna",
+    "location": "Italia",
+    "description": "Una ricetta per stupire gli amici o un consiglio per farti bella? http://t.co/4pq5cs6k ti facilita la vita tutti i giorni!",
+    "url": "http://www.donnamoderna.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.donnamoderna.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/4pq5cs6k",
+            "expanded_url": "http://Donnamoderna.com",
+            "display_url": "Donnamoderna.com",
+            "indices": [
+              66,
+              86
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 157503,
+    "friends_count": 387,
+    "listed_count": 609,
+    "created_at": "Mon Apr 06 10:24:02 +0000 2009",
+    "favourites_count": 111,
+    "utc_offset": 3600,
+    "time_zone": "Rome",
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 12242,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8AA2AE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/754106497/03c12b1f0a1f0eac3ee0c3ac45406a5c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/754106497/03c12b1f0a1f0eac3ee0c3ac45406a5c.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1761226151/dm-twitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1761226151/dm-twitter_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/29176328/1356966326",
+    "profile_link_color": "2C87B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "merenda",
+        "indices": [
+          4,
+          12
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          45,
+          49
+        ]
+      },
+      {
+        "text": "cucina",
+        "indices": [
+          94,
+          101
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ljUr5xI2",
+        "expanded_url": "http://owl.li/djdlK",
+        "display_url": "owl.li/djdlK",
+        "indices": [
+          73,
+          93
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,109 @@
+{
+  "created_at": "Fri Jun 29 20:24:32 +0000 2012",
+  "id": 218802150602575872,
+  "id_str": "218802150602575872",
+  "text": "is this a joke? \"@washingtonpost: #BREAKINGNEWS: Gov. @BobMcDonnell has reappointed Dragas to #UVA board for a 2nd 4-yr term...\"",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 246024878,
+    "id_str": "246024878",
+    "name": "Olivia Brown",
+    "screen_name": "_oliviabrown",
+    "location": "",
+    "description": "uva 2015; ΣK - one heart, one way",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 258,
+    "friends_count": 341,
+    "listed_count": 0,
+    "created_at": "Tue Feb 01 23:46:04 +0000 2011",
+    "favourites_count": 431,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3659,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "07090B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/373232442/x3fc961cd792124c01f01e626f3ee8d4.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/373232442/x3fc961cd792124c01f01e626f3ee8d4.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2899172715/297aa359497943b1347b897da01692ef_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2899172715/297aa359497943b1347b897da01692ef_normal.png",
+    "profile_link_color": "C34242",
+    "profile_sidebar_border_color": "BFBFBF",
+    "profile_sidebar_fill_color": "C9C9C9",
+    "profile_text_color": "1C1F23",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BREAKINGNEWS",
+        "indices": [
+          34,
+          47
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          94,
+          98
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          17,
+          32
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          54,
+          67
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

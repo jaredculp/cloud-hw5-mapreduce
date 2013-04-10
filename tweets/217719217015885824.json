@@ -1,0 +1,132 @@
+{
+  "created_at": "Tue Jun 26 20:41:21 +0000 2012",
+  "id": 217719217015885824,
+  "id_str": "217719217015885824",
+  "text": "News! RT @felixsalmon: U-Va. board reinstates Sullivan as president: http://t.co/nQKGnr8u via @washingtonpost  #edu #UVA #p2 #p21",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14969842,
+    "id_str": "14969842",
+    "name": "jenhull",
+    "screen_name": "jenhull",
+    "location": "",
+    "description": "Homesick New Yorker & proud member of WI Local 1848. Likes: bagels, politics. Dislikes: eggplant, War on Women.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 255,
+    "friends_count": 401,
+    "listed_count": 12,
+    "created_at": "Sun Jun 01 07:10:58 +0000 2008",
+    "favourites_count": 418,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5917,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/59210003/jen1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/59210003/jen1_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "edu",
+        "indices": [
+          111,
+          115
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          116,
+          120
+        ]
+      },
+      {
+        "text": "p2",
+        "indices": [
+          121,
+          124
+        ]
+      },
+      {
+        "text": "p21",
+        "indices": [
+          125,
+          129
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/nQKGnr8u",
+        "expanded_url": "http://www.washingtonpost.com/local/education/u-va-leadership-crisis-mcdonnell-declines-to-take-sides/2012/06/26/gJQArOHU4V_story.html",
+        "display_url": "washingtonpost.com/local/educatio…",
+        "indices": [
+          69,
+          89
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "felixsalmon",
+        "name": "felix salmon",
+        "id": 16399949,
+        "id_str": "16399949",
+        "indices": [
+          9,
+          21
+        ]
+      },
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          94,
+          109
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

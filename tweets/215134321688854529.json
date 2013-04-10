@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jun 19 17:29:53 +0000 2012",
+  "id": 215134321688854529,
+  "id_str": "215134321688854529",
+  "text": "@GoodmanCBS at #UVA for 4 months, #URI for a year, how long is the next stop? #wasteoftalent",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215133942402134016,
+  "in_reply_to_status_id_str": "215133942402134016",
+  "in_reply_to_user_id": 22066555,
+  "in_reply_to_user_id_str": "22066555",
+  "in_reply_to_screen_name": "GoodmanCBS",
+  "user": {
+    "id": 255043177,
+    "id_str": "255043177",
+    "name": "Neil Morrissette",
+    "screen_name": "neilmorrissette",
+    "location": "Newport News,VA",
+    "description": "Gambler, Banker, Fraternity Man",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 202,
+    "friends_count": 534,
+    "listed_count": 0,
+    "created_at": "Sun Feb 20 15:08:17 +0000 2011",
+    "favourites_count": 247,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3713,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1274826750/ss_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1274826750/ss_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          15,
+          19
+        ]
+      },
+      {
+        "text": "URI",
+        "indices": [
+          34,
+          38
+        ]
+      },
+      {
+        "text": "wasteoftalent",
+        "indices": [
+          78,
+          92
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GoodmanCBS",
+        "name": "Jeff Goodman",
+        "id": 22066555,
+        "id_str": "22066555",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

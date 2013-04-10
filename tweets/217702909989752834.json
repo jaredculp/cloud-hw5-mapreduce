@@ -1,0 +1,115 @@
+{
+  "created_at": "Tue Jun 26 19:36:33 +0000 2012",
+  "id": 217702909989752834,
+  "id_str": "217702909989752834",
+  "text": "They're trending over an embarrassment &amp; they're happy? RT @thekeyplay There are no words. RT @UVA #UVa trending! Loud cheers from the Lawn!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22816767,
+    "id_str": "22816767",
+    "name": "Steven Rich",
+    "screen_name": "thestevenrich",
+    "location": "Washington, DC",
+    "description": "Investigative and data journalist currently working @washingtonpost. Missouri graduate student. Hokie alum.",
+    "url": "http://stevenri.ch",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://stevenri.ch",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 393,
+    "friends_count": 254,
+    "listed_count": 31,
+    "created_at": "Wed Mar 04 19:04:48 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4267,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2944996804/ac37ef9d554eb97555d35473d3013a6f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2944996804/ac37ef9d554eb97555d35473d3013a6f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/22816767/1348685305",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          103,
+          107
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "thekeyplay",
+        "name": "THE KEY PLAY",
+        "id": 121947320,
+        "id_str": "121947320",
+        "indices": [
+          63,
+          74
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          98,
+          102
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

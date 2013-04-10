@@ -1,0 +1,103 @@
+{
+  "created_at": "Mon Jun 25 17:15:58 +0000 2012",
+  "id": 217305146424696833,
+  "id_str": "217305146424696833",
+  "text": "#UVA may be having problems. But hey, at least we're not #PennState.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17241829,
+    "id_str": "17241829",
+    "name": "Kevin Saucedo-Broach",
+    "screen_name": "kevsaucebro",
+    "location": "Charlottesville, VA",
+    "description": "UVA class of 2015, member of @VirginiaGents, and 2011 USSYP delegate from MD. Will tweet about politics, news, & UVA life. Retweets/follows ≠ endorsements.",
+    "url": "http://www.facebook.com/kevinsaucedobroach",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/kevinsaucedobroach",
+            "expanded_url": null,
+            "indices": [
+              0,
+              42
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 253,
+    "friends_count": 579,
+    "listed_count": 0,
+    "created_at": "Sat Nov 08 00:11:01 +0000 2008",
+    "favourites_count": 75,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3042,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "6A52FF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/676995944/e37bb6e88c4148f1cbb8081c77f7ea5f.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/676995944/e37bb6e88c4148f1cbb8081c77f7ea5f.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3026127336/e6465acecc57c6ed29260d770a9d97e3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3026127336/e6465acecc57c6ed29260d770a9d97e3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/17241829/1355647646",
+    "profile_link_color": "52B5FF",
+    "profile_sidebar_border_color": "F2882A",
+    "profile_sidebar_fill_color": "FFD04B",
+    "profile_text_color": "FFF571",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "PennState",
+        "indices": [
+          57,
+          67
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

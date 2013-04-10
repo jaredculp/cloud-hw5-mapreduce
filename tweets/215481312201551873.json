@@ -1,0 +1,101 @@
+{
+  "created_at": "Wed Jun 20 16:28:42 +0000 2012",
+  "id": 215481312201551873,
+  "id_str": "215481312201551873",
+  "text": "@jamescosullivan Only because she was president; check #UVA Soc. dept. salaries 4 reality check http://t.co/aMaRdSxS",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215479941737877504,
+  "in_reply_to_status_id_str": "215479941737877504",
+  "in_reply_to_user_id": 323832779,
+  "in_reply_to_user_id_str": "323832779",
+  "in_reply_to_screen_name": "jamescosullivan",
+  "user": {
+    "id": 15376801,
+    "id_str": "15376801",
+    "name": "Edward",
+    "screen_name": "Edward_Gaynor",
+    "location": "22903-1317",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 8,
+    "friends_count": 15,
+    "listed_count": 0,
+    "created_at": "Thu Jul 10 12:30:32 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 26,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2322853842/7nxpjgd37cuj8e357gjw_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2322853842/7nxpjgd37cuj8e357gjw_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          55,
+          59
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/aMaRdSxS",
+        "expanded_url": "http://tinyurl.com/89ao64h",
+        "display_url": "tinyurl.com/89ao64h",
+        "indices": [
+          96,
+          116
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jamescosullivan",
+        "name": "James O'Sullivan",
+        "id": 323832779,
+        "id_str": "323832779",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

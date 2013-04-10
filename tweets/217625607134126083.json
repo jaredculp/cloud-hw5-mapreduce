@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 26 14:29:22 +0000 2012",
+  "id": 217625607134126083,
+  "id_str": "217625607134126083",
+  "text": "Bloomberg: If Sullivan isn’t reinstated, the university may have a difficult time finding new president http://t.co/5ylhEzxT #UVa #Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18353044,
+    "id_str": "18353044",
+    "name": "Matt Motyl",
+    "screen_name": "MattMotyl",
+    "location": "Charlottesville, VA, USA",
+    "description": "I am a doctoral candidate studying political psychology at the University of Virginia.",
+    "url": "http://people.virginia.edu/~msm6sw/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://people.virginia.edu/~msm6sw/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 87,
+    "friends_count": 240,
+    "listed_count": 0,
+    "created_at": "Wed Dec 24 06:51:02 +0000 2008",
+    "favourites_count": 40,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 931,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0000FF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/583400093/h56y86u7wzqp2tymy1hc.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/583400093/h56y86u7wzqp2tymy1hc.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2328171657/wg9l0ht9rq8uhyqkneqf_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2328171657/wg9l0ht9rq8uhyqkneqf_normal.jpeg",
+    "profile_link_color": "FFA500",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          125,
+          129
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          130,
+          139
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/5ylhEzxT",
+        "expanded_url": "http://www.bloomberg.com/news/2012-06-25/virginia-echoes-harvard-as-faculty-rises-up-to-rehire-president.html",
+        "display_url": "bloomberg.com/news/2012-06-2…",
+        "indices": [
+          104,
+          124
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

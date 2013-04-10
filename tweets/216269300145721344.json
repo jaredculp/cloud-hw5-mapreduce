@@ -1,0 +1,124 @@
+{
+  "created_at": "Fri Jun 22 20:39:53 +0000 2012",
+  "id": 216269300145721344,
+  "id_str": "216269300145721344",
+  "text": "@vpaige @RTDSchapiro @bobmcdonnell Demanding \"closure\" sounds like a nice polite Virginia way of telling everyone to shut up. #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216267708214419456,
+  "in_reply_to_status_id_str": "216267708214419456",
+  "in_reply_to_user_id": 15961546,
+  "in_reply_to_user_id_str": "15961546",
+  "in_reply_to_screen_name": "vpaige",
+  "user": {
+    "id": 5998492,
+    "id_str": "5998492",
+    "name": "Alice Marshall",
+    "screen_name": "PrestoVivace",
+    "location": "Washington, DC",
+    "description": "Founder and owner of Presto Vivace PR, a PR agency for for government contractors and private sector technology companies.",
+    "url": "http://www.prestovivace.biz/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.prestovivace.biz/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1543,
+    "friends_count": 995,
+    "listed_count": 62,
+    "created_at": "Sat May 12 23:50:51 +0000 2007",
+    "favourites_count": 491,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 18602,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/85475379/Photo_96_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/85475379/Photo_96_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          126,
+          130
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "vpaige",
+        "name": "Vivian J. Paige",
+        "id": 15961546,
+        "id_str": "15961546",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "screen_name": "RTDSchapiro",
+        "name": "Jeff E. Schapiro",
+        "id": 64729812,
+        "id_str": "64729812",
+        "indices": [
+          8,
+          20
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          21,
+          34
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

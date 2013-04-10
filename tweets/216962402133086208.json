@@ -1,0 +1,99 @@
+{
+  "created_at": "Sun Jun 24 18:34:02 +0000 2012",
+  "id": 216962402133086208,
+  "id_str": "216962402133086208",
+  "text": "Wish I could be at #UVA today, but I'll have to settle for watching the #Rally4Honor online: http://t.co/mWKu17dr",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 499199370,
+    "id_str": "499199370",
+    "name": "Christina H.",
+    "screen_name": "cfh87",
+    "location": "Boston, MA",
+    "description": "I'm a 25-year-old grad student in the Boston area. I'm a little bit afraid of Carl Einstein.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 12,
+    "friends_count": 104,
+    "listed_count": 1,
+    "created_at": "Tue Feb 21 21:46:54 +0000 2012",
+    "favourites_count": 64,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 26,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "452E3C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/431319123/x93806286464187660afac853990d866.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/431319123/x93806286464187660afac853990d866.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1844191645/2296896035_c096c89cef_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1844191645/2296896035_c096c89cef_normal.jpg",
+    "profile_link_color": "FFB969",
+    "profile_sidebar_border_color": "3B8C88",
+    "profile_sidebar_fill_color": "EAF27E",
+    "profile_text_color": "FF3D5A",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          19,
+          23
+        ]
+      },
+      {
+        "text": "Rally4Honor",
+        "indices": [
+          72,
+          84
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/mWKu17dr",
+        "expanded_url": "http://www.ustream.tv/channel/sunday-on-the-lawn",
+        "display_url": "ustream.tv/channel/sunday…",
+        "indices": [
+          93,
+          113
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,111 @@
+{
+  "created_at": "Mon Jun 25 01:57:31 +0000 2012",
+  "id": 217074007307071490,
+  "id_str": "217074007307071490",
+  "text": "@amberopolis hope the #Rally4Honor at #UVa went well.",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216940858782662658,
+  "in_reply_to_status_id_str": "216940858782662658",
+  "in_reply_to_user_id": 607306874,
+  "in_reply_to_user_id_str": "607306874",
+  "in_reply_to_screen_name": "amberopolis",
+  "user": {
+    "id": 348688044,
+    "id_str": "348688044",
+    "name": "UNC Faculty Gov",
+    "screen_name": "UNCFacGov",
+    "location": "Chapel Hill, NC",
+    "description": "Ofc of Faculty Governance, UNC-Chapel Hill: Faculty Council (our faculty senate), Chair of the Faculty, and faculty committees. @amwhisnant tweeting.",
+    "url": "http://faccoun.unc.edu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://faccoun.unc.edu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 365,
+    "friends_count": 381,
+    "listed_count": 9,
+    "created_at": "Thu Aug 04 20:55:58 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1822,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/305061330/20110416_11SpringatHomeEvanSM3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/305061330/20110416_11SpringatHomeEvanSM3.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1479184600/carrbuilding1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1479184600/carrbuilding1_normal.jpg",
+    "profile_link_color": "0D546E",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Rally4Honor",
+        "indices": [
+          22,
+          34
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          38,
+          42
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "amberopolis",
+        "name": "Amber",
+        "id": 607306874,
+        "id_str": "607306874",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

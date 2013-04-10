@@ -1,0 +1,112 @@
+{
+  "created_at": "Thu Aug 30 22:51:29 +0000 2012",
+  "id": 241307178089189376,
+  "id_str": "241307178089189376",
+  "text": "@ryanlochte @GatorZoneNews  Orange and Blue!!  #UVA  @GoHoos!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 241306602869776386,
+  "in_reply_to_status_id_str": "241306602869776386",
+  "in_reply_to_user_id": 35348026,
+  "in_reply_to_user_id_str": "35348026",
+  "in_reply_to_screen_name": "ryanlochte",
+  "user": {
+    "id": 274057651,
+    "id_str": "274057651",
+    "name": "Debbie Heflin",
+    "screen_name": "deblyn318",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 13,
+    "friends_count": 144,
+    "listed_count": 0,
+    "created_at": "Tue Mar 29 17:02:51 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2532420101/jk4xydkjc0vlxn2q1mnc_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2532420101/jk4xydkjc0vlxn2q1mnc_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ryanlochte",
+        "name": "Ryan Lochte",
+        "id": 35348026,
+        "id_str": "35348026",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "GatorZoneNews",
+        "name": "Florida Gators",
+        "id": 30870308,
+        "id_str": "30870308",
+        "indices": [
+          12,
+          26
+        ]
+      },
+      {
+        "screen_name": "gohoos",
+        "name": "Sissy Woodard",
+        "id": 25374855,
+        "id_str": "25374855",
+        "indices": [
+          53,
+          60
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

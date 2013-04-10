@@ -1,0 +1,124 @@
+{
+  "created_at": "Fri Aug 17 20:41:31 +0000 2012",
+  "id": 236563430578987009,
+  "id_str": "236563430578987009",
+  "text": "RT @Keswick_Hall: Love @UVA football?  Meet the team &amp; have some fun Sat. 2-3:30pm at John Paul Jones Arena. http://t.co/mhXm3weB #uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1910771,
+    "id_str": "1910771",
+    "name": "UVA",
+    "screen_name": "UVA",
+    "location": "Charlottesville, VA",
+    "description": " Top news from the University of Virginia from the tweeps in Public Affairs.",
+    "url": "http://www.virginia.edu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginia.edu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 22065,
+    "friends_count": 1401,
+    "listed_count": 544,
+    "created_at": "Thu Mar 22 17:26:46 +0000 2007",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7317,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0B1D77",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/6071365/bg2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/6071365/bg2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/897634395/9b74f7f5-9374-4ac8-857a-f9156971d5c6_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/897634395/9b74f7f5-9374-4ac8-857a-f9156971d5c6_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/1910771/1359477886",
+    "profile_link_color": "004490",
+    "profile_sidebar_border_color": "234A90",
+    "profile_sidebar_fill_color": "6488D1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          134,
+          138
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/mhXm3weB",
+        "expanded_url": "http://owl.li/d30my",
+        "display_url": "owl.li/d30my",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Keswick_Hall",
+        "name": "Keswick Hall",
+        "id": 284025192,
+        "id_str": "284025192",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          23,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,112 @@
+{
+  "created_at": "Fri Jun 22 02:01:50 +0000 2012",
+  "id": 215987930861285376,
+  "id_str": "215987930861285376",
+  "text": "Key players in the ongoings of @UVA. A visual way to know Hoo is Hoo. @sivavaid #hoosforsullivan http://t.co/KOMNrs0s",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 153396653,
+    "id_str": "153396653",
+    "name": "Stephanie Nguyen",
+    "screen_name": "nguyenist",
+    "location": "Washington, D.C.",
+    "description": "this is my digital media curio",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 294,
+    "friends_count": 198,
+    "listed_count": 9,
+    "created_at": "Tue Jun 08 12:55:58 +0000 2010",
+    "favourites_count": 24,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 787,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/117821570/green_grass.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/117821570/green_grass.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3130673313/c6737500b4aaea7e0dd90994a0f554c0_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3130673313/c6737500b4aaea7e0dd90994a0f554c0_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/153396653/1358631982",
+    "profile_link_color": "00D672",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "141414",
+    "profile_text_color": "FFFFFF",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 10,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "hoosforsullivan",
+        "indices": [
+          80,
+          96
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/KOMNrs0s",
+        "expanded_url": "http://bit.ly/MaE5RF",
+        "display_url": "bit.ly/MaE5RF",
+        "indices": [
+          97,
+          117
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          31,
+          35
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          70,
+          79
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

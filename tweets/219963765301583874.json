@@ -1,0 +1,138 @@
+{
+  "created_at": "Tue Jul 03 01:20:23 +0000 2012",
+  "id": 219963765301583874,
+  "id_str": "219963765301583874",
+  "text": "Yo #RVA! Check this out! RT @alexisohanian: Looks like @thecityswig is hipmunk-ing bar specials at #UVA. #wahoo-wah http://t.co/rWQhzTYr",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 259676099,
+    "id_str": "259676099",
+    "name": "Koury Wilson",
+    "screen_name": "KWilsonPR",
+    "location": "Richmond, Va.",
+    "description": "25 y.o. PR girl. Witty tech & media nerd. Fashion & margarita enthusiast. And yes, I'm the chick with the glasses. These opinions are my own.",
+    "url": "http://about.me/Wilsonk3",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://about.me/Wilsonk3",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 354,
+    "friends_count": 1002,
+    "listed_count": 23,
+    "created_at": "Wed Mar 02 11:05:13 +0000 2011",
+    "favourites_count": 1209,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6725,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/718206504/772c06e487e65e3c1188bd7b8c6656f6.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/718206504/772c06e487e65e3c1188bd7b8c6656f6.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2849320106/9e8037431787e441ec83d2a239a15687_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2849320106/9e8037431787e441ec83d2a239a15687_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/259676099/1353150545",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RVA",
+        "indices": [
+          3,
+          7
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          99,
+          103
+        ]
+      },
+      {
+        "text": "wahoo",
+        "indices": [
+          105,
+          111
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/rWQhzTYr",
+        "expanded_url": "http://thecityswig.com",
+        "display_url": "thecityswig.com",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "alexisohanian",
+        "name": "Alexis Ohanian",
+        "id": 811350,
+        "id_str": "811350",
+        "indices": [
+          28,
+          42
+        ]
+      },
+      {
+        "screen_name": "TheCitySwig",
+        "name": "The City Swig",
+        "id": 250451000,
+        "id_str": "250451000",
+        "indices": [
+          55,
+          67
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

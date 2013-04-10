@@ -1,0 +1,175 @@
+{
+  "created_at": "Tue Jul 03 20:20:37 +0000 2012",
+  "id": 220250718408413184,
+  "id_str": "220250718408413184",
+  "text": "RT @csteinwedel: Three days until midsummers! #uva",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 493503778,
+    "id_str": "493503778",
+    "name": "Morgan McCoy",
+    "screen_name": "morgymam",
+    "location": "Charlottesville, Va",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 106,
+    "friends_count": 182,
+    "listed_count": 0,
+    "created_at": "Wed Feb 15 21:36:08 +0000 2012",
+    "favourites_count": 425,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 698,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2179851030/twit_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2179851030/twit_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jul 03 13:22:40 +0000 2012",
+    "id": 220145537360470016,
+    "id_str": "220145537360470016",
+    "text": "Three days until midsummers! #uva",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 64244971,
+      "id_str": "64244971",
+      "name": "Christine Steinwedel",
+      "screen_name": "csteinwedel",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 217,
+      "friends_count": 213,
+      "listed_count": 1,
+      "created_at": "Sun Aug 09 20:19:55 +0000 2009",
+      "favourites_count": 462,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3133,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/558258933/strpiy-backgrund.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/558258933/strpiy-backgrund.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2239082019/0066_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2239082019/0066_normal.jpg",
+      "profile_link_color": "038543",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "uva",
+          "indices": [
+            29,
+            33
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          46,
+          50
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "csteinwedel",
+        "name": "Christine Steinwedel",
+        "id": 64244971,
+        "id_str": "64244971",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

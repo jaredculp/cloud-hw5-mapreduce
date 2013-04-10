@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Aug 08 16:54:19 +0000 2012",
+  "id": 233244763032256512,
+  "id_str": "233244763032256512",
+  "text": "learning about collaborating on digital projects with @praxisprogram from #uva at #dsi12",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19156189,
+    "id_str": "19156189",
+    "name": "Carey Sargent",
+    "screen_name": "careysargent",
+    "location": "Los Angeles",
+    "description": "Public Sociologist, Musician, Higher Ed Instigator ",
+    "url": "http://t.co/UGPokdyL",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/UGPokdyL",
+            "expanded_url": "http://careysargent.info",
+            "display_url": "careysargent.info",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 450,
+    "friends_count": 543,
+    "listed_count": 34,
+    "created_at": "Sun Jan 18 20:15:28 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 659,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/99011542/IMG_0536.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/99011542/IMG_0536.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/277282971/green_1014_hannah_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/277282971/green_1014_hannah_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          74,
+          78
+        ]
+      },
+      {
+        "text": "dsi12",
+        "indices": [
+          82,
+          88
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PraxisProgram",
+        "name": "The Praxis Program",
+        "id": 356415640,
+        "id_str": "356415640",
+        "indices": [
+          54,
+          68
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

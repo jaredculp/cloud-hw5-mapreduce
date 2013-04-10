@@ -1,0 +1,124 @@
+{
+  "created_at": "Tue Jul 03 23:42:07 +0000 2012",
+  "id": 220301425098493953,
+  "id_str": "220301425098493953",
+  "text": "RT @FabianaMoreira_ Já que quebrou, #uva nos \"feijõezinhos\" rss @Karol_ZHeG @ Billy http://t.co/UthDXLuU",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 220276096480976897,
+  "in_reply_to_status_id_str": "220276096480976897",
+  "in_reply_to_user_id": 52811938,
+  "in_reply_to_user_id_str": "52811938",
+  "in_reply_to_screen_name": "FabianaMoreira_",
+  "user": {
+    "id": 353952627,
+    "id_str": "353952627",
+    "name": "Karol Belancieri",
+    "screen_name": "Karol_ZHeG",
+    "location": "",
+    "description": "Com o tempo agente aprende q pra ser feliz,precisamos gostar de si mesmo,a se cuidar,e principalmente gostar d qm gosta da gente! Fã de ZHeG ",
+    "url": "https://www.facebook.com/groups/214988291957517/?notif_t=group_r2j",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://www.facebook.com/groups/214988291957517/?notif_t=group_r2j",
+            "expanded_url": null,
+            "indices": [
+              0,
+              66
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 259,
+    "friends_count": 442,
+    "listed_count": 0,
+    "created_at": "Fri Aug 12 22:15:32 +0000 2011",
+    "favourites_count": 55,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7788,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "CC33CC",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/771120285/8a541b6c166a65d25be5d08549fd34ca.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/771120285/8a541b6c166a65d25be5d08549fd34ca.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3160619358/d4df3beae595fbd434d8cc3757ca55dd_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3160619358/d4df3beae595fbd434d8cc3757ca55dd_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/353952627/1348416895",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "9966CC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          36,
+          40
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UthDXLuU",
+        "expanded_url": "http://instagr.am/p/MonTU6JHKD/",
+        "display_url": "instagr.am/p/MonTU6JHKD/",
+        "indices": [
+          84,
+          104
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "FabianaMoreira_",
+        "name": "Fabiana Moreira",
+        "id": 52811938,
+        "id_str": "52811938",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "Karol_ZHeG",
+        "name": "Karol Belancieri",
+        "id": 353952627,
+        "id_str": "353952627",
+        "indices": [
+          64,
+          75
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,128 @@
+{
+  "created_at": "Mon Jul 02 03:21:10 +0000 2012",
+  "id": 219631774337216513,
+  "id_str": "219631774337216513",
+  "text": "Shout out to Angelique #UVA Alum in the Mickey D's Commercial during the BET awards!",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 222123017,
+    "id_str": "222123017",
+    "name": "Brandon",
+    "screen_name": "Brandon_C_Lee",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 317,
+    "friends_count": 1311,
+    "listed_count": 0,
+    "created_at": "Thu Dec 02 14:41:23 +0000 2010",
+    "favourites_count": 224,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2076,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3186893289/f3f7d8abfecd71b40da02395208caa61_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3186893289/f3f7d8abfecd71b40da02395208caa61_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.06865923,
+      -78.49590286
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.49590286,
+      38.06865923
+    ]
+  },
+  "place": {
+    "id": "e56d20873bae2b13",
+    "url": "https://api.twitter.com/1.1/geo/id/e56d20873bae2b13.json",
+    "place_type": "city",
+    "name": "Rio",
+    "full_name": "Rio, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.517217,
+            38.061895
+          ],
+          [
+            -78.442982,
+            38.061895
+          ],
+          [
+            -78.442982,
+            38.15031
+          ],
+          [
+            -78.517217,
+            38.15031
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          23,
+          27
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

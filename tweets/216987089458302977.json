@@ -1,0 +1,152 @@
+{
+  "created_at": "Sun Jun 24 20:12:08 +0000 2012",
+  "id": 216987089458302977,
+  "id_str": "216987089458302977",
+  "text": "Good overview of the U of #Virginia mess from HuffPo. #uva #highered http://t.co/LXdo6UJE",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Safari on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 38667821,
+    "id_str": "38667821",
+    "name": "Dave Purcell",
+    "screen_name": "davepurcell",
+    "location": "Kent, OH",
+    "description": "Sociology professor @ Kent State. Inequality, scholarship of teaching & learning, digital media, culture, & race. Advocate for students. Musician. Views=my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1651,
+    "friends_count": 1329,
+    "listed_count": 132,
+    "created_at": "Fri May 08 13:44:54 +0000 2009",
+    "favourites_count": 154,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7536,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2403653529/clj47wk5zkf1df1987ki_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2403653529/clj47wk5zkf1df1987ki_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/38667821/1358461030",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      41.155073,
+      -81.36671
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -81.36671,
+      41.155073
+    ]
+  },
+  "place": {
+    "id": "45a0ea3329c38f9f",
+    "url": "https://api.twitter.com/1.1/geo/id/45a0ea3329c38f9f.json",
+    "place_type": "city",
+    "name": "Kent",
+    "full_name": "Kent, OH",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.392454,
+            41.117646
+          ],
+          [
+            -81.324783,
+            41.117646
+          ],
+          [
+            -81.324783,
+            41.172413
+          ],
+          [
+            -81.392454,
+            41.172413
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Virginia",
+        "indices": [
+          26,
+          35
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          54,
+          58
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          59,
+          68
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/LXdo6UJE",
+        "expanded_url": "http://www.huffingtonpost.com/2012/06/24/uva-teresa-sullivan-ouster-_n_1619261.html",
+        "display_url": "huffingtonpost.com/2012/06/24/uva…",
+        "indices": [
+          69,
+          89
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

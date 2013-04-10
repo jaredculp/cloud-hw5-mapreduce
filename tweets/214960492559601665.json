@@ -1,0 +1,103 @@
+{
+  "created_at": "Tue Jun 19 05:59:09 +0000 2012",
+  "id": 214960492559601665,
+  "id_str": "214960492559601665",
+  "text": "Won't the #BOV have to take a nap eventually?  #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14457121,
+    "id_str": "14457121",
+    "name": "Rick_Sincere",
+    "screen_name": "Rick_Sincere",
+    "location": "Charlottesville, VA",
+    "description": "blogger, book reviewer, theatre critic, libertarian, Republican, political activist, election official, cofounder of Gays & Lesbians for Individual Liberty",
+    "url": "http://www.RickSincere.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.RickSincere.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1541,
+    "friends_count": 1997,
+    "listed_count": 79,
+    "created_at": "Mon Apr 21 01:45:20 +0000 2008",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 20408,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1710142710/Rick-Sincere-examiner_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1710142710/Rick-Sincere-examiner_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14457121/1349917866",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          10,
+          14
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

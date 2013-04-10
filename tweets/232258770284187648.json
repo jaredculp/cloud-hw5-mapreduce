@@ -1,0 +1,104 @@
+{
+  "created_at": "Sun Aug 05 23:36:20 +0000 2012",
+  "id": 232258770284187648,
+  "id_str": "232258770284187648",
+  "text": "Mañana primer dia en #UVA\ny no tengo ni idea de como le haré para dormirme temprano y levantarme temprano #ayudameDios",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 319773310,
+    "id_str": "319773310",
+    "name": "José Adrián Guerrero",
+    "screen_name": "JoseAdrianGT",
+    "location": "Monterrey, México",
+    "description": "Liverpool, Tigres y Seahawks.\r\nMis twits son sanos para tu autoestima. Con Dios y la Virgen María que me fortalecen.",
+    "url": "http://t.co/mA9amtfN",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/mA9amtfN",
+            "expanded_url": "http://www.facebook.com/joseadrian.guerrero",
+            "display_url": "facebook.com/joseadrian.gue…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 297,
+    "friends_count": 202,
+    "listed_count": 0,
+    "created_at": "Sat Jun 18 18:23:47 +0000 2011",
+    "favourites_count": 23,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4780,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/766556145/e99023842b5c8239f2990739c92dbd39.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/766556145/e99023842b5c8239f2990739c92dbd39.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3047467469/f80bec83ff8c944c06d98cf6bd3a8491_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3047467469/f80bec83ff8c944c06d98cf6bd3a8491_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/319773310/1356990486",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          21,
+          25
+        ]
+      },
+      {
+        "text": "ayudameDios",
+        "indices": [
+          106,
+          118
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

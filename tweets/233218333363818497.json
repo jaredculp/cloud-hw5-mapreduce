@@ -1,0 +1,127 @@
+{
+  "created_at": "Wed Aug 08 15:09:18 +0000 2012",
+  "id": 233218333363818497,
+  "id_str": "233218333363818497",
+  "text": "RT @CoachMikeLondon 31 UVA Football Players Honored for the Academic Honor Roll\nhttp://t.co/RzhfBqUw…\n#ACC #UVA #GoHoos » true dat",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 90543998,
+    "id_str": "90543998",
+    "name": "Ahmad Hawkins",
+    "screen_name": "Balhawk",
+    "location": "Charlottesville,Va",
+    "description": "Man of God.. Trying to be great each day and remain humble.. #757 #UVA",
+    "url": "http://www.allproscience.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.allproscience.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 312,
+    "friends_count": 439,
+    "listed_count": 7,
+    "created_at": "Tue Nov 17 02:24:40 +0000 2009",
+    "favourites_count": 45,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6110,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/576453542/kas393ylbkn2k4in822f.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/576453542/kas393ylbkn2k4in822f.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2563300431/93od5kc5fsf1y8jdf68m_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2563300431/93od5kc5fsf1y8jdf68m_normal.png",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ACC",
+        "indices": [
+          102,
+          106
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          107,
+          111
+        ]
+      },
+      {
+        "text": "GoHoos",
+        "indices": [
+          112,
+          119
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/RzhfBqUw",
+        "expanded_url": "http://theacc.com/genrel/080812a",
+        "display_url": "theacc.com/genrel/080812a",
+        "indices": [
+          80,
+          100
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CoachMikeLondon",
+        "name": "Mike London",
+        "id": 175767720,
+        "id_str": "175767720",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

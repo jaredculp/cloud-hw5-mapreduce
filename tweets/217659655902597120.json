@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue Jun 26 16:44:40 +0000 2012",
+  "id": 217659655902597120,
+  "id_str": "217659655902597120",
+  "text": "RT @TheUVAFool: 2012 NBA Draft Buzz: Is Mike Scott's Stock Rising? #UVA http://t.co/zAMqulaK http://t.co/gvKBxLFA",
+  "source": "<a href=\"http://friendfeed.com\" rel=\"nofollow\">FriendFeed</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 24719786,
+    "id_str": "24719786",
+    "name": "Robert Redd",
+    "screen_name": "RobertReddLLC",
+    "location": "Charlottesville, VA",
+    "description": "Robert Redd, LLC makes only the finest gentlemen's and boy's garments. Visit robertredd.com to start your adventure.",
+    "url": "http://www.robertredd.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.robertredd.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 51,
+    "friends_count": 0,
+    "listed_count": 1,
+    "created_at": "Mon Mar 16 16:29:27 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 650,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "A1100C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/5821631/DSC02135.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/5821631/DSC02135.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/97962882/tomato-tm-125-x-125_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/97962882/tomato-tm-125-x-125_normal.jpg",
+    "profile_link_color": "09090B",
+    "profile_sidebar_border_color": "9C1616",
+    "profile_sidebar_fill_color": "661516",
+    "profile_text_color": "111113",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zAMqulaK",
+        "expanded_url": "http://sbn.to/MPkL9p",
+        "display_url": "sbn.to/MPkL9p",
+        "indices": [
+          72,
+          92
+        ]
+      },
+      {
+        "url": "http://t.co/gvKBxLFA",
+        "expanded_url": "http://ff.im/ZtnyW",
+        "display_url": "ff.im/ZtnyW",
+        "indices": [
+          93,
+          113
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

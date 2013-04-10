@@ -1,0 +1,118 @@
+{
+  "created_at": "Wed Jun 20 13:03:22 +0000 2012",
+  "id": 215429636392353793,
+  "id_str": "215429636392353793",
+  "text": "@Insidehighered takes a look the \"email trail\" at #UVA.http://ow.ly/bHG83 #PR #marketing",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 16045268,
+  "in_reply_to_user_id_str": "16045268",
+  "in_reply_to_screen_name": "insidehighered",
+  "user": {
+    "id": 15256447,
+    "id_str": "15256447",
+    "name": "Christian Munson",
+    "screen_name": "munson_711",
+    "location": "Mid-Atlantic",
+    "description": "Marketing and public relations in RVA, Brewers fan, #1 Dad. ",
+    "url": "http://www.crt-tanaka.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.crt-tanaka.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 249,
+    "friends_count": 196,
+    "listed_count": 13,
+    "created_at": "Fri Jun 27 18:30:28 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 487,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/339955141/ric.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/339955141/ric.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/509529538/cmunson_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/509529538/cmunson_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          50,
+          54
+        ]
+      },
+      {
+        "text": "PR",
+        "indices": [
+          74,
+          77
+        ]
+      },
+      {
+        "text": "marketing",
+        "indices": [
+          78,
+          88
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "insidehighered",
+        "name": "Inside Higher Ed",
+        "id": 16045268,
+        "id_str": "16045268",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

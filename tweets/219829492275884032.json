@@ -1,0 +1,113 @@
+{
+  "created_at": "Mon Jul 02 16:26:49 +0000 2012",
+  "id": 219829492275884032,
+  "id_str": "219829492275884032",
+  "text": "Written before #UVA. Swear to god. RT @cronknews: University Celebrates New Fiscal Year w/ Annual Paradigm Shift http://t.co/yfo1SpFw",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 91744893,
+    "id_str": "91744893",
+    "name": "Leah Wescott",
+    "screen_name": "LeahWescott",
+    "location": "USA",
+    "description": "Underworked and overpaid editor-in-chief of the Cronk of Higher Education",
+    "url": "http://www.cronknews.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cronknews.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 574,
+    "friends_count": 140,
+    "listed_count": 76,
+    "created_at": "Sun Nov 22 07:28:49 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2457,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/538210993/leahphoto_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/538210993/leahphoto_normal.png",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          15,
+          19
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/yfo1SpFw",
+        "expanded_url": "http://bit.ly/MNPztR",
+        "display_url": "bit.ly/MNPztR",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CronkNews",
+        "name": "CronkNews",
+        "id": 44928151,
+        "id_str": "44928151",
+        "indices": [
+          38,
+          48
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

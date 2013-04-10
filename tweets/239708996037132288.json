@@ -1,0 +1,90 @@
+{
+  "created_at": "Sun Aug 26 13:00:52 +0000 2012",
+  "id": 239708996037132288,
+  "id_str": "239708996037132288",
+  "text": "Leaving a homesick kid at college is torture #uva #bummer",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 458068184,
+    "id_str": "458068184",
+    "name": "Carol F Sterrett",
+    "screen_name": "CarolFSterrett",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5,
+    "friends_count": 20,
+    "listed_count": 0,
+    "created_at": "Sun Jan 08 04:26:22 +0000 2012",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1740708674/carol_riverglen_4_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1740708674/carol_riverglen_4_normal.jpg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          45,
+          49
+        ]
+      },
+      {
+        "text": "bummer",
+        "indices": [
+          50,
+          57
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,112 @@
+{
+  "created_at": "Sun Jul 01 02:29:17 +0000 2012",
+  "id": 219256329842339842,
+  "id_str": "219256329842339842",
+  "text": ".@UVA  RT @anitakumar01 18 days of upheaval at #UVA http://t.co/JlCDbqnl… | Are you sure it's over?",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14855926,
+    "id_str": "14855926",
+    "name": "William McJunkin",
+    "screen_name": "willmcjunkin",
+    "location": "Greater Chicago",
+    "description": "Radical politics, ideology.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1150,
+    "friends_count": 1427,
+    "listed_count": 23,
+    "created_at": "Wed May 21 12:51:58 +0000 2008",
+    "favourites_count": 432,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10985,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/755534810/c3ad782dc4cdd004766b1c50ed5a3728.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/755534810/c3ad782dc4cdd004766b1c50ed5a3728.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/973050146/IMG_3309_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/973050146/IMG_3309_normal.JPG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14855926/1357879254",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/JlCDbqnl",
+        "expanded_url": "http://washingtonpost.com/local/educatio",
+        "display_url": "washingtonpost.com/local/educatio",
+        "indices": [
+          52,
+          72
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          1,
+          5
+        ]
+      },
+      {
+        "screen_name": "anitakumar01",
+        "name": "Anita Kumar",
+        "id": 48581849,
+        "id_str": "48581849",
+        "indices": [
+          10,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

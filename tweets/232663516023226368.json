@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Aug 07 02:24:39 +0000 2012",
+  "id": 232663516023226368,
+  "id_str": "232663516023226368",
+  "text": "RT @SeanDKennedy: Alabama transfer Phillip Sims worked with #UVA's 2nd team during practice Monday http://t.co/SrvnswEt #ACC #757",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26403610,
+    "id_str": "26403610",
+    "name": "Michael Felder",
+    "screen_name": "InTheBleachers",
+    "location": "ÜT: 35.123104,-80.98361",
+    "description": "Writing CFB @BleacherReport Award Winning Blog & Podcast. Sarcasm. TV junky. Scribbling about football. I'm your favorite tweeters' favorite tweeter.",
+    "url": "http://inthebleachers.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://inthebleachers.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 8000,
+    "friends_count": 1373,
+    "listed_count": 442,
+    "created_at": "Wed Mar 25 02:24:52 +0000 2009",
+    "favourites_count": 261,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 238236,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/61159134/ITB.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/61159134/ITB.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3148786649/048ad5207f62599b5e829672104b77c9_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3148786649/048ad5207f62599b5e829672104b77c9_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          60,
+          64
+        ]
+      },
+      {
+        "text": "ACC",
+        "indices": [
+          120,
+          124
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/SrvnswEt",
+        "expanded_url": "http://is.gd/GbnqVK",
+        "display_url": "is.gd/GbnqVK",
+        "indices": [
+          99,
+          119
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SeanDKennedy",
+        "name": "Sean Kennedy",
+        "id": 23973051,
+        "id_str": "23973051",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

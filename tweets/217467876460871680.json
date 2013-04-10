@@ -1,0 +1,91 @@
+{
+  "created_at": "Tue Jun 26 04:02:36 +0000 2012",
+  "id": 217467876460871680,
+  "id_str": "217467876460871680",
+  "text": "Matt McLean you deff made #uva proud #wahoowa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 256868631,
+    "id_str": "256868631",
+    "name": "Pamela Pack",
+    "screen_name": "pammcaakes",
+    "location": "Charlottesville, VA",
+    "description": "rawrr",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 197,
+    "friends_count": 284,
+    "listed_count": 3,
+    "created_at": "Thu Feb 24 06:57:07 +0000 2011",
+    "favourites_count": 19,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 844,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1253085161/Photo_on_2010-09-05_at_15.54__2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1253085161/Photo_on_2010-09-05_at_15.54__2_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/256868631/1357097789",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          26,
+          30
+        ]
+      },
+      {
+        "text": "wahoowa",
+        "indices": [
+          37,
+          45
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

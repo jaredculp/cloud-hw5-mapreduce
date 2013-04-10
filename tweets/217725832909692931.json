@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Jun 26 21:07:38 +0000 2012",
+  "id": 217725832909692931,
+  "id_str": "217725832909692931",
+  "text": "@danrmorrison Did you see @sivavaid's post about UVA's edtech history? http://t.co/uPxoVBzw",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217702607114874881,
+  "in_reply_to_status_id_str": "217702607114874881",
+  "in_reply_to_user_id": 177715099,
+  "in_reply_to_user_id_str": "177715099",
+  "in_reply_to_screen_name": "danrmorrison",
+  "user": {
+    "id": 13132932,
+    "id_str": "13132932",
+    "name": "Derek Bruff",
+    "screen_name": "derekbruff",
+    "location": "Nashville, Tennessee",
+    "description": "Instructional Developer, Educational Technologist, Mathematics Educator",
+    "url": "http://derekbruff.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://derekbruff.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2708,
+    "friends_count": 1188,
+    "listed_count": 274,
+    "created_at": "Wed Feb 06 02:55:41 +0000 2008",
+    "favourites_count": 222,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 17485,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/78982192/nvlastgreengrass.br.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/78982192/nvlastgreengrass.br.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3046946267/1da713c04eed12e70325b449efc19eb8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3046946267/1da713c04eed12e70325b449efc19eb8_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/13132932/1353301070",
+    "profile_link_color": "3CB904",
+    "profile_sidebar_border_color": "164700",
+    "profile_sidebar_fill_color": "255211",
+    "profile_text_color": "979595",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/uPxoVBzw",
+        "expanded_url": "http://chronicle.com/blogs/innovations/the-right-way-to-lead-higher-education-through-the-digital-age/33031",
+        "display_url": "chronicle.com/blogs/innovati…",
+        "indices": [
+          71,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "danrmorrison",
+        "name": "Daniel Ray Morrison",
+        "id": 177715099,
+        "id_str": "177715099",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          26,
+          35
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

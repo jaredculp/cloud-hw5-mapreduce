@@ -1,0 +1,97 @@
+{
+  "created_at": "Tue Jun 26 20:05:48 +0000 2012",
+  "id": 217710271333023745,
+  "id_str": "217710271333023745",
+  "text": "Now *that's* strategic dynamism! I think! #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26951743,
+    "id_str": "26951743",
+    "name": "Seth Masket",
+    "screen_name": "smotus",
+    "location": "Denver, CO, USA",
+    "description": "I study, observe, and occasionally participate in politics. I make pretty decent cookies, too.",
+    "url": "http://t.co/IiKdUMPR",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/IiKdUMPR",
+            "expanded_url": "http://mischiefsoffaction.blogspot.com",
+            "display_url": "mischiefsoffaction.blogspot.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1775,
+    "friends_count": 818,
+    "listed_count": 114,
+    "created_at": "Fri Mar 27 04:42:54 +0000 2009",
+    "favourites_count": 129,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5482,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/109419728/Hassam_avenue.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/109419728/Hassam_avenue.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/235298724/Masket_stamp_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/235298724/Masket_stamp_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/26951743/1358038707",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

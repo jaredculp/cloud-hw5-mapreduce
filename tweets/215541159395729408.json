@@ -1,0 +1,220 @@
+{
+  "created_at": "Wed Jun 20 20:26:31 +0000 2012",
+  "id": 215541159395729408,
+  "id_str": "215541159395729408",
+  "text": "RT @chronicle: Complete coverage of #Uva and #Sullivan, all in one place: http://t.co/gNq8O9Bs",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15136874,
+    "id_str": "15136874",
+    "name": "Songbird_Hollow",
+    "screen_name": "Songbird_Hollow",
+    "location": "Gordonsville, VA",
+    "description": "My name is Regina. I like animals, the beach, Disney parks, books, kayaking, and Pimms. IRL I am a molecular biologist. Whoopee.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 128,
+    "friends_count": 350,
+    "listed_count": 4,
+    "created_at": "Mon Jun 16 18:19:02 +0000 2008",
+    "favourites_count": 98,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2472,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2933724877/14b855ab5f4f977a9d902e9f19d7faae_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2933724877/14b855ab5f4f977a9d902e9f19d7faae_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/15136874/1355081659",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jun 20 20:09:06 +0000 2012",
+    "id": 215536777186906112,
+    "id_str": "215536777186906112",
+    "text": "Complete coverage of #Uva and #Sullivan, all in one place: http://t.co/gNq8O9Bs",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 12413032,
+      "id_str": "12413032",
+      "name": "Chronicle",
+      "screen_name": "chronicle",
+      "location": "Washington, DC",
+      "description": "The leading news source for higher education.",
+      "url": "http://chronicle.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://chronicle.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 62005,
+      "friends_count": 1093,
+      "listed_count": 3873,
+      "created_at": "Fri Jan 18 20:17:44 +0000 2008",
+      "favourites_count": 2,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 10188,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "D6DBDE",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/107817286/us-bgd.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/107817286/us-bgd.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2263651251/che_twitter_053012_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2263651251/che_twitter_053012_normal.png",
+      "profile_link_color": "005BB3",
+      "profile_sidebar_border_color": "272828",
+      "profile_sidebar_fill_color": "B9CCD7",
+      "profile_text_color": "272828",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 9,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Uva",
+          "indices": [
+            21,
+            25
+          ]
+        },
+        {
+          "text": "Sullivan",
+          "indices": [
+            30,
+            39
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/gNq8O9Bs",
+          "expanded_url": "http://chroni.cl/LgmJ6D",
+          "display_url": "chroni.cl/LgmJ6D",
+          "indices": [
+            59,
+            79
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  "retweet_count": 9,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          36,
+          40
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          45,
+          54
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/gNq8O9Bs",
+        "expanded_url": "http://chroni.cl/LgmJ6D",
+        "display_url": "chroni.cl/LgmJ6D",
+        "indices": [
+          74,
+          94
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

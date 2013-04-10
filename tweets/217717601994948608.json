@@ -1,0 +1,206 @@
+{
+  "created_at": "Tue Jun 26 20:34:55 +0000 2012",
+  "id": 217717601994948608,
+  "id_str": "217717601994948608",
+  "text": "RT @dvprice: @tmg7d Enjoy the buzz now.  The hangover is going to be a monster.  #uva.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 42775953,
+    "id_str": "42775953",
+    "name": "makowrites",
+    "screen_name": "makowrites",
+    "location": "Middle-of-Nowhere",
+    "description": "Inspired by Ayn Rand, Gerhard Richter, Pet Shop Boys and Yoko Ono. Find me listening to Erasure or trance, wearing all black, sippin on coffee and writing.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 136,
+    "friends_count": 557,
+    "listed_count": 5,
+    "created_at": "Wed May 27 01:05:28 +0000 2009",
+    "favourites_count": 19,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 590,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/330964638/Richter_Abstract.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/330964638/Richter_Abstract.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2499257729/2bv2z569jufl1hevygye_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2499257729/2bv2z569jufl1hevygye_normal.jpeg",
+    "profile_link_color": "568BB3",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "AEB312",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 26 20:33:51 +0000 2012",
+    "id": 217717331420381186,
+    "id_str": "217717331420381186",
+    "text": "@tmg7d Enjoy the buzz now.  The hangover is going to be a monster.  #uva.",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": 217716762861502464,
+    "in_reply_to_status_id_str": "217716762861502464",
+    "in_reply_to_user_id": 486202359,
+    "in_reply_to_user_id_str": "486202359",
+    "in_reply_to_screen_name": "tmg7d",
+    "user": {
+      "id": 19867434,
+      "id_str": "19867434",
+      "name": "David Price",
+      "screen_name": "dvprice",
+      "location": "Castle Rock, CO",
+      "description": "Consultant serving non-profits, soccer coach, tennis player.",
+      "url": "http://www.dvpriceco.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.dvpriceco.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                24
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 200,
+      "friends_count": 140,
+      "listed_count": 0,
+      "created_at": "Sun Feb 01 17:37:35 +0000 2009",
+      "favourites_count": 0,
+      "utc_offset": -25200,
+      "time_zone": "Mountain Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 531,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1285000700/DVPrice-Twitter-2_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1285000700/DVPrice-Twitter-2_normal.jpg",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "65B0DA",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "uva",
+          "indices": [
+            68,
+            72
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tmg7d",
+          "name": "Tess Goodman",
+          "id": 486202359,
+          "id_str": "486202359",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          81,
+          85
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dvprice",
+        "name": "David Price",
+        "id": 19867434,
+        "id_str": "19867434",
+        "indices": [
+          3,
+          11
+        ]
+      },
+      {
+        "screen_name": "tmg7d",
+        "name": "Tess Goodman",
+        "id": 486202359,
+        "id_str": "486202359",
+        "indices": [
+          13,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

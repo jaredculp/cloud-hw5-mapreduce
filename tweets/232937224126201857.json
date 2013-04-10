@@ -1,0 +1,141 @@
+{
+  "created_at": "Tue Aug 07 20:32:16 +0000 2012",
+  "id": 232937224126201857,
+  "id_str": "232937224126201857",
+  "text": "College Spun: Recruit Zach Bradshaw Flips From Penn State To UVA http://t.co/z20d7pMI #uva #wahoos @theuvafool @virginiasports @uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 211617691,
+    "id_str": "211617691",
+    "name": "College Spun",
+    "screen_name": "CollegeSpun",
+    "location": "",
+    "description": "Social. Local. Consumable. College Sports.",
+    "url": "http://www.collegespun.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.collegespun.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1082,
+    "friends_count": 1847,
+    "listed_count": 15,
+    "created_at": "Wed Nov 03 19:31:39 +0000 2010",
+    "favourites_count": 17,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7508,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1730454978/CSsquarelogo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1730454978/CSsquarelogo_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/211617691/1356661516",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          86,
+          90
+        ]
+      },
+      {
+        "text": "wahoos",
+        "indices": [
+          91,
+          98
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/z20d7pMI",
+        "expanded_url": "http://bit.ly/NhMuRk",
+        "display_url": "bit.ly/NhMuRk",
+        "indices": [
+          65,
+          85
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          99,
+          110
+        ]
+      },
+      {
+        "screen_name": "VirginiaSports",
+        "name": "Virginia Cavaliers",
+        "id": 44257374,
+        "id_str": "44257374",
+        "indices": [
+          111,
+          126
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          127,
+          131
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

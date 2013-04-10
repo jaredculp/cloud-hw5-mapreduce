@@ -1,0 +1,101 @@
+{
+  "created_at": "Sat Aug 11 00:32:23 +0000 2012",
+  "id": 234084814033149952,
+  "id_str": "234084814033149952",
+  "text": "SUCOOOOO DE #UVA  :$$'  aaaaan' -'",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 343739365,
+    "id_str": "343739365",
+    "name": "Fabis ",
+    "screen_name": "CristinaFabiele",
+    "location": "",
+    "description": "https://t.co/ammSa6Xw\r\nhttp://t.co/XqotkH45",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/ammSa6Xw",
+            "expanded_url": "https://www.facebook.com/fabiele.cristine.1",
+            "display_url": "facebook.com/fabiele.cristi…",
+            "indices": [
+              0,
+              21
+            ]
+          },
+          {
+            "url": "http://t.co/XqotkH45",
+            "expanded_url": "http://ask.fm/CristinaFabiele",
+            "display_url": "ask.fm/CristinaFabiele",
+            "indices": [
+              23,
+              43
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 246,
+    "friends_count": 129,
+    "listed_count": 0,
+    "created_at": "Thu Jul 28 00:44:32 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -7200,
+    "time_zone": "Mid-Atlantic",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10561,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/768820634/2a38b756fec46a60c14d5e0e7aa9b875.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/768820634/2a38b756fec46a60c14d5e0e7aa9b875.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3197704913/7de7c1106b179007a324b0fc371c0959_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3197704913/7de7c1106b179007a324b0fc371c0959_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/343739365/1358701116",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          12,
+          16
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

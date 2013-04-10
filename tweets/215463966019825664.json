@@ -1,0 +1,117 @@
+{
+  "created_at": "Wed Jun 20 15:19:47 +0000 2012",
+  "id": 215463966019825664,
+  "id_str": "215463966019825664",
+  "text": "@sivavaid @csoghoian ::) hadn't heard the term... thought maybe it's the malware equivalent of a drone (human-in-the-loop malware?)",
+  "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215461721991680001,
+  "in_reply_to_status_id_str": "215461721991680001",
+  "in_reply_to_user_id": 20406724,
+  "in_reply_to_user_id_str": "20406724",
+  "in_reply_to_screen_name": "sivavaid",
+  "user": {
+    "id": 22186723,
+    "id_str": "22186723",
+    "name": "Joseph Lorenzo Hall",
+    "screen_name": "JoeBeOne",
+    "location": "Washington, DC USA",
+    "description": "CDT senior staff technologist; privacy, security, law, tech [https://t.co/o1YYVoPo]",
+    "url": "https://josephhall.org/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://josephhall.org/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/o1YYVoPo",
+            "expanded_url": "https://www.cdt.org",
+            "display_url": "cdt.org",
+            "indices": [
+              61,
+              82
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 883,
+    "friends_count": 600,
+    "listed_count": 52,
+    "created_at": "Fri Feb 27 20:37:11 +0000 2009",
+    "favourites_count": 11336,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 17769,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/138646039/licorne_1-2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/138646039/licorne_1-2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3190312000/49b9824b7d372b5fa7d08e8cfe83baf0_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3190312000/49b9824b7d372b5fa7d08e8cfe83baf0_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/22186723/1347984562",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "csoghoian",
+        "name": "Christopher Soghoian",
+        "id": 14669471,
+        "id_str": "14669471",
+        "indices": [
+          10,
+          20
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,123 @@
+{
+  "created_at": "Tue Aug 28 18:01:54 +0000 2012",
+  "id": 240509521338966016,
+  "id_str": "240509521338966016",
+  "text": "Best features of my room.  #UVA http://t.co/LVtSbaml",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 467836833,
+    "id_str": "467836833",
+    "name": "Makayla",
+    "screen_name": "Makaylaa_23",
+    "location": "Orange County(:",
+    "description": "D.M.[V]. #TeamBasketball #TeamUVA #TeamGiants #TeamHawks #Athlete #BallsLife #TeamMikeScott #TeamHudinii #TeamTaken @Theginger9898 ~1/26/13~",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 379,
+    "friends_count": 365,
+    "listed_count": 0,
+    "created_at": "Wed Jan 18 22:13:11 +0000 2012",
+    "favourites_count": 702,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3980,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/775166675/147ae66101d390f89b9010782c6f5639.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/775166675/147ae66101d390f89b9010782c6f5639.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3195569936/f937d582471ba1868fbdc74c27f63649_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3195569936/f937d582471ba1868fbdc74c27f63649_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/467836833/1359322201",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          27,
+          31
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 240509521343160320,
+        "id_str": "240509521343160320",
+        "indices": [
+          32,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/A1Z2IqjCIAAVyX_.png",
+        "media_url_https": "https://pbs.twimg.com/media/A1Z2IqjCIAAVyX_.png",
+        "url": "http://t.co/LVtSbaml",
+        "display_url": "pic.twitter.com/LVtSbaml",
+        "expanded_url": "http://twitter.com/Makaylaa_23/status/240509521338966016/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 675,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 340,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true
+}

@@ -1,0 +1,209 @@
+{
+  "created_at": "Mon Jun 25 15:38:35 +0000 2012",
+  "id": 217280635667095552,
+  "id_str": "217280635667095552",
+  "text": "RT @jcordell: @sivavaid Attempted Murdoch #UVA #WSJ",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 369291793,
+    "id_str": "369291793",
+    "name": "Marianne Montgomery",
+    "screen_name": "DrMMontgomery",
+    "location": "Greenville, NC",
+    "description": "Shakespearean, ECU professor, academic advisor, UVa PhD, knitter, bicyclist.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 80,
+    "friends_count": 95,
+    "listed_count": 3,
+    "created_at": "Wed Sep 07 03:12:26 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 824,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1532391453/profile_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1532391453/profile_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Jun 25 14:38:40 +0000 2012",
+    "id": 217265557832089600,
+    "id_str": "217265557832089600",
+    "text": "@sivavaid Attempted Murdoch #UVA #WSJ",
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 217249527462236161,
+    "in_reply_to_status_id_str": "217249527462236161",
+    "in_reply_to_user_id": 20406724,
+    "in_reply_to_user_id_str": "20406724",
+    "in_reply_to_screen_name": "sivavaid",
+    "user": {
+      "id": 181389160,
+      "id_str": "181389160",
+      "name": "Jeffrey Cordell",
+      "screen_name": "jcordell",
+      "location": "Ann Arbor and Alma (MI)",
+      "description": "My outpost in the digital hazarai. I teach in the English department at Alma College.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 32,
+      "friends_count": 205,
+      "listed_count": 3,
+      "created_at": "Sun Aug 22 02:21:36 +0000 2010",
+      "favourites_count": 76,
+      "utc_offset": -14400,
+      "time_zone": "Atlantic Time (Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 425,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1672382352/200px-NYP_LOC5_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1672382352/200px-NYP_LOC5_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/181389160/1359655889",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVA",
+          "indices": [
+            28,
+            32
+          ]
+        },
+        {
+          "text": "WSJ",
+          "indices": [
+            33,
+            37
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sivavaid",
+          "name": "Siva Vaidhyanathan",
+          "id": 20406724,
+          "id_str": "20406724",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          42,
+          46
+        ]
+      },
+      {
+        "text": "WSJ",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jcordell",
+        "name": "Jeffrey Cordell",
+        "id": 181389160,
+        "id_str": "181389160",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          14,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

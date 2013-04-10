@@ -1,0 +1,156 @@
+{
+  "created_at": "Tue Jun 26 23:24:57 +0000 2012",
+  "id": 217760386852720640,
+  "id_str": "217760386852720640",
+  "text": "For-profit education is just that, for-profit. #uva #victory #ows #occupy http://t.co/UvO5iHQH",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Photos on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 123949508,
+    "id_str": "123949508",
+    "name": "Ppl call me Lucifer",
+    "screen_name": "monkeyofdarknes",
+    "location": "I'm everywhere.",
+    "description": "I created the first toaster from old socks, bed springs and owl feet. My garbage man calls me a bad mo-fo and I got drunk once and punched my own testicles.",
+    "url": "http://monkeyofdarkness.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://monkeyofdarkness.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1002,
+    "friends_count": 398,
+    "listed_count": 37,
+    "created_at": "Wed Mar 17 19:00:35 +0000 2010",
+    "favourites_count": 50,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 57192,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2998738953/1c2b9b040052e803da692ecad996105b_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2998738953/1c2b9b040052e803da692ecad996105b_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/123949508/1350441631",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "victory",
+        "indices": [
+          52,
+          60
+        ]
+      },
+      {
+        "text": "ows",
+        "indices": [
+          61,
+          65
+        ]
+      },
+      {
+        "text": "occupy",
+        "indices": [
+          66,
+          73
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 217760386856914945,
+        "id_str": "217760386856914945",
+        "indices": [
+          74,
+          94
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwWj6wjCEAER5Wt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwWj6wjCEAER5Wt.jpg",
+        "url": "http://t.co/UvO5iHQH",
+        "display_url": "pic.twitter.com/UvO5iHQH",
+        "expanded_url": "http://twitter.com/monkeyofdarknes/status/217760386852720640/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 648,
+            "h": 484,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 254,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 448,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

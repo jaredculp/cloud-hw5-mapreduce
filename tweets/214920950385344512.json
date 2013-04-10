@@ -1,0 +1,93 @@
+{
+  "created_at": "Tue Jun 19 03:22:02 +0000 2012",
+  "id": 214920950385344512,
+  "id_str": "214920950385344512",
+  "text": "Really good piece in Slate explains what's going on with Terry #Sullivan at UVA http://t.co/Fy5GxwDv",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 37792456,
+    "id_str": "37792456",
+    "name": "Yugo Chavez",
+    "screen_name": "donnf",
+    "location": "Eastside, Detroit, MI",
+    "description": "You don't play by the rules, you can bang 'round here. - Blade Icewood",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 506,
+    "friends_count": 814,
+    "listed_count": 21,
+    "created_at": "Mon May 04 23:28:06 +0000 2009",
+    "favourites_count": 4684,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7514,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C8EAD3",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/552127892/book_rencen.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/552127892/book_rencen.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3148969448/5d18a3cdc1efa75df2cc9fa0b0f73fd2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3148969448/5d18a3cdc1efa75df2cc9fa0b0f73fd2_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/37792456/1354714888",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          63,
+          72
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Fy5GxwDv",
+        "expanded_url": "http://www.slate.com/articles/news_and_politics/hey_wait_a_minute/2012/06/teresa_sullivan_fired_from_uva_what_happens_when_universities_are_run_by_robber_barons_.single.html",
+        "display_url": "slate.com/articles/news_…",
+        "indices": [
+          80,
+          100
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Sun Aug 19 21:42:35 +0000 2012",
+  "id": 237303573275369473,
+  "id_str": "237303573275369473",
+  "text": "tomando #fanta #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 312912632,
+    "id_str": "312912632",
+    "name": "mozer",
+    "screen_name": "OwGabi",
+    "location": "Pato Branco ",
+    "description": "I'm the image of deception",
+    "url": "http://t.co/gsBaWqeU",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/gsBaWqeU",
+            "expanded_url": "http://haverapaznofinal.tumblr.com/",
+            "display_url": "haverapaznofinal.tumblr.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 699,
+    "friends_count": 130,
+    "listed_count": 22,
+    "created_at": "Tue Jun 07 21:24:34 +0000 2011",
+    "favourites_count": 1507,
+    "utc_offset": -14400,
+    "time_zone": "Santiago",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 59117,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F5F5",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/768139792/5ef5523ab52dd7fd90dfbd17215d24e6.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/768139792/5ef5523ab52dd7fd90dfbd17215d24e6.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3214153885/90e6795546892636f2b63798d732071d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3214153885/90e6795546892636f2b63798d732071d_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/312912632/1360121218",
+    "profile_link_color": "030303",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "605091",
+    "profile_text_color": "674871",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fanta",
+        "indices": [
+          8,
+          14
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          15,
+          19
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

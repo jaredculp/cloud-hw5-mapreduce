@@ -1,0 +1,105 @@
+{
+  "created_at": "Mon Jun 25 23:34:07 +0000 2012",
+  "id": 217400307431374849,
+  "id_str": "217400307431374849",
+  "text": "Can't make the BOV meeting at #UVa tomorrow? Stream it live @ http://t.co/WfECFn99 starting at 3pm.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 204324915,
+    "id_str": "204324915",
+    "name": "WUVA Online",
+    "screen_name": "WUVAonline",
+    "location": "Charlottesville, VA",
+    "description": "A Multimedia news site for the #UVa community. Completely student run site, the newest branch of WUVA Media. Check us out NOW!",
+    "url": "http://www.wuvaonline.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wuvaonline.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 502,
+    "friends_count": 651,
+    "listed_count": 21,
+    "created_at": "Mon Oct 18 13:07:49 +0000 2010",
+    "favourites_count": 24,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1789,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FD9B32",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/166134002/x17935018a13d0f0e054f8cf06d1345c.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/166134002/x17935018a13d0f0e054f8cf06d1345c.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2913417399/8068660e3a21ee6907b2944b883ecd76_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2913417399/8068660e3a21ee6907b2944b883ecd76_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/204324915/1354250695",
+    "profile_link_color": "C79049",
+    "profile_sidebar_border_color": "543823",
+    "profile_sidebar_fill_color": "031A61",
+    "profile_text_color": "F77A0D",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WfECFn99",
+        "expanded_url": "http://www.virginia.edu/bov/live/",
+        "display_url": "virginia.edu/bov/live/",
+        "indices": [
+          62,
+          82
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,123 @@
+{
+  "created_at": "Fri Jun 22 14:57:05 +0000 2012",
+  "id": 216183031487135744,
+  "id_str": "216183031487135744",
+  "text": "RT @fgbjr: @neilschlager Re: \"list of leaders in...business who majored in...classics\" Here's one: http://t.co/GtbC92AZ #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18819396,
+    "id_str": "18819396",
+    "name": "Neil Schlager",
+    "screen_name": "neilschlager",
+    "location": "Dallas, Texas",
+    "description": "Founder and President, Schlager Group / Milestone Documents. I blog about small business, publishing, and education.",
+    "url": "http://www.neilschlager.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.neilschlager.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 701,
+    "friends_count": 829,
+    "listed_count": 32,
+    "created_at": "Fri Jan 09 23:04:20 +0000 2009",
+    "favourites_count": 11,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1498,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/672254241/5245_ning_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/672254241/5245_ning_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          120,
+          124
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/GtbC92AZ",
+        "expanded_url": "http://bit.ly/Mon4CJ",
+        "display_url": "bit.ly/Mon4CJ",
+        "indices": [
+          99,
+          119
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "fgbjr",
+        "name": "Frank Bennett",
+        "id": 39157667,
+        "id_str": "39157667",
+        "indices": [
+          3,
+          9
+        ]
+      },
+      {
+        "screen_name": "neilschlager",
+        "name": "Neil Schlager",
+        "id": 18819396,
+        "id_str": "18819396",
+        "indices": [
+          11,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

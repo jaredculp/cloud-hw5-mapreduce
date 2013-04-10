@@ -1,0 +1,93 @@
+{
+  "created_at": "Mon Jul 02 18:00:52 +0000 2012",
+  "id": 219853160020320257,
+  "id_str": "219853160020320257",
+  "text": "@Pat_that he's going to take #UVA to the promise land",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 219852264687411200,
+  "in_reply_to_status_id_str": "219852264687411200",
+  "in_reply_to_user_id": 256783437,
+  "in_reply_to_user_id_str": "256783437",
+  "in_reply_to_screen_name": "Pat_that",
+  "user": {
+    "id": 146287972,
+    "id_str": "146287972",
+    "name": "Houston Wilson",
+    "screen_name": "HampOUSydTeniON",
+    "location": "seven five seven",
+    "description": "Hampden-Sydney Tennis",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 332,
+    "friends_count": 734,
+    "listed_count": 1,
+    "created_at": "Fri May 21 02:15:53 +0000 2010",
+    "favourites_count": 5,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8547,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/576931708/2eu2efemjstum6y6nfaf.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/576931708/2eu2efemjstum6y6nfaf.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2692475235/26d5bb32b7eef30985e25fbceaad5ed3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2692475235/26d5bb32b7eef30985e25fbceaad5ed3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/146287972/1356972936",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          29,
+          33
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Pat_that",
+        "name": "Unc",
+        "id": 256783437,
+        "id_str": "256783437",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

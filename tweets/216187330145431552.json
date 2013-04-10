@@ -1,0 +1,114 @@
+{
+  "created_at": "Fri Jun 22 15:14:10 +0000 2012",
+  "id": 216187330145431552,
+  "id_str": "216187330145431552",
+  "text": "@RandyRVA @anitakumar01 Leave it to Darden to have a branding guide. Also, bravo Anita on your work on the drama in Hooville! #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215824039929843712,
+  "in_reply_to_status_id_str": "215824039929843712",
+  "in_reply_to_user_id": 50682131,
+  "in_reply_to_user_id_str": "50682131",
+  "in_reply_to_screen_name": "RandyRVA",
+  "user": {
+    "id": 61573873,
+    "id_str": "61573873",
+    "name": "Dana Magliola",
+    "screen_name": "danamagliola",
+    "location": "Raleigh-wood",
+    "description": "I loathe bad grammar and people who end their sentences in prepositions. Tweets re: Sports, politics, whatnot... PR & media pro for Raleigh's @BaerPoint",
+    "url": "http://www.danamagliola.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.danamagliola.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 268,
+    "friends_count": 1209,
+    "listed_count": 10,
+    "created_at": "Thu Jul 30 19:23:26 +0000 2009",
+    "favourites_count": 15,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2659,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/345660261/n1515512_37758016_1669.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/345660261/n1515512_37758016_1669.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2591104907/g0lpc2k37jdep0jflns4_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2591104907/g0lpc2k37jdep0jflns4_normal.png",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          126,
+          130
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RandyRVA",
+        "name": "Randy",
+        "id": 50682131,
+        "id_str": "50682131",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "anitakumar01",
+        "name": "Anita Kumar",
+        "id": 48581849,
+        "id_str": "48581849",
+        "indices": [
+          10,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

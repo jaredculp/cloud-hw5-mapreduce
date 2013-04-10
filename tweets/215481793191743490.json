@@ -1,0 +1,124 @@
+{
+  "created_at": "Wed Jun 20 16:30:37 +0000 2012",
+  "id": 215481793191743490,
+  "id_str": "215481793191743490",
+  "text": "RT @zunguzungu: I've been watching this interview with @sivavaid on the #UVa fiasco while I eat my breakfast: http://t.co/C1Fcirib",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 37270491,
+    "id_str": "37270491",
+    "name": "Unionosity",
+    "screen_name": "unionosity",
+    "location": "Los Angeles",
+    "description": "Making a positive contribution to the discourse surrounding workplace-related quality of life issues. We are committed to doing better together.",
+    "url": "http://www.unionosity.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.unionosity.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 609,
+    "friends_count": 855,
+    "listed_count": 24,
+    "created_at": "Sat May 02 20:03:09 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3459,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/540053686/Unionosity_Twitter.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/540053686/Unionosity_Twitter.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2070664545/Bear_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2070664545/Bear_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/37270491/1349914700",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          72,
+          76
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/C1Fcirib",
+        "expanded_url": "http://www.youtube.com/watch?v=IDDENKTksOg&feature=youtu.be",
+        "display_url": "youtube.com/watch?v=IDDENK…",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "zunguzungu",
+        "name": "Aaron Bady",
+        "id": 47951511,
+        "id_str": "47951511",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          55,
+          64
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

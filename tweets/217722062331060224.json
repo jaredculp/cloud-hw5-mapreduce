@@ -1,0 +1,109 @@
+{
+  "created_at": "Tue Jun 26 20:52:39 +0000 2012",
+  "id": 217722062331060224,
+  "id_str": "217722062331060224",
+  "text": "Thank you #UVA ! #Sullivan #happiness",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 28512285,
+    "id_str": "28512285",
+    "name": "Edward Daniels",
+    "screen_name": "EdwardDaniels",
+    "location": "Washington, DC",
+    "description": "  Actor (AEA). DJ. Featured in upcoming Season 1 of Kevin Spacey's  #HouseofCards  UVA Grad. Producer: @MonologueMad Owner: @ScorpioDJs & @KaraokeDC #couponing",
+    "url": "http://www.edwarddaniels.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.edwarddaniels.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1225,
+    "friends_count": 1274,
+    "listed_count": 60,
+    "created_at": "Fri Apr 03 05:40:07 +0000 2009",
+    "favourites_count": 17,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7300,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/483400275/EdwardDanielsHeadshot2010.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/483400275/EdwardDanielsHeadshot2010.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1850502458/edward_and_baby_normal.jpg-large",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1850502458/edward_and_baby_normal.jpg-large",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          10,
+          14
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          17,
+          26
+        ]
+      },
+      {
+        "text": "happiness",
+        "indices": [
+          27,
+          37
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

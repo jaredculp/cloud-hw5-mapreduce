@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 19 19:35:40 +0000 2012",
+  "id": 215165973978824704,
+  "id_str": "215165973978824704",
+  "text": "For those following the events at #uva http://t.co/iN2nbTXA",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 222573400,
+    "id_str": "222573400",
+    "name": "Jason Soffer",
+    "screen_name": "JasonSoffer",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 43,
+    "friends_count": 73,
+    "listed_count": 1,
+    "created_at": "Fri Dec 03 20:25:19 +0000 2010",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 434,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2797722936/df6b0ccd963b671e0ea74215bbbbcccf_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2797722936/df6b0ccd963b671e0ea74215bbbbcccf_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/iN2nbTXA",
+        "expanded_url": "http://ow.ly/1NY8Eh",
+        "display_url": "ow.ly/1NY8Eh",
+        "indices": [
+          39,
+          59
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

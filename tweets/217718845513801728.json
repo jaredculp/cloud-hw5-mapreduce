@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Jun 26 20:39:52 +0000 2012",
+  "id": 217718845513801728,
+  "id_str": "217718845513801728",
+  "text": "#UVA has reinstated ousted president Teresa Sullivan after outcry from faculty and students @akkhan81 @citizen_khan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18313855,
+    "id_str": "18313855",
+    "name": "Abbie F. Swanson",
+    "screen_name": "dearabbie",
+    "location": "Columbia, Missouri",
+    "description": "Report on food, agriculture and energy for Harvest Public Media. Based at KBIA Radio.",
+    "url": "http://harvestpublicmedia.org/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://harvestpublicmedia.org/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 561,
+    "friends_count": 656,
+    "listed_count": 37,
+    "created_at": "Mon Dec 22 19:20:24 +0000 2008",
+    "favourites_count": 43,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1449,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1566450369/mugshot_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1566450369/mugshot_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "akkhan81",
+        "name": "Arsalan Khan",
+        "id": 177901107,
+        "id_str": "177901107",
+        "indices": [
+          92,
+          101
+        ]
+      },
+      {
+        "screen_name": "citizen_khan",
+        "name": "Mansoor Khan",
+        "id": 302242696,
+        "id_str": "302242696",
+        "indices": [
+          102,
+          115
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

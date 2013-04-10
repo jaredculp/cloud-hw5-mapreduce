@@ -1,0 +1,111 @@
+{
+  "created_at": "Fri Jun 29 20:20:07 +0000 2012",
+  "id": 218801038910701569,
+  "id_str": "218801038910701569",
+  "text": "This is not gonna end well MT @washingtonpost: @BobMcDonnell has reappointed Dragas to #UVA board for a 2nd 4-yr term http://t.co/ucA7krFP",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 116218365,
+    "id_str": "116218365",
+    "name": "Zachary Aronow",
+    "screen_name": "zaronow",
+    "location": "Washington DC",
+    "description": "Young professional figuring things out as I go",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 218,
+    "friends_count": 1404,
+    "listed_count": 13,
+    "created_at": "Sun Feb 21 16:37:34 +0000 2010",
+    "favourites_count": 19,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4145,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/671364540/6ae51f7881247df73140c5ca3f89c449.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/671364540/6ae51f7881247df73140c5ca3f89c449.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1762726532/9f9959ff-9826-4455-adec-3ea04f79de36_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1762726532/9f9959ff-9826-4455-adec-3ea04f79de36_normal.png",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          87,
+          91
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ucA7krFP",
+        "expanded_url": "http://wapo.st/Lm35Sr",
+        "display_url": "wapo.st/Lm35Sr",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          30,
+          45
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          47,
+          60
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

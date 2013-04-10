@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Aug 21 02:44:50 +0000 2012",
+  "id": 237742026785955842,
+  "id_str": "237742026785955842",
+  "text": "@kaskade come to #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 18750157,
+  "in_reply_to_user_id_str": "18750157",
+  "in_reply_to_screen_name": "kaskade",
+  "user": {
+    "id": 271973258,
+    "id_str": "271973258",
+    "name": "Calle Brown",
+    "screen_name": "ellac_nworb",
+    "location": "Charlottesville, Virginia",
+    "description": "East Coast Chilling\r\n#DreamBig",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 207,
+    "friends_count": 234,
+    "listed_count": 1,
+    "created_at": "Fri Mar 25 15:14:24 +0000 2011",
+    "favourites_count": 262,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1461,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/638572066/5a3o6irpw1zmedk5tcay.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/638572066/5a3o6irpw1zmedk5tcay.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2747789367/f0d1f14836edba72ea79a23079f9483b_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2747789367/f0d1f14836edba72ea79a23079f9483b_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          17,
+          21
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kaskade",
+        "name": "Kaskade",
+        "id": 18750157,
+        "id_str": "18750157",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

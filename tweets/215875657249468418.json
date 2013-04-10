@@ -1,0 +1,128 @@
+{
+  "created_at": "Thu Jun 21 18:35:42 +0000 2012",
+  "id": 215875657249468418,
+  "id_str": "215875657249468418",
+  "text": "TJ is probably enjoying the hell out of the current situation at #UVA  http://t.co/VzVudKrl #sullivan #jefferson",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15291734,
+    "id_str": "15291734",
+    "name": "Heather Michon",
+    "screen_name": "heathermichon",
+    "location": "Charlottesville, VA",
+    "description": "Essayist, blogger, imbiber of trivia. More about me at http://t.co/maZUfBZT  ",
+    "url": "http://t.co/maZUfBZT",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/maZUfBZT",
+            "expanded_url": "http://about.me/heathermichon",
+            "display_url": "about.me/heathermichon",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/maZUfBZT",
+            "expanded_url": "http://about.me/heathermichon",
+            "display_url": "about.me/heathermichon",
+            "indices": [
+              55,
+              75
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 226,
+    "friends_count": 326,
+    "listed_count": 17,
+    "created_at": "Tue Jul 01 20:40:27 +0000 2008",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1680,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/761980435/ba571cdef0acfab3aae75f2cfd661346.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/761980435/ba571cdef0acfab3aae75f2cfd661346.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/298893474/Montreal_011_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/298893474/Montreal_011_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/15291734/1358002832",
+    "profile_link_color": "B8C5C6",
+    "profile_sidebar_border_color": "4A66C1",
+    "profile_sidebar_fill_color": "0E0E0E",
+    "profile_text_color": "4A66C1",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          65,
+          69
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          92,
+          101
+        ]
+      },
+      {
+        "text": "jefferson",
+        "indices": [
+          102,
+          112
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/VzVudKrl",
+        "expanded_url": "http://goo.gl/QQRl6",
+        "display_url": "goo.gl/QQRl6",
+        "indices": [
+          71,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

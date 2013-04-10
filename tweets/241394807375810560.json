@@ -1,0 +1,84 @@
+{
+  "created_at": "Fri Aug 31 04:39:41 +0000 2012",
+  "id": 241394807375810560,
+  "id_str": "241394807375810560",
+  "text": "I have the best of friends. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 630283636,
+    "id_str": "630283636",
+    "name": "Allison Marx",
+    "screen_name": "akmarxxx",
+    "location": "",
+    "description": "University of Virginia\r\n2015",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 75,
+    "friends_count": 265,
+    "listed_count": 0,
+    "created_at": "Sun Jul 08 15:06:10 +0000 2012",
+    "favourites_count": 97,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 489,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/748894957/de3937d7bf707ae971b0e33c98f4f1b8.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/748894957/de3937d7bf707ae971b0e33c98f4f1b8.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3029321131/1052f601ba9e332074be7c79d7a2ecd4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3029321131/1052f601ba9e332074be7c79d7a2ecd4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/630283636/1356632121",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

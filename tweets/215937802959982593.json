@@ -1,0 +1,111 @@
+{
+  "created_at": "Thu Jun 21 22:42:38 +0000 2012",
+  "id": 215937802959982593,
+  "id_str": "215937802959982593",
+  "text": "RT @CVilleKim: #Sullivan's statement shows the class &amp; dignity for which she has earned respect of all at #UVA &amp; CVille over past 2 years",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 110774004,
+    "id_str": "110774004",
+    "name": "Jane B Kulow",
+    "screen_name": "CvlKulow",
+    "location": "Charlottesville",
+    "description": "Wife to one, parent to three; advocate for schools, books, and libraries; Red Sox fan; reader. Blogging about college search; teens are so glad.",
+    "url": "http://drstrangecollege.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://drstrangecollege.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 832,
+    "friends_count": 1046,
+    "listed_count": 55,
+    "created_at": "Tue Feb 02 18:44:03 +0000 2010",
+    "favourites_count": 70,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5808,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2482676150/i2hdysbqpnpbbpot8vb4_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2482676150/i2hdysbqpnpbbpot8vb4_normal.png",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          15,
+          24
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          110,
+          114
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CVilleKim",
+        "name": "Kim Connolly",
+        "id": 90936644,
+        "id_str": "90936644",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

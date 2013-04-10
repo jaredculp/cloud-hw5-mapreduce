@@ -1,0 +1,143 @@
+{
+  "created_at": "Mon Jun 25 20:42:34 +0000 2012",
+  "id": 217357135363833857,
+  "id_str": "217357135363833857",
+  "text": "RT @cavalierdaily: .@WSJ editorial about #UVA correctd follwing @Bob_Bruner's critical blog pst http://t.co/X8nLJikx /via @waldojaquith",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 43965412,
+    "id_str": "43965412",
+    "name": "Mark Brooks",
+    "screen_name": "MarkBrooksVA",
+    "location": "Virginia",
+    "description": "Retired Land Surveyor, part-time farmer, USN veteran, political & a Democrat. Truth teller, soothsayer. Live in your own soap opera, I already have one.",
+    "url": "http://blog.vivianpaige.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://blog.vivianpaige.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1056,
+    "friends_count": 642,
+    "listed_count": 82,
+    "created_at": "Mon Jun 01 20:31:50 +0000 2009",
+    "favourites_count": 52,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 45799,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2440386979/ylz2obmwbvzhgxe9sfbl_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2440386979/ylz2obmwbvzhgxe9sfbl_normal.jpeg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          41,
+          45
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/X8nLJikx",
+        "expanded_url": "http://on.wsj.com/Q4ZNFZ",
+        "display_url": "on.wsj.com/Q4ZNFZ",
+        "indices": [
+          96,
+          116
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          3,
+          17
+        ]
+      },
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          20,
+          24
+        ]
+      },
+      {
+        "screen_name": "Bob_Bruner",
+        "name": "Bob_Bruner",
+        "id": 15407235,
+        "id_str": "15407235",
+        "indices": [
+          64,
+          75
+        ]
+      },
+      {
+        "screen_name": "waldojaquith",
+        "name": "Waldo Jaquith",
+        "id": 206283535,
+        "id_str": "206283535",
+        "indices": [
+          122,
+          135
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

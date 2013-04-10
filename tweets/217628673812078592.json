@@ -1,0 +1,209 @@
+{
+  "created_at": "Tue Jun 26 14:41:33 +0000 2012",
+  "id": 217628673812078592,
+  "id_str": "217628673812078592",
+  "text": "@SkinCeuticals SPF featured @InStyle get yours @GablesMedSpa #CoralGables #protect #prevent #skin #SPF #UVA #UVB @WomensHealthMag",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 132543891,
+  "in_reply_to_user_id_str": "132543891",
+  "in_reply_to_screen_name": "SkinCeuticals",
+  "user": {
+    "id": 611785796,
+    "id_str": "611785796",
+    "name": "Gables Medical Spa",
+    "screen_name": "GablesMedSpa",
+    "location": "Coral Gables, FL 33134",
+    "description": "Health & wellness facility located in Miami FL. Massages, facials, body contouring, personal training and more! Everything to get you looking and feeling great!",
+    "url": "http://gablesmedicalspa.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://gablesmedicalspa.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 195,
+    "friends_count": 675,
+    "listed_count": 4,
+    "created_at": "Mon Jun 18 16:01:50 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 110,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2319648445/Body-Wrap-Image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2319648445/Body-Wrap-Image_normal.jpg",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "778af41ffb719450",
+    "url": "https://api.twitter.com/1.1/geo/id/778af41ffb719450.json",
+    "place_type": "city",
+    "name": "Coral Gables",
+    "full_name": "Coral Gables, FL",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -80.297138,
+            25.609988
+          ],
+          [
+            -80.195626,
+            25.609988
+          ],
+          [
+            -80.195626,
+            25.771853
+          ],
+          [
+            -80.297138,
+            25.771853
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "CoralGables",
+        "indices": [
+          61,
+          73
+        ]
+      },
+      {
+        "text": "protect",
+        "indices": [
+          74,
+          82
+        ]
+      },
+      {
+        "text": "prevent",
+        "indices": [
+          83,
+          91
+        ]
+      },
+      {
+        "text": "skin",
+        "indices": [
+          92,
+          97
+        ]
+      },
+      {
+        "text": "SPF",
+        "indices": [
+          98,
+          102
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          103,
+          107
+        ]
+      },
+      {
+        "text": "UVB",
+        "indices": [
+          108,
+          112
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SkinCeuticals",
+        "name": "SkinCeuticals",
+        "id": 132543891,
+        "id_str": "132543891",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "InStyle",
+        "name": "InStyle",
+        "id": 14934818,
+        "id_str": "14934818",
+        "indices": [
+          28,
+          36
+        ]
+      },
+      {
+        "screen_name": "GablesMedSpa",
+        "name": "Gables Medical Spa",
+        "id": 611785796,
+        "id_str": "611785796",
+        "indices": [
+          47,
+          60
+        ]
+      },
+      {
+        "screen_name": "WomensHealthMag",
+        "name": "Women's Health Mag",
+        "id": 25087685,
+        "id_str": "25087685",
+        "indices": [
+          113,
+          129
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

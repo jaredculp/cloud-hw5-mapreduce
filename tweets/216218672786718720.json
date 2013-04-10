@@ -1,0 +1,112 @@
+{
+  "created_at": "Fri Jun 22 17:18:43 +0000 2012",
+  "id": 216218672786718720,
+  "id_str": "216218672786718720",
+  "text": "RT @mkirschenbaum: Johanna Drucker invokes values of *public* higher education to frame her plenary. #rbms12 #uva",
+  "source": "<a href=\"http://www.destroytwitter.com\" rel=\"nofollow\">DestroyTwitter</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3250841,
+    "id_str": "3250841",
+    "name": "Chris Boese",
+    "screen_name": "ChrisBoese",
+    "location": "Brooklyn, NY",
+    "description": "News junkie, social media researcher & Razorfish senior information architect. Opinions are my own or emerging from the hive mind.",
+    "url": "http://vizify.com/chris-boese",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://vizify.com/chris-boese",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2369,
+    "friends_count": 2311,
+    "listed_count": 174,
+    "created_at": "Mon Apr 02 21:09:14 +0000 2007",
+    "favourites_count": 6585,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 46480,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1768752446/MyMugSquare_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1768752446/MyMugSquare_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/3250841/1349408458",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "rbms12",
+        "indices": [
+          101,
+          108
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          109,
+          113
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mkirschenbaum",
+        "name": "Matthew Kirschenbaum",
+        "id": 13598262,
+        "id_str": "13598262",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

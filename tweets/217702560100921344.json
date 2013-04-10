@@ -1,0 +1,112 @@
+{
+  "created_at": "Tue Jun 26 19:35:09 +0000 2012",
+  "id": 217702560100921344,
+  "id_str": "217702560100921344",
+  "text": "Deafening applause coming from the #UVa livestream in @OxyCDLR #goodsound",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 7548622,
+    "id_str": "7548622",
+    "name": "Suzanne Scott",
+    "screen_name": "iheartfatapollo",
+    "location": "Echo Park",
+    "description": "Acafan, Mellon Digital Scholarship Postdoc at Occidental College, Doctor who can't heal people (but can recommend comic books)",
+    "url": "http://t.co/2iCCvrVq",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/2iCCvrVq",
+            "expanded_url": "http://www.suzanne-scott.com",
+            "display_url": "suzanne-scott.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 534,
+    "friends_count": 536,
+    "listed_count": 32,
+    "created_at": "Wed Jul 18 03:48:51 +0000 2007",
+    "favourites_count": 497,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3641,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/306020825/mike_mitchell_crazy_4_cult_4_show_poster.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/306020825/mike_mitchell_crazy_4_cult_4_show_poster.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2695971753/82a54fe1078d4fc6d9a7f1a7c6c4d828_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2695971753/82a54fe1078d4fc6d9a7f1a7c6c4d828_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          35,
+          39
+        ]
+      },
+      {
+        "text": "goodsound",
+        "indices": [
+          63,
+          73
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "OxyCDLR",
+        "name": "Occidental CDLR",
+        "id": 178050611,
+        "id_str": "178050611",
+        "indices": [
+          54,
+          62
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

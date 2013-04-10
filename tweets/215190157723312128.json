@@ -1,0 +1,121 @@
+{
+  "created_at": "Tue Jun 19 21:11:46 +0000 2012",
+  "id": 215190157723312128,
+  "id_str": "215190157723312128",
+  "text": "Heads are rolling RT @WTOP Second in command of #UVa board resigns to \"begin a needed healing process\" - http://t.co/vkGeDS7d #VA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 127291626,
+    "id_str": "127291626",
+    "name": "Chris Daley",
+    "screen_name": "ChrisDaley43",
+    "location": "Baltimore, Md.",
+    "description": "Working in PR managing business & partnership development. Originally from the 914 in NY, I now call MD home. Check out @MaroonPR to learn how we can help you.",
+    "url": "http://www.linkedin.com/in/chrisdaley43",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.linkedin.com/in/chrisdaley43",
+            "expanded_url": null,
+            "indices": [
+              0,
+              39
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 866,
+    "friends_count": 1317,
+    "listed_count": 33,
+    "created_at": "Sun Mar 28 18:35:31 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6123,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/299700776/Baltimoresmall21.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/299700776/Baltimoresmall21.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3198075333/baf550d6d0fb502bd81ea55258a70a35_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3198075333/baf550d6d0fb502bd81ea55258a70a35_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/127291626/1356834046",
+    "profile_link_color": "70010E",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E0E0E0",
+    "profile_text_color": "C70021",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          48,
+          52
+        ]
+      },
+      {
+        "text": "VA",
+        "indices": [
+          126,
+          129
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/vkGeDS7d",
+        "expanded_url": "http://bit.ly/MqOQvH",
+        "display_url": "bit.ly/MqOQvH",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WTOP",
+        "name": "WTOP ",
+        "id": 17906632,
+        "id_str": "17906632",
+        "indices": [
+          21,
+          26
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

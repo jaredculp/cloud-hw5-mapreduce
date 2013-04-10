@@ -1,0 +1,124 @@
+{
+  "created_at": "Thu Jun 21 03:23:17 +0000 2012",
+  "id": 215646041020710913,
+  "id_str": "215646041020710913",
+  "text": "RT @josephenderson: @CCedJWhite Some excellent satire here: The Declaration of Independence — #UVa Crooked Timber http://t.co/Z0HTUdKd",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 142070729,
+    "id_str": "142070729",
+    "name": "Julie White",
+    "screen_name": "CCedJWhite",
+    "location": "",
+    "description": "Community college educator and researcher, vegan foodie, sustainable living advocate. RT's are not endorsements.  Opinions are my own.",
+    "url": "http://t.co/Ld74EzWe",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/Ld74EzWe",
+            "expanded_url": "http://about.me/julieawhite",
+            "display_url": "about.me/julieawhite",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 298,
+    "friends_count": 393,
+    "listed_count": 33,
+    "created_at": "Sun May 09 21:41:25 +0000 2010",
+    "favourites_count": 7,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3354,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1693247578/head_shot_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1693247578/head_shot_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          94,
+          98
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Z0HTUdKd",
+        "expanded_url": "http://crookedtimber.org/2012/06/20/the-declaration-of-independence/",
+        "display_url": "crookedtimber.org/2012/06/20/the…",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "josephenderson",
+        "name": "Joseph A. Henderson",
+        "id": 215062854,
+        "id_str": "215062854",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "CCedJWhite",
+        "name": "Julie White",
+        "id": 142070729,
+        "id_str": "142070729",
+        "indices": [
+          20,
+          31
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

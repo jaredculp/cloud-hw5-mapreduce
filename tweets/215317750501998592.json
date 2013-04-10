@@ -1,0 +1,99 @@
+{
+  "created_at": "Wed Jun 20 05:38:46 +0000 2012",
+  "id": 215317750501998592,
+  "id_str": "215317750501998592",
+  "text": "Living in a 'battleground state' is no picnic. #uva #vagina. Richmond gets hit with most political ads IN THE COUNTRY. http://t.co/ka5n1SpK",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19437432,
+    "id_str": "19437432",
+    "name": "margot morshuis",
+    "screen_name": "mmcville",
+    "location": "Charlottesville, Virginia",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 36,
+    "friends_count": 145,
+    "listed_count": 1,
+    "created_at": "Sat Jan 24 08:46:44 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 955,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1582773439/margotfire_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1582773439/margotfire_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "vagina",
+        "indices": [
+          52,
+          59
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ka5n1SpK",
+        "expanded_url": "http://www.9news.com/news/article/273298/188/Colorado-awash-in-political-ads",
+        "display_url": "9news.com/news/article/2…",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

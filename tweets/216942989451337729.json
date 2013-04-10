@@ -1,0 +1,99 @@
+{
+  "created_at": "Sun Jun 24 17:16:53 +0000 2012",
+  "id": 216942989451337729,
+  "id_str": "216942989451337729",
+  "text": "RT @TheUVAFool I don't wear sunscreen because why would you ever want to block #UVA rays? #FunnyEveryTime",
+  "source": "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 23703117,
+    "id_str": "23703117",
+    "name": "Kevin S.",
+    "screen_name": "brohaps",
+    "location": "Fairfax ",
+    "description": "I tweet. alot. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 154,
+    "friends_count": 236,
+    "listed_count": 3,
+    "created_at": "Wed Mar 11 01:58:40 +0000 2009",
+    "favourites_count": 79,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5503,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/33844814/flow.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/33844814/flow.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1570520190/6168_1165725794387_1565160608_30687661_6055936_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1570520190/6168_1165725794387_1565160608_30687661_6055936_n_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          79,
+          83
+        ]
+      },
+      {
+        "text": "FunnyEveryTime",
+        "indices": [
+          90,
+          105
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

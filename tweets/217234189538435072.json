@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon Jun 25 12:34:01 +0000 2012",
+  "id": 217234189538435072,
+  "id_str": "217234189538435072",
+  "text": "This story at #UVA is turning out to be exactly what I suspected it would be about.\n\nhttp://t.co/GRxxX6nn",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16368491,
+    "id_str": "16368491",
+    "name": "Nora Fitzpatrick",
+    "screen_name": "nfitz10",
+    "location": "iPhone: 0.000000,0.000000",
+    "description": "Obama/Biden, Maddow, Olbermann, HuffPo, Perez (& RJS, GMS, RFS)",
+    "url": "http://planetnora.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://planetnora.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 98,
+    "friends_count": 189,
+    "listed_count": 1,
+    "created_at": "Fri Sep 19 19:25:34 +0000 2008",
+    "favourites_count": 24,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1526,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/445429865/twitterProfilePhoto_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/445429865/twitterProfilePhoto_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          14,
+          18
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/GRxxX6nn",
+        "expanded_url": "http://www.huffingtonpost.com/2012/06/24/uva-teresa-sullivan-ouster-_n_1619261.html",
+        "display_url": "huffingtonpost.com/2012/06/24/uva…",
+        "indices": [
+          85,
+          105
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

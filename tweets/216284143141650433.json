@@ -1,0 +1,113 @@
+{
+  "created_at": "Fri Jun 22 21:38:52 +0000 2012",
+  "id": 216284143141650433,
+  "id_str": "216284143141650433",
+  "text": "Great letter. RT @chronicle: VA Gov. asks #UVa Board to sort things out--otherwise \"I will ask (cont) http://t.co/oKAeKrBz",
+  "source": "<a href=\"http://www.osfoora.com\" rel=\"nofollow\">Osfoora HD</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 261831126,
+    "id_str": "261831126",
+    "name": "The Real Interloper",
+    "screen_name": "Real_Interloper",
+    "location": "Parade's End",
+    "description": "Neo-Whig",
+    "url": "http://www.interloping.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.interloping.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 897,
+    "friends_count": 207,
+    "listed_count": 46,
+    "created_at": "Sun Mar 06 20:04:03 +0000 2011",
+    "favourites_count": 904,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 16936,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1595145305/opus_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1595145305/opus_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/oKAeKrBz",
+        "expanded_url": "http://tl.gd/hvkrkq",
+        "display_url": "tl.gd/hvkrkq",
+        "indices": [
+          102,
+          122
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          17,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

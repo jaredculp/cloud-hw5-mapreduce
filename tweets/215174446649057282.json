@@ -1,0 +1,206 @@
+{
+  "created_at": "Tue Jun 19 20:09:20 +0000 2012",
+  "id": 215174446649057282,
+  "id_str": "215174446649057282",
+  "text": "RT @DavidAStorm: RT @DailyProgTed Vice Rector Mark J. Kington has resigned. #UVA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 5960652,
+    "id_str": "5960652",
+    "name": "R. Cooper",
+    "screen_name": "rcooper",
+    "location": "Charlottesville, Va",
+    "description": "Architecture & Instruction Librarian.  Derby girl.  Dreaming of a future with flying cars and caffeinated bacon.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 688,
+    "friends_count": 407,
+    "listed_count": 56,
+    "created_at": "Fri May 11 13:05:35 +0000 2007",
+    "favourites_count": 448,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5549,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2232719474/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2232719474/image_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 19 20:06:06 +0000 2012",
+    "id": 215173633948123138,
+    "id_str": "215173633948123138",
+    "text": "RT @DailyProgTed Vice Rector Mark J. Kington has resigned. #UVA",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": 215173409053745154,
+    "in_reply_to_status_id_str": "215173409053745154",
+    "in_reply_to_user_id": 365027838,
+    "in_reply_to_user_id_str": "365027838",
+    "in_reply_to_screen_name": "DailyProgTed",
+    "user": {
+      "id": 21899116,
+      "id_str": "21899116",
+      "name": "David Storm",
+      "screen_name": "DavidAStorm",
+      "location": "Charlottesville, VA",
+      "description": "Legal analyst, wine student, grillman. Husband, father, son. Riesling fan, Pinot Noir fan. Golfer, college sports fan, Wahoo.",
+      "url": "http://www.wineguildcville.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.wineguildcville.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                30
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 199,
+      "friends_count": 426,
+      "listed_count": 6,
+      "created_at": "Wed Feb 25 18:30:59 +0000 2009",
+      "favourites_count": 57,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3421,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2725048225/9c2c5f913ad24a790b3b6a1b0bfaef7a_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2725048225/9c2c5f913ad24a790b3b6a1b0bfaef7a_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 4,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVA",
+          "indices": [
+            59,
+            63
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "DailyProgTed",
+          "name": "Ted Strong, reporter",
+          "id": 365027838,
+          "id_str": "365027838",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          76,
+          80
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DavidAStorm",
+        "name": "David Storm",
+        "id": 21899116,
+        "id_str": "21899116",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "DailyProgTed",
+        "name": "Ted Strong, reporter",
+        "id": 365027838,
+        "id_str": "365027838",
+        "indices": [
+          20,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

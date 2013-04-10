@@ -1,0 +1,155 @@
+{
+  "created_at": "Wed Jun 27 00:05:03 +0000 2012",
+  "id": 217770482018164736,
+  "id_str": "217770482018164736",
+  "text": "Roundup report of today's events at @UVa featuring @sivavaid and @UVaStudCo. http://t.co/CH9vFhjx #HigherEd #Sullivan #BOV #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 204324915,
+    "id_str": "204324915",
+    "name": "WUVA Online",
+    "screen_name": "WUVAonline",
+    "location": "Charlottesville, VA",
+    "description": "A Multimedia news site for the #UVa community. Completely student run site, the newest branch of WUVA Media. Check us out NOW!",
+    "url": "http://www.wuvaonline.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wuvaonline.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 500,
+    "friends_count": 651,
+    "listed_count": 21,
+    "created_at": "Mon Oct 18 13:07:49 +0000 2010",
+    "favourites_count": 24,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1788,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FD9B32",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/166134002/x17935018a13d0f0e054f8cf06d1345c.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/166134002/x17935018a13d0f0e054f8cf06d1345c.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2913417399/8068660e3a21ee6907b2944b883ecd76_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2913417399/8068660e3a21ee6907b2944b883ecd76_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/204324915/1354250695",
+    "profile_link_color": "C79049",
+    "profile_sidebar_border_color": "543823",
+    "profile_sidebar_fill_color": "031A61",
+    "profile_text_color": "F77A0D",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HigherEd",
+        "indices": [
+          98,
+          107
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          108,
+          117
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          118,
+          122
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          123,
+          127
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/CH9vFhjx",
+        "expanded_url": "http://wuvaonline.com/wuvaonline-report-on-sullivans-reinstatement/",
+        "display_url": "wuvaonline.com/wuvaonline-rep…",
+        "indices": [
+          77,
+          97
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          36,
+          40
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          51,
+          60
+        ]
+      },
+      {
+        "screen_name": "UVaStudCo",
+        "name": "UVa Student Council",
+        "id": 73327823,
+        "id_str": "73327823",
+        "indices": [
+          65,
+          75
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

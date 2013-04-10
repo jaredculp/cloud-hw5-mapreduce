@@ -1,0 +1,118 @@
+{
+  "created_at": "Mon Aug 20 14:00:23 +0000 2012",
+  "id": 237549643494469632,
+  "id_str": "237549643494469632",
+  "text": "RT @theoploeg Aankomende studenten #HvA en #UvA? Leer je nieuwe stad kennen met deze wandeling van @soundtrackcity. http://t.co/z8p6ixH0 #..",
+  "source": "<a href=\"http://www.ihavenowebsite.org\" rel=\"nofollow\">dewandelschoen</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 118036285,
+    "id_str": "118036285",
+    "name": "dewandelschoen",
+    "screen_name": "dewandelschoen",
+    "location": "Leiden, Nederland",
+    "description": "Keep walking.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1255,
+    "friends_count": 17,
+    "listed_count": 51,
+    "created_at": "Sat Feb 27 11:39:36 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 220257,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/80121653/dewandelschoen2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/80121653/dewandelschoen2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1176303837/keeponwalking_v1_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1176303837/keeponwalking_v1_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HvA",
+        "indices": [
+          35,
+          39
+        ]
+      },
+      {
+        "text": "UvA",
+        "indices": [
+          43,
+          47
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/z8p6ixH0",
+        "expanded_url": "http://www.soundtrackcity.nl/amsterdam/wandelingen/langs-de-amstel/",
+        "display_url": "soundtrackcity.nl/amsterdam/wand…",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "theoploeg",
+        "name": "theo ploeg",
+        "id": 8847692,
+        "id_str": "8847692",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "soundtrackcity",
+        "name": "Soundtrackcity",
+        "id": 74120463,
+        "id_str": "74120463",
+        "indices": [
+          99,
+          114
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

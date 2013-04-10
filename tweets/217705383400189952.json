@@ -1,0 +1,123 @@
+{
+  "created_at": "Tue Jun 26 19:46:22 +0000 2012",
+  "id": 217705383400189952,
+  "id_str": "217705383400189952",
+  "text": "\"@insidehighered: BREAKING: U.Va. Board Reinstates Sullivan: http://t.co/lZHW9TaI #UVa\" WOW @HeelDawgHeel",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 307006793,
+    "id_str": "307006793",
+    "name": "Christopher Riano",
+    "screen_name": "ChrisRiano",
+    "location": "New York, NY",
+    "description": "Attorney & Privy Counselor to high-profile global clients and a Professor of Constitutional Law and Government at Columbia University",
+    "url": "http://www.rianogroup.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.rianogroup.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 186,
+    "friends_count": 257,
+    "listed_count": 0,
+    "created_at": "Sat May 28 21:06:02 +0000 2011",
+    "favourites_count": 9,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1336,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/276604786/princeton_holder_1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/276604786/princeton_holder_1.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2220974559/463347_10100358816630392_105429_45036278_87830269_o_-_Copy_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2220974559/463347_10100358816630392_105429_45036278_87830269_o_-_Copy_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          82,
+          86
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/lZHW9TaI",
+        "expanded_url": "http://bit.ly/LzQyPU",
+        "display_url": "bit.ly/LzQyPU",
+        "indices": [
+          61,
+          81
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "insidehighered",
+        "name": "Inside Higher Ed",
+        "id": 16045268,
+        "id_str": "16045268",
+        "indices": [
+          1,
+          16
+        ]
+      },
+      {
+        "screen_name": "HeelDawgHeel",
+        "name": "HeelDawgHeel",
+        "id": 388364055,
+        "id_str": "388364055",
+        "indices": [
+          92,
+          105
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

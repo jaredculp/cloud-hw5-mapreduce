@@ -1,0 +1,108 @@
+{
+  "created_at": "Fri Jun 22 16:04:03 +0000 2012",
+  "id": 216199882598400002,
+  "id_str": "216199882598400002",
+  "text": "@johncduda @UVa Great catch, #dragas statement written by #PR firm: http://t.co/ABKMb3IF",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216196207515668480,
+  "in_reply_to_status_id_str": "216196207515668480",
+  "in_reply_to_user_id": 539272764,
+  "in_reply_to_user_id_str": "539272764",
+  "in_reply_to_screen_name": "jaydoodah",
+  "user": {
+    "id": 74726548,
+    "id_str": "74726548",
+    "name": "Liverman",
+    "screen_name": "theliverman",
+    "location": "Charlottesville, VA",
+    "description": "Bad golfer. Potluck attendee.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 27,
+    "friends_count": 63,
+    "listed_count": 2,
+    "created_at": "Wed Sep 16 13:11:26 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 674,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2331151434/lkssfe9sg92m9cjlfk6z_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2331151434/lkssfe9sg92m9cjlfk6z_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "dragas",
+        "indices": [
+          29,
+          36
+        ]
+      },
+      {
+        "text": "PR",
+        "indices": [
+          58,
+          61
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ABKMb3IF",
+        "expanded_url": "http://blogarchive.hillandknowlton.com/blogs/ampersand/articles/10920.aspx",
+        "display_url": "blogarchive.hillandknowlton.com/blogs/ampersan…",
+        "indices": [
+          68,
+          88
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          11,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

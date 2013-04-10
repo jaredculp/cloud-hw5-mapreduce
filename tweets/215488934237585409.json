@@ -1,0 +1,125 @@
+{
+  "created_at": "Wed Jun 20 16:59:00 +0000 2012",
+  "id": 215488934237585409,
+  "id_str": "215488934237585409",
+  "text": "@vgmac start with the student paper - @cavalierdaily - they have done an amazing job; @sivavaid has been out in front, and the hashtag #UVa.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215488384012005376,
+  "in_reply_to_status_id_str": "215488384012005376",
+  "in_reply_to_user_id": 60763047,
+  "in_reply_to_user_id_str": "60763047",
+  "in_reply_to_screen_name": "vgmac",
+  "user": {
+    "id": 39143159,
+    "id_str": "39143159",
+    "name": "Haas Policy",
+    "screen_name": "haaspolicy",
+    "location": "Austin, TX",
+    "description": "Education and public policy analysis (also occasionally - politics, sports and sartorial commentary).  Opinions, intelligent or otherwise, are entirely my own.",
+    "url": "http://www.haaspolicy.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.haaspolicy.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 578,
+    "friends_count": 509,
+    "listed_count": 35,
+    "created_at": "Mon May 11 00:17:52 +0000 2009",
+    "favourites_count": 400,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6996,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0810A6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/13494140/haasicon.jpeg.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/13494140/haasicon.jpeg.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/207570352/haasicon-copy_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/207570352/haasicon-copy_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/39143159/1354297557",
+    "profile_link_color": "2563F4",
+    "profile_sidebar_border_color": "C4CFCF",
+    "profile_sidebar_fill_color": "DCE5E4",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "vgmac",
+        "name": "Victoria McGrane",
+        "id": 60763047,
+        "id_str": "60763047",
+        "indices": [
+          0,
+          6
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          38,
+          52
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          86,
+          95
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

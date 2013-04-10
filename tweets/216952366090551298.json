@@ -1,0 +1,137 @@
+{
+  "created_at": "Sun Jun 24 17:54:09 +0000 2012",
+  "id": 216952366090551298,
+  "id_str": "216952366090551298",
+  "text": "@haaspolicy just might be my favorite person from Austin. Thanks for all the coverage and support that you've had for the #UVA family!",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 39143159,
+  "in_reply_to_user_id_str": "39143159",
+  "in_reply_to_screen_name": "haaspolicy",
+  "user": {
+    "id": 138132346,
+    "id_str": "138132346",
+    "name": "Alie",
+    "screen_name": "UVAlison",
+    "location": "Charlottesville, VA",
+    "description": "U.Va. '13 | I am a voice of a generation.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 162,
+    "friends_count": 222,
+    "listed_count": 2,
+    "created_at": "Wed Apr 28 18:19:47 +0000 2010",
+    "favourites_count": 215,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 939,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/96605907/breezetry4.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/96605907/breezetry4.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3076528398/668aec9f5acd7e363bda6046f3991cb9_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3076528398/668aec9f5acd7e363bda6046f3991cb9_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      36.84378339,
+      -76.14689243
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -76.14689243,
+      36.84378339
+    ]
+  },
+  "place": {
+    "id": "84229b03659050aa",
+    "url": "https://api.twitter.com/1.1/geo/id/84229b03659050aa.json",
+    "place_type": "city",
+    "name": "Virginia Beach",
+    "full_name": "Virginia Beach, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -76.22776,
+            36.550453
+          ],
+          [
+            -75.797497,
+            36.550453
+          ],
+          [
+            -75.797497,
+            37.040886
+          ],
+          [
+            -76.22776,
+            37.040886
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          122,
+          126
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "haaspolicy",
+        "name": "Haas Policy",
+        "id": 39143159,
+        "id_str": "39143159",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

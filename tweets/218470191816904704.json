@@ -1,0 +1,100 @@
+{
+  "created_at": "Thu Jun 28 22:25:27 +0000 2012",
+  "id": 218470191816904704,
+  "id_str": "218470191816904704",
+  "text": "So excited to watch @mikescott get drafted tonight. #UVA #Hoos",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 23890661,
+    "id_str": "23890661",
+    "name": "Stephanie Olinger",
+    "screen_name": "SOlinger09",
+    "location": "DMV",
+    "description": "#TeamUVA is where it's at. Follow me!   #OKC #KD  #TeamiPhone #BasketballChick #TeamBlueEyes \r\n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 61,
+    "friends_count": 204,
+    "listed_count": 0,
+    "created_at": "Thu Mar 12 04:02:13 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4786,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0E0F24",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/772119466/ce481b779c9236d8e31ca86571537897.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/772119466/ce481b779c9236d8e31ca86571537897.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2980965474/ee2d94e5e37380993c72ded55b789d98_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2980965474/ee2d94e5e37380993c72ded55b789d98_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/23890661/1349151390",
+    "profile_link_color": "0989EB",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "D19268",
+    "profile_text_color": "E86E1C",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          52,
+          56
+        ]
+      },
+      {
+        "text": "Hoos",
+        "indices": [
+          57,
+          62
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          20,
+          30
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

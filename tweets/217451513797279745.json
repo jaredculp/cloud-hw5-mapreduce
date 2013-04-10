@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jun 26 02:57:35 +0000 2012",
+  "id": 217451513797279745,
+  "id_str": "217451513797279745",
+  "text": "Live-stream of the #UVA #BOV meeting happening here: http://t.co/Ss3NmnSD. I'll be attending the #Vigil4Honor on the Lawn during their mtg.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 44471429,
+    "id_str": "44471429",
+    "name": "Di Johnston",
+    "screen_name": "VonSpronstons",
+    "location": "NYC",
+    "description": "singer, voice-over artist",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 126,
+    "friends_count": 64,
+    "listed_count": 5,
+    "created_at": "Wed Jun 03 22:10:09 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 113,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/263318629/DiProjectPix_035_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/263318629/DiProjectPix_035_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          19,
+          23
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          24,
+          28
+        ]
+      },
+      {
+        "text": "Vigil4Honor",
+        "indices": [
+          97,
+          109
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Ss3NmnSD",
+        "expanded_url": "http://uvatoday.org/blog/?p=4094",
+        "display_url": "uvatoday.org/blog/?p=4094",
+        "indices": [
+          53,
+          73
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

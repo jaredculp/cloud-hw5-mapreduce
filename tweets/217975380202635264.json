@@ -1,0 +1,100 @@
+{
+  "created_at": "Wed Jun 27 13:39:15 +0000 2012",
+  "id": 217975380202635264,
+  "id_str": "217975380202635264",
+  "text": "And a belated congratulations to @sivavaid for his tireless efforts to speak truth to power. #UVA #Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 132341976,
+    "id_str": "132341976",
+    "name": "Greg Britton",
+    "screen_name": "gmbritton",
+    "location": "Baltimore",
+    "description": "Editorial Director of the Johns Hopkins University Press",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 474,
+    "friends_count": 442,
+    "listed_count": 41,
+    "created_at": "Tue Apr 13 00:09:58 +0000 2010",
+    "favourites_count": 55,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 960,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1588028333/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1588028333/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/132341976/1359632810",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          93,
+          97
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          98,
+          107
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          33,
+          42
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

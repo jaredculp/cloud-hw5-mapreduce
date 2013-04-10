@@ -1,0 +1,119 @@
+{
+  "created_at": "Tue Jul 03 15:59:00 +0000 2012",
+  "id": 220184876937261056,
+  "id_str": "220184876937261056",
+  "text": "MT @UVALaw: In honor of #July4, tweet us your fave part of U.S. Constitution (&amp; why) for a chance to win #UVA Law mousepad. #Fourth",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1910771,
+    "id_str": "1910771",
+    "name": "UVA",
+    "screen_name": "UVA",
+    "location": "Charlottesville, VA",
+    "description": " Top news from the University of Virginia from the tweeps in Public Affairs.",
+    "url": "http://www.virginia.edu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginia.edu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 22057,
+    "friends_count": 1400,
+    "listed_count": 544,
+    "created_at": "Thu Mar 22 17:26:46 +0000 2007",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7315,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0B1D77",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/6071365/bg2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/6071365/bg2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/897634395/9b74f7f5-9374-4ac8-857a-f9156971d5c6_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/897634395/9b74f7f5-9374-4ac8-857a-f9156971d5c6_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/1910771/1359477886",
+    "profile_link_color": "004490",
+    "profile_sidebar_border_color": "234A90",
+    "profile_sidebar_fill_color": "6488D1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "July4",
+        "indices": [
+          24,
+          30
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          109,
+          113
+        ]
+      },
+      {
+        "text": "Fourth",
+        "indices": [
+          128,
+          135
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVALaw",
+        "name": "UVA Law School",
+        "id": 17074098,
+        "id_str": "17074098",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

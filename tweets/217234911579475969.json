@@ -1,0 +1,113 @@
+{
+  "created_at": "Mon Jun 25 12:36:53 +0000 2012",
+  "id": 217234911579475969,
+  "id_str": "217234911579475969",
+  "text": "Governance case study MT @insidehighered Loyalty, an EVP, &amp; the awkward position of top business-side admins: http://t.co/T5sCcdLs #UVa",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 27685957,
+    "id_str": "27685957",
+    "name": "Roger C. Schonfeld",
+    "screen_name": "rschon",
+    "location": "New York, NY",
+    "description": "Ithaka S+R Program Director for Libraries, Users, and Scholarly Practices. Current interests: surveying academics; disciplinary practices; discovery; publishing",
+    "url": "http://www.sr.ithaka.org/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.sr.ithaka.org/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1273,
+    "friends_count": 814,
+    "listed_count": 95,
+    "created_at": "Mon Mar 30 17:28:13 +0000 2009",
+    "favourites_count": 95,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5295,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1716127607/0617_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1716127607/0617_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/T5sCcdLs",
+        "expanded_url": "http://bit.ly/Nrnyoo",
+        "display_url": "bit.ly/Nrnyoo",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "insidehighered",
+        "name": "Inside Higher Ed",
+        "id": 16045268,
+        "id_str": "16045268",
+        "indices": [
+          25,
+          40
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

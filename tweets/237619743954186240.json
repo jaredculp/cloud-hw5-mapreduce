@@ -1,0 +1,109 @@
+{
+  "created_at": "Mon Aug 20 18:38:56 +0000 2012",
+  "id": 237619743954186240,
+  "id_str": "237619743954186240",
+  "text": "@TheUVAFool @JerryRatcliffe Just saying that #Bama fans are more rabid and way more interested in their football than #UVa fans, that's all.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 237615658328797185,
+  "in_reply_to_status_id_str": "237615658328797185",
+  "in_reply_to_user_id": 42156117,
+  "in_reply_to_user_id_str": "42156117",
+  "in_reply_to_screen_name": "TheUVAFool",
+  "user": {
+    "id": 483065596,
+    "id_str": "483065596",
+    "name": "Tucker McLaughlin",
+    "screen_name": "SoBoTucker",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 158,
+    "friends_count": 79,
+    "listed_count": 2,
+    "created_at": "Sat Feb 04 16:13:20 +0000 2012",
+    "favourites_count": 3,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 450,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1803788854/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1803788854/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Bama",
+        "indices": [
+          45,
+          50
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          118,
+          122
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "JerryRatcliffe",
+        "name": "Jerry Ratcliffe",
+        "id": 483970346,
+        "id_str": "483970346",
+        "indices": [
+          12,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

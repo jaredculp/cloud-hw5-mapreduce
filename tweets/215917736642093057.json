@@ -1,0 +1,141 @@
+{
+  "created_at": "Thu Jun 21 21:22:54 +0000 2012",
+  "id": 215917736642093057,
+  "id_str": "215917736642093057",
+  "text": "Thx @tinmanic RT @readthehook Goodbye Dragas and welcome back Sullivan? http://t.co/KVtyTOdJ #UVA @danieldevise @anitakumar01 @katiecouric",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215917023312625664,
+  "in_reply_to_status_id_str": "215917023312625664",
+  "in_reply_to_user_id": 35011764,
+  "in_reply_to_user_id_str": "35011764",
+  "in_reply_to_screen_name": "tinmanic",
+  "user": {
+    "id": 20408667,
+    "id_str": "20408667",
+    "name": "Matt Paco",
+    "screen_name": "Pacorazzi",
+    "location": "NYC",
+    "description": "MTV Producer & Pop Culture Junkie w/ a strong interest in new music, travel & education as well as politics, pets & polo.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 300,
+    "friends_count": 283,
+    "listed_count": 3,
+    "created_at": "Mon Feb 09 02:15:04 +0000 2009",
+    "favourites_count": 56,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1150,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2277660334/nwpoa2cubrph2bdv1uxb_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2277660334/nwpoa2cubrph2bdv1uxb_normal.jpeg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          93,
+          97
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/KVtyTOdJ",
+        "expanded_url": "http://ow.ly/bKdbW",
+        "display_url": "ow.ly/bKdbW",
+        "indices": [
+          72,
+          92
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "tinmanic",
+        "name": "Tinmanic",
+        "id": 35011764,
+        "id_str": "35011764",
+        "indices": [
+          4,
+          13
+        ]
+      },
+      {
+        "screen_name": "readthehook",
+        "name": "The Hook newspaper",
+        "id": 34417310,
+        "id_str": "34417310",
+        "indices": [
+          17,
+          29
+        ]
+      },
+      {
+        "screen_name": "danieldevise",
+        "name": "Daniel de Vise",
+        "id": 182100138,
+        "id_str": "182100138",
+        "indices": [
+          98,
+          111
+        ]
+      },
+      {
+        "screen_name": "anitakumar01",
+        "name": "Anita Kumar",
+        "id": 48581849,
+        "id_str": "48581849",
+        "indices": [
+          112,
+          125
+        ]
+      },
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          126,
+          138
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

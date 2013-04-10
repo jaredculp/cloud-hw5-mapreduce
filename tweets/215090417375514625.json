@@ -1,0 +1,108 @@
+{
+  "created_at": "Tue Jun 19 14:35:26 +0000 2012",
+  "id": 215090417375514625,
+  "id_str": "215090417375514625",
+  "text": "@KenCuccinelli Any thoughts on legality of events at #UVA? How about http://t.co/wjFNVwzq and #BOV 's desire to ax German and Classics?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 26007752,
+  "in_reply_to_user_id_str": "26007752",
+  "in_reply_to_screen_name": "KenCuccinelli",
+  "user": {
+    "id": 27443543,
+    "id_str": "27443543",
+    "name": "LTP",
+    "screen_name": "LinTP",
+    "location": "Arlington, VA",
+    "description": "Watch out for snark attacks.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 54,
+    "friends_count": 88,
+    "listed_count": 1,
+    "created_at": "Sun Mar 29 15:35:00 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 183,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/7034492/Georgetown_0208.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/7034492/Georgetown_0208.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/113828156/foxfield_crop_b_w_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/113828156/foxfield_crop_b_w_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          53,
+          57
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          94,
+          98
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/wjFNVwzq",
+        "expanded_url": "http://leg1.state.va.us/cgi-bin/legp504.exe?000+cod+23-63",
+        "display_url": "leg1.state.va.us/cgi-bin/legp50…",
+        "indices": [
+          69,
+          89
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "KenCuccinelli",
+        "name": "Ken Cuccinelli",
+        "id": 26007752,
+        "id_str": "26007752",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,103 @@
+{
+  "created_at": "Wed Aug 15 17:13:48 +0000 2012",
+  "id": 235786380700172288,
+  "id_str": "235786380700172288",
+  "text": "The #UVa #BOV meeting is scheduled to start at 1:30. Ironically, today -- Aug. 15 -- is the day Teresa Sullivan was supposed to step down.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 32563011,
+    "id_str": "32563011",
+    "name": "Chris Stover",
+    "screen_name": "ChrisStover",
+    "location": "Charlottesville, Va.",
+    "description": "Weekend anchor and reporter at @CBS19, ABC16 and FOX27 in Charlottesville, Va. Proud to call #Philadelphia home and @TempleUniv my alma mater.",
+    "url": "http://chris-stover.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://chris-stover.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 985,
+    "friends_count": 1083,
+    "listed_count": 71,
+    "created_at": "Fri Apr 17 20:27:42 +0000 2009",
+    "favourites_count": 27,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4915,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D2D7E4",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/163773943/newtwitterbackground.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/163773943/newtwitterbackground.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1157415311/bio_pic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1157415311/bio_pic_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/32563011/1358488586",
+    "profile_link_color": "293F6F",
+    "profile_sidebar_border_color": "262A39",
+    "profile_sidebar_fill_color": "95A1C3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          4,
+          8
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          9,
+          13
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

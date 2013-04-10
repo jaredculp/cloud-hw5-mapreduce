@@ -1,0 +1,96 @@
+{
+  "created_at": "Sun Aug 19 16:53:01 +0000 2012",
+  "id": 237230703379623936,
+  "id_str": "237230703379623936",
+  "text": "@MargheritaVenz perchè? P.S. l'esperimento ha funzionato #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 237230503080644608,
+  "in_reply_to_status_id_str": "237230503080644608",
+  "in_reply_to_user_id": 206173165,
+  "in_reply_to_user_id_str": "206173165",
+  "in_reply_to_screen_name": "MargheIttaVenz",
+  "user": {
+    "id": 602696923,
+    "id_str": "602696923",
+    "name": "Marco Perin",
+    "screen_name": "perinmarco",
+    "location": "Where have I gone?",
+    "description": "Halfway between me and society's role model, plastic dude\r\n@perinmarco on Instagram",
+    "url": "http://www.facebook.com/marcoperin95",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/marcoperin95",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 83,
+    "friends_count": 275,
+    "listed_count": 0,
+    "created_at": "Fri Jun 08 11:51:48 +0000 2012",
+    "favourites_count": 26,
+    "utc_offset": 3600,
+    "time_zone": "Rome",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1571,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3019929999/4e159d8fc30d40bc62437b4314577060_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3019929999/4e159d8fc30d40bc62437b4314577060_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/602696923/1356457384",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          57,
+          61
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

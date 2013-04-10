@@ -1,0 +1,84 @@
+{
+  "created_at": "Fri Jun 22 17:42:53 +0000 2012",
+  "id": 216224755374768130,
+  "id_str": "216224755374768130",
+  "text": "Enough with all the emails... we get it #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 242139020,
+    "id_str": "242139020",
+    "name": "Addison Walker",
+    "screen_name": "aewalker92",
+    "location": "",
+    "description": "Those who don't believe in magic will never find it.\r\n#wahoowa #XA",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 164,
+    "friends_count": 86,
+    "listed_count": 1,
+    "created_at": "Mon Jan 24 01:43:20 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1514,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/782897431/5f01e17722c9ad9de2e721d9d998e8cb.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/782897431/5f01e17722c9ad9de2e721d9d998e8cb.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2662596505/802b7ad18f593e13cbbbf48d62e98b5f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2662596505/802b7ad18f593e13cbbbf48d62e98b5f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/242139020/1360082401",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          40,
+          44
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

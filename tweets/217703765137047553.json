@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 19:39:57 +0000 2012",
+  "id": 217703765137047553,
+  "id_str": "217703765137047553",
+  "text": "@SteveGaines62 What do you want to see at #UVA https://t.co/goEjj4kV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217702760789975040,
+  "in_reply_to_status_id_str": "217702760789975040",
+  "in_reply_to_user_id": 21392435,
+  "in_reply_to_user_id_str": "21392435",
+  "in_reply_to_screen_name": "SteveGaines62",
+  "user": {
+    "id": 21899116,
+    "id_str": "21899116",
+    "name": "David Storm",
+    "screen_name": "DavidAStorm",
+    "location": "Charlottesville, VA",
+    "description": "Legal analyst, wine student, grillman. Husband, father, son. Riesling fan, Pinot Noir fan. Golfer, college sports fan, Wahoo.",
+    "url": "http://www.wineguildcville.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wineguildcville.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 200,
+    "friends_count": 425,
+    "listed_count": 6,
+    "created_at": "Wed Feb 25 18:30:59 +0000 2009",
+    "favourites_count": 58,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3419,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2725048225/9c2c5f913ad24a790b3b6a1b0bfaef7a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2725048225/9c2c5f913ad24a790b3b6a1b0bfaef7a_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/goEjj4kV",
+        "expanded_url": "https://www.facebook.com/davidastorm/posts/10100553741953496",
+        "display_url": "facebook.com/davidastorm/po…",
+        "indices": [
+          47,
+          68
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SteveGaines62",
+        "name": "Steve Gaines",
+        "id": 21392435,
+        "id_str": "21392435",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,120 @@
+{
+  "created_at": "Wed Jun 20 23:24:27 +0000 2012",
+  "id": 215585937562943488,
+  "id_str": "215585937562943488",
+  "text": "Interesting! RT @seanmccord: Terry #Sullivan says she might stay on as #UVA president if Rector Dragas leaves http://t.co/CF7HWKaQ",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1301611,
+    "id_str": "1301611",
+    "name": "Elizabeth McCullough",
+    "screen_name": "emccullough",
+    "location": "Charlottesville",
+    "description": "Reader, would-be writer, volunteer, book reviewer, mom, wife, future hobo.",
+    "url": "http://cvillewords.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://cvillewords.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 769,
+    "friends_count": 686,
+    "listed_count": 47,
+    "created_at": "Fri Mar 16 18:02:22 +0000 2007",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5141,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/2943527/background.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/2943527/background.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1344431342/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1344431342/image_normal.jpg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          35,
+          44
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          71,
+          75
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/CF7HWKaQ",
+        "expanded_url": "http://wapo.st/NkyLug",
+        "display_url": "wapo.st/NkyLug",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "seanmccord",
+        "name": "Sean McCord",
+        "id": 21422565,
+        "id_str": "21422565",
+        "indices": [
+          16,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

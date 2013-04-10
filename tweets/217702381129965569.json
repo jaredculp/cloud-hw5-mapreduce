@@ -1,0 +1,91 @@
+{
+  "created_at": "Tue Jun 26 19:34:27 +0000 2012",
+  "id": 217702381129965569,
+  "id_str": "217702381129965569",
+  "text": "#UVA, Sullivan, and Dragas are trending #wahoowa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 372581970,
+    "id_str": "372581970",
+    "name": "Karla C",
+    "screen_name": "kayakayu",
+    "location": "VA / NJ",
+    "description": "love is all you need",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 178,
+    "friends_count": 273,
+    "listed_count": 0,
+    "created_at": "Tue Sep 13 01:21:59 +0000 2011",
+    "favourites_count": 56,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3678,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "87D2F5",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/685133667/b65295fdaad12407330b7afbf6cba0b7.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/685133667/b65295fdaad12407330b7afbf6cba0b7.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2782344116/110559eaeb31305f76e543a6be7b37a6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2782344116/110559eaeb31305f76e543a6be7b37a6_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/372581970/1350400505",
+    "profile_link_color": "006399",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "wahoowa",
+        "indices": [
+          40,
+          48
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

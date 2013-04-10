@@ -1,0 +1,131 @@
+{
+  "created_at": "Thu Jun 28 14:30:36 +0000 2012",
+  "id": 218350693625499648,
+  "id_str": "218350693625499648",
+  "text": "1 positive outcome from #UVA insanity -- more $$.  http://t.co/Mb2jlARO @anitakumar01 @cavalierdaily @margbrennan @Barber_Tiki @katiecouric",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20408667,
+    "id_str": "20408667",
+    "name": "Matt Paco",
+    "screen_name": "Pacorazzi",
+    "location": "NYC",
+    "description": "MTV Producer & Pop Culture Junkie w/ a strong interest in new music, travel & education as well as politics, pets & polo.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 301,
+    "friends_count": 279,
+    "listed_count": 3,
+    "created_at": "Mon Feb 09 02:15:04 +0000 2009",
+    "favourites_count": 52,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1146,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2277660334/nwpoa2cubrph2bdv1uxb_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2277660334/nwpoa2cubrph2bdv1uxb_normal.jpeg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          24,
+          28
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Mb2jlARO",
+        "expanded_url": "http://bit.ly/MX0zEv",
+        "display_url": "bit.ly/MX0zEv",
+        "indices": [
+          51,
+          71
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "anitakumar01",
+        "name": "Anita Kumar",
+        "id": 48581849,
+        "id_str": "48581849",
+        "indices": [
+          72,
+          85
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          86,
+          100
+        ]
+      },
+      {
+        "screen_name": "margbrennan",
+        "name": "margaret brennan",
+        "id": 50011708,
+        "id_str": "50011708",
+        "indices": [
+          101,
+          113
+        ]
+      },
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          127,
+          139
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

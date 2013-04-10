@@ -1,0 +1,113 @@
+{
+  "created_at": "Thu Jun 21 21:38:58 +0000 2012",
+  "id": 215921778978070529,
+  "id_str": "215921778978070529",
+  "text": "@sivavaid on #UVa BoV: \"I have never seen a board act so recklessly, arrogantly, and secretly in my entire life.\" http://t.co/f1jCpykV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 20406724,
+  "in_reply_to_user_id_str": "20406724",
+  "in_reply_to_screen_name": "sivavaid",
+  "user": {
+    "id": 279738791,
+    "id_str": "279738791",
+    "name": "Leigh Turner",
+    "screen_name": "LeighGTurner",
+    "location": "Minneapolis, MN",
+    "description": "Prof of Bioethics & Public Health; Interests include bioethics, global health, medical tourism, organ trafficking, health fraud, patient safety",
+    "url": "http://www.ahc.umn.edu/bioethics/facstaff/turner_l/home.html",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.ahc.umn.edu/bioethics/facstaff/turner_l/home.html",
+            "expanded_url": null,
+            "indices": [
+              0,
+              60
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 668,
+    "friends_count": 502,
+    "listed_count": 40,
+    "created_at": "Sat Apr 09 22:40:14 +0000 2011",
+    "favourites_count": 92,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3598,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1773191876/Tara_S_s_wedding_2__2__normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1773191876/Tara_S_s_wedding_2__2__normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          13,
+          17
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/f1jCpykV",
+        "expanded_url": "http://www.readthehook.com/104213/cabal-hall-why-does-darden-trump-carrs-hill",
+        "display_url": "readthehook.com/104213/cabal-h…",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

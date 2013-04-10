@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:53:18 +0000 2012",
+  "id": 217707125483376640,
+  "id_str": "217707125483376640",
+  "text": "That was the sound of crow being swallowed RT @postlocal #UVA board's vote to reinstate Sullivan follows 16 days of [chaos]",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 33578934,
+    "id_str": "33578934",
+    "name": "Patrick Mac Smith",
+    "screen_name": "macaroni_mac",
+    "location": "ÜT: 38.24744,-77.49261",
+    "description": "Virginia native, father of two, married to a red head, Redskins.",
+    "url": "http://www.macaronimac.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.macaronimac.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 207,
+    "friends_count": 535,
+    "listed_count": 5,
+    "created_at": "Mon Apr 20 16:54:32 +0000 2009",
+    "favourites_count": 21,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5655,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1122394074/macaroni_image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1122394074/macaroni_image_normal.jpg",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          57,
+          61
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "postlocal",
+        "name": "PostLocal",
+        "id": 14345759,
+        "id_str": "14345759",
+        "indices": [
+          46,
+          56
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

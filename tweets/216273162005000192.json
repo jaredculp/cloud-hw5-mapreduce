@@ -1,0 +1,97 @@
+{
+  "created_at": "Fri Jun 22 20:55:14 +0000 2012",
+  "id": 216273162005000192,
+  "id_str": "216273162005000192",
+  "text": "RICHMOND, Va. (AP) - Va. governor threatens to replace entire #UVA board if furor over president's ouster lingers.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 47498801,
+    "id_str": "47498801",
+    "name": "Elizabeth Titus",
+    "screen_name": "emtitus",
+    "location": "Washington",
+    "description": "Web producer at @politico. RTs are not endorsements.",
+    "url": "http://t.co/LiVkorov",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/LiVkorov",
+            "expanded_url": "http://elizabethtitus.org",
+            "display_url": "elizabethtitus.org",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1024,
+    "friends_count": 977,
+    "listed_count": 37,
+    "created_at": "Tue Jun 16 01:04:01 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3410,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2543918268/snntlj2vpdctmx333oj0_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2543918268/snntlj2vpdctmx333oj0_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/47498801/1356536648",
+    "profile_link_color": "004276",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

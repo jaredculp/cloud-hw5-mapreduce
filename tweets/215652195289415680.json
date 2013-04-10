@@ -1,0 +1,108 @@
+{
+  "created_at": "Thu Jun 21 03:47:44 +0000 2012",
+  "id": 215652195289415680,
+  "id_str": "215652195289415680",
+  "text": "@tressiemcphd @zunguzungu She is on the low end of R1 university prez. Makes less than predecessor.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215646185778712576,
+  "in_reply_to_status_id_str": "215646185778712576",
+  "in_reply_to_user_id": 148593548,
+  "in_reply_to_user_id_str": "148593548",
+  "in_reply_to_screen_name": "tressiemcphd",
+  "user": {
+    "id": 20406724,
+    "id_str": "20406724",
+    "name": "Siva Vaidhyanathan",
+    "screen_name": "sivavaid",
+    "location": "Charlottesville, VA",
+    "description": "Author of The Googlization of Everything (2011), The Anarchist in the Library (2004), and Copyrights and Copywrongs (2001).",
+    "url": "http://www.googlizationofeverything.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.googlizationofeverything.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7740,
+    "friends_count": 1547,
+    "listed_count": 529,
+    "created_at": "Mon Feb 09 01:29:24 +0000 2009",
+    "favourites_count": 2692,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 26296,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/234287703/Googlizationcoverlight.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/234287703/Googlizationcoverlight.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2539653916/jj41921r6yzhruyxh8e7_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2539653916/jj41921r6yzhruyxh8e7_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "tressiemcphd",
+        "name": "tressie mc",
+        "id": 148593548,
+        "id_str": "148593548",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "zunguzungu",
+        "name": "Aaron Bady",
+        "id": 47951511,
+        "id_str": "47951511",
+        "indices": [
+          14,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

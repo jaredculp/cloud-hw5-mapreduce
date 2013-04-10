@@ -1,0 +1,175 @@
+{
+  "created_at": "Fri Jun 22 01:01:24 +0000 2012",
+  "id": 215972722184962048,
+  "id_str": "215972722184962048",
+  "text": "RT @MittRomneysCat: Dad says #uva is NOT how you gut an organization. Dragas strictly amateur.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 154810624,
+    "id_str": "154810624",
+    "name": "Yatzek",
+    "screen_name": "exteric",
+    "location": "",
+    "description": "A rebel in the name of beauty",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 101,
+    "friends_count": 293,
+    "listed_count": 3,
+    "created_at": "Sat Jun 12 07:36:43 +0000 2010",
+    "favourites_count": 55,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2337,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1683462099/381403_10151031944255624_685145623_22281611_339902828_n_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1683462099/381403_10151031944255624_685145623_22281611_339902828_n_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Jun 22 00:46:28 +0000 2012",
+    "id": 215968963878854656,
+    "id_str": "215968963878854656",
+    "text": "Dad says #uva is NOT how you gut an organization. Dragas strictly amateur.",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 552230305,
+      "id_str": "552230305",
+      "name": "MittRomneysCat",
+      "screen_name": "MittRomneysCat",
+      "location": "La Jolla, Ca",
+      "description": "Just a stray from around the way who hit it big the day I met Mitt.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 3,
+      "friends_count": 8,
+      "listed_count": 0,
+      "created_at": "Thu Apr 12 22:39:51 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 41,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2105705649/cat_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2105705649/cat_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "uva",
+          "indices": [
+            9,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          29,
+          33
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MittRomneysCat",
+        "name": "MittRomneysCat",
+        "id": 552230305,
+        "id_str": "552230305",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

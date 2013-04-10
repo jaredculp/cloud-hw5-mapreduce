@@ -1,0 +1,116 @@
+{
+  "created_at": "Mon Jun 18 14:09:50 +0000 2012",
+  "id": 214721588271128577,
+  "id_str": "214721588271128577",
+  "text": "Done.  RT @sivavaid  If you care about #UVa, please make this your FB &amp; Twitter profile picture. http://t.co/c4eJbe6t #HoosforSullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 214720754737086467,
+  "in_reply_to_status_id_str": "214720754737086467",
+  "in_reply_to_user_id": 20406724,
+  "in_reply_to_user_id_str": "20406724",
+  "in_reply_to_screen_name": "sivavaid",
+  "user": {
+    "id": 15086276,
+    "id_str": "15086276",
+    "name": "jagriffin",
+    "screen_name": "jagriffin",
+    "location": "Lincoln, NE",
+    "description": "Associate Professor of Practice, English UNL\r\nFaculty Coordinator WH Thompson Scholars\r\nCompRhet, Digital Pedagogy, Warrior!  http://t.co/Vu3yOAZa",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/Vu3yOAZa",
+            "expanded_url": "http://warriordash.com/",
+            "display_url": "warriordash.com",
+            "indices": [
+              126,
+              146
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 113,
+    "friends_count": 224,
+    "listed_count": 1,
+    "created_at": "Wed Jun 11 16:30:48 +0000 2008",
+    "favourites_count": 43,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 527,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DD5E33",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/440717174/x3530ebee7260aad4371d0355962c559.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/440717174/x3530ebee7260aad4371d0355962c559.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3050660358/a4d591bd73c22bf00aae09bbd4a923fd_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3050660358/a4d591bd73c22bf00aae09bbd4a923fd_normal.jpeg",
+    "profile_link_color": "339D99",
+    "profile_sidebar_border_color": "F23D3D",
+    "profile_sidebar_fill_color": "FF6C3B",
+    "profile_text_color": "FFB45E",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          39,
+          43
+        ]
+      },
+      {
+        "text": "HoosforSullivan",
+        "indices": [
+          122,
+          138
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/c4eJbe6t",
+        "expanded_url": "http://p.twimg.com/AvnaHKJCMAAxSmh.jpg:large",
+        "display_url": "p.twimg.com/AvnaHKJCMAAxSm…",
+        "indices": [
+          101,
+          121
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          10,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

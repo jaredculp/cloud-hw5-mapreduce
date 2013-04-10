@@ -1,0 +1,134 @@
+{
+  "created_at": "Fri Aug 03 22:27:27 +0000 2012",
+  "id": 231516658148200448,
+  "id_str": "231516658148200448",
+  "text": "I shed a tear... RT @michaelpRTD: Two titans of the industry leave #UVa media day. @jerryratcliffe @sobotucker http://t.co/JJzcZLEd",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 127923033,
+    "id_str": "127923033",
+    "name": "Damon Dillman",
+    "screen_name": "DamonDillman",
+    "location": "Charlottesville, Va.",
+    "description": "I do the sports. That's my job. Highlights at 11...",
+    "url": "http://www.newsplex.com/sports",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.newsplex.com/sports",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 352,
+    "friends_count": 171,
+    "listed_count": 22,
+    "created_at": "Tue Mar 30 16:42:00 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3187,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2518478540/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2518478540/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/127923033/1350229064",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/JJzcZLEd",
+        "expanded_url": "http://twitter.com/michaelpRTD/status/231496804032712705/photo/1",
+        "display_url": "pic.twitter.com/JJzcZLEd",
+        "indices": [
+          111,
+          131
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "michaelpRTD",
+        "name": "michael phillips",
+        "id": 25730085,
+        "id_str": "25730085",
+        "indices": [
+          20,
+          32
+        ]
+      },
+      {
+        "screen_name": "JerryRatcliffe",
+        "name": "Jerry Ratcliffe",
+        "id": 483970346,
+        "id_str": "483970346",
+        "indices": [
+          83,
+          98
+        ]
+      },
+      {
+        "screen_name": "SoBoTucker",
+        "name": "Tucker McLaughlin",
+        "id": 483065596,
+        "id_str": "483065596",
+        "indices": [
+          99,
+          110
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

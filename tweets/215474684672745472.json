@@ -1,0 +1,118 @@
+{
+  "created_at": "Wed Jun 20 16:02:22 +0000 2012",
+  "id": 215474684672745472,
+  "id_str": "215474684672745472",
+  "text": "Hey @hakeemjefferson do you know what's going on with #UVA or who covers them well? Theresa #Sullivan is a friend of mine. #badgovernors",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 458585815,
+    "id_str": "458585815",
+    "name": "Seth Soderborg",
+    "screen_name": "thedailyseth",
+    "location": "Medan, Indonesia",
+    "description": "Editor, Fulbrighter, Teacher, Writer",
+    "url": "http://thenightrecounting.tumblr.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://thenightrecounting.tumblr.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 135,
+    "friends_count": 385,
+    "listed_count": 2,
+    "created_at": "Sun Jan 08 18:42:26 +0000 2012",
+    "favourites_count": 4,
+    "utc_offset": 25200,
+    "time_zone": "Jakarta",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 760,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1750384860/HPIM2593_small_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1750384860/HPIM2593_small_normal.jpg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          54,
+          58
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          92,
+          101
+        ]
+      },
+      {
+        "text": "badgovernors",
+        "indices": [
+          123,
+          136
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "hakeemjefferson",
+        "name": "Hakeem J. Jefferson",
+        "id": 18137417,
+        "id_str": "18137417",
+        "indices": [
+          4,
+          20
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

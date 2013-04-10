@@ -1,0 +1,135 @@
+{
+  "created_at": "Tue Jun 26 19:37:37 +0000 2012",
+  "id": 217703173236858881,
+  "id_str": "217703173236858881",
+  "text": "Sullivan steps to the podium. #uva http://t.co/FP1cmFSp",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17824322,
+    "id_str": "17824322",
+    "name": "Steve Contorno",
+    "screen_name": "scontorno",
+    "location": "Washington, D.C.",
+    "description": "Virginia politics reporter for The Washington Examiner. Chicagoan. University of Illinois alum. Journ nerd. Health nut. Sports fan. ",
+    "url": "http://t.co/6iHohpAx",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/6iHohpAx",
+            "expanded_url": "http://washingtonexaminer.com/people/scontorno",
+            "display_url": "washingtonexaminer.com/people/scontor…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1305,
+    "friends_count": 1702,
+    "listed_count": 107,
+    "created_at": "Wed Dec 03 01:05:20 +0000 2008",
+    "favourites_count": 3,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7582,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "A33E3E",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/163297961/TWITTERbkground.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/163297961/TWITTERbkground.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1554709894/296066_10100699955655137_8639720_64785177_1667724_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1554709894/296066_10100699955655137_8639720_64785177_1667724_n_normal.jpg",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "CCCCCC",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 217703173241053185,
+        "id_str": "217703173241053185",
+        "indices": [
+          35,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwVv4fOCIAEeaYc.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwVv4fOCIAEeaYc.jpg",
+        "url": "http://t.co/FP1cmFSp",
+        "display_url": "pic.twitter.com/FP1cmFSp",
+        "expanded_url": "http://twitter.com/scontorno/status/217703173236858881/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 1003,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 1712,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 569,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

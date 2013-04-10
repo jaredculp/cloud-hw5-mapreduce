@@ -1,0 +1,121 @@
+{
+  "created_at": "Tue Jun 19 20:16:50 +0000 2012",
+  "id": 215176334446567424,
+  "id_str": "215176334446567424",
+  "text": "Now they start coming in...&amp; going out RT @cavalierdaily: Vice Rector Mark Kington has resigned from #UVA #BOV, according to @DailyProgress",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 24457050,
+    "id_str": "24457050",
+    "name": "Quentin",
+    "screen_name": "AvenueSwank",
+    "location": "Fashion, Politics, Pop Culture",
+    "description": "Tweets from the mind behind Avenue Swank, and Fashion Editor of KENTON Magazine - Always funny. Always fly. Jackets & Shoes are my ammo. #fashion #politics #UVA",
+    "url": "http://www.avenueswank.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.avenueswank.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1577,
+    "friends_count": 1141,
+    "listed_count": 64,
+    "created_at": "Sun Mar 15 00:22:29 +0000 2009",
+    "favourites_count": 13,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 24923,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/18916753/swankavepic.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/18916753/swankavepic.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1824001939/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1824001939/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          105,
+          109
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          110,
+          114
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          46,
+          60
+        ]
+      },
+      {
+        "screen_name": "DailyProgress",
+        "name": "The Daily Progress",
+        "id": 17136814,
+        "id_str": "17136814",
+        "indices": [
+          129,
+          143
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

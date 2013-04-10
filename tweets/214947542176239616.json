@@ -1,0 +1,102 @@
+{
+  "created_at": "Tue Jun 19 05:07:42 +0000 2012",
+  "id": 214947542176239616,
+  "id_str": "214947542176239616",
+  "text": "All jokes aside, I have no idea how a pending announcement (coming in 15 minutes!) turns into this kind of marathon. #UVA #BOV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 49063188,
+    "id_str": "49063188",
+    "name": "David Vaughan",
+    "screen_name": "worldmyparish",
+    "location": "",
+    "description": "",
+    "url": "http://worldparish.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://worldparish.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 15,
+    "friends_count": 31,
+    "listed_count": 2,
+    "created_at": "Sat Jun 20 17:35:37 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 39,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1399992308/DSC04376_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1399992308/DSC04376_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          117,
+          121
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          122,
+          126
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

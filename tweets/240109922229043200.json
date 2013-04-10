@@ -1,0 +1,114 @@
+{
+  "created_at": "Mon Aug 27 15:34:01 +0000 2012",
+  "id": 240109922229043200,
+  "id_str": "240109922229043200",
+  "text": "Check out @UVaBT - they'll be there! RT @UVA: Student Activity Fair, 11-2 today, Lower Lawn and Amphitheater... all #UVa students, stop by!",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 240098985761730561,
+  "in_reply_to_status_id_str": "240098985761730561",
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 45572936,
+    "id_str": "45572936",
+    "name": "Building Tomorrow",
+    "screen_name": "BldgTomorrow",
+    "location": "USA & Uganda!",
+    "description": "social-profit org. working w/young people to support education infrastructure projects in Uganda. ",
+    "url": "http://www.buildingtomorrow.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.buildingtomorrow.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1660,
+    "friends_count": 982,
+    "listed_count": 91,
+    "created_at": "Mon Jun 08 14:14:38 +0000 2009",
+    "favourites_count": 32,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3630,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EFEFEF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/77827056/twitter-background.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/77827056/twitter-background.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1153646575/BT_image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1153646575/BT_image_normal.jpg",
+    "profile_link_color": "F78629",
+    "profile_sidebar_border_color": "EFEFEF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          116,
+          120
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVaBT",
+        "name": "Building Tomorrow",
+        "id": 484530613,
+        "id_str": "484530613",
+        "indices": [
+          10,
+          16
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          40,
+          44
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

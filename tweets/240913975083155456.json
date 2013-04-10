@@ -1,0 +1,118 @@
+{
+  "created_at": "Wed Aug 29 20:49:02 +0000 2012",
+  "id": 240913975083155456,
+  "id_str": "240913975083155456",
+  "text": "#Obama #Reddit #UVA #WAHOOWA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 87614347,
+    "id_str": "87614347",
+    "name": "Trisha Cruz",
+    "screen_name": "heytrisha",
+    "location": "Narnia",
+    "description": "Que sera, sera.",
+    "url": "http://t.co/pQZJSqhg",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/pQZJSqhg",
+            "expanded_url": "http://about.me/trishacruz",
+            "display_url": "about.me/trishacruz",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 367,
+    "friends_count": 665,
+    "listed_count": 10,
+    "created_at": "Thu Nov 05 04:21:13 +0000 2009",
+    "favourites_count": 391,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4095,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/97163253/argyle.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/97163253/argyle.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2647361252/ec7622ff2a7ec7c86403bfd57da76a87_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2647361252/ec7622ff2a7ec7c86403bfd57da76a87_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/87614347/1355783376",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Obama",
+        "indices": [
+          0,
+          6
+        ]
+      },
+      {
+        "text": "Reddit",
+        "indices": [
+          7,
+          14
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          15,
+          19
+        ]
+      },
+      {
+        "text": "WAHOOWA",
+        "indices": [
+          20,
+          28
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

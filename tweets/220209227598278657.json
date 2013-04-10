@@ -1,0 +1,112 @@
+{
+  "created_at": "Tue Jul 03 17:35:45 +0000 2012",
+  "id": 220209227598278657,
+  "id_str": "220209227598278657",
+  "text": "Go get 'em!  #HoosintheNBA #UVA RT @MIkeScott Norfolk-----------&gt;Atlanta",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 23086623,
+    "id_str": "23086623",
+    "name": "Brian Schwartz",
+    "screen_name": "BSchwartzUVA",
+    "location": "West Nyack or Charlottesville",
+    "description": "2012 UVA grad from New York, living in DC.\r\nGo Hoos!",
+    "url": "http://www.streakingthelawn.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.streakingthelawn.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 394,
+    "friends_count": 127,
+    "listed_count": 11,
+    "created_at": "Fri Mar 06 16:49:50 +0000 2009",
+    "favourites_count": 120,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7798,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/180555680/UVa_Sabres_Logo_Dark_Mosaic_30_tiles_wide-photo.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/180555680/UVa_Sabres_Logo_Dark_Mosaic_30_tiles_wide-photo.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2746007585/000c5dce3aabc1c62acb106672dac455_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2746007585/000c5dce3aabc1c62acb106672dac455_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/23086623/1348328670",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HoosintheNBA",
+        "indices": [
+          13,
+          26
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          27,
+          31
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          35,
+          45
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

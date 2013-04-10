@@ -1,0 +1,99 @@
+{
+  "created_at": "Fri Jun 29 21:16:52 +0000 2012",
+  "id": 218815322118045696,
+  "id_str": "218815322118045696",
+  "text": "@BobMcDonnell isn't going to let those commie pinko intellectuals at #UVA tell him what to do. Play to the base, Bob, Mitt's watching. #BOV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 14738157,
+  "in_reply_to_user_id_str": "14738157",
+  "in_reply_to_screen_name": "BobMcDonnell",
+  "user": {
+    "id": 22174760,
+    "id_str": "22174760",
+    "name": "Marv Goosen",
+    "screen_name": "Marvinthegoose",
+    "location": "Anytown, USA",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 13,
+    "friends_count": 8,
+    "listed_count": 0,
+    "created_at": "Fri Feb 27 19:02:53 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": 12600,
+    "time_zone": "Tehran",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 315,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/274740965/green_goose_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/274740965/green_goose_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          69,
+          73
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

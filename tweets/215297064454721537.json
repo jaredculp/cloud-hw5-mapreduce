@@ -1,0 +1,99 @@
+{
+  "created_at": "Wed Jun 20 04:16:34 +0000 2012",
+  "id": 215297064454721537,
+  "id_str": "215297064454721537",
+  "text": "@nsj806 yes I'm with #Sullivan, mostly upset that the BOV dId not do justice to #UVA. It's embarrassing.",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 19324810,
+  "in_reply_to_user_id_str": "19324810",
+  "in_reply_to_screen_name": "nsj806",
+  "user": {
+    "id": 48734758,
+    "id_str": "48734758",
+    "name": "Adam Santalla",
+    "screen_name": "AJSantalla",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 187,
+    "friends_count": 668,
+    "listed_count": 0,
+    "created_at": "Fri Jun 19 15:28:15 +0000 2009",
+    "favourites_count": 51,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 654,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2440767322/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2440767322/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          21,
+          30
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          80,
+          84
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nsj806",
+        "name": "Nathaniel Johnson",
+        "id": 19324810,
+        "id_str": "19324810",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

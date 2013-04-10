@@ -1,0 +1,92 @@
+{
+  "created_at": "Sun Jul 01 14:29:14 +0000 2012",
+  "id": 219437511938809856,
+  "id_str": "219437511938809856",
+  "text": "@frankdejong1 Ook bij #uva geen gewoonte. Hertentamen statistiek zonder te weten wat je fout deed! En discutabele vragen.",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 219372720352280576,
+  "in_reply_to_status_id_str": "219372720352280576",
+  "in_reply_to_user_id": 311541753,
+  "in_reply_to_user_id_str": "311541753",
+  "in_reply_to_screen_name": "frankdejong1",
+  "user": {
+    "id": 456504040,
+    "id_str": "456504040",
+    "name": "marjolein held",
+    "screen_name": "HeldMarjolein",
+    "location": "Den Bosch",
+    "description": "Voorzitter van de beroepsvereniging docenten mbo, docent verpleegkunde bij het Koning Willem 1 college",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 108,
+    "friends_count": 148,
+    "listed_count": 2,
+    "created_at": "Fri Jan 06 09:53:57 +0000 2012",
+    "favourites_count": 2,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 226,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1797650930/marjolein__4__normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1797650930/marjolein__4__normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          22,
+          26
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "frankdejong1",
+        "name": "Frank de Jong",
+        "id": 311541753,
+        "id_str": "311541753",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

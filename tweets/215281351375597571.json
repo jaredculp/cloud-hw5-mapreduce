@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed Jun 20 03:14:08 +0000 2012",
+  "id": 215281351375597571,
+  "id_str": "215281351375597571",
+  "text": "@cavalierdaily Why don't you use an online OCR website to convert those scans to text? Google \"online OCR\" or try http://t.co/xBrvudsX #UVA",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215223395225317379,
+  "in_reply_to_status_id_str": "215223395225317379",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 11694642,
+    "id_str": "11694642",
+    "name": "John Fitzgerald",
+    "screen_name": "fitzternet",
+    "location": "New York",
+    "description": "TV/Film producer & social media consultant. Currently a Video Producer for a large hospital in NYC. Founder of The Baseball United Foundation.",
+    "url": "http://t.co/8FKgbAdM",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/8FKgbAdM",
+            "expanded_url": "http://www.Facebook.com/BaseballUnited",
+            "display_url": "Facebook.com/BaseballUnited",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1308,
+    "friends_count": 844,
+    "listed_count": 28,
+    "created_at": "Mon Dec 31 17:58:34 +0000 2007",
+    "favourites_count": 1232,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4531,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0D7DC2",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/146298308/baseball_scorebook_lg.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/146298308/baseball_scorebook_lg.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2171281655/photo-250x250_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2171281655/photo-250x250_normal.jpg",
+    "profile_link_color": "002FFF",
+    "profile_sidebar_border_color": "55B1EB",
+    "profile_sidebar_fill_color": "55B1EB",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xBrvudsX",
+        "expanded_url": "http://www.onlineocr.net/",
+        "display_url": "onlineocr.net",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

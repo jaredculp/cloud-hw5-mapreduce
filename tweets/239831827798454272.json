@@ -1,0 +1,96 @@
+{
+  "created_at": "Sun Aug 26 21:08:58 +0000 2012",
+  "id": 239831827798454272,
+  "id_str": "239831827798454272",
+  "text": "Quiero un helado de #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 158405808,
+    "id_str": "158405808",
+    "name": "RenzoAlbert",
+    "screen_name": "realrolandaeta",
+    "location": "iquitos-Perú",
+    "description": "Con ganas si? ",
+    "url": "http://www.facebook.com/renzoalberto.rojaslandaeta",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/renzoalberto.rojaslandaeta",
+            "expanded_url": null,
+            "indices": [
+              0,
+              50
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 127,
+    "friends_count": 170,
+    "listed_count": 0,
+    "created_at": "Tue Jun 22 16:05:33 +0000 2010",
+    "favourites_count": 9,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3454,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "223FB5",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/779693940/ecb7aa38cb5e1970cd654fd91b558ccc.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/779693940/ecb7aa38cb5e1970cd654fd91b558ccc.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3194924191/e02ab2cf8a932f121aa012e4e823c73a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3194924191/e02ab2cf8a932f121aa012e4e823c73a_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/158405808/1358996694",
+    "profile_link_color": "E61247",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

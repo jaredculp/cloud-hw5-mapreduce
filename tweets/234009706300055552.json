@@ -1,0 +1,93 @@
+{
+  "created_at": "Fri Aug 10 19:33:56 +0000 2012",
+  "id": 234009706300055552,
+  "id_str": "234009706300055552",
+  "text": "They play football? RT @normwood: Just finished watching #UVA's football practice",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14055661,
+    "id_str": "14055661",
+    "name": "Mike R.",
+    "screen_name": "TheMizHTTR",
+    "location": "Manassas, VA",
+    "description": "Tweeting about DMV sports, Virginia Tech, politics, education, and anything else that interests me!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 113,
+    "friends_count": 313,
+    "listed_count": 4,
+    "created_at": "Thu Feb 28 17:29:40 +0000 2008",
+    "favourites_count": 17,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3059,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "7B6E6E",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/760546310/598f4d9aa0d2524484c746b1cd74d725.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/760546310/598f4d9aa0d2524484c746b1cd74d725.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3088936412/bf33ad9f6a65940b0463b3f47bfa1c80_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3088936412/bf33ad9f6a65940b0463b3f47bfa1c80_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14055661/1357854899",
+    "profile_link_color": "8C8282",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "620101",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          57,
+          61
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "normwood",
+        "name": "Norm Wood",
+        "id": 31052819,
+        "id_str": "31052819",
+        "indices": [
+          23,
+          32
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

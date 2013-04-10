@@ -1,0 +1,93 @@
+{
+  "created_at": "Tue Jun 26 23:40:09 +0000 2012",
+  "id": 217764217326026752,
+  "id_str": "217764217326026752",
+  "text": "@_maarcospereira Eae mano, blz ? Qe fez domingo ? Xego a sai cm o #sullivan ? :)",
+  "source": "<a href=\"http://www.lg.com\" rel=\"nofollow\">LG Phone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 342352145,
+  "in_reply_to_user_id_str": "342352145",
+  "in_reply_to_screen_name": "_maarcospereira",
+  "user": {
+    "id": 451619486,
+    "id_str": "451619486",
+    "name": "'   Mauricio Martins",
+    "screen_name": "mauriciomm_",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1361,
+    "friends_count": 83,
+    "listed_count": 0,
+    "created_at": "Sat Dec 31 19:28:47 +0000 2011",
+    "favourites_count": 15,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 22701,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0A0A0A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/776076331/f204615264cc5f781c36fc5cc1e3c00b.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/776076331/f204615264cc5f781c36fc5cc1e3c00b.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3176677014/f24993b2d7d62ec8d46cd7bb61149142_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3176677014/f24993b2d7d62ec8d46cd7bb61149142_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/451619486/1359150278",
+    "profile_link_color": "1834F0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sullivan",
+        "indices": [
+          66,
+          75
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "_maarcospereira",
+        "name": "Marcos",
+        "id": 342352145,
+        "id_str": "342352145",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

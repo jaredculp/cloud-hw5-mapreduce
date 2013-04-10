@@ -1,0 +1,119 @@
+{
+  "created_at": "Thu Jun 21 02:35:57 +0000 2012",
+  "id": 215634129176375298,
+  "id_str": "215634129176375298",
+  "text": "WaPo reports #Sullivan would stay on if Dragas quits http://t.co/ktxPpal7 #UVA #highered",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 450385865,
+    "id_str": "450385865",
+    "name": "Greg Lewis",
+    "screen_name": "greglewis_5",
+    "location": "Charlottesville, VA",
+    "description": "Social Media Manager at @cavalierdaily, Media Studies student at @UVA, digital media enthusiast, open gov't proponent. Follow me for news from #UVA & #cville.",
+    "url": "http://www.cavalierdaily.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cavalierdaily.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 586,
+    "friends_count": 837,
+    "listed_count": 16,
+    "created_at": "Fri Dec 30 05:37:14 +0000 2011",
+    "favourites_count": 11,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1050,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/750163805/ffc372e4996ea9514edb3c79bf0503c7.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/750163805/ffc372e4996ea9514edb3c79bf0503c7.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3036076705/80500df02b1d6dd967721d9293a0a5de_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3036076705/80500df02b1d6dd967721d9293a0a5de_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/450385865/1356761496",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          13,
+          22
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          74,
+          78
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          79,
+          88
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ktxPpal7",
+        "expanded_url": "http://www.washingtonpost.com/local/dc-politics/interim-u-va-leader-carl-zeithaml-seeks-to-quell-uproar-over-presidents-ouster/2012/06/20/gJQAAsZ1qV_story.html",
+        "display_url": "washingtonpost.com/local/dc-polit…",
+        "indices": [
+          53,
+          73
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

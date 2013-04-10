@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 19:47:44 +0000 2012",
+  "id": 217705728020983808,
+  "id_str": "217705728020983808",
+  "text": "@burriscj RT @washingtonpost: RT @wpjenna: Teresa Sullivan is unanimously reinstated as president of #UVA. The Lawn erupts in cheers.",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 17240126,
+  "in_reply_to_user_id_str": "17240126",
+  "in_reply_to_screen_name": "burriscj",
+  "user": {
+    "id": 265167769,
+    "id_str": "265167769",
+    "name": "Candice Burris",
+    "screen_name": "NYYFan1977",
+    "location": "North Carolina",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 121,
+    "friends_count": 540,
+    "listed_count": 2,
+    "created_at": "Sun Mar 13 03:47:20 +0000 2011",
+    "favourites_count": 14,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7899,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3080751851/7e58be9bf96bfde99e46f9726d796cca_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3080751851/7e58be9bf96bfde99e46f9726d796cca_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/265167769/1353769631",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          101,
+          105
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "burriscj",
+        "name": "Chris Burris",
+        "id": 17240126,
+        "id_str": "17240126",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          13,
+          28
+        ]
+      },
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          33,
+          41
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

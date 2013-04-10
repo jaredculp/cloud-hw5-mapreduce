@@ -1,0 +1,104 @@
+{
+  "created_at": "Thu Jun 21 18:10:47 +0000 2012",
+  "id": 215869388929241088,
+  "id_str": "215869388929241088",
+  "text": "Important to consider #UVa situation in light of other universities, like LSU: http://t.co/53uOWW2a",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 349941915,
+    "id_str": "349941915",
+    "name": "Mike Pasquier",
+    "screen_name": "mpasquier",
+    "location": "",
+    "description": "professor of religious studies at LSU. teaches and writes about religion, culture, and the environment in the U.S.",
+    "url": "http://waterlikestonefilm.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://waterlikestonefilm.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 146,
+    "friends_count": 119,
+    "listed_count": 2,
+    "created_at": "Sat Aug 06 23:33:44 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 140,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/608662330/op716s17851pugc24a65.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/608662330/op716s17851pugc24a65.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2670321625/96c42c404c65242d5effb74dd1e0ca66_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2670321625/96c42c404c65242d5effb74dd1e0ca66_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          22,
+          26
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/53uOWW2a",
+        "expanded_url": "http://chronicle.com/article/Firing-at-LSU-Puts-Spotlight/131769/",
+        "display_url": "chronicle.com/article/Firing…",
+        "indices": [
+          79,
+          99
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

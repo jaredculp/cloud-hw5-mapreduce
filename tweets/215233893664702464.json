@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 00:05:33 +0000 2012",
+  "id": 215233893664702464,
+  "id_str": "215233893664702464",
+  "text": "Spoiler: it is not just Dr. Drezner.  RT @dandrezner: Is it just me, or is this a really damning letter? #UVA   https://t.co/GpGwrTjz",
+  "source": "<a href=\"http://tweetli.st/\" rel=\"nofollow\">TweetList Pro</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 81440052,
+    "id_str": "81440052",
+    "name": "Gregory Wilbur",
+    "screen_name": "gbwilbur",
+    "location": "DC",
+    "description": "NYU Law student and Marine veteran of OIF. Proud son of Detroit, city of. Views my own.",
+    "url": "http://allsfairinlawandwar.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://allsfairinlawandwar.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              41
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 107,
+    "friends_count": 518,
+    "listed_count": 4,
+    "created_at": "Sat Oct 10 20:58:00 +0000 2009",
+    "favourites_count": 30,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1746,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1429035780/Twitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1429035780/Twitter_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          105,
+          109
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/GpGwrTjz",
+        "expanded_url": "https://gist.github.com/2956118",
+        "display_url": "gist.github.com/2956118",
+        "indices": [
+          112,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dandrezner",
+        "name": "Daniel Drezner",
+        "id": 75797367,
+        "id_str": "75797367",
+        "indices": [
+          41,
+          52
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

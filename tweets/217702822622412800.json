@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:36:12 +0000 2012",
+  "id": 217702822622412800,
+  "id_str": "217702822622412800",
+  "text": "Yes they are-I’m tearing up a little bit, to be honest RT @wynkenhimself: The Lawn roars are quite lovely. #UVa",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20112111,
+    "id_str": "20112111",
+    "name": "Ryan Cordell",
+    "screen_name": "ryancordell",
+    "location": "Boston",
+    "description": "Assistant Professor of English @Northeastern Univ. Scholar of C19 literary, religious, & periodical culture. Digital Humanist. Writer @ProfHacker. #UVA alum.",
+    "url": "http://ryan.cordells.us",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ryan.cordells.us",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2446,
+    "friends_count": 725,
+    "listed_count": 228,
+    "created_at": "Thu Feb 05 01:19:14 +0000 2009",
+    "favourites_count": 466,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13367,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "CCCCCC",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/96597635/x738b9f701aea51025bd5891249e4393.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/96597635/x738b9f701aea51025bd5891249e4393.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3095914833/07c14eae87667651dc9b95ba72148448_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3095914833/07c14eae87667651dc9b95ba72148448_normal.jpeg",
+    "profile_link_color": "666666",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "333333",
+    "profile_text_color": "999999",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          107,
+          111
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wynkenhimself",
+        "name": "Sarah Werner",
+        "id": 35384223,
+        "id_str": "35384223",
+        "indices": [
+          58,
+          72
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

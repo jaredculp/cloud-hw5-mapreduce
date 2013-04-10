@@ -1,0 +1,98 @@
+{
+  "created_at": "Thu Jun 21 23:45:47 +0000 2012",
+  "id": 215953691956613121,
+  "id_str": "215953691956613121",
+  "text": "the @cavalierdaily is now my default new web browser tab.",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 9099702,
+    "id_str": "9099702",
+    "name": "Jeff Cornejo",
+    "screen_name": "cornexo",
+    "location": "3rd rock",
+    "description": "internet plumber",
+    "url": "http://photos.cornexo.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://photos.cornexo.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 325,
+    "friends_count": 487,
+    "listed_count": 11,
+    "created_at": "Wed Sep 26 02:11:30 +0000 2007",
+    "favourites_count": 138,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5316,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "734B17",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/2537783/_MG_5419-3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/2537783/_MG_5419-3.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2959718694/69ee2d661b6f52144d0d51df0174e0a4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2959718694/69ee2d661b6f52144d0d51df0174e0a4_normal.jpeg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          4,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

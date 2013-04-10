@@ -1,0 +1,105 @@
+{
+  "created_at": "Mon Aug 27 18:00:10 +0000 2012",
+  "id": 240146702672207872,
+  "id_str": "240146702672207872",
+  "text": "Crece la producción mundial de #uva de mesa http://t.co/ZY9ZcCCI",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 297397039,
+    "id_str": "297397039",
+    "name": "Mercados",
+    "screen_name": "RevistaMercados",
+    "location": "Sevilla, Spain",
+    "description": "Revista especializada en el sector de frutas y hortalizas de nivel nacional e internacional, con información y análisis diarios del sector. ",
+    "url": "http://www.revistamercados.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.revistamercados.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2664,
+    "friends_count": 923,
+    "listed_count": 119,
+    "created_at": "Thu May 12 13:05:08 +0000 2011",
+    "favourites_count": 111,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 18800,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/534505999/Portada_100_Abril-2.1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/534505999/Portada_100_Abril-2.1.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2280355550/mqsorg9xg61f7ar7rm8k_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2280355550/mqsorg9xg61f7ar7rm8k_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/297397039/1352200427",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "CADBC0",
+    "profile_sidebar_fill_color": "FFBA42",
+    "profile_text_color": "080808",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ZY9ZcCCI",
+        "expanded_url": "http://bit.ly/QIBk6B",
+        "display_url": "bit.ly/QIBk6B",
+        "indices": [
+          44,
+          64
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,128 @@
+{
+  "created_at": "Tue Jun 26 19:27:19 +0000 2012",
+  "id": 217700585942679552,
+  "id_str": "217700585942679552",
+  "text": "#UVA Sullivan is unanimously reinstated. Now a 2nd motion by another BOV member to affirm Dragas' position/goodwill on the board.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 31286542,
+    "id_str": "31286542",
+    "name": "Greg Hsu",
+    "screen_name": "SuperHsu",
+    "location": "Charlottesville, VA",
+    "description": "Andover 06, Duke 2010, InterVarsity staff working w/ Asian Americans @ UVA.",
+    "url": "http://www.hsuva.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.hsuva.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 318,
+    "friends_count": 281,
+    "listed_count": 12,
+    "created_at": "Wed Apr 15 00:52:55 +0000 2009",
+    "favourites_count": 2677,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4665,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2323115596/6eeyczmc69fjzh666yk7_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2323115596/6eeyczmc69fjzh666yk7_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "c6a65a6d0c74adac",
+    "url": "https://api.twitter.com/1.1/geo/id/c6a65a6d0c74adac.json",
+    "place_type": "city",
+    "name": "Lincoln",
+    "full_name": "Lincoln, MA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.366934,
+            42.392215
+          ],
+          [
+            -71.265855,
+            42.392215
+          ],
+          [
+            -71.265855,
+            42.465545
+          ],
+          [
+            -71.366934,
+            42.465545
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

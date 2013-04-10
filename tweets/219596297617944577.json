@@ -1,0 +1,92 @@
+{
+  "created_at": "Mon Jul 02 01:00:11 +0000 2012",
+  "id": 219596297617944577,
+  "id_str": "219596297617944577",
+  "text": "Walked into #Sullivan's and the off duty bartender calls @CharlesBull_ and myself by last name....",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 380416459,
+    "id_str": "380416459",
+    "name": "Brett Delk",
+    "screen_name": "TheBrettD",
+    "location": "RVA",
+    "description": "Enjoy the show!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 67,
+    "friends_count": 118,
+    "listed_count": 0,
+    "created_at": "Mon Sep 26 16:23:35 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 209,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/411517065/vdaybark.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/411517065/vdaybark.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1562496482/twit_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1562496482/twit_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          12,
+          21
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CharlesBull_",
+        "name": "Charles Bull",
+        "id": 38606336,
+        "id_str": "38606336",
+        "indices": [
+          57,
+          70
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

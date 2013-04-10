@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 19 23:48:51 +0000 2012",
+  "id": 215229691437645825,
+  "id_str": "215229691437645825",
+  "text": "MT @mikemenssen: #Dragas saying \"don't believe everything you read in newspapers\" is ironic after FOIA emails show her reliance on them #UVA",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 55067361,
+    "id_str": "55067361",
+    "name": "Catherine S. Read",
+    "screen_name": "csread",
+    "location": "Fairfax, VA",
+    "description": "Denizen of Fairfax City. Social Media Marketing consultant, speaker, trainer, volunteer. Graduate of GMU & President of Centreville Rotary Club.",
+    "url": "http://www.readthinkact.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.readthinkact.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 268,
+    "friends_count": 171,
+    "listed_count": 6,
+    "created_at": "Wed Jul 08 23:26:11 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 792,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4D8B38",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/393213187/COLOURlovers.com-TIMANTTIMAARIT.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/393213187/COLOURlovers.com-TIMANTTIMAARIT.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1850920550/READ_0150_-_Copy-1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1850920550/READ_0150_-_Copy-1_normal.jpg",
+    "profile_link_color": "101334",
+    "profile_sidebar_border_color": "E1CB3A",
+    "profile_sidebar_fill_color": "EDECCD",
+    "profile_text_color": "2A631E",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Dragas",
+        "indices": [
+          17,
+          24
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          136,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mikemenssen",
+        "name": "Mike Menssen",
+        "id": 103061811,
+        "id_str": "103061811",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

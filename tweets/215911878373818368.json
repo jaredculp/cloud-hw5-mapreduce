@@ -1,0 +1,246 @@
+{
+  "created_at": "Thu Jun 21 20:59:37 +0000 2012",
+  "id": 215911878373818368,
+  "id_str": "215911878373818368",
+  "text": "RT @BruceLeshan: Breaking News: The #UVA #BOV will meet next Tuesday to reconsider the ouster of President Teresa #Sullivan. @wusa9",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 128257341,
+    "id_str": "128257341",
+    "name": "Kenny Gamble",
+    "screen_name": "KennyG1423",
+    "location": "Washington, DC",
+    "description": "Assignment Editor at WUSA9 in Washington, D.C.",
+    "url": "http://www.wusa9.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wusa9.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 206,
+    "friends_count": 243,
+    "listed_count": 8,
+    "created_at": "Wed Mar 31 15:56:28 +0000 2010",
+    "favourites_count": 7,
+    "utc_offset": -36000,
+    "time_zone": "Hawaii",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11682,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/211838895/VideoCamera.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/211838895/VideoCamera.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1101597469/Kenny-Southpark_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1101597469/Kenny-Southpark_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jun 21 20:55:37 +0000 2012",
+    "id": 215910870751002625,
+    "id_str": "215910870751002625",
+    "text": "Breaking News: The #UVA #BOV will meet next Tuesday to reconsider the ouster of President Teresa #Sullivan. @wusa9",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23773209,
+      "id_str": "23773209",
+      "name": "Bruce Leshan",
+      "screen_name": "BruceLeshan",
+      "location": "Washington, DC",
+      "description": "Dad, husband, lover of waves and gardens. Correspondent since 1995 at W*USA-TV. Retweets are not endorsements.",
+      "url": "http://www.wusa9.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.wusa9.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 540,
+      "friends_count": 240,
+      "listed_count": 32,
+      "created_at": "Wed Mar 11 14:55:18 +0000 2009",
+      "favourites_count": 0,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 716,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/92872594/brl_smallpic_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/92872594/brl_smallpic_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVA",
+          "indices": [
+            19,
+            23
+          ]
+        },
+        {
+          "text": "BOV",
+          "indices": [
+            24,
+            28
+          ]
+        },
+        {
+          "text": "Sullivan",
+          "indices": [
+            97,
+            106
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "wusa9",
+          "name": "wusa9",
+          "id": 15391102,
+          "id_str": "15391102",
+          "indices": [
+            108,
+            114
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          36,
+          40
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          41,
+          45
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          114,
+          123
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BruceLeshan",
+        "name": "Bruce Leshan",
+        "id": 23773209,
+        "id_str": "23773209",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "wusa9",
+        "name": "wusa9",
+        "id": 15391102,
+        "id_str": "15391102",
+        "indices": [
+          125,
+          131
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,102 @@
+{
+  "created_at": "Sat Jun 23 02:03:15 +0000 2012",
+  "id": 216350676400345088,
+  "id_str": "216350676400345088",
+  "text": "“@washingtonpost: What would Thomas Jefferson think of #UVA turmoil? http://t.co/jdNi3T4C” Probly somthin along the lines of \"Dayum, baby!\"",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 597691667,
+    "id_str": "597691667",
+    "name": "Eric Alan Shirley",
+    "screen_name": "ericalanshirley",
+    "location": "",
+    "description": "I don't give a damn for a man that can only spell a word one way. - Mark Twain",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 33,
+    "friends_count": 317,
+    "listed_count": 0,
+    "created_at": "Sat Jun 02 19:48:17 +0000 2012",
+    "favourites_count": 783,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 923,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/569814019/8mhsawh09c01nvf8yaea.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/569814019/8mhsawh09c01nvf8yaea.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2335359072/p1m08d7pafbhwtev0u3w_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2335359072/p1m08d7pafbhwtev0u3w_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/597691667/1353543454",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          55,
+          59
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/jdNi3T4C",
+        "expanded_url": "http://wapo.st/L0KAD1",
+        "display_url": "wapo.st/L0KAD1",
+        "indices": [
+          69,
+          89
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          1,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,101 @@
+{
+  "created_at": "Fri Jun 29 21:52:55 +0000 2012",
+  "id": 218824390907928576,
+  "id_str": "218824390907928576",
+  "text": "*facepalm* RT @wpjenna Helen Dragas reappointed to #UVA Board of Visitors: http://t.co/rTIckDx9",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 218805330363154433,
+  "in_reply_to_status_id_str": "218805330363154433",
+  "in_reply_to_user_id": 15893354,
+  "in_reply_to_user_id_str": "15893354",
+  "in_reply_to_screen_name": "wpjenna",
+  "user": {
+    "id": 326515692,
+    "id_str": "326515692",
+    "name": "Jordan Shank",
+    "screen_name": "ShankJordan",
+    "location": "VA",
+    "description": "I like sports",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 91,
+    "friends_count": 302,
+    "listed_count": 0,
+    "created_at": "Thu Jun 30 01:36:41 +0000 2011",
+    "favourites_count": 273,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1965,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1419707914/SML_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1419707914/SML_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          51,
+          55
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/rTIckDx9",
+        "expanded_url": "http://wapo.st/NLLvqG",
+        "display_url": "wapo.st/NLLvqG",
+        "indices": [
+          75,
+          95
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          14,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

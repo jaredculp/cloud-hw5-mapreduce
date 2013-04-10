@@ -1,0 +1,118 @@
+{
+  "created_at": "Wed Jun 27 14:25:01 +0000 2012",
+  "id": 217986898105344002,
+  "id_str": "217986898105344002",
+  "text": "I remember that when I entered LIS, #UVa was already recognized as a world leader in the #digital #humanities. Cf.: http://t.co/yZ5pLJle",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25976071,
+    "id_str": "25976071",
+    "name": "Bernd-Chr. Kämper",
+    "screen_name": "bckaemper",
+    "location": "Stuttgart, Germany",
+    "description": "Lib(e)r(t)arian at Stuttgart University Library. Motto: Astronomers do it at night.",
+    "url": "http://www.ub.uni-stuttgart.de/personen/kaemper/bc.html",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.ub.uni-stuttgart.de/personen/kaemper/bc.html",
+            "expanded_url": null,
+            "indices": [
+              0,
+              55
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 535,
+    "friends_count": 525,
+    "listed_count": 55,
+    "created_at": "Mon Mar 23 09:24:12 +0000 2009",
+    "favourites_count": 676,
+    "utc_offset": 3600,
+    "time_zone": "Berlin",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8784,
+    "lang": "de",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/427418384/kubin-alfred-paul-1877-1959-au-der-baummorder-1104294.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/427418384/kubin-alfred-paul-1877-1959-au-der-baummorder-1104294.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/290589731/BC_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/290589731/BC_normal.jpg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "65B0DA",
+    "profile_sidebar_fill_color": "C2C9A6",
+    "profile_text_color": "3A2D43",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          36,
+          40
+        ]
+      },
+      {
+        "text": "digital",
+        "indices": [
+          89,
+          97
+        ]
+      },
+      {
+        "text": "humanities",
+        "indices": [
+          98,
+          109
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/yZ5pLJle",
+        "expanded_url": "http://chronicle.com/blogs/innovations/the-right-way-to-lead-higher-education-through-the-digital-age/33031",
+        "display_url": "chronicle.com/blogs/innovati…",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

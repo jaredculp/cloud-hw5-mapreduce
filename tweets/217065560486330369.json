@@ -1,0 +1,102 @@
+{
+  "created_at": "Mon Jun 25 01:23:57 +0000 2012",
+  "id": 217065560486330369,
+  "id_str": "217065560486330369",
+  "text": "This --&gt; RT @vpaige RT @UVAMaggie: Philosophy and Classics professors bring down the house at #UVA Rally... Long live the liberal arts!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 43251295,
+    "id_str": "43251295",
+    "name": "ConservaTiva",
+    "screen_name": "Conservativa",
+    "location": "Virginia, USA",
+    "description": "Photography and politics. Not all that conservative, actually.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 154,
+    "friends_count": 298,
+    "listed_count": 5,
+    "created_at": "Fri May 29 02:24:11 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1037,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBE2E0",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/15324952/twit1103.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/15324952/twit1103.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/271035521/twit110av_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/271035521/twit110av_normal.jpg",
+    "profile_link_color": "632703",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          97,
+          101
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "vpaige",
+        "name": "Vivian J. Paige",
+        "id": 15961546,
+        "id_str": "15961546",
+        "indices": [
+          15,
+          22
+        ]
+      },
+      {
+        "screen_name": "UVAMaggie",
+        "name": "Maggie Thornton",
+        "id": 16326850,
+        "id_str": "16326850",
+        "indices": [
+          26,
+          36
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

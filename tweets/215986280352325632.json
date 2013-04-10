@@ -1,0 +1,139 @@
+{
+  "created_at": "Fri Jun 22 01:55:16 +0000 2012",
+  "id": 215986280352325632,
+  "id_str": "215986280352325632",
+  "text": "“@cjprender: WOW. RT @palumboliu #UVa provost speaks out. This is getting very, very serious: http://t.co/xbd8jAsF” #HigherEd #CdnPSE",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 372578436,
+    "id_str": "372578436",
+    "name": "Alison Seaman",
+    "screen_name": "AlisonSeaman",
+    "location": "Regina, SK, Canada",
+    "description": "Newly MHRD'd from U of Regina. Into networked learning, KM, UX, content strategy & good design. Views expressed do not reflect any past or present employers.",
+    "url": "http://t.co/2fM2QAEy",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/2fM2QAEy",
+            "expanded_url": "http://about.me/alison_seaman",
+            "display_url": "about.me/alison_seaman",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 682,
+    "friends_count": 829,
+    "listed_count": 52,
+    "created_at": "Tue Sep 13 01:12:39 +0000 2011",
+    "favourites_count": 3856,
+    "utc_offset": -21600,
+    "time_zone": "Saskatchewan",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6880,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/605622726/nh3qhjty4vnqj4i30f5j.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/605622726/nh3qhjty4vnqj4i30f5j.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1573186166/AlisonMay2011_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1573186166/AlisonMay2011_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/372578436/1352686855",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "475757",
+    "profile_sidebar_fill_color": "578074",
+    "profile_text_color": "7EA680",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          33,
+          37
+        ]
+      },
+      {
+        "text": "HigherEd",
+        "indices": [
+          116,
+          125
+        ]
+      },
+      {
+        "text": "CdnPSE",
+        "indices": [
+          126,
+          133
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xbd8jAsF",
+        "expanded_url": "http://bit.ly/P7bivQ",
+        "display_url": "bit.ly/P7bivQ",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cjprender",
+        "name": "Writing Life",
+        "id": 77915683,
+        "id_str": "77915683",
+        "indices": [
+          1,
+          11
+        ]
+      },
+      {
+        "screen_name": "palumboliu",
+        "name": "David Palumbo-Liu",
+        "id": 229786929,
+        "id_str": "229786929",
+        "indices": [
+          21,
+          32
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

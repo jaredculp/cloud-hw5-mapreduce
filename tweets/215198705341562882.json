@@ -1,0 +1,168 @@
+{
+  "created_at": "Tue Jun 19 21:45:44 +0000 2012",
+  "id": 215198705341562882,
+  "id_str": "215198705341562882",
+  "text": "RT @GSwaim #VT WILL jump the #ACC ship later, but if they do, could be with #UVA to the #B1G. #Rutgers, #GT, #UMD also considerations toB1G.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 304822438,
+    "id_str": "304822438",
+    "name": "Jonathan Coker™",
+    "screen_name": "JonBCoker",
+    "location": "Woodstock, Georgia",
+    "description": "Penn State Football/College Football Enthusiast. America's Best Kept Secret™. #BillsMafia / jcoker55@yahoo.com",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 148,
+    "friends_count": 341,
+    "listed_count": 5,
+    "created_at": "Wed May 25 05:06:11 +0000 2011",
+    "favourites_count": 459,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5068,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/364268369/college_pennst_89.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/364268369/college_pennst_89.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3067742372/cd8ff6824b766e1ed9f60adf863d33bc_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3067742372/cd8ff6824b766e1ed9f60adf863d33bc_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/304822438/1359529911",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "11ad2827efa16878",
+    "url": "https://api.twitter.com/1.1/geo/id/11ad2827efa16878.json",
+    "place_type": "city",
+    "name": "Canton",
+    "full_name": "Canton, GA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -84.540191,
+            34.174106
+          ],
+          [
+            -84.452573,
+            34.174106
+          ],
+          [
+            -84.452573,
+            34.297865
+          ],
+          [
+            -84.540191,
+            34.297865
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "VT",
+        "indices": [
+          11,
+          14
+        ]
+      },
+      {
+        "text": "ACC",
+        "indices": [
+          29,
+          33
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          76,
+          80
+        ]
+      },
+      {
+        "text": "B1G",
+        "indices": [
+          88,
+          92
+        ]
+      },
+      {
+        "text": "Rutgers",
+        "indices": [
+          94,
+          102
+        ]
+      },
+      {
+        "text": "GT",
+        "indices": [
+          104,
+          107
+        ]
+      },
+      {
+        "text": "UMD",
+        "indices": [
+          109,
+          113
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GSwaim",
+        "name": "Greg Swaim Show",
+        "id": 37044409,
+        "id_str": "37044409",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

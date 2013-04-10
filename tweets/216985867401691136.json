@@ -1,0 +1,106 @@
+{
+  "created_at": "Sun Jun 24 20:07:16 +0000 2012",
+  "id": 216985867401691136,
+  "id_str": "216985867401691136",
+  "text": "Watching the #Rays vs #Phillies game and my bud @mschwimer gets in to pitch to finish off the game! Love it. #UVA pride",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 198360865,
+    "id_str": "198360865",
+    "name": "Jennings Grant",
+    "screen_name": "JenningsGrant",
+    "location": "",
+    "description": "HOOS",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 590,
+    "friends_count": 392,
+    "listed_count": 1,
+    "created_at": "Mon Oct 04 02:31:14 +0000 2010",
+    "favourites_count": 41,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 650,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/694557460/e5244e657f1f3bf531ae14501b235b93.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/694557460/e5244e657f1f3bf531ae14501b235b93.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2263393755/407527_2907943939140_1276800163_32642016_320617436_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2263393755/407527_2907943939140_1276800163_32642016_320617436_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Rays",
+        "indices": [
+          13,
+          18
+        ]
+      },
+      {
+        "text": "Phillies",
+        "indices": [
+          22,
+          31
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          109,
+          113
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mschwimer",
+        "name": "michael schwimer",
+        "id": 97738458,
+        "id_str": "97738458",
+        "indices": [
+          48,
+          58
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

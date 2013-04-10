@@ -1,0 +1,109 @@
+{
+  "created_at": "Tue Jun 26 18:41:03 +0000 2012",
+  "id": 217688944219922433,
+  "id_str": "217688944219922433",
+  "text": "Historic day at #UVA. Follow @ss9ug @dp_citybeat for coverage of rally on Lawn. Follow @TheUVAFool for sports and bourbon. #HoosForSullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 252169141,
+    "id_str": "252169141",
+    "name": "Shawn Brydge",
+    "screen_name": "sbrydge",
+    "location": "Cville",
+    "description": "University of Virginia - Financial Economics '00, Cavaliers Against Cancer, Chi Psi Lodge, WaHooWa",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 82,
+    "friends_count": 281,
+    "listed_count": 2,
+    "created_at": "Mon Feb 14 16:49:07 +0000 2011",
+    "favourites_count": 14,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 703,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/378253963/IMG_5035_edit.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/378253963/IMG_5035_edit.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2539162222/ypkhbkxzp6752fi1pb8k_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2539162222/ypkhbkxzp6752fi1pb8k_normal.jpeg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          16,
+          20
+        ]
+      },
+      {
+        "text": "HoosForSullivan",
+        "indices": [
+          123,
+          139
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ss9ug",
+        "name": "Stacy Smith",
+        "id": 6901462,
+        "id_str": "6901462",
+        "indices": [
+          29,
+          35
+        ]
+      },
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          87,
+          98
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

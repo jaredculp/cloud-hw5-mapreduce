@@ -1,0 +1,130 @@
+{
+  "created_at": "Thu Aug 30 21:16:39 +0000 2012",
+  "id": 241283313195687937,
+  "id_str": "241283313195687937",
+  "text": "WTF. “@CBS6: RT @catiebeck6: Huguely sentenced reduced to 23 years. If on good behavior he will serve 17. http://t.co/WZhKc1b5 #rva #uva”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26505653,
+    "id_str": "26505653",
+    "name": "Ruth",
+    "screen_name": "LimeyTart",
+    "location": "J'ville, NC",
+    "description": "Sarcasm. Snark. Books. Sports. Mom o' 4. Atheist. Progressive. Feminist. Loud. Social media @GWGlobetrotting.",
+    "url": "http://butnotyourface.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://butnotyourface.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 154,
+    "friends_count": 1010,
+    "listed_count": 7,
+    "created_at": "Wed Mar 25 14:17:29 +0000 2009",
+    "favourites_count": 210,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2838,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1747101435/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1747101435/image_normal.jpg",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "rva",
+        "indices": [
+          127,
+          131
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          132,
+          136
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WZhKc1b5",
+        "expanded_url": "http://on.wtvr.com/2beZrHS",
+        "display_url": "on.wtvr.com/2beZrHS",
+        "indices": [
+          106,
+          126
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CBS6",
+        "name": "CBS 6 WTVR Richmond",
+        "id": 13719342,
+        "id_str": "13719342",
+        "indices": [
+          6,
+          11
+        ]
+      },
+      {
+        "screen_name": "CatieBeck6",
+        "name": "Catie Beck",
+        "id": 76154659,
+        "id_str": "76154659",
+        "indices": [
+          16,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

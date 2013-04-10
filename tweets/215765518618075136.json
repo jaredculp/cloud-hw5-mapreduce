@@ -1,0 +1,107 @@
+{
+  "created_at": "Thu Jun 21 11:18:03 +0000 2012",
+  "id": 215765518618075136,
+  "id_str": "215765518618075136",
+  "text": "RT @sivavaid: The brutal, low-paid life that is part-time teaching http://t.co/uZwQUeh0",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 485938218,
+    "id_str": "485938218",
+    "name": "SCMS Teaching",
+    "screen_name": "SCMSTeaching",
+    "location": "International",
+    "description": "The Society for Cinema and Media Studies' Teaching Committee promote and publicize pedagogical issues in film and media studies.",
+    "url": "http://www.cmstudies.org/?page=comm_teaching",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cmstudies.org/?page=comm_teaching",
+            "expanded_url": null,
+            "indices": [
+              0,
+              44
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 241,
+    "friends_count": 8,
+    "listed_count": 6,
+    "created_at": "Tue Feb 07 18:55:03 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 87,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "070604",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/419513368/x9cfcbc3fcda85d562e2214c9e08f66b.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/419513368/x9cfcbc3fcda85d562e2214c9e08f66b.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1972796742/SCMStchLogo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1972796742/SCMStchLogo_normal.jpg",
+    "profile_link_color": "20421F",
+    "profile_sidebar_border_color": "D5C9B3",
+    "profile_sidebar_fill_color": "B0861A",
+    "profile_text_color": "0C1651",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/uZwQUeh0",
+        "expanded_url": "http://chronicle.com/article/A-Dismal-Picture-of-Life-as/132421/",
+        "display_url": "chronicle.com/article/A-Dism…",
+        "indices": [
+          67,
+          87
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

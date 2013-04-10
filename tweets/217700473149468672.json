@@ -1,0 +1,103 @@
+{
+  "created_at": "Tue Jun 26 19:26:52 +0000 2012",
+  "id": 217700473149468672,
+  "id_str": "217700473149468672",
+  "text": "Thanks for the #UVA updates! @kkiley @insidehighered",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 210696685,
+    "id_str": "210696685",
+    "name": "NE Heartbreak",
+    "screen_name": "KoleDavis",
+    "location": "Charlotte, NC",
+    "description": "Doctoral Candidate at #Northeastern University in Boston. Who am I? I'm a Student Affairs Professional, Habitat Volunteer, Music Enthusiast, NE4Lifer & an AKA.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 141,
+    "friends_count": 234,
+    "listed_count": 1,
+    "created_at": "Mon Nov 01 03:15:47 +0000 2010",
+    "favourites_count": 47,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2923,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2D8A59",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/606576437/l0cjig2x2i5yhaf5tl6c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/606576437/l0cjig2x2i5yhaf5tl6c.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2958361396/75aa90fe04a120ba3f37b96f572f2c80_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2958361396/75aa90fe04a120ba3f37b96f572f2c80_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/210696685/1355978774",
+    "profile_link_color": "FF17E4",
+    "profile_sidebar_border_color": "D966C2",
+    "profile_sidebar_fill_color": "B67CED",
+    "profile_text_color": "FFF719",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          15,
+          19
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kkiley",
+        "name": "Kevin Kiley",
+        "id": 16177254,
+        "id_str": "16177254",
+        "indices": [
+          29,
+          36
+        ]
+      },
+      {
+        "screen_name": "insidehighered",
+        "name": "Inside Higher Ed",
+        "id": 16045268,
+        "id_str": "16045268",
+        "indices": [
+          37,
+          52
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,117 @@
+{
+  "created_at": "Sun Aug 12 04:15:20 +0000 2012",
+  "id": 234503310059646976,
+  "id_str": "234503310059646976",
+  "text": "OK. sali anoche pero TRANKI no mas. #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 527121535,
+    "id_str": "527121535",
+    "name": "Palalalalala",
+    "screen_name": "PALAXX14",
+    "location": "",
+    "description": "Mejor solo que mal acompañado",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 134,
+    "friends_count": 186,
+    "listed_count": 0,
+    "created_at": "Sat Mar 17 05:21:44 +0000 2012",
+    "favourites_count": 25,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8481,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/684819775/38b5f2f4dc48c10e72bee46627195226.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/684819775/38b5f2f4dc48c10e72bee46627195226.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3182520818/87eb422d3f980ed93cd9fc9d62c8c81f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3182520818/87eb422d3f980ed93cd9fc9d62c8c81f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/527121535/1358131337",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "1b107df3ccc0aaa1",
+    "url": "https://api.twitter.com/1.1/geo/id/1b107df3ccc0aaa1.json",
+    "place_type": "country",
+    "name": "Brasil",
+    "full_name": "Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.991482,
+            -33.750576
+          ],
+          [
+            -32.378186,
+            -33.750576
+          ],
+          [
+            -32.378186,
+            5.27192
+          ],
+          [
+            -73.991482,
+            5.27192
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          36,
+          40
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

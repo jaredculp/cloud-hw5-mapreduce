@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 26 17:31:43 +0000 2012",
+  "id": 217671495529410560,
+  "id_str": "217671495529410560",
+  "text": "If you don't know what's going on at #UVA, here is a great article to help break it down: http://t.co/GjZVfCzP",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 414521005,
+    "id_str": "414521005",
+    "name": "Kate Poisson",
+    "screen_name": "KatePoisson",
+    "location": "Ann Arbor, MI",
+    "description": "Student Affairs Professional at the University of Michigan; Proud Spartan; Info junkie; Snuggie Enthusiast. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 110,
+    "friends_count": 176,
+    "listed_count": 4,
+    "created_at": "Thu Nov 17 04:35:57 +0000 2011",
+    "favourites_count": 62,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 478,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/365442224/IMG_6246.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/365442224/IMG_6246.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2723273713/4dca94a19a1401decd4894a90285cbb4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2723273713/4dca94a19a1401decd4894a90285cbb4_normal.jpeg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/GjZVfCzP",
+        "expanded_url": "http://chronicle.com/article/Timeline-A-Frenetic-Fortnight/132545/",
+        "display_url": "chronicle.com/article/Timeli…",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

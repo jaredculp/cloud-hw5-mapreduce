@@ -1,0 +1,123 @@
+{
+  "created_at": "Mon Aug 20 23:58:23 +0000 2012",
+  "id": 237700134153117696,
+  "id_str": "237700134153117696",
+  "text": "Definitely dorm-worthy artwork here. Thank goodness for Command hooks. #UVA http://t.co/GrVfG1bV",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 502204039,
+    "id_str": "502204039",
+    "name": "Marlena Spencer",
+    "screen_name": "MarlenaSpencer",
+    "location": "ΑΔΠ UVA",
+    "description": "A diamond in a rhinestone world.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 168,
+    "friends_count": 178,
+    "listed_count": 0,
+    "created_at": "Fri Feb 24 22:39:34 +0000 2012",
+    "favourites_count": 452,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1480,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/440416470/lime_seersucker.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/440416470/lime_seersucker.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3062473303/325ade8d47675cee87cc4a02f0700443_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3062473303/325ade8d47675cee87cc4a02f0700443_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/502204039/1356882520",
+    "profile_link_color": "F05BAB",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          71,
+          75
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 237700134157312000,
+        "id_str": "237700134157312000",
+        "indices": [
+          76,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/media/A0x7AzuCYAA9N_h.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A0x7AzuCYAA9N_h.jpg",
+        "url": "http://t.co/GrVfG1bV",
+        "display_url": "pic.twitter.com/GrVfG1bV",
+        "expanded_url": "http://twitter.com/MarlenaSpencer/status/237700134153117696/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 450,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 768,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 255,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

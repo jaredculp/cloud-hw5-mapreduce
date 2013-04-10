@@ -1,0 +1,113 @@
+{
+  "created_at": "Fri Jun 22 17:38:27 +0000 2012",
+  "id": 216223640029638656,
+  "id_str": "216223640029638656",
+  "text": "http://t.co/7iVSpeK3 @BobMcDonnell Way to be a leader, Governor. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 179950316,
+    "id_str": "179950316",
+    "name": "Mike Scott",
+    "screen_name": "SenorScott",
+    "location": "Charlottesville, VA",
+    "description": "High school Spanish teacher; College Spanish professor; Professional student on the side",
+    "url": "http://www.michaelrscott.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.michaelrscott.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 58,
+    "friends_count": 63,
+    "listed_count": 2,
+    "created_at": "Wed Aug 18 13:47:08 +0000 2010",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 183,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1435790390/Foto_9_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1435790390/Foto_9_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          65,
+          69
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/7iVSpeK3",
+        "expanded_url": "http://www2.timesdispatch.com/news/news/2012/jun/22/10/uva-interim-president-suspending-new-role-cites-bo-ar-2006678/",
+        "display_url": "www2.timesdispatch.com/news/news/2012…",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          21,
+          34
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

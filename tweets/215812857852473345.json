@@ -1,0 +1,105 @@
+{
+  "created_at": "Thu Jun 21 14:26:09 +0000 2012",
+  "id": 215812857852473345,
+  "id_str": "215812857852473345",
+  "text": "@tpedegraaff de onoverzichtelijkheidsprijs? #UvA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215792531303186433,
+  "in_reply_to_status_id_str": "215792531303186433",
+  "in_reply_to_user_id": 68204829,
+  "in_reply_to_user_id_str": "68204829",
+  "in_reply_to_screen_name": "tpedegraaff",
+  "user": {
+    "id": 21054818,
+    "id_str": "21054818",
+    "name": "David Crabbendam",
+    "screen_name": "DavidCrabbendam",
+    "location": "Amsterdam (The Netherlands)",
+    "description": "UvA student | Interviewer bij @room4discussion | Werkt bij MataHari",
+    "url": "http://t.co/a0I1fHfX",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/a0I1fHfX",
+            "expanded_url": "http://www.facebook.com/david.crabbendam",
+            "display_url": "facebook.com/david.crabbend…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 100,
+    "friends_count": 281,
+    "listed_count": 3,
+    "created_at": "Tue Feb 17 02:06:48 +0000 2009",
+    "favourites_count": 12,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1147,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/86857274/redbull_b.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/86857274/redbull_b.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2353273309/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2353273309/image_normal.jpg",
+    "profile_link_color": "03A123",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          44,
+          48
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "tpedegraaff",
+        "name": "Tim de Graaff",
+        "id": 68204829,
+        "id_str": "68204829",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

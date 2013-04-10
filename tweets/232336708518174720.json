@@ -1,0 +1,126 @@
+{
+  "created_at": "Mon Aug 06 04:46:02 +0000 2012",
+  "id": 232336708518174720,
+  "id_str": "232336708518174720",
+  "text": "My mom never went to college, but she'll be a \"Hoo\" for 6 weeks thanks to this course: https://t.co/k4Oyp1PX #Coursera #MOOC #ELearning #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 27506237,
+    "id_str": "27506237",
+    "name": "Eric Felix",
+    "screen_name": "EriqFelix",
+    "location": "Southern California",
+    "description": "Improving access to #HigherEd. Work @USDAdmissions. Started @OpenAccessCA. Inspired by my community. Focus on #FirstGen #CollegeAccess #Latino #YMOC issues.",
+    "url": "http://about.me/eriqfelix",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://about.me/eriqfelix",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1626,
+    "friends_count": 989,
+    "listed_count": 123,
+    "created_at": "Sun Mar 29 21:17:02 +0000 2009",
+    "favourites_count": 59,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 12253,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2489824489/4u4yhbxqv7unyqtublaw_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2489824489/4u4yhbxqv7unyqtublaw_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/27506237/1349489676",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Coursera",
+        "indices": [
+          109,
+          118
+        ]
+      },
+      {
+        "text": "MOOC",
+        "indices": [
+          119,
+          124
+        ]
+      },
+      {
+        "text": "ELearning",
+        "indices": [
+          125,
+          135
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          136,
+          140
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/k4Oyp1PX",
+        "expanded_url": "https://www.coursera.org/course/growtogreatness",
+        "display_url": "coursera.org/course/growtog…",
+        "indices": [
+          87,
+          108
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

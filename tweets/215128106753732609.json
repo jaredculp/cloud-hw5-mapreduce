@@ -1,0 +1,123 @@
+{
+  "created_at": "Tue Jun 19 17:05:12 +0000 2012",
+  "id": 215128106753732609,
+  "id_str": "215128106753732609",
+  "text": "Another one of those multiple hashtag days #aaup12 #ucladh #polisneh #adefl not to mention #UVA",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 48400074,
+    "id_str": "48400074",
+    "name": "John Theibault",
+    "screen_name": "jtheibault",
+    "location": "",
+    "description": "Historian interested in digital humanities",
+    "url": "http://www.jtheibault.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jtheibault.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1379,
+    "friends_count": 462,
+    "listed_count": 148,
+    "created_at": "Thu Jun 18 16:20:10 +0000 2009",
+    "favourites_count": 22,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7260,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/18708111/Eschwegebackground.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/18708111/Eschwegebackground.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/269363502/Cherub_Close_Up_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/269363502/Cherub_Close_Up_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "aaup12",
+        "indices": [
+          43,
+          50
+        ]
+      },
+      {
+        "text": "ucladh",
+        "indices": [
+          51,
+          58
+        ]
+      },
+      {
+        "text": "polisneh",
+        "indices": [
+          59,
+          68
+        ]
+      },
+      {
+        "text": "adefl",
+        "indices": [
+          69,
+          75
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

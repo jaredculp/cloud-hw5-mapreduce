@@ -1,0 +1,118 @@
+{
+  "created_at": "Fri Jun 29 03:26:50 +0000 2012",
+  "id": 218546036279484418,
+  "id_str": "218546036279484418",
+  "text": "#Wahoowa, #Hoos #UVA Mike Scott drafted by the Hawks! http://t.co/x4qcaaDi More in depth analysis of this tomorrow. Tonight, we celebrate.",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 61298227,
+    "id_str": "61298227",
+    "name": "University Ball",
+    "screen_name": "universityball",
+    "location": "Charlottesville, VA",
+    "description": "Formerly known as the Great Blog of Virginia. All things University of Virginia sports.",
+    "url": "http://www.universityball.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.universityball.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 511,
+    "friends_count": 202,
+    "listed_count": 42,
+    "created_at": "Wed Jul 29 21:17:04 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3947,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000066",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/448200668/Untitled-1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/448200668/Untitled-1.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/360675118/logo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/360675118/logo_normal.jpg",
+    "profile_link_color": "F08513",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Wahoowa",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "text": "Hoos",
+        "indices": [
+          10,
+          15
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          16,
+          20
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/x4qcaaDi",
+        "expanded_url": "http://www.universityball.org/?p=2443",
+        "display_url": "universityball.org/?p=2443",
+        "indices": [
+          54,
+          74
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

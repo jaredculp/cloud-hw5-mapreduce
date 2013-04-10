@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 19:56:49 +0000 2012",
+  "id": 217708010271813632,
+  "id_str": "217708010271813632",
+  "text": "RT @insidehighered: BREAKING: U.Va. Board Reinstates Sullivan: http://t.co/0xMjwXqO #UVa",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 175167654,
+    "id_str": "175167654",
+    "name": "Allie Rosenthal ",
+    "screen_name": "SocialAllie",
+    "location": "Boston, MA",
+    "description": "Social Media Strategist @MITSloan. Writer by night. #Marketing, #DigitalStrategy, #HigherEd. #SocialMedia #Writing.  @UVa and @umich alumna.  Tweets are my own.",
+    "url": "http://alliesimpson.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://alliesimpson.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 354,
+    "friends_count": 354,
+    "listed_count": 16,
+    "created_at": "Thu Aug 05 20:26:18 +0000 2010",
+    "favourites_count": 17,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 755,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EFF0ED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/421314043/xe62dd378f7031ad9a52db2c1437ec44.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/421314043/xe62dd378f7031ad9a52db2c1437ec44.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1815946834/blackandwhiteportrait_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1815946834/blackandwhiteportrait_normal.jpg",
+    "profile_link_color": "2D8269",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "530C2C",
+    "profile_text_color": "9E5276",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          84,
+          88
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/0xMjwXqO",
+        "expanded_url": "http://bit.ly/LzQyPU",
+        "display_url": "bit.ly/LzQyPU",
+        "indices": [
+          63,
+          83
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "insidehighered",
+        "name": "Inside Higher Ed",
+        "id": 16045268,
+        "id_str": "16045268",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

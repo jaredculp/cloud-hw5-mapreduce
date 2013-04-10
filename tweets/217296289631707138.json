@@ -1,0 +1,119 @@
+{
+  "created_at": "Mon Jun 25 16:40:47 +0000 2012",
+  "id": 217296289631707138,
+  "id_str": "217296289631707138",
+  "text": "RT @mjoelvoss If the #Sullivan issue has taught me anything, it's that @cavalierdaily &gt; @WSJ.  \n2:30 on Tuesday for #BOV.",
+  "source": "<a href=\"http://www.htc.com\" rel=\"nofollow\">  HTC Peep</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 44721447,
+    "id_str": "44721447",
+    "name": "Denise Linn",
+    "screen_name": "DKLinn",
+    "location": "Washington D.C.",
+    "description": "Media policy nerd / UVA alumna / AmeriCorps alumna",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 226,
+    "friends_count": 282,
+    "listed_count": 17,
+    "created_at": "Thu Jun 04 21:04:16 +0000 2009",
+    "favourites_count": 107,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1427,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "83A7C7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/116028629/twitterbround.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/116028629/twitterbround.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2305892098/3gt23efky4rprixgx5oo_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2305892098/3gt23efky4rprixgx5oo_normal.jpeg",
+    "profile_link_color": "CC3F5B",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "C1DAE8",
+    "profile_text_color": "08166B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          21,
+          30
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          119,
+          123
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mjoelvoss",
+        "name": "M. Joel Voss",
+        "id": 60258809,
+        "id_str": "60258809",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          71,
+          85
+        ]
+      },
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

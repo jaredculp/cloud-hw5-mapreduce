@@ -1,0 +1,100 @@
+{
+  "created_at": "Sun Jul 01 15:58:39 +0000 2012",
+  "id": 219460015340261378,
+  "id_str": "219460015340261378",
+  "text": "@JHolland18 Anywhere i can get me hands onto a long island! #SmashinRecordsSince93 #Bov?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 219459518629814273,
+  "in_reply_to_status_id_str": "219459518629814273",
+  "in_reply_to_user_id": 281418259,
+  "in_reply_to_user_id_str": "281418259",
+  "in_reply_to_screen_name": "JHolland18",
+  "user": {
+    "id": 571642126,
+    "id_str": "571642126",
+    "name": "Michael Blair",
+    "screen_name": "michaelblair13",
+    "location": "Chester rat",
+    "description": "When I'm sad, I stop being sad, and be AWESOME instead... true story",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 223,
+    "friends_count": 159,
+    "listed_count": 0,
+    "created_at": "Sat May 05 10:35:33 +0000 2012",
+    "favourites_count": 332,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2962,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2714083311/d74afe38e2123a38f0373db84cd12117_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2714083311/d74afe38e2123a38f0373db84cd12117_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/571642126/1358336281",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SmashinRecordsSince93",
+        "indices": [
+          60,
+          82
+        ]
+      },
+      {
+        "text": "Bov",
+        "indices": [
+          83,
+          87
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JHolland18",
+        "name": "Josh Holland",
+        "id": 281418259,
+        "id_str": "281418259",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

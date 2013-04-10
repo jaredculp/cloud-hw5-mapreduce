@@ -1,0 +1,84 @@
+{
+  "created_at": "Tue Aug 28 07:23:01 +0000 2012",
+  "id": 240348746397929472,
+  "id_str": "240348746397929472",
+  "text": "Onderweg naar Amsterdam #uva",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 288231382,
+    "id_str": "288231382",
+    "name": "Valérie Bosch",
+    "screen_name": "Valerie193",
+    "location": "Harderwijk, The Netherlands",
+    "description": "Studente Politicologie aan de Universiteit van Amsterdam.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 169,
+    "friends_count": 225,
+    "listed_count": 0,
+    "created_at": "Tue Apr 26 13:42:49 +0000 2011",
+    "favourites_count": 48,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3834,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/239801323/1263412558_5_Ob2W.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/239801323/1263412558_5_Ob2W.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3142586662/4e24022eb73957592d1f75c346401cb4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3142586662/4e24022eb73957592d1f75c346401cb4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/288231382/1353330068",
+    "profile_link_color": "AB6565",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "750000",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          24,
+          28
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,130 @@
+{
+  "created_at": "Tue Jul 03 17:55:43 +0000 2012",
+  "id": 220214250763857920,
+  "id_str": "220214250763857920",
+  "text": "RT @picachef It's time for the @georgiastraight Best of #Vancouver survey again. Have your say, Foodies! http://t.co/Vpddr3vH #BOV",
+  "source": "<a href=\"http://www.pagebase.net/\" rel=\"nofollow\">PageBase.Net</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 173137904,
+    "id_str": "173137904",
+    "name": "Vancouver Retweeter",
+    "screen_name": "vancouver_rt",
+    "location": "Vancouver, BC, CA",
+    "description": "I am a bot and i will retweet everything tagged with #Vancouver.\r\n\r\nNOTE: If you do NOT want me retweet you, tweet a status like @vancouver_rt #donotrtme.",
+    "url": "http://www.pagebase.net/twitter/retweeter/canada/vancouver/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.pagebase.net/twitter/retweeter/canada/vancouver/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              59
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5706,
+    "friends_count": 0,
+    "listed_count": 226,
+    "created_at": "Sat Jul 31 14:57:34 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 649252,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Vancouver",
+        "indices": [
+          56,
+          66
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          126,
+          130
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Vpddr3vH",
+        "expanded_url": "http://www.straight.com/bov/ballot/2012",
+        "display_url": "straight.com/bov/ballot/2012",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "picachef",
+        "name": "P.I.C.A.",
+        "id": 167191990,
+        "id_str": "167191990",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "georgiastraight",
+        "name": "The Georgia Straight",
+        "id": 14604658,
+        "id_str": "14604658",
+        "indices": [
+          31,
+          47
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

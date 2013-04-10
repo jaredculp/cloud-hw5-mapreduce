@@ -1,0 +1,113 @@
+{
+  "created_at": "Thu Jun 21 23:31:23 +0000 2012",
+  "id": 215950070749732865,
+  "id_str": "215950070749732865",
+  "text": "Can get a #UVA degree in all kinds of ways, including engineering at @swcenter in Abingdon, UVa-Wise, even Quatar. http://t.co/lwvo8Udf",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 124004237,
+    "id_str": "124004237",
+    "name": "Suzanne Tate",
+    "screen_name": "SuzanneTate",
+    "location": "Bristol, Tenn/Va ",
+    "description": "Media and marketing pro, career editor, MBA, VT Hokie, cook book collector, lover of blue crabs. Follow my food tweets @FineKettleFood",
+    "url": "http://www.linkedin.com/in/suzannetate",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.linkedin.com/in/suzannetate",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 927,
+    "friends_count": 1389,
+    "listed_count": 36,
+    "created_at": "Wed Mar 17 23:08:20 +0000 2010",
+    "favourites_count": 88,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5653,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "045F66",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/340832239/iconsbubble3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/340832239/iconsbubble3.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2229135211/headshotjpg_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2229135211/headshotjpg_normal.jpg",
+    "profile_link_color": "9D4CBD",
+    "profile_sidebar_border_color": "CE8108",
+    "profile_sidebar_fill_color": "EAF59B",
+    "profile_text_color": "046666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          10,
+          14
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/lwvo8Udf",
+        "expanded_url": "http://bit.ly/KBRzW0",
+        "display_url": "bit.ly/KBRzW0",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "swcenter",
+        "name": "Higher Ed Center",
+        "id": 16980193,
+        "id_str": "16980193",
+        "indices": [
+          69,
+          78
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

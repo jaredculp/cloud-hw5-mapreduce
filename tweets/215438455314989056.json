@@ -1,0 +1,101 @@
+{
+  "created_at": "Wed Jun 20 13:38:25 +0000 2012",
+  "id": 215438455314989056,
+  "id_str": "215438455314989056",
+  "text": "@FakePTJ Glad yoga gives U inner peace during all the turmoil that you've helped create at #UVA. Ur video makes me barf http://t.co/FDtqq9Mc",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 46109414951882752,
+  "in_reply_to_status_id_str": "46109414951882752",
+  "in_reply_to_user_id": 253924060,
+  "in_reply_to_user_id_str": "253924060",
+  "in_reply_to_screen_name": "FakePTJ",
+  "user": {
+    "id": 599552607,
+    "id_str": "599552607",
+    "name": "Sally Hemings Kid",
+    "screen_name": "SallyHemingsKid",
+    "location": "Tha Dirty South",
+    "description": "Bourgeois biracial bastard observing America's convoluted racial politics from the relative (dis-)comfort yet privilege of the periphery of The Big House.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 15,
+    "friends_count": 14,
+    "listed_count": 1,
+    "created_at": "Mon Jun 04 18:50:03 +0000 2012",
+    "favourites_count": 4,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 144,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2278487327/n0ek6zn5lf8e0zrysckd_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2278487327/n0ek6zn5lf8e0zrysckd_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/FDtqq9Mc",
+        "expanded_url": "http://www.youtube.com/watch?v=mxmJ6p-ATG8",
+        "display_url": "youtube.com/watch?v=mxmJ6p…",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "FakePTJ",
+        "name": "Paul Tudor Jones",
+        "id": 253924060,
+        "id_str": "253924060",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

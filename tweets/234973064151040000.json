@@ -1,0 +1,135 @@
+{
+  "created_at": "Mon Aug 13 11:21:58 +0000 2012",
+  "id": 234973064151040000,
+  "id_str": "234973064151040000",
+  "text": "La expansión del #vino por el mundo http://t.co/ZE18rcfn\nVía @Sabrosia #Vid #Uva #LaMáquina",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 329088945,
+    "id_str": "329088945",
+    "name": "Grupo La Máquina",
+    "screen_name": "GrupoLaMaquina",
+    "location": "Madrid",
+    "description": "Mucho más que #restaurantes. Descubre nuestras #CasasdeComidas en #Madrid. Respeto por la tradición, la materia prima y la calidad en el servicio.",
+    "url": "http://www.grupolamaquina.es",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.grupolamaquina.es",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1670,
+    "friends_count": 1404,
+    "listed_count": 52,
+    "created_at": "Mon Jul 04 14:38:20 +0000 2011",
+    "favourites_count": 145,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3837,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EFF0E7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/690283690/3a9216ab056857048abe1a40dbe07463.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/690283690/3a9216ab056857048abe1a40dbe07463.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2736451898/19e120ca9f95e45a7040bdb2439d5a15_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2736451898/19e120ca9f95e45a7040bdb2439d5a15_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/329088945/1350848415",
+    "profile_link_color": "E8A94B",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "D1D9DD",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "vino",
+        "indices": [
+          17,
+          22
+        ]
+      },
+      {
+        "text": "Vid",
+        "indices": [
+          71,
+          75
+        ]
+      },
+      {
+        "text": "Uva",
+        "indices": [
+          76,
+          80
+        ]
+      },
+      {
+        "text": "LaMáquina",
+        "indices": [
+          81,
+          91
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ZE18rcfn",
+        "expanded_url": "http://dlvr.it/20BqZW",
+        "display_url": "dlvr.it/20BqZW",
+        "indices": [
+          36,
+          56
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Sabrosia",
+        "name": "Sabrosía",
+        "id": 540298848,
+        "id_str": "540298848",
+        "indices": [
+          61,
+          70
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

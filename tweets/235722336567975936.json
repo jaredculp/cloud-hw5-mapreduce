@@ -1,0 +1,105 @@
+{
+  "created_at": "Wed Aug 15 12:59:19 +0000 2012",
+  "id": 235722336567975936,
+  "id_str": "235722336567975936",
+  "text": "Still need 1 more credit this fall? Check out the new #UVA Frank Batten short course, PPOL 4500: Food Policy http://t.co/opgDCUNz",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 456091570,
+    "id_str": "456091570",
+    "name": "Learning in Action",
+    "screen_name": "uvaservice",
+    "location": "Charlottesville, VA",
+    "description": "The official U.Va. Learning in Action Twitter site, connecting students, faculty, and community members to community engagement and service opportunities.",
+    "url": "http://www.virginia.edu/publicservice/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginia.edu/publicservice/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 164,
+    "friends_count": 100,
+    "listed_count": 7,
+    "created_at": "Thu Jan 05 21:27:48 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 213,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/736372313/1627174b446a1bbfdf0d5a3085418275.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/736372313/1627174b446a1bbfdf0d5a3085418275.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1737203548/lightbulb-twitter_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1737203548/lightbulb-twitter_normal.gif",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/456091570/1355345014",
+    "profile_link_color": "237539",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          54,
+          58
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/opgDCUNz",
+        "expanded_url": "http://www.virginia.edu/publicservice/courses.html",
+        "display_url": "virginia.edu/publicservice/…",
+        "indices": [
+          109,
+          129
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

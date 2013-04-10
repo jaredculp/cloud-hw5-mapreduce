@@ -1,0 +1,99 @@
+{
+  "created_at": "Fri Jun 22 23:31:43 +0000 2012",
+  "id": 216312542698545152,
+  "id_str": "216312542698545152",
+  "text": "@e3blue Get facts str8 - Kaine appointed Dragas, not #mcdonnell.  This said, she needs to go.  #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216309690416635904,
+  "in_reply_to_status_id_str": "216309690416635904",
+  "in_reply_to_user_id": 190296269,
+  "in_reply_to_user_id_str": "190296269",
+  "in_reply_to_screen_name": "e3blue",
+  "user": {
+    "id": 25095651,
+    "id_str": "25095651",
+    "name": "Lou Hablas",
+    "screen_name": "LouJH",
+    "location": "Alpharetta, GA",
+    "description": "technology, photography, cycling/fitness, all things UVA, meeting new people, my family, and Jesus Christ...life is good.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 340,
+    "friends_count": 698,
+    "listed_count": 2,
+    "created_at": "Wed Mar 18 15:57:22 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 417,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/385148212/twilk_background_4eef8dbdc3606.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/385148212/twilk_background_4eef8dbdc3606.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/396772151/twitterProfilePhoto_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/396772151/twitterProfilePhoto_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "mcdonnell",
+        "indices": [
+          53,
+          63
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          95,
+          99
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "e3blue",
+        "name": "Tom Glendening",
+        "id": 190296269,
+        "id_str": "190296269",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

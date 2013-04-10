@@ -1,0 +1,84 @@
+{
+  "created_at": "Fri Aug 31 00:09:21 +0000 2012",
+  "id": 241326776087891968,
+  "id_str": "241326776087891968",
+  "text": "Yo me tiré a #uva quién más?",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 89383936,
+    "id_str": "89383936",
+    "name": "Mr. Feliciano ",
+    "screen_name": "pr_cute112",
+    "location": "Puerto Rico ",
+    "description": "Maestro De Las Mentiras | Principe Del Sarcasmo | Aquí es donde me desahogo y expresó todo el odio acumulado | #Ami5jón - No creas todo lo q lees aquí! |",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 458,
+    "friends_count": 182,
+    "listed_count": 3,
+    "created_at": "Thu Nov 12 05:48:20 +0000 2009",
+    "favourites_count": 20,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 24737,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2984916092/867b01b868bdbf5e1bf810b74e555484_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2984916092/867b01b868bdbf5e1bf810b74e555484_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/89383936/1347982844",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          13,
+          17
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

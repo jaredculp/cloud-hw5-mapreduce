@@ -1,0 +1,127 @@
+{
+  "created_at": "Tue Jun 26 21:04:42 +0000 2012",
+  "id": 217725094099820546,
+  "id_str": "217725094099820546",
+  "text": "#ThisisAmerica: Charterization of higher ed stalled for a minute @ #UVA; Sullivan Reinstated Unanimously by #UVA Board  via @johnedwinmason",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 399156475,
+    "id_str": "399156475",
+    "name": "Africa is a Country",
+    "screen_name": "AfricasaCountry",
+    "location": "",
+    "description": "New twitter account for the media blog that's not about famine, Bono, or Barack Obama. Also on Facebook: http://t.co/0qErJS0M",
+    "url": "http://africasacountry.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://africasacountry.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/0qErJS0M",
+            "expanded_url": "http://on.fb.me/oIIHfc",
+            "display_url": "on.fb.me/oIIHfc",
+            "indices": [
+              105,
+              125
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 15357,
+    "friends_count": 126,
+    "listed_count": 430,
+    "created_at": "Thu Oct 27 02:25:14 +0000 2011",
+    "favourites_count": 312,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 16289,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/777978360/1084af30b01eae7ac79571097b56eea4.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/777978360/1084af30b01eae7ac79571097b56eea4.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2560805845/0v87fwgs2z9ws5bjk01i_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2560805845/0v87fwgs2z9ws5bjk01i_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/399156475/1352492859",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EDF5F2",
+    "profile_text_color": "6C5D84",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ThisisAmerica",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          67,
+          71
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          108,
+          112
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "johnedwinmason",
+        "name": "John Edwin Mason",
+        "id": 25343700,
+        "id_str": "25343700",
+        "indices": [
+          124,
+          139
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

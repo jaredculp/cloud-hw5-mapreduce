@@ -1,0 +1,83 @@
+{
+  "created_at": "Mon Aug 06 11:10:17 +0000 2012",
+  "id": 232433408930881536,
+  "id_str": "232433408930881536",
+  "text": "Comieendo #Uva",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 612373678,
+    "id_str": "612373678",
+    "name": "Brenda",
+    "screen_name": "Brenda_G_P",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 132,
+    "friends_count": 176,
+    "listed_count": 0,
+    "created_at": "Tue Jun 19 07:56:43 +0000 2012",
+    "favourites_count": 2,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1729,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0D0109",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2948343964/4330a2f9a53366cf6c69cc239f993c33_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2948343964/4330a2f9a53366cf6c69cc239f993c33_normal.jpeg",
+    "profile_link_color": "0A0A0A",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          10,
+          14
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,121 @@
+{
+  "created_at": "Tue Aug 21 19:02:39 +0000 2012",
+  "id": 237988099978833920,
+  "id_str": "237988099978833920",
+  "text": "http://t.co/iYdnyBpa &lt;--- sits atop the iron throne. RT @CoachMikeLondon: Things are heating up in Hooville!!! Iron Sharpens Iron #UVA #ACC",
+  "source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18522319,
+    "id_str": "18522319",
+    "name": "ebj",
+    "screen_name": "BeerControl",
+    "location": "behind a pint",
+    "description": "40 yrs of middle class, a-hole, #beercontrolfather swag. love of ipa's, virginia tech, #goacc & the side eye.\r\n I like to be rested before I hustle for paper.\r\n",
+    "url": "http://www.thekeyplay.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.thekeyplay.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1712,
+    "friends_count": 746,
+    "listed_count": 119,
+    "created_at": "Thu Jan 01 03:14:54 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 39069,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/501722763/gameday_logo_reference.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/501722763/gameday_logo_reference.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2577861749/profile_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2577861749/profile_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18522319/1353639860",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "F55905",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          133,
+          137
+        ]
+      },
+      {
+        "text": "ACC",
+        "indices": [
+          138,
+          142
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/iYdnyBpa",
+        "expanded_url": "http://yfrog.com/oepjbpqj",
+        "display_url": "yfrog.com/oepjbpqj",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CoachMikeLondon",
+        "name": "Mike London",
+        "id": 175767720,
+        "id_str": "175767720",
+        "indices": [
+          59,
+          75
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

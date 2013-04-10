@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 19 01:12:04 +0000 2012",
+  "id": 214888242812694529,
+  "id_str": "214888242812694529",
+  "text": "@Paranoiajack  #UVA #Sullivan Just another day in the 'Ville - got  a link so I can get my hate on?",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 214855361629405185,
+  "in_reply_to_status_id_str": "214855361629405185",
+  "in_reply_to_user_id": 33899053,
+  "in_reply_to_user_id_str": "33899053",
+  "in_reply_to_screen_name": "Paranoiajack",
+  "user": {
+    "id": 46351081,
+    "id_str": "46351081",
+    "name": "Jim Gavin",
+    "screen_name": "hardboiledjim",
+    "location": "Atlanta, GA",
+    "description": "Cigar-chomping, hard-drinking, unfrozen caveman, wannabe hack writer.",
+    "url": "http://jimgavin.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://jimgavin.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 131,
+    "friends_count": 226,
+    "listed_count": 1,
+    "created_at": "Thu Jun 11 09:14:05 +0000 2009",
+    "favourites_count": 34,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1065,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/258419008/jimgavin_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/258419008/jimgavin_normal.jpg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          15,
+          19
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          20,
+          29
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Paranoiajack",
+        "name": " Nicholas Martin",
+        "id": 33899053,
+        "id_str": "33899053",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

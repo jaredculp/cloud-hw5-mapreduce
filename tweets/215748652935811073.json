@@ -1,0 +1,93 @@
+{
+  "created_at": "Thu Jun 21 10:11:01 +0000 2012",
+  "id": 215748652935811073,
+  "id_str": "215748652935811073",
+  "text": "@e3blue you are polluting the #UVa hashtag.  can you figure out some other way to send out all of these tweets?",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215736930741137408,
+  "in_reply_to_status_id_str": "215736930741137408",
+  "in_reply_to_user_id": 190296269,
+  "in_reply_to_user_id_str": "190296269",
+  "in_reply_to_screen_name": "e3blue",
+  "user": {
+    "id": 129844636,
+    "id_str": "129844636",
+    "name": "Barbara Smith",
+    "screen_name": "nanaslugdiva",
+    "location": "West Coast",
+    "description": "academic in the social sciences who likes pop culture, technology, funny stuff, and tower defense games",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 101,
+    "friends_count": 255,
+    "listed_count": 1,
+    "created_at": "Mon Apr 05 15:51:31 +0000 2010",
+    "favourites_count": 5560,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9486,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2819278536/32bc6c7776be2e825fd62fc242481343_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2819278536/32bc6c7776be2e825fd62fc242481343_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/129844636/1357090436",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "e3blue",
+        "name": "Tom Glendening",
+        "id": 190296269,
+        "id_str": "190296269",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

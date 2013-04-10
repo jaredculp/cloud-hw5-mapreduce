@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 14:29:59 +0000 2012",
+  "id": 217625763233542145,
+  "id_str": "217625763233542145",
+  "text": "@claudinhopolary falando da #uva http://t.co/fFISgAYW",
+  "source": "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 124465180,
+  "in_reply_to_user_id_str": "124465180",
+  "in_reply_to_screen_name": "ClaudinhoPolary",
+  "user": {
+    "id": 365398570,
+    "id_str": "365398570",
+    "name": "Jovem Pan São Luis",
+    "screen_name": "PanSaoLuis",
+    "location": "SÃO LUÍS - MA",
+    "description": "A número 1 de São Luís, do Brasil e do Mundo!",
+    "url": "http://www.jovempansaoluis.com.br",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jovempansaoluis.com.br",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 557,
+    "friends_count": 8,
+    "listed_count": 2,
+    "created_at": "Wed Aug 31 11:20:59 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Santiago",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 733,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/389046451/bg_jovempan.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/389046451/bg_jovempan.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1521963622/270303_219343634768512_219343161435226_589940_1390805_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1521963622/270303_219343634768512_219343161435226_589940_1390805_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/fFISgAYW",
+        "expanded_url": "http://instagr.am/p/MVylaIyfoN/",
+        "display_url": "instagr.am/p/MVylaIyfoN/",
+        "indices": [
+          33,
+          53
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ClaudinhoPolary",
+        "name": "Claudinho Polary ",
+        "id": 124465180,
+        "id_str": "124465180",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

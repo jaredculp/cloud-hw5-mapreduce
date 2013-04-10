@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 19:58:34 +0000 2012",
+  "id": 215534123278811137,
+  "id_str": "215534123278811137",
+  "text": "It would be more than interesting to hear from @katiecouric about the latest events at #UVA with #BoV , Pres #Sullivan and Rector #Dragas",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 333615304,
+    "id_str": "333615304",
+    "name": "Arturo Esteve",
+    "screen_name": "ArturoEsteve",
+    "location": "Charlottesville, VA",
+    "description": "Here to annoy people, post whatever comes to mind, and make fun of some. It's my Twitter, after all.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 27,
+    "friends_count": 209,
+    "listed_count": 0,
+    "created_at": "Mon Jul 11 20:23:44 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 27,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2344407309/o44xfxclta8ggnfily45_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2344407309/o44xfxclta8ggnfily45_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          87,
+          91
+        ]
+      },
+      {
+        "text": "BoV",
+        "indices": [
+          97,
+          101
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          109,
+          118
+        ]
+      },
+      {
+        "text": "Dragas",
+        "indices": [
+          130,
+          137
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          47,
+          59
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

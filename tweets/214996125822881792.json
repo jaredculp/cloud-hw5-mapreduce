@@ -1,0 +1,131 @@
+{
+  "created_at": "Tue Jun 19 08:20:45 +0000 2012",
+  "id": 214996125822881792,
+  "id_str": "214996125822881792",
+  "text": "@LarrySabato what is this all about? What policy did UVa institute?",
+  "source": "<a href=\"http://www.handmark.com\" rel=\"nofollow\">TweetCaster for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 214922306974257154,
+  "in_reply_to_status_id_str": "214922306974257154",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 393049830,
+    "id_str": "393049830",
+    "name": "Obi_1_D_Allknowing",
+    "screen_name": "obiopiah",
+    "location": "Atlanta,Georgia",
+    "description": "Conservative and traditional. Political, public affairs and news junkie! American History buff!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 121,
+    "friends_count": 143,
+    "listed_count": 4,
+    "created_at": "Mon Oct 17 23:20:42 +0000 2011",
+    "favourites_count": 13,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1839,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2605091753/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2605091753/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      33.970179,
+      -84.137723
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -84.137723,
+      33.970179
+    ]
+  },
+  "place": {
+    "id": "7142eb97ae21e839",
+    "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json",
+    "place_type": "admin",
+    "name": "Georgia",
+    "full_name": "Georgia, US",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -85.605165,
+            30.355757
+          ],
+          [
+            -80.751429,
+            30.355757
+          ],
+          [
+            -80.751429,
+            35.000659
+          ],
+          [
+            -85.605165,
+            35.000659
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

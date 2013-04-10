@@ -1,0 +1,127 @@
+{
+  "created_at": "Tue Jul 03 13:53:44 +0000 2012",
+  "id": 220153352003125248,
+  "id_str": "220153352003125248",
+  "text": "RT @DailyProgress: New #UVa emails released on failed #Sullivan ouster http://t.co/L3g1Ybko / So who's lying, Kiernan or #Dragas?",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 209652887,
+    "id_str": "209652887",
+    "name": "Gail Hyder Wiley",
+    "screen_name": "WileyReader",
+    "location": "Charlottesville, VA",
+    "description": "Copyeditor, social media dabbler, researcher, community activist, church volunteer, genealogist, sports fan, wine lover",
+    "url": "https://www.facebook.com/GailHyderWiley.Copyeditor.and.Proofreader",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://www.facebook.com/GailHyderWiley.Copyeditor.and.Proofreader",
+            "expanded_url": null,
+            "indices": [
+              0,
+              66
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 159,
+    "friends_count": 237,
+    "listed_count": 8,
+    "created_at": "Fri Oct 29 16:33:47 +0000 2010",
+    "favourites_count": 43,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3215,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1897388795/images_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1897388795/images_normal.jpg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          23,
+          27
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          54,
+          63
+        ]
+      },
+      {
+        "text": "Dragas",
+        "indices": [
+          121,
+          128
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/L3g1Ybko",
+        "expanded_url": "http://bit.ly/KQPP6L",
+        "display_url": "bit.ly/KQPP6L",
+        "indices": [
+          71,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DailyProgress",
+        "name": "The Daily Progress",
+        "id": 17136814,
+        "id_str": "17136814",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

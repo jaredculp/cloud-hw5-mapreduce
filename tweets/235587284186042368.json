@@ -1,0 +1,111 @@
+{
+  "created_at": "Wed Aug 15 04:02:40 +0000 2012",
+  "id": 235587284186042368,
+  "id_str": "235587284186042368",
+  "text": "Goedemorgen, vandaag mag ik de #weepseramstelbuurt weer in. Spreekuur begint vandaag weer in #Creacafe #UVA tussen 11.00 en 12.00.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 580201211,
+    "id_str": "580201211",
+    "name": "Fred Sterk",
+    "screen_name": "polWeesperAmst",
+    "location": "Amsterdam",
+    "description": "Wijkagent WeesperAmstelbuurt, Team Amstel,  Eenheid Amsterdam Spoedeisende zaken niet via twitter maar bel 112",
+    "url": "https://t.co/EkGRU8dw",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/EkGRU8dw",
+            "expanded_url": "https://www.politie.nl/wijkagenten/05/fred-sterk.html",
+            "display_url": "politie.nl/wijkagenten/05…",
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 273,
+    "friends_count": 120,
+    "listed_count": 12,
+    "created_at": "Mon May 14 20:16:14 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 678,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/779051102/8e5516ffe3da44102664dd2d03e7c741.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/779051102/8e5516ffe3da44102664dd2d03e7c741.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2218713343/fred-sterk-twitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2218713343/fred-sterk-twitter_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/580201211/1359711729",
+    "profile_link_color": "004380",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "weepseramstelbuurt",
+        "indices": [
+          31,
+          50
+        ]
+      },
+      {
+        "text": "Creacafe",
+        "indices": [
+          93,
+          102
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          103,
+          107
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

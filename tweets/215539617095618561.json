@@ -1,0 +1,99 @@
+{
+  "created_at": "Wed Jun 20 20:20:23 +0000 2012",
+  "id": 215539617095618561,
+  "id_str": "215539617095618561",
+  "text": "A blog that's biting yet wonderful at the same time #uva #sullivan http://t.co/exTDhpkC?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18546555,
+    "id_str": "18546555",
+    "name": "Cynthia Boncella",
+    "screen_name": "bonchy",
+    "location": "Cleveland, Ohio",
+    "description": "Learning and sharing everything I can about my favorite city aka the Cleve aka the Best in the Midwest aka the REMAKE on the Lake",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 237,
+    "friends_count": 249,
+    "listed_count": 14,
+    "created_at": "Fri Jan 02 05:38:51 +0000 2009",
+    "favourites_count": 330,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1563,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2815699166/78e36e1e7c8675a4316623fd36bcbb49_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2815699166/78e36e1e7c8675a4316623fd36bcbb49_normal.jpeg",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          52,
+          56
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          57,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/exTDhpkC",
+        "expanded_url": "http://www.huffingtonpost.com/david-karpf/uva-boards-lazy-business-_b_1612319.html",
+        "display_url": "huffingtonpost.com/david-karpf/uv…",
+        "indices": [
+          67,
+          87
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

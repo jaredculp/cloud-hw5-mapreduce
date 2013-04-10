@@ -1,0 +1,122 @@
+{
+  "created_at": "Thu Jun 28 19:56:12 +0000 2012",
+  "id": 218432631249969152,
+  "id_str": "218432631249969152",
+  "text": "Good Case Study; and was glad to be a part! #wahoowa RT @UVA RT @jacquelynkitt: Social Media and the #uva Sullivan Presidency:",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 218427921411477506,
+  "in_reply_to_status_id_str": "218427921411477506",
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 95573143,
+    "id_str": "95573143",
+    "name": "Jamin Mendelsohn",
+    "screen_name": "JaminLM",
+    "location": "New York, NY",
+    "description": "my green juice brings all the boys to the yard",
+    "url": "http://www.BrooklynJam.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.BrooklynJam.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1133,
+    "friends_count": 855,
+    "listed_count": 42,
+    "created_at": "Wed Dec 09 04:10:18 +0000 2009",
+    "favourites_count": 69,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5985,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/151700024/x8acfcabe6a4cb8a2a0e98e20fce08ed.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/151700024/x8acfcabe6a4cb8a2a0e98e20fce08ed.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2907942562/456370d0511226f4171e21cd569f32ff_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2907942562/456370d0511226f4171e21cd569f32ff_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/95573143/1356745288",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "wahoowa",
+        "indices": [
+          44,
+          52
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          101,
+          105
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          56,
+          60
+        ]
+      },
+      {
+        "screen_name": "jacquelynkitt",
+        "name": "Jacquelyn Kittredge",
+        "id": 16530867,
+        "id_str": "16530867",
+        "indices": [
+          64,
+          78
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

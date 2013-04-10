@@ -1,0 +1,114 @@
+{
+  "created_at": "Fri Jun 22 18:17:15 +0000 2012",
+  "id": 216233405296279552,
+  "id_str": "216233405296279552",
+  "text": ". @dtwillingham's smackdown of #UVA Rector and Vice-Rector's emails is also well worth the read http://t.co/XZIpaN6k",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 185680080,
+    "id_str": "185680080",
+    "name": "maggie severns",
+    "screen_name": "MaggieSeverns",
+    "location": "San Francisco",
+    "description": "@MotherJones fellow, former @NewAmerica analyst. Politics and education, mostly.",
+    "url": "http://t.co/jyub2gld",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/jyub2gld",
+            "expanded_url": "http://www.motherjones.com/authors/maggie-severns",
+            "display_url": "motherjones.com/authors/maggie…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 369,
+    "friends_count": 379,
+    "listed_count": 11,
+    "created_at": "Wed Sep 01 15:38:49 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1273,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/735671862/dc006fa6c7b9174237a809b896d4c09c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/735671862/dc006fa6c7b9174237a809b896d4c09c.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2703606478/bde96a6b780fa1be5c57091c746282d1_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2703606478/bde96a6b780fa1be5c57091c746282d1_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "484778",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/XZIpaN6k",
+        "expanded_url": "http://bit.ly/LDGYYu",
+        "display_url": "bit.ly/LDGYYu",
+        "indices": [
+          96,
+          116
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DTWillingham",
+        "name": "Daniel T. Willingham",
+        "id": 84619537,
+        "id_str": "84619537",
+        "indices": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

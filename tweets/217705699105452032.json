@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 26 19:47:38 +0000 2012",
+  "id": 217705699105452032,
+  "id_str": "217705699105452032",
+  "text": "Wow indeed. RT @jonkowalski Wow. RT @chronicle Teresa Sullivan is reinstated at #UVa: http://t.co/yXQBIQnQ Complete coverage:",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217705266119049217,
+  "in_reply_to_status_id_str": "217705266119049217",
+  "in_reply_to_user_id": 61797980,
+  "in_reply_to_user_id_str": "61797980",
+  "in_reply_to_screen_name": "jonkowalski",
+  "user": {
+    "id": 40064113,
+    "id_str": "40064113",
+    "name": "Kerry Jo Richards",
+    "screen_name": "kerryjor",
+    "location": "Betwixt Baltimore and DC",
+    "description": "Ringmaster. Loud laugh-er. Believer in the fundamental goodness of people even when they kinda stink. Lover of #EDU #Nerds #Games #Costumes #Tutus #Camaraderie",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 944,
+    "friends_count": 847,
+    "listed_count": 74,
+    "created_at": "Thu May 14 19:15:44 +0000 2009",
+    "favourites_count": 1302,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 12124,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/338720962/free_twitter_designer.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/338720962/free_twitter_designer.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2722048143/46ababaffa8fe806dad002a674dc767b_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2722048143/46ababaffa8fe806dad002a674dc767b_normal.jpeg",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "C2F00C",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          80,
+          84
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/yXQBIQnQ",
+        "expanded_url": "http://chroni.cl/QdqIiN",
+        "display_url": "chroni.cl/QdqIiN",
+        "indices": [
+          86,
+          106
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jonkowalski",
+        "name": "Jon Kowalski",
+        "id": 61797980,
+        "id_str": "61797980",
+        "indices": [
+          15,
+          27
+        ]
+      },
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          36,
+          46
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

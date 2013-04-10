@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 26 20:33:17 +0000 2012",
+  "id": 217717189896183808,
+  "id_str": "217717189896183808",
+  "text": "@erikstabone you're not the first one to make that claim #UVA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217714890687778818,
+  "in_reply_to_status_id_str": "217714890687778818",
+  "in_reply_to_user_id": 27107805,
+  "in_reply_to_user_id_str": "27107805",
+  "in_reply_to_screen_name": "erikstabone",
+  "user": {
+    "id": 350616960,
+    "id_str": "350616960",
+    "name": "Annie I.",
+    "screen_name": "cupcakes4annie",
+    "location": "Arlington, VA",
+    "description": "conquering the world, 4 cupcakes at a time.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 30,
+    "friends_count": 187,
+    "listed_count": 0,
+    "created_at": "Mon Aug 08 02:00:28 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 152,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1539234097/MyPicture_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1539234097/MyPicture_2_normal.jpg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          57,
+          61
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "erikstabone",
+        "name": "Erik Larson",
+        "id": 27107805,
+        "id_str": "27107805",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

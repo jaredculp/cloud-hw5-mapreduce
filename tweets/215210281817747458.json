@@ -1,0 +1,123 @@
+{
+  "created_at": "Tue Jun 19 22:31:44 +0000 2012",
+  "id": 215210281817747458,
+  "id_str": "215210281817747458",
+  "text": "RT @johnmjones: RT @haaspolicy: Excellent analysis of how #UVa mess is like K-12 mess.... http://t.co/WKCI6f7k.  Bad governing structures.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 47421407,
+    "id_str": "47421407",
+    "name": "Van Piercy",
+    "screen_name": "vpiercy",
+    "location": "Magnolia, Texas",
+    "description": "English professor into rhetoric & composition scholarship, faculty development, and social media. Opinions posted here are not those of my employer.  ",
+    "url": "http://vpiercy.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://vpiercy.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 457,
+    "friends_count": 977,
+    "listed_count": 35,
+    "created_at": "Mon Jun 15 19:35:22 +0000 2009",
+    "favourites_count": 1078,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1343,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/22562488/06-27-07P_425.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/22562488/06-27-07P_425.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1186919727/vanprofileshot_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1186919727/vanprofileshot_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          58,
+          62
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WKCI6f7k",
+        "expanded_url": "http://wapo.st/MDB7Uc",
+        "display_url": "wapo.st/MDB7Uc",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "johnmjones",
+        "name": "John Jones",
+        "id": 5533302,
+        "id_str": "5533302",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "haaspolicy",
+        "name": "Haas Policy",
+        "id": 39143159,
+        "id_str": "39143159",
+        "indices": [
+          19,
+          30
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

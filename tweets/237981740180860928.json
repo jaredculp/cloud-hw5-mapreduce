@@ -1,0 +1,137 @@
+{
+  "created_at": "Tue Aug 21 18:37:23 +0000 2012",
+  "id": 237981740180860928,
+  "id_str": "237981740180860928",
+  "text": "RT @Rivals: #Rivals analyst @rivalsmike full story on the Taquan Mizzell commitment to #UVA ($) http://t.co/OM3znWqp /// #Hoos",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 386315878,
+    "id_str": "386315878",
+    "name": "Mike G.",
+    "screen_name": "MikeGRivals",
+    "location": "",
+    "description": "Full-time Producer for College Team Sites for Rivals.com/Yahoo! Sports / Part-time photographer at sports events",
+    "url": "http://www.rivals.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.rivals.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 679,
+    "friends_count": 303,
+    "listed_count": 15,
+    "created_at": "Fri Oct 07 01:36:37 +0000 2011",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2846,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1C468A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/619385411/2vd5hor928hhu59vbffj.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/619385411/2vd5hor928hhu59vbffj.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2405729033/0mvera5t7elz1qxkx8fr_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2405729033/0mvera5t7elz1qxkx8fr_normal.jpeg",
+    "profile_link_color": "1C468A",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Rivals",
+        "indices": [
+          12,
+          19
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          87,
+          91
+        ]
+      },
+      {
+        "text": "Hoos",
+        "indices": [
+          121,
+          126
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/OM3znWqp",
+        "expanded_url": "http://bit.ly/NEPNBL",
+        "display_url": "bit.ly/NEPNBL",
+        "indices": [
+          96,
+          116
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Rivals",
+        "name": "Rivals.com",
+        "id": 109959589,
+        "id_str": "109959589",
+        "indices": [
+          3,
+          10
+        ]
+      },
+      {
+        "screen_name": "rivalsmike",
+        "name": "Mike Farrell",
+        "id": 170021040,
+        "id_str": "170021040",
+        "indices": [
+          28,
+          39
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

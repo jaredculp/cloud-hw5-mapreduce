@@ -1,0 +1,111 @@
+{
+  "created_at": "Wed Jun 27 15:11:02 +0000 2012",
+  "id": 217998479295905792,
+  "id_str": "217998479295905792",
+  "text": "@DMendelsohn1960 A better outcome, but like Creon #BoV at #UVa changed course too late to avert catastrophe for themselves, if not others.",
+  "source": "<a href=\"http://streamie.org\" rel=\"nofollow\">streamie</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217977744330473472,
+  "in_reply_to_status_id_str": "217977744330473472",
+  "in_reply_to_user_id": 483657883,
+  "in_reply_to_user_id_str": "483657883",
+  "in_reply_to_screen_name": "DMendelsohn1960",
+  "user": {
+    "id": 337973490,
+    "id_str": "337973490",
+    "name": "Daniel Barber",
+    "screen_name": "Horatiana",
+    "location": "Omaha, NE",
+    "description": "I teach Greek and Latin in the Dept. of Classical and Near Eastern Studies at Creighton University",
+    "url": "http://dbarber.horatiana.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://dbarber.horatiana.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 95,
+    "friends_count": 73,
+    "listed_count": 5,
+    "created_at": "Mon Jul 18 21:45:07 +0000 2011",
+    "favourites_count": 93,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 214,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/419346243/0e89e5041ecd11e1abb01231381b65e3_7.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/419346243/0e89e5041ecd11e1abb01231381b65e3_7.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1474697893/tenax_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1474697893/tenax_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BoV",
+        "indices": [
+          50,
+          54
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          58,
+          62
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DMendelsohn1960",
+        "name": "Daniel Mendelsohn",
+        "id": 483657883,
+        "id_str": "483657883",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

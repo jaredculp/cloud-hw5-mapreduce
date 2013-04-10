@@ -1,0 +1,114 @@
+{
+  "created_at": "Sun Jun 24 13:18:40 +0000 2012",
+  "id": 216883036657172480,
+  "id_str": "216883036657172480",
+  "text": "Thoughtful piece. RT @washingtonpost: What would Thomas Jefferson think of the #UVA turmoil? http://t.co/zkkM7tC2",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17176889,
+    "id_str": "17176889",
+    "name": "Allen Stairs",
+    "screen_name": "AllenStairs",
+    "location": "USA",
+    "description": "Philosophy prof; views tweeted are mine and not UMD's. I have an inner 12-year-old and he knows how to use me.",
+    "url": "http://astairs.posterous.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://astairs.posterous.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1458,
+    "friends_count": 339,
+    "listed_count": 147,
+    "created_at": "Wed Nov 05 02:06:39 +0000 2008",
+    "favourites_count": 316,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 36118,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "777777",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/55009621/PB220286.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/55009621/PB220286.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3131800770/2fcca6e8e5091a5f4aab3600da43ff78_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3131800770/2fcca6e8e5091a5f4aab3600da43ff78_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/17176889/1354489122",
+    "profile_link_color": "000055",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "888888",
+    "profile_text_color": "111111",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          79,
+          83
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zkkM7tC2",
+        "expanded_url": "http://wapo.st/L4peo9",
+        "display_url": "wapo.st/L4peo9",
+        "indices": [
+          93,
+          113
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          21,
+          36
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

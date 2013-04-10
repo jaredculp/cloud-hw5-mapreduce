@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jun 20 12:59:08 +0000 2012",
+  "id": 215428570225455104,
+  "id_str": "215428570225455104",
+  "text": "RT @jbouie ICYMI, I wrote a long-ish post on how troubles at #UVA are a microcosm for the whole country http://t.co/7Br9IKFR @theprospect",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21613853,
+    "id_str": "21613853",
+    "name": "Wyeth Ruthven",
+    "screen_name": "wyethwire",
+    "location": "",
+    "description": "Recovering blogger. Sometimes lawyer. South Carolina expatriate. Opinions expressed are mine alone.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3007,
+    "friends_count": 335,
+    "listed_count": 90,
+    "created_at": "Mon Feb 23 00:09:25 +0000 2009",
+    "favourites_count": 98,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11890,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/19847141/images.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/19847141/images.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/421280816/wyeth_madmen_icon_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/421280816/wyeth_madmen_icon_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/21613853/1348449646",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/7Br9IKFR",
+        "expanded_url": "http://cl.ly/HUHz",
+        "display_url": "cl.ly/HUHz",
+        "indices": [
+          104,
+          124
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jbouie",
+        "name": "Jamelle Bouie",
+        "id": 14190948,
+        "id_str": "14190948",
+        "indices": [
+          3,
+          10
+        ]
+      },
+      {
+        "screen_name": "theprospect",
+        "name": "The Prospect",
+        "id": 15949696,
+        "id_str": "15949696",
+        "indices": [
+          125,
+          137
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,83 @@
+{
+  "created_at": "Tue Aug 07 15:57:16 +0000 2012",
+  "id": 232868017342668800,
+  "id_str": "232868017342668800",
+  "text": "hoje começa o 2° período ! #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 298146438,
+    "id_str": "298146438",
+    "name": "Felippe Rodrigues",
+    "screen_name": "felippe12crf",
+    "location": "Rio de Janeiro",
+    "description": "FLAMENGO é maior que tudo e todos !",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 61,
+    "friends_count": 53,
+    "listed_count": 10,
+    "created_at": "Fri May 13 20:01:50 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 659,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/533401564/319287_213520322053741_100001873239852_496742_1858461124_n.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/533401564/319287_213520322053741_100001873239852_496742_1858461124_n.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2301449879/fjk5hbuvgylausz6w08y_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2301449879/fjk5hbuvgylausz6w08y_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          27,
+          31
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

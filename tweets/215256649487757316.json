@@ -1,0 +1,111 @@
+{
+  "created_at": "Wed Jun 20 01:35:59 +0000 2012",
+  "id": 215256649487757316,
+  "id_str": "215256649487757316",
+  "text": "@cavalierdaily Is #UVA undergoing a Wall St/Right wing takeover? Speculation in recent news reports. #Coll78",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215248888020471809,
+  "in_reply_to_status_id_str": "215248888020471809",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 14820509,
+    "id_str": "14820509",
+    "name": "waltb31",
+    "screen_name": "waltb31",
+    "location": "Cincinnati, Ohio",
+    "description": "I am a Jazz Promoter and concert producer. Progressive politics #Obama2012 #p2 #jazz music is the essence of life.",
+    "url": "http://jazzincincy.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://jazzincincy.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 958,
+    "friends_count": 1939,
+    "listed_count": 17,
+    "created_at": "Sun May 18 13:18:43 +0000 2008",
+    "favourites_count": 77,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3452,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "672726",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/227866670/xb200abecb8b5061485938c2ac6e8058.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/227866670/xb200abecb8b5061485938c2ac6e8058.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/129505712/Walt_small_image_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/129505712/Walt_small_image_normal.jpeg",
+    "profile_link_color": "B4552A",
+    "profile_sidebar_border_color": "D4FCEF",
+    "profile_sidebar_fill_color": "3B4956",
+    "profile_text_color": "C3CFA6",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          18,
+          22
+        ]
+      },
+      {
+        "text": "Coll78",
+        "indices": [
+          101,
+          108
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

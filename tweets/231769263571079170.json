@@ -1,0 +1,155 @@
+{
+  "created_at": "Sat Aug 04 15:11:13 +0000 2012",
+  "id": 231769263571079170,
+  "id_str": "231769263571079170",
+  "text": "Oh hey Charlottesville! #UVA #Monticello #ThomasJefferson",
+  "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29738043,
+    "id_str": "29738043",
+    "name": "Pierre Tong",
+    "screen_name": "pierretong",
+    "location": "Clemson, SC",
+    "description": "Warning - Excessive Tweeter......you have been warned! Senior at Clemson University!",
+    "url": "http://www.facebook.com/pierretong",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/pierretong",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1123,
+    "friends_count": 1123,
+    "listed_count": 9,
+    "created_at": "Wed Apr 08 15:20:44 +0000 2009",
+    "favourites_count": 4326,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 33610,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1132838970/41128_1266191654896_1232910582_31148116_1500506_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1132838970/41128_1266191654896_1232910582_31148116_1500506_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/29738043/1353267550",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.0972082,
+      -78.46354502
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.46354502,
+      38.0972082
+    ]
+  },
+  "place": {
+    "id": "e56d20873bae2b13",
+    "url": "https://api.twitter.com/1.1/geo/id/e56d20873bae2b13.json",
+    "place_type": "city",
+    "name": "Rio",
+    "full_name": "Rio, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.517217,
+            38.061895
+          ],
+          [
+            -78.442982,
+            38.061895
+          ],
+          [
+            -78.442982,
+            38.15031
+          ],
+          [
+            -78.517217,
+            38.15031
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          24,
+          28
+        ]
+      },
+      {
+        "text": "Monticello",
+        "indices": [
+          29,
+          40
+        ]
+      },
+      {
+        "text": "ThomasJefferson",
+        "indices": [
+          41,
+          57
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

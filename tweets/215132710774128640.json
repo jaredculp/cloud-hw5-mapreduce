@@ -1,0 +1,226 @@
+{
+  "created_at": "Tue Jun 19 17:23:29 +0000 2012",
+  "id": 215132710774128640,
+  "id_str": "215132710774128640",
+  "text": "RT @sivavaid: .@DKLinn please start a campaign to get @timkaine to help save #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 367415824,
+    "id_str": "367415824",
+    "name": "Christopher Chu",
+    "screen_name": "chu_christoper",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 8,
+    "friends_count": 2,
+    "listed_count": 0,
+    "created_at": "Sat Sep 03 23:01:22 +0000 2011",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 64,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Jun 18 23:27:10 +0000 2012",
+    "id": 214861844509245441,
+    "id_str": "214861844509245441",
+    "text": ".@DKLinn please start a campaign to get @timkaine to help save #UVA",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 214857561214693377,
+    "in_reply_to_status_id_str": "214857561214693377",
+    "in_reply_to_user_id": 44721447,
+    "in_reply_to_user_id_str": "44721447",
+    "in_reply_to_screen_name": "DKLinn",
+    "user": {
+      "id": 20406724,
+      "id_str": "20406724",
+      "name": "Siva Vaidhyanathan",
+      "screen_name": "sivavaid",
+      "location": "Charlottesville, VA",
+      "description": "Author of The Googlization of Everything (2011), The Anarchist in the Library (2004), and Copyrights and Copywrongs (2001).",
+      "url": "http://www.googlizationofeverything.com/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.googlizationofeverything.com/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                40
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 7757,
+      "friends_count": 1548,
+      "listed_count": 529,
+      "created_at": "Mon Feb 09 01:29:24 +0000 2009",
+      "favourites_count": 2739,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 26393,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/234287703/Googlizationcoverlight.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/234287703/Googlizationcoverlight.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2539653916/jj41921r6yzhruyxh8e7_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2539653916/jj41921r6yzhruyxh8e7_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVA",
+          "indices": [
+            63,
+            67
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "DKLinn",
+          "name": "Denise Linn",
+          "id": 44721447,
+          "id_str": "44721447",
+          "indices": [
+            1,
+            8
+          ]
+        },
+        {
+          "screen_name": "timkaine",
+          "name": "Senator Tim Kaine",
+          "id": 172858784,
+          "id_str": "172858784",
+          "indices": [
+            40,
+            49
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          77,
+          81
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "DKLinn",
+        "name": "Denise Linn",
+        "id": 44721447,
+        "id_str": "44721447",
+        "indices": [
+          15,
+          22
+        ]
+      },
+      {
+        "screen_name": "timkaine",
+        "name": "Senator Tim Kaine",
+        "id": 172858784,
+        "id_str": "172858784",
+        "indices": [
+          54,
+          63
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

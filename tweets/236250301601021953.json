@@ -1,0 +1,102 @@
+{
+  "created_at": "Thu Aug 16 23:57:15 +0000 2012",
+  "id": 236250301601021953,
+  "id_str": "236250301601021953",
+  "text": "Great time with @wahoovoice and great crowd tonight at @1140WRVA #uva kickoff party at BW3.  Feels more and more like football everyday!!!",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 58483011,
+    "id_str": "58483011",
+    "name": "Gary Hess",
+    "screen_name": "GHessRVA",
+    "location": "Virginia",
+    "description": "Sports Director at Clear Channel Richmond, veteran voice of HS football on SR 910, sports nut, Christian, husband to Linda and dad to Michelle, Tyler and Parker",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 373,
+    "friends_count": 521,
+    "listed_count": 10,
+    "created_at": "Mon Jul 20 14:14:53 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/328024207/gary_4_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/328024207/gary_4_normal.jpg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          65,
+          69
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wahoovoice",
+        "name": "Dave Koehn",
+        "id": 36090481,
+        "id_str": "36090481",
+        "indices": [
+          16,
+          27
+        ]
+      },
+      {
+        "screen_name": "1140WRVA",
+        "name": "WRVA Richmond",
+        "id": 100530267,
+        "id_str": "100530267",
+        "indices": [
+          55,
+          64
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

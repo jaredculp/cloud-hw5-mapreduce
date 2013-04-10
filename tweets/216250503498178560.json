@@ -1,0 +1,133 @@
+{
+  "created_at": "Fri Jun 22 19:25:12 +0000 2012",
+  "id": 216250503498178560,
+  "id_str": "216250503498178560",
+  "text": "Thanks to @socialprimer I'll be ready for #UVA football games with these http://t.co/rjmWnePX and the @socialprimer x @BrooksBrothers blazer",
+  "source": "<a href=\"https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic\" rel=\"nofollow\">Silver Bird</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18874758,
+    "id_str": "18874758",
+    "name": "Seth Johnson",
+    "screen_name": "sajohnson05",
+    "location": "",
+    "description": "",
+    "url": "http://thesouthernprep.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://thesouthernprep.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 108,
+    "friends_count": 339,
+    "listed_count": 1,
+    "created_at": "Sun Jan 11 18:28:56 +0000 2009",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3182,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/70654267/P7170839_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/70654267/P7170839_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/rjmWnePX",
+        "expanded_url": "http://bit.ly/NicMAC",
+        "display_url": "bit.ly/NicMAC",
+        "indices": [
+          73,
+          93
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "socialprimer",
+        "name": "Social Primer",
+        "id": 17908920,
+        "id_str": "17908920",
+        "indices": [
+          10,
+          23
+        ]
+      },
+      {
+        "screen_name": "socialprimer",
+        "name": "Social Primer",
+        "id": 17908920,
+        "id_str": "17908920",
+        "indices": [
+          102,
+          115
+        ]
+      },
+      {
+        "screen_name": "BrooksBrothers",
+        "name": "Brooks Brothers",
+        "id": 133424504,
+        "id_str": "133424504",
+        "indices": [
+          118,
+          133
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

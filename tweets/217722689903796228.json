@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue Jun 26 20:55:09 +0000 2012",
+  "id": 217722689903796228,
+  "id_str": "217722689903796228",
+  "text": "What a bad job handling the situation RT @mitchellreports: #UVA protests bring back Sulliavan See http://t.co/fqoBEPiM http://t.co/QUj0lUl9",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 65804275,
+    "id_str": "65804275",
+    "name": "Jeff-Fla. Legal Blog",
+    "screen_name": "FloridaLegal",
+    "location": "Florida",
+    "description": "Blog focusing on the Florida appellate courts & the 11th Circuit Court of Appeals. Retweets ≠ indicate agreement or endorsement, or even that I read the link.",
+    "url": "http://www.floridalegalblog.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.floridalegalblog.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2992,
+    "friends_count": 511,
+    "listed_count": 60,
+    "created_at": "Sat Aug 15 02:39:15 +0000 2009",
+    "favourites_count": 20,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10169,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/540166146/70_The_Florida_Legal_Blog_-_Jeff_color.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/540166146/70_The_Florida_Legal_Blog_-_Jeff_color.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2583748693/mnp0a4opv631fihrji8p_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2583748693/mnp0a4opv631fihrji8p_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          59,
+          63
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/fqoBEPiM",
+        "expanded_url": "http://flb.cc/LA1nRY",
+        "display_url": "flb.cc/LA1nRY",
+        "indices": [
+          98,
+          118
+        ]
+      },
+      {
+        "url": "http://t.co/QUj0lUl9",
+        "expanded_url": "http://flb.cc/LA1ywH",
+        "display_url": "flb.cc/LA1ywH",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mitchellreports",
+        "name": "Andrea Mitchell",
+        "id": 89820928,
+        "id_str": "89820928",
+        "indices": [
+          41,
+          57
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

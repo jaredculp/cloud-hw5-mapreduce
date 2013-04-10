@@ -1,0 +1,96 @@
+{
+  "created_at": "Thu Aug 09 04:47:17 +0000 2012",
+  "id": 233424188084465665,
+  "id_str": "233424188084465665",
+  "text": "01:47 da madruga eu fazendo suco de gelatina bem geladinho #uva =9",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 139915577,
+    "id_str": "139915577",
+    "name": "Mariana",
+    "screen_name": "smilingdownonme",
+    "location": "RS",
+    "description": "",
+    "url": "http://facebook.com/mariana.benettirossato",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://facebook.com/mariana.benettirossato",
+            "expanded_url": null,
+            "indices": [
+              0,
+              42
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 101,
+    "friends_count": 101,
+    "listed_count": 1,
+    "created_at": "Tue May 04 01:42:19 +0000 2010",
+    "favourites_count": 7,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9797,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "615F61",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/780714967/af9345c5571dd2d07a9602f6077ca5de.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/780714967/af9345c5571dd2d07a9602f6077ca5de.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3151071273/c8dadcc6b39725521fbbacef7542e960_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3151071273/c8dadcc6b39725521fbbacef7542e960_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/139915577/1359862443",
+    "profile_link_color": "C74571",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          59,
+          63
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

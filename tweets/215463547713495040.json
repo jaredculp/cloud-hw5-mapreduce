@@ -1,0 +1,134 @@
+{
+  "created_at": "Wed Jun 20 15:18:07 +0000 2012",
+  "id": 215463547713495040,
+  "id_str": "215463547713495040",
+  "text": "My story from @NBC12: the political fallout from the #UVa controversy. How it could impact @TimKaine &amp; @BobMcDonnell: http://t.co/leCPArN6",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16625082,
+    "id_str": "16625082",
+    "name": "Ryan Nobles",
+    "screen_name": "ryanobles",
+    "location": "Richmond, VA",
+    "description": "Swing State political reporter. Anchor of @nbc12 First at 4, @nbc12 News at 5:30 and @FoxRichmond's News at 10. Dad x 3.",
+    "url": "http://DecisionVirginia.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://DecisionVirginia.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6152,
+    "friends_count": 1118,
+    "listed_count": 366,
+    "created_at": "Tue Oct 07 03:16:20 +0000 2008",
+    "favourites_count": 19,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 17088,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "19506B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2937343312/53a0cbcb5c4ff282d6e8b44d63544290_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2937343312/53a0cbcb5c4ff282d6e8b44d63544290_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/16625082/1347995363",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          53,
+          57
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/leCPArN6",
+        "expanded_url": "http://www.nbc12.com/story/18830509/political-fallout-from-the-uva-controversy",
+        "display_url": "nbc12.com/story/18830509…",
+        "indices": [
+          122,
+          142
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC12",
+        "name": "NBC12 WWBT Richmond",
+        "id": 19151000,
+        "id_str": "19151000",
+        "indices": [
+          14,
+          20
+        ]
+      },
+      {
+        "screen_name": "timkaine",
+        "name": "Senator Tim Kaine",
+        "id": 172858784,
+        "id_str": "172858784",
+        "indices": [
+          91,
+          100
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          107,
+          120
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

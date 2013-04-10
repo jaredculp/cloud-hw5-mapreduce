@@ -1,0 +1,99 @@
+{
+  "created_at": "Fri Jun 22 22:43:58 +0000 2012",
+  "id": 216300523094163456,
+  "id_str": "216300523094163456",
+  "text": "WOW! RT @cavalierdaily McDonnell to #BOV: \"I will ask for the resignation of the entire Board on Wed.\" if #UVA sitch not resolved Tues",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22854380,
+    "id_str": "22854380",
+    "name": "Barb Besal",
+    "screen_name": "barbbesal",
+    "location": "Virginia Beach, VA",
+    "description": "chemistry teacher, Destination Imagination supporter, volleyball ref, space junkie",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 105,
+    "friends_count": 130,
+    "listed_count": 11,
+    "created_at": "Thu Mar 05 00:38:27 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 788,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/87976205/DI_badge_avatar_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/87976205/DI_badge_avatar_normal.jpg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          36,
+          40
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          106,
+          110
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          8,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,120 @@
+{
+  "created_at": "Wed Jun 20 12:00:32 +0000 2012",
+  "id": 215413825015521280,
+  "id_str": "215413825015521280",
+  "text": "RT @KateMfD Careful what you wish for, #edtech.  The impact of unthinking innovation fever on #UVa is such a sadness. http://t.co/X7CJWrGt",
+  "source": "<a href=\"http://www.contentdj.com\" rel=\"nofollow\">contentdj-engage</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 231686550,
+    "id_str": "231686550",
+    "name": "LearningForYou",
+    "screen_name": "learningfy",
+    "location": "Vancouver, Canada",
+    "description": "Curator of EdTech Weekly http://goo.gl/YWvVf, a free weekly newsletter on #edtech",
+    "url": "http://goo.gl/Bx8EG",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://goo.gl/Bx8EG",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6173,
+    "friends_count": 6212,
+    "listed_count": 242,
+    "created_at": "Wed Dec 29 05:36:34 +0000 2010",
+    "favourites_count": 4,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 30577,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/447594009/learningfy-twitterbackground.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/447594009/learningfy-twitterbackground.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1305968059/blond_tutor_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1305968059/blond_tutor_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "edtech",
+        "indices": [
+          39,
+          46
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          94,
+          98
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/X7CJWrGt",
+        "expanded_url": "http://bit.ly/LebkV3",
+        "display_url": "bit.ly/LebkV3",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "KateMfD",
+        "name": "Kate Bowles",
+        "id": 379065166,
+        "id_str": "379065166",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

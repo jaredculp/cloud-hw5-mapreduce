@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon Aug 13 23:54:08 +0000 2012",
+  "id": 235162351140237313,
+  "id_str": "235162351140237313",
+  "text": "Entrar na sala errada no primeiro dia de aula. Quem nunca? #UVA",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 10005692,
+    "id_str": "10005692",
+    "name": "Tainá Almeida",
+    "screen_name": "Chris_tai",
+    "location": "Rio de Janeiro",
+    "description": "http://t.co/76a9QvMO",
+    "url": "http://emeueulirico.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://emeueulirico.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/76a9QvMO",
+            "expanded_url": "http://meninasblackpower.blogspot.com.br/",
+            "display_url": "meninasblackpower.blogspot.com.br",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 172,
+    "friends_count": 126,
+    "listed_count": 1,
+    "created_at": "Tue Nov 06 18:15:01 +0000 2007",
+    "favourites_count": 0,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3964,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/538573916/raining_umbrella.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/538573916/raining_umbrella.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2922918466/6650d4c989ba1c9e7dc27467226e9084_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2922918466/6650d4c989ba1c9e7dc27467226e9084_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/10005692/1354453803",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          59,
+          63
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

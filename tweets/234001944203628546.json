@@ -1,0 +1,140 @@
+{
+  "created_at": "Fri Aug 10 19:03:05 +0000 2012",
+  "id": 234001944203628546,
+  "id_str": "234001944203628546",
+  "text": "A lot of construction here at #UVa",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 236610454,
+    "id_str": "236610454",
+    "name": "John Muccigrosso",
+    "screen_name": "JD_PhD",
+    "location": "",
+    "description": "Associate Professor of Classics, Associate Dean, archaeologist, father",
+    "url": "http://de-vita-sua.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://de-vita-sua.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 219,
+    "friends_count": 199,
+    "listed_count": 14,
+    "created_at": "Tue Jan 11 00:11:13 +0000 2011",
+    "favourites_count": 26,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3005,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/191532577/DOlium.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/191532577/DOlium.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1212315603/Murlo_face_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1212315603/Murlo_face_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.03546848,
+      -78.50532237
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.50532237,
+      38.03546848
+    ]
+  },
+  "place": {
+    "id": "a5aee0034fb1fb02",
+    "url": "https://api.twitter.com/1.1/geo/id/a5aee0034fb1fb02.json",
+    "place_type": "city",
+    "name": "Jack Jouett",
+    "full_name": "Jack Jouett, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.593326,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.143404
+          ],
+          [
+            -78.593326,
+            38.143404
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

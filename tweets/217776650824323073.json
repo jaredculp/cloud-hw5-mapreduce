@@ -1,0 +1,125 @@
+{
+  "created_at": "Wed Jun 27 00:29:34 +0000 2012",
+  "id": 217776650824323073,
+  "id_str": "217776650824323073",
+  "text": "@annamiron @amasays @ko_karma thanks all for providing the link to live stream of Theresa Sullivan's comments at #UVA - much appreciated.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217702912338575361,
+  "in_reply_to_status_id_str": "217702912338575361",
+  "in_reply_to_user_id": 26675588,
+  "in_reply_to_user_id_str": "26675588",
+  "in_reply_to_screen_name": "annamiron",
+  "user": {
+    "id": 19717941,
+    "id_str": "19717941",
+    "name": "Kathy Moore",
+    "screen_name": "kathy_moore",
+    "location": "Staunton, Virginia",
+    "description": "Public relations, marketing and branding strategist - focusing on tourism, vibrant downtowns, placemaking, location marketing, design and economic development.",
+    "url": "http://www.moorepublicrelations.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.moorepublicrelations.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2689,
+    "friends_count": 2023,
+    "listed_count": 130,
+    "created_at": "Thu Jan 29 16:19:03 +0000 2009",
+    "favourites_count": 186,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4265,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E8E8E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/223535986/kathy_moore_41856_twitbacks.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/223535986/kathy_moore_41856_twitbacks.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/254488676/km_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/254488676/km_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/19717941/1358347947",
+    "profile_link_color": "B51B4E",
+    "profile_sidebar_border_color": "D7E0E3",
+    "profile_sidebar_fill_color": "C6CACC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          113,
+          117
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "annamiron",
+        "name": "anna miron",
+        "id": 26675588,
+        "id_str": "26675588",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "amasays",
+        "name": "Anne-Marie Angelo",
+        "id": 17700609,
+        "id_str": "17700609",
+        "indices": [
+          11,
+          19
+        ]
+      },
+      {
+        "screen_name": "ko_karma",
+        "name": "Kristy Hansen",
+        "id": 14220737,
+        "id_str": "14220737",
+        "indices": [
+          20,
+          29
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:28:25 +0000 2012",
+  "id": 217700866113798145,
+  "id_str": "217700866113798145",
+  "text": "@robincarey Hurray! So glad to see some positive news out of #UVA",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217700181037158400,
+  "in_reply_to_status_id_str": "217700181037158400",
+  "in_reply_to_user_id": 6159812,
+  "in_reply_to_user_id_str": "6159812",
+  "in_reply_to_screen_name": "robincarey",
+  "user": {
+    "id": 25074237,
+    "id_str": "25074237",
+    "name": "Leslie MacCallum",
+    "screen_name": "Lbnmac",
+    "location": "ÜT: 38.806531,-77.051801",
+    "description": "Integrated media sales account exec, living in DC area",
+    "url": "http://bx.businessweek.com/profile/lesliemahin-maccallum/lmaccallum946/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://bx.businessweek.com/profile/lesliemahin-maccallum/lmaccallum946/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              71
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 489,
+    "friends_count": 551,
+    "listed_count": 5,
+    "created_at": "Wed Mar 18 13:49:06 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2188,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C2C1EB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/236641891/headshot1_normal.GIF",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/236641891/headshot1_normal.GIF",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "robincarey",
+        "name": "Robin Fray Carey",
+        "id": 6159812,
+        "id_str": "6159812",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Aug 28 07:33:48 +0000 2012",
+  "id": 240351461794521089,
+  "id_str": "240351461794521089",
+  "text": "Maandag glazenhuis vd wetenschap vd #uva; hier alvast een interview met Damien Denys http://t.co/XRi5HHN1",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 112969803,
+    "id_str": "112969803",
+    "name": "Jim Jansen",
+    "screen_name": "jimfjansen",
+    "location": "Amsterdam",
+    "description": "Hoofdredacteur Folia Magazine & Folia Web * UvA * HvA * Dagvoorzitter * Schrijver boek No Balls No Glory * Ned. flipper ver.* VZ MR Lidwinaschool * Pinball *",
+    "url": "http://foliaweb.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://foliaweb.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 897,
+    "friends_count": 894,
+    "listed_count": 15,
+    "created_at": "Wed Feb 10 08:22:32 +0000 2010",
+    "favourites_count": 13,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2819,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2881385796/267b56d944d5188697ce02449ede3661_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2881385796/267b56d944d5188697ce02449ede3661_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          36,
+          40
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/XRi5HHN1",
+        "expanded_url": "http://www.uva-alumni.nl/page.aspx?pid=916&erid=986802&trid=d6cda36d-5b00-45fe-9179-38a814141e51",
+        "display_url": "uva-alumni.nl/page.aspx?pid=…",
+        "indices": [
+          85,
+          105
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

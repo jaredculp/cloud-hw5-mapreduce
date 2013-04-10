@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 26 19:36:56 +0000 2012",
+  "id": 217703006299361280,
+  "id_str": "217703006299361280",
+  "text": "RT @chronicle: Teresa Sullivan is reinstated at #UVa: http://t.co/3MxXBqJK Complete coverage: http://t.co/hcYl9gFp",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19258691,
+    "id_str": "19258691",
+    "name": "Bo Hart",
+    "screen_name": "bo_hart",
+    "location": "Washington, DC",
+    "description": "2011 Virginia Tech Alum. \nHokies, politics, and SC",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 542,
+    "friends_count": 469,
+    "listed_count": 15,
+    "created_at": "Tue Jan 20 21:32:03 +0000 2009",
+    "favourites_count": 144,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5751,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/118670287/vt1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/118670287/vt1.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2374281515/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2374281515/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/19258691/1354156418",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/3MxXBqJK",
+        "expanded_url": "http://chroni.cl/QdqIiN",
+        "display_url": "chroni.cl/QdqIiN",
+        "indices": [
+          54,
+          74
+        ]
+      },
+      {
+        "url": "http://t.co/hcYl9gFp",
+        "expanded_url": "http://chroni.cl/Mwk9Y8",
+        "display_url": "chroni.cl/Mwk9Y8",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

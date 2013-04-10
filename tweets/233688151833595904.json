@@ -1,0 +1,133 @@
+{
+  "created_at": "Thu Aug 09 22:16:11 +0000 2012",
+  "id": 233688151833595904,
+  "id_str": "233688151833595904",
+  "text": "@h_strine ive got my phone",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 233687608566358016,
+  "in_reply_to_status_id_str": "233687608566358016",
+  "in_reply_to_user_id": 401142126,
+  "in_reply_to_user_id_str": "401142126",
+  "in_reply_to_screen_name": "h_strine",
+  "user": {
+    "id": 295471356,
+    "id_str": "295471356",
+    "name": "Evan ",
+    "screen_name": "AK_FordyEvan",
+    "location": "Maryland",
+    "description": "...haha uh what",
+    "url": "http://t.co/N9ijezmB",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/N9ijezmB",
+            "expanded_url": "http://evy.com",
+            "display_url": "evy.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 616,
+    "friends_count": 308,
+    "listed_count": 1,
+    "created_at": "Mon May 09 02:54:32 +0000 2011",
+    "favourites_count": 7749,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 19689,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/413577800/lol.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/413577800/lol.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2895142829/ed4dce19e3e0d530643d6bdaa235ec97_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2895142829/ed4dce19e3e0d530643d6bdaa235ec97_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/295471356/1348114059",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "dea1eac2d7ef8878",
+    "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json",
+    "place_type": "admin",
+    "name": "Maryland",
+    "full_name": "Maryland, US",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -79.487651,
+            37.886605
+          ],
+          [
+            -74.986282,
+            37.886605
+          ],
+          [
+            -74.986282,
+            39.723037
+          ],
+          [
+            -79.487651,
+            39.723037
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "h_strine",
+        "name": "Hunter Strine",
+        "id": 401142126,
+        "id_str": "401142126",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,116 @@
+{
+  "created_at": "Tue Aug 28 12:03:08 +0000 2012",
+  "id": 240419240933486592,
+  "id_str": "240419240933486592",
+  "text": "Marco Bailey is playing @ #Sullivan Room #New York New York #United States, Sat 15 Sep 2012  #gigs",
+  "source": "<a href=\"http://www.gigatools.com\" rel=\"nofollow\">GigaTools</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 65345619,
+    "id_str": "65345619",
+    "name": "GigaTools",
+    "screen_name": "GigaTools",
+    "location": "Berlin",
+    "description": "GigaTools Bot. Tweeting all new Gigs! Follow @GGTLS for GigaTools News.",
+    "url": "http://www.gigatools.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.gigatools.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1137,
+    "friends_count": 1,
+    "listed_count": 28,
+    "created_at": "Thu Aug 13 11:55:02 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": 3600,
+    "time_zone": "Berlin",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 137461,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/342935561/twitter.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/342935561/twitter.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/746396343/GT_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/746396343/GT_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          26,
+          35
+        ]
+      },
+      {
+        "text": "New",
+        "indices": [
+          41,
+          45
+        ]
+      },
+      {
+        "text": "United",
+        "indices": [
+          60,
+          67
+        ]
+      },
+      {
+        "text": "gigs",
+        "indices": [
+          93,
+          98
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

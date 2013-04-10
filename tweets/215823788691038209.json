@@ -1,0 +1,104 @@
+{
+  "created_at": "Thu Jun 21 15:09:35 +0000 2012",
+  "id": 215823788691038209,
+  "id_str": "215823788691038209",
+  "text": "@DavidBrooksNYT So what's your take on all this #UVA stuff?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 342672909,
+  "in_reply_to_user_id_str": "342672909",
+  "in_reply_to_screen_name": "DavidBrooksNYT",
+  "user": {
+    "id": 14683189,
+    "id_str": "14683189",
+    "name": "Dan Kuckuck",
+    "screen_name": "dankuckuck",
+    "location": "52803",
+    "description": "Easy does it.",
+    "url": "http://dankuckuck.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://dankuckuck.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 195,
+    "friends_count": 364,
+    "listed_count": 9,
+    "created_at": "Wed May 07 05:16:54 +0000 2008",
+    "favourites_count": 52,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2828,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/3221931/IMG_1136_smaller.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/3221931/IMG_1136_smaller.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3205402975/4071bea98753301ac64793cddbd314be_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3205402975/4071bea98753301ac64793cddbd314be_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DavidBrooksNYT",
+        "name": "David Brooks",
+        "id": 342672909,
+        "id_str": "342672909",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,97 @@
+{
+  "created_at": "Fri Jun 22 15:46:39 +0000 2012",
+  "id": 216195504646799360,
+  "id_str": "216195504646799360",
+  "text": "@katiecouric @cavalierdaily Wow! Sounds like interim talked to trusted ppl &amp; others &amp; opted out until situation settled so who is in charge",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216168619816652801,
+  "in_reply_to_status_id_str": "216168619816652801",
+  "in_reply_to_user_id": 18812301,
+  "in_reply_to_user_id_str": "18812301",
+  "in_reply_to_screen_name": "katiecouric",
+  "user": {
+    "id": 50201062,
+    "id_str": "50201062",
+    "name": "Dee",
+    "screen_name": "AnnDee2013",
+    "location": "Virginia",
+    "description": "Former editor, journalist, photographer, Masters in Special Education ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 135,
+    "friends_count": 141,
+    "listed_count": 2,
+    "created_at": "Wed Jun 24 03:30:39 +0000 2009",
+    "favourites_count": 31,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 21857,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1894183304/Penguins_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1894183304/Penguins_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/50201062/1354151075",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          13,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

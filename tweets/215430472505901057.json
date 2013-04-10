@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Jun 20 13:06:41 +0000 2012",
+  "id": 215430472505901057,
+  "id_str": "215430472505901057",
+  "text": ".@tedwardhowell No problem! Thx for directing us to a good #UVA piece by @cnewf. Hope all is well.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215430195673432064,
+  "in_reply_to_status_id_str": "215430195673432064",
+  "in_reply_to_user_id": 43881024,
+  "in_reply_to_user_id_str": "43881024",
+  "in_reply_to_screen_name": "tedwardhowell",
+  "user": {
+    "id": 20779605,
+    "id_str": "20779605",
+    "name": "Janine Utell",
+    "screen_name": "janineutell",
+    "location": "Philadelphia",
+    "description": "Associate Prof and Chair of English, Widener U. Writing about love, blogging at University of Venus, fighting for the humanities one dirty book at a time.",
+    "url": "http://janineutell.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://janineutell.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1015,
+    "friends_count": 498,
+    "listed_count": 101,
+    "created_at": "Fri Feb 13 15:50:24 +0000 2009",
+    "favourites_count": 73,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5089,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/4475566/bluefrillycorset.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/4475566/bluefrillycorset.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3212755924/a612f4385da75cf55efb720029ceeb0a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3212755924/a612f4385da75cf55efb720029ceeb0a_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/20779605/1353785742",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          59,
+          63
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "tedwardhowell",
+        "name": "Ted Howell",
+        "id": 43881024,
+        "id_str": "43881024",
+        "indices": [
+          1,
+          15
+        ]
+      },
+      {
+        "screen_name": "cnewf",
+        "name": "Christopher Newfield",
+        "id": 86568010,
+        "id_str": "86568010",
+        "indices": [
+          73,
+          79
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

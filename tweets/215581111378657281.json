@@ -1,0 +1,136 @@
+{
+  "created_at": "Wed Jun 20 23:05:16 +0000 2012",
+  "id": 215581111378657281,
+  "id_str": "215581111378657281",
+  "text": "MT @zunguzungu: Now that it's clear #UVa fiasco abt online ed, pls read Wendy Brown's remarks: http://t.co/shnGYAis  #MOOC #highered #cdnpse",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 372578436,
+    "id_str": "372578436",
+    "name": "Alison Seaman",
+    "screen_name": "AlisonSeaman",
+    "location": "Regina, SK, Canada",
+    "description": "Newly MHRD'd from U of Regina. Into networked learning, KM, UX, content strategy & good design. Views expressed do not reflect any past or present employers.",
+    "url": "http://t.co/2fM2QAEy",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/2fM2QAEy",
+            "expanded_url": "http://about.me/alison_seaman",
+            "display_url": "about.me/alison_seaman",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 693,
+    "friends_count": 834,
+    "listed_count": 55,
+    "created_at": "Tue Sep 13 01:12:39 +0000 2011",
+    "favourites_count": 3923,
+    "utc_offset": -21600,
+    "time_zone": "Saskatchewan",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7030,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/605622726/nh3qhjty4vnqj4i30f5j.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/605622726/nh3qhjty4vnqj4i30f5j.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1573186166/AlisonMay2011_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1573186166/AlisonMay2011_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/372578436/1352686855",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "475757",
+    "profile_sidebar_fill_color": "578074",
+    "profile_text_color": "7EA680",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          36,
+          40
+        ]
+      },
+      {
+        "text": "MOOC",
+        "indices": [
+          117,
+          122
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          123,
+          132
+        ]
+      },
+      {
+        "text": "cdnpse",
+        "indices": [
+          133,
+          140
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/shnGYAis",
+        "expanded_url": "http://ow.ly/1O1zvM",
+        "display_url": "ow.ly/1O1zvM",
+        "indices": [
+          95,
+          115
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "zunguzungu",
+        "name": "Aaron Bady",
+        "id": 47951511,
+        "id_str": "47951511",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

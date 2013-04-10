@@ -1,0 +1,93 @@
+{
+  "created_at": "Wed Aug 15 22:25:08 +0000 2012",
+  "id": 235864731141935104,
+  "id_str": "235864731141935104",
+  "text": "@Daniella_TV Cómo lo ves? está bien #uva verdad",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 235863767630614529,
+  "in_reply_to_status_id_str": "235863767630614529",
+  "in_reply_to_user_id": 333041226,
+  "in_reply_to_user_id_str": "333041226",
+  "in_reply_to_screen_name": "Daniella_TV",
+  "user": {
+    "id": 155306805,
+    "id_str": "155306805",
+    "name": "Marco Moreno Gómez",
+    "screen_name": "marcosonoro",
+    "location": "Puebla",
+    "description": "Licenciado en Televisión con especialidad en Producción de Radio,co-Productor de ASTVNoticias, Director de ASTVNoticias, Imitador...Ser humano en busca de arte.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 139,
+    "friends_count": 485,
+    "listed_count": 0,
+    "created_at": "Sun Jun 13 19:26:35 +0000 2010",
+    "favourites_count": 408,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6970,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/356072683/paisaje_.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/356072683/paisaje_.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2817093381/8aa271bade1e95847bf75a04068c8732_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2817093381/8aa271bade1e95847bf75a04068c8732_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/155306805/1354428289",
+    "profile_link_color": "CC3300",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F7DA93",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          36,
+          40
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Daniella_TV",
+        "name": "Daniella Augspurg",
+        "id": 333041226,
+        "id_str": "333041226",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

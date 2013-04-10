@@ -1,0 +1,169 @@
+{
+  "created_at": "Tue Aug 07 20:47:54 +0000 2012",
+  "id": 232941157271875584,
+  "id_str": "232941157271875584",
+  "text": "#nationalbestfriendday Matt Nesselrodt and Alejandro Nava Moncada. #True Have fun at #ODU and #UVA boys. Come see me at #FIU",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 170932003,
+    "id_str": "170932003",
+    "name": "Rhys Williams",
+    "screen_name": "Panther_RhysW",
+    "location": "FIU, Miami, Florida",
+    "description": "I have two goals in between now and next August...   Get into the best shape of my life and Walk-on to the Football team at Florida International University",
+    "url": "http://www.facebook.com/RWilliams646",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/RWilliams646",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 213,
+    "friends_count": 292,
+    "listed_count": 0,
+    "created_at": "Mon Jul 26 04:06:48 +0000 2010",
+    "favourites_count": 256,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1352,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "00070A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/668511408/429d570628825394bdcad399af17139b.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/668511408/429d570628825394bdcad399af17139b.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2621880413/00fz52rp84lehyzb8ccu_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2621880413/00fz52rp84lehyzb8ccu_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/170932003/1348417115",
+    "profile_link_color": "00070A",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      36.93781788,
+      -76.31844612
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -76.31844612,
+      36.93781788
+    ]
+  },
+  "place": {
+    "id": "b004be67b9fd6d8f",
+    "url": "https://api.twitter.com/1.1/geo/id/b004be67b9fd6d8f.json",
+    "place_type": "city",
+    "name": "Norfolk",
+    "full_name": "Norfolk, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -76.345569,
+            36.820757
+          ],
+          [
+            -76.133872,
+            36.820757
+          ],
+          [
+            -76.133872,
+            37.040886
+          ],
+          [
+            -76.345569,
+            37.040886
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "nationalbestfriendday",
+        "indices": [
+          0,
+          22
+        ]
+      },
+      {
+        "text": "True",
+        "indices": [
+          67,
+          72
+        ]
+      },
+      {
+        "text": "ODU",
+        "indices": [
+          85,
+          89
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          94,
+          98
+        ]
+      },
+      {
+        "text": "FIU",
+        "indices": [
+          120,
+          124
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

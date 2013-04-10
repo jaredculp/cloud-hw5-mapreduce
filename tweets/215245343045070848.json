@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 00:51:03 +0000 2012",
+  "id": 215245343045070848,
+  "id_str": "215245343045070848",
+  "text": "RT @BoneGirlPhD: An anthropologist weighs in on the ouster of #UVa's Sullivan - Ethnocentrism, Virginia Style http://t.co/yZyoumGT",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1131911,
+    "id_str": "1131911",
+    "name": "Medley",
+    "screen_name": "Medley",
+    "location": "Northern Virginia, D.C.",
+    "description": "Tech policy analyst; native Mainer; old-school weblogger; baseball fan; geek; parent; wanna-be minimalist. ",
+    "url": "http://uncorked.org/medley/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://uncorked.org/medley/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 583,
+    "friends_count": 981,
+    "listed_count": 31,
+    "created_at": "Wed Mar 14 01:59:27 +0000 2007",
+    "favourites_count": 344,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 24130,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1584134732/waterrocks_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1584134732/waterrocks_normal.jpg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/yZyoumGT",
+        "expanded_url": "http://huff.to/LzvXr9",
+        "display_url": "huff.to/LzvXr9",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BoneGirlPhD",
+        "name": "K Killgrove",
+        "id": 633845041,
+        "id_str": "633845041",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,106 @@
+{
+  "created_at": "Sat Aug 04 19:36:53 +0000 2012",
+  "id": 231836124086149120,
+  "id_str": "231836124086149120",
+  "text": "@jjiloty any #Dom sightings ? #uva #grandmaster",
+  "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 18144387,
+  "in_reply_to_user_id_str": "18144387",
+  "in_reply_to_screen_name": "jjiloty",
+  "user": {
+    "id": 66900849,
+    "id_str": "66900849",
+    "name": "Fan of UVA Lacrosse",
+    "screen_name": "uvalacrosse",
+    "location": "",
+    "description": "@uvalacrosse is a Twitter handle of a FAN of UVA Lacrosse - not affilated with UVA Athletics",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1661,
+    "friends_count": 299,
+    "listed_count": 57,
+    "created_at": "Wed Aug 19 03:43:12 +0000 2009",
+    "favourites_count": 9,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1219,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/369697544/uvalacrosse_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/369697544/uvalacrosse_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Dom",
+        "indices": [
+          13,
+          17
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          30,
+          34
+        ]
+      },
+      {
+        "text": "grandmaster",
+        "indices": [
+          35,
+          47
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jjiloty",
+        "name": "John Jiloty",
+        "id": 18144387,
+        "id_str": "18144387",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

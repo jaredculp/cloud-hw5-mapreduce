@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jun 20 21:10:23 +0000 2012",
+  "id": 215552196832542722,
+  "id_str": "215552196832542722",
+  "text": "Running away from something, @bobmcdonnell? @GovernorVA seems to think that Utah is more important than #UVA this wknd. http://t.co/iXpq9aew",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 143494528,
+    "id_str": "143494528",
+    "name": "essselle",
+    "screen_name": "essselle",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 272,
+    "friends_count": 508,
+    "listed_count": 3,
+    "created_at": "Thu May 13 16:33:45 +0000 2010",
+    "favourites_count": 144,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1569,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFA012",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/101223532/linedraw3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/101223532/linedraw3.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3155176511/6a411a757a7b3d98668f485d50af777c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3155176511/6a411a757a7b3d98668f485d50af777c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/143494528/1351907837",
+    "profile_link_color": "058AFF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "84F06E",
+    "profile_text_color": "093B13",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          104,
+          108
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/iXpq9aew",
+        "expanded_url": "http://virginiapolitics.tumblr.com/post/25512524882/mcdonnell-to-attend-romney-event-in-utah",
+        "display_url": "virginiapolitics.tumblr.com/post/255125248…",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          29,
+          42
+        ]
+      },
+      {
+        "screen_name": "GovernorVA",
+        "name": "Bob McDonnell",
+        "id": 104198706,
+        "id_str": "104198706",
+        "indices": [
+          44,
+          55
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue Jun 26 21:12:54 +0000 2012",
+  "id": 217727157621899266,
+  "id_str": "217727157621899266",
+  "text": "RT @chronicle: Teresa Sullivan is reinstated at #UVa: http://t.co/fbtzjqTb Complete coverage: http://t.co/cF73uFgr",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19344471,
+    "id_str": "19344471",
+    "name": "Adam T. Bradley",
+    "screen_name": "daydreamlab",
+    "location": "Providence, RI, USA",
+    "description": "I'm a programmer building Brown University Library 2.0 while remaining wary of Everything 2.0.",
+    "url": "http://www.adamtbradley.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.adamtbradley.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 119,
+    "friends_count": 50,
+    "listed_count": 7,
+    "created_at": "Thu Jan 22 16:01:27 +0000 2009",
+    "favourites_count": 480,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1863,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/554569723/Photo_on_2009-12-02_at_01.19__2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/554569723/Photo_on_2009-12-02_at_01.19__2_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/fbtzjqTb",
+        "expanded_url": "http://po.st/xuIDvd",
+        "display_url": "po.st/xuIDvd",
+        "indices": [
+          54,
+          74
+        ]
+      },
+      {
+        "url": "http://t.co/cF73uFgr",
+        "expanded_url": "http://po.st/SWr1A9",
+        "display_url": "po.st/SWr1A9",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

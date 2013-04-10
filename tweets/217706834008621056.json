@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:52:08 +0000 2012",
+  "id": 217706834008621056,
+  "id_str": "217706834008621056",
+  "text": "Amen! RT @amandafrench: \"I am not wise enough or strong enough to do all that needs to be done -- but I am not alone.\" SO CLASSY. #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14570718,
+    "id_str": "14570718",
+    "name": "Lisa Spiro",
+    "screen_name": "lisaspiro",
+    "location": "Houston, Texas",
+    "description": "Director of NITLE Labs, program manager of Anvil Academic, blogger on digital humanities, a founder of DiRT wiki, researcher on tech & higher ed. ",
+    "url": "http://www.nitle.org/about/bios/spiro.php",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nitle.org/about/bios/spiro.php",
+            "expanded_url": null,
+            "indices": [
+              0,
+              41
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2078,
+    "friends_count": 768,
+    "listed_count": 173,
+    "created_at": "Mon Apr 28 15:35:28 +0000 2008",
+    "favourites_count": 3,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1087,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/54477104/LisaPhoto_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/54477104/LisaPhoto_normal.jpeg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          130,
+          134
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "amandafrench",
+        "name": "Amanda French",
+        "id": 6361722,
+        "id_str": "6361722",
+        "indices": [
+          9,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

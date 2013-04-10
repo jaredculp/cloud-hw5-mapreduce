@@ -1,0 +1,102 @@
+{
+  "created_at": "Sat Aug 18 15:26:07 +0000 2012",
+  "id": 236846446572347392,
+  "id_str": "236846446572347392",
+  "text": "Going to this game.  RT @BleedTechBlue\nRT @ARamspacher: No votes for #UVa in AP Top 25. However, one tally for Sept. 29 opponent, La Tech.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 107143523,
+    "id_str": "107143523",
+    "name": "Kristin Kalisch",
+    "screen_name": "geopower97",
+    "location": "Colorado Springs",
+    "description": "From Louisiana, now living in Colorado.  Follower of Jesus.  I want to be a rock star and/or a chef but for now I am an accountant.  ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 161,
+    "friends_count": 355,
+    "listed_count": 3,
+    "created_at": "Thu Jan 21 17:33:54 +0000 2010",
+    "favourites_count": 27,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6040,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/477843798/Little_Cookie.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/477843798/Little_Cookie.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/646290319/kristin_and_champ_normal.bmp",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/646290319/kristin_and_champ_normal.bmp",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          69,
+          73
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BleedTechBlue",
+        "name": "BleedTechBlue.com",
+        "id": 22975330,
+        "id_str": "22975330",
+        "indices": [
+          24,
+          38
+        ]
+      },
+      {
+        "screen_name": "ARamspacher",
+        "name": "Andrew Ramspacher",
+        "id": 309921232,
+        "id_str": "309921232",
+        "indices": [
+          42,
+          54
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

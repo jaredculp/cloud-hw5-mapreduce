@@ -1,0 +1,122 @@
+{
+  "created_at": "Wed Jun 20 14:23:48 +0000 2012",
+  "id": 215449876828405760,
+  "id_str": "215449876828405760",
+  "text": "RT @amandafrench: #Sullivan expressed interest and caution about online ed at elite universities. So did @digitalcampus last month:...",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 792659,
+    "id_str": "792659",
+    "name": "William Patrick Wend",
+    "screen_name": "wpwend42",
+    "location": "",
+    "description": "I teach Grammar + English Literature at Burlington County College. Last seen @ Bcc Cafeteria. http://t.co/r277UsHf February 05, 2013 at 12:48PM",
+    "url": "http://www.wpwend.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wpwend.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/r277UsHf",
+            "expanded_url": "http://bit.ly/W0x5dN",
+            "display_url": "bit.ly/W0x5dN",
+            "indices": [
+              94,
+              114
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 582,
+    "friends_count": 228,
+    "listed_count": 38,
+    "created_at": "Sat Feb 24 17:56:58 +0000 2007",
+    "favourites_count": 15,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 23792,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/340322779/madmen_icon_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/340322779/madmen_icon_normal.jpg",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          18,
+          27
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "amandafrench",
+        "name": "Amanda French",
+        "id": 6361722,
+        "id_str": "6361722",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "digitalcampus",
+        "name": "Digital Campus",
+        "id": 19030111,
+        "id_str": "19030111",
+        "indices": [
+          105,
+          119
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

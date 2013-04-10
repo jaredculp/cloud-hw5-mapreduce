@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Jun 26 21:11:37 +0000 2012",
+  "id": 217726834031337472,
+  "id_str": "217726834031337472",
+  "text": "#Sullivan reinstated! good work everybody: http://t.co/tt8JlVwm #UVA wahoowa!  #fb",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 321606302,
+    "id_str": "321606302",
+    "name": "Kay Marshall",
+    "screen_name": "kayannemarshall",
+    "location": "Geneva, Switzerland",
+    "description": "rule of law and cookie enthusiast.",
+    "url": "http://www.linkedin.com/pub/katharine-marshall/a/5b1/29b",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.linkedin.com/pub/katharine-marshall/a/5b1/29b",
+            "expanded_url": null,
+            "indices": [
+              0,
+              56
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 111,
+    "friends_count": 316,
+    "listed_count": 1,
+    "created_at": "Tue Jun 21 21:00:22 +0000 2011",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 519,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1572815642/Screen_shot_2011-10-04_at_11.18.18_AM_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1572815642/Screen_shot_2011-10-04_at_11.18.18_AM_normal.png",
+    "profile_link_color": "1C97BD",
+    "profile_sidebar_border_color": "8787A6",
+    "profile_sidebar_fill_color": "D0E7E8",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          64,
+          68
+        ]
+      },
+      {
+        "text": "fb",
+        "indices": [
+          79,
+          82
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/tt8JlVwm",
+        "expanded_url": "http://www.washingtonpost.com/local/education/u-va-leadership-crisis-mcdonnell-declines-to-take-sides/2012/06/26/gJQArOHU4V_story.html",
+        "display_url": "washingtonpost.com/local/educatio…",
+        "indices": [
+          43,
+          63
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

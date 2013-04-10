@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 26 19:20:17 +0000 2012",
+  "id": 217698818945327104,
+  "id_str": "217698818945327104",
+  "text": "Wow! RT @redcrew: Whoa. Resolved that President Sullivan will be reinstated at University of Virginia. #UVA #highered",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15189720,
+    "id_str": "15189720",
+    "name": "TimNekritz",
+    "screen_name": "TimNekritz",
+    "location": "Oswego",
+    "description": "Social media canary/director of web comm, SUNY Oswego. Writer. Teacher. Media researcher. Historian. Blogger. #pancaketweetup-er. #rollerderby ref/announcer.",
+    "url": "http://insidetimshead.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://insidetimshead.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2107,
+    "friends_count": 1001,
+    "listed_count": 259,
+    "created_at": "Sat Jun 21 13:34:35 +0000 2008",
+    "favourites_count": 41,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 36697,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4D6D40",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/3924510/towels.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/3924510/towels.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2678360047/426033632bafca53690d31b8b6b0ff1a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2678360047/426033632bafca53690d31b8b6b0ff1a_normal.jpeg",
+    "profile_link_color": "1FC76E",
+    "profile_sidebar_border_color": "C6EECA",
+    "profile_sidebar_fill_color": "EEF4DA",
+    "profile_text_color": "2D5D3A",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          103,
+          107
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          108,
+          117
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "redcrew",
+        "name": "DeborahEdwards-Onoro",
+        "id": 8556552,
+        "id_str": "8556552",
+        "indices": [
+          8,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

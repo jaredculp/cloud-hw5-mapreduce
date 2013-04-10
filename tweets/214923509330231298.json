@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 19 03:32:12 +0000 2012",
+  "id": 214923509330231298,
+  "id_str": "214923509330231298",
+  "text": "@anarchivist: Hydragas. #bov #uva",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 214920699016527872,
+  "in_reply_to_status_id_str": "214920699016527872",
+  "in_reply_to_user_id": 8729782,
+  "in_reply_to_user_id_str": "8729782",
+  "in_reply_to_screen_name": "anarchivist",
+  "user": {
+    "id": 14453338,
+    "id_str": "14453338",
+    "name": "Michael J. Giarlo",
+    "screen_name": "mjgiarlo",
+    "location": "State College, PA",
+    "description": "dad, architect, hacker, librarian, generalist, skeptic, heterodox, Lacker of Talent, craftbrew junkie, autodidact, ne'er-do-well, curmudgeon, foodie ",
+    "url": "http://t.co/JkNcjXbY",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/JkNcjXbY",
+            "expanded_url": "http://mike.giarlo.name/",
+            "display_url": "mike.giarlo.name",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 855,
+    "friends_count": 498,
+    "listed_count": 85,
+    "created_at": "Sun Apr 20 17:34:33 +0000 2008",
+    "favourites_count": 33,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15874,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0E1621",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/666634624/6e67629b314d6c003705b94afd57f2fd.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/666634624/6e67629b314d6c003705b94afd57f2fd.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2594958387/v72cz5ehh72levodoggm_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2594958387/v72cz5ehh72levodoggm_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14453338/1348337896",
+    "profile_link_color": "CB9934",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "0E1621",
+    "profile_text_color": "575E61",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bov",
+        "indices": [
+          24,
+          28
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          29,
+          33
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "anarchivist",
+        "name": "Mark A. Matienzo",
+        "id": 8729782,
+        "id_str": "8729782",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

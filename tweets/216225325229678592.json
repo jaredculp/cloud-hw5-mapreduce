@@ -1,0 +1,175 @@
+{
+  "created_at": "Fri Jun 22 17:45:09 +0000 2012",
+  "id": 216225325229678592,
+  "id_str": "216225325229678592",
+  "text": "RT @EricBradbury: I've received more emails from #UVA this week than I have from Groupon.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 183677448,
+    "id_str": "183677448",
+    "name": "Gavin Schmidt",
+    "screen_name": "YourBoyGarvin",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 86,
+    "friends_count": 207,
+    "listed_count": 2,
+    "created_at": "Fri Aug 27 16:27:19 +0000 2010",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3675,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1113431910/SnowGavin_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1113431910/SnowGavin_normal.jpg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Jun 22 17:43:54 +0000 2012",
+    "id": 216225012099710976,
+    "id_str": "216225012099710976",
+    "text": "I've received more emails from #UVA this week than I have from Groupon.",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 56289652,
+      "id_str": "56289652",
+      "name": "Eric Bradbury",
+      "screen_name": "EricBradbury",
+      "location": "Chicago",
+      "description": "a polo shirt and a smile",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": true,
+      "followers_count": 224,
+      "friends_count": 473,
+      "listed_count": 7,
+      "created_at": "Mon Jul 13 04:45:11 +0000 2009",
+      "favourites_count": 394,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7501,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/446699612/jitdp.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/446699612/jitdp.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/611987568/14734_687048517116_1508751_41532310_2242635_n_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/611987568/14734_687048517116_1508751_41532310_2242635_n_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": null,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVA",
+          "indices": [
+            31,
+            35
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          49,
+          53
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "EricBradbury",
+        "name": "Eric Bradbury",
+        "id": 56289652,
+        "id_str": "56289652",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

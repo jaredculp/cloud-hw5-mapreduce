@@ -1,0 +1,98 @@
+{
+  "created_at": "Tue Jun 19 04:29:28 +0000 2012",
+  "id": 214937921998946304,
+  "id_str": "214937921998946304",
+  "text": "@RobKrupicka Dear Rob, We are starting to learn about the Twitters.  How do you turn this thing off?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 214916903632777216,
+  "in_reply_to_status_id_str": "214916903632777216",
+  "in_reply_to_user_id": 14584360,
+  "in_reply_to_user_id_str": "14584360",
+  "in_reply_to_screen_name": "RobKrupicka",
+  "user": {
+    "id": 612252466,
+    "id_str": "612252466",
+    "name": "Helen Dragas",
+    "screen_name": "HelenDragas",
+    "location": "Charlottesville, VA",
+    "description": "Rector, Board of Visitors of the University of Virginia",
+    "url": "http://www.virginia.edu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginia.edu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 115,
+    "friends_count": 78,
+    "listed_count": 3,
+    "created_at": "Tue Jun 19 03:56:35 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 54,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RobKrupicka",
+        "name": "RobKrupicka",
+        "id": 14584360,
+        "id_str": "14584360",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

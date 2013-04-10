@@ -1,0 +1,113 @@
+{
+  "created_at": "Thu Jun 21 03:11:26 +0000 2012",
+  "id": 215643058421760001,
+  "id_str": "215643058421760001",
+  "text": "Have you seen this @jason_ally? Virginian-Pilot, hometown paper of #UVA's rector, Helen Dragas, tells her to resign. http://t.co/WdPVKE8E",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 83884926,
+    "id_str": "83884926",
+    "name": "Paul Stanton",
+    "screen_name": "p_stanton",
+    "location": "San Francisco, CA",
+    "description": "Media enthusiast, political junkie, Illini, occasional jogger, & Noogler. ",
+    "url": "http://www.linkedin.com/pub/paul-stanton/25/423/304",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.linkedin.com/pub/paul-stanton/25/423/304",
+            "expanded_url": null,
+            "indices": [
+              0,
+              51
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 321,
+    "friends_count": 623,
+    "listed_count": 2,
+    "created_at": "Tue Oct 20 17:13:27 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3282,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "40291A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/669654449/21956ea765c2d585ae890e676cb51be6.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/669654449/21956ea765c2d585ae890e676cb51be6.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2800079834/7b7a98ff640a7ede250903f3b35ad256_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2800079834/7b7a98ff640a7ede250903f3b35ad256_normal.jpeg",
+    "profile_link_color": "428576",
+    "profile_sidebar_border_color": "CC8E62",
+    "profile_sidebar_fill_color": "DEB47A",
+    "profile_text_color": "DECE97",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WdPVKE8E",
+        "expanded_url": "http://bit.ly/NVreVh",
+        "display_url": "bit.ly/NVreVh",
+        "indices": [
+          117,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jason_ally",
+        "name": "jason Ally",
+        "id": 899270912,
+        "id_str": "899270912",
+        "indices": [
+          19,
+          30
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

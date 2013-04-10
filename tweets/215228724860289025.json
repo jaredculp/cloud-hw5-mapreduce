@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 23:45:01 +0000 2012",
+  "id": 215228724860289025,
+  "id_str": "215228724860289025",
+  "text": "For those of you following the situation at #UVa, the student-run newspaper @cavalierdaily is tweeting emails between the BOV members. #FOIA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 86796507,
+    "id_str": "86796507",
+    "name": "Jacob T.",
+    "screen_name": "JTintheMOV",
+    "location": "Marietta, OH",
+    "description": "@EastCarolina '04 '08 | @BetaThetaPi BΘΠ EA151 | Fraternity/Sorority Advisor at @MariettaCollege | NFL/MLB/NCAA sports fan | music and movie lover",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 493,
+    "friends_count": 285,
+    "listed_count": 27,
+    "created_at": "Sun Nov 01 20:34:37 +0000 2009",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10933,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DCF1",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/693798649/a6edfb7e3d68e87264874ca185a65dd1.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/693798649/a6edfb7e3d68e87264874ca185a65dd1.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2882166906/754995173d69b737aa4cd4d2908b6da6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2882166906/754995173d69b737aa4cd4d2908b6da6_normal.jpeg",
+    "profile_link_color": "165D91",
+    "profile_sidebar_border_color": "C0DCF1",
+    "profile_sidebar_fill_color": "1C1C1C",
+    "profile_text_color": "5C91B9",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          44,
+          48
+        ]
+      },
+      {
+        "text": "FOIA",
+        "indices": [
+          135,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          76,
+          90
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

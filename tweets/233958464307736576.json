@@ -1,0 +1,120 @@
+{
+  "created_at": "Fri Aug 10 16:10:19 +0000 2012",
+  "id": 233958464307736576,
+  "id_str": "233958464307736576",
+  "text": "reporter  @wpjenna with a fascinating email exchange between #UVA's rector and provost on a lady #gaga-themed course: http://t.co/zqeh62Bo",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16243405,
+    "id_str": "16243405",
+    "name": "PostSchools",
+    "screen_name": "PostSchools",
+    "location": "Washington, DC",
+    "description": "All the Education news/blogs from The Washington Post. The Post education desk manages this feed.",
+    "url": "http://washingtonpost.com/education",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://washingtonpost.com/education",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 11517,
+    "friends_count": 851,
+    "listed_count": 674,
+    "created_at": "Thu Sep 11 16:49:03 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2292,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/586201043/post_thumb_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/586201043/post_thumb_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          61,
+          65
+        ]
+      },
+      {
+        "text": "gaga",
+        "indices": [
+          97,
+          102
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zqeh62Bo",
+        "expanded_url": "http://wapo.st/NR7Xye",
+        "display_url": "wapo.st/NR7Xye",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          10,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

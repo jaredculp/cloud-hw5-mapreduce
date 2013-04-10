@@ -1,0 +1,127 @@
+{
+  "created_at": "Tue Jun 19 22:52:55 +0000 2012",
+  "id": 215215613516320769,
+  "id_str": "215215613516320769",
+  "text": "RT @jksuter: Need ex of twitter accounts used to communicate w/students outside class? Mind sharing? #edchat #edtech Try #uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14909877,
+    "id_str": "14909877",
+    "name": "Timothy Chester",
+    "screen_name": "accidentalcio",
+    "location": "Athens, Georgia",
+    "description": "Vice President for Information Technology @ the University of Georgia, Sociologist, and PI of the Higher Education TechQual+ Project (http://t.co/0Hlctnya)",
+    "url": "http://www.accidentalcio.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.accidentalcio.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/0Hlctnya",
+            "expanded_url": "http://www.techqual.org",
+            "display_url": "techqual.org",
+            "indices": [
+              134,
+              154
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 288,
+    "friends_count": 333,
+    "listed_count": 11,
+    "created_at": "Mon May 26 15:08:12 +0000 2008",
+    "favourites_count": 88,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1795,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3206655542/54395394a5390e487a6b7d8d16959c36_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3206655542/54395394a5390e487a6b7d8d16959c36_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14909877/1357502280",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "edchat",
+        "indices": [
+          101,
+          108
+        ]
+      },
+      {
+        "text": "edtech",
+        "indices": [
+          109,
+          116
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          121,
+          125
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jksuter",
+        "name": "Jason K. Suter",
+        "id": 30257354,
+        "id_str": "30257354",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

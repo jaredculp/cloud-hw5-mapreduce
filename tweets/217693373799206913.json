@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 18:58:39 +0000 2012",
+  "id": 217693373799206913,
+  "id_str": "217693373799206913",
+  "text": "WATCH LIVE the meeting to decide if UVA’s Teresa Sullivan will be reinstated. #uva  http://t.co/4alvi9IY",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14897840,
+    "id_str": "14897840",
+    "name": "ABC7News",
+    "screen_name": "ABC7News",
+    "location": "Washington, DC",
+    "description": "Breaking news, weather, sports and information for the Washington, D.C. area from the ABC 7 News newsroom",
+    "url": "http://www.wjla.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wjla.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 23452,
+    "friends_count": 480,
+    "listed_count": 919,
+    "created_at": "Sun May 25 10:27:38 +0000 2008",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 41933,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/8525018/wjlanews_twitbg.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/8525018/wjlanews_twitbg.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1875170588/abc7-news-logo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1875170588/abc7-news-logo_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14897840/1348076040",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "13236C",
+    "profile_sidebar_fill_color": "D1E6FA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          78,
+          82
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/4alvi9IY",
+        "expanded_url": "http://wj.la/NGLCqI",
+        "display_url": "wj.la/NGLCqI",
+        "indices": [
+          84,
+          104
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,110 @@
+{
+  "created_at": "Tue Aug 28 09:52:36 +0000 2012",
+  "id": 240386391190679552,
+  "id_str": "240386391190679552",
+  "text": "@pasbaby @greatnanni #UVA nel senso dei raggi emanati dal sole.... #pericolosi attenta....",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 240385167800295424,
+  "in_reply_to_status_id_str": "240385167800295424",
+  "in_reply_to_user_id": 186137707,
+  "in_reply_to_user_id_str": "186137707",
+  "in_reply_to_screen_name": "pasbaby",
+  "user": {
+    "id": 501066121,
+    "id_str": "501066121",
+    "name": "niki zago",
+    "screen_name": "nikizag7",
+    "location": " Venezia",
+    "description": "Cassintegrata Vinyls Porto Marghera...ah dimenticavo il mio hobby...Sommelier",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 518,
+    "friends_count": 585,
+    "listed_count": 10,
+    "created_at": "Thu Feb 23 19:12:57 +0000 2012",
+    "favourites_count": 12022,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 22619,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/434344749/53678574_88707a2557.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/434344749/53678574_88707a2557.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2701637719/30b1048c58cd07585015d269dc5ee883_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2701637719/30b1048c58cd07585015d269dc5ee883_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/501066121/1348131470",
+    "profile_link_color": "05851F",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          21,
+          25
+        ]
+      },
+      {
+        "text": "pericolosi",
+        "indices": [
+          67,
+          78
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "pasbaby",
+        "name": "Barbara Pastore ૐ",
+        "id": 186137707,
+        "id_str": "186137707",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "greatnanni",
+        "name": "nanni per gli amici",
+        "id": 103062117,
+        "id_str": "103062117",
+        "indices": [
+          9,
+          20
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

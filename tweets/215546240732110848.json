@@ -1,0 +1,124 @@
+{
+  "created_at": "Wed Jun 20 20:46:43 +0000 2012",
+  "id": 215546240732110848,
+  "id_str": "215546240732110848",
+  "text": "RT @saragoldrickrab: @RickKahlenberg is spot on.There's WAY too much privilege going on at universities including #UVA. http://t.co/AwoDQebG",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14529436,
+    "id_str": "14529436",
+    "name": "Suzanne Chang",
+    "screen_name": "kbyesuz",
+    "location": "New York",
+    "description": "I like sad songs, shoes, politics, and exploring Brooklyn. Senior Digital Media Manager for @tcfdotorg, a progressive public policy organization in NYC.  ",
+    "url": "http://kbye.tumblr.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://kbye.tumblr.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 352,
+    "friends_count": 396,
+    "listed_count": 15,
+    "created_at": "Fri Apr 25 16:59:49 +0000 2008",
+    "favourites_count": 253,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3647,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C9CECF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/782167586/723824a10ac782bb86145d82e0a78f5c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/782167586/723824a10ac782bb86145d82e0a78f5c.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3212003767/26803d6adb975de44f759e6aad03644b_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3212003767/26803d6adb975de44f759e6aad03644b_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14529436/1354208259",
+    "profile_link_color": "040604",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "28B1EB",
+    "profile_text_color": "6E22B4",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          114,
+          118
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/AwoDQebG",
+        "expanded_url": "http://bit.ly/M69kes",
+        "display_url": "bit.ly/M69kes",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "saragoldrickrab",
+        "name": "Sara Goldrick-Rab",
+        "id": 32608975,
+        "id_str": "32608975",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "RickKahlenberg",
+        "name": "Richard Kahlenberg",
+        "id": 384922713,
+        "id_str": "384922713",
+        "indices": [
+          21,
+          36
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

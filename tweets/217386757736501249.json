@@ -1,0 +1,185 @@
+{
+  "created_at": "Mon Jun 25 22:40:16 +0000 2012",
+  "id": 217386757736501249,
+  "id_str": "217386757736501249",
+  "text": "with #UVa #blunders @mcdonnell will deliver #Virginia to #Obama @mittromney @planetromney @nytimes @cnn @washingtonpost @usatoday",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 190296269,
+    "id_str": "190296269",
+    "name": "Tom Glendening",
+    "screen_name": "e3blue",
+    "location": "NYC, NY",
+    "description": "urban innovation",
+    "url": "http://www.glendening.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.glendening.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 43,
+    "friends_count": 41,
+    "listed_count": 0,
+    "created_at": "Mon Sep 13 16:00:56 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 965,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          5,
+          9
+        ]
+      },
+      {
+        "text": "blunders",
+        "indices": [
+          10,
+          19
+        ]
+      },
+      {
+        "text": "Virginia",
+        "indices": [
+          44,
+          53
+        ]
+      },
+      {
+        "text": "Obama",
+        "indices": [
+          57,
+          63
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mcdonnell",
+        "name": "mcdonnell",
+        "id": 16684326,
+        "id_str": "16684326",
+        "indices": [
+          20,
+          30
+        ]
+      },
+      {
+        "screen_name": "MittRomney",
+        "name": "Mitt Romney",
+        "id": 50055701,
+        "id_str": "50055701",
+        "indices": [
+          64,
+          75
+        ]
+      },
+      {
+        "screen_name": "PlanetRomney",
+        "name": "Fridgeagram",
+        "id": 19912372,
+        "id_str": "19912372",
+        "indices": [
+          76,
+          89
+        ]
+      },
+      {
+        "screen_name": "nytimes",
+        "name": "The New York Times",
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          90,
+          98
+        ]
+      },
+      {
+        "screen_name": "CNN",
+        "name": "CNN",
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          99,
+          103
+        ]
+      },
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          104,
+          119
+        ]
+      },
+      {
+        "screen_name": "USATODAY",
+        "name": "USA TODAY",
+        "id": 15754281,
+        "id_str": "15754281",
+        "indices": [
+          120,
+          129
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

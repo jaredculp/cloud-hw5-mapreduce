@@ -1,0 +1,120 @@
+{
+  "created_at": "Thu Jul 05 00:11:59 +0000 2012",
+  "id": 220671328452227072,
+  "id_str": "220671328452227072",
+  "text": "RT @elwinter, too. @JRowland_Rivals: #UVA, #UNC fans, remember this name: Rashaad Goodwyn, 2014 ATH from Dinwiddie (Va.)",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 226574730,
+    "id_str": "226574730",
+    "name": "BobcatReport",
+    "screen_name": "BobcatReport",
+    "location": "texasstate.rivals.com",
+    "description": "Twitter feed of http://t.co/CGmroOxX: Texas State athletics news site, member of @Rivals & @yahoosports network. 2012 @Rivals new site of the year! #TXST",
+    "url": "http://www.bobcatreport.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.bobcatreport.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/CGmroOxX",
+            "expanded_url": "http://bobcatreport.com",
+            "display_url": "bobcatreport.com",
+            "indices": [
+              16,
+              36
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1886,
+    "friends_count": 1468,
+    "listed_count": 33,
+    "created_at": "Tue Dec 14 14:33:40 +0000 2010",
+    "favourites_count": 212,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3169,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/212664799/TwitterBR2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/212664799/TwitterBR2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3214339152/5b6d567753602724f6eab15242d97b47_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3214339152/5b6d567753602724f6eab15242d97b47_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/226574730/1360124667",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          37,
+          41
+        ]
+      },
+      {
+        "text": "UNC",
+        "indices": [
+          43,
+          47
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "elwinter",
+        "name": "Eric Winter",
+        "id": 12084562,
+        "id_str": "12084562",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

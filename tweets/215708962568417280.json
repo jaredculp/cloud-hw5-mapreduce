@@ -1,0 +1,137 @@
+{
+  "created_at": "Thu Jun 21 07:33:19 +0000 2012",
+  "id": 215708962568417280,
+  "id_str": "215708962568417280",
+  "text": "@Nelleengel succes #UvA",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215706448024449024,
+  "in_reply_to_status_id_str": "215706448024449024",
+  "in_reply_to_user_id": 91179633,
+  "in_reply_to_user_id_str": "91179633",
+  "in_reply_to_screen_name": "Nelleengel",
+  "user": {
+    "id": 223418211,
+    "id_str": "223418211",
+    "name": "krabman",
+    "screen_name": "krabman1",
+    "location": "holland",
+    "description": "AJAXXX voetbal reizen stadionwinters metal rock soul paradiso melkweg concerten schaatsen hardlopen fitness vissen cafe's zonaanbidder vader. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 616,
+    "friends_count": 818,
+    "listed_count": 8,
+    "created_at": "Mon Dec 06 10:13:04 +0000 2010",
+    "favourites_count": 57,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 21884,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/212007081/metallica.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/212007081/metallica.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3191740012/1fb05f377be33f7b4cfd4a18bb9964cb_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3191740012/1fb05f377be33f7b4cfd4a18bb9964cb_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "8F6C66",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "447528",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      52.48990575,
+      4.9596391
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      4.9596391,
+      52.48990575
+    ]
+  },
+  "place": {
+    "id": "ed7ecd6a755211bb",
+    "url": "https://api.twitter.com/1.1/geo/id/ed7ecd6a755211bb.json",
+    "place_type": "city",
+    "name": "Purmerend",
+    "full_name": "Purmerend, North Holland",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            4.920435,
+            52.470353
+          ],
+          [
+            5.024581,
+            52.470353
+          ],
+          [
+            5.024581,
+            52.528852
+          ],
+          [
+            4.920435,
+            52.528852
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          19,
+          23
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Nelleengel",
+        "name": "Ellen",
+        "id": 91179633,
+        "id_str": "91179633",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

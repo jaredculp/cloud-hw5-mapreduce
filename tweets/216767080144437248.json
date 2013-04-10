@@ -1,0 +1,121 @@
+{
+  "created_at": "Sun Jun 24 05:37:53 +0000 2012",
+  "id": 216767080144437248,
+  "id_str": "216767080144437248",
+  "text": "@GradCouncil will hold town hall meeting before #Rally4Honor. This is grad focus but I'm sure all are welcome. #UVa\nhttp://t.co/zV3i7n1f",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 69928153,
+  "in_reply_to_user_id_str": "69928153",
+  "in_reply_to_screen_name": "GradCouncil",
+  "user": {
+    "id": 60258809,
+    "id_str": "60258809",
+    "name": "M. Joel Voss",
+    "screen_name": "mjoelvoss",
+    "location": "Charlottesville, VA",
+    "description": "PhD candidate at the University of Virginia where I study human rights, the UN HRC, international law, and foreign affairs. \r\n",
+    "url": "http://www.mjoelvoss.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mjoelvoss.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 165,
+    "friends_count": 464,
+    "listed_count": 0,
+    "created_at": "Sun Jul 26 07:35:14 +0000 2009",
+    "favourites_count": 163,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2238,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2552997035/xs0nwi2dtmhgy5fxzass_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2552997035/xs0nwi2dtmhgy5fxzass_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/60258809/1353772512",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Rally4Honor",
+        "indices": [
+          48,
+          60
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          111,
+          115
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zV3i7n1f",
+        "expanded_url": "http://pages.shanti.virginia.edu/gradcouncil/2012/06/22/sunday-events-related-to-the-board-of-visitors-and-president-sullivan/",
+        "display_url": "pages.shanti.virginia.edu/gradcouncil/20…",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GradCouncil",
+        "name": "Grad Council",
+        "id": 69928153,
+        "id_str": "69928153",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,105 @@
+{
+  "created_at": "Fri Jun 29 03:10:00 +0000 2012",
+  "id": 218541801504641024,
+  "id_str": "218541801504641024",
+  "text": "RT @normwood: Former #UVA forward Mike Scott has been selected by the Atlanta Hawks with the 43rd pick in the second round of the NBA draft.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20388786,
+    "id_str": "20388786",
+    "name": "Patrick Stevens",
+    "screen_name": "D1scourse",
+    "location": "D1scourse HQ in Glen Burnie",
+    "description": "Covering college football, basketball and lacrosse, 140 characters at a time",
+    "url": "http://t.co/jkS5cGap",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/jkS5cGap",
+            "expanded_url": "http://d1scourse.typepad.com",
+            "display_url": "d1scourse.typepad.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5328,
+    "friends_count": 395,
+    "listed_count": 338,
+    "created_at": "Sun Feb 08 20:05:52 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 49772,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/559257256/boise_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/559257256/boise_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          21,
+          25
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "normwood",
+        "name": "Norm Wood",
+        "id": 31052819,
+        "id_str": "31052819",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,105 @@
+{
+  "created_at": "Wed Jun 20 05:11:40 +0000 2012",
+  "id": 215310930710499330,
+  "id_str": "215310930710499330",
+  "text": "The Half-Daily ICYMI is out! http://t.co/2atrBsQB ▸ Top stories today via @NROcorner @LarrySabato",
+  "source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 207741139,
+    "id_str": "207741139",
+    "name": "Brad Gatlin",
+    "screen_name": "jbgatlin",
+    "location": "Chattanooga",
+    "description": "Business/Management professor at Bryan College",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 197,
+    "friends_count": 328,
+    "listed_count": 6,
+    "created_at": "Mon Oct 25 23:20:39 +0000 2010",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3530,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF9900",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657799966/885zzkz4g2tdfak958fk.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657799966/885zzkz4g2tdfak958fk.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2829333710/ad7923a52a57fc8f529185ce24b801f8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2829333710/ad7923a52a57fc8f529185ce24b801f8_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "CEE1F0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/2atrBsQB",
+        "expanded_url": "http://bit.ly/g2Krn2",
+        "display_url": "bit.ly/g2Krn2",
+        "indices": [
+          29,
+          49
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NROcorner",
+        "name": "National Review",
+        "id": 46002396,
+        "id_str": "46002396",
+        "indices": [
+          74,
+          84
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          85,
+          97
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

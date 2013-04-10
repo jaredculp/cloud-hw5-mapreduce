@@ -1,0 +1,137 @@
+{
+  "created_at": "Thu Jul 05 11:11:38 +0000 2012",
+  "id": 220837334847979520,
+  "id_str": "220837334847979520",
+  "text": "@uva 4 horas para conseguir un papel y 3 firmas y aun no he conseguido ni el papel viva la #uva y su eficacia",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 289507877,
+    "id_str": "289507877",
+    "name": "Javier Polanco",
+    "screen_name": "JavierPolanco1",
+    "location": "España",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 256,
+    "friends_count": 413,
+    "listed_count": 1,
+    "created_at": "Thu Apr 28 19:31:52 +0000 2011",
+    "favourites_count": 29,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3354,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/344248262/travel_0039.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/344248262/travel_0039.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1330704772/kYC6EDMdvO0_copia_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1330704772/kYC6EDMdvO0_copia_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      41.6631146,
+      -4.7072166
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -4.7072166,
+      41.6631146
+    ]
+  },
+  "place": {
+    "id": "2afe3164f39d1b83",
+    "url": "https://api.twitter.com/1.1/geo/id/2afe3164f39d1b83.json",
+    "place_type": "city",
+    "name": "Valladolid",
+    "full_name": "Valladolid, Valladolid",
+    "country_code": "ES",
+    "country": "Spain",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -4.928146,
+            41.523108
+          ],
+          [
+            -4.630882,
+            41.523108
+          ],
+          [
+            -4.630882,
+            41.815553
+          ],
+          [
+            -4.928146,
+            41.815553
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

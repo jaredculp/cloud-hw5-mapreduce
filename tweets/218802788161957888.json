@@ -1,0 +1,151 @@
+{
+  "created_at": "Fri Jun 29 20:27:04 +0000 2012",
+  "id": 218802788161957888,
+  "id_str": "218802788161957888",
+  "text": "Are you #fucking serious?!?!? RT @coybarefoot: BREAKING: Gov. McDonnell has reappointed Helen Dragas to the #UVA Board of Visitors #Sulivan”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 23082180,
+    "id_str": "23082180",
+    "name": "Ross Savage",
+    "screen_name": "SavageWahoo",
+    "location": "Charlottesville, VA",
+    "description": "I'm a 4th year Biology BS at UVA. I rant. I rave. I call it like it is. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 49,
+    "friends_count": 123,
+    "listed_count": 0,
+    "created_at": "Fri Mar 06 16:16:33 +0000 2009",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 778,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1678245423/303913_10150435281265428_647905427_10721485_1759598558_n_1__normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1678245423/303913_10150435281265428_647905427_10721485_1759598558_n_1__normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      39.88164915,
+      -75.23722105
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -75.23722105,
+      39.88164915
+    ]
+  },
+  "place": {
+    "id": "e4a0d228eb6be76b",
+    "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+    "place_type": "city",
+    "name": "Philadelphia",
+    "full_name": "Philadelphia, PA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.280303,
+            39.867004
+          ],
+          [
+            -74.955763,
+            39.867004
+          ],
+          [
+            -74.955763,
+            40.137992
+          ],
+          [
+            -75.280303,
+            40.137992
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fucking",
+        "indices": [
+          8,
+          16
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          108,
+          112
+        ]
+      },
+      {
+        "text": "Sulivan",
+        "indices": [
+          131,
+          139
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "coybarefoot",
+        "name": "Coy Barefoot",
+        "id": 164530478,
+        "id_str": "164530478",
+        "indices": [
+          33,
+          45
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 27 19:11:57 +0000 2012",
+  "id": 218059110346788864,
+  "id_str": "218059110346788864",
+  "text": "Thanks again, Siva Vaidhyanathan, for articulating what this has been about. #UVA http://t.co/fx7rVeHv",
+  "source": "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 525955238,
+    "id_str": "525955238",
+    "name": "Matt Hedstrom",
+    "screen_name": "HedstromMatt",
+    "location": "Charlottesville, VA",
+    "description": "Assistant Professor of American Studies and Religious Studies at the University of Virginia",
+    "url": "http://www.matthedstrom.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.matthedstrom.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 383,
+    "friends_count": 731,
+    "listed_count": 9,
+    "created_at": "Fri Mar 16 02:26:58 +0000 2012",
+    "favourites_count": 14,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1254,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2285657996/DFF7C4BF-94AD-484C-A2EF-6BC6A434E155_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2285657996/DFF7C4BF-94AD-484C-A2EF-6BC6A434E155_normal",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          77,
+          81
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/fx7rVeHv",
+        "expanded_url": "http://www.slate.com/articles/news_and_politics/politics/2012/06/teresa_sullivan_reinstated_as_the_president_of_the_university_of_virginia_.single.html",
+        "display_url": "slate.com/articles/news_…",
+        "indices": [
+          82,
+          102
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,101 @@
+{
+  "created_at": "Tue Jun 26 16:58:50 +0000 2012",
+  "id": 217663219546857472,
+  "id_str": "217663219546857472",
+  "text": "How long until this site crashes? RT @UVA More than 200 people are already viewing the empty #UVa board room at http://t.co/oE44MF02",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217661930456875008,
+  "in_reply_to_status_id_str": "217661930456875008",
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 35722833,
+    "id_str": "35722833",
+    "name": "David Weiss",
+    "screen_name": "Dave___Weiss",
+    "location": "Charlottesville, VA",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 88,
+    "friends_count": 134,
+    "listed_count": 3,
+    "created_at": "Mon Apr 27 11:48:23 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 833,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/186031478/twitpic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/186031478/twitpic_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          93,
+          97
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/oE44MF02",
+        "expanded_url": "http://virginia.edu/bov/live",
+        "display_url": "virginia.edu/bov/live",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

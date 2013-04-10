@@ -1,0 +1,120 @@
+{
+  "created_at": "Wed Jun 20 18:49:44 +0000 2012",
+  "id": 215516803688955906,
+  "id_str": "215516803688955906",
+  "text": "Legacy preferences on steroids: @rickkahlenberg tackles the University of Virginia debacle. http://t.co/VFJ0uQLX #UVA #highered",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17594077,
+    "id_str": "17594077",
+    "name": "Century Foundation",
+    "screen_name": "TCFdotorg",
+    "location": "New York",
+    "description": "The Century Foundation is a progressive nonprofit public policy research institution founded in 1919, with offices in New York and Washington, DC. ",
+    "url": "http://tcf.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://tcf.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2676,
+    "friends_count": 2215,
+    "listed_count": 157,
+    "created_at": "Mon Nov 24 15:52:43 +0000 2008",
+    "favourites_count": 43,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7208,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/675102611/443b2222a6ef2d2d13f6b00d1540bea0.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/675102611/443b2222a6ef2d2d13f6b00d1540bea0.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2684226024/f0eda6120b908bd7a0fd7ce65d371cb1_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2684226024/f0eda6120b908bd7a0fd7ce65d371cb1_normal.png",
+    "profile_link_color": "EE3124",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          113,
+          117
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          118,
+          127
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/VFJ0uQLX",
+        "expanded_url": "http://bit.ly/Kl90FJ",
+        "display_url": "bit.ly/Kl90FJ",
+        "indices": [
+          92,
+          112
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RickKahlenberg",
+        "name": "Richard Kahlenberg",
+        "id": 384922713,
+        "id_str": "384922713",
+        "indices": [
+          32,
+          47
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

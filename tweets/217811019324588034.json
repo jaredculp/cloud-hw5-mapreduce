@@ -1,0 +1,116 @@
+{
+  "created_at": "Wed Jun 27 02:46:08 +0000 2012",
+  "id": 217811019324588034,
+  "id_str": "217811019324588034",
+  "text": "Much excitement at #bridenstine watch party as his lead over #sullivan continues to grow #krmg #tulsa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 520676381,
+    "id_str": "520676381",
+    "name": "Russell Mills KRMG",
+    "screen_name": "rtmradio",
+    "location": "Tulsa, OK",
+    "description": "Anchor/Reporter at KRMG Radio, Tulsa, OK ",
+    "url": "http://krmg.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://krmg.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 69,
+    "friends_count": 110,
+    "listed_count": 1,
+    "created_at": "Sat Mar 10 19:40:46 +0000 2012",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 104,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3091282933/c1473e8c4f9c76bca553adaa823b4ef7_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3091282933/c1473e8c4f9c76bca553adaa823b4ef7_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bridenstine",
+        "indices": [
+          19,
+          31
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          61,
+          70
+        ]
+      },
+      {
+        "text": "krmg",
+        "indices": [
+          89,
+          94
+        ]
+      },
+      {
+        "text": "tulsa",
+        "indices": [
+          95,
+          101
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

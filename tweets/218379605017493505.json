@@ -1,0 +1,133 @@
+{
+  "created_at": "Thu Jun 28 16:25:29 +0000 2012",
+  "id": 218379605017493505,
+  "id_str": "218379605017493505",
+  "text": "Our fingers are crossed! MT @uvaswimdive: Former #UVA swimmer Matt McLean (@MattBMcLean6F) likely headed to @London2012 http://t.co/0e5CT4K3",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 605700894,
+    "id_str": "605700894",
+    "name": "ACCinLondon12",
+    "screen_name": "ACCinLondon12",
+    "location": "Greensboro, NC",
+    "description": "Complete coverage of former and current ACC student-athletes and coaches in the 2012 London Games",
+    "url": "http://theACC.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://theACC.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              17
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 362,
+    "friends_count": 155,
+    "listed_count": 7,
+    "created_at": "Mon Jun 11 18:03:33 +0000 2012",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1178,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/622720370/znoz51kctoyhwte3qcbv.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/622720370/znoz51kctoyhwte3qcbv.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2330907513/refvxbj5yvqco1e68532_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2330907513/refvxbj5yvqco1e68532_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          49,
+          53
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/0e5CT4K3",
+        "expanded_url": "http://twitpic.com/a1azl6",
+        "display_url": "twitpic.com/a1azl6",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "uvaswimdive",
+        "name": "Virginia Swim & Dive",
+        "id": 44697418,
+        "id_str": "44697418",
+        "indices": [
+          28,
+          40
+        ]
+      },
+      {
+        "screen_name": "MattBMcLean6F",
+        "name": "Matt McLean",
+        "id": 303618048,
+        "id_str": "303618048",
+        "indices": [
+          75,
+          89
+        ]
+      },
+      {
+        "screen_name": "London2012",
+        "name": "London 2012",
+        "id": 19900778,
+        "id_str": "19900778",
+        "indices": [
+          108,
+          119
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,120 @@
+{
+  "created_at": "Fri Jun 29 10:00:59 +0000 2012",
+  "id": 218645229601951745,
+  "id_str": "218645229601951745",
+  "text": "#RCC: next #BOV chairman?: http://t.co/PezhfUl3",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 410109136,
+    "id_str": "410109136",
+    "name": "maltastar",
+    "screen_name": "maltastar",
+    "location": "Malta",
+    "description": "http://t.co/XxN7gNco provides online breaking news, current affairs and news analysis from Malta.",
+    "url": "http://www.maltastar.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.maltastar.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/XxN7gNco",
+            "expanded_url": "http://www.maltastar.com",
+            "display_url": "maltastar.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 658,
+    "friends_count": 521,
+    "listed_count": 11,
+    "created_at": "Fri Nov 11 17:07:43 +0000 2011",
+    "favourites_count": 9,
+    "utc_offset": 3600,
+    "time_zone": "Brussels",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9628,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3072731870/08601ae9c1f71783d102a14963f0640a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3072731870/08601ae9c1f71783d102a14963f0640a_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/410109136/1359098073",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RCC",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          11,
+          15
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/PezhfUl3",
+        "expanded_url": "http://bit.ly/L7gm5Q",
+        "display_url": "bit.ly/L7gm5Q",
+        "indices": [
+          27,
+          47
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

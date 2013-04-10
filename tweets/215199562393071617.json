@@ -1,0 +1,101 @@
+{
+  "created_at": "Tue Jun 19 21:49:08 +0000 2012",
+  "id": 215199562393071617,
+  "id_str": "215199562393071617",
+  "text": "RT @Zinie Vice Rector Mark Kington resigns from #UVA Board of Visitors. AP: http://t.co/9LpPJfNV. Says \"it is the right thing to do.\"",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 67325576,
+    "id_str": "67325576",
+    "name": "Ben Nuckols",
+    "screen_name": "APBenNuckols",
+    "location": "Washington, DC",
+    "description": "AP reporter in Washington. Local government, politics, other news of interest. As Cookie Monster said: Asking questions is a good way to find out about things.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1221,
+    "friends_count": 825,
+    "listed_count": 80,
+    "created_at": "Thu Aug 20 14:17:42 +0000 2009",
+    "favourites_count": 6,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1793,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1825457323/Ben-Darrow-FBversion_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1825457323/Ben-Darrow-FBversion_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/9LpPJfNV",
+        "expanded_url": "http://yhoo.it/MnSt7E",
+        "display_url": "yhoo.it/MnSt7E",
+        "indices": [
+          76,
+          96
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Zinie",
+        "name": "Zinie Chen Sampson",
+        "id": 293686903,
+        "id_str": "293686903",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

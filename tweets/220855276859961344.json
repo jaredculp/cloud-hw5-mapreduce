@@ -1,0 +1,111 @@
+{
+  "created_at": "Thu Jul 05 12:22:55 +0000 2012",
+  "id": 220855276859961344,
+  "id_str": "220855276859961344",
+  "text": "Os números da #uva e do #vinho no Rio Grande do Sul em 2012. \nhttp://t.co/QLvvacMJ",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 68210009,
+    "id_str": "68210009",
+    "name": "Marcia Amaral",
+    "screen_name": "AboutWineNMore",
+    "location": "Brasil",
+    "description": "Amo #vinho e prazeres relacionados // I love #wine and related pleasures // Me encanta el #vino y los placeres relacionados",
+    "url": "http://www.tudodovinhoemais.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.tudodovinhoemais.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 259,
+    "friends_count": 225,
+    "listed_count": 11,
+    "created_at": "Sun Aug 23 18:59:46 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1922,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/32291862/Beaumes_de_Venise__1_.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/32291862/Beaumes_de_Venise__1_.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1430695120/OFournier_049_1__normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1430695120/OFournier_049_1__normal.jpg",
+    "profile_link_color": "06A36A",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "74DEAE",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          14,
+          18
+        ]
+      },
+      {
+        "text": "vinho",
+        "indices": [
+          24,
+          30
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/QLvvacMJ",
+        "expanded_url": "http://jcrs.uol.com.br/site/noticia.php?codn=97665",
+        "display_url": "jcrs.uol.com.br/site/noticia.p…",
+        "indices": [
+          62,
+          82
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

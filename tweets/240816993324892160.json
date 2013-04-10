@@ -1,0 +1,183 @@
+{
+  "created_at": "Wed Aug 29 14:23:40 +0000 2012",
+  "id": 240816993324892160,
+  "id_str": "240816993324892160",
+  "text": "“@DardenMBA: #Darden alum Arnie Katz doing great things: http://t.co/3f4Yl5GC @RelayFoods #MBA #UVA” This was my internship. Exciting times!",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25027596,
+    "id_str": "25027596",
+    "name": "Julie Busby",
+    "screen_name": "julie_busby",
+    "location": "Boston",
+    "description": "Management Consultant",
+    "url": "http://www.lifeofjulie.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.lifeofjulie.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 172,
+    "friends_count": 217,
+    "listed_count": 13,
+    "created_at": "Wed Mar 18 04:26:21 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1205,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2638929760/1f56af5a1142132487a3c87a68b64953_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2638929760/1f56af5a1142132487a3c87a68b64953_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/25027596/1348353698",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      42.31637482,
+      -71.10656437
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -71.10656437,
+      42.31637482
+    ]
+  },
+  "place": {
+    "id": "67b98f17fdcf20be",
+    "url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json",
+    "place_type": "city",
+    "name": "Boston",
+    "full_name": "Boston, MA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.191113,
+            42.22788
+          ],
+          [
+            -70.749455,
+            42.22788
+          ],
+          [
+            -70.749455,
+            42.40082
+          ],
+          [
+            -71.191113,
+            42.40082
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Darden",
+        "indices": [
+          13,
+          20
+        ]
+      },
+      {
+        "text": "MBA",
+        "indices": [
+          90,
+          94
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          95,
+          99
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/3f4Yl5GC",
+        "expanded_url": "http://tinyurl.com/c6uwfxa",
+        "display_url": "tinyurl.com/c6uwfxa",
+        "indices": [
+          57,
+          77
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DardenMBA",
+        "name": "Darden School at UVA",
+        "id": 28177507,
+        "id_str": "28177507",
+        "indices": [
+          1,
+          11
+        ]
+      },
+      {
+        "screen_name": "RelayFoods",
+        "name": "RelayFoods",
+        "id": 37667823,
+        "id_str": "37667823",
+        "indices": [
+          78,
+          89
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

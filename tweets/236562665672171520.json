@@ -1,0 +1,131 @@
+{
+  "created_at": "Fri Aug 17 20:38:29 +0000 2012",
+  "id": 236562665672171520,
+  "id_str": "236562665672171520",
+  "text": "Video: @CoachMikeLondon talks about his @VirginiaSports football team's upcoming 2012 season #UVA http://t.co/VvYnhywc",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 382876950,
+    "id_str": "382876950",
+    "name": "ACC Digital Network",
+    "screen_name": "theACCDN",
+    "location": "Charlotte, NC",
+    "description": "Anchored by http://t.co/zXYR7QbX, the ACC Digital Network distributes original video content across a network of websites.",
+    "url": "http://www.youtube.com/ACCDigitalNetwork",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.youtube.com/ACCDigitalNetwork",
+            "expanded_url": null,
+            "indices": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/zXYR7QbX",
+            "expanded_url": "http://theACC.com",
+            "display_url": "theACC.com",
+            "indices": [
+              12,
+              32
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6082,
+    "friends_count": 717,
+    "listed_count": 68,
+    "created_at": "Fri Sep 30 21:08:59 +0000 2011",
+    "favourites_count": 58,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 2248,
+    "lang": "en",
+    "contributors_enabled": true,
+    "is_translator": false,
+    "profile_background_color": "052645",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/641607784/naed06bwbzcgplntqazc.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/641607784/naed06bwbzcgplntqazc.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2538809832/zur2enh0k0s4o1sannse_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2538809832/zur2enh0k0s4o1sannse_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          93,
+          97
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/VvYnhywc",
+        "expanded_url": "http://ow.ly/d3kSw",
+        "display_url": "ow.ly/d3kSw",
+        "indices": [
+          98,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CoachMikeLondon",
+        "name": "Mike London",
+        "id": 175767720,
+        "id_str": "175767720",
+        "indices": [
+          7,
+          23
+        ]
+      },
+      {
+        "screen_name": "VirginiaSports",
+        "name": "Virginia Cavaliers",
+        "id": 44257374,
+        "id_str": "44257374",
+        "indices": [
+          40,
+          55
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

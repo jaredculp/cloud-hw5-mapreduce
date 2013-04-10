@@ -1,0 +1,96 @@
+{
+  "created_at": "Fri Jun 22 00:47:28 +0000 2012",
+  "id": 215969216698908673,
+  "id_str": "215969216698908673",
+  "text": "Much recent tech innovation has come from an incremental development model in response to old/bad top-down approaches.\tJust sayin. #UVa",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22171918,
+    "id_str": "22171918",
+    "name": "Julie Meloni",
+    "screen_name": "jcmeloni",
+    "location": "Washington DC",
+    "description": "EVP, Product & Technology @interfolio. I dig UX, info arch, DBs, code, Agile done right, videogames, adventures, & good food. Once upon a time, I wrote books.",
+    "url": "http://www.thickbook.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.thickbook.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1389,
+    "friends_count": 500,
+    "listed_count": 186,
+    "created_at": "Fri Feb 27 18:38:38 +0000 2009",
+    "favourites_count": 302,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 22906,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1156770459/2742146127_81425c2432_m_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1156770459/2742146127_81425c2432_m_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/22171918/1352945273",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 5,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          131,
+          135
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

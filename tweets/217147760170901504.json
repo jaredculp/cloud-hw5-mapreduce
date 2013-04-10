@@ -1,0 +1,129 @@
+{
+  "created_at": "Mon Jun 25 06:50:35 +0000 2012",
+  "id": 217147760170901504,
+  "id_str": "217147760170901504",
+  "text": "#Dragas putting the Rotunda up for sale. #UVA shouldn't be stripped and sold for its valuable parts (its reputation). http://t.co/UwjVBOcY",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 607306874,
+    "id_str": "607306874",
+    "name": "Amber",
+    "screen_name": "amberopolis",
+    "location": "DC ",
+    "description": "public policy analyst, opinionated art critic, book lover, up/re-cycler, loves burritos, drinks coffee, travels with a french press.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 14,
+    "friends_count": 70,
+    "listed_count": 0,
+    "created_at": "Wed Jun 13 15:34:07 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 179,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2331814610/izx7dy291agy8suqu946_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2331814610/izx7dy291agy8suqu946_normal.jpeg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Dragas",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          41,
+          45
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 217147760179290113,
+        "id_str": "217147760179290113",
+        "indices": [
+          118,
+          138
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwN2vMVCIAEh-Wn.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwN2vMVCIAEh-Wn.jpg",
+        "url": "http://t.co/UwjVBOcY",
+        "display_url": "pic.twitter.com/UwjVBOcY",
+        "expanded_url": "http://twitter.com/amberopolis/status/217147760170901504/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 480,
+            "h": 347,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 246,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 480,
+            "h": 347,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

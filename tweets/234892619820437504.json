@@ -1,0 +1,118 @@
+{
+  "created_at": "Mon Aug 13 06:02:19 +0000 2012",
+  "id": 234892619820437504,
+  "id_str": "234892619820437504",
+  "text": "Buenos días de agosto a todos! Gracias @Uvasdoce por la idea de mezclar #sandía y #uva en granizado! Con este #calor nos viene genial!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 71090071,
+    "id_str": "71090071",
+    "name": "Placeres Naturales",
+    "screen_name": "placeresnatural",
+    "location": "Madrid",
+    "description": "Elaboramos frutas y verduras lavadas, peladas, cortadas y listas para consumir, 100% naturales. ¡Descubre nuestro surtido!",
+    "url": "http://www.placeresnaturales.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.placeresnaturales.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 269,
+    "friends_count": 157,
+    "listed_count": 11,
+    "created_at": "Wed Sep 02 22:06:53 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 659,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F9F9F2",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/647678045/xea2d522a7bf3520a5c287bb49cc663e.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/647678045/xea2d522a7bf3520a5c287bb49cc663e.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2926836460/f108964f84a92f32b96d6343374ba782_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2926836460/f108964f84a92f32b96d6343374ba782_normal.jpeg",
+    "profile_link_color": "428A19",
+    "profile_sidebar_border_color": "00070B",
+    "profile_sidebar_fill_color": "70B163",
+    "profile_text_color": "AB151C",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sandía",
+        "indices": [
+          72,
+          79
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          82,
+          86
+        ]
+      },
+      {
+        "text": "calor",
+        "indices": [
+          110,
+          116
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Uvasdoce",
+        "name": "Uvasdoce",
+        "id": 318445117,
+        "id_str": "318445117",
+        "indices": [
+          39,
+          48
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

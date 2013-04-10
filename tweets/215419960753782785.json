@@ -1,0 +1,111 @@
+{
+  "created_at": "Wed Jun 20 12:24:55 +0000 2012",
+  "id": 215419960753782785,
+  "id_str": "215419960753782785",
+  "text": "Meest anders actieve studenten op #UvA en #HvA | Folia Web http://t.co/qfkRbTh5",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 6347332,
+    "id_str": "6347332",
+    "name": "Radboud Winkels",
+    "screen_name": "Radboud",
+    "location": "Noord-Holland, Amsterdam",
+    "description": "scientist, music lover, bad tennis player and painter",
+    "url": "http://www.leibnizcenter.org/~winkels/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.leibnizcenter.org/~winkels/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 99,
+    "friends_count": 78,
+    "listed_count": 6,
+    "created_at": "Sat May 26 18:54:26 +0000 2007",
+    "favourites_count": 1,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 529,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155524266/E92.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155524266/E92.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1178486177/Selfportret_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1178486177/Selfportret_normal.JPG",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          34,
+          38
+        ]
+      },
+      {
+        "text": "HvA",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/qfkRbTh5",
+        "expanded_url": "http://www.foliaweb.nl/studenten/meeste-langstudeerders-op-uva-en-hva/",
+        "display_url": "foliaweb.nl/studenten/mees…",
+        "indices": [
+          59,
+          79
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

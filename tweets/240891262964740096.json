@@ -1,0 +1,107 @@
+{
+  "created_at": "Wed Aug 29 19:18:47 +0000 2012",
+  "id": 240891262964740096,
+  "id_str": "240891262964740096",
+  "text": "@S_Pestuggia Anche #fedro usava una certa espressione #volpe #uva .",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 378815161,
+  "in_reply_to_user_id_str": "378815161",
+  "in_reply_to_screen_name": "S_Pestuggia",
+  "user": {
+    "id": 231921068,
+    "id_str": "231921068",
+    "name": "alessandro chiari",
+    "screen_name": "pesna94",
+    "location": "Firenze",
+    "description": "Da bambino volevo fare il giornalista , poi per necessità ho iniziato a vendere , ho una laurea in diritto dell'impresa , amo leggere correre e tifo viola.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 245,
+    "friends_count": 1418,
+    "listed_count": 2,
+    "created_at": "Wed Dec 29 20:51:50 +0000 2010",
+    "favourites_count": 11,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3575,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2755664396/92560a9e735af92acae243aa92739758_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2755664396/92560a9e735af92acae243aa92739758_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/231921068/1351017799",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fedro",
+        "indices": [
+          19,
+          25
+        ]
+      },
+      {
+        "text": "volpe",
+        "indices": [
+          54,
+          60
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "S_Pestuggia",
+        "name": "Saverio Pestuggia ",
+        "id": 378815161,
+        "id_str": "378815161",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

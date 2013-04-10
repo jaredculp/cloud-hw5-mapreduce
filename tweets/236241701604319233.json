@@ -1,0 +1,92 @@
+{
+  "created_at": "Thu Aug 16 23:23:05 +0000 2012",
+  "id": 236241701604319233,
+  "id_str": "236241701604319233",
+  "text": "En brihuega esperando la subida de los toros, mientras para amenizar...bien de botellines... Me acompaña @Atienza_4. #uva",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 266707180,
+    "id_str": "266707180",
+    "name": "Miguel Ángel Pezuela",
+    "screen_name": "Pezu11",
+    "location": "",
+    "description": "Futbolista consagrado de la provincia de Guadalajara, palmarés envidiable en cuanto a copas levantadas,eso si Títulos no tengo tantos.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 258,
+    "friends_count": 213,
+    "listed_count": 0,
+    "created_at": "Tue Mar 15 17:31:37 +0000 2011",
+    "favourites_count": 4,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3296,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3147790493/42eafec0b44954b04de68e1fbc92f36f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3147790493/42eafec0b44954b04de68e1fbc92f36f_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          117,
+          121
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Atienza_4",
+        "name": "Álvaro Atienza",
+        "id": 266597932,
+        "id_str": "266597932",
+        "indices": [
+          105,
+          115
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

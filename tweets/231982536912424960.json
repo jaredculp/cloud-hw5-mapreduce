@@ -1,0 +1,84 @@
+{
+  "created_at": "Sun Aug 05 05:18:41 +0000 2012",
+  "id": 231982536912424960,
+  "id_str": "231982536912424960",
+  "text": "Casey Rollins can like my status on Facebook but she can't respond to my tweet? What a BITCH! #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 188903840,
+    "id_str": "188903840",
+    "name": "hayley",
+    "screen_name": "wayleyrussell",
+    "location": "",
+    "description": "go awayyyy",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 86,
+    "friends_count": 85,
+    "listed_count": 0,
+    "created_at": "Thu Sep 09 21:44:21 +0000 2010",
+    "favourites_count": 3369,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5476,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/745038357/5055443535e03d1a736ac5ba35e215d1.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/745038357/5055443535e03d1a736ac5ba35e215d1.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3185500962/cf4e04dd50eba119ad61851f6ee7c05f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3185500962/cf4e04dd50eba119ad61851f6ee7c05f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/188903840/1356203322",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "F0E2CC",
+    "profile_text_color": "70403F",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          94,
+          98
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

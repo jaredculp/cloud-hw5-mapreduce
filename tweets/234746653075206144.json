@@ -1,0 +1,90 @@
+{
+  "created_at": "Sun Aug 12 20:22:18 +0000 2012",
+  "id": 234746653075206144,
+  "id_str": "234746653075206144",
+  "text": "preciso falar com o #Fernando de #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 341729496,
+    "id_str": "341729496",
+    "name": "Thaaty :3",
+    "screen_name": "itsThatiMartins",
+    "location": "União da Vitória",
+    "description": "Não quero q td seja perfeito...quero q td seja bom o bastante para me fazer Feliz",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 101,
+    "friends_count": 115,
+    "listed_count": 0,
+    "created_at": "Sun Jul 24 21:26:43 +0000 2011",
+    "favourites_count": 25,
+    "utc_offset": -14400,
+    "time_zone": "Santiago",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9714,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "572B8A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/652957659/z64vd3gkurruk9q8gtjd.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/652957659/z64vd3gkurruk9q8gtjd.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2653489400/e3a78971d1c560d526541ef1fc6cb5b7_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2653489400/e3a78971d1c560d526541ef1fc6cb5b7_normal.png",
+    "profile_link_color": "672E9C",
+    "profile_sidebar_border_color": "696969",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "363636",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Fernando",
+        "indices": [
+          20,
+          29
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          33,
+          37
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

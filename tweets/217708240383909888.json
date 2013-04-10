@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 26 19:57:43 +0000 2012",
+  "id": 217708240383909888,
+  "id_str": "217708240383909888",
+  "text": "Tricky thing about unanimous votes. They work much better when you actually have a quorum. #UVa http://t.co/PG4jbZsb",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 486027736,
+    "id_str": "486027736",
+    "name": "Courtney Cherry",
+    "screen_name": "C_inDC",
+    "location": "Washington, DC",
+    "description": "Back on twitter. Not sure why I ever left.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 116,
+    "friends_count": 244,
+    "listed_count": 0,
+    "created_at": "Tue Feb 07 20:59:18 +0000 2012",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 163,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DE1196",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/653059931/zc11siixlayefh957uux.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/653059931/zc11siixlayefh957uux.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1811491135/339792_1609316236205_1335180053_31681193_260420892_o_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1811491135/339792_1609316236205_1335180053_31681193_260420892_o_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/PG4jbZsb",
+        "expanded_url": "http://www.washingtonpost.com/local/education/u-va-leadership-crisis-mcdonnell-declines-to-take-sides/2012/06/26/gJQArOHU4V_story.html?hpid=z2",
+        "display_url": "washingtonpost.com/local/educatio…",
+        "indices": [
+          96,
+          116
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

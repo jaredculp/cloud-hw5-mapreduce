@@ -1,0 +1,130 @@
+{
+  "created_at": "Tue Jun 19 14:16:41 +0000 2012",
+  "id": 215085700347994112,
+  "id_str": "215085700347994112",
+  "text": "Thought-provoking @slate article by @sivavaid on ouster of Pres #Sullivan.  #UVA  http://t.co/WH7iogj7",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 28642349,
+    "id_str": "28642349",
+    "name": "Rachel Turner",
+    "screen_name": "rae410",
+    "location": "Arlington, VA",
+    "description": "Speechwriter, volunteer, music lover, avid reader & infrequent tweeter. ",
+    "url": "https://www.facebook.com/rae410",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://www.facebook.com/rae410",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 83,
+    "friends_count": 355,
+    "listed_count": 3,
+    "created_at": "Fri Apr 03 20:13:01 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 310,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "141519",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/592085932/xfcb5888eebece4b571371be94de9b4c.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/592085932/xfcb5888eebece4b571371be94de9b4c.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/791773614/rachel3_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/791773614/rachel3_normal.JPG",
+    "profile_link_color": "F12001",
+    "profile_sidebar_border_color": "EBF0EC",
+    "profile_sidebar_fill_color": "85B190",
+    "profile_text_color": "C3963B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          64,
+          73
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          76,
+          80
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WH7iogj7",
+        "expanded_url": "http://slate.me/M11OQi",
+        "display_url": "slate.me/M11OQi",
+        "indices": [
+          82,
+          102
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Slate",
+        "name": "Slate",
+        "id": 15164565,
+        "id_str": "15164565",
+        "indices": [
+          18,
+          24
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          36,
+          45
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

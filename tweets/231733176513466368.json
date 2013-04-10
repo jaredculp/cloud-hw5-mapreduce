@@ -1,0 +1,106 @@
+{
+  "created_at": "Sat Aug 04 12:47:49 +0000 2012",
+  "id": 231733176513466368,
+  "id_str": "231733176513466368",
+  "text": "@jawaadsmuffin #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 231731745194655744,
+  "in_reply_to_status_id_str": "231731745194655744",
+  "in_reply_to_user_id": 421777412,
+  "in_reply_to_user_id_str": "421777412",
+  "in_reply_to_screen_name": "jawaadsmuffin",
+  "user": {
+    "id": 519493007,
+    "id_str": "519493007",
+    "name": "ㅤ",
+    "screen_name": "idolshero",
+    "location": "glee club.",
+    "description": "@Sheeransverses; you're my fucking life.",
+    "url": "http://t.co/ZkTNKojm",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/ZkTNKojm",
+            "expanded_url": "http://flavors.me/corysvoice",
+            "display_url": "flavors.me/corysvoice",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1661,
+    "friends_count": 1398,
+    "listed_count": 2,
+    "created_at": "Fri Mar 09 13:39:48 +0000 2012",
+    "favourites_count": 18983,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 26270,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/771313057/e76f425d8e1295449476122da2cb9d98.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/771313057/e76f425d8e1295449476122da2cb9d98.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3201146174/2564e9ee3db415bd351a1f9ff35487b3_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3201146174/2564e9ee3db415bd351a1f9ff35487b3_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/519493007/1359883219",
+    "profile_link_color": "51555C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          15,
+          19
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jawaadsmuffin",
+        "name": "zjm",
+        "id": 421777412,
+        "id_str": "421777412",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

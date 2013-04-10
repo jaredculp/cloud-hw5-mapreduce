@@ -1,0 +1,132 @@
+{
+  "created_at": "Fri Aug 10 15:34:38 +0000 2012",
+  "id": 233949486974656512,
+  "id_str": "233949486974656512",
+  "text": "@Greg_Strine don't trust a hoe ;)",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 233939130982207488,
+  "in_reply_to_status_id_str": "233939130982207488",
+  "in_reply_to_user_id": 390790897,
+  "in_reply_to_user_id_str": "390790897",
+  "in_reply_to_screen_name": "Greg_Strine",
+  "user": {
+    "id": 713691414,
+    "id_str": "713691414",
+    "name": "kassie marie",
+    "screen_name": "kassie_green",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 123,
+    "friends_count": 103,
+    "listed_count": 0,
+    "created_at": "Tue Jul 24 04:43:26 +0000 2012",
+    "favourites_count": 1126,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3486,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DEA2B3",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/683068268/1b14f5bc7e7edea96dbd8315c1c355d2.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/683068268/1b14f5bc7e7edea96dbd8315c1c355d2.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3204713560/ef5b8969ec8a4736125792fb9f0be04f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3204713560/ef5b8969ec8a4736125792fb9f0be04f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/713691414/1358860945",
+    "profile_link_color": "66A3E3",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      42.28471249,
+      -83.79237723
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -83.79237723,
+      42.28471249
+    ]
+  },
+  "place": {
+    "id": "92b2158a6d509767",
+    "url": "https://api.twitter.com/1.1/geo/id/92b2158a6d509767.json",
+    "place_type": "city",
+    "name": "Ann Arbor",
+    "full_name": "Ann Arbor, MI",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -83.799572,
+            42.222668
+          ],
+          [
+            -83.675807,
+            42.222668
+          ],
+          [
+            -83.675807,
+            42.323973
+          ],
+          [
+            -83.799572,
+            42.323973
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Greg_Strine",
+        "name": "Greg Strine",
+        "id": 390790897,
+        "id_str": "390790897",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

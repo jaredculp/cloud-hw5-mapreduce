@@ -1,0 +1,111 @@
+{
+  "created_at": "Fri Jun 22 22:06:05 +0000 2012",
+  "id": 216290992318447616,
+  "id_str": "216290992318447616",
+  "text": "Anyone coming to the #UVA #Sullivan story late, would do well to look to @cavalierdaily to catch up. Phenom reporting by student paper.",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 110774004,
+    "id_str": "110774004",
+    "name": "Jane B Kulow",
+    "screen_name": "CvlKulow",
+    "location": "Charlottesville",
+    "description": "Wife to one, parent to three; advocate for schools, books, and libraries; Red Sox fan; reader. Blogging about college search; teens are so glad.",
+    "url": "http://drstrangecollege.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://drstrangecollege.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 831,
+    "friends_count": 1046,
+    "listed_count": 55,
+    "created_at": "Tue Feb 02 18:44:03 +0000 2010",
+    "favourites_count": 70,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5808,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2482676150/i2hdysbqpnpbbpot8vb4_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2482676150/i2hdysbqpnpbbpot8vb4_normal.png",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          21,
+          25
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          26,
+          35
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          73,
+          87
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

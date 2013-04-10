@@ -1,0 +1,112 @@
+{
+  "created_at": "Thu Jun 21 01:26:35 +0000 2012",
+  "id": 215616672416022531,
+  "id_str": "215616672416022531",
+  "text": "this is hilarious: http://t.co/EItifRqx #uva #strategicdynamism",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 115748075,
+    "id_str": "115748075",
+    "name": "erika meitner",
+    "screen_name": "rikam99",
+    "location": "blacksburg, va",
+    "description": "poet, associate professor of english at virginia tech, author of idEAL CiTiES & Makeshift Instructions For Vigilant Girls & Inventory At The All-night Drugstore",
+    "url": "http://www.erikameitner.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.erikameitner.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 489,
+    "friends_count": 267,
+    "listed_count": 31,
+    "created_at": "Fri Feb 19 20:02:12 +0000 2010",
+    "favourites_count": 53,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 901,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F2F2",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/379800616/IdealCitiestwitSlide.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/379800616/IdealCitiestwitSlide.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1460954555/twitpic_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1460954555/twitpic_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/115748075/1355714796",
+    "profile_link_color": "911410",
+    "profile_sidebar_border_color": "969991",
+    "profile_sidebar_fill_color": "DCE0D7",
+    "profile_text_color": "0D0D0C",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          40,
+          44
+        ]
+      },
+      {
+        "text": "strategicdynamism",
+        "indices": [
+          45,
+          63
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/EItifRqx",
+        "expanded_url": "http://kieranhealy.org/blog/archives/2012/06/20/the-declaration-of-independence/",
+        "display_url": "kieranhealy.org/blog/archives/…",
+        "indices": [
+          19,
+          39
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

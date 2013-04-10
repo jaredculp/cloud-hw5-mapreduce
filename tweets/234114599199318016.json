@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Aug 11 02:30:44 +0000 2012",
+  "id": 234114599199318016,
+  "id_str": "234114599199318016",
+  "text": "\"@Chavez_Montana: #UVA first game soon!!!\" I'll be there! Go Hoos!",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 55675105,
+    "id_str": "55675105",
+    "name": "Cody Miller",
+    "screen_name": "IllinoisHoo04",
+    "location": "Lexington, IL",
+    "description": "Huge #uva fan from IL. #hoos #titans #spurs #cubs Love all sports. Love family and friends",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 64,
+    "friends_count": 268,
+    "listed_count": 0,
+    "created_at": "Fri Jul 10 21:52:38 +0000 2009",
+    "favourites_count": 72,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1333,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "02186E",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3182188186/2aebe191d4598acd4ede16c072a9e8f4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3182188186/2aebe191d4598acd4ede16c072a9e8f4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/55675105/1353766816",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "EB7805",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "EB7805",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          18,
+          22
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Chavez_Montana",
+        "name": "soy Dominicano mami",
+        "id": 303873831,
+        "id_str": "303873831",
+        "indices": [
+          1,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,122 @@
+{
+  "created_at": "Sat Jun 30 23:39:50 +0000 2012",
+  "id": 219213686018015232,
+  "id_str": "219213686018015232",
+  "text": "RT @ScoutRecruiting Video: Garner talks #UVa verbal http://t.co/Mkq1J3j6",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 204527899,
+    "id_str": "204527899",
+    "name": "kristen kenney",
+    "screen_name": "kristenkenney",
+    "location": "Nomad",
+    "description": "#FOXSportsNext feeds me, givin back fuels me. Not just a blonde w/a mic-I'm a fighter. Working to #endmalaria. http://t.co/JONR3dEb\n",
+    "url": "http://kristenkenney.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://kristenkenney.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/JONR3dEb",
+            "expanded_url": "http://malaikaforlife.org",
+            "display_url": "malaikaforlife.org",
+            "indices": [
+              111,
+              131
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4021,
+    "friends_count": 620,
+    "listed_count": 107,
+    "created_at": "Mon Oct 18 22:21:00 +0000 2010",
+    "favourites_count": 68,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5350,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B6BBBD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/597194554/fyzb6r9lq9hyd5r1dqsd.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/597194554/fyzb6r9lq9hyd5r1dqsd.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3042614937/ea77a1c7c98b119572a1e66e1ce9edd3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3042614937/ea77a1c7c98b119572a1e66e1ce9edd3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/204527899/1356746706",
+    "profile_link_color": "E05E64",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          40,
+          44
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Mkq1J3j6",
+        "expanded_url": "http://bit.ly/N1MXnM",
+        "display_url": "bit.ly/N1MXnM",
+        "indices": [
+          52,
+          72
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "scoutrecruiting",
+        "name": "Scout Recruiting",
+        "id": 37925935,
+        "id_str": "37925935",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

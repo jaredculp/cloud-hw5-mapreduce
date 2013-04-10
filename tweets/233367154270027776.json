@@ -1,0 +1,123 @@
+{
+  "created_at": "Thu Aug 09 01:00:39 +0000 2012",
+  "id": 233367154270027776,
+  "id_str": "233367154270027776",
+  "text": "#UVA #fiasco #dragasmustgo #accountability cc: @cavalierdaily http://t.co/mU6xNuOH",
+  "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 259579692,
+    "id_str": "259579692",
+    "name": "kant's brother",
+    "screen_name": "KantsBrother",
+    "location": "Boston",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 77,
+    "friends_count": 414,
+    "listed_count": 1,
+    "created_at": "Wed Mar 02 04:59:51 +0000 2011",
+    "favourites_count": 272,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3418,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2973313183/8f43ed9a8ca5aaab504954b9b885b716_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2973313183/8f43ed9a8ca5aaab504954b9b885b716_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/259579692/1355459096",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "fiasco",
+        "indices": [
+          5,
+          12
+        ]
+      },
+      {
+        "text": "dragasmustgo",
+        "indices": [
+          13,
+          26
+        ]
+      },
+      {
+        "text": "accountability",
+        "indices": [
+          27,
+          42
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/mU6xNuOH",
+        "expanded_url": "http://www.nbc29.com/story/19230475/uva-alumni-seeking-answers-from-board-of-visitors",
+        "display_url": "nbc29.com/story/19230475…",
+        "indices": [
+          62,
+          82
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          47,
+          61
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

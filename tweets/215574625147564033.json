@@ -1,0 +1,125 @@
+{
+  "created_at": "Wed Jun 20 22:39:30 +0000 2012",
+  "id": 215574625147564033,
+  "id_str": "215574625147564033",
+  "text": "@katiecouric Shout out to great work by @cavalierdaily @suzimcc @wtju911fm Join us at https://t.co/svev2Xjl",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215569785201754113,
+  "in_reply_to_status_id_str": "215569785201754113",
+  "in_reply_to_user_id": 18812301,
+  "in_reply_to_user_id_str": "18812301",
+  "in_reply_to_screen_name": "katiecouric",
+  "user": {
+    "id": 16087826,
+    "id_str": "16087826",
+    "name": "suebob212",
+    "screen_name": "suebob212",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 114,
+    "friends_count": 1102,
+    "listed_count": 2,
+    "created_at": "Mon Sep 01 21:02:04 +0000 2008",
+    "favourites_count": 222,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 486,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2474888444/jo5xu85ls093yz82dm21_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2474888444/jo5xu85ls093yz82dm21_normal.jpeg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/svev2Xjl",
+        "expanded_url": "https://www.facebook.com/groups/United4Honor/",
+        "display_url": "facebook.com/groups/United4…",
+        "indices": [
+          86,
+          107
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          40,
+          54
+        ]
+      },
+      {
+        "screen_name": "suzimcc",
+        "name": "Suzi McC",
+        "id": 20621761,
+        "id_str": "20621761",
+        "indices": [
+          55,
+          63
+        ]
+      },
+      {
+        "screen_name": "wtju911fm",
+        "name": "WTJU 91.1FM UVa",
+        "id": 23152796,
+        "id_str": "23152796",
+        "indices": [
+          64,
+          74
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

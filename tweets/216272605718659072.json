@@ -1,0 +1,128 @@
+{
+  "created_at": "Fri Jun 22 20:53:02 +0000 2012",
+  "id": 216272605718659072,
+  "id_str": "216272605718659072",
+  "text": "BOLD! #VAgov MT @ryanobles BREAKING: @BobMcDonnell informs #UVa #BOV that he will fire the entire board if they do not come to a resolution",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17964788,
+    "id_str": "17964788",
+    "name": "NY for Mitt",
+    "screen_name": "NY4Mitt",
+    "location": "USA",
+    "description": "For those of us living in The Empire State and across America in our effort to support Mitt Romney for President! #Mitt2012 #RomneyRyan2012 ",
+    "url": "http://www.nyformitt.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nyformitt.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3952,
+    "friends_count": 1944,
+    "listed_count": 77,
+    "created_at": "Mon Dec 08 15:37:41 +0000 2008",
+    "favourites_count": 2589,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 20070,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "151D47",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2282508135/2ow0y9akrh9d6pnfnkrk_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2282508135/2ow0y9akrh9d6pnfnkrk_normal.jpeg",
+    "profile_link_color": "22436E",
+    "profile_sidebar_border_color": "CAD5D9",
+    "profile_sidebar_fill_color": "E8EBEB",
+    "profile_text_color": "403D3E",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "VAgov",
+        "indices": [
+          6,
+          12
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          59,
+          63
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          64,
+          68
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ryanobles",
+        "name": "Ryan Nobles",
+        "id": 16625082,
+        "id_str": "16625082",
+        "indices": [
+          16,
+          26
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          37,
+          50
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

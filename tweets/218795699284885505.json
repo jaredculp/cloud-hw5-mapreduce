@@ -1,0 +1,132 @@
+{
+  "created_at": "Fri Jun 29 19:58:54 +0000 2012",
+  "id": 218795699284885505,
+  "id_str": "218795699284885505",
+  "text": "Horrible decision. as usual. @sdearth @ryanobles BREAKING: Gov. @BobMcDonnell reappoints Helen Dragas to the #UVa #BOV.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 218794857878138880,
+  "in_reply_to_status_id_str": "218794857878138880",
+  "in_reply_to_user_id": 23028507,
+  "in_reply_to_user_id_str": "23028507",
+  "in_reply_to_screen_name": "sdearth",
+  "user": {
+    "id": 36295355,
+    "id_str": "36295355",
+    "name": "Scott Michaux",
+    "screen_name": "ScottMichaux",
+    "location": "",
+    "description": "Sports columnist in Augusta, Ga., since 2001. Should come as no surprise that interests include golf.",
+    "url": "http://www.scottmichaux.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.scottmichaux.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2393,
+    "friends_count": 465,
+    "listed_count": 71,
+    "created_at": "Wed Apr 29 05:21:15 +0000 2009",
+    "favourites_count": 261,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10535,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/167848462/Oct._2010_142.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/167848462/Oct._2010_142.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2730944918/9fe985f7fc8656db09574ad3c594c750_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2730944918/9fe985f7fc8656db09574ad3c594c750_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/36295355/1350514495",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "65B0DA",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          109,
+          113
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          114,
+          118
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sdearth",
+        "name": "Sonny Dearth",
+        "id": 23028507,
+        "id_str": "23028507",
+        "indices": [
+          29,
+          37
+        ]
+      },
+      {
+        "screen_name": "ryanobles",
+        "name": "Ryan Nobles",
+        "id": 16625082,
+        "id_str": "16625082",
+        "indices": [
+          38,
+          48
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          64,
+          77
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

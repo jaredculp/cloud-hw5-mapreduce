@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 27 03:14:55 +0000 2012",
+  "id": 217818265001533440,
+  "id_str": "217818265001533440",
+  "text": "RT @KatrinaNation: Slapdown for those who want \"On Lineization\" of higher ed  http://t.co/FL6tQ433  #uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26718402,
+    "id_str": "26718402",
+    "name": "Philip Auerswald",
+    "screen_name": "auerswald",
+    "location": "Washington, DC",
+    "description": "Author, The Coming Prosperity: How Entrepreneurs Are Transforming the Global Economy.  @innovationsjrnl, @makersonthemall. Adviser to @clintonglobal.",
+    "url": "http://auerswald.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://auerswald.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6468,
+    "friends_count": 1460,
+    "listed_count": 449,
+    "created_at": "Thu Mar 26 09:51:15 +0000 2009",
+    "favourites_count": 1917,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 26873,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/722301425/40a590948a3fa5c08d5c57e59e28b110.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/722301425/40a590948a3fa5c08d5c57e59e28b110.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1539792640/auerswald-3_GREY-3_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1539792640/auerswald-3_GREY-3_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          100,
+          104
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/FL6tQ433",
+        "expanded_url": "http://nyti.ms/LNscg9",
+        "display_url": "nyti.ms/LNscg9",
+        "indices": [
+          78,
+          98
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "KatrinaNation",
+        "name": "Katrina vandenHeuvel",
+        "id": 59159771,
+        "id_str": "59159771",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

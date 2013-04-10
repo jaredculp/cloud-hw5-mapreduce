@@ -1,0 +1,115 @@
+{
+  "created_at": "Fri Jun 22 14:05:30 +0000 2012",
+  "id": 216170049675862017,
+  "id_str": "216170049675862017",
+  "text": "C'mon TSull!!! RT @katiecouric: Plot thickens RT @cavalierdaily Full letter from Zeithaml regarding role as future interim #UVA pres",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 163735378,
+    "id_str": "163735378",
+    "name": "Jacob Smilovitz",
+    "screen_name": "jsmilovitz",
+    "location": "",
+    "description": "Associate Consultant at Rosetta; former editor in chief of The Michigan Daily; Ross School of Business at the University of Michigan alum",
+    "url": "http://t.co/QTsEU2yq",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/QTsEU2yq",
+            "expanded_url": "http://jacob.contently.com/",
+            "display_url": "jacob.contently.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 273,
+    "friends_count": 265,
+    "listed_count": 7,
+    "created_at": "Wed Jul 07 04:13:33 +0000 2010",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 882,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/134928430/dailytwitter120.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/134928430/dailytwitter120.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1812280786/photo__1__normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1812280786/photo__1__normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          123,
+          127
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          18,
+          30
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          49,
+          63
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

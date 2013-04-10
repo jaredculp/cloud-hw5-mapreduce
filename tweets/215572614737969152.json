@@ -1,0 +1,130 @@
+{
+  "created_at": "Wed Jun 20 22:31:31 +0000 2012",
+  "id": 215572614737969152,
+  "id_str": "215572614737969152",
+  "text": "RT @JimDuncan: MT “@coybarefoot: MUST LISTEN: why the #UVA #Sullivan story matters http://t.co/JjrxPCX5 -superb insightful interview",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17650779,
+    "id_str": "17650779",
+    "name": "Diana B.",
+    "screen_name": "dbwebworks",
+    "location": "Charlottesville, VA",
+    "description": "Web dev dilettante. Dreamer. Ex-onto (you know if you are one.) Reading eclectically. Wondering what life is all about.",
+    "url": "http://dbwebwork.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://dbwebwork.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 138,
+    "friends_count": 321,
+    "listed_count": 4,
+    "created_at": "Wed Nov 26 14:43:35 +0000 2008",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1381,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "7A3E3E",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/73603992/x6bc59afb4021d41e1353826fbba0ba6.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/73603992/x6bc59afb4021d41e1353826fbba0ba6.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/66347570/dog-with-glasses_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/66347570/dog-with-glasses_normal.jpg",
+    "profile_link_color": "E32424",
+    "profile_sidebar_border_color": "FF0000",
+    "profile_sidebar_fill_color": "333333",
+    "profile_text_color": "CBAEAE",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          54,
+          58
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          59,
+          68
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/JjrxPCX5",
+        "expanded_url": "http://bit.ly/MFUkEw",
+        "display_url": "bit.ly/MFUkEw",
+        "indices": [
+          83,
+          103
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JimDuncan",
+        "name": "Jim Duncan",
+        "id": 3308171,
+        "id_str": "3308171",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "coybarefoot",
+        "name": "Coy Barefoot",
+        "id": 164530478,
+        "id_str": "164530478",
+        "indices": [
+          19,
+          31
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

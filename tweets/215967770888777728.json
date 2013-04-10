@@ -1,0 +1,123 @@
+{
+  "created_at": "Fri Jun 22 00:41:43 +0000 2012",
+  "id": 215967770888777728,
+  "id_str": "215967770888777728",
+  "text": "Dare to hope? RT @mountairypl: RT @cavalierdaily: Board plans to reconvene. A chaotic #UVA day. Read our recap @ http://t.co/WOyueH0c",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25000148,
+    "id_str": "25000148",
+    "name": "Jennifer Morgan Gray",
+    "screen_name": "jmorgangray",
+    "location": "DC metro area, USA",
+    "description": "Long Island native who lost the accent. Proud UVA alum. Working mom. A poet trapped in an editor's brain. I won't give up the serial comma, even for Twitter.",
+    "url": "http://thegraydays.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://thegraydays.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 194,
+    "friends_count": 521,
+    "listed_count": 4,
+    "created_at": "Wed Mar 18 01:26:27 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2147,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "07090B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/402818318/x82dfd33ab7cf5732c3e2e6bcdeae8ec.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/402818318/x82dfd33ab7cf5732c3e2e6bcdeae8ec.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1760576580/Twitterpic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1760576580/Twitterpic_normal.jpg",
+    "profile_link_color": "C34242",
+    "profile_sidebar_border_color": "BFBFBF",
+    "profile_sidebar_fill_color": "C9C9C9",
+    "profile_text_color": "1C1F23",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          86,
+          90
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WOyueH0c",
+        "expanded_url": "http://www.cavalierdaily.com/2012/06/21/board-of-visitors-will-return-to-rotunda-to-reexamine-sullivans-employment/",
+        "display_url": "cavalierdaily.com/2012/06/21/boa…",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mountairypl",
+        "name": "Mount Airy",
+        "id": 579120759,
+        "id_str": "579120759",
+        "indices": [
+          17,
+          29
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          34,
+          48
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

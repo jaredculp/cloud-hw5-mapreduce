@@ -1,0 +1,226 @@
+{
+  "created_at": "Mon Aug 13 14:27:43 +0000 2012",
+  "id": 235019808377274368,
+  "id_str": "235019808377274368",
+  "text": "RT @wpnick: donna st. george  and @wpjenna on resignation of #Strine at #UVA, a postcript to the leadership crisis. http://t.co/iduvoGt6",
+  "source": "<a href=\"http://ntnu.no\" rel=\"nofollow\">Tweepy_test____</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 755237892,
+    "id_str": "755237892",
+    "name": "Rawan Hussam Habib",
+    "screen_name": "RawanHussamHabi",
+    "location": "Rex Lakes, Canada",
+    "description": "Brummie business owner, Business Coach and word of mouth specialist.  Passionate about people, fun, business, Droitwich, Worcester, red wine and Andy!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3,
+    "friends_count": 35,
+    "listed_count": 0,
+    "created_at": "Mon Aug 13 14:25:06 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 29,
+    "lang": "de",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2499139787/7795_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2499139787/7795_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Aug 08 19:35:15 +0000 2012",
+    "id": 233285261998567424,
+    "id_str": "233285261998567424",
+    "text": "donna st. george  and @wpjenna on resignation of #Strine at #UVA, a postcript to the leadership crisis. http://t.co/iduvoGt6",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 37564255,
+      "id_str": "37564255",
+      "name": "Nick Anderson",
+      "screen_name": "wpnick",
+      "location": "Washington DC or thereabouts",
+      "description": "Washington Post higher education writer",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 6723,
+      "friends_count": 104,
+      "listed_count": 406,
+      "created_at": "Mon May 04 01:54:18 +0000 2009",
+      "favourites_count": 3,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 970,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/614560471/andersonnick_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/614560471/andersonnick_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Strine",
+          "indices": [
+            49,
+            56
+          ]
+        },
+        {
+          "text": "UVA",
+          "indices": [
+            60,
+            64
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/iduvoGt6",
+          "expanded_url": "http://wapo.st/O5iOYd",
+          "display_url": "wapo.st/O5iOYd",
+          "indices": [
+            104,
+            124
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "wpjenna",
+          "name": "Jenna Johnson",
+          "id": 15893354,
+          "id_str": "15893354",
+          "indices": [
+            22,
+            30
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Strine",
+        "indices": [
+          61,
+          68
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          72,
+          76
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/iduvoGt6",
+        "expanded_url": "http://wapo.st/O5iOYd",
+        "display_url": "wapo.st/O5iOYd",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpnick",
+        "name": "Nick Anderson",
+        "id": 37564255,
+        "id_str": "37564255",
+        "indices": [
+          3,
+          10
+        ]
+      },
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          34,
+          42
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

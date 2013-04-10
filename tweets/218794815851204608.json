@@ -1,0 +1,128 @@
+{
+  "created_at": "Fri Jun 29 19:55:23 +0000 2012",
+  "id": 218794815851204608,
+  "id_str": "218794815851204608",
+  "text": "Interesting. RT @DamonDillman: Former #JMU president Dr. Linwood Rose has been appointed to the #UVA Board of Visitors",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 23028507,
+    "id_str": "23028507",
+    "name": "Sonny Dearth",
+    "screen_name": "sdearth",
+    "location": "Newport News, VA",
+    "description": "editor/reporter at http://t.co/5gr3qjSk, http://t.co/HQN6sFH1; avid in tennis. Also on Facebook (Sonny Dearth). Retweets & replies aren't endorsements.",
+    "url": "http://dailypress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://dailypress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/5gr3qjSk",
+            "expanded_url": "http://dailypress.com",
+            "display_url": "dailypress.com",
+            "indices": [
+              19,
+              39
+            ]
+          },
+          {
+            "url": "http://t.co/HQN6sFH1",
+            "expanded_url": "http://HRVarsity.com",
+            "display_url": "HRVarsity.com",
+            "indices": [
+              41,
+              61
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 788,
+    "friends_count": 751,
+    "listed_count": 26,
+    "created_at": "Fri Mar 06 04:10:17 +0000 2009",
+    "favourites_count": 9,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 28398,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/297875152/SonnyDearth_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/297875152/SonnyDearth_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "JMU",
+        "indices": [
+          38,
+          42
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          96,
+          100
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DamonDillman",
+        "name": "Damon Dillman",
+        "id": 127923033,
+        "id_str": "127923033",
+        "indices": [
+          16,
+          29
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

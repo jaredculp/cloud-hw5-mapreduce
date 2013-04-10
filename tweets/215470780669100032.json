@@ -1,0 +1,163 @@
+{
+  "created_at": "Wed Jun 20 15:46:52 +0000 2012",
+  "id": 215470780669100032,
+  "id_str": "215470780669100032",
+  "text": "De fusie tussen #HvA en #uva moet worden teruggedraaid vindt Peter v Gorsel Luister morgen #FoliaMaaktKennis op @FoliaWeb",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 112969803,
+    "id_str": "112969803",
+    "name": "Jim Jansen",
+    "screen_name": "jimfjansen",
+    "location": "Amsterdam",
+    "description": "Hoofdredacteur Folia Magazine & Folia Web * UvA * HvA * Dagvoorzitter * Schrijver boek No Balls No Glory * Ned. flipper ver.* VZ MR Lidwinaschool * Pinball *",
+    "url": "http://foliaweb.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://foliaweb.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 891,
+    "friends_count": 892,
+    "listed_count": 15,
+    "created_at": "Wed Feb 10 08:22:32 +0000 2010",
+    "favourites_count": 13,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2802,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2881385796/267b56d944d5188697ce02449ede3661_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2881385796/267b56d944d5188697ce02449ede3661_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      52.35435318,
+      4.92735153
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      4.92735153,
+      52.35435318
+    ]
+  },
+  "place": {
+    "id": "99cdab25eddd6bce",
+    "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+    "place_type": "city",
+    "name": "Amsterdam",
+    "full_name": "Amsterdam, North Holland",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            4.7289,
+            52.278227
+          ],
+          [
+            5.079207,
+            52.278227
+          ],
+          [
+            5.079207,
+            52.431229
+          ],
+          [
+            4.7289,
+            52.431229
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HvA",
+        "indices": [
+          16,
+          20
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          24,
+          28
+        ]
+      },
+      {
+        "text": "FoliaMaaktKennis",
+        "indices": [
+          91,
+          108
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "FoliaWeb",
+        "name": "Folia Web",
+        "id": 324834016,
+        "id_str": "324834016",
+        "indices": [
+          112,
+          121
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

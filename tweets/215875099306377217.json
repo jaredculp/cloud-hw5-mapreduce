@@ -1,0 +1,103 @@
+{
+  "created_at": "Thu Jun 21 18:33:29 +0000 2012",
+  "id": 215875099306377217,
+  "id_str": "215875099306377217",
+  "text": "Thinking about writing a post about disruptive element of MOOCs finally hitting home at #UMW thanks to #UVA fiasco of all things-the irony.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3362981,
+    "id_str": "3362981",
+    "name": "Jim Groom",
+    "screen_name": "jimgroom",
+    "location": "supine",
+    "description": "a b twit",
+    "url": "http://bavatuesdays.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://bavatuesdays.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3051,
+    "friends_count": 863,
+    "listed_count": 296,
+    "created_at": "Tue Apr 03 21:20:45 +0000 2007",
+    "favourites_count": 83,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 31359,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/551362/steele.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/551362/steele.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/422171253/3520162738_9d1359e37a_o_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/422171253/3520162738_9d1359e37a_o_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/3362981/1357903813",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UMW",
+        "indices": [
+          88,
+          92
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          103,
+          107
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

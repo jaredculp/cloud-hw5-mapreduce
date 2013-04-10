@@ -1,0 +1,116 @@
+{
+  "created_at": "Fri Jun 29 03:17:49 +0000 2012",
+  "id": 218543767676923904,
+  "id_str": "218543767676923904",
+  "text": "#UVA lol RT @SweetLickKing shout out 2 my nigga @mikescott for getting drafted by the #hawks #uva stand up",
+  "source": "<a href=\"http://twidroyd.com\" rel=\"nofollow\">Twidroyd for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 100440385,
+    "id_str": "100440385",
+    "name": "Jason Emerson",
+    "screen_name": "JEmFor3",
+    "location": "Hometown: Liberty, NC",
+    "description": "Hooper, Musician, I do a lil bit of everything....Blessed and Highly Favored",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 428,
+    "friends_count": 338,
+    "listed_count": 0,
+    "created_at": "Wed Dec 30 07:53:53 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14902,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/141964506/cuttindownthenets.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/141964506/cuttindownthenets.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3150189502/81810ab8a68399b8e3fc613a8f33f909_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3150189502/81810ab8a68399b8e3fc613a8f33f909_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "hawks",
+        "indices": [
+          86,
+          92
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          93,
+          97
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SweetLickKing",
+        "name": "Da Voice of Cville ",
+        "id": 133809036,
+        "id_str": "133809036",
+        "indices": [
+          12,
+          26
+        ]
+      },
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          48,
+          58
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

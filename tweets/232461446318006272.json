@@ -1,0 +1,84 @@
+{
+  "created_at": "Mon Aug 06 13:01:42 +0000 2012",
+  "id": 232461446318006272,
+  "id_str": "232461446318006272",
+  "text": "Me \"encanta\" la magnifica capacidad de hacer horarios de la #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 558757773,
+    "id_str": "558757773",
+    "name": "Marta B. Fernandez",
+    "screen_name": "mbf_94",
+    "location": "Ponferrada",
+    "description": "Mi mayor sueño, tener un cauterizador.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 36,
+    "friends_count": 82,
+    "listed_count": 0,
+    "created_at": "Fri Apr 20 14:23:40 +0000 2012",
+    "favourites_count": 17,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 146,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2179610037/escanear0001_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2179610037/escanear0001_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/558757773/1355515418",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          60,
+          64
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

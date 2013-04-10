@@ -1,0 +1,130 @@
+{
+  "created_at": "Fri Jun 22 16:21:39 +0000 2012",
+  "id": 216204310541910016,
+  "id_str": "216204310541910016",
+  "text": "There may be good arguments against Sullivan at #UVA. This is not one. by @PMorici1 via @ChangeHigherEd http://t.co/AAEDtSOp #irx",
+  "source": "<a href=\"http://www.metrotwit.com/\" rel=\"nofollow\">MetroTwit</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 325794961,
+    "id_str": "325794961",
+    "name": "Jeffrey Alan Johnson",
+    "screen_name": "the_other_jeff",
+    "location": "Salt Lake City, Utah",
+    "description": "Higher education institutional research, technology, & public policy guy. Lapsed political theorist. Views mine, etc. Need paywalled articles? Just ask me!",
+    "url": "http://the-other-jeff.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://the-other-jeff.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 155,
+    "friends_count": 266,
+    "listed_count": 15,
+    "created_at": "Tue Jun 28 21:49:35 +0000 2011",
+    "favourites_count": 82,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5364,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2823850815/c8f3f2e0f5c2ac6eb3e5ac86c7e293ae_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2823850815/c8f3f2e0f5c2ac6eb3e5ac86c7e293ae_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          48,
+          52
+        ]
+      },
+      {
+        "text": "irx",
+        "indices": [
+          125,
+          129
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/AAEDtSOp",
+        "expanded_url": "http://bit.ly/MK7Nvk",
+        "display_url": "bit.ly/MK7Nvk",
+        "indices": [
+          104,
+          124
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PMorici1",
+        "name": "Peter Morici",
+        "id": 332817280,
+        "id_str": "332817280",
+        "indices": [
+          74,
+          83
+        ]
+      },
+      {
+        "screen_name": "ChangeHigherEd",
+        "name": "Lloyd Armstrong",
+        "id": 101376724,
+        "id_str": "101376724",
+        "indices": [
+          88,
+          103
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

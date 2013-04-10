@@ -1,0 +1,121 @@
+{
+  "created_at": "Mon Jun 25 13:22:16 +0000 2012",
+  "id": 217246333868847104,
+  "id_str": "217246333868847104",
+  "text": "On the #UVA situation, #libraries, &amp; digital humanities: http://t.co/X9M3k9Ie (h/t @GaviaLib)",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 117450420,
+    "id_str": "117450420",
+    "name": "Jacob Berg",
+    "screen_name": "jacobsberg",
+    "location": "",
+    "description": "Library Director who has no idea what he's doing. @dcbeer contributor. DC resident. @OneHitters softball player. Recovering Political Scientist.",
+    "url": "http://beerbrarian.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://beerbrarian.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 847,
+    "friends_count": 819,
+    "listed_count": 93,
+    "created_at": "Thu Feb 25 16:11:48 +0000 2010",
+    "favourites_count": 193,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11540,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2281290253/igdvd7b3gtuftbzboo7s_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2281290253/igdvd7b3gtuftbzboo7s_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/117450420/1354029509",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          7,
+          11
+        ]
+      },
+      {
+        "text": "libraries",
+        "indices": [
+          23,
+          33
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/X9M3k9Ie",
+        "expanded_url": "http://nowviskie.org/2012/reality-bytes/",
+        "display_url": "nowviskie.org/2012/reality-b…",
+        "indices": [
+          61,
+          81
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GaviaLib",
+        "name": "Library Loon",
+        "id": 454921767,
+        "id_str": "454921767",
+        "indices": [
+          87,
+          96
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

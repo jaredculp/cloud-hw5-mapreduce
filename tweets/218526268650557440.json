@@ -1,0 +1,100 @@
+{
+  "created_at": "Fri Jun 29 02:08:17 +0000 2012",
+  "id": 218526268650557440,
+  "id_str": "218526268650557440",
+  "text": "Really????? Miles Plumlee drafted before @mikescott??? Gotta be a joke. #uva #cavs",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 181316630,
+    "id_str": "181316630",
+    "name": "Harp",
+    "screen_name": "CBCHarp",
+    "location": "Petersburg,VA",
+    "description": "#teamredskins #teamwizards #DM[V] #team UVA",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 189,
+    "friends_count": 623,
+    "listed_count": 3,
+    "created_at": "Sat Aug 21 22:00:14 +0000 2010",
+    "favourites_count": 20,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2100,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2946291876/4ff91285b727541cba03aba9319baf38_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2946291876/4ff91285b727541cba03aba9319baf38_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/181316630/1356929852",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          72,
+          76
+        ]
+      },
+      {
+        "text": "cavs",
+        "indices": [
+          77,
+          82
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          41,
+          51
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

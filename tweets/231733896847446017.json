@@ -1,0 +1,97 @@
+{
+  "created_at": "Sat Aug 04 12:50:41 +0000 2012",
+  "id": 231733896847446017,
+  "id_str": "231733896847446017",
+  "text": "#uva bello fhgj",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 421777412,
+    "id_str": "421777412",
+    "name": "zjm",
+    "screen_name": "jawaadsmuffin",
+    "location": "venny.",
+    "description": "dear one direction, you have my heart, keep it safe. (varry) -federica.",
+    "url": "http://t.co/5nD9Rmai",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/5nD9Rmai",
+            "expanded_url": "http://www.efpfanfic.net/viewuser.php?uid=292512",
+            "display_url": "efpfanfic.net/viewuser.php?u…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 20106,
+    "friends_count": 18474,
+    "listed_count": 12,
+    "created_at": "Sat Nov 26 11:02:15 +0000 2011",
+    "favourites_count": 578,
+    "utc_offset": 7200,
+    "time_zone": "Athens",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 78705,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/781340598/880c21e17bee0afabb126c1182180831.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/781340598/880c21e17bee0afabb126c1182180831.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3203608787/c6d5265d3bf62caf4ea27ebdef50f6d2_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3203608787/c6d5265d3bf62caf4ea27ebdef50f6d2_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/421777412/1360185113",
+    "profile_link_color": "585E61",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

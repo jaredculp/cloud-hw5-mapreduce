@@ -1,0 +1,234 @@
+{
+  "created_at": "Sun Jun 24 20:39:42 +0000 2012",
+  "id": 216994029383065601,
+  "id_str": "216994029383065601",
+  "text": "RT @sweedncville: Best part of the #Rally4Honor... I ran the lawn butt ass naked 10 hours before #streakers4honor",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 590694729,
+    "id_str": "590694729",
+    "name": "Michael Ziegler",
+    "screen_name": "0uphrontis",
+    "location": "",
+    "description": "ου φροντις Μιχαλη",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 62,
+    "friends_count": 82,
+    "listed_count": 1,
+    "created_at": "Sat May 26 05:05:55 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 372,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/562004430/school_of_athens2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/562004430/school_of_athens2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2625322900/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2625322900/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Jun 24 19:44:07 +0000 2012",
+    "id": 216980039684734977,
+    "id_str": "216980039684734977",
+    "text": "Best part of the #Rally4Honor... I ran the lawn butt ass naked 10 hours before #streakers4honor",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 349157214,
+      "id_str": "349157214",
+      "name": "Will Schwieder",
+      "screen_name": "sweedncville",
+      "location": "Charlottesville, VA",
+      "description": "Be advised: Will joke in progress.\n",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 86,
+      "friends_count": 52,
+      "listed_count": 0,
+      "created_at": "Fri Aug 05 17:06:02 +0000 2011",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 145,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1490931640/image_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1490931640/image_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        38.0328726,
+        -78.50070752
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -78.50070752,
+        38.0328726
+      ]
+    },
+    "place": {
+      "id": "a5aee0034fb1fb02",
+      "url": "https://api.twitter.com/1.1/geo/id/a5aee0034fb1fb02.json",
+      "place_type": "city",
+      "name": "Jack Jouett",
+      "full_name": "Jack Jouett, VA",
+      "country_code": "US",
+      "country": "United States",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.593326,
+              38.028576
+            ],
+            [
+              -78.485321,
+              38.028576
+            ],
+            [
+              -78.485321,
+              38.143404
+            ],
+            [
+              -78.593326,
+              38.143404
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Rally4Honor",
+          "indices": [
+            17,
+            29
+          ]
+        },
+        {
+          "text": "streakers4honor",
+          "indices": [
+            79,
+            95
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Rally4Honor",
+        "indices": [
+          35,
+          47
+        ]
+      },
+      {
+        "text": "streakers4honor",
+        "indices": [
+          97,
+          113
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sweedncville",
+        "name": "Will Schwieder",
+        "id": 349157214,
+        "id_str": "349157214",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

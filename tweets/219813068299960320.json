@@ -1,0 +1,128 @@
+{
+  "created_at": "Mon Jul 02 15:21:34 +0000 2012",
+  "id": 219813068299960320,
+  "id_str": "219813068299960320",
+  "text": "@TJMonticello has a good neighbor policy. #Cville residents, #UVA students have reduced rates. #staycool http://t.co/Pqj8eZBT",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 17195458,
+  "in_reply_to_user_id_str": "17195458",
+  "in_reply_to_screen_name": "TJMonticello",
+  "user": {
+    "id": 216099584,
+    "id_str": "216099584",
+    "name": "Casey Higgins",
+    "screen_name": "jccjhiggins",
+    "location": "Virginia",
+    "description": "LOVE: #Jesus #Kids #Mountaineers #SocialMedia #Photography #VAis4Lovers #NASCAR. Opinions are - obviously - my own.",
+    "url": "http://www.LinkedIn.com/in/CaseyLHiggins",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.LinkedIn.com/in/CaseyLHiggins",
+            "expanded_url": null,
+            "indices": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 615,
+    "friends_count": 802,
+    "listed_count": 44,
+    "created_at": "Mon Nov 15 20:06:19 +0000 2010",
+    "favourites_count": 60,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7720,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/766101478/4f96a6826b5a4ead58974a0351e42a52.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/766101478/4f96a6826b5a4ead58974a0351e42a52.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2703688537/9bc2890ea8f4046dc7168c8f8e98f1d6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2703688537/9bc2890ea8f4046dc7168c8f8e98f1d6_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/216099584/1358431914",
+    "profile_link_color": "817D7E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Cville",
+        "indices": [
+          42,
+          49
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          61,
+          65
+        ]
+      },
+      {
+        "text": "staycool",
+        "indices": [
+          95,
+          104
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Pqj8eZBT",
+        "expanded_url": "http://www.monticello.org/site/visit/residents-charlottesville-and-albemarle-county",
+        "display_url": "monticello.org/site/visit/res…",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TJMonticello",
+        "name": "Monticello",
+        "id": 17195458,
+        "id_str": "17195458",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,158 @@
+{
+  "created_at": "Tue Jun 26 19:45:51 +0000 2012",
+  "id": 217705251472556032,
+  "id_str": "217705251472556032",
+  "text": "How didn’t I hear this from @sivavaid first?!! RT @jdickerson: UVa board reinstates ousted president Teresa Sullivan. Yahoowa.",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 794532,
+    "id_str": "794532",
+    "name": "Jerry Brito",
+    "screen_name": "jerrybrito",
+    "location": "Washington, DC",
+    "description": "Tech policy guy at Mercatus. Teach at GMU Law. Sometimes developer. Co-creator http://t.co/2DEoh1Gw My new book: http://t.co/VOADMbLL",
+    "url": "http://www.jerrybrito.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jerrybrito.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/2DEoh1Gw",
+            "expanded_url": "http://WCITLeaks.org",
+            "display_url": "WCITLeaks.org",
+            "indices": [
+              79,
+              99
+            ]
+          },
+          {
+            "url": "http://t.co/VOADMbLL",
+            "expanded_url": "http://CopyrightUnbalanced.com",
+            "display_url": "CopyrightUnbalanced.com",
+            "indices": [
+              113,
+              133
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4419,
+    "friends_count": 490,
+    "listed_count": 163,
+    "created_at": "Mon Feb 26 03:18:37 +0000 2007",
+    "favourites_count": 971,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5803,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EEEEEE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/64072/twitter.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/64072/twitter.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1718723940/new_headshot_111101_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1718723940/new_headshot_111101_normal.jpg",
+    "profile_link_color": "B81414",
+    "profile_sidebar_border_color": "DEDEDE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "01fbe706f872cb32",
+    "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+    "place_type": "city",
+    "name": "Washington",
+    "full_name": "Washington, DC",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.119759,
+            38.791645
+          ],
+          [
+            -76.909393,
+            38.791645
+          ],
+          [
+            -76.909393,
+            38.995548
+          ],
+          [
+            -77.119759,
+            38.995548
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          28,
+          37
+        ]
+      },
+      {
+        "screen_name": "jdickerson",
+        "name": "John Dickerson",
+        "id": 4119741,
+        "id_str": "4119741",
+        "indices": [
+          50,
+          61
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,83 @@
+{
+  "created_at": "Tue Jun 26 19:41:23 +0000 2012",
+  "id": 217704128548319233,
+  "id_str": "217704128548319233",
+  "text": "HOO-RAH-RAY, HOO-RAH-RAY RAY! RAY! U-V-A! #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16498286,
+    "id_str": "16498286",
+    "name": "treeandapple",
+    "screen_name": "treeandapple",
+    "location": "Virginia",
+    "description": "A little adventure; Not too much.\r\n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 37,
+    "friends_count": 152,
+    "listed_count": 1,
+    "created_at": "Sun Sep 28 13:54:11 +0000 2008",
+    "favourites_count": 9,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3698,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/84016978/nvtree.br.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/84016978/nvtree.br.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2751504026/9e7aea6b2464f5173ba190f49bf3e93e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2751504026/9e7aea6b2464f5173ba190f49bf3e93e_normal.jpeg",
+    "profile_link_color": "4CD12A",
+    "profile_sidebar_border_color": "4CD12A",
+    "profile_sidebar_fill_color": "843B06",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

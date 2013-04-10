@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jun 26 19:34:59 +0000 2012",
+  "id": 217702516379484161,
+  "id_str": "217702516379484161",
+  "text": "RT \"@cavalierdaily: BREAKING: DRAGAS SUPPORTS #SULLIVAN #UVA URGES #BOV TO JOIN HER\" Did I miss something here?",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 273495080,
+    "id_str": "273495080",
+    "name": "David Ingraham",
+    "screen_name": "Wahoo92",
+    "location": "Spartanburg/Charlottesville",
+    "description": "Stereotypes of a white male misunderstood and it's still all good",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 232,
+    "friends_count": 112,
+    "listed_count": 0,
+    "created_at": "Mon Mar 28 16:10:19 +0000 2011",
+    "favourites_count": 428,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1162,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/449073155/Dave.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/449073155/Dave.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3069338008/a513c1d8a6680d4ad2a021fc67954d6d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3069338008/a513c1d8a6680d4ad2a021fc67954d6d_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SULLIVAN",
+        "indices": [
+          46,
+          55
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          56,
+          60
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          4,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,103 @@
+{
+  "created_at": "Mon Jun 25 20:46:49 +0000 2012",
+  "id": 217358204923936770,
+  "id_str": "217358204923936770",
+  "text": "If #WSJ interns needed something to do, they could have just handed them a stack of files.  #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 24214579,
+    "id_str": "24214579",
+    "name": "Alex Inman",
+    "screen_name": "alexinman",
+    "location": "Charlottesville - for starters",
+    "description": "Thinking about the future of education, and what it means for alumni and donors. Old rules may not apply.",
+    "url": "http://t.co/C1fy70Rj",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/C1fy70Rj",
+            "expanded_url": "http://www.pursuantketchum.com",
+            "display_url": "pursuantketchum.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 134,
+    "friends_count": 142,
+    "listed_count": 5,
+    "created_at": "Fri Mar 13 17:50:45 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 102,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "030324",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/49342905/Ketchum_Pursuant_Logo_25_pct.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/49342905/Ketchum_Pursuant_Logo_25_pct.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2614657604/yjg9cxaqvdedvtvvrxf8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2614657604/yjg9cxaqvdedvtvvrxf8_normal.jpeg",
+    "profile_link_color": "111787",
+    "profile_sidebar_border_color": "030324",
+    "profile_sidebar_fill_color": "F26405",
+    "profile_text_color": "0F0F0F",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "WSJ",
+        "indices": [
+          3,
+          7
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          92,
+          96
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

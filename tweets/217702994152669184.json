@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jun 26 19:36:53 +0000 2012",
+  "id": 217702994152669184,
+  "id_str": "217702994152669184",
+  "text": "@SuperHsu Glad she went outside to address her base of support! #UVA #BOV #Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217701776097419264,
+  "in_reply_to_status_id_str": "217701776097419264",
+  "in_reply_to_user_id": 31286542,
+  "in_reply_to_user_id_str": "31286542",
+  "in_reply_to_screen_name": "SuperHsu",
+  "user": {
+    "id": 205489316,
+    "id_str": "205489316",
+    "name": "R H Foster",
+    "screen_name": "sRobinHFoster",
+    "location": "NJ",
+    "description": "I'm a woman working in the technology field, voicing encouragement and concerns on a number of topics including women's issues and social justice.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 10,
+    "friends_count": 22,
+    "listed_count": 0,
+    "created_at": "Thu Oct 21 00:25:37 +0000 2010",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 81,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2435439535/45ngdspnq6y3ui8srlfl_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2435439535/45ngdspnq6y3ui8srlfl_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          64,
+          68
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          69,
+          73
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          74,
+          83
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SuperHsu",
+        "name": "Greg Hsu",
+        "id": 31286542,
+        "id_str": "31286542",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

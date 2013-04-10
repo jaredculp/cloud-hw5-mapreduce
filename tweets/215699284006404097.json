@@ -1,0 +1,123 @@
+{
+  "created_at": "Thu Jun 21 06:54:51 +0000 2012",
+  "id": 215699284006404097,
+  "id_str": "215699284006404097",
+  "text": "@nowviskie on DH, #UVa, and \"our collective obligation\" to be stewards of the mission of higher ed: http://t.co/UpOp5VBX - via @rcooper",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 14221013,
+  "in_reply_to_user_id_str": "14221013",
+  "in_reply_to_screen_name": "nowviskie",
+  "user": {
+    "id": 299924386,
+    "id_str": "299924386",
+    "name": "4Humanities ",
+    "screen_name": "4Hum",
+    "location": "",
+    "description": "Resource for humanities advocacy, powered by the international digital humanities community. Tweets by @lindsaycthomas of UCSB.",
+    "url": "http://humanistica.ualberta.ca/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://humanistica.ualberta.ca/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1097,
+    "friends_count": 1074,
+    "listed_count": 77,
+    "created_at": "Mon May 16 22:21:21 +0000 2011",
+    "favourites_count": 6,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 511,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/254599389/4humanitestwitter3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/254599389/4humanitestwitter3.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1815857676/4humlogo_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1815857676/4humlogo_normal.png",
+    "profile_link_color": "7A2005",
+    "profile_sidebar_border_color": "E8E6E5",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          18,
+          22
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UpOp5VBX",
+        "expanded_url": "http://bit.ly/KA7Jz8",
+        "display_url": "bit.ly/KA7Jz8",
+        "indices": [
+          100,
+          120
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nowviskie",
+        "name": "Bethany Nowviskie",
+        "id": 14221013,
+        "id_str": "14221013",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "rcooper",
+        "name": "R. Cooper",
+        "id": 5960652,
+        "id_str": "5960652",
+        "indices": [
+          127,
+          135
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

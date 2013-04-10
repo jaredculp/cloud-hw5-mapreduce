@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 26 08:59:18 +0000 2012",
+  "id": 217542541631959040,
+  "id_str": "217542541631959040",
+  "text": "#DMV\n#UVA\nA key decision's expected today in the UVA drama.  Good Morning Washington's on right now with a preview! @ABC7GMW",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 37625929,
+    "id_str": "37625929",
+    "name": "Carla Chandler",
+    "screen_name": "carlachandler22",
+    "location": "Washington, DC",
+    "description": "TV News Writer/Cut-In Producer, WJLA (ABC7)",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 16,
+    "friends_count": 20,
+    "listed_count": 0,
+    "created_at": "Mon May 04 09:08:45 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 59,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/623800259/63xt3voa1kbxn7rj85ht.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/623800259/63xt3voa1kbxn7rj85ht.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2412958271/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2412958271/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "DMV",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          5,
+          9
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ABC7GMW",
+        "name": "Good AM Washington",
+        "id": 545098583,
+        "id_str": "545098583",
+        "indices": [
+          116,
+          124
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

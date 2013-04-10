@@ -1,0 +1,102 @@
+{
+  "created_at": "Tue Jun 26 19:55:23 +0000 2012",
+  "id": 217707652690608129,
+  "id_str": "217707652690608129",
+  "text": "Don't call it a comeback! #terry #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 118324474,
+    "id_str": "118324474",
+    "name": "Sean O'Connor",
+    "screen_name": "BrowncoatUVA",
+    "location": "Madison, WI",
+    "description": "Raging irishman. Gamer. Discount philospher. Zombie apocolypse consultant. Number 11 is my doctor.",
+    "url": "http://seantage.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://seantage.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 65,
+    "friends_count": 146,
+    "listed_count": 4,
+    "created_at": "Sun Feb 28 09:05:18 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 617,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/79627423/x85667ded3f199b33b215a1d8e057cc5.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/79627423/x85667ded3f199b33b215a1d8e057cc5.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2212368868/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2212368868/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "terry",
+        "indices": [
+          26,
+          32
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          33,
+          37
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

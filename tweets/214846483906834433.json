@@ -1,0 +1,108 @@
+{
+  "created_at": "Mon Jun 18 22:26:08 +0000 2012",
+  "id": 214846483906834433,
+  "id_str": "214846483906834433",
+  "text": "RT @tomdalyphoto: SET from #UVA rally for President #Sullivan on The Lawn - http://t.co/miLaXCX6 -- Awesome photos from the rally, Tom!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16042732,
+    "id_str": "16042732",
+    "name": "Derek Bedarf",
+    "screen_name": "bedarf",
+    "location": "Charlottesville, VA",
+    "description": "My wife and I help green music festivals across the country. Oh, my day job is making maps (GIS) for Albemarle County, VA.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 125,
+    "friends_count": 161,
+    "listed_count": 12,
+    "created_at": "Fri Aug 29 14:47:14 +0000 2008",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 643,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1406632110/Derek_Hat_Photo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1406632110/Derek_Hat_Photo_normal.jpg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          27,
+          31
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          52,
+          61
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/miLaXCX6",
+        "expanded_url": "http://www.tomdalyphotography.com/2012/06/uva-rally-for-president-sullivan/",
+        "display_url": "tomdalyphotography.com/2012/06/uva-ra…",
+        "indices": [
+          76,
+          96
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "tomdalyphoto",
+        "name": "Tom Daly Photography",
+        "id": 22006672,
+        "id_str": "22006672",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

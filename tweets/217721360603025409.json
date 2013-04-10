@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jun 26 20:49:52 +0000 2012",
+  "id": 217721360603025409,
+  "id_str": "217721360603025409",
+  "text": "@NBC29: #BOV tells crowd that they officially have passed a resolution to reinstate #Sullivan - crowd goes wild #UVa",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 15009049,
+  "in_reply_to_user_id_str": "15009049",
+  "in_reply_to_screen_name": "NBC29",
+  "user": {
+    "id": 160431383,
+    "id_str": "160431383",
+    "name": "Cstew04",
+    "screen_name": "cstew04",
+    "location": "Crozet, VA",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 39,
+    "friends_count": 69,
+    "listed_count": 2,
+    "created_at": "Mon Jun 28 04:29:48 +0000 2010",
+    "favourites_count": 41,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 616,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2833882741/c8bc3ad65f085c4bf024a0aa8f771a4f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2833882741/c8bc3ad65f085c4bf024a0aa8f771a4f_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          8,
+          12
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          84,
+          93
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          112,
+          116
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          0,
+          6
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

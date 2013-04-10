@@ -1,0 +1,222 @@
+{
+  "created_at": "Fri Jun 29 19:54:56 +0000 2012",
+  "id": 218794702676303872,
+  "id_str": "218794702676303872",
+  "text": "RT @ryanobles: BREAKING: Gov. @BobMcDonnell reappoints Helen Dragas to the #UVa #BOV.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 300484095,
+    "id_str": "300484095",
+    "name": "Thomas J. King",
+    "screen_name": "ThomasKingVA",
+    "location": "Washington DC",
+    "description": "#utprosim   that's what it's all about. Views expressed are my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 116,
+    "friends_count": 136,
+    "listed_count": 5,
+    "created_at": "Tue May 17 20:57:09 +0000 2011",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 756,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/301112667/VT.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/301112667/VT.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2450189775/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2450189775/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/300484095/1353085835",
+    "profile_link_color": "EB6015",
+    "profile_sidebar_border_color": "EB6015",
+    "profile_sidebar_fill_color": "73090E",
+    "profile_text_color": "EB6015",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Jun 29 19:49:39 +0000 2012",
+    "id": 218793372800917504,
+    "id_str": "218793372800917504",
+    "text": "BREAKING: Gov. @BobMcDonnell reappoints Helen Dragas to the #UVa #BOV.",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16625082,
+      "id_str": "16625082",
+      "name": "Ryan Nobles",
+      "screen_name": "ryanobles",
+      "location": "Richmond, VA",
+      "description": "Swing State political reporter. Anchor of @nbc12 First at 4, @nbc12 News at 5:30 and @FoxRichmond's News at 10. Dad x 3.",
+      "url": "http://DecisionVirginia.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://DecisionVirginia.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                27
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 6148,
+      "friends_count": 1116,
+      "listed_count": 365,
+      "created_at": "Tue Oct 07 03:16:20 +0000 2008",
+      "favourites_count": 19,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 17051,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "19506B",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2937343312/53a0cbcb5c4ff282d6e8b44d63544290_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2937343312/53a0cbcb5c4ff282d6e8b44d63544290_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/16625082/1347995363",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 9,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVa",
+          "indices": [
+            60,
+            64
+          ]
+        },
+        {
+          "text": "BOV",
+          "indices": [
+            65,
+            69
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "BobMcDonnell",
+          "name": "Bob McDonnell",
+          "id": 14738157,
+          "id_str": "14738157",
+          "indices": [
+            15,
+            28
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 9,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          75,
+          79
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          80,
+          84
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ryanobles",
+        "name": "Ryan Nobles",
+        "id": 16625082,
+        "id_str": "16625082",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          30,
+          43
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,96 @@
+{
+  "created_at": "Tue Aug 07 02:03:36 +0000 2012",
+  "id": 232658216373334016,
+  "id_str": "232658216373334016",
+  "text": "Posiblemente este sea mi ultimo semestre en valle alto, adios #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 331805808,
+    "id_str": "331805808",
+    "name": "Iván Sampayo",
+    "screen_name": "IvanSampayoC",
+    "location": "",
+    "description": "Amoh a Luva",
+    "url": "http://www.facebook.com/ivansampayoc",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/ivansampayoc",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 430,
+    "friends_count": 483,
+    "listed_count": 0,
+    "created_at": "Fri Jul 08 18:59:47 +0000 2011",
+    "favourites_count": 139,
+    "utc_offset": -21600,
+    "time_zone": "Monterrey",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3864,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "050505",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/768108891/0fda995d8143cde71b6a63c184567c83.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/768108891/0fda995d8143cde71b6a63c184567c83.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3039796940/2f8c2bf0aad5180c9ecfae74ae6fd4b8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3039796940/2f8c2bf0aad5180c9ecfae74ae6fd4b8_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/331805808/1358629749",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

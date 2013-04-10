@@ -1,0 +1,99 @@
+{
+  "created_at": "Fri Jun 22 01:38:06 +0000 2012",
+  "id": 215981961129365504,
+  "id_str": "215981961129365504",
+  "text": "@admcgregor3 I went to the #cws in 09 and 11 when #UVa was there. In short, it's awesome and every baseball fan should go sometime.",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215926170204635136,
+  "in_reply_to_status_id_str": "215926170204635136",
+  "in_reply_to_user_id": 18608135,
+  "in_reply_to_user_id_str": "18608135",
+  "in_reply_to_screen_name": "admcgregor3",
+  "user": {
+    "id": 310359414,
+    "id_str": "310359414",
+    "name": "Nob Nobson",
+    "screen_name": "NobNobson",
+    "location": "Overland Park, Kansas",
+    "description": "Turns out I mostly tweet about baseball. Other sports too. Gonna try to stay away from politics mostly.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 27,
+    "friends_count": 35,
+    "listed_count": 1,
+    "created_at": "Fri Jun 03 16:22:15 +0000 2011",
+    "favourites_count": 4,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1585,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1380332605/seznam-byvalych-charakteru-od-simpsons_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1380332605/seznam-byvalych-charakteru-od-simpsons_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cws",
+        "indices": [
+          27,
+          31
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          50,
+          54
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "admcgregor3",
+        "name": "Andrew McGregor",
+        "id": 18608135,
+        "id_str": "18608135",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

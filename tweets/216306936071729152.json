@@ -1,0 +1,118 @@
+{
+  "created_at": "Fri Jun 22 23:09:27 +0000 2012",
+  "id": 216306936071729152,
+  "id_str": "216306936071729152",
+  "text": "So, @LarrySabato still think that @bobmcdonnell \"owns\" the UVA problem? http://t.co/FvUhYr8T.  Looks like mature adults have arrived.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14554106,
+    "id_str": "14554106",
+    "name": "J.R. Hoeft",
+    "screen_name": "jrhoeft",
+    "location": "Virginia",
+    "description": "Blogger and political observer.  Publishes BearingDrift.com, Virginia's conservative blog of choice.",
+    "url": "http://bearingdrift.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://bearingdrift.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 903,
+    "friends_count": 471,
+    "listed_count": 56,
+    "created_at": "Sun Apr 27 01:51:27 +0000 2008",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1406,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "161841",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/237756149/BD_Twitter.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/237756149/BD_Twitter.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1566965646/square_outside_profile_500_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1566965646/square_outside_profile_500_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14554106/1347993825",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/FvUhYr8T",
+        "expanded_url": "http://www.governor.virginia.gov/News/viewRelease.cfm?id=1304",
+        "display_url": "governor.virginia.gov/News/viewRelea…",
+        "indices": [
+          72,
+          92
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          4,
+          16
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          34,
+          47
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

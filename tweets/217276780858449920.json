@@ -1,0 +1,235 @@
+{
+  "created_at": "Mon Jun 25 15:23:16 +0000 2012",
+  "id": 217276780858449920,
+  "id_str": "217276780858449920",
+  "text": "RT @DA_Banks: Has anyone been following what's going on at #UVa? It's like a bizarro #RPI where the president is ousted for NOT selling  ...",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 97104641,
+    "id_str": "97104641",
+    "name": "Lisa Cook",
+    "screen_name": "BrandLisa",
+    "location": "",
+    "description": "Governing a large country is like frying a small fish ~Lao Tzu",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 18,
+    "friends_count": 45,
+    "listed_count": 0,
+    "created_at": "Wed Dec 16 01:20:15 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 184,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/60441456/Lisa_sitting_copy_2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/60441456/Lisa_sitting_copy_2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/577623355/Lisa_sitting_face_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/577623355/Lisa_sitting_face_normal.jpg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Jun 25 14:30:32 +0000 2012",
+    "id": 217263513146626048,
+    "id_str": "217263513146626048",
+    "text": "Has anyone been following what's going on at #UVa? It's like a bizarro #RPI where the president is ousted for NOT selling off the school.",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 5644762,
+      "id_str": "5644762",
+      "name": "db",
+      "screen_name": "DA_Banks",
+      "location": "Troy, NY, USA",
+      "description": "Writer and researcher of/in Science & Technology. Topics include but not limited to: urbanism, communities, networks, culture, society, and cyborgs.",
+      "url": "http://www.davidabanks.org",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.davidabanks.org",
+              "expanded_url": null,
+              "indices": [
+                0,
+                26
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 806,
+      "friends_count": 564,
+      "listed_count": 51,
+      "created_at": "Mon Apr 30 04:39:12 +0000 2007",
+      "favourites_count": 517,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 9881,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "05050F",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/534686279/x7744e3c8ac763863eebf56d7bb7a487.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/534686279/x7744e3c8ac763863eebf56d7bb7a487.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3025351132/4d7478b5a132fdda635432099976b72b_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3025351132/4d7478b5a132fdda635432099976b72b_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/5644762/1350242911",
+      "profile_link_color": "77262C",
+      "profile_sidebar_border_color": "417571",
+      "profile_sidebar_fill_color": "B58032",
+      "profile_text_color": "9F947E",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "51cc4a7155935af2",
+      "url": "https://api.twitter.com/1.1/geo/id/51cc4a7155935af2.json",
+      "place_type": "city",
+      "name": "Troy",
+      "full_name": "Troy, NY",
+      "country_code": "US",
+      "country": "United States",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.706463,
+              42.694078
+            ],
+            [
+              -73.649259,
+              42.694078
+            ],
+            [
+              -73.649259,
+              42.795791
+            ],
+            [
+              -73.706463,
+              42.795791
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVa",
+          "indices": [
+            45,
+            49
+          ]
+        },
+        {
+          "text": "RPI",
+          "indices": [
+            71,
+            75
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          59,
+          63
+        ]
+      },
+      {
+        "text": "RPI",
+        "indices": [
+          85,
+          89
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DA_Banks",
+        "name": "db",
+        "id": 5644762,
+        "id_str": "5644762",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

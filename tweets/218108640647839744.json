@@ -1,0 +1,178 @@
+{
+  "created_at": "Wed Jun 27 22:28:46 +0000 2012",
+  "id": 218108640647839744,
+  "id_str": "218108640647839744",
+  "text": "Map your campus to this description. “@chronicle: Lessons learned at #UVA, from @sivavaid: http://t.co/PMLsUB9R RT @lmcmillen:”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16860794,
+    "id_str": "16860794",
+    "name": "chipbrock",
+    "screen_name": "chipbrock",
+    "location": "42.741366,-84.498705",
+    "description": "Elementary particle physicist & University Distinguished Professor at Michigan State University. Past Chair of the APS Division of Particles and Fields.",
+    "url": "http://www.pa.msu.edu/~brock/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.pa.msu.edu/~brock/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 432,
+    "friends_count": 423,
+    "listed_count": 34,
+    "created_at": "Mon Oct 20 02:56:59 +0000 2008",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3317,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D13455",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/305301675/x70d4156dc63ed2aad3b4cfa1b9a4da0.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/305301675/x70d4156dc63ed2aad3b4cfa1b9a4da0.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1479253349/chip_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1479253349/chip_normal.jpg",
+    "profile_link_color": "994267",
+    "profile_sidebar_border_color": "FFF4D2",
+    "profile_sidebar_fill_color": "7DBAB1",
+    "profile_text_color": "122743",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      37.81086114,
+      -122.4107928
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -122.4107928,
+      37.81086114
+    ]
+  },
+  "place": {
+    "id": "aecf0a70a144ae5d",
+    "url": "https://api.twitter.com/1.1/geo/id/aecf0a70a144ae5d.json",
+    "place_type": "neighborhood",
+    "name": "Fisherman's Wharf",
+    "full_name": "Fisherman's Wharf, San Francisco",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -122.422224,
+            37.80456
+          ],
+          [
+            -122.403486,
+            37.80456
+          ],
+          [
+            -122.403486,
+            37.811464
+          ],
+          [
+            -122.422224,
+            37.811464
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          69,
+          73
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/PMLsUB9R",
+        "expanded_url": "http://chroni.cl/LtUlrq",
+        "display_url": "chroni.cl/LtUlrq",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          38,
+          48
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          80,
+          89
+        ]
+      },
+      {
+        "screen_name": "lmcmillen",
+        "name": "Liz McMillen",
+        "id": 16954942,
+        "id_str": "16954942",
+        "indices": [
+          115,
+          125
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

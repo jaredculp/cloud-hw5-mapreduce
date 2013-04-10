@@ -1,0 +1,93 @@
+{
+  "created_at": "Sun Jun 24 10:30:19 +0000 2012",
+  "id": 216840670894227456,
+  "id_str": "216840670894227456",
+  "text": "Bueno pues ahora me toca bajar a ver la cabalgata para ver a @beatrizplaza  y gritar #UVA XD",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 375082836,
+    "id_str": "375082836",
+    "name": "Re(ENCARNA)ción.",
+    "screen_name": "carni619",
+    "location": "Burgos",
+    "description": "Haz cosas buenas y te pasaran cosas buenas, haz cosas malas y te pasaran cosas malas, pero disfruta de lo malo porque todo lo malo tiene algo bueno :)",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 99,
+    "friends_count": 191,
+    "listed_count": 1,
+    "created_at": "Sat Sep 17 13:32:32 +0000 2011",
+    "favourites_count": 68,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3608,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/766353938/88a0c0557b00c77f591140539070bf27.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/766353938/88a0c0557b00c77f591140539070bf27.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1782580853/image_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1782580853/image_normal.JPG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/375082836/1358457836",
+    "profile_link_color": "333333",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "038543",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          85,
+          89
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "beatrizplaza",
+        "name": "Beatriz Plaza",
+        "id": 67566156,
+        "id_str": "67566156",
+        "indices": [
+          61,
+          74
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

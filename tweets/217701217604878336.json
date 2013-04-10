@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 19:29:49 +0000 2012",
+  "id": 217701217604878336,
+  "id_str": "217701217604878336",
+  "text": "I can't believe @ggreeneva is on vacation when #UVa got resolved.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 47451496,
+    "id_str": "47451496",
+    "name": "Jesse Berney",
+    "screen_name": "jesseberney",
+    "location": "Washington, DC",
+    "description": "Comedian. Freelance writer. Consultant for progressive candidates and organizations.",
+    "url": "http://www.jesseberney.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jesseberney.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2005,
+    "friends_count": 433,
+    "listed_count": 58,
+    "created_at": "Mon Jun 15 21:35:44 +0000 2009",
+    "favourites_count": 1706,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 20129,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "6CA8A7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/659274258/eas4ji4uq1war83ruxbp.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/659274258/eas4ji4uq1war83ruxbp.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3143261290/fddc46670c0a66522959100786ddcd81_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3143261290/fddc46670c0a66522959100786ddcd81_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/47451496/1356537458",
+    "profile_link_color": "6CA8A7",
+    "profile_sidebar_border_color": "121211",
+    "profile_sidebar_fill_color": "DBC451",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ggreeneva",
+        "name": "Greg Greene",
+        "id": 775142,
+        "id_str": "775142",
+        "indices": [
+          16,
+          26
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,123 @@
+{
+  "created_at": "Wed Jul 04 23:35:10 +0000 2012",
+  "id": 220662065260544001,
+  "id_str": "220662065260544001",
+  "text": "@DeportePR @tiffanycg7 osea q si le ganamos a grecia hoy chocamos con Nigeria ? #Uva",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 220661774398144512,
+  "in_reply_to_status_id_str": "220661774398144512",
+  "in_reply_to_user_id": 163978977,
+  "in_reply_to_user_id_str": "163978977",
+  "in_reply_to_screen_name": "DeportePR",
+  "user": {
+    "id": 27490292,
+    "id_str": "27490292",
+    "name": "ELí ",
+    "screen_name": "elidrummer",
+    "location": "51st State",
+    "description": "Percussionist , Real Estate Broker \nand sports enthusiast.  http://t.co/k94FuEEA",
+    "url": "http://www.facebook.com/elidrummer",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/elidrummer",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/k94FuEEA",
+            "expanded_url": "http://www.youtube.com/elidrummer1",
+            "display_url": "youtube.com/elidrummer1",
+            "indices": [
+              60,
+              80
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6032,
+    "friends_count": 195,
+    "listed_count": 4,
+    "created_at": "Sun Mar 29 19:53:33 +0000 2009",
+    "favourites_count": 64,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 30185,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3217120274/23c73dd25d8d5aa0a6d14bcde94181e4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3217120274/23c73dd25d8d5aa0a6d14bcde94181e4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/27490292/1353108993",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          80,
+          84
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DeportePR",
+        "name": "DeportePR",
+        "id": 163978977,
+        "id_str": "163978977",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "tiffanycg7",
+        "name": "Tiffany Cochran ",
+        "id": 92023937,
+        "id_str": "92023937",
+        "indices": [
+          11,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

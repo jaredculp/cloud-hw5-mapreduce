@@ -1,0 +1,108 @@
+{
+  "created_at": "Fri Jun 22 18:40:23 +0000 2012",
+  "id": 216239225979420672,
+  "id_str": "216239225979420672",
+  "text": "brilliant. shrieks! @DTWillingham http://t.co/nbHHuiJP Failing grade for Board of Visitors #UVa #Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215767790202793985,
+  "in_reply_to_status_id_str": "215767790202793985",
+  "in_reply_to_user_id": 84619537,
+  "in_reply_to_user_id_str": "84619537",
+  "in_reply_to_screen_name": "DTWillingham",
+  "user": {
+    "id": 104936802,
+    "id_str": "104936802",
+    "name": "Brad McKee",
+    "screen_name": "bradmckeeee",
+    "location": "Washington, DC",
+    "description": "Editor, Landscape Architecture Magazine",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 536,
+    "friends_count": 355,
+    "listed_count": 23,
+    "created_at": "Thu Jan 14 21:22:21 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 423,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1280305784/IMG_5452_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1280305784/IMG_5452_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          91,
+          95
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          96,
+          105
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/nbHHuiJP",
+        "expanded_url": "http://bit.ly/Mx05CV",
+        "display_url": "bit.ly/Mx05CV",
+        "indices": [
+          34,
+          54
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DTWillingham",
+        "name": "Daniel T. Willingham",
+        "id": 84619537,
+        "id_str": "84619537",
+        "indices": [
+          20,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

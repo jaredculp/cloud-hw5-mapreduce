@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Jun 19 05:43:10 +0000 2012",
+  "id": 214956469328691200,
+  "id_str": "214956469328691200",
+  "text": "Pretty sure I saw that on Portlandia @KeithAlnwick An intense session of ashtanga yoga followed by a gusburger. #whatthebovisdoing #UVA #BOV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 214954377029492736,
+  "in_reply_to_status_id_str": "214954377029492736",
+  "in_reply_to_user_id": 612321141,
+  "in_reply_to_user_id_str": "612321141",
+  "in_reply_to_screen_name": "KeithAlnwick",
+  "user": {
+    "id": 37742873,
+    "id_str": "37742873",
+    "name": "Heather White",
+    "screen_name": "Hth3rWhite",
+    "location": "Washington, DC",
+    "description": "Executive Director, Environmental Working Group. Views expressed here are my own.",
+    "url": "http://www.ewg.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.ewg.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 380,
+    "friends_count": 617,
+    "listed_count": 16,
+    "created_at": "Mon May 04 20:01:39 +0000 2009",
+    "favourites_count": 109,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1354,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/871218477/HBW_for_Twitter_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/871218477/HBW_for_Twitter_normal.png",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "whatthebovisdoing",
+        "indices": [
+          112,
+          130
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          131,
+          135
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          136,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "KeithAlnwick",
+        "name": "Keith Alnwick",
+        "id": 612321141,
+        "id_str": "612321141",
+        "indices": [
+          37,
+          50
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

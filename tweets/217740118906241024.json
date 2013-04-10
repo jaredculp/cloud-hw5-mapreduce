@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 22:04:24 +0000 2012",
+  "id": 217740118906241024,
+  "id_str": "217740118906241024",
+  "text": "Who said higher ed was not exciting?! RT @insidehighered: BREAKING: U.Va. Board Reinstates Sullivan: #UVa http://t.co/6wtYS9zC",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 104615488,
+    "id_str": "104615488",
+    "name": "Lara Warren",
+    "screen_name": "NoSerialComma",
+    "location": "birmingham, alabama",
+    "description": "Communications strategies for a changing world. Rediscovering the Deep South after 12 years in Los Angeles.",
+    "url": "http://www.larawarren.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.larawarren.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 220,
+    "friends_count": 486,
+    "listed_count": 6,
+    "created_at": "Wed Jan 13 21:44:16 +0000 2010",
+    "favourites_count": 22,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 414,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/66533682/wallpaper.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/66533682/wallpaper.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/629463962/icon_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/629463962/icon_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          101,
+          105
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/6wtYS9zC",
+        "expanded_url": "http://ow.ly/bQuwe",
+        "display_url": "ow.ly/bQuwe",
+        "indices": [
+          106,
+          126
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "insidehighered",
+        "name": "Inside Higher Ed",
+        "id": 16045268,
+        "id_str": "16045268",
+        "indices": [
+          41,
+          56
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

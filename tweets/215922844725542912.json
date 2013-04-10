@@ -1,0 +1,92 @@
+{
+  "created_at": "Thu Jun 21 21:43:12 +0000 2012",
+  "id": 215922844725542912,
+  "id_str": "215922844725542912",
+  "text": "Kudos to @cavalierdaily - keep up the great work.  \"Moral Checkmate\" beautiful wordsmithing that describes the situation perfectly. #UVA",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15635394,
+    "id_str": "15635394",
+    "name": "Christopher Porter",
+    "screen_name": "cdporter00",
+    "location": "Virginia",
+    "description": "Student of infosec, forensics, & risk.  Swimmer, hiker, non-runner.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 393,
+    "friends_count": 507,
+    "listed_count": 27,
+    "created_at": "Mon Jul 28 18:14:06 +0000 2008",
+    "favourites_count": 21,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1596,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "070C66",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1813687134/Photo_on_1-26-12_at_2.26_PM_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1813687134/Photo_on_1-26-12_at_2.26_PM_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          132,
+          136
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          9,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

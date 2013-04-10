@@ -1,0 +1,102 @@
+{
+  "created_at": "Wed Jun 20 19:12:11 +0000 2012",
+  "id": 215522451948437504,
+  "id_str": "215522451948437504",
+  "text": "@jaldenfig @LarrySabato Where can I find a \"Cliff's Notes\" version of what is happening at #UVA?",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215519715538374657,
+  "in_reply_to_status_id_str": "215519715538374657",
+  "in_reply_to_user_id": 43379115,
+  "in_reply_to_user_id_str": "43379115",
+  "in_reply_to_screen_name": "jaldenfig",
+  "user": {
+    "id": 22554389,
+    "id_str": "22554389",
+    "name": "Allen Boyd",
+    "screen_name": "THE1_AB",
+    "location": "Gastonia, NC",
+    "description": "That dude.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 207,
+    "friends_count": 473,
+    "listed_count": 2,
+    "created_at": "Mon Mar 02 23:46:19 +0000 2009",
+    "favourites_count": 34,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14720,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "42C8D7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/18419525/NC_State_Flag.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/18419525/NC_State_Flag.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/532980024/jollyroger_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/532980024/jollyroger_normal.jpg",
+    "profile_link_color": "0042FF",
+    "profile_sidebar_border_color": "8886A6",
+    "profile_sidebar_fill_color": "13F265",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jaldenfig",
+        "name": "Joseph Figueroa",
+        "id": 43379115,
+        "id_str": "43379115",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          11,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

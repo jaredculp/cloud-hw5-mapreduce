@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 19:36:15 +0000 2012",
+  "id": 217702834601340928,
+  "id_str": "217702834601340928",
+  "text": "@wynkenhimself  #UVA How about a stream that shows something besides some guy's shins?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217702304177074177,
+  "in_reply_to_status_id_str": "217702304177074177",
+  "in_reply_to_user_id": 35384223,
+  "in_reply_to_user_id_str": "35384223",
+  "in_reply_to_screen_name": "wynkenhimself",
+  "user": {
+    "id": 21910218,
+    "id_str": "21910218",
+    "name": "Bill Brown",
+    "screen_name": "_Bill_",
+    "location": "Chesterfield, VA",
+    "description": "CPA; Managing Member, Holland & Brown CPAs PLCC; Member, Chesterfield County Planning Commission; Immediate past chair, Chesterfield County Democratic Committee",
+    "url": "http://t.co/QStQLOa7",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/QStQLOa7",
+            "expanded_url": "http://centralvirginiaandbeyond.blogspot.com/",
+            "display_url": "centralvirginiaandbeyond.blogspot.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 80,
+    "friends_count": 135,
+    "listed_count": 1,
+    "created_at": "Wed Feb 25 19:59:05 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 346,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/4950659/Ginter02.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/4950659/Ginter02.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/936672857/Bill_head-shoulder-02_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/936672857/Bill_head-shoulder-02_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          16,
+          20
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wynkenhimself",
+        "name": "Sarah Werner",
+        "id": 35384223,
+        "id_str": "35384223",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

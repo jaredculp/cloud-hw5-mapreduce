@@ -1,0 +1,101 @@
+{
+  "created_at": "Thu Jun 21 12:09:39 +0000 2012",
+  "id": 215778508193013760,
+  "id_str": "215778508193013760",
+  "text": "@secondhandsally I think it is next Wednesday. http://t.co/vS3RMRpI #UVa",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215771743011356672,
+  "in_reply_to_status_id_str": "215771743011356672",
+  "in_reply_to_user_id": 158227794,
+  "in_reply_to_user_id_str": "158227794",
+  "in_reply_to_screen_name": "secondhandsally",
+  "user": {
+    "id": 15607033,
+    "id_str": "15607033",
+    "name": "Mary Sproles Martin",
+    "screen_name": "msprolesmartin",
+    "location": "Virginia",
+    "description": "writer, editor, (former) college instructor, mother of 3 crazywonderful kids, gardening and cooking fiend",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 326,
+    "friends_count": 442,
+    "listed_count": 14,
+    "created_at": "Sat Jul 26 03:04:43 +0000 2008",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4235,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1113890801/27357_674754042_4483_q_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1113890801/27357_674754042_4483_q_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          68,
+          72
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/vS3RMRpI",
+        "expanded_url": "http://www.washingtonpost.com/local/dc-politics/interim-u-va-leader-carl-zeithaml-seeks-to-quell-uproar-over-presidents-ouster/2012/06/20/gJQAAsZ1qV_story.html?hpid=z2",
+        "display_url": "washingtonpost.com/local/dc-polit…",
+        "indices": [
+          47,
+          67
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "secondhandsally",
+        "name": "Rachel V",
+        "id": 158227794,
+        "id_str": "158227794",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

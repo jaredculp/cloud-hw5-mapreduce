@@ -1,0 +1,111 @@
+{
+  "created_at": "Wed Jul 04 03:15:05 +0000 2012",
+  "id": 220355019311022080,
+  "id_str": "220355019311022080",
+  "text": "#gilbert #sullivan favourites http://t.co/t5x9ThVf Gilbert &amp; Sullivan Favourites",
+  "source": "<a href=\"http://www.unidb.de/\" rel=\"nofollow\">unidb</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 529068214,
+    "id_str": "529068214",
+    "name": "unidb",
+    "screen_name": "unidb",
+    "location": "Berlin",
+    "description": "Universal-Datenbank der Produkte",
+    "url": "http://www.unidb.de/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.unidb.de/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 441,
+    "friends_count": 0,
+    "listed_count": 24,
+    "created_at": "Mon Mar 19 03:32:02 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": 3600,
+    "time_zone": "Berlin",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 124671,
+    "lang": "de",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1908105867/favicon_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1908105867/favicon_normal.JPG",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "gilbert",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          9,
+          18
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/t5x9ThVf",
+        "expanded_url": "http://www.unidb.de/e/b0007wbdvg.html",
+        "display_url": "unidb.de/e/b0007wbdvg.h…",
+        "indices": [
+          30,
+          50
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,84 @@
+{
+  "created_at": "Mon Aug 06 13:13:27 +0000 2012",
+  "id": 232464405642743808,
+  "id_str": "232464405642743808",
+  "text": "Lamento decir que la #UVa es una grandisima mierda.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 358761047,
+    "id_str": "358761047",
+    "name": "María Viciana",
+    "screen_name": "PantoRules",
+    "location": "Almeriense en Pucela.",
+    "description": "Proyecto de enfermera en la UVa. En los ratos libres me convierto en cruella y Zaradicta sobre todas las cosas. Muy fan de las pelusas de mi habitación.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 406,
+    "friends_count": 385,
+    "listed_count": 0,
+    "created_at": "Sat Aug 20 13:14:55 +0000 2011",
+    "favourites_count": 32,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2564,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E7E8F0",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/419137321/Sin_t_tulo.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/419137321/Sin_t_tulo.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3162152016/520f0a261fffcdedb7a71639efad2095_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3162152016/520f0a261fffcdedb7a71639efad2095_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/358761047/1352819425",
+    "profile_link_color": "EB0EB7",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F0C5ED",
+    "profile_text_color": "592959",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          21,
+          25
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

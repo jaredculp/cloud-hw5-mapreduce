@@ -1,0 +1,112 @@
+{
+  "created_at": "Mon Jun 25 17:17:44 +0000 2012",
+  "id": 217305588504342530,
+  "id_str": "217305588504342530",
+  "text": "I would have expected more from @WSJ than the unsigned, and inaccurate editorial on #UVA. Thanks to @Bob_Bruner for http://t.co/oAz3M2r2",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 9232422,
+    "id_str": "9232422",
+    "name": "chris",
+    "screen_name": "cpcollin",
+    "location": "Jamaica Plain, MA",
+    "description": "When Rocky is defeated by a brutal challenger, Apollo Creed offers to retrain him in order to regain his fighting spirit.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 168,
+    "friends_count": 303,
+    "listed_count": 6,
+    "created_at": "Wed Oct 03 21:54:55 +0000 2007",
+    "favourites_count": 22,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3403,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2092887819/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2092887819/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/9232422/1348180676",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          84,
+          88
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/oAz3M2r2",
+        "expanded_url": "http://blogs.darden.virginia.edu/deansblog/2012/06/to-fight-for-the-truth/",
+        "display_url": "blogs.darden.virginia.edu/deansblog/2012…",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          32,
+          36
+        ]
+      },
+      {
+        "screen_name": "Bob_Bruner",
+        "name": "Bob_Bruner",
+        "id": 15407235,
+        "id_str": "15407235",
+        "indices": [
+          100,
+          111
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

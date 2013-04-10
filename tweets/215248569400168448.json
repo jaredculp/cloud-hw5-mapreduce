@@ -1,0 +1,122 @@
+{
+  "created_at": "Wed Jun 20 01:03:52 +0000 2012",
+  "id": 215248569400168448,
+  "id_str": "215248569400168448",
+  "text": "Yes. RT @wynkenhimself: Impressed with @cavalierdaily during all this; check their stream for tweets of FOIAed emails from #UVa #BoV...",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 8253572,
+    "id_str": "8253572",
+    "name": "amlibrarian",
+    "screen_name": "amlibrarian",
+    "location": "Oregon",
+    "description": "librarian, oregonian, knitter",
+    "url": "http://info-fetishist.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://info-fetishist.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 206,
+    "friends_count": 266,
+    "listed_count": 21,
+    "created_at": "Fri Aug 17 20:26:48 +0000 2007",
+    "favourites_count": 872,
+    "utc_offset": 12600,
+    "time_zone": "Tehran",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2956,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/303739944/amddinahosu_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/303739944/amddinahosu_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/8253572/1358745165",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          123,
+          127
+        ]
+      },
+      {
+        "text": "BoV",
+        "indices": [
+          128,
+          132
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wynkenhimself",
+        "name": "Sarah Werner",
+        "id": 35384223,
+        "id_str": "35384223",
+        "indices": [
+          8,
+          22
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          39,
+          53
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

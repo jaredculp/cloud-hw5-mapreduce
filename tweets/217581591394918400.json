@@ -1,0 +1,83 @@
+{
+  "created_at": "Tue Jun 26 11:34:28 +0000 2012",
+  "id": 217581591394918400,
+  "id_str": "217581591394918400",
+  "text": "Thinking of #UVA today and hoping the BOV does the right thing.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 469447705,
+    "id_str": "469447705",
+    "name": "Jenn Williamson",
+    "screen_name": "jwilliamson408",
+    "location": "Washington DC Area",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 27,
+    "friends_count": 38,
+    "listed_count": 0,
+    "created_at": "Fri Jan 20 16:14:19 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 27,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2369837760/sl0ekgh1uob28stmfa0l_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2369837760/sl0ekgh1uob28stmfa0l_normal.jpeg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          12,
+          16
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

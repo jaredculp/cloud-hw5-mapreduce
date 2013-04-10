@@ -1,0 +1,136 @@
+{
+  "created_at": "Fri Aug 03 18:28:33 +0000 2012",
+  "id": 231456535098843137,
+  "id_str": "231456535098843137",
+  "text": "#UVA QB Michael Rocco talks with the electronic media http://t.co/nizslhlO",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Photos on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 298209278,
+    "id_str": "298209278",
+    "name": "Billy Fellin",
+    "screen_name": "RTDBfellin",
+    "location": "Richmond, VA",
+    "description": "Sports producer for the Times-Dispatch. CNU #commnerd alum. Eagle Scout. Covers NASCAR, high school girls soccer, basketball and volleyball. CT native.",
+    "url": "http://t.co/A6j7xPwf",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/A6j7xPwf",
+            "expanded_url": "http://www.timesdispatch.com/staff/profile-for-billy-fellin/article_264dac95-c14f-5ef4-a9de-2555eb75fe1e.html",
+            "display_url": "timesdispatch.com/staff/profile-…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 687,
+    "friends_count": 1174,
+    "listed_count": 20,
+    "created_at": "Fri May 13 22:27:41 +0000 2011",
+    "favourites_count": 38,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 12625,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "030303",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/742023058/64bd74221b1862c7cdb92dafca9c1d5c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/742023058/64bd74221b1862c7cdb92dafca9c1d5c.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2992921485/1022db05f709078edbffc74236b85a2f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2992921485/1022db05f709078edbffc74236b85a2f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/298209278/1347996745",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 231456535103037440,
+        "id_str": "231456535103037440",
+        "indices": [
+          54,
+          74
+        ],
+        "media_url": "http://pbs.twimg.com/media/AzZMfgvCYAAL50N.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AzZMfgvCYAAL50N.jpg",
+        "url": "http://t.co/nizslhlO",
+        "display_url": "pic.twitter.com/nizslhlO",
+        "expanded_url": "http://twitter.com/RTDBfellin/status/231456535098843137/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 453,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 612,
+            "h": 816,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

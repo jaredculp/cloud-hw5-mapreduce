@@ -1,0 +1,112 @@
+{
+  "created_at": "Tue Jun 26 20:33:52 +0000 2012",
+  "id": 217717337829277696,
+  "id_str": "217717337829277696",
+  "text": "#UVA reinstates its president http://t.co/O4rDmI8A #highered",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 30273176,
+    "id_str": "30273176",
+    "name": "Sarah Swanbeck",
+    "screen_name": "sswanbeck",
+    "location": "Bay Area, California",
+    "description": "",
+    "url": "http://www.emergeamerica.org/people/sarah-swanbeck",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.emergeamerica.org/people/sarah-swanbeck",
+            "expanded_url": null,
+            "indices": [
+              0,
+              50
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 98,
+    "friends_count": 327,
+    "listed_count": 1,
+    "created_at": "Fri Apr 10 18:05:31 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 484,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/685174241/f019dc7df0f08d13e9aaab9762e11047.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/685174241/f019dc7df0f08d13e9aaab9762e11047.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3176323775/62d614935ec3b0f3e09a045f947f45bf_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3176323775/62d614935ec3b0f3e09a045f947f45bf_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/30273176/1354602107",
+    "profile_link_color": "9F1664",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "F7A97B",
+    "profile_text_color": "632063",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          51,
+          60
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/O4rDmI8A",
+        "expanded_url": "http://ow.ly/bQo73",
+        "display_url": "ow.ly/bQo73",
+        "indices": [
+          30,
+          50
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

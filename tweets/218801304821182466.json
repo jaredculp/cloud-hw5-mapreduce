@@ -1,0 +1,117 @@
+{
+  "created_at": "Fri Jun 29 20:21:10 +0000 2012",
+  "id": 218801304821182466,
+  "id_str": "218801304821182466",
+  "text": "Wow.  I am perplexed. RT \"@RTDSchapiro: #rva #vagov @bobmcdonnell reappoints Helen Dragas to #UVa board of visitors.”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 517112861,
+    "id_str": "517112861",
+    "name": "John J Gill",
+    "screen_name": "john_j_gill",
+    "location": "",
+    "description": "too big to fail\n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 25,
+    "friends_count": 124,
+    "listed_count": 0,
+    "created_at": "Wed Mar 07 02:08:42 +0000 2012",
+    "favourites_count": 234,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 978,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3127343518/afbfe8b0945a07234a5bf6c34fc41d05_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3127343518/afbfe8b0945a07234a5bf6c34fc41d05_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/517112861/1358567532",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "rva",
+        "indices": [
+          40,
+          44
+        ]
+      },
+      {
+        "text": "vagov",
+        "indices": [
+          45,
+          51
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          93,
+          97
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RTDSchapiro",
+        "name": "Jeff E. Schapiro",
+        "id": 64729812,
+        "id_str": "64729812",
+        "indices": [
+          26,
+          38
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          52,
+          65
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

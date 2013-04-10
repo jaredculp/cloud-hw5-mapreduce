@@ -1,0 +1,112 @@
+{
+  "created_at": "Fri Jun 22 17:42:14 +0000 2012",
+  "id": 216224591037743106,
+  "id_str": "216224591037743106",
+  "text": "Carl Zeithaml just showed us all what the word \"honor\" means #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2290001,
+    "id_str": "2290001",
+    "name": "Tim O'Brien",
+    "screen_name": "tobrien",
+    "location": "Evanston, IL",
+    "description": "I write, and I build software: http://t.co/h5zVsASv and http://t.co/CnusCwsO - I am sinister. ",
+    "url": "http://www.discursive.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.discursive.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/h5zVsASv",
+            "expanded_url": "http://bit.ly/JgeN3I",
+            "display_url": "bit.ly/JgeN3I",
+            "indices": [
+              31,
+              51
+            ]
+          },
+          {
+            "url": "http://t.co/CnusCwsO",
+            "expanded_url": "http://bit.ly/KgW81P",
+            "display_url": "bit.ly/KgW81P",
+            "indices": [
+              56,
+              76
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1411,
+    "friends_count": 414,
+    "listed_count": 38,
+    "created_at": "Mon Mar 26 12:22:49 +0000 2007",
+    "favourites_count": 30,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4215,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "020812",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/529927503/xcf45c820d33baac38aaa5b90dce06e3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/529927503/xcf45c820d33baac38aaa5b90dce06e3.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1876430815/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1876430815/image_normal.jpg",
+    "profile_link_color": "17406C",
+    "profile_sidebar_border_color": "2280A9",
+    "profile_sidebar_fill_color": "020812",
+    "profile_text_color": "2280A9",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

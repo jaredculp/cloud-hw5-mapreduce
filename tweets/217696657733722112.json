@@ -1,0 +1,131 @@
+{
+  "created_at": "Tue Jun 26 19:11:43 +0000 2012",
+  "id": 217696657733722112,
+  "id_str": "217696657733722112",
+  "text": "@hedrick7 you're missing all the excitment here at #uva ! http://t.co/m04a4fiv",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 459881838,
+  "in_reply_to_user_id_str": "459881838",
+  "in_reply_to_screen_name": "hedrick7",
+  "user": {
+    "id": 611934146,
+    "id_str": "611934146",
+    "name": "David Bolick",
+    "screen_name": "smushandrocky",
+    "location": "",
+    "description": "Senior Laboratory Technician at UVA...exciting, eh?",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3,
+    "friends_count": 11,
+    "listed_count": 0,
+    "created_at": "Mon Jun 18 19:34:12 +0000 2012",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 146,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2320153165/IMG_0098_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2320153165/IMG_0098_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          51,
+          55
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "hedrick7",
+        "name": "lynn hedrick",
+        "id": 459881838,
+        "id_str": "459881838",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 217696657737916416,
+        "id_str": "217696657737916416",
+        "indices": [
+          58,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwVp9PFCIAA1og4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwVp9PFCIAA1og4.jpg",
+        "url": "http://t.co/m04a4fiv",
+        "display_url": "pic.twitter.com/m04a4fiv",
+        "expanded_url": "http://twitter.com/smushandrocky/status/217696657733722112/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 450,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 255,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 480,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

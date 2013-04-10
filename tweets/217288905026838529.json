@@ -1,0 +1,101 @@
+{
+  "created_at": "Mon Jun 25 16:11:26 +0000 2012",
+  "id": 217288905026838529,
+  "id_str": "217288905026838529",
+  "text": "I've been incredibly impressed with the integrity of Darden dean @Bob_Bruner during this whole mess. #UVA http://t.co/3Sd79c3y",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20850529,
+    "id_str": "20850529",
+    "name": "Eric Rettberg",
+    "screen_name": "ericrettberg",
+    "location": "Charlottesville, VA",
+    "description": "Postdoctoral Preceptor in English at the University of Virginia. Modernism, nonsense, the ridiculous, and the digital humanities.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 315,
+    "friends_count": 681,
+    "listed_count": 17,
+    "created_at": "Sat Feb 14 14:51:32 +0000 2009",
+    "favourites_count": 20,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 938,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/888528780/30707_723612183236_1506220_42848232_8237071_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/888528780/30707_723612183236_1506220_42848232_8237071_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          101,
+          105
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/3Sd79c3y",
+        "expanded_url": "http://blogs.darden.virginia.edu/deansblog/2012/06/to-fight-for-the-truth/",
+        "display_url": "blogs.darden.virginia.edu/deansblog/2012…",
+        "indices": [
+          106,
+          126
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Bob_Bruner",
+        "name": "Bob_Bruner",
+        "id": 15407235,
+        "id_str": "15407235",
+        "indices": [
+          65,
+          76
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,112 @@
+{
+  "created_at": "Thu Jun 21 23:57:30 +0000 2012",
+  "id": 215956644293644290,
+  "id_str": "215956644293644290",
+  "text": "#UVa's Thomas Jefferson: \"To read the Greek and Latin authors in their original is a sublime luxury...\" http://t.co/aOr3lu3i #DragasFail",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20332563,
+    "id_str": "20332563",
+    "name": "Dean Barker",
+    "screen_name": "deanbarker",
+    "location": "New Hampshire",
+    "description": "mostly NH, mostly politics.\r\nemail: dean.t.barker AT gmail",
+    "url": "http://birchpaper.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://birchpaper.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 768,
+    "friends_count": 248,
+    "listed_count": 47,
+    "created_at": "Sat Feb 07 20:56:35 +0000 2009",
+    "favourites_count": 65,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 17325,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2F6FA1",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/664153624/9b797daf3b5087b9d6956bfe62998780.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/664153624/9b797daf3b5087b9d6956bfe62998780.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3088645307/8aacc73ad52b7dd7e8d051b5cf7a0427_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3088645307/8aacc73ad52b7dd7e8d051b5cf7a0427_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/20332563/1358687607",
+    "profile_link_color": "186DB8",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "DragasFail",
+        "indices": [
+          125,
+          136
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/aOr3lu3i",
+        "expanded_url": "http://www.virginia.edu/classics/",
+        "display_url": "virginia.edu/classics/",
+        "indices": [
+          104,
+          124
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

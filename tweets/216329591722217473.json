@@ -1,0 +1,125 @@
+{
+  "created_at": "Sat Jun 23 00:39:28 +0000 2012",
+  "id": 216329591722217473,
+  "id_str": "216329591722217473",
+  "text": "#UVa star Mark Reynolds gives #Orioles 1-0 lead over #UVa Ryan Zimmerman's #Nationals with a solo HR off of Zimm'nn B2",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 612680101,
+    "id_str": "612680101",
+    "name": "Byron Kerr",
+    "screen_name": "masnKerr",
+    "location": "Nationals Park",
+    "description": "cover #Nationals and their prospects for http://t.co/sCcoB3Rh; co-host Nats Xtra on MASN. Baseball tweets here; other cool stuff @bkerr32",
+    "url": "http://www.masnsports.com/byron_kerr/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.masnsports.com/byron_kerr/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/sCcoB3Rh",
+            "expanded_url": "http://MASNsports.com",
+            "display_url": "MASNsports.com",
+            "indices": [
+              41,
+              61
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1206,
+    "friends_count": 521,
+    "listed_count": 55,
+    "created_at": "Tue Jun 19 16:29:48 +0000 2012",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1686,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "7A9E90",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/608595318/l34idklm82emjku34xna.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/608595318/l34idklm82emjku34xna.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2590153421/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2590153421/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/612680101/1351164530",
+    "profile_link_color": "293430",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Orioles",
+        "indices": [
+          30,
+          38
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          53,
+          57
+        ]
+      },
+      {
+        "text": "Nationals",
+        "indices": [
+          75,
+          85
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

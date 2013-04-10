@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Jun 26 22:04:37 +0000 2012",
+  "id": 217740175298674688,
+  "id_str": "217740175298674688",
+  "text": "RT @ologypolitics: Everything you need to know about the #TeresaSullivan/ #UVA scandal in &lt; 700 words: http://t.co/ajCnmZFA",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 110765110,
+    "id_str": "110765110",
+    "name": "Ology",
+    "screen_name": "ologize",
+    "location": "New York NY",
+    "description": "We have all your need-to-know info when it comes to music, film, TV, celebs, fashion, sports, politics & geek culture. Cause, you know, we're cool like that.",
+    "url": "http://ology.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ology.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4919,
+    "friends_count": 966,
+    "listed_count": 107,
+    "created_at": "Tue Feb 02 18:04:11 +0000 2010",
+    "favourites_count": 330,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 27521,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2759528689/5aef05c1e355f012de68a7d070bfe7cd_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2759528689/5aef05c1e355f012de68a7d070bfe7cd_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "TeresaSullivan",
+        "indices": [
+          57,
+          72
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          74,
+          78
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ajCnmZFA",
+        "expanded_url": "http://bit.ly/LNwi7Y",
+        "display_url": "bit.ly/LNwi7Y",
+        "indices": [
+          106,
+          126
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "OlogyPolitics",
+        "name": "Ology Politics",
+        "id": 459349197,
+        "id_str": "459349197",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

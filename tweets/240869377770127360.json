@@ -1,0 +1,109 @@
+{
+  "created_at": "Wed Aug 29 17:51:49 +0000 2012",
+  "id": 240869377770127360,
+  "id_str": "240869377770127360",
+  "text": "\"@HooRayJeff: Good running into @cackDUDEcack on random NYC streets. #UVA #uvabaseball @UVABaseball\" even in a crowded st, Wahoos stand out",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 423861893,
+    "id_str": "423861893",
+    "name": "Patrick McAnaney",
+    "screen_name": "cackDUDEcack",
+    "location": "",
+    "description": "3rd down and goal and I'm swinging for the fences",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 80,
+    "friends_count": 81,
+    "listed_count": 0,
+    "created_at": "Tue Nov 29 01:18:23 +0000 2011",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 583,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/410998939/twitterbackground_.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/410998939/twitterbackground_.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1781981125/gin_on_lake_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1781981125/gin_on_lake_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          69,
+          73
+        ]
+      },
+      {
+        "text": "uvabaseball",
+        "indices": [
+          74,
+          86
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cackDUDEcack",
+        "name": "Patrick McAnaney",
+        "id": 423861893,
+        "id_str": "423861893",
+        "indices": [
+          32,
+          45
+        ]
+      },
+      {
+        "screen_name": "UVABaseball",
+        "name": "Virginia Baseball",
+        "id": 172742915,
+        "id_str": "172742915",
+        "indices": [
+          87,
+          99
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

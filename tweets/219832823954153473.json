@@ -1,0 +1,144 @@
+{
+  "created_at": "Mon Jul 02 16:40:04 +0000 2012",
+  "id": 219832823954153473,
+  "id_str": "219832823954153473",
+  "text": "Read the latest round-up post from @cunycommons facilitator @BMFoote http://t.co/SYjQ5nD1 #UVA #OHCA #CUNYPhotos #InternationalZineMonth",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 40577439,
+    "id_str": "40577439",
+    "name": "CUNYAcademicCommons",
+    "screen_name": "cunycommons",
+    "location": "New York",
+    "description": "An academic social network for the 23-campus City University of New York system. Twitter account maintained by community facilitator Sarah Morgano.",
+    "url": "http://commons.gc.cuny.edu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://commons.gc.cuny.edu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1498,
+    "friends_count": 1335,
+    "listed_count": 81,
+    "created_at": "Sun May 17 00:54:48 +0000 2009",
+    "favourites_count": 21,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4833,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "3B383B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/403527512/61497c6f-d993-402c-8605-639763510e41.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/403527512/61497c6f-d993-402c-8605-639763510e41.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1766349205/CAC-Logo-Stacked-200px_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1766349205/CAC-Logo-Stacked-200px_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "8A9194",
+    "profile_sidebar_fill_color": "70D8F5",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          90,
+          94
+        ]
+      },
+      {
+        "text": "OHCA",
+        "indices": [
+          95,
+          100
+        ]
+      },
+      {
+        "text": "CUNYPhotos",
+        "indices": [
+          101,
+          112
+        ]
+      },
+      {
+        "text": "InternationalZineMonth",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/SYjQ5nD1",
+        "expanded_url": "http://cuny.is/roundup16",
+        "display_url": "cuny.is/roundup16",
+        "indices": [
+          69,
+          89
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cunycommons",
+        "name": "CUNYAcademicCommons",
+        "id": 40577439,
+        "id_str": "40577439",
+        "indices": [
+          35,
+          47
+        ]
+      },
+      {
+        "screen_name": "BMFoote",
+        "name": "Brian M. Foote",
+        "id": 136698085,
+        "id_str": "136698085",
+        "indices": [
+          60,
+          68
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

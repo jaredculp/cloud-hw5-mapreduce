@@ -1,0 +1,149 @@
+{
+  "created_at": "Tue Jun 19 06:08:58 +0000 2012",
+  "id": 214962960332886016,
+  "id_str": "214962960332886016",
+  "text": "The whole #bov is plotting to come running out naked and screaming \"good morning, Mr. Jefferson.\" #whatthebovisdoing #UVA #plsnonakeddragas",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 36998565,
+    "id_str": "36998565",
+    "name": "Kirsten Schofield",
+    "screen_name": "ennuigo",
+    "location": "Louisville",
+    "description": "Narrative opportunist, flaneur, glutton, pistol. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 586,
+    "friends_count": 501,
+    "listed_count": 23,
+    "created_at": "Fri May 01 17:51:04 +0000 2009",
+    "favourites_count": 300,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 17392,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1110601961/kazakh_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1110601961/kazakh_normal.jpg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.36436053,
+      -85.59989914
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -85.59989914,
+      38.36436053
+    ]
+  },
+  "place": {
+    "id": "1010ecfa7d3a40f8",
+    "url": "https://api.twitter.com/1.1/geo/id/1010ecfa7d3a40f8.json",
+    "place_type": "admin",
+    "name": "Indiana",
+    "full_name": "Indiana, US",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -88.097892,
+            37.771742
+          ],
+          [
+            -84.784662,
+            37.771742
+          ],
+          [
+            -84.784662,
+            41.761368
+          ],
+          [
+            -88.097892,
+            41.761368
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bov",
+        "indices": [
+          10,
+          14
+        ]
+      },
+      {
+        "text": "whatthebovisdoing",
+        "indices": [
+          98,
+          116
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          117,
+          121
+        ]
+      },
+      {
+        "text": "plsnonakeddragas",
+        "indices": [
+          122,
+          139
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

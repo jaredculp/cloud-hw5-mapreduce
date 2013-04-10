@@ -1,0 +1,95 @@
+{
+  "created_at": "Tue Jun 26 19:28:58 +0000 2012",
+  "id": 217701002697121794,
+  "id_str": "217701002697121794",
+  "text": "Well that was a fun couple weeks at UVa, now time to head over to Bilt again #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 98760724,
+    "id_str": "98760724",
+    "name": "Sam Shirazi",
+    "screen_name": "samshirazim",
+    "location": "",
+    "description": "Law Student at the University of Virginia. Worked on campaigns and Middle Eastern affairs. Tweets on politics, law, and world events",
+    "url": "http://www.samshirazi.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.samshirazi.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 107,
+    "friends_count": 570,
+    "listed_count": 1,
+    "created_at": "Wed Dec 23 01:12:54 +0000 2009",
+    "favourites_count": 40,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1932,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2130429741/Sam_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2130429741/Sam_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          77,
+          81
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

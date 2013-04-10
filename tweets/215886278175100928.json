@@ -1,0 +1,93 @@
+{
+  "created_at": "Thu Jun 21 19:17:54 +0000 2012",
+  "id": 215886278175100928,
+  "id_str": "215886278175100928",
+  "text": "@paamelalisboa noooooor vou me acabar haaha como voce mesmo fala :o show vai ta uma #uva kkkkk *-*",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215885627961516033,
+  "in_reply_to_status_id_str": "215885627961516033",
+  "in_reply_to_user_id": 233920445,
+  "in_reply_to_user_id_str": "233920445",
+  "in_reply_to_screen_name": "paamelalisboa",
+  "user": {
+    "id": 326503304,
+    "id_str": "326503304",
+    "name": "Michele Souza",
+    "screen_name": "MiiicheleSouza",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 147,
+    "friends_count": 124,
+    "listed_count": 0,
+    "created_at": "Thu Jun 30 01:06:36 +0000 2011",
+    "favourites_count": 4,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4524,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/743440509/c5ff931dd28dbd4593b95cbf4b4ea00f.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/743440509/c5ff931dd28dbd4593b95cbf4b4ea00f.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1471781008/michele_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1471781008/michele_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/326503304/1356032646",
+    "profile_link_color": "8600B3",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          84,
+          88
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "paamelalisboa",
+        "name": "Pâmela :)",
+        "id": 233920445,
+        "id_str": "233920445",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

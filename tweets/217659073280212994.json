@@ -1,0 +1,102 @@
+{
+  "created_at": "Tue Jun 26 16:42:21 +0000 2012",
+  "id": 217659073280212994,
+  "id_str": "217659073280212994",
+  "text": "@LarrySabato what about Tommy Thompson as @MittRomney running mate? Is it that much of an issue that he's running for Senate? #veepstakes",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 335915494,
+    "id_str": "335915494",
+    "name": "Michael Genova",
+    "screen_name": "MichaelVGenova",
+    "location": "Mississauga, Ontario",
+    "description": "Budding politico. @FordhamAlumni. Views are my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 159,
+    "friends_count": 515,
+    "listed_count": 1,
+    "created_at": "Fri Jul 15 13:09:41 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 717,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2358108136/cax6usglp0wxt405pq7i_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2358108136/cax6usglp0wxt405pq7i_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "veepstakes",
+        "indices": [
+          126,
+          137
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "MittRomney",
+        "name": "Mitt Romney",
+        "id": 50055701,
+        "id_str": "50055701",
+        "indices": [
+          42,
+          53
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

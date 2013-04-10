@@ -1,0 +1,105 @@
+{
+  "created_at": "Fri Jun 29 03:27:25 +0000 2012",
+  "id": 218546186586554368,
+  "id_str": "218546186586554368",
+  "text": "The @atlanta_hawks took Mike Scott from #UVA Is he any good @b24fowler?",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 54354377,
+    "id_str": "54354377",
+    "name": "Michael Barron",
+    "screen_name": "CMichaelBarron",
+    "location": "Atlanta, Ga ",
+    "description": "Who is coming with me? ",
+    "url": "http://www.iMeet.com/michaelbarron",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.iMeet.com/michaelbarron",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 280,
+    "friends_count": 556,
+    "listed_count": 4,
+    "created_at": "Mon Jul 06 22:23:43 +0000 2009",
+    "favourites_count": 38,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2990,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/196009489/Linkedin.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/196009489/Linkedin.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1568725946/254212_2105184986532_1152723149_2493542_2637992_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1568725946/254212_2105184986532_1152723149_2493542_2637992_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/54354377/1349904951",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          40,
+          44
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "b24fowler",
+        "name": "Bryan",
+        "id": 467499398,
+        "id_str": "467499398",
+        "indices": [
+          60,
+          70
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

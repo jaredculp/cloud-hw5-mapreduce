@@ -1,0 +1,102 @@
+{
+  "created_at": "Sun Jul 01 03:36:31 +0000 2012",
+  "id": 219273250033762304,
+  "id_str": "219273250033762304",
+  "text": "This is crazy. RT: \"@washingtonpost: 18 days that shook Charlottesville: the power play gone wildly awry at #UVA: http://t.co/8eXKmN9I \"",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 470769225,
+    "id_str": "470769225",
+    "name": "DB Renwick",
+    "screen_name": "BmoreBrooke",
+    "location": "City of Angels/Charm City",
+    "description": "Traveler, over-sleeper, flip-flop wearer, organizer, runner, road-tripper, avid reader and tv viewer.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 44,
+    "friends_count": 144,
+    "listed_count": 0,
+    "created_at": "Sun Jan 22 04:07:46 +0000 2012",
+    "favourites_count": 68,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1409,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/741932094/1f4af11e12fa86e6a870b77ef3fe0947.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/741932094/1f4af11e12fa86e6a870b77ef3fe0947.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3205394853/935c827ac4253a15f3b3374e43312b17_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3205394853/935c827ac4253a15f3b3374e43312b17_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/470769225/1360099754",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          108,
+          112
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/8eXKmN9I",
+        "expanded_url": "http://wapo.st/Nio9Ys",
+        "display_url": "wapo.st/Nio9Ys",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          20,
+          35
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

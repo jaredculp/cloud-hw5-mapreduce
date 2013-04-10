@@ -1,0 +1,125 @@
+{
+  "created_at": "Thu Jun 21 20:18:36 +0000 2012",
+  "id": 215901552890740736,
+  "id_str": "215901552890740736",
+  "text": "Just say no to corpocracy: http://t.co/2ekp74rB #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 244629392,
+    "id_str": "244629392",
+    "name": "James Pulizzi",
+    "screen_name": "jjpulizzi",
+    "location": "West Hollywood",
+    "description": "Forbiddingly technical and self-referential — Arnhold Faculty Fellow, UCSB",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 42,
+    "friends_count": 248,
+    "listed_count": 2,
+    "created_at": "Sat Jan 29 19:17:00 +0000 2011",
+    "favourites_count": 80,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 93,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2207180894/Intel_8742_Eight-Bit_Microcontroller_IC_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2207180894/Intel_8742_Eight-Bit_Microcontroller_IC_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "3b77caf94bfc81fe",
+    "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+    "place_type": "city",
+    "name": "Los Angeles",
+    "full_name": "Los Angeles, CA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -118.668176,
+            33.704554
+          ],
+          [
+            -117.753334,
+            33.704554
+          ],
+          [
+            -117.753334,
+            34.337306
+          ],
+          [
+            -118.668176,
+            34.337306
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/2ekp74rB",
+        "expanded_url": "http://www2.dailyprogress.com/news/2012/jun/18/transcript-sullivans-remarks-board-visitors-ar-1996610/",
+        "display_url": "www2.dailyprogress.com/news/2012/jun/…",
+        "indices": [
+          27,
+          47
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

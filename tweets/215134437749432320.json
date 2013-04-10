@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 19 17:30:21 +0000 2012",
+  "id": 215134437749432320,
+  "id_str": "215134437749432320",
+  "text": "@jpl486 as reported by other #UVA faculty members. Awaiting confirmation.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215130872297422852,
+  "in_reply_to_status_id_str": "215130872297422852",
+  "in_reply_to_user_id": 525120255,
+  "in_reply_to_user_id_str": "525120255",
+  "in_reply_to_screen_name": "jpl486",
+  "user": {
+    "id": 24296023,
+    "id_str": "24296023",
+    "name": "The Cavalier Daily",
+    "screen_name": "cavalierdaily",
+    "location": "Newcomb Hall Basement",
+    "description": "The University of Virginia's student-operated independent newspaper and Charlottesville's oldest daily newspaper.",
+    "url": "http://www.cavalierdaily.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cavalierdaily.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7199,
+    "friends_count": 167,
+    "listed_count": 212,
+    "created_at": "Sat Mar 14 00:55:04 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2985,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1518291353/jefferson_cutout_opinion_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1518291353/jefferson_cutout_opinion_2_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/24296023/1350236225",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          29,
+          33
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jpl486",
+        "name": "John Laycock",
+        "id": 525120255,
+        "id_str": "525120255",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

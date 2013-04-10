@@ -1,0 +1,84 @@
+{
+  "created_at": "Thu Aug 30 01:00:45 +0000 2012",
+  "id": 240977322973483008,
+  "id_str": "240977322973483008",
+  "text": "I love them! #uva",
+  "source": "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 306910562,
+    "id_str": "306910562",
+    "name": "Stephanie Cox",
+    "screen_name": "stephaniedc12",
+    "location": "sterling, virginia",
+    "description": "don't let anyone ever make you feel like you don't deserve what you want. Go for it.  #wahoowa UVA Class of 2016 ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 306,
+    "friends_count": 325,
+    "listed_count": 1,
+    "created_at": "Sat May 28 17:21:41 +0000 2011",
+    "favourites_count": 1762,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3603,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "41C6CB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/723844564/0a4f3c910e2083c3abde9c27aeb11493.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/723844564/0a4f3c910e2083c3abde9c27aeb11493.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2368017907/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2368017907/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/306910562/1355095730",
+    "profile_link_color": "E06592",
+    "profile_sidebar_border_color": "E61C88",
+    "profile_sidebar_fill_color": "999999",
+    "profile_text_color": "F58BD0",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          13,
+          17
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

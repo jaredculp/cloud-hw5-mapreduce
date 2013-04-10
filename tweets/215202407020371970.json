@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 22:00:26 +0000 2012",
+  "id": 215202407020371970,
+  "id_str": "215202407020371970",
+  "text": "Oi oi oi? #Morango #uva http://t.co/6WHjBz3P",
+  "source": "<a href=\"http://www.streamzoo.com\" rel=\"nofollow\">Streamzoo</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 64880302,
+    "id_str": "64880302",
+    "name": "Giulia Beatriz ☆ ",
+    "screen_name": "bgqgiulia",
+    "location": "Brasil",
+    "description": "levo a vida devagar pra não faltar amor.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 381,
+    "friends_count": 297,
+    "listed_count": 7,
+    "created_at": "Wed Aug 12 00:39:57 +0000 2009",
+    "favourites_count": 26,
+    "utc_offset": -12600,
+    "time_zone": "Newfoundland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 21563,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/646396074/n039pzhho73zza09ee9y.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/646396074/n039pzhho73zza09ee9y.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3075724870/3b9613f3381475a2f8bf6fa8d3053bce_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3075724870/3b9613f3381475a2f8bf6fa8d3053bce_normal.jpeg",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Morango",
+        "indices": [
+          10,
+          18
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          19,
+          23
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/6WHjBz3P",
+        "expanded_url": "http://streamzoo.com/i/4602382",
+        "display_url": "streamzoo.com/i/4602382",
+        "indices": [
+          24,
+          44
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

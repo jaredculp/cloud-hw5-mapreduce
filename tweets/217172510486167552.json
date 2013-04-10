@@ -1,0 +1,101 @@
+{
+  "created_at": "Mon Jun 25 08:28:56 +0000 2012",
+  "id": 217172510486167552,
+  "id_str": "217172510486167552",
+  "text": "Apparently @WSJ editorial page is for sale. Shameful, factually incorrect on #UVA coup: http://t.co/iqkOzdew",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 101553643,
+    "id_str": "101553643",
+    "name": "Bruce Newman",
+    "screen_name": "RedRest",
+    "location": "Redmond, WA, US",
+    "description": "I love your commute.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 209,
+    "friends_count": 625,
+    "listed_count": 9,
+    "created_at": "Sun Jan 03 19:32:44 +0000 2010",
+    "favourites_count": 12,
+    "utc_offset": -32400,
+    "time_zone": "Alaska",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 471,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/64651090/street-dance-04.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/64651090/street-dance-04.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/712549794/photo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/712549794/photo_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          77,
+          81
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/iqkOzdew",
+        "expanded_url": "http://cvillenews.com/2012/06/24/wsj-sullivan-narrative/",
+        "display_url": "cvillenews.com/2012/06/24/wsj…",
+        "indices": [
+          88,
+          108
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          11,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

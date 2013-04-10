@@ -1,0 +1,118 @@
+{
+  "created_at": "Mon Aug 20 14:50:15 +0000 2012",
+  "id": 237562195658022913,
+  "id_str": "237562195658022913",
+  "text": "RT @inoostmetmik Of met deze http://t.co/tGknS4L4 RT @theoploeg: Nieuwe studenten #HvA #UvA?Leer je nieuwe stad kennen met deze wandeling ..",
+  "source": "<a href=\"http://www.ihavenowebsite.org\" rel=\"nofollow\">dewandelschoen</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 118036285,
+    "id_str": "118036285",
+    "name": "dewandelschoen",
+    "screen_name": "dewandelschoen",
+    "location": "Leiden, Nederland",
+    "description": "Keep walking.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1255,
+    "friends_count": 17,
+    "listed_count": 51,
+    "created_at": "Sat Feb 27 11:39:36 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 220257,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/80121653/dewandelschoen2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/80121653/dewandelschoen2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1176303837/keeponwalking_v1_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1176303837/keeponwalking_v1_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HvA",
+        "indices": [
+          82,
+          86
+        ]
+      },
+      {
+        "text": "UvA",
+        "indices": [
+          87,
+          91
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/tGknS4L4",
+        "expanded_url": "http://bit.ly/I4jrzH",
+        "display_url": "bit.ly/I4jrzH",
+        "indices": [
+          29,
+          49
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "inoostmetmik",
+        "name": "inoost met Mik",
+        "id": 136958529,
+        "id_str": "136958529",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "theoploeg",
+        "name": "theo ploeg",
+        "id": 8847692,
+        "id_str": "8847692",
+        "indices": [
+          53,
+          63
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

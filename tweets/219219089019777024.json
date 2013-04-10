@@ -1,0 +1,138 @@
+{
+  "created_at": "Sun Jul 01 00:01:18 +0000 2012",
+  "id": 219219089019777024,
+  "id_str": "219219089019777024",
+  "text": "A little disappointed that @paigeselenski won't be in San Diego til tomorrow night but I hope she's enjoying her bday at #UVA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 304736155,
+    "id_str": "304736155",
+    "name": "Kim Kastuk",
+    "screen_name": "KimmykUVA",
+    "location": "Virginia/New York",
+    "description": "My lifes about pursuing dreams, enjoying the journey, & learning how to succeed & fail w/ confidence. University of Virginia student-athlete. Phillipians 4:13",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 231,
+    "friends_count": 199,
+    "listed_count": 2,
+    "created_at": "Wed May 25 01:16:10 +0000 2011",
+    "favourites_count": 282,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1580,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "81BEDB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/298943624/1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/298943624/1.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3069295335/3f1ed358eae1a247f37e06a6a4f53fd4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3069295335/3f1ed358eae1a247f37e06a6a4f53fd4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/304736155/1353641933",
+    "profile_link_color": "CC6104",
+    "profile_sidebar_border_color": "EB800E",
+    "profile_sidebar_fill_color": "1923E0",
+    "profile_text_color": "D98B04",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      33.86726643,
+      -118.09925809
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -118.09925809,
+      33.86726643
+    ]
+  },
+  "place": {
+    "id": "19d41c6eff11e9d6",
+    "url": "https://api.twitter.com/1.1/geo/id/19d41c6eff11e9d6.json",
+    "place_type": "city",
+    "name": "Cerritos",
+    "full_name": "Cerritos, CA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -118.108566,
+            33.845875
+          ],
+          [
+            -118.028709,
+            33.845875
+          ],
+          [
+            -118.028709,
+            33.88791
+          ],
+          [
+            -118.108566,
+            33.88791
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          121,
+          125
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "paigeselenski",
+        "name": "Paige Selenski",
+        "id": 47522607,
+        "id_str": "47522607",
+        "indices": [
+          27,
+          41
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

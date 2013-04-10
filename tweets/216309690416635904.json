@@ -1,0 +1,158 @@
+{
+  "created_at": "Fri Jun 22 23:20:23 +0000 2012",
+  "id": 216309690416635904,
+  "id_str": "216309690416635904",
+  "text": "@cavalierdaily this is just PR  @cnn @nytimes @wsj #mcdonnell w appt of #dragas has damaged #UVa more than any person in history @mittromney",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216273759995305985,
+  "in_reply_to_status_id_str": "216273759995305985",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 190296269,
+    "id_str": "190296269",
+    "name": "Tom Glendening",
+    "screen_name": "e3blue",
+    "location": "NYC, NY",
+    "description": "urban innovation",
+    "url": "http://www.glendening.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.glendening.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 43,
+    "friends_count": 41,
+    "listed_count": 0,
+    "created_at": "Mon Sep 13 16:00:56 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 965,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "mcdonnell",
+        "indices": [
+          51,
+          61
+        ]
+      },
+      {
+        "text": "dragas",
+        "indices": [
+          72,
+          79
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          92,
+          96
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "CNN",
+        "name": "CNN",
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          32,
+          36
+        ]
+      },
+      {
+        "screen_name": "nytimes",
+        "name": "The New York Times",
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          37,
+          45
+        ]
+      },
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          46,
+          50
+        ]
+      },
+      {
+        "screen_name": "MittRomney",
+        "name": "Mitt Romney",
+        "id": 50055701,
+        "id_str": "50055701",
+        "indices": [
+          129,
+          140
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

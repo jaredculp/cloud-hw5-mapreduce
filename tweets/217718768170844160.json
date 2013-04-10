@@ -1,0 +1,95 @@
+{
+  "created_at": "Tue Jun 26 20:39:34 +0000 2012",
+  "id": 217718768170844160,
+  "id_str": "217718768170844160",
+  "text": "Exciting times at #UVA (U.Virginia) where recently deposed president, Teresa Sullivan,  has been quickly re-instated",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 345495079,
+    "id_str": "345495079",
+    "name": "Kevin Denny",
+    "screen_name": "KevinDenny",
+    "location": "Dublin, Ireland",
+    "description": "Economist @ University College Dublin.Studied in UCD & Oxford. Interested in labour markets, education & health - also handedness & psychology.",
+    "url": "http://kevindenny.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://kevindenny.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 383,
+    "friends_count": 58,
+    "listed_count": 17,
+    "created_at": "Sat Jul 30 18:01:35 +0000 2011",
+    "favourites_count": 27,
+    "utc_offset": 0,
+    "time_zone": "Dublin",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2847,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D0CDCD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/307830910/275-red-poppies.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/307830910/275-red-poppies.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1469604695/kevpic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1469604695/kevpic_normal.jpg",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "A20D12",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "A20D12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          18,
+          22
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

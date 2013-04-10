@@ -1,0 +1,107 @@
+{
+  "created_at": "Sat Jun 30 03:56:09 +0000 2012",
+  "id": 218915805109305345,
+  "id_str": "218915805109305345",
+  "text": "#boring #uva  #neon  http://t.co/f0L2zc9Y",
+  "source": "<a href=\"http://gifboom.com\" rel=\"nofollow\">GifBoom App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 129070456,
+    "id_str": "129070456",
+    "name": "Móni",
+    "screen_name": "monicagss",
+    "location": "Yucatán. ",
+    "description": "Seventeen, hi. o/ Jc. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 494,
+    "friends_count": 446,
+    "listed_count": 0,
+    "created_at": "Sat Apr 03 02:57:04 +0000 2010",
+    "favourites_count": 1044,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13218,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/696653567/f71ab4c6746407e7e27fdf194af8e988.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/696653567/f71ab4c6746407e7e27fdf194af8e988.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3151396841/d596d57f513fc844031ddcd1d3630e62_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3151396841/d596d57f513fc844031ddcd1d3630e62_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/129070456/1358745356",
+    "profile_link_color": "700AF6",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "boring",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          8,
+          12
+        ]
+      },
+      {
+        "text": "neon",
+        "indices": [
+          14,
+          19
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/f0L2zc9Y",
+        "expanded_url": "http://gifboom.com/x/89942ea9",
+        "display_url": "gifboom.com/x/89942ea9",
+        "indices": [
+          21,
+          41
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

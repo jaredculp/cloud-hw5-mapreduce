@@ -1,0 +1,138 @@
+{
+  "created_at": "Mon Aug 20 16:12:22 +0000 2012",
+  "id": 237582859064455168,
+  "id_str": "237582859064455168",
+  "text": "Very true #UVA #WVU #UNC RT @vincelara: @MikeGRivals @RowlandRIVALS and 'Smoke' making school call tomorrow.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 386315878,
+    "id_str": "386315878",
+    "name": "Mike G.",
+    "screen_name": "MikeGRivals",
+    "location": "",
+    "description": "Full-time Producer for College Team Sites for Rivals.com/Yahoo! Sports / Part-time photographer at sports events",
+    "url": "http://www.rivals.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.rivals.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 679,
+    "friends_count": 303,
+    "listed_count": 15,
+    "created_at": "Fri Oct 07 01:36:37 +0000 2011",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2825,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1C468A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/619385411/2vd5hor928hhu59vbffj.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/619385411/2vd5hor928hhu59vbffj.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2405729033/0mvera5t7elz1qxkx8fr_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2405729033/0mvera5t7elz1qxkx8fr_normal.jpeg",
+    "profile_link_color": "1C468A",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          10,
+          14
+        ]
+      },
+      {
+        "text": "WVU",
+        "indices": [
+          15,
+          19
+        ]
+      },
+      {
+        "text": "UNC",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "vincelara",
+        "name": "Vince Lara-Cinisomo",
+        "id": 98541868,
+        "id_str": "98541868",
+        "indices": [
+          28,
+          38
+        ]
+      },
+      {
+        "screen_name": "MikeGRivals",
+        "name": "Mike G.",
+        "id": 386315878,
+        "id_str": "386315878",
+        "indices": [
+          40,
+          52
+        ]
+      },
+      {
+        "screen_name": "RowlandRIVALS",
+        "name": "J.Rowland",
+        "id": 24759977,
+        "id_str": "24759977",
+        "indices": [
+          53,
+          67
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

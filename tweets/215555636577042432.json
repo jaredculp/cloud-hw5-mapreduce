@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jun 20 21:24:03 +0000 2012",
+  "id": 215555636577042432,
+  "id_str": "215555636577042432",
+  "text": "Am I the only one, upon seeing #Darden for the first time ('02), felt a sense of doom? MBA geniuses wrecking #UVa.  http://t.co/UEtcgePn",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 33815696,
+    "id_str": "33815696",
+    "name": "nicholas fiore",
+    "screen_name": "fioreous",
+    "location": "Boulder, Colorado",
+    "description": "insert clever motto",
+    "url": "http://www.fiorebw.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.fiorebw.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 75,
+    "friends_count": 69,
+    "listed_count": 7,
+    "created_at": "Tue Apr 21 04:47:07 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1143,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2C2326",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/766710715/2a42005ec9a59d0a20749a8c9551d498.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/766710715/2a42005ec9a59d0a20749a8c9551d498.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/260442066/member_5580298-1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/260442066/member_5580298-1_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/33815696/1349674373",
+    "profile_link_color": "8795A2",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "121D24",
+    "profile_text_color": "6C7F87",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Darden",
+        "indices": [
+          31,
+          38
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          109,
+          113
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UEtcgePn",
+        "expanded_url": "http://wapo.st/MEqPmx",
+        "display_url": "wapo.st/MEqPmx",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

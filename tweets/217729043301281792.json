@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 21:20:23 +0000 2012",
+  "id": 217729043301281792,
+  "id_str": "217729043301281792",
+  "text": "for any of you following the UVA situation: RT @chronicle Teresa Sullivan is reinstated at #UVa: http://t.co/7rsl6aOv",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 584201205,
+    "id_str": "584201205",
+    "name": "Duke Music Library",
+    "screen_name": "DukeMusicLib",
+    "location": "Durham, NC",
+    "description": "The Duke Music Library is located in the Mary Duke Biddle Building on Duke's East Campus. Come visit our newly renovated space!",
+    "url": "http://library.duke.edu/music/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://library.duke.edu/music/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 65,
+    "friends_count": 62,
+    "listed_count": 6,
+    "created_at": "Fri May 18 20:10:14 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 130,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F2EEEF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/555462625/x27f6549a2afc31afd5bd5280b16d1d9.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/555462625/x27f6549a2afc31afd5bd5280b16d1d9.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2229944772/biddle_front_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2229944772/biddle_front_normal.jpg",
+    "profile_link_color": "7B8894",
+    "profile_sidebar_border_color": "8BA7C4",
+    "profile_sidebar_fill_color": "FAFAFA",
+    "profile_text_color": "8F2E2E",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/7rsl6aOv",
+        "expanded_url": "http://chroni.cl/QdqIiN",
+        "display_url": "chroni.cl/QdqIiN",
+        "indices": [
+          97,
+          117
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          47,
+          57
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

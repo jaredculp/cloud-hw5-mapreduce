@@ -1,0 +1,110 @@
+{
+  "created_at": "Thu Jun 21 00:36:08 +0000 2012",
+  "id": 215603974936608770,
+  "id_str": "215603974936608770",
+  "text": "#uva Breaking up is hard to do http://t.co/kv8BOuNL",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15119514,
+    "id_str": "15119514",
+    "name": "jim hayes",
+    "screen_name": "e_j_hayes",
+    "location": "",
+    "description": "GLAM wiki; Split this Rock volunteer\r\nupdating and retweeting, occasionally --\r\npics from paige dansinger http://t.co/9rGvJ2CO; NARA http://t.co/nlX4MPcT",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/9rGvJ2CO",
+            "expanded_url": "http://www.museumpaige.com/",
+            "display_url": "museumpaige.com",
+            "indices": [
+              106,
+              126
+            ]
+          },
+          {
+            "url": "http://t.co/nlX4MPcT",
+            "expanded_url": "http://www.archives.gov/social-media/twitter.html",
+            "display_url": "archives.gov/social-media/t…",
+            "indices": [
+              133,
+              153
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 43,
+    "friends_count": 69,
+    "listed_count": 4,
+    "created_at": "Sat Jun 14 20:17:29 +0000 2008",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1303,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/423962922/90px-Glenkiln-cross.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/423962922/90px-Glenkiln-cross.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3152609668/1b66dbcfb23baba145233797ea8e286d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3152609668/1b66dbcfb23baba145233797ea8e286d_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/15119514/1358870961",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/kv8BOuNL",
+        "expanded_url": "http://chronicle.com/article/Breaking-Up-Is-Hard-to-Do/125380/",
+        "display_url": "chronicle.com/article/Breaki…",
+        "indices": [
+          31,
+          51
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

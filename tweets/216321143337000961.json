@@ -1,0 +1,111 @@
+{
+  "created_at": "Sat Jun 23 00:05:54 +0000 2012",
+  "id": 216321143337000961,
+  "id_str": "216321143337000961",
+  "text": "Wow! Latest developments at #UVA. What a mess. #fb http://t.co/I4OSiON5",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Safari on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1175951,
+    "id_str": "1175951",
+    "name": "Leslie Jump",
+    "screen_name": "lajump",
+    "location": "Washington, DC",
+    "description": "Twenty-five years experience building, advising and investing in new companies, products and brands, in the US and across the globe. ",
+    "url": "http://www.sawariventures.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.sawariventures.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1266,
+    "friends_count": 1354,
+    "listed_count": 30,
+    "created_at": "Wed Mar 14 19:23:06 +0000 2007",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3549,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/35406329/Luxor.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/35406329/Luxor.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3016179973/027f87aef7203742919234581a30cdb5_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3016179973/027f87aef7203742919234581a30cdb5_normal.jpeg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          28,
+          32
+        ]
+      },
+      {
+        "text": "fb",
+        "indices": [
+          47,
+          50
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/I4OSiON5",
+        "expanded_url": "http://www.washingtonpost.com/local/dc-politics/u-va-dean-tapped-for-interim-president-suspends-discussions-about-new-job/2012/06/22/gJQAniQ0uV_story.html",
+        "display_url": "washingtonpost.com/local/dc-polit…",
+        "indices": [
+          51,
+          71
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

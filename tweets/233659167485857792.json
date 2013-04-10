@@ -1,0 +1,106 @@
+{
+  "created_at": "Thu Aug 09 20:21:01 +0000 2012",
+  "id": 233659167485857792,
+  "id_str": "233659167485857792",
+  "text": "Look Hoo's about to come on. It's @beckysauerbrunn! #UVA #USWNT #USAvJPN",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 53439382,
+    "id_str": "53439382",
+    "name": "One Part Sun God",
+    "screen_name": "GMTarkin",
+    "location": "NoVA",
+    "description": "USN, UVA, W&M Law\r\n#PiKA",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 65,
+    "friends_count": 108,
+    "listed_count": 1,
+    "created_at": "Fri Jul 03 17:09:43 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2389,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/234600979/University_of_Virginia_Rotunda_2006_2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/234600979/University_of_Virginia_Rotunda_2006_2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1316010039/virginia-sabres-color_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1316010039/virginia-sabres-color_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          52,
+          56
+        ]
+      },
+      {
+        "text": "USWNT",
+        "indices": [
+          57,
+          63
+        ]
+      },
+      {
+        "text": "USAvJPN",
+        "indices": [
+          64,
+          72
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "beckysauerbrunn",
+        "name": "Becky Sauerbrunn",
+        "id": 272604633,
+        "id_str": "272604633",
+        "indices": [
+          34,
+          50
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

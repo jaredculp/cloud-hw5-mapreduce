@@ -1,0 +1,121 @@
+{
+  "created_at": "Thu Jun 21 13:08:27 +0000 2012",
+  "id": 215793302178500608,
+  "id_str": "215793302178500608",
+  "text": "Excellent indeed! RT @adelinekoh: Excellent summary of the mess at #UVa via @nowviskie and @cathyndavidson  http://t.co/FxnivqJM",
+  "source": "<a href=\"http://www.handmark.com\" rel=\"nofollow\">TweetCaster for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 461709489,
+    "id_str": "461709489",
+    "name": "M.M. González",
+    "screen_name": "MelMarGon",
+    "location": "NC",
+    "description": "Asst. Prof. working in queer theory, gender and sexuality studies, Latin American, and U.S. Latina/o studies.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 142,
+    "friends_count": 350,
+    "listed_count": 2,
+    "created_at": "Thu Jan 12 03:11:35 +0000 2012",
+    "favourites_count": 35,
+    "utc_offset": 7200,
+    "time_zone": "Athens",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 822,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1757316066/mel_blu_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1757316066/mel_blu_normal.png",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/FxnivqJM",
+        "expanded_url": "http://prospect.org/article/corporatization-uva#.T-KBwN-kank.facebook",
+        "display_url": "prospect.org/article/corpor…",
+        "indices": [
+          108,
+          128
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "adelinekoh",
+        "name": "Adeline Koh",
+        "id": 10116502,
+        "id_str": "10116502",
+        "indices": [
+          21,
+          32
+        ]
+      },
+      {
+        "screen_name": "nowviskie",
+        "name": "Bethany Nowviskie",
+        "id": 14221013,
+        "id_str": "14221013",
+        "indices": [
+          76,
+          86
+        ]
+      },
+      {
+        "screen_name": "CathyNDavidson",
+        "name": "Cathy Davidson",
+        "id": 15480206,
+        "id_str": "15480206",
+        "indices": [
+          91,
+          106
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,106 @@
+{
+  "created_at": "Wed Jun 27 21:27:35 +0000 2012",
+  "id": 218093239939502082,
+  "id_str": "218093239939502082",
+  "text": "@badralbanna ha ha. The lyrics really do take on new meaning when applied to #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 218091713783275521,
+  "in_reply_to_status_id_str": "218091713783275521",
+  "in_reply_to_user_id": 18582844,
+  "in_reply_to_user_id_str": "18582844",
+  "in_reply_to_screen_name": "badralbanna",
+  "user": {
+    "id": 104790653,
+    "id_str": "104790653",
+    "name": "William Youmans",
+    "screen_name": "wyoumans",
+    "location": "Here.",
+    "description": "@SMPAGWU asst' prof. Interests: Middle East, global news media, media law, journalism, international relations, sports.",
+    "url": "http://t.co/4GNtEu2w",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/4GNtEu2w",
+            "expanded_url": "http://www.williamlafiyoumans.com/",
+            "display_url": "williamlafiyoumans.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1640,
+    "friends_count": 943,
+    "listed_count": 98,
+    "created_at": "Thu Jan 14 11:59:25 +0000 2010",
+    "favourites_count": 816,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6918,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/66638134/twitterbackground.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/66638134/twitterbackground.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3090614261/9fc2c9ca7c6bd8627097fd182466b6e4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3090614261/9fc2c9ca7c6bd8627097fd182466b6e4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/104790653/1356882263",
+    "profile_link_color": "C26625",
+    "profile_sidebar_border_color": "F5EB5D",
+    "profile_sidebar_fill_color": "EAF2A4",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          77,
+          81
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "badralbanna",
+        "name": "Badr Albanna",
+        "id": 18582844,
+        "id_str": "18582844",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

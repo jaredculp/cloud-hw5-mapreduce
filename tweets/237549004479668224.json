@@ -1,0 +1,128 @@
+{
+  "created_at": "Mon Aug 20 13:57:50 +0000 2012",
+  "id": 237549004479668224,
+  "id_str": "237549004479668224",
+  "text": "Aankomende studenten #HvA en #UvA? Leer je nieuwe stad kennen met deze wandeling van @soundtrackcity. http://t.co/yZe2oLYz #citysound",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 237548494527803393,
+  "in_reply_to_status_id_str": "237548494527803393",
+  "in_reply_to_user_id": 74120463,
+  "in_reply_to_user_id_str": "74120463",
+  "in_reply_to_screen_name": "soundtrackcity",
+  "user": {
+    "id": 8847692,
+    "id_str": "8847692",
+    "name": "theo ploeg",
+    "screen_name": "theoploeg",
+    "location": "Haarlem | Heerlen, Nederland",
+    "description": "doin' stuff @ frnkfrt | ZuiderLucht | Gonzo (circus) . lecturer @ HvA CMD | iArts . vega . Fortuna Sittard . popjunkie . toekomstig Opel Mantarijder .",
+    "url": "http://theoploeg.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://theoploeg.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4730,
+    "friends_count": 3529,
+    "listed_count": 199,
+    "created_at": "Thu Sep 13 05:07:36 +0000 2007",
+    "favourites_count": 220,
+    "utc_offset": 3600,
+    "time_zone": "Berlin",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 22864,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/49707734/robinjonsson1440.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/49707734/robinjonsson1440.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2195949512/theoploeg_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2195949512/theoploeg_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/8847692/1351063073",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 6,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HvA",
+        "indices": [
+          21,
+          25
+        ]
+      },
+      {
+        "text": "UvA",
+        "indices": [
+          29,
+          33
+        ]
+      },
+      {
+        "text": "citysound",
+        "indices": [
+          123,
+          133
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/yZe2oLYz",
+        "expanded_url": "http://www.soundtrackcity.nl/amsterdam/wandelingen/langs-de-amstel/",
+        "display_url": "soundtrackcity.nl/amsterdam/wand…",
+        "indices": [
+          102,
+          122
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "soundtrackcity",
+        "name": "Soundtrackcity",
+        "id": 74120463,
+        "id_str": "74120463",
+        "indices": [
+          85,
+          100
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

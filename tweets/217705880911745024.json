@@ -1,0 +1,157 @@
+{
+  "created_at": "Tue Jun 26 19:48:21 +0000 2012",
+  "id": 217705880911745024,
+  "id_str": "217705880911745024",
+  "text": "RT @JHooe44 #UVA BOV votes unanimously to reinstate President #Sullivan.  WAHOOWA.",
+  "source": "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 145327840,
+    "id_str": "145327840",
+    "name": "Christian Withers",
+    "screen_name": "CLWithers12",
+    "location": "",
+    "description": "Dios Liberdad Patria.\r\n\r\nWhat are you living for? ",
+    "url": "http://www.facebook.com/profile.php?id=724986721",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/profile.php?id=724986721",
+            "expanded_url": null,
+            "indices": [
+              0,
+              48
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 519,
+    "friends_count": 487,
+    "listed_count": 2,
+    "created_at": "Tue May 18 18:00:53 +0000 2010",
+    "favourites_count": 386,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 16108,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/734123803/1c4a5aeb87e88b9d39d26ce3b44abb29.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/734123803/1c4a5aeb87e88b9d39d26ce3b44abb29.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3194009735/6a3cc10193b6ffb90169f2aa5b2d0623_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3194009735/6a3cc10193b6ffb90169f2aa5b2d0623_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/145327840/1358312172",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.6721326,
+      -77.2428413
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.2428413,
+      38.6721326
+    ]
+  },
+  "place": {
+    "id": "d8f14abf395b94be",
+    "url": "https://api.twitter.com/1.1/geo/id/d8f14abf395b94be.json",
+    "place_type": "city",
+    "name": "Lorton",
+    "full_name": "Lorton, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.282049,
+            38.666862
+          ],
+          [
+            -77.192951,
+            38.666862
+          ],
+          [
+            -77.192951,
+            38.733714
+          ],
+          [
+            -77.282049,
+            38.733714
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          12,
+          16
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          62,
+          71
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JHooe44",
+        "name": "Jonathan Hooe",
+        "id": 51901116,
+        "id_str": "51901116",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

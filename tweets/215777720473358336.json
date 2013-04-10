@@ -1,0 +1,99 @@
+{
+  "created_at": "Thu Jun 21 12:06:32 +0000 2012",
+  "id": 215777720473358336,
+  "id_str": "215777720473358336",
+  "text": "@tracyclemons Also, silent vigil last night with about 100 people supporting #Sullivan, turning backs on #UVA Rotunda in protest.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215776188289925120,
+  "in_reply_to_status_id_str": "215776188289925120",
+  "in_reply_to_user_id": 62850364,
+  "in_reply_to_user_id_str": "62850364",
+  "in_reply_to_screen_name": "tracyclemons",
+  "user": {
+    "id": 51099026,
+    "id_str": "51099026",
+    "name": "Dannika Lewis",
+    "screen_name": "DannikaLewis",
+    "location": "Madison, WI",
+    "description": "I'm a reporter for WISC-TV in Madison, and brand new to the midwest.  Shoot me story ideas or just chat about Madison news!  Retweets are not endorsements.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 660,
+    "friends_count": 679,
+    "listed_count": 35,
+    "created_at": "Fri Jun 26 15:26:52 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1706,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1170809763/Bio_Pic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1170809763/Bio_Pic_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          77,
+          86
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          105,
+          109
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "tracyclemons",
+        "name": "Tracy Clemons",
+        "id": 62850364,
+        "id_str": "62850364",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

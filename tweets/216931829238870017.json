@@ -1,0 +1,150 @@
+{
+  "created_at": "Sun Jun 24 16:32:33 +0000 2012",
+  "id": 216931829238870017,
+  "id_str": "216931829238870017",
+  "text": "Reading @Slate @jdickerson: How The @NewYorker's Atul Gawande Caused the Debacle at #UVA - http://t.co/HTs0Fq1Q More: http://t.co/VSv6tZPs",
+  "source": "<a href=\"http://www.sharedby.co\" rel=\"nofollow\">SharedBy</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 10400902,
+    "id_str": "10400902",
+    "name": "cdorobek",
+    "screen_name": "cdorobek",
+    "location": "iPhone: 38.928215,-77.055840",
+    "description": "Founder, publisher and editor of the GovLoop's http://t.co/VQp0XW6j (@DorobekINSIDER) - covering the biz of government",
+    "url": "http://www.DorobekInsider.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.DorobekInsider.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/VQp0XW6j",
+            "expanded_url": "http://DorobekINSIDER.com",
+            "display_url": "DorobekINSIDER.com",
+            "indices": [
+              47,
+              67
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5158,
+    "friends_count": 5376,
+    "listed_count": 386,
+    "created_at": "Tue Nov 20 02:52:05 +0000 2007",
+    "favourites_count": 310,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 29368,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/157589997/twilk_background_4ca9da50c9694.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/157589997/twilk_background_4ca9da50c9694.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2684306171/2d972f6bac0d29ab5a252a9c3f9ea2aa_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2684306171/2d972f6bac0d29ab5a252a9c3f9ea2aa_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          84,
+          88
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/HTs0Fq1Q",
+        "expanded_url": "http://vsb.li/LSXceA",
+        "display_url": "vsb.li/LSXceA",
+        "indices": [
+          91,
+          111
+        ]
+      },
+      {
+        "url": "http://t.co/VSv6tZPs",
+        "expanded_url": "http://vsb.li/9fjgAy",
+        "display_url": "vsb.li/9fjgAy",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Slate",
+        "name": "Slate",
+        "id": 15164565,
+        "id_str": "15164565",
+        "indices": [
+          8,
+          14
+        ]
+      },
+      {
+        "screen_name": "jdickerson",
+        "name": "John Dickerson",
+        "id": 4119741,
+        "id_str": "4119741",
+        "indices": [
+          15,
+          26
+        ]
+      },
+      {
+        "screen_name": "NewYorker",
+        "name": "The New Yorker",
+        "id": 14677919,
+        "id_str": "14677919",
+        "indices": [
+          36,
+          46
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

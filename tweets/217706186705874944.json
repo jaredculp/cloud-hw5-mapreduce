@@ -1,0 +1,108 @@
+{
+  "created_at": "Tue Jun 26 19:49:34 +0000 2012",
+  "id": 217706186705874944,
+  "id_str": "217706186705874944",
+  "text": "details from @AP on U of #Virginia board reinstating ousted president after outcry from faculty, donors, students http://t.co/UOVFehYl #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 80917722,
+    "id_str": "80917722",
+    "name": "David Crary",
+    "screen_name": "CraryAP",
+    "location": "New York City",
+    "description": "New York-based reporter with The Associated Press, covering national social issues. Past postings include Nairobi, Johannesburg, Paris, Sarajevo, Toronto. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2655,
+    "friends_count": 933,
+    "listed_count": 161,
+    "created_at": "Thu Oct 08 19:04:19 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5437,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/989028552/DAVID_CRARY_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/989028552/DAVID_CRARY_2_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Virginia",
+        "indices": [
+          25,
+          34
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UOVFehYl",
+        "expanded_url": "http://abcn.ws/LpPvvs",
+        "display_url": "abcn.ws/LpPvvs",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AP",
+        "name": "The Associated Press",
+        "id": 51241574,
+        "id_str": "51241574",
+        "indices": [
+          13,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

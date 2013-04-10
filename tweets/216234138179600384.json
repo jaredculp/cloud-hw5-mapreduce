@@ -1,0 +1,108 @@
+{
+  "created_at": "Fri Jun 22 18:20:10 +0000 2012",
+  "id": 216234138179600384,
+  "id_str": "216234138179600384",
+  "text": "Way to go 'Hoos! #HoosForSullivan MT @UVa_Alumni\nPrintout of the nearly 5500 alumni comments going to BOV today #UVA http://t.co/UkbIMQL3",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 252169141,
+    "id_str": "252169141",
+    "name": "Shawn Brydge",
+    "screen_name": "sbrydge",
+    "location": "Cville",
+    "description": "University of Virginia - Financial Economics '00, Cavaliers Against Cancer, Chi Psi Lodge, WaHooWa",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 82,
+    "friends_count": 281,
+    "listed_count": 2,
+    "created_at": "Mon Feb 14 16:49:07 +0000 2011",
+    "favourites_count": 14,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 703,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/378253963/IMG_5035_edit.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/378253963/IMG_5035_edit.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2539162222/ypkhbkxzp6752fi1pb8k_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2539162222/ypkhbkxzp6752fi1pb8k_normal.jpeg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HoosForSullivan",
+        "indices": [
+          17,
+          33
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          112,
+          116
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UkbIMQL3",
+        "expanded_url": "http://ow.ly/i/IsYg",
+        "display_url": "ow.ly/i/IsYg",
+        "indices": [
+          117,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          37,
+          48
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

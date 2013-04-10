@@ -1,0 +1,101 @@
+{
+  "created_at": "Thu Jun 21 01:44:21 +0000 2012",
+  "id": 215621145934827520,
+  "id_str": "215621145934827520",
+  "text": "@katiecouric If you want to understand, listen to this from #UVA prof:\nhttp://t.co/oip2c4Px",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215569785201754113,
+  "in_reply_to_status_id_str": "215569785201754113",
+  "in_reply_to_user_id": 18812301,
+  "in_reply_to_user_id_str": "18812301",
+  "in_reply_to_screen_name": "katiecouric",
+  "user": {
+    "id": 376450820,
+    "id_str": "376450820",
+    "name": "Gretchen McKay",
+    "screen_name": "GretchenMcKay1",
+    "location": "Westminster, MD",
+    "description": "Art History Prof@McDaniel College, Steeler Fan, Book Lover, etc.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 79,
+    "friends_count": 193,
+    "listed_count": 3,
+    "created_at": "Mon Sep 19 22:26:50 +0000 2011",
+    "favourites_count": 194,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1715,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/536882428/6a00d834524b3169e200e55201a1fd8833-800wi.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/536882428/6a00d834524b3169e200e55201a1fd8833-800wi.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1550756462/GKM_Short_Pump_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1550756462/GKM_Short_Pump_normal.jpg",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          60,
+          64
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/oip2c4Px",
+        "expanded_url": "http://www.wina.com/play_window.php?audioType=Episode&audioId=5906176",
+        "display_url": "wina.com/play_window.ph…",
+        "indices": [
+          71,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

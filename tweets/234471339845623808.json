@@ -1,0 +1,84 @@
+{
+  "created_at": "Sun Aug 12 02:08:18 +0000 2012",
+  "id": 234471339845623808,
+  "id_str": "234471339845623808",
+  "text": "10 days until #UVa.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 451603758,
+    "id_str": "451603758",
+    "name": "Sam Patterson",
+    "screen_name": "samzpatterson",
+    "location": "University of Virginia",
+    "description": "The cure for anything is saltwater - sweat, tears, or the sea.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 154,
+    "friends_count": 151,
+    "listed_count": 0,
+    "created_at": "Sat Dec 31 18:59:56 +0000 2011",
+    "favourites_count": 237,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1542,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2908526008/7ec055c0b83829f84ecfc74a2b5961d5_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2908526008/7ec055c0b83829f84ecfc74a2b5961d5_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/451603758/1353118756",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          14,
+          18
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

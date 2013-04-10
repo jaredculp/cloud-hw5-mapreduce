@@ -1,0 +1,111 @@
+{
+  "created_at": "Fri Jun 29 09:35:09 +0000 2012",
+  "id": 218638729231863810,
+  "id_str": "218638729231863810",
+  "text": "42 Prácticas Externas en #Empresa #UVa http://t.co/DvW5oWgk las últimas de este curso 2011-12",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 255943783,
+    "id_str": "255943783",
+    "name": "Empresa y Empleo UVa",
+    "screen_name": "UVaEmpresa",
+    "location": "Valladolid, España",
+    "description": "Dependiente del Vicerrectorado de Estudiantes, busca favorecer y fomentar la colaboración de la UVa con las empresas e instituciones públicas de su entorno.\r\n",
+    "url": "http://www.empresayempleo.uva.es/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.empresayempleo.uva.es/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2150,
+    "friends_count": 392,
+    "listed_count": 43,
+    "created_at": "Tue Feb 22 10:18:48 +0000 2011",
+    "favourites_count": 4,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1607,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DBE9ED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/331189247/LOGOS_UVA_GRANDE_bien.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/331189247/LOGOS_UVA_GRANDE_bien.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1512582021/logo_cubo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1512582021/logo_cubo_normal.jpg",
+    "profile_link_color": "CC3366",
+    "profile_sidebar_border_color": "DBE9ED",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Empresa",
+        "indices": [
+          25,
+          33
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/DvW5oWgk",
+        "expanded_url": "http://www.empresayempleo.uva.es/",
+        "display_url": "empresayempleo.uva.es",
+        "indices": [
+          39,
+          59
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

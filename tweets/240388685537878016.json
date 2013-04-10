@@ -1,0 +1,153 @@
+{
+  "created_at": "Tue Aug 28 10:01:44 +0000 2012",
+  "id": 240388685537878016,
+  "id_str": "240388685537878016",
+  "text": "@Lottifrizzante #senzaocchi #mecagoendios #fineserata #uva http://t.co/hlGj9ysW",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 488427457,
+  "in_reply_to_user_id_str": "488427457",
+  "in_reply_to_screen_name": "Lottifrizzante",
+  "user": {
+    "id": 636454188,
+    "id_str": "636454188",
+    "name": "Fabrizio Pivi",
+    "screen_name": "Pivel8",
+    "location": "Vigevano",
+    "description": "Vivo a Vigevano studio chimica. Gioco a basket, leggo libri e guardo film. Fondamentalmente me la godo",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 53,
+    "friends_count": 221,
+    "listed_count": 0,
+    "created_at": "Sun Jul 15 18:48:20 +0000 2012",
+    "favourites_count": 357,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1519,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/616611181/5z7gpgs909vklyl4q62t.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/616611181/5z7gpgs909vklyl4q62t.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2706641933/654d5c618c42f632edc173e5f65828c3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2706641933/654d5c618c42f632edc173e5f65828c3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/636454188/1351057032",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "senzaocchi",
+        "indices": [
+          16,
+          27
+        ]
+      },
+      {
+        "text": "mecagoendios",
+        "indices": [
+          28,
+          41
+        ]
+      },
+      {
+        "text": "fineserata",
+        "indices": [
+          42,
+          53
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          54,
+          58
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Lottifrizzante",
+        "name": "alberto giorgis",
+        "id": 488427457,
+        "id_str": "488427457",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 240388685542072321,
+        "id_str": "240388685542072321",
+        "indices": [
+          59,
+          79
+        ],
+        "media_url": "http://pbs.twimg.com/media/A1YIPGHCIAElQJS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A1YIPGHCIAElQJS.jpg",
+        "url": "http://t.co/hlGj9ysW",
+        "display_url": "pic.twitter.com/hlGj9ysW",
+        "expanded_url": "http://twitter.com/Pivel8/status/240388685537878016/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 453,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 768,
+            "h": 1024,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

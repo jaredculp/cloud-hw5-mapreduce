@@ -1,0 +1,92 @@
+{
+  "created_at": "Fri Jun 22 21:38:25 +0000 2012",
+  "id": 216284027336916993,
+  "id_str": "216284027336916993",
+  "text": "@BobMcDonnell doesn't mention: one \"well-meaning\" side outnumbers the other many tens of thousands to 12. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 14738157,
+  "in_reply_to_user_id_str": "14738157",
+  "in_reply_to_screen_name": "BobMcDonnell",
+  "user": {
+    "id": 525120255,
+    "id_str": "525120255",
+    "name": "John Laycock",
+    "screen_name": "jpl486",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 28,
+    "friends_count": 36,
+    "listed_count": 0,
+    "created_at": "Thu Mar 15 07:09:52 +0000 2012",
+    "favourites_count": 13,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 476,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1915773606/coffee_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1915773606/coffee_normal",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          106,
+          110
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

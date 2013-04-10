@@ -1,0 +1,101 @@
+{
+  "created_at": "Tue Jun 19 16:16:19 +0000 2012",
+  "id": 215115804595855360,
+  "id_str": "215115804595855360",
+  "text": "Here are http://t.co/dUA6FInl a few thoughts on whether we trust anyone anymore. Articles include @DavidBrooksNYT &amp; UVA's #Sullivan.",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 65114133,
+    "id_str": "65114133",
+    "name": "Jeff Carlson",
+    "screen_name": "eastcoastidaho",
+    "location": "Lancaster, PA",
+    "description": "Idaho raised, Hoya trained, NYC DOE taught, F&M now.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 284,
+    "friends_count": 330,
+    "listed_count": 4,
+    "created_at": "Wed Aug 12 18:23:46 +0000 2009",
+    "favourites_count": 39,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1561,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "020708",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/109766161/xf1066223cc4747dc9451ed6e084e914.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/109766161/xf1066223cc4747dc9451ed6e084e914.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/969806221/Profile_pic_6.7.10_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/969806221/Profile_pic_6.7.10_normal.jpg",
+    "profile_link_color": "0026FF",
+    "profile_sidebar_border_color": "D86410",
+    "profile_sidebar_fill_color": "F8F8F8",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          126,
+          135
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dUA6FInl",
+        "expanded_url": "http://ow.ly/bGkwd",
+        "display_url": "ow.ly/bGkwd",
+        "indices": [
+          9,
+          29
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DavidBrooksNYT",
+        "name": "David Brooks",
+        "id": 342672909,
+        "id_str": "342672909",
+        "indices": [
+          98,
+          113
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

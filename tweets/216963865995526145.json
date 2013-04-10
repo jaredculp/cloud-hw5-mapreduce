@@ -1,0 +1,92 @@
+{
+  "created_at": "Sun Jun 24 18:39:51 +0000 2012",
+  "id": 216963865995526145,
+  "id_str": "216963865995526145",
+  "text": "\"what color are the red sox\" asks @audreygoldman. #uva?????",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 64316376,
+    "id_str": "64316376",
+    "name": "Dan Siegel",
+    "screen_name": "dpsiegel",
+    "location": "Boston, MA",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 113,
+    "friends_count": 102,
+    "listed_count": 0,
+    "created_at": "Mon Aug 10 02:28:45 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 63,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/28546616/BenHillGriffinStadium01.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/28546616/BenHillGriffinStadium01.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1800556178/twitpic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1800556178/twitpic_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          50,
+          54
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "audreygoldman",
+        "name": "Audrey Goldman",
+        "id": 112586843,
+        "id_str": "112586843",
+        "indices": [
+          34,
+          48
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

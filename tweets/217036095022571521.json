@@ -1,0 +1,156 @@
+{
+  "created_at": "Sun Jun 24 23:26:52 +0000 2012",
+  "id": 217036095022571521,
+  "id_str": "217036095022571521",
+  "text": "#UVA rally for honor, standing for #Sullivan, defying #BOV. #proud alum http://t.co/sORyTHH9",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 377021039,
+    "id_str": "377021039",
+    "name": "Rimwe",
+    "screen_name": "RimweLLC",
+    "location": "",
+    "description": "Educational Resources company specializing in STEM fields, particularly mathematics.  E-tutoring & consulting, professional development, in-service for teachers",
+    "url": "http://www.rimwe.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.rimwe.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 213,
+    "friends_count": 630,
+    "listed_count": 5,
+    "created_at": "Tue Sep 20 21:53:06 +0000 2011",
+    "favourites_count": 333,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2291,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2655147956/4a4c54f85c4f4f3b809de50a33f6d956_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2655147956/4a4c54f85c4f4f3b809de50a33f6d956_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/377021039/1348698813",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          35,
+          44
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          54,
+          58
+        ]
+      },
+      {
+        "text": "proud",
+        "indices": [
+          60,
+          66
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 217036095026765825,
+        "id_str": "217036095026765825",
+        "indices": [
+          72,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwMRLbOCIAE4FpO.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwMRLbOCIAE4FpO.jpg",
+        "url": "http://t.co/sORyTHH9",
+        "display_url": "pic.twitter.com/sORyTHH9",
+        "expanded_url": "http://twitter.com/RimweLLC/status/217036095022571521/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 338,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 191,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 720,
+            "h": 405,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

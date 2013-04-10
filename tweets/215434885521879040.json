@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 13:24:13 +0000 2012",
+  "id": 215434885521879040,
+  "id_str": "215434885521879040",
+  "text": "Jittery board? mT @insidehighered: The E-Mail Trail UVa: board leaders wanted major push into online education: http://t.co/AjIuWTQq #UVa",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19450071,
+    "id_str": "19450071",
+    "name": "Frédéric Bouchard",
+    "screen_name": "fbouchard",
+    "location": "",
+    "description": "prof Philosophy of Science (biology) Université de Montréal",
+    "url": "http://www.fredericbouchard.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.fredericbouchard.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 212,
+    "friends_count": 253,
+    "listed_count": 8,
+    "created_at": "Sat Jan 24 15:31:40 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1410,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1359864005/fbouchard100_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1359864005/fbouchard100_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          133,
+          137
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/AjIuWTQq",
+        "expanded_url": "http://bit.ly/MELQh6",
+        "display_url": "bit.ly/MELQh6",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "insidehighered",
+        "name": "Inside Higher Ed",
+        "id": 16045268,
+        "id_str": "16045268",
+        "indices": [
+          18,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

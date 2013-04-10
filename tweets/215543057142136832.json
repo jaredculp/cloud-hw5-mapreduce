@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 20:34:04 +0000 2012",
+  "id": 215543057142136832,
+  "id_str": "215543057142136832",
+  "text": "Brilliant! RT @kjhealy The BoV Declaration of Independence: http://t.co/Da0EvwFg #UVa",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21762800,
+    "id_str": "21762800",
+    "name": "Mike Cosgrave",
+    "screen_name": "mikecosgrave",
+    "location": "Cork, Ireland",
+    "description": "Digital History/Humanities, gamer, geek, teaching in Cork, Ireland, occ surfer, pipesmoker, drinks single malt, old fashioned Liberal",
+    "url": "http://www.mikecosgrave.com/blog2006/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mikecosgrave.com/blog2006/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 400,
+    "friends_count": 335,
+    "listed_count": 34,
+    "created_at": "Tue Feb 24 15:28:25 +0000 2009",
+    "favourites_count": 1244,
+    "utc_offset": 0,
+    "time_zone": "Dublin",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1817,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2702684233/6efcffafc7fa92c648b66f1910cea6c2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2702684233/6efcffafc7fa92c648b66f1910cea6c2_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          81,
+          85
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Da0EvwFg",
+        "expanded_url": "http://kieranhealy.org/blog/archives/2012/06/20/the-declaration-of-independence/",
+        "display_url": "kieranhealy.org/blog/archives/…",
+        "indices": [
+          60,
+          80
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kjhealy",
+        "name": "Kieran Healy",
+        "id": 782325,
+        "id_str": "782325",
+        "indices": [
+          14,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

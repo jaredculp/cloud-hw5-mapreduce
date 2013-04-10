@@ -1,0 +1,111 @@
+{
+  "created_at": "Sun Jun 24 18:15:38 +0000 2012",
+  "id": 216957771537580033,
+  "id_str": "216957771537580033",
+  "text": "@katiecouric @washingtonpost http://t.co/QQclT02m The #Rally4Honor is on Katie!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215913350268338177,
+  "in_reply_to_status_id_str": "215913350268338177",
+  "in_reply_to_user_id": 18812301,
+  "in_reply_to_user_id_str": "18812301",
+  "in_reply_to_screen_name": "katiecouric",
+  "user": {
+    "id": 42775953,
+    "id_str": "42775953",
+    "name": "makowrites",
+    "screen_name": "makowrites",
+    "location": "Middle-of-Nowhere",
+    "description": "Inspired by Ayn Rand, Gerhard Richter, Pet Shop Boys and Yoko Ono. Find me listening to Erasure or trance, wearing all black, sippin on coffee and writing.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 136,
+    "friends_count": 557,
+    "listed_count": 5,
+    "created_at": "Wed May 27 01:05:28 +0000 2009",
+    "favourites_count": 19,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 590,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/330964638/Richter_Abstract.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/330964638/Richter_Abstract.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2499257729/2bv2z569jufl1hevygye_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2499257729/2bv2z569jufl1hevygye_normal.jpeg",
+    "profile_link_color": "568BB3",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "AEB312",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Rally4Honor",
+        "indices": [
+          54,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/QQclT02m",
+        "expanded_url": "http://www.ustream.tv/channel/sunday-on-the-lawn",
+        "display_url": "ustream.tv/channel/sunday…",
+        "indices": [
+          29,
+          49
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          13,
+          28
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

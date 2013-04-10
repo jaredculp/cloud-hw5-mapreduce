@@ -1,0 +1,107 @@
+{
+  "created_at": "Mon Aug 13 16:37:47 +0000 2012",
+  "id": 235052539261882368,
+  "id_str": "235052539261882368",
+  "text": "@receso. #uva #wii #conelguapodejuan",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 23721366,
+  "in_reply_to_user_id_str": "23721366",
+  "in_reply_to_screen_name": "ReceSO",
+  "user": {
+    "id": 617790296,
+    "id_str": "617790296",
+    "name": "Marce Gonzalez",
+    "screen_name": "marcegg96",
+    "location": "",
+    "description": "The moment you want to quit is the moment when you need to keep pushing.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 278,
+    "friends_count": 151,
+    "listed_count": 0,
+    "created_at": "Mon Jun 25 05:06:53 +0000 2012",
+    "favourites_count": 125,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3120,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DBDAED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/759489601/9157165b175404acfa0de85a2f9d3839.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/759489601/9157165b175404acfa0de85a2f9d3839.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3214153793/0ece4a406f69c81a86c1fd59dcb6c890_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3214153793/0ece4a406f69c81a86c1fd59dcb6c890_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/617790296/1360214019",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          9,
+          13
+        ]
+      },
+      {
+        "text": "wii",
+        "indices": [
+          14,
+          18
+        ]
+      },
+      {
+        "text": "conelguapodejuan",
+        "indices": [
+          19,
+          36
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ReceSO",
+        "name": "Maurice Owen",
+        "id": 23721366,
+        "id_str": "23721366",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

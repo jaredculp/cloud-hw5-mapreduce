@@ -1,0 +1,165 @@
+{
+  "created_at": "Fri Aug 10 22:57:50 +0000 2012",
+  "id": 234061020006584320,
+  "id_str": "234061020006584320",
+  "text": "Going through photos from #UVa practice. Great shot of @CoachMikeLondon, @CoachSWach, and “Spike,” aka FB Trent Corney. http://t.co/jr6gD5PZ",
+  "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 287150318,
+    "id_str": "287150318",
+    "name": "Brad Franklin",
+    "screen_name": "Cavs_Corner",
+    "location": "Virginia",
+    "description": "Official Twitter feed of http://t.co/0lhSbopL, covering UVa sports and recruiting as part of the Rivals network.",
+    "url": "http://virginia.rivals.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://virginia.rivals.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/0lhSbopL",
+            "expanded_url": "http://CavsCorner.com",
+            "display_url": "CavsCorner.com",
+            "indices": [
+              25,
+              45
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1549,
+    "friends_count": 271,
+    "listed_count": 60,
+    "created_at": "Sun Apr 24 12:18:09 +0000 2011",
+    "favourites_count": 145,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9664,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FBFBFB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/528823890/twitter_background.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/528823890/twitter_background.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2147556465/C62F8F52-77AF-4E3B-B359-3DF251D4DA20_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2147556465/C62F8F52-77AF-4E3B-B359-3DF251D4DA20_normal",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/287150318/1359662519",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "c1d537c5b6204c98",
+    "url": "https://api.twitter.com/1.1/geo/id/c1d537c5b6204c98.json",
+    "place_type": "city",
+    "name": "Short Pump",
+    "full_name": "Short Pump, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.648022,
+            37.649546
+          ],
+          [
+            -77.599875,
+            37.649546
+          ],
+          [
+            -77.599875,
+            37.680347
+          ],
+          [
+            -77.648022,
+            37.680347
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          26,
+          30
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/jr6gD5PZ",
+        "expanded_url": "http://d.pr/i/nZrV",
+        "display_url": "d.pr/i/nZrV",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CoachMikeLondon",
+        "name": "Mike London",
+        "id": 175767720,
+        "id_str": "175767720",
+        "indices": [
+          55,
+          71
+        ]
+      },
+      {
+        "screen_name": "CoachSWach",
+        "name": "Scott Wachenheim",
+        "id": 726626412,
+        "id_str": "726626412",
+        "indices": [
+          73,
+          84
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

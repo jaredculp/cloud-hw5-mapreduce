@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 19 12:00:00 +0000 2012",
+  "id": 215051301225103361,
+  "id_str": "215051301225103361",
+  "text": "Hey @UVA have Theresa #sullivan come have coffee on us and talk with folks. I'm sure could arrange a great deal of encouraging things said.",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16085733,
+    "id_str": "16085733",
+    "name": "Para Coffee",
+    "screen_name": "paracoffee",
+    "location": "19 Elliewood Avenue, Cville",
+    "description": "Family-owned and operated coffee shop, right in the heart of UVa. Locally roasted coffee and delicious local baked good.",
+    "url": "http://t.co/iXw9XyHm",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/iXw9XyHm",
+            "expanded_url": "http://www.paracoffee.com",
+            "display_url": "paracoffee.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1429,
+    "friends_count": 469,
+    "listed_count": 50,
+    "created_at": "Mon Sep 01 18:10:13 +0000 2008",
+    "favourites_count": 17,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1203,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/37223335/paratwitter.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/37223335/paratwitter.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2392186144/wlls955ax4j7q6cds5pr_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2392186144/wlls955ax4j7q6cds5pr_normal.png",
+    "profile_link_color": "6AA0AD",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sullivan",
+        "indices": [
+          22,
+          31
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          4,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

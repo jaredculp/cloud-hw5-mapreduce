@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 26 19:43:15 +0000 2012",
+  "id": 217704597429567488,
+  "id_str": "217704597429567488",
+  "text": "It's interesting to be a spectator to this &amp; consider \"what would we do?\" #highered RT @UVA: #UVa roll call: SULLIVAN REINSTATED 15-0!",
+  "source": "<a href=\"http://www.twhirl.org\" rel=\"nofollow\">Seesmic twhirl</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18462708,
+    "id_str": "18462708",
+    "name": "Thom Atkinson",
+    "screen_name": "ThomAtHome",
+    "location": "Bloomington, IN",
+    "description": "Indiana University #socialmedia strategist + #highered pro + #geek culture critic. Opinions & experiences are my own. Your mileage may vary.",
+    "url": "http://www.iub.edu/connect/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.iub.edu/connect/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 710,
+    "friends_count": 269,
+    "listed_count": 83,
+    "created_at": "Mon Dec 29 23:04:51 +0000 2008",
+    "favourites_count": 565,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5170,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2705590610/3df8f22b6ce8a1e935024e438e80f442_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2705590610/3df8f22b6ce8a1e935024e438e80f442_normal.png",
+    "profile_link_color": "006699",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "highered",
+        "indices": [
+          78,
+          87
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          97,
+          101
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

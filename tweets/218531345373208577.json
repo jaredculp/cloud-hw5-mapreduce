@@ -1,0 +1,100 @@
+{
+  "created_at": "Fri Jun 29 02:28:27 +0000 2012",
+  "id": 218531345373208577,
+  "id_str": "218531345373208577",
+  "text": "waiting to see @mikescott get off the board #uva #wahoos",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 354991266,
+    "id_str": "354991266",
+    "name": "Jesse Roth",
+    "screen_name": "J_Roth95",
+    "location": "New Jersey",
+    "description": "Horace Mann Class of 2013. Committed to the University of Virginia. @EvoshieldCanes Baseball. @CresseyPerf Athlete. #Sneakerhead #VeloCity. Owner of Jandbkicks",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 443,
+    "friends_count": 486,
+    "listed_count": 2,
+    "created_at": "Sun Aug 14 17:00:56 +0000 2011",
+    "favourites_count": 1031,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4243,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/611659383/ln5vegkl7uh04j1rj9yk.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/611659383/ln5vegkl7uh04j1rj9yk.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3173154904/480fb033611c1d8d9de206c55ded46da_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3173154904/480fb033611c1d8d9de206c55ded46da_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/354991266/1359347944",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          44,
+          48
+        ]
+      },
+      {
+        "text": "wahoos",
+        "indices": [
+          49,
+          56
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          15,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

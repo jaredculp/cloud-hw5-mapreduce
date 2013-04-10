@@ -1,0 +1,123 @@
+{
+  "created_at": "Thu Jun 21 13:26:02 +0000 2012",
+  "id": 215797726988877825,
+  "id_str": "215797726988877825",
+  "text": "RT @ematalkhuman: From our own @steveoncrisis, when your leader admits to an ‘opaque’ process, there’s trouble. http://t.co/cXBddhKu #UVA...",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 32068534,
+    "id_str": "32068534",
+    "name": "Strata-Team",
+    "screen_name": "Strata_G",
+    "location": "Cincinnati, OH",
+    "description": "We combined w @EMAtalkhuman! What does that mean? One agency. Seven offices, 250 some-odd employees. Total marketing integration. Make the switch and join us!",
+    "url": "http://www.mower.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mower.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 841,
+    "friends_count": 629,
+    "listed_count": 33,
+    "created_at": "Thu Apr 16 18:32:26 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 489,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "537BC0",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/10434879/sg_07.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/10434879/sg_07.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2319840219/391idcvgjiv50sgxe5lo_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2319840219/391idcvgjiv50sgxe5lo_normal.jpeg",
+    "profile_link_color": "A98142",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C1D952",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          133,
+          137
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/cXBddhKu",
+        "expanded_url": "http://bit.ly/Nin0oc",
+        "display_url": "bit.ly/Nin0oc",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "EMAtalkhuman",
+        "name": "Eric Mower + Assoc",
+        "id": 236886394,
+        "id_str": "236886394",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "steveoncrisis",
+        "name": "Steve Bell",
+        "id": 15767908,
+        "id_str": "15767908",
+        "indices": [
+          31,
+          45
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

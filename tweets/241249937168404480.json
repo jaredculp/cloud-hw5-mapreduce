@@ -1,0 +1,83 @@
+{
+  "created_at": "Thu Aug 30 19:04:01 +0000 2012",
+  "id": 241249937168404480,
+  "id_str": "241249937168404480",
+  "text": "FRUTSI #uva",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 113535139,
+    "id_str": "113535139",
+    "name": "Leticia Sagaon",
+    "screen_name": "LEtTYsAgaOn",
+    "location": "QrO.",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 107,
+    "friends_count": 178,
+    "listed_count": 0,
+    "created_at": "Fri Feb 12 03:47:24 +0000 2010",
+    "favourites_count": 15,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1291,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3026469688/68019df76909aed7b95f2179d1f3c4a0_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3026469688/68019df76909aed7b95f2179d1f3c4a0_normal.jpeg",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          7,
+          11
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

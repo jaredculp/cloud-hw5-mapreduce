@@ -1,0 +1,124 @@
+{
+  "created_at": "Tue Jun 26 19:53:31 +0000 2012",
+  "id": 217707179376001024,
+  "id_str": "217707179376001024",
+  "text": "RT @washingtonpost: The Lawn at #UVA erupts in cheers as Teresa Sullivan is reinstated, says @WPJenna: http://t.co/CnZpDJVc",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 561336440,
+    "id_str": "561336440",
+    "name": "Matthew",
+    "screen_name": "Matterless",
+    "location": "",
+    "description": "Ana nisi masa",
+    "url": "http://matterless.tumblr.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://matterless.tumblr.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 315,
+    "friends_count": 372,
+    "listed_count": 7,
+    "created_at": "Mon Apr 23 17:49:22 +0000 2012",
+    "favourites_count": 6468,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7527,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3024977924/e9191c01f7570df93d06097f683c1071_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3024977924/e9191c01f7570df93d06097f683c1071_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/561336440/1358661838",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          32,
+          36
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/CnZpDJVc",
+        "expanded_url": "http://wapo.st/Le1lKO",
+        "display_url": "wapo.st/Le1lKO",
+        "indices": [
+          103,
+          123
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          93,
+          101
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

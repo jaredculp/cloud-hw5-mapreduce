@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 26 17:48:18 +0000 2012",
+  "id": 217675669813989379,
+  "id_str": "217675669813989379",
+  "text": "@FrancescoCoccoT Se poi associ ad #Aldrovrandi il nome #Uva quel dubbio diventa certezza!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217675140526387201,
+  "in_reply_to_status_id_str": "217675140526387201",
+  "in_reply_to_user_id": 504631659,
+  "in_reply_to_user_id_str": "504631659",
+  "in_reply_to_screen_name": "FrancescoCoccoT",
+  "user": {
+    "id": 244268083,
+    "id_str": "244268083",
+    "name": "tonina ranellucci",
+    "screen_name": "ranelton",
+    "location": "Chieti",
+    "description": "Spread nostro che 6 nei mercati,sia fatta la tua volontà,come in germania così in Europa,dacci oggi il nostro taglio quotidiano rimetti a noi il nostro debito..",
+    "url": "http://www.donneviola.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.donneviola.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 713,
+    "friends_count": 883,
+    "listed_count": 12,
+    "created_at": "Fri Jan 28 22:53:08 +0000 2011",
+    "favourites_count": 1440,
+    "utc_offset": 7200,
+    "time_zone": "Athens",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6739,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C7C3EB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/730243435/ee409a13fa648cfe58291f0ea64868f8.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/730243435/ee409a13fa648cfe58291f0ea64868f8.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2446015728/awae0pgyu187k5g7ndp9_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2446015728/awae0pgyu187k5g7ndp9_normal.jpeg",
+    "profile_link_color": "000CB3",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Aldrovrandi",
+        "indices": [
+          34,
+          46
+        ]
+      },
+      {
+        "text": "Uva",
+        "indices": [
+          55,
+          59
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "FrancescoCoccoT",
+        "name": "Francesco Cocco",
+        "id": 504631659,
+        "id_str": "504631659",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

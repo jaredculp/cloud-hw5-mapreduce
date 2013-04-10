@@ -1,0 +1,122 @@
+{
+  "created_at": "Wed Jun 20 02:36:37 +0000 2012",
+  "id": 215271911746318339,
+  "id_str": "215271911746318339",
+  "text": "RT @sivavaid: This will break your heart: #UVA Comp. Sci. Prof. William Wulf’s resignation letter  http://t.co/o62HA8fs",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 9821342,
+    "id_str": "9821342",
+    "name": "joy garnett",
+    "screen_name": "joygarnett",
+    "location": "The Bee Kingdom",
+    "description": "Bkyn/NY painter, writer, cooker, fair user, vinegar maker; http://t.co/B7nbWJWO Writing book about my grandfather, A.Z. Abushady, Egyptian poet + bee scientist",
+    "url": "http://joygarnett.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://joygarnett.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/B7nbWJWO",
+            "expanded_url": "http://newsgrist.com",
+            "display_url": "newsgrist.com",
+            "indices": [
+              59,
+              79
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2900,
+    "friends_count": 864,
+    "listed_count": 210,
+    "created_at": "Wed Oct 31 11:57:21 +0000 2007",
+    "favourites_count": 6028,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 26452,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D6D6E6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/740076232/7f4e55bffbdf9ab55c6ddfbc744f4587.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/740076232/7f4e55bffbdf9ab55c6ddfbc744f4587.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/704984173/nglogo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/704984173/nglogo_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/9821342/1355687419",
+    "profile_link_color": "5D6169",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E9EAF2",
+    "profile_text_color": "393C4F",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/o62HA8fs",
+        "expanded_url": "http://bit.ly/LAgcjN",
+        "display_url": "bit.ly/LAgcjN",
+        "indices": [
+          99,
+          119
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

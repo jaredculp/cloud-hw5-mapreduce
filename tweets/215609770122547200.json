@@ -1,0 +1,87 @@
+{
+  "created_at": "Thu Jun 21 00:59:09 +0000 2012",
+  "id": 215609770122547200,
+  "id_str": "215609770122547200",
+  "text": "@cavalierdaily Ya think??",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215528875042672640,
+  "in_reply_to_status_id_str": "215528875042672640",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 188161602,
+    "id_str": "188161602",
+    "name": "Libby Fisher",
+    "screen_name": "egfisher61",
+    "location": "Dixie",
+    "description": "living the dream",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 175,
+    "friends_count": 424,
+    "listed_count": 0,
+    "created_at": "Wed Sep 08 02:00:11 +0000 2010",
+    "favourites_count": 6115,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4892,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3080638334/6dbeb3ec9586fd0796a223b8c4d86fa2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3080638334/6dbeb3ec9586fd0796a223b8c4d86fa2_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/188161602/1357618566",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

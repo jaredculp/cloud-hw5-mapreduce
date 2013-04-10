@@ -1,0 +1,105 @@
+{
+  "created_at": "Fri Jun 22 20:47:56 +0000 2012",
+  "id": 216271324723687425,
+  "id_str": "216271324723687425",
+  "text": "@amandafrench Agreed, ousting not ouster it is. Suspect it is a lost cause though #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216264379845447680,
+  "in_reply_to_status_id_str": "216264379845447680",
+  "in_reply_to_user_id": 6361722,
+  "in_reply_to_user_id_str": "6361722",
+  "in_reply_to_screen_name": "amandafrench",
+  "user": {
+    "id": 14785137,
+    "id_str": "14785137",
+    "name": "Paul Greatrix",
+    "screen_name": "registrarism",
+    "location": "ÜT: 43.832219,10.491895",
+    "description": "Registrar at University of Nottingham. Tweeting personal views on league tables, internationalisation, regulation etc. Reporting True Crime on Campus. And #ncfc",
+    "url": "http://registrarism.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://registrarism.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1695,
+    "friends_count": 1112,
+    "listed_count": 62,
+    "created_at": "Thu May 15 12:08:10 +0000 2008",
+    "favourites_count": 173,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9829,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/4471164/IMG_1351_2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/4471164/IMG_1351_2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1570657719/5b67b99b-8d79-4fff-9488-df5113d588a1_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1570657719/5b67b99b-8d79-4fff-9488-df5113d588a1_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14785137/1350898987",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          82,
+          86
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "amandafrench",
+        "name": "Amanda French",
+        "id": 6361722,
+        "id_str": "6361722",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,163 @@
+{
+  "created_at": "Tue Jun 26 12:52:11 +0000 2012",
+  "id": 217601149358968833,
+  "id_str": "217601149358968833",
+  "text": "RT @wpjenna: Editorial in @cavalierdaily criticizes student leaders for lack of transparency, representation: http://t.co/r4VL9cPt",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18962489,
+    "id_str": "18962489",
+    "name": "Joseph Lichterman",
+    "screen_name": "ylichterman",
+    "location": "Ann Arbor, MI",
+    "description": "Senior in the @umich @fordschool. @michiganradio intern. Summer 2013 @Reuters Detroit intern. Recovering @michigandaily editor in chief.  ylichterman@gmail.com ",
+    "url": "http://www.josephlichterman.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.josephlichterman.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 606,
+    "friends_count": 1540,
+    "listed_count": 12,
+    "created_at": "Wed Jan 14 01:39:32 +0000 2009",
+    "favourites_count": 16,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4863,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/758989934/185e00af9bc7e875c092ace79d9d531f.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/758989934/185e00af9bc7e875c092ace79d9d531f.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2966834366/1e7c87eeba6abcccdc7b359107b69f8a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2966834366/1e7c87eeba6abcccdc7b359107b69f8a_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18962489/1357697070",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      42.34298263,
+      -83.04296836
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -83.04296836,
+      42.34298263
+    ]
+  },
+  "place": {
+    "id": "b463d3bd6064861b",
+    "url": "https://api.twitter.com/1.1/geo/id/b463d3bd6064861b.json",
+    "place_type": "city",
+    "name": "Detroit",
+    "full_name": "Detroit, MI",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -83.287959,
+            42.255192
+          ],
+          [
+            -82.910451,
+            42.255192
+          ],
+          [
+            -82.910451,
+            42.45023
+          ],
+          [
+            -83.287959,
+            42.45023
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/r4VL9cPt",
+        "expanded_url": "http://bit.ly/Q83yu4",
+        "display_url": "bit.ly/Q83yu4",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          3,
+          11
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          26,
+          40
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,135 @@
+{
+  "created_at": "Tue Jun 19 04:25:56 +0000 2012",
+  "id": 214937032416428032,
+  "id_str": "214937032416428032",
+  "text": "The #UVA #BOV knows there is no twitter deadline, right? It's not @washingtonpost or @cavalierdaily or local #NBC4 news. #anotherbaddecision",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 176190217,
+    "id_str": "176190217",
+    "name": "Tracey Livesay",
+    "screen_name": "tlivesay",
+    "location": "",
+    "description": "Author of interracial, contemporary romance for Entangled Publishing. Represented by Nalini Akolekar of Spencerhill Associates. True Love... in black & white.",
+    "url": "http://www.traceylivesay.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.traceylivesay.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 489,
+    "friends_count": 637,
+    "listed_count": 21,
+    "created_at": "Sun Aug 08 20:59:49 +0000 2010",
+    "favourites_count": 39,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1721,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "CFC0C9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/605428936/tuntqope0pww1jgvqazf.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/605428936/tuntqope0pww1jgvqazf.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1684826449/Tracey_Pic_1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1684826449/Tracey_Pic_1_normal.jpg",
+    "profile_link_color": "EB4DA4",
+    "profile_sidebar_border_color": "7C8C94",
+    "profile_sidebar_fill_color": "423128",
+    "profile_text_color": "998F79",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          4,
+          8
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          9,
+          13
+        ]
+      },
+      {
+        "text": "NBC4",
+        "indices": [
+          109,
+          114
+        ]
+      },
+      {
+        "text": "anotherbaddecision",
+        "indices": [
+          121,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          66,
+          81
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          85,
+          99
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

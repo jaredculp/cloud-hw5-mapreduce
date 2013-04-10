@@ -1,0 +1,118 @@
+{
+  "created_at": "Mon Jul 02 22:02:26 +0000 2012",
+  "id": 219913949880123392,
+  "id_str": "219913949880123392",
+  "text": "vroom vroooom.. pssst...... vrooom vroooom.. pssst @flexrally #biturbo #audi #bov",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 616800586,
+    "id_str": "616800586",
+    "name": "Josh from Flexrally",
+    "screen_name": "Flexrally",
+    "location": "North Colorado",
+    "description": "Custom car audio, father of the gorilla in your trunk.\r\nBANG\r\nwww.Flexrally.com (under development)",
+    "url": "http://flexrally.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://flexrally.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 76,
+    "friends_count": 127,
+    "listed_count": 0,
+    "created_at": "Sun Jun 24 05:19:25 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 112,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "181C1F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/621240132/3xzapuxbgsfosgkh827q.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/621240132/3xzapuxbgsfosgkh827q.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2335687194/flexrallylogo_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2335687194/flexrallylogo_normal.png",
+    "profile_link_color": "575E61",
+    "profile_sidebar_border_color": "454B52",
+    "profile_sidebar_fill_color": "0E1621",
+    "profile_text_color": "CB9934",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "biturbo",
+        "indices": [
+          62,
+          70
+        ]
+      },
+      {
+        "text": "audi",
+        "indices": [
+          71,
+          76
+        ]
+      },
+      {
+        "text": "bov",
+        "indices": [
+          77,
+          81
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Flexrally",
+        "name": "Josh from Flexrally",
+        "id": 616800586,
+        "id_str": "616800586",
+        "indices": [
+          51,
+          61
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Mon Jul 02 14:56:31 +0000 2012",
+  "id": 219806765645185025,
+  "id_str": "219806765645185025",
+  "text": "MT @MindingCampus: More Rumbles at #UVa -   Analysis on abrupt resignation &amp; reinstatement of Teresa Sullivan http://t.co/xr1eJMHG",
+  "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18083519,
+    "id_str": "18083519",
+    "name": "Manhattan Institute",
+    "screen_name": "ManhattanInst",
+    "location": "New York, NY",
+    "description": "Manhattan Institute is a free market thinktank dedicated to developing/disseminating new ideas that foster greater economic choice and individual responsibility",
+    "url": "http://www.manhattan-institute.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.manhattan-institute.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 10188,
+    "friends_count": 4971,
+    "listed_count": 651,
+    "created_at": "Fri Dec 12 19:28:08 +0000 2008",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6117,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "031634",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/772099141/f8579d60417c2b20e9d5976aec90443a.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/772099141/f8579d60417c2b20e9d5976aec90443a.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3213383813/b1496db5e951d45e675c9c58d4a1e938_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3213383813/b1496db5e951d45e675c9c58d4a1e938_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18083519/1357941878",
+    "profile_link_color": "033649",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "9BC1CD",
+    "profile_text_color": "103167",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          35,
+          39
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xr1eJMHG",
+        "expanded_url": "http://bit.ly/MP43rS",
+        "display_url": "bit.ly/MP43rS",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MindingCampus",
+        "name": "Minding the Campus",
+        "id": 72574331,
+        "id_str": "72574331",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

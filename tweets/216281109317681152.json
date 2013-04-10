@@ -1,0 +1,115 @@
+{
+  "created_at": "Fri Jun 22 21:26:49 +0000 2012",
+  "id": 216281109317681152,
+  "id_str": "216281109317681152",
+  "text": "McConnell #UVA threat to board breaking news emails: @wtop 5:02pm, @postlocal 5:24",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16421691,
+    "id_str": "16421691",
+    "name": "David Heyman",
+    "screen_name": "dcborn61",
+    "location": "",
+    "description": "DC native. My interests include marketing, the news biz, geek stuff, Nats, Duke, Redskins, running and assorted other DC-area things.",
+    "url": "http://about.me/dcborn61",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://about.me/dcborn61",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1124,
+    "friends_count": 1034,
+    "listed_count": 74,
+    "created_at": "Tue Sep 23 16:58:33 +0000 2008",
+    "favourites_count": 56,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 28475,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/555423616/twilk_background_4fb6a4c689079.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/555423616/twilk_background_4fb6a4c689079.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2352751961/oxN7Q_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2352751961/oxN7Q_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/16421691/1354145373",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          10,
+          14
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WTOP",
+        "name": "WTOP ",
+        "id": 17906632,
+        "id_str": "17906632",
+        "indices": [
+          53,
+          58
+        ]
+      },
+      {
+        "screen_name": "postlocal",
+        "name": "PostLocal",
+        "id": 14345759,
+        "id_str": "14345759",
+        "indices": [
+          67,
+          77
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

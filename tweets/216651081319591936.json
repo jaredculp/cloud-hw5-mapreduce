@@ -1,0 +1,97 @@
+{
+  "created_at": "Sat Jun 23 21:56:57 +0000 2012",
+  "id": 216651081319591936,
+  "id_str": "216651081319591936",
+  "text": "Viva UVA!! With no reservations!! #Uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 8215732,
+    "id_str": "8215732",
+    "name": "Jordhy Ledesma",
+    "screen_name": "jordhy",
+    "location": "New York",
+    "description": "Product Management, Social Media and Startups. Founder of Information Providers and Leslor Technologies.",
+    "url": "http://t.co/CWpPxjDk",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/CWpPxjDk",
+            "expanded_url": "http://www.jordhy.com",
+            "display_url": "jordhy.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 18606,
+    "friends_count": 368,
+    "listed_count": 110,
+    "created_at": "Thu Aug 16 03:15:42 +0000 2007",
+    "favourites_count": 495,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4497,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/452521600/barca.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/452521600/barca.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2039515623/profile-pic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2039515623/profile-pic_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/8215732/1353121050",
+    "profile_link_color": "1777E6",
+    "profile_sidebar_border_color": "DBE9ED",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

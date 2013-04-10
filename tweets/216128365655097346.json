@@ -1,0 +1,84 @@
+{
+  "created_at": "Fri Jun 22 11:19:52 +0000 2012",
+  "id": 216128365655097346,
+  "id_str": "216128365655097346",
+  "text": "Muchas gracias a la #UVa por la igualdad de condiciones y oportunidades que ofrecen a todos los alumnos.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 278694738,
+    "id_str": "278694738",
+    "name": "Paula MH",
+    "screen_name": "Pau_RocknRules",
+    "location": "El mundo es nuestro.",
+    "description": "¿Y a ti, qué?",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 135,
+    "friends_count": 198,
+    "listed_count": 0,
+    "created_at": "Thu Apr 07 19:45:31 +0000 2011",
+    "favourites_count": 102,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2240,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/718640955/96dab3359af016fbedc78b37ef79ece3.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/718640955/96dab3359af016fbedc78b37ef79ece3.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1336350530/twitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1336350530/twitter_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/278694738/1353609922",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

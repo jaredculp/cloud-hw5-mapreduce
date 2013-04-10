@@ -1,0 +1,199 @@
+{
+  "created_at": "Wed Jul 04 16:40:46 +0000 2012",
+  "id": 220557777444143105,
+  "id_str": "220557777444143105",
+  "text": "RT @UVa_Alumni: Happy Independence Day to all the #UVa wahoos out there!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 358805191,
+    "id_str": "358805191",
+    "name": "Ronnie Mills",
+    "screen_name": "Ro42G",
+    "location": "Manhattan",
+    "description": "Just here hanging out in Manhattan having fun!",
+    "url": "http://ron-ronnieworld.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ron-ronnieworld.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 340,
+    "friends_count": 1663,
+    "listed_count": 0,
+    "created_at": "Sat Aug 20 14:47:43 +0000 2011",
+    "favourites_count": 510,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 48415,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3056189103/58288c42d11f15e074c4671abc93b3ae_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3056189103/58288c42d11f15e074c4671abc93b3ae_normal.jpeg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jul 04 16:40:06 +0000 2012",
+    "id": 220557607528701952,
+    "id_str": "220557607528701952",
+    "text": "Happy Independence Day to all the #UVa wahoos out there!",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17592789,
+      "id_str": "17592789",
+      "name": "U.Va. Alumni",
+      "screen_name": "UVa_Alumni",
+      "location": "Charlottesville, Va",
+      "description": "From your tweeps at the University of Virginia Alumni Association",
+      "url": "http://www.uvamagazine.org/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.uvamagazine.org/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                27
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 6523,
+      "friends_count": 2705,
+      "listed_count": 179,
+      "created_at": "Mon Nov 24 14:41:37 +0000 2008",
+      "favourites_count": 2,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 753,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "709397",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/123807450/rotunda_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/123807450/rotunda_normal.png",
+      "profile_link_color": "FF3300",
+      "profile_sidebar_border_color": "86A4A6",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 10,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVa",
+          "indices": [
+            34,
+            38
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 10,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          50,
+          54
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

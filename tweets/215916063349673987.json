@@ -1,0 +1,121 @@
+{
+  "created_at": "Thu Jun 21 21:16:15 +0000 2012",
+  "id": 215916063349673987,
+  "id_str": "215916063349673987",
+  "text": "RT @NBC12: BREAKING: #UVA to consider reinstating ousted president http://t.co/Y7z7bH0n",
+  "source": "<a href=\"http://www.sharedby.co\" rel=\"nofollow\">SharedBy</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 10400902,
+    "id_str": "10400902",
+    "name": "cdorobek",
+    "screen_name": "cdorobek",
+    "location": "iPhone: 38.928215,-77.055840",
+    "description": "Founder, publisher and editor of the GovLoop's http://t.co/VQp0XW6j (@DorobekINSIDER) - covering the biz of government",
+    "url": "http://www.DorobekInsider.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.DorobekInsider.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/VQp0XW6j",
+            "expanded_url": "http://DorobekINSIDER.com",
+            "display_url": "DorobekINSIDER.com",
+            "indices": [
+              47,
+              67
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5158,
+    "friends_count": 5373,
+    "listed_count": 386,
+    "created_at": "Tue Nov 20 02:52:05 +0000 2007",
+    "favourites_count": 310,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 29358,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/157589997/twilk_background_4ca9da50c9694.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/157589997/twilk_background_4ca9da50c9694.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2684306171/2d972f6bac0d29ab5a252a9c3f9ea2aa_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2684306171/2d972f6bac0d29ab5a252a9c3f9ea2aa_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          21,
+          25
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Y7z7bH0n",
+        "expanded_url": "http://vsb.li/J8QK9l",
+        "display_url": "vsb.li/J8QK9l",
+        "indices": [
+          67,
+          87
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC12",
+        "name": "NBC12 WWBT Richmond",
+        "id": 19151000,
+        "id_str": "19151000",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

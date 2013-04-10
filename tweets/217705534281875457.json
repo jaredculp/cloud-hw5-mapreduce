@@ -1,0 +1,112 @@
+{
+  "created_at": "Tue Jun 26 19:46:58 +0000 2012",
+  "id": 217705534281875457,
+  "id_str": "217705534281875457",
+  "text": "!!!!! #wahoowa! \"@UVA #Uva roll call: SULLIVAN REINSTATED 15-1\"",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217700378056196096,
+  "in_reply_to_status_id_str": "217700378056196096",
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 21675766,
+    "id_str": "21675766",
+    "name": "Blair Matthews",
+    "screen_name": "BlairMatthews1",
+    "location": "Arlington, VA",
+    "description": "@UVA alum, new homeowner, DC sports fan, wine drinker, social media marketer at @CapitalOne. tweets are my own!",
+    "url": "http://pinterest.com/blairmatthews1/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://pinterest.com/blairmatthews1/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 470,
+    "friends_count": 897,
+    "listed_count": 9,
+    "created_at": "Mon Feb 23 18:14:10 +0000 2009",
+    "favourites_count": 244,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4226,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FCFCFC",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/723118002/9fb2a24674f4dd072355ba352066a27b.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/723118002/9fb2a24674f4dd072355ba352066a27b.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2928285708/d8b48925f549903832e6d4168c8fb05e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2928285708/d8b48925f549903832e6d4168c8fb05e_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/21675766/1354049928",
+    "profile_link_color": "1DB3AB",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "3874EB",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "wahoowa",
+        "indices": [
+          6,
+          14
+        ]
+      },
+      {
+        "text": "Uva",
+        "indices": [
+          22,
+          26
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          17,
+          21
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

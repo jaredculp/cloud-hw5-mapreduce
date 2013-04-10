@@ -1,0 +1,133 @@
+{
+  "created_at": "Wed Jun 20 21:48:17 +0000 2012",
+  "id": 215561736646950913,
+  "id_str": "215561736646950913",
+  "text": "RT @vpaige: RT @IsaacWood: RT @NBC29: #UVA Faculty Senate starts Facebook page to inform the faculty, staff, &amp;students http://t.co/SU4pS0yB",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15679679,
+    "id_str": "15679679",
+    "name": "Catherine Read",
+    "screen_name": "csread61",
+    "location": "Fairfax, VA",
+    "description": "Speaker, Trainer, Writer, Marketing Consultant on Social Media and Business Development. President of the Centreville (VA) Rotary Club.",
+    "url": "http://www.CatherineRead.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.CatherineRead.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2148,
+    "friends_count": 1696,
+    "listed_count": 86,
+    "created_at": "Thu Jul 31 20:01:05 +0000 2008",
+    "favourites_count": 11,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6445,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/4897295/Edited_web.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/4897295/Edited_web.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1860671329/IMG_7589_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1860671329/IMG_7589_normal.jpg",
+    "profile_link_color": "1A00FF",
+    "profile_sidebar_border_color": "65B0DA",
+    "profile_sidebar_fill_color": "D0C3E9",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          38,
+          42
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/SU4pS0yB",
+        "expanded_url": "http://m.tmi.me/s1qCi",
+        "display_url": "m.tmi.me/s1qCi",
+        "indices": [
+          123,
+          143
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "vpaige",
+        "name": "Vivian J. Paige",
+        "id": 15961546,
+        "id_str": "15961546",
+        "indices": [
+          3,
+          10
+        ]
+      },
+      {
+        "screen_name": "IsaacWood",
+        "name": "Isaac Wood",
+        "id": 21119925,
+        "id_str": "21119925",
+        "indices": [
+          15,
+          25
+        ]
+      },
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          30,
+          36
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

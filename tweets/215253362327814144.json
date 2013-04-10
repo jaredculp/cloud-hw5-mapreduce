@@ -1,0 +1,220 @@
+{
+  "created_at": "Wed Jun 20 01:22:55 +0000 2012",
+  "id": 215253362327814144,
+  "id_str": "215253362327814144",
+  "text": "RT @BoraZ: Paul Stoller: Ethnocentrism, Virginia Style http://t.co/PcZfraZs #UVA #Sullivan",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15635394,
+    "id_str": "15635394",
+    "name": "Christopher Porter",
+    "screen_name": "cdporter00",
+    "location": "Virginia",
+    "description": "Student of infosec, forensics, & risk.  Swimmer, hiker, non-runner.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 396,
+    "friends_count": 512,
+    "listed_count": 27,
+    "created_at": "Mon Jul 28 18:14:06 +0000 2008",
+    "favourites_count": 21,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1619,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "070C66",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1813687134/Photo_on_1-26-12_at_2.26_PM_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1813687134/Photo_on_1-26-12_at_2.26_PM_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jun 20 01:06:49 +0000 2012",
+    "id": 215249310248468480,
+    "id_str": "215249310248468480",
+    "text": "Paul Stoller: Ethnocentrism, Virginia Style http://t.co/PcZfraZs #UVA #Sullivan",
+    "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 17567533,
+      "id_str": "17567533",
+      "name": "Bora Zivkovic",
+      "screen_name": "BoraZ",
+      "location": "Chapel Hill NC",
+      "description": "Blogs Editor at Scientific American. Visiting Scholar at NYU school of journalism. Organizer of ScienceOnline. My tweets are my own.",
+      "url": "http://coturnix.org",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://coturnix.org",
+              "expanded_url": null,
+              "indices": [
+                0,
+                19
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 19551,
+      "friends_count": 9428,
+      "listed_count": 2019,
+      "created_at": "Sun Nov 23 02:37:55 +0000 2008",
+      "favourites_count": 37,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 112798,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/18395041/green_clock.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/18395041/green_clock.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1210768773/BoraZ191124_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1210768773/BoraZ191124_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/17567533/1354504559",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVA",
+          "indices": [
+            65,
+            69
+          ]
+        },
+        {
+          "text": "Sullivan",
+          "indices": [
+            70,
+            79
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/PcZfraZs",
+          "expanded_url": "http://huff.to/MduBBg",
+          "display_url": "huff.to/MduBBg",
+          "indices": [
+            44,
+            64
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          76,
+          80
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          81,
+          90
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/PcZfraZs",
+        "expanded_url": "http://huff.to/MduBBg",
+        "display_url": "huff.to/MduBBg",
+        "indices": [
+          55,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BoraZ",
+        "name": "Bora Zivkovic",
+        "id": 17567533,
+        "id_str": "17567533",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

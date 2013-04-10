@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Jun 20 01:35:34 +0000 2012",
+  "id": 215256544776953857,
+  "id_str": "215256544776953857",
+  "text": "@cdporter00 @cavalierdaily @mediaUVAgreg @sivavaid  You can register with FlightAware and see where they went.  http://t.co/XywG5HSr",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215252386363621376,
+  "in_reply_to_status_id_str": "215252386363621376",
+  "in_reply_to_user_id": 15635394,
+  "in_reply_to_user_id_str": "15635394",
+  "in_reply_to_screen_name": "cdporter00",
+  "user": {
+    "id": 16419080,
+    "id_str": "16419080",
+    "name": "Chris",
+    "screen_name": "cynicalgrrl",
+    "location": "Ann Arbor",
+    "description": "Thinks about books, websites, XML, libraries, kids, food, NCAA sports (especially Virginia and Michigan).   And other stuff.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 286,
+    "friends_count": 243,
+    "listed_count": 19,
+    "created_at": "Tue Sep 23 13:46:04 +0000 2008",
+    "favourites_count": 29,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8315,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/63788101/doughnut_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/63788101/doughnut_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/XywG5HSr",
+        "expanded_url": "http://flightaware.com/live/flight/N800VA",
+        "display_url": "flightaware.com/live/flight/N8…",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cdporter00",
+        "name": "Christopher Porter",
+        "id": 15635394,
+        "id_str": "15635394",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          12,
+          26
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          41,
+          50
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

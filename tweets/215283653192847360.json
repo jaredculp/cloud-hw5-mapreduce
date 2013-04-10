@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Jun 20 03:23:17 +0000 2012",
+  "id": 215283653192847360,
+  "id_str": "215283653192847360",
+  "text": "#UVA’s board was inspired by a David Brooks column. Re @chriswilsondc’s tweet, https://t.co/sCwtCGK9 all the dark forces are aligning.",
+  "source": "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2400631,
+    "id_str": "2400631",
+    "name": "Robinson Meyer",
+    "screen_name": "yayitsrob",
+    "location": "Evanston, IL",
+    "description": "Writes about music & technology, old & new. @TheAtlantic contributor. @NorthwesternU senior. Half of @NYTPrepositions. Chorister. Older brother. NJ expatriate.",
+    "url": "http://t.co/mMpR6XhH",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/mMpR6XhH",
+            "expanded_url": "http://yayitsrob.tumblr.com",
+            "display_url": "yayitsrob.tumblr.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 997,
+    "friends_count": 587,
+    "listed_count": 38,
+    "created_at": "Tue Mar 27 04:03:09 +0000 2007",
+    "favourites_count": 7676,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 16614,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/767342912/444135520956d913c1a56b41fce199d9.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/767342912/444135520956d913c1a56b41fce199d9.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3078649447/bd62829aa475fe5cd4d855c370e91a17_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3078649447/bd62829aa475fe5cd4d855c370e91a17_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/2400631/1359585678",
+    "profile_link_color": "D59B40",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFC999",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/sCwtCGK9",
+        "expanded_url": "https://twitter.com/chriswilsondc/status/215054521007734784",
+        "display_url": "twitter.com/chriswilsondc/…",
+        "indices": [
+          79,
+          100
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chriswilsondc",
+        "name": "Chris Wilson",
+        "id": 15741451,
+        "id_str": "15741451",
+        "indices": [
+          55,
+          69
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

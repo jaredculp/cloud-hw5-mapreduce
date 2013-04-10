@@ -1,0 +1,104 @@
+{
+  "created_at": "Sun Aug 12 00:42:21 +0000 2012",
+  "id": 234449709140414464,
+  "id_str": "234449709140414464",
+  "text": "@osuseq God only knows what type of money I'll be looking at by the time the Wing goes 2 #UVA. *Fingers Crossed Drink some wine for me too.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 234446774956326912,
+  "in_reply_to_status_id_str": "234446774956326912",
+  "in_reply_to_user_id": 60662993,
+  "in_reply_to_user_id_str": "60662993",
+  "in_reply_to_screen_name": "osuseq",
+  "user": {
+    "id": 81997087,
+    "id_str": "81997087",
+    "name": "BD Mcgee",
+    "screen_name": "CardinalMcgee",
+    "location": "Lynchburg, Virginia",
+    "description": "I am the be all end all. I am all that's right with the world, and all that is wrong. I am ME.",
+    "url": "http://www.virginiasports.com/sports/m-basebl/va-m-basebl-body.html",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginiasports.com/sports/m-basebl/va-m-basebl-body.html",
+            "expanded_url": null,
+            "indices": [
+              0,
+              67
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 148,
+    "friends_count": 168,
+    "listed_count": 19,
+    "created_at": "Tue Oct 13 03:03:37 +0000 2009",
+    "favourites_count": 34,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10263,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/695963533/219a4bcaf9c201908fe769554f0e50e5.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/695963533/219a4bcaf9c201908fe769554f0e50e5.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3041976603/d499f372eb7c2428aebc034659aee35e_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3041976603/d499f372eb7c2428aebc034659aee35e_normal.png",
+    "profile_link_color": "FD3D45",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000066",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          89,
+          93
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "osuseq",
+        "name": "Q",
+        "id": 60662993,
+        "id_str": "60662993",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

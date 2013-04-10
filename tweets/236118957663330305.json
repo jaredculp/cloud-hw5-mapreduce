@@ -1,0 +1,111 @@
+{
+  "created_at": "Thu Aug 16 15:15:21 +0000 2012",
+  "id": 236118957663330305,
+  "id_str": "236118957663330305",
+  "text": "We sportswriters call this \"Free Blog Post Friday\" RT @rivalsmike Wyatt Teller decision coming tomorrow (Friday) between #Hokies and #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 236117683513462785,
+  "in_reply_to_status_id_str": "236117683513462785",
+  "in_reply_to_user_id": 170021040,
+  "in_reply_to_user_id_str": "170021040",
+  "in_reply_to_screen_name": "rivalsmike",
+  "user": {
+    "id": 174654805,
+    "id_str": "174654805",
+    "name": "Andy Bitter",
+    "screen_name": "AndyBitterVT",
+    "location": "Blacksburg, Va.",
+    "description": "Virginia Tech football beat writer for the Roanoke Times and Virginian-Pilot.",
+    "url": "http://blogs.roanoke.com/andybittervirginiatechfootball/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://blogs.roanoke.com/andybittervirginiatechfootball/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              56
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 8779,
+    "friends_count": 182,
+    "listed_count": 358,
+    "created_at": "Wed Aug 04 13:38:13 +0000 2010",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 15428,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/643284299/7uqi1dyyz8i1vftz63jt.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/643284299/7uqi1dyyz8i1vftz63jt.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1609506469/10.27p_bitter_mug_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1609506469/10.27p_bitter_mug_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Hokies",
+        "indices": [
+          121,
+          128
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          133,
+          137
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rivalsmike",
+        "name": "Mike Farrell",
+        "id": 170021040,
+        "id_str": "170021040",
+        "indices": [
+          54,
+          65
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

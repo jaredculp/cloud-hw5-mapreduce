@@ -1,0 +1,87 @@
+{
+  "created_at": "Mon Jun 25 14:14:38 +0000 2012",
+  "id": 217259509914144768,
+  "id_str": "217259509914144768",
+  "text": "@LarrySabato Spending will be 2nd",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217258139035254785,
+  "in_reply_to_status_id_str": "217258139035254785",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 469758156,
+    "id_str": "469758156",
+    "name": "MA Conservative",
+    "screen_name": "Mass_Con",
+    "location": "Massachusetts",
+    "description": "Take a look at what I have to say over at www.race42012.com in the comments -- A government big enough to give you everything is big enough to take it all away.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 169,
+    "friends_count": 225,
+    "listed_count": 6,
+    "created_at": "Fri Jan 20 23:26:49 +0000 2012",
+    "favourites_count": 877,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3400,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/762517849/6249b63047ad4ea00c8f35e6e7215818.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/762517849/6249b63047ad4ea00c8f35e6e7215818.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2505447831/w8ee8jaq7ygyjgd7v4pa_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2505447831/w8ee8jaq7ygyjgd7v4pa_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/469758156/1358049631",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

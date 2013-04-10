@@ -1,0 +1,105 @@
+{
+  "created_at": "Wed Jun 20 17:59:26 +0000 2012",
+  "id": 215504144532914176,
+  "id_str": "215504144532914176",
+  "text": "Document Cloud! MT @jayrosen_nyu E-mails show U-Va. board planning T. Sullivan’s exit. http://t.co/SdpAhfm4  Outstanding work @cavalierdaily",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 219122424,
+    "id_str": "219122424",
+    "name": "Brian Malloy",
+    "screen_name": "brianwmalloy",
+    "location": "Paris, KY",
+    "description": "I'm a writer, editor, internet developer and all-around media man who is lucky enough to also breed and race Thoroughbreds.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 725,
+    "friends_count": 1254,
+    "listed_count": 10,
+    "created_at": "Wed Nov 24 00:11:03 +0000 2010",
+    "favourites_count": 5,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3215,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/243939745/DSC_0139.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/243939745/DSC_0139.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1326464921/bc2010profile-800_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1326464921/bc2010profile-800_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/SdpAhfm4",
+        "expanded_url": "http://wapo.st/KN5KZE",
+        "display_url": "wapo.st/KN5KZE",
+        "indices": [
+          87,
+          107
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jayrosen_nyu",
+        "name": "Jay Rosen ",
+        "id": 14834340,
+        "id_str": "14834340",
+        "indices": [
+          19,
+          32
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          126,
+          140
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

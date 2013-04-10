@@ -1,0 +1,92 @@
+{
+  "created_at": "Wed Aug 29 20:46:50 +0000 2012",
+  "id": 240913421271457793,
+  "id_str": "240913421271457793",
+  "text": "on a tweeting hype #bov",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 419617800,
+    "id_str": "419617800",
+    "name": "leticia smith",
+    "screen_name": "leticiasmith_",
+    "location": "",
+    "description": "http://t.co/Ubb7Y9uE",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/Ubb7Y9uE",
+            "expanded_url": "http://bangmashitbang.tumblr.com/",
+            "display_url": "bangmashitbang.tumblr.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 471,
+    "friends_count": 764,
+    "listed_count": 1,
+    "created_at": "Wed Nov 23 15:36:52 +0000 2011",
+    "favourites_count": 412,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13122,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/680804954/880b828f7152687f8d18883643fa3d7f.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/680804954/880b828f7152687f8d18883643fa3d7f.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3221298997/4facb513095fef0578b6d3cbdf1d23d2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3221298997/4facb513095fef0578b6d3cbdf1d23d2_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/419617800/1359500007",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "87787B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bov",
+        "indices": [
+          19,
+          23
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

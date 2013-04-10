@@ -1,0 +1,92 @@
+{
+  "created_at": "Mon Jun 25 14:49:05 +0000 2012",
+  "id": 217268181356650499,
+  "id_str": "217268181356650499",
+  "text": "@D1scourse penn st's first road game next fall is at #uva-you going to cover?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217267160815382529,
+  "in_reply_to_status_id_str": "217267160815382529",
+  "in_reply_to_user_id": 20388786,
+  "in_reply_to_user_id_str": "20388786",
+  "in_reply_to_screen_name": "D1scourse",
+  "user": {
+    "id": 44971471,
+    "id_str": "44971471",
+    "name": "j",
+    "screen_name": "davesmith3",
+    "location": "location",
+    "description": "bio",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 528,
+    "friends_count": 1217,
+    "listed_count": 9,
+    "created_at": "Fri Jun 05 19:22:30 +0000 2009",
+    "favourites_count": 88,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 28380,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2896826594/c03379cfc45779330be3bcac5223b397_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2896826594/c03379cfc45779330be3bcac5223b397_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          53,
+          57
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "D1scourse",
+        "name": "Patrick Stevens",
+        "id": 20388786,
+        "id_str": "20388786",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

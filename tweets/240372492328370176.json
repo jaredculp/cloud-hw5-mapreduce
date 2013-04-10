@@ -1,0 +1,103 @@
+{
+  "created_at": "Tue Aug 28 08:57:22 +0000 2012",
+  "id": 240372492328370176,
+  "id_str": "240372492328370176",
+  "text": "'Hoorcolleges zijn niet verplicht, maar je moet er wel zijn. We zetten ze pas voor het tentamen online.' #fail #uva",
+  "source": "<a href=\"http://www.boidapp.com\" rel=\"nofollow\">Boid for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 119828735,
+    "id_str": "119828735",
+    "name": "Nichal Joosse",
+    "screen_name": "NichalJoosse",
+    "location": "Amsterdam & Roosendaal",
+    "description": "Hooggevoelige studerende brabozeeuw. Eindbaas bij @stuiterbeesten. Blogt voor @dutchcowboys en is hoofdredacteur van @Roosendaal24. Eventteam @whatthebliep. ",
+    "url": "http://www.nichal.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nichal.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1293,
+    "friends_count": 301,
+    "listed_count": 23,
+    "created_at": "Thu Mar 04 19:31:43 +0000 2010",
+    "favourites_count": 312,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 57312,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "290422",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/80592882/x99cef210438919bcaaf24fbf05adabb.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/80592882/x99cef210438919bcaaf24fbf05adabb.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3121165840/ce6ef18e892bbcbc4b20a5d24c72465b_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3121165840/ce6ef18e892bbcbc4b20a5d24c72465b_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/119828735/1351676576",
+    "profile_link_color": "1D005E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "A36CA9",
+    "profile_text_color": "24033B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fail",
+        "indices": [
+          105,
+          110
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          111,
+          115
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

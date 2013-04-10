@@ -1,0 +1,111 @@
+{
+  "created_at": "Mon Jun 25 12:29:09 +0000 2012",
+  "id": 217232964201881601,
+  "id_str": "217232964201881601",
+  "text": "Week 5 of 10! #cpe at #uva",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 36203893,
+    "id_str": "36203893",
+    "name": "Jason C. Stanley",
+    "screen_name": "jasoncstanley",
+    "location": "Lynchburg, Virginia",
+    "description": "youth minister, united methodist deacon, blog at http://t.co/EJiyeEpl",
+    "url": "http://www.jasoncstanley.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jasoncstanley.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/EJiyeEpl",
+            "expanded_url": "http://hollywoodjesus.com",
+            "display_url": "hollywoodjesus.com",
+            "indices": [
+              49,
+              69
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 241,
+    "friends_count": 494,
+    "listed_count": 15,
+    "created_at": "Tue Apr 28 22:43:53 +0000 2009",
+    "favourites_count": 69,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2910,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3052342371/e80e3f47dbcc886994f77a19569edaf9_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3052342371/e80e3f47dbcc886994f77a19569edaf9_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/36203893/1353531529",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cpe",
+        "indices": [
+          14,
+          18
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          22,
+          26
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

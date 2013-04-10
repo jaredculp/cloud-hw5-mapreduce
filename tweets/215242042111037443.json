@@ -1,0 +1,96 @@
+{
+  "created_at": "Wed Jun 20 00:37:56 +0000 2012",
+  "id": 215242042111037443,
+  "id_str": "215242042111037443",
+  "text": "In 24 hours, more info about the #UVA BOV decision has come out that Dragas et al. thought would come out *ever.*",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2141771,
+    "id_str": "2141771",
+    "name": "Alan Jacobs",
+    "screen_name": "ayjay",
+    "location": "",
+    "description": "Nunc scripsi totum, \r\npro Christo da mihi potum.",
+    "url": "http://ayjay.jottit.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ayjay.jottit.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3379,
+    "friends_count": 356,
+    "listed_count": 179,
+    "created_at": "Sat Mar 24 23:37:59 +0000 2007",
+    "favourites_count": 167,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 29558,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/199288405/hands.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/199288405/hands.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1448975441/hands2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1448975441/hands2_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/2141771/1355695279",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          33,
+          37
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,115 @@
+{
+  "created_at": "Tue Jun 19 01:49:37 +0000 2012",
+  "id": 214897692629942273,
+  "id_str": "214897692629942273",
+  "text": "RT @awoo_: Teresa #Sullivan's official remarks to the #UVA Board of Visitors today. This woman is grace. http://t.co/5OdeEYzu #mepolitics",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19376746,
+    "id_str": "19376746",
+    "name": "Lyle ",
+    "screen_name": "Citizensnews",
+    "location": "Danforth, Me",
+    "description": "Citizen",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1676,
+    "friends_count": 1997,
+    "listed_count": 170,
+    "created_at": "Fri Jan 23 02:23:52 +0000 2009",
+    "favourites_count": 14,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 35068,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2165956279/mcs_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2165956279/mcs_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          18,
+          27
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          54,
+          58
+        ]
+      },
+      {
+        "text": "mepolitics",
+        "indices": [
+          126,
+          137
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/5OdeEYzu",
+        "expanded_url": "http://bit.ly/Mj4Jq1",
+        "display_url": "bit.ly/Mj4Jq1",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "awoo_",
+        "name": "Amy Woolard",
+        "id": 194245430,
+        "id_str": "194245430",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

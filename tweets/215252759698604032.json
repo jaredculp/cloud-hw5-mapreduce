@@ -1,0 +1,98 @@
+{
+  "created_at": "Wed Jun 20 01:20:31 +0000 2012",
+  "id": 215252759698604032,
+  "id_str": "215252759698604032",
+  "text": "At some point in recent American history, we started assuming that if people are rich enough, they must be experts in all things @sivavaid",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22575224,
+    "id_str": "22575224",
+    "name": "Nora Riva Bergman",
+    "screen_name": "LawFirmCoach",
+    "location": "Florida",
+    "description": "I’m a lawyer & law firm coach. I love helping lawyers earn more, stress less & have fun in the process. Think you can’t?  You can. Really. You can.",
+    "url": "http://reallifepractice.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://reallifepractice.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1052,
+    "friends_count": 1142,
+    "listed_count": 49,
+    "created_at": "Tue Mar 03 02:58:13 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1149,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/280847428/rlp-twitter-bg-image-110629.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/280847428/rlp-twitter-bg-image-110629.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/118137348/Nora-Reception-3_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/118137348/Nora-Reception-3_normal.jpg",
+    "profile_link_color": "668F2D",
+    "profile_sidebar_border_color": "C4E9F8",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          129,
+          138
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

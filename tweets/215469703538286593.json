@@ -1,0 +1,143 @@
+{
+  "created_at": "Wed Jun 20 15:42:35 +0000 2012",
+  "id": 215469703538286593,
+  "id_str": "215469703538286593",
+  "text": "RT: @ryanobles: My story from @NBC12: the political fallout from #UVa controversy-impact on @TimKaine &amp; @BobMcDonnell: http://t.co/6F17DeQO",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21220931,
+    "id_str": "21220931",
+    "name": "Luke Russert",
+    "screen_name": "LukeRussert",
+    "location": "Washington D.C.",
+    "description": "I cover Capitol Hill for NBC News. Been sweating it out in the streets of a runaway American dream since 1985.\r\n",
+    "url": "http://www.msnbc.msn.com/id/26515088/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.msnbc.msn.com/id/26515088/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 140578,
+    "friends_count": 1445,
+    "listed_count": 4330,
+    "created_at": "Wed Feb 18 18:03:18 +0000 2009",
+    "favourites_count": 13,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 15800,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/4583968/Buffalo_20Bills_201011_20-_20Team.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/4583968/Buffalo_20Bills_201011_20-_20Team.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1829539908/restoresanity_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1829539908/restoresanity_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          65,
+          69
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/6F17DeQO",
+        "expanded_url": "http://www.nbc12.com/story/18830509/political-fallout-from-the-uva-controversy",
+        "display_url": "nbc12.com/story/18830509…",
+        "indices": [
+          123,
+          143
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ryanobles",
+        "name": "Ryan Nobles",
+        "id": 16625082,
+        "id_str": "16625082",
+        "indices": [
+          4,
+          14
+        ]
+      },
+      {
+        "screen_name": "NBC12",
+        "name": "NBC12 WWBT Richmond",
+        "id": 19151000,
+        "id_str": "19151000",
+        "indices": [
+          30,
+          36
+        ]
+      },
+      {
+        "screen_name": "timkaine",
+        "name": "Senator Tim Kaine",
+        "id": 172858784,
+        "id_str": "172858784",
+        "indices": [
+          92,
+          101
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          108,
+          121
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

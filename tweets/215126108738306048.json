@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 19 16:57:15 +0000 2012",
+  "id": 215126108738306048,
+  "id_str": "215126108738306048",
+  "text": "\"A university that does not teach the full range of arts and sciences will no longer be a university.” #UVA http://t.co/zXP0Y8cM",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Safari on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 511022270,
+    "id_str": "511022270",
+    "name": "Travis Kurowski",
+    "screen_name": "traviskurowski",
+    "location": "",
+    "description": "Avoiding work.",
+    "url": "http://traviskurowski.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://traviskurowski.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 214,
+    "friends_count": 1041,
+    "listed_count": 12,
+    "created_at": "Thu Mar 01 23:20:46 +0000 2012",
+    "favourites_count": 700,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2335,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/737311082/d03d8eca0e1f451d38d60cf7f365a997.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/737311082/d03d8eca0e1f451d38d60cf7f365a997.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2784855186/4df206479498074ae88002fd50107be4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2784855186/4df206479498074ae88002fd50107be4_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          103,
+          107
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zXP0Y8cM",
+        "expanded_url": "http://mobile.usnews.com/opinion/blogs/susan-milligan/2012/06/19/the-deeper-problem-with-ousting-of-uva-president-teresa-sullivan",
+        "display_url": "mobile.usnews.com/opinion/blogs/…",
+        "indices": [
+          108,
+          128
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

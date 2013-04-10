@@ -1,0 +1,123 @@
+{
+  "created_at": "Thu Jun 28 01:26:51 +0000 2012",
+  "id": 218153457041936385,
+  "id_str": "218153457041936385",
+  "text": "@sivavaid writes another defense and justification for public higher education #UVa http://t.co/X3xJJQz5 @slate",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 20406724,
+  "in_reply_to_user_id_str": "20406724",
+  "in_reply_to_screen_name": "sivavaid",
+  "user": {
+    "id": 318452552,
+    "id_str": "318452552",
+    "name": "Susan M. Baxter",
+    "screen_name": "smbaxtersd",
+    "location": "San Diego, CA, USA",
+    "description": "Data Geek, Board Member, Pointer Companion. Day Job: Executive Director, CSU Biotechnology program (CSUPERB). Opinions tweeted mine, not CSU's.",
+    "url": "http://www.csuperb.org/blog",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.csuperb.org/blog",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 91,
+    "friends_count": 252,
+    "listed_count": 0,
+    "created_at": "Thu Jun 16 14:24:43 +0000 2011",
+    "favourites_count": 85,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 597,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2341023428/c797d6vzualwdgif5a5e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2341023428/c797d6vzualwdgif5a5e_normal.jpeg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          79,
+          83
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/X3xJJQz5",
+        "expanded_url": "http://www.slate.com/articles/news_and_politics/politics/2012/06/teresa_sullivan_reinstated_as_the_president_of_the_university_of_virginia_.html?tid=sm_tw_button_toolbar",
+        "display_url": "slate.com/articles/news_…",
+        "indices": [
+          84,
+          104
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "Slate",
+        "name": "Slate",
+        "id": 15164565,
+        "id_str": "15164565",
+        "indices": [
+          105,
+          111
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

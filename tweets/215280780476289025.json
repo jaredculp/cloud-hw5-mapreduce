@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Jun 20 03:11:52 +0000 2012",
+  "id": 215280780476289025,
+  "id_str": "215280780476289025",
+  "text": "RT @Dahlialithwick: if you're following #UVA ouster, @cavalierdaily has FOIA requests and emails and other great journalism happening",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 100421516,
+    "id_str": "100421516",
+    "name": "Greg Lipper",
+    "screen_name": "theglipper",
+    "location": "Washington, D.C.",
+    "description": "Litigator and church/state separator at @americansunited. Amateur actor. Obsessed with Darrow, Shakespeare, and Toto's Africa. Views are, of course, my own.",
+    "url": "http://lipperism.tumblr.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://lipperism.tumblr.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 921,
+    "friends_count": 1076,
+    "listed_count": 48,
+    "created_at": "Wed Dec 30 06:04:47 +0000 2009",
+    "favourites_count": 843,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 29000,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0ABEFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/691671704/f583bb00fdabf6c94ef793c9a60e5510.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/691671704/f583bb00fdabf6c94ef793c9a60e5510.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3024342889/0860723b5e7f5b449802f8ec9365ce00_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3024342889/0860723b5e7f5b449802f8ec9365ce00_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/100421516/1356805154",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          40,
+          44
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Dahlialithwick",
+        "name": "Dahlia Lithwick",
+        "id": 135897307,
+        "id_str": "135897307",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          53,
+          67
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

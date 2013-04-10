@@ -1,0 +1,126 @@
+{
+  "created_at": "Wed Aug 15 20:37:48 +0000 2012",
+  "id": 235837718528139264,
+  "id_str": "235837718528139264",
+  "text": "RT @mediaUVAgreg: Day 1 of #UVA #BOV retreat: @cavalierdaily has the coverage! Stay tuned for a recap later. #Sullivan #Highered",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 258110084,
+    "id_str": "258110084",
+    "name": "Kaz Komolafe",
+    "screen_name": "kazkomolafe",
+    "location": "Charlottesville, Va",
+    "description": "Editor-in-chief of @cavalierdaily #UVA independent student newspaper. Blog contributor @huffingtonpost. Opinions are my own. ",
+    "url": "http://www.huffingtonpost.com/kaz-komolafe",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.huffingtonpost.com/kaz-komolafe",
+            "expanded_url": null,
+            "indices": [
+              0,
+              42
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 385,
+    "friends_count": 814,
+    "listed_count": 9,
+    "created_at": "Sun Feb 27 00:21:00 +0000 2011",
+    "favourites_count": 59,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1667,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2828C9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/210861243/5.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/210861243/5.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2827856186/860e18dcb533faa51240b18104e00887_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2827856186/860e18dcb533faa51240b18104e00887_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/258110084/1352482672",
+    "profile_link_color": "5E0009",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "8800F7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          27,
+          31
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          32,
+          36
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          109,
+          118
+        ]
+      },
+      {
+        "text": "Highered",
+        "indices": [
+          119,
+          128
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          46,
+          60
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

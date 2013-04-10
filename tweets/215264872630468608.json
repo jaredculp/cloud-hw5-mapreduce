@@ -1,0 +1,92 @@
+{
+  "created_at": "Wed Jun 20 02:08:39 +0000 2012",
+  "id": 215264872630468608,
+  "id_str": "215264872630468608",
+  "text": "@slicksean Simon is a stand-up guy, he spoke in support of Faculty on sunday and other stuff, he might leave if he is disillusioned tho #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215261009739399170,
+  "in_reply_to_status_id_str": "215261009739399170",
+  "in_reply_to_user_id": 19784501,
+  "in_reply_to_user_id_str": "19784501",
+  "in_reply_to_screen_name": "slicksean",
+  "user": {
+    "id": 243883525,
+    "id_str": "243883525",
+    "name": "A. A.",
+    "screen_name": "Panserbj0rne",
+    "location": "space",
+    "description": "I study new worlds",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 20,
+    "friends_count": 59,
+    "listed_count": 1,
+    "created_at": "Fri Jan 28 01:02:06 +0000 2011",
+    "favourites_count": 13,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 101,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/329145286/carina_hst_big2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/329145286/carina_hst_big2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1227706924/1-caspar-david-friedrich-wanderer-above-the-sea-of-fog_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1227706924/1-caspar-david-friedrich-wanderer-above-the-sea-of-fog_normal.jpg",
+    "profile_link_color": "438C8C",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "0A1121",
+    "profile_text_color": "65BA6C",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          136,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "slicksean",
+        "name": "Sean M. Kennedy",
+        "id": 19784501,
+        "id_str": "19784501",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

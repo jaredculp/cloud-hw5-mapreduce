@@ -1,0 +1,101 @@
+{
+  "created_at": "Tue Jun 19 06:46:00 +0000 2012",
+  "id": 214972280294490112,
+  "id_str": "214972280294490112",
+  "text": "RT @helendragas http://t.co/UwaoHSut #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21924020,
+    "id_str": "21924020",
+    "name": "Andy Johnson ",
+    "screen_name": "ndyjohnson",
+    "location": "Arlington, VA",
+    "description": "I don't care what your bio says. You retweet me, it's not only an endorsement, it represents the views of your employer. @BYT @DetroitLionsNFL @UVA",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 404,
+    "friends_count": 859,
+    "listed_count": 7,
+    "created_at": "Wed Feb 25 21:46:04 +0000 2009",
+    "favourites_count": 160,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 21887,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/170781269/chappelle-player-haters-ball.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/170781269/chappelle-player-haters-ball.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2958677534/4dac1251143c629bfb253d0335ce4867_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2958677534/4dac1251143c629bfb253d0335ce4867_normal.jpeg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UwaoHSut",
+        "expanded_url": "http://www.youtube.com/watch?v=GICPkSb5OI8",
+        "display_url": "youtube.com/watch?v=GICPkS…",
+        "indices": [
+          16,
+          36
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HelenDragas",
+        "name": "Helen Dragas",
+        "id": 612252466,
+        "id_str": "612252466",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

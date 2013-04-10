@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 20:39:57 +0000 2012",
+  "id": 217718868196601857,
+  "id_str": "217718868196601857",
+  "text": "Wahoowa! #UVA http://t.co/5FAMQQ37",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18492709,
+    "id_str": "18492709",
+    "name": "Youyoung Lee",
+    "screen_name": "Youyoung_Lee",
+    "location": "New York, NY",
+    "description": "I'm an editor at Huffington Post Celebrity and the founder of http://t.co/3azslBKY. I'm also always hungry.\r\n",
+    "url": "http://flavors.me/youyoung",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://flavors.me/youyoung",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/3azslBKY",
+            "expanded_url": "http://Gourmeet.com",
+            "display_url": "Gourmeet.com",
+            "indices": [
+              62,
+              82
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 300,
+    "friends_count": 412,
+    "listed_count": 13,
+    "created_at": "Tue Dec 30 23:48:33 +0000 2008",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1497,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F7E4E4",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/345222380/Your_Chance_Encounter_Olafur_Eliasson_4.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/345222380/Your_Chance_Encounter_Olafur_Eliasson_4.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1600377955/Picture_9_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1600377955/Picture_9_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18492709/1355337715",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          9,
+          13
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/5FAMQQ37",
+        "expanded_url": "http://www.google.com/hostednews/ap/article/ALeqM5h6WYNX1_e2ttRiA4pGmvbJETF2oQ?docId=6c49fbe0ea3d4197bd8903f3d63a3825",
+        "display_url": "google.com/hostednews/ap/…",
+        "indices": [
+          14,
+          34
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

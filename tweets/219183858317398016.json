@@ -1,0 +1,144 @@
+{
+  "created_at": "Sat Jun 30 21:41:18 +0000 2012",
+  "id": 219183858317398016,
+  "id_str": "219183858317398016",
+  "text": "MT @GeoSemester #UVa @scholarslab demonstrates DIY balloon aerial photography at National #K12 #GIS Summit at #JMU http://t.co/AdlosgF9",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 49891096,
+    "id_str": "49891096",
+    "name": "Kelly Johnston",
+    "screen_name": "KellyGJohnston",
+    "location": "",
+    "description": "Geographic Information Systems Specialist at the University of Virginia Library Scholars' Lab",
+    "url": "http://johnston9494.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://johnston9494.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 531,
+    "friends_count": 776,
+    "listed_count": 28,
+    "created_at": "Tue Jun 23 05:04:32 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1153,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/57655627/4_005.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/57655627/4_005.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/557813872/KellyRight2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/557813872/KellyRight2_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          16,
+          20
+        ]
+      },
+      {
+        "text": "K12",
+        "indices": [
+          90,
+          94
+        ]
+      },
+      {
+        "text": "GIS",
+        "indices": [
+          95,
+          99
+        ]
+      },
+      {
+        "text": "JMU",
+        "indices": [
+          110,
+          114
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/AdlosgF9",
+        "expanded_url": "http://twitter.com/GeoSemester/status/219133506935193602/photo/1",
+        "display_url": "pic.twitter.com/AdlosgF9",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GeoSemester",
+        "name": "Geospatial Semester",
+        "id": 348036912,
+        "id_str": "348036912",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "scholarslab",
+        "name": "scholarslab",
+        "id": 15175262,
+        "id_str": "15175262",
+        "indices": [
+          21,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

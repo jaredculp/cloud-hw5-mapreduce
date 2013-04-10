@@ -1,0 +1,114 @@
+{
+  "created_at": "Sun Jun 24 13:16:52 +0000 2012",
+  "id": 216882585673019394,
+  "id_str": "216882585673019394",
+  "text": "\"where the dark girls at?\" RT @washingtonpost What would Thomas Jefferson think of the #UVA turmoil? http://t.co/P1vn9w5p",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 138256039,
+    "id_str": "138256039",
+    "name": "karen.alise",
+    "screen_name": "karen_alise",
+    "location": "Psychic City",
+    "description": "bands will make me dance.",
+    "url": "http://www.lovealise.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.lovealise.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 623,
+    "friends_count": 371,
+    "listed_count": 16,
+    "created_at": "Thu Apr 29 01:51:09 +0000 2010",
+    "favourites_count": 135,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 40587,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DB14DB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/600591127/s8f8nh5tfgt4mlxnwgjg.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/600591127/s8f8nh5tfgt4mlxnwgjg.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2907989600/cb33c7debb71738617c005e666ba5db4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2907989600/cb33c7debb71738617c005e666ba5db4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/138256039/1354135689",
+    "profile_link_color": "706570",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "0F040F",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          87,
+          91
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/P1vn9w5p",
+        "expanded_url": "http://wapo.st/L4peo9",
+        "display_url": "wapo.st/L4peo9",
+        "indices": [
+          101,
+          121
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          30,
+          45
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

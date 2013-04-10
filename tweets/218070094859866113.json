@@ -1,0 +1,108 @@
+{
+  "created_at": "Wed Jun 27 19:55:36 +0000 2012",
+  "id": 218070094859866113,
+  "id_str": "218070094859866113",
+  "text": "I'll be discussing #UVA and #Sullivan on @VoiceOfRussia at 4:26. Hear it here: http://t.co/OHO6LIfB",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 157523936,
+    "id_str": "157523936",
+    "name": "Krista Pedersen",
+    "screen_name": "krista_pedersen",
+    "location": "",
+    "description": "professional napper, soon-to-be-not college student #wahoowa",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 81,
+    "friends_count": 140,
+    "listed_count": 3,
+    "created_at": "Sun Jun 20 02:39:39 +0000 2010",
+    "favourites_count": 44,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 344,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2447327412/y67ixc9zci3yr3ep75xz_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2447327412/y67ixc9zci3yr3ep75xz_normal.jpeg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          19,
+          23
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          28,
+          37
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/OHO6LIfB",
+        "expanded_url": "http://player.streamtheworld.com/liveplayer.php?CALLSIGN=RUVR_USA",
+        "display_url": "player.streamtheworld.com/liveplayer.php…",
+        "indices": [
+          79,
+          99
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "VoiceofRussia",
+        "name": "The Voice of Russia",
+        "id": 115618332,
+        "id_str": "115618332",
+        "indices": [
+          41,
+          55
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

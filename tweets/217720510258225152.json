@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 20:46:29 +0000 2012",
+  "id": 217720510258225152,
+  "id_str": "217720510258225152",
+  "text": "RT @sprothero: A rare triumph for democracy, transparency, and accountability in higher ed. #UVA  http://t.co/rlMuz9xr",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15346219,
+    "id_str": "15346219",
+    "name": "ellen",
+    "screen_name": "uncpressblog",
+    "location": "chapel hill, north carolina",
+    "description": "The University of North Carolina Press. Publishing excellence since 1922. Tweeting since 2008.",
+    "url": "http://uncpressblog.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://uncpressblog.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3308,
+    "friends_count": 1591,
+    "listed_count": 323,
+    "created_at": "Mon Jul 07 20:38:30 +0000 2008",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4293,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F2E67C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/133013987/xe48caf9dd1b926c983f78a1edda2cc9.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/133013987/xe48caf9dd1b926c983f78a1edda2cc9.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1099287560/twittericon2d_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1099287560/twittericon2d_normal.JPG",
+    "profile_link_color": "735A85",
+    "profile_sidebar_border_color": "612C1A",
+    "profile_sidebar_fill_color": "AEE364",
+    "profile_text_color": "111112",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          92,
+          96
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/rlMuz9xr",
+        "expanded_url": "http://bit.ly/Os2LXM",
+        "display_url": "bit.ly/Os2LXM",
+        "indices": [
+          98,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sprothero",
+        "name": "Stephen Prothero",
+        "id": 29709101,
+        "id_str": "29709101",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

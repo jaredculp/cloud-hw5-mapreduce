@@ -1,0 +1,119 @@
+{
+  "created_at": "Tue Jun 26 23:16:37 +0000 2012",
+  "id": 217758293530120193,
+  "id_str": "217758293530120193",
+  "text": "We didn't deserve that pun-ishment MT @annameliorate #UVA BOV unanimously reappoints #Sullivan. Then why #Dragas through the last two weeks?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 305369959,
+    "id_str": "305369959",
+    "name": "Matthew Cameron",
+    "screen_name": "matthewccameron",
+    "location": "Fredericksburg/Charlottesville",
+    "description": "Former @cavalierdaily editor-in-chief/CEO, looking to stay active in media and communications. DM me if you need a strategy for promoting your message.",
+    "url": "http://flavors.me/matthewccameron",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://flavors.me/matthewccameron",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 281,
+    "friends_count": 596,
+    "listed_count": 5,
+    "created_at": "Thu May 26 02:58:52 +0000 2011",
+    "favourites_count": 57,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 965,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2263198084/Hipster_Matt_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2263198084/Hipster_Matt_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/305369959/1359342062",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          53,
+          57
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          85,
+          94
+        ]
+      },
+      {
+        "text": "Dragas",
+        "indices": [
+          105,
+          112
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "annameliorate",
+        "name": "Anna Xie",
+        "id": 127713630,
+        "id_str": "127713630",
+        "indices": [
+          38,
+          52
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

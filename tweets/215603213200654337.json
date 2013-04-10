@@ -1,0 +1,99 @@
+{
+  "created_at": "Thu Jun 21 00:33:06 +0000 2012",
+  "id": 215603213200654337,
+  "id_str": "215603213200654337",
+  "text": "#uppers @chrislhayes Does this mean you're going to discuss #UVA this weekend? Rich people think they can run UVA because they're rich",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19834077,
+    "id_str": "19834077",
+    "name": "Matt",
+    "screen_name": "keris42",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7,
+    "friends_count": 16,
+    "listed_count": 0,
+    "created_at": "Sat Jan 31 22:02:47 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 193,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1966439937/lightning_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1966439937/lightning_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uppers",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          60,
+          64
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chrislhayes",
+        "name": "Christopher Hayes",
+        "id": 4207961,
+        "id_str": "4207961",
+        "indices": [
+          8,
+          20
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

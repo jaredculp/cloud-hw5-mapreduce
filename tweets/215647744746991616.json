@@ -1,0 +1,105 @@
+{
+  "created_at": "Thu Jun 21 03:30:03 +0000 2012",
+  "id": 215647744746991616,
+  "id_str": "215647744746991616",
+  "text": "@zunguzungu That's, like, 1.7 University of Missouri Presses! #UVa",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215645844504981504,
+  "in_reply_to_status_id_str": "215645844504981504",
+  "in_reply_to_user_id": 47951511,
+  "in_reply_to_user_id_str": "47951511",
+  "in_reply_to_screen_name": "zunguzungu",
+  "user": {
+    "id": 14336930,
+    "id_str": "14336930",
+    "name": "Greg Bales",
+    "screen_name": "mgbales",
+    "location": "Iowa City, Iowa",
+    "description": "stained with pencil dust",
+    "url": "http://mgbales.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://mgbales.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 242,
+    "friends_count": 160,
+    "listed_count": 11,
+    "created_at": "Tue Apr 08 22:47:48 +0000 2008",
+    "favourites_count": 13,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8934,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/706187120/994f5f8b33ee7f01bea2e2dae6d0ad2f.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/706187120/994f5f8b33ee7f01bea2e2dae6d0ad2f.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3160681397/3c8b70c8b718febb68ebc91f2f0ea442_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3160681397/3c8b70c8b718febb68ebc91f2f0ea442_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14336930/1348191648",
+    "profile_link_color": "AC3353",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "zunguzungu",
+        "name": "Aaron Bady",
+        "id": 47951511,
+        "id_str": "47951511",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 03:19:39 +0000 2012",
+  "id": 214920352403427328,
+  "id_str": "214920352403427328",
+  "text": "NY Times covers #BOV debacle. #HoosforSullivan. http://t.co/q6BeRWMn",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 588543835,
+    "id_str": "588543835",
+    "name": "Tara Casey",
+    "screen_name": "legal_lou",
+    "location": "",
+    "description": "Current member of UR Law faculty; former Assistant U.S. Attorney; do not claim to be an expert, just trying to stay on top of it all.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 95,
+    "friends_count": 71,
+    "listed_count": 3,
+    "created_at": "Wed May 23 19:59:20 +0000 2012",
+    "favourites_count": 115,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 638,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2244323212/Casey_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2244323212/Casey_normal.jpg",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          16,
+          20
+        ]
+      },
+      {
+        "text": "HoosforSullivan",
+        "indices": [
+          30,
+          46
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/q6BeRWMn",
+        "expanded_url": "http://www.nytimes.com/2012/06/19/us/university-of-virginia-board-considers-sullivan-replacement.html?_r=1",
+        "display_url": "nytimes.com/2012/06/19/us/…",
+        "indices": [
+          48,
+          68
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,137 @@
+{
+  "created_at": "Wed Jun 20 22:30:29 +0000 2012",
+  "id": 215572355634823169,
+  "id_str": "215572355634823169",
+  "text": "VA Senator @CreighDeeds on now re; future governance of #UVA. Listen; http://t.co/rU2PjVMI @FoxRadio910 #Roanoke #Virginia",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 163498023,
+    "id_str": "163498023",
+    "name": "AFTCONST",
+    "screen_name": "AFTCONST",
+    "location": "Virginia",
+    "description": "Unique and honest syndicated talk radio in Richmond and Roanoke (so-far) from the home of the Declaration & Constitution, Charlottesville, VA!",
+    "url": "http://www.theafternoonconstitutional.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.theafternoonconstitutional.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              41
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 262,
+    "friends_count": 645,
+    "listed_count": 5,
+    "created_at": "Tue Jul 06 15:33:44 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3048,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2428936868/8sg19e9kjswzhswf9jiq_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2428936868/8sg19e9kjswzhswf9jiq_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          56,
+          60
+        ]
+      },
+      {
+        "text": "Roanoke",
+        "indices": [
+          104,
+          112
+        ]
+      },
+      {
+        "text": "Virginia",
+        "indices": [
+          113,
+          122
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/rU2PjVMI",
+        "expanded_url": "http://ht.ly/bICW9",
+        "display_url": "ht.ly/bICW9",
+        "indices": [
+          70,
+          90
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CreighDeeds",
+        "name": "Creigh Deeds",
+        "id": 19991326,
+        "id_str": "19991326",
+        "indices": [
+          11,
+          23
+        ]
+      },
+      {
+        "screen_name": "foxradio910",
+        "name": "FOX Radio 910",
+        "id": 127145391,
+        "id_str": "127145391",
+        "indices": [
+          91,
+          103
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

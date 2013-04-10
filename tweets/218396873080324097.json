@@ -1,0 +1,112 @@
+{
+  "created_at": "Thu Jun 28 17:34:06 +0000 2012",
+  "id": 218396873080324097,
+  "id_str": "218396873080324097",
+  "text": "#uva RT @Sherlysaii: ...este se cree q me va a sacar la correa hoy #NoMijoNo",
+  "source": "<a href=\"http://tweetlogix.com\" rel=\"nofollow\">Tweetlogix</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 42884841,
+    "id_str": "42884841",
+    "name": "Wylbert",
+    "screen_name": "Wylbert1",
+    "location": "Orlando/Puerto Rico",
+    "description": "[ Tio: @MrOrlandoMagic ]\n[ Brother: @iBarber_4s ]\n[ Twiiter: Cuando estoy aburrido ]          [ #TeamIphone ] [ Ingeniero Eléctrico ]\n[ Botanico ] [ ✈ ]\n\n\n\n",
+    "url": "http://www.facebook.com/wylbert",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/wylbert",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 491,
+    "friends_count": 227,
+    "listed_count": 5,
+    "created_at": "Wed May 27 13:48:15 +0000 2009",
+    "favourites_count": 151,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 25047,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/222554114/HP7_TwitterSkins-keyart.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/222554114/HP7_TwitterSkins-keyart.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3052082236/2c6b5452c179f34999fdc04ae901f99d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3052082236/2c6b5452c179f34999fdc04ae901f99d_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/42884841/1351971076",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "NoMijoNo",
+        "indices": [
+          67,
+          76
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Sherlysaii",
+        "name": "❥ Ms. Calabazita 8)",
+        "id": 39878744,
+        "id_str": "39878744",
+        "indices": [
+          8,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

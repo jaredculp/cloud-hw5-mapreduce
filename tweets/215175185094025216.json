@@ -1,0 +1,109 @@
+{
+  "created_at": "Tue Jun 19 20:12:16 +0000 2012",
+  "id": 215175185094025216,
+  "id_str": "215175185094025216",
+  "text": "@ParadoxicalMike gotta say that @LarrySabato wasnt too happy with the BOV last night.",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215174468895637504,
+  "in_reply_to_status_id_str": "215174468895637504",
+  "in_reply_to_user_id": 88520998,
+  "in_reply_to_user_id_str": "88520998",
+  "in_reply_to_screen_name": "ParadoxicalMike",
+  "user": {
+    "id": 45701577,
+    "id_str": "45701577",
+    "name": "the prhofessional",
+    "screen_name": "donnabrazilenot",
+    "location": "Washington, DC",
+    "description": "She cooks with grease. I throw it on you. // Political pundit specially trained in bs elimination // RTs ≠ Endorsement // Email: donnabrazilenot (at) gmail.com",
+    "url": "http://t.co/Vv2bm0rn",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/Vv2bm0rn",
+            "expanded_url": "http://donnabrazilenot.blogspot.com",
+            "display_url": "donnabrazilenot.blogspot.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 349,
+    "friends_count": 731,
+    "listed_count": 11,
+    "created_at": "Mon Jun 08 23:23:58 +0000 2009",
+    "favourites_count": 346,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 27576,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/604475565/07f84kp1dprqrjlz8kbu.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/604475565/07f84kp1dprqrjlz8kbu.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3140234229/d0899ad953f85601dbaa41d4b80dae37_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3140234229/d0899ad953f85601dbaa41d4b80dae37_normal.jpeg",
+    "profile_link_color": "9BB9F3",
+    "profile_sidebar_border_color": "9BB9F3",
+    "profile_sidebar_fill_color": "BC060A",
+    "profile_text_color": "222222",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ParadoxicalMike",
+        "name": "Mike",
+        "id": 88520998,
+        "id_str": "88520998",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          32,
+          44
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

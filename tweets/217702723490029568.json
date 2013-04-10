@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue Jun 26 19:35:48 +0000 2012",
+  "id": 217702723490029568,
+  "id_str": "217702723490029568",
+  "text": "RT @chronicle: Teresa Sullivan is reinstated as #UVa president: http://t.co/TcOwMMMV Complete coverage: http://t.co/5Gm3YYnN",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 124654017,
+    "id_str": "124654017",
+    "name": "APSCUF",
+    "screen_name": "APSCUF",
+    "location": "Harrisburg, PA",
+    "description": "Association of Pennsylvania State College & University Faculties -- representing more than 6,000 faculty and coaches at Pennsylvania's 14 publicly owned schools",
+    "url": "http://www.apscuf.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.apscuf.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 908,
+    "friends_count": 507,
+    "listed_count": 31,
+    "created_at": "Sat Mar 20 03:44:27 +0000 2010",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2277,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "003F7E",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2434849010/ep8kzlldtfhoywd02f62_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2434849010/ep8kzlldtfhoywd02f62_normal.png",
+    "profile_link_color": "003F7E",
+    "profile_sidebar_border_color": "EE3524",
+    "profile_sidebar_fill_color": "7E8083",
+    "profile_text_color": "272829",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/TcOwMMMV",
+        "expanded_url": "http://chroni.cl/QdqIiN",
+        "display_url": "chroni.cl/QdqIiN",
+        "indices": [
+          64,
+          84
+        ]
+      },
+      {
+        "url": "http://t.co/5Gm3YYnN",
+        "expanded_url": "http://chroni.cl/Mwk9Y8",
+        "display_url": "chroni.cl/Mwk9Y8",
+        "indices": [
+          104,
+          124
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

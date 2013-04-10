@@ -1,0 +1,124 @@
+{
+  "created_at": "Thu Jun 21 22:35:26 +0000 2012",
+  "id": 215935989896589312,
+  "id_str": "215935989896589312",
+  "text": "RT @wpjenna: Former Virginia Gov @timkaine: \"I think they should offer to reinstate President Sullivan.\" http://t.co/GVuD7eMJ #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4119741,
+    "id_str": "4119741",
+    "name": "John Dickerson",
+    "screen_name": "jdickerson",
+    "location": "ÜT: 38.900256,-77.080621",
+    "description": "Political correspondent Slate magazine/Political Director CBS News",
+    "url": "http://t.co/Xbjk8Fnh",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/Xbjk8Fnh",
+            "expanded_url": "http://www.slate.com/authors.john_dickerson.html",
+            "display_url": "slate.com/authors.john_d…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1386230,
+    "friends_count": 745,
+    "listed_count": 5616,
+    "created_at": "Wed Apr 11 03:51:01 +0000 2007",
+    "favourites_count": 838,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 11364,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/328092697/CBSheadshot.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/328092697/CBSheadshot.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/49246432/jdmisha_small_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/49246432/jdmisha_small_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          126,
+          130
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/GVuD7eMJ",
+        "expanded_url": "http://www.washingtonpost.com/local/dc-politics/u-vas-teresa-sullivan-urges-civil-discourse-on-campus/2012/06/21/gJQAITrKtV_story.html?hpid=z2",
+        "display_url": "washingtonpost.com/local/dc-polit…",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          3,
+          11
+        ]
+      },
+      {
+        "screen_name": "timkaine",
+        "name": "Senator Tim Kaine",
+        "id": 172858784,
+        "id_str": "172858784",
+        "indices": [
+          33,
+          42
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

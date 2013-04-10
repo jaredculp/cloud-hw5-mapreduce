@@ -1,0 +1,114 @@
+{
+  "created_at": "Sun Jun 24 13:37:25 +0000 2012",
+  "id": 216887755928641537,
+  "id_str": "216887755928641537",
+  "text": "New Post:  Humor as Ridicule: The Case of UVa http://t.co/FMTbUdVR via @wordpressdotcom #uva",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 388399369,
+    "id_str": "388399369",
+    "name": "Humor in America",
+    "screen_name": "HumorinAmerica",
+    "location": "",
+    "description": "HA!  It's what we study.",
+    "url": "http://humorinamerica.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://humorinamerica.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 88,
+    "friends_count": 156,
+    "listed_count": 5,
+    "created_at": "Mon Oct 10 17:46:21 +0000 2011",
+    "favourites_count": 21,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1158,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3205018133/0e0f01b29a860f977f25cf5137ff1076_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3205018133/0e0f01b29a860f977f25cf5137ff1076_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/388399369/1359947751",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          88,
+          92
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/FMTbUdVR",
+        "expanded_url": "http://wp.me/p1EpRP-Lh",
+        "display_url": "wp.me/p1EpRP-Lh",
+        "indices": [
+          46,
+          66
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wordpressdotcom",
+        "name": "WordPress.com",
+        "id": 823905,
+        "id_str": "823905",
+        "indices": [
+          71,
+          87
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

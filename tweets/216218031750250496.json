@@ -1,0 +1,106 @@
+{
+  "created_at": "Fri Jun 22 17:16:10 +0000 2012",
+  "id": 216218031750250496,
+  "id_str": "216218031750250496",
+  "text": "@Robin_L_Elliott @cavalierdaily @readthehook Jane Lynch!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216205923063046145,
+  "in_reply_to_status_id_str": "216205923063046145",
+  "in_reply_to_user_id": 361331842,
+  "in_reply_to_user_id_str": "361331842",
+  "in_reply_to_screen_name": "Robin_L_Elliott",
+  "user": {
+    "id": 57363326,
+    "id_str": "57363326",
+    "name": "Scott Fischer",
+    "screen_name": "VaNavigator",
+    "location": "The state of euphoria",
+    "description": "It all began at a 5000 watt radio station in Fresno, California....",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2,
+    "friends_count": 7,
+    "listed_count": 0,
+    "created_at": "Thu Jul 16 15:37:13 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/535721223/Scott_Simpson_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/535721223/Scott_Simpson_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Robin_L_Elliott",
+        "name": "Robin Elliott",
+        "id": 361331842,
+        "id_str": "361331842",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          17,
+          31
+        ]
+      },
+      {
+        "screen_name": "readthehook",
+        "name": "The Hook newspaper",
+        "id": 34417310,
+        "id_str": "34417310",
+        "indices": [
+          32,
+          44
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

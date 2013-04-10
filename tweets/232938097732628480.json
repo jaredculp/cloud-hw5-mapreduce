@@ -1,0 +1,149 @@
+{
+  "created_at": "Tue Aug 07 20:35:44 +0000 2012",
+  "id": 232938097732628480,
+  "id_str": "232938097732628480",
+  "text": "Ya en casa!! A partir de ahora #Avi le llamo #uva \"-\"",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 628372637,
+    "id_str": "628372637",
+    "name": "HEARTBREAKER",
+    "screen_name": "TheIreneLima",
+    "location": "Endless Road 7058",
+    "description": "Verano del 97 ¡¡AURYNER!! Me encanta pasarmelo bien, aveces puedo ser muy pesada. ~Blueheart de Dani~ El 28 de diciembre de 2012 los pude conocer!! ",
+    "url": "http://t.co/v7KyecWT",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/v7KyecWT",
+            "expanded_url": "http://www.aurynweb.com",
+            "display_url": "aurynweb.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 156,
+    "friends_count": 394,
+    "listed_count": 0,
+    "created_at": "Fri Jul 06 13:18:57 +0000 2012",
+    "favourites_count": 210,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4313,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3059046301/c2a0f791e064c20a90c21dd23d11069d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3059046301/c2a0f791e064c20a90c21dd23d11069d_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/628372637/1359195005",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      43.4010484,
+      -3.8228007
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -3.8228007,
+      43.4010484
+    ]
+  },
+  "place": {
+    "id": "35fec3b9c3cf011b",
+    "url": "https://api.twitter.com/1.1/geo/id/35fec3b9c3cf011b.json",
+    "place_type": "city",
+    "name": "El Astillero",
+    "full_name": "El Astillero, Cantabria",
+    "country_code": "ES",
+    "country": "Spain",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.862031,
+            43.386051
+          ],
+          [
+            -3.809432,
+            43.386051
+          ],
+          [
+            -3.809432,
+            43.413706
+          ],
+          [
+            -3.862031,
+            43.413706
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Avi",
+        "indices": [
+          31,
+          35
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          45,
+          49
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

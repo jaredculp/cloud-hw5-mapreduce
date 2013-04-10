@@ -1,0 +1,147 @@
+{
+  "created_at": "Sun Jun 24 18:58:05 +0000 2012",
+  "id": 216968454316625920,
+  "id_str": "216968454316625920",
+  "text": "RT @pammoran: \"Philosophical differences are a foundation of learning ..\" #UVA  http://t.co/kf5vPV1P",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 101034789,
+    "id_str": "101034789",
+    "name": "Thomas Brewster",
+    "screen_name": "edubrew",
+    "location": "37.2748, -81.3037",
+    "description": "Superintendent for Pulaski County Public Schools. Former teacher, principal, VA BOE member, and university professor. \n",
+    "url": "http://www.thomasbrewster.org/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.thomasbrewster.org/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 852,
+    "friends_count": 710,
+    "listed_count": 31,
+    "created_at": "Fri Jan 01 18:53:20 +0000 2010",
+    "favourites_count": 42,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4129,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "141112",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2258813934/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2258813934/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/101034789/1353213615",
+    "profile_link_color": "993600",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "df71ce4cfa81f131",
+    "url": "https://api.twitter.com/1.1/geo/id/df71ce4cfa81f131.json",
+    "place_type": "city",
+    "name": "Rocky Gap",
+    "full_name": "Rocky Gap, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.333094,
+            37.123978
+          ],
+          [
+            -80.977572,
+            37.123978
+          ],
+          [
+            -80.977572,
+            37.302279
+          ],
+          [
+            -81.333094,
+            37.302279
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          74,
+          78
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/kf5vPV1P",
+        "expanded_url": "http://twitpic.com/a04k6a",
+        "display_url": "twitpic.com/a04k6a",
+        "indices": [
+          80,
+          100
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "pammoran",
+        "name": "pammoran",
+        "id": 18590869,
+        "id_str": "18590869",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

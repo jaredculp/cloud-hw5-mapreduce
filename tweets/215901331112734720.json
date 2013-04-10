@@ -1,0 +1,121 @@
+{
+  "created_at": "Thu Jun 21 20:17:43 +0000 2012",
+  "id": 215901331112734720,
+  "id_str": "215901331112734720",
+  "text": "Former UM provost RT @washingtonpost: After staying nearly silent, #UVA's ousted president is speaking up: http://t.co/5esZFw4o",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25838018,
+    "id_str": "25838018",
+    "name": "Ben Estes",
+    "screen_name": "benestes91",
+    "location": "Ann Arbor, MI",
+    "description": "Michigan senior, former football/bball beat writer for The Michigan Daily, former http://t.co/ljIouIuA associate reporter. And all about the Nati.",
+    "url": "http://www.theblockm.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.theblockm.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/ljIouIuA",
+            "expanded_url": "http://MLB.com",
+            "display_url": "MLB.com",
+            "indices": [
+              82,
+              102
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 640,
+    "friends_count": 1136,
+    "listed_count": 19,
+    "created_at": "Sun Mar 22 16:23:44 +0000 2009",
+    "favourites_count": 762,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3696,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/344545086/60773_465410885657_677470657_6170454_840906_n.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/344545086/60773_465410885657_677470657_6170454_840906_n.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1583204587/318581_1585146794978_1425000627_31671898_870910972_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1583204587/318581_1585146794978_1425000627_31671898_870910972_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/5esZFw4o",
+        "expanded_url": "http://wapo.st/NZYUB8",
+        "display_url": "wapo.st/NZYUB8",
+        "indices": [
+          107,
+          127
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          21,
+          36
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

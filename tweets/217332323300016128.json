@@ -1,0 +1,128 @@
+{
+  "created_at": "Mon Jun 25 19:03:58 +0000 2012",
+  "id": 217332323300016128,
+  "id_str": "217332323300016128",
+  "text": "The VSSA Daily is out! http://t.co/y4vbunTQ ▸ Top stories today via @TheJuanWilliams @LarrySabato @ianmurray1",
+  "source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18136191,
+    "id_str": "18136191",
+    "name": "VSSA",
+    "screen_name": "VSSA",
+    "location": "Virginia",
+    "description": "Virginia Shooting Sports Association - Official NRA affiliate association",
+    "url": "http://www.virginiashootingsportsassociation.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginiashootingsportsassociation.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              57
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1721,
+    "friends_count": 920,
+    "listed_count": 61,
+    "created_at": "Mon Dec 15 13:26:20 +0000 2008",
+    "favourites_count": 66,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2981,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2C0BE0",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/18549346/twitter2.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/18549346/twitter2.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/67488096/vssalogo5_normal.PNG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/67488096/vssalogo5_normal.PNG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18136191/1357757252",
+    "profile_link_color": "1405D1",
+    "profile_sidebar_border_color": "0B19EF",
+    "profile_sidebar_fill_color": "4CA3F6",
+    "profile_text_color": "0F0000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/y4vbunTQ",
+        "expanded_url": "http://bit.ly/rr3IN4",
+        "display_url": "bit.ly/rr3IN4",
+        "indices": [
+          23,
+          43
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheJuanWilliams",
+        "name": "Juan Williams",
+        "id": 228747444,
+        "id_str": "228747444",
+        "indices": [
+          68,
+          84
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          85,
+          97
+        ]
+      },
+      {
+        "screen_name": "ianmurray1",
+        "name": "Ian Murray",
+        "id": 25149217,
+        "id_str": "25149217",
+        "indices": [
+          98,
+          109
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

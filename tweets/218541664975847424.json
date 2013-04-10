@@ -1,0 +1,91 @@
+{
+  "created_at": "Fri Jun 29 03:09:27 +0000 2012",
+  "id": 218541664975847424,
+  "id_str": "218541664975847424",
+  "text": "Mike scott to the atl #uva #deepcreek",
+  "source": "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 55345190,
+    "id_str": "55345190",
+    "name": "mark howlett",
+    "screen_name": "lilmarkey757",
+    "location": "norfolk, va 757",
+    "description": "Norfolk Collegiate C/O 2014. #HTTR",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 447,
+    "friends_count": 493,
+    "listed_count": 0,
+    "created_at": "Thu Jul 09 20:05:07 +0000 2009",
+    "favourites_count": 33,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7408,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/646669382/3p2ouronvn1dvqorvetz.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/646669382/3p2ouronvn1dvqorvetz.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2552037803/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2552037803/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/55345190/1353385313",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          22,
+          26
+        ]
+      },
+      {
+        "text": "deepcreek",
+        "indices": [
+          27,
+          37
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

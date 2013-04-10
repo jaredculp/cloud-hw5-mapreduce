@@ -1,0 +1,124 @@
+{
+  "created_at": "Thu Jun 21 11:26:25 +0000 2012",
+  "id": 215767625819635712,
+  "id_str": "215767625819635712",
+  "text": "UVA/FOIA info RT The @cavalierdaily Storify article on Rector, Vice Rector emails acquired through #FOIA http://t.co/kS1er1XW @storify",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 446398099,
+    "id_str": "446398099",
+    "name": "Kevin McNamee",
+    "screen_name": "kwmcnamee",
+    "location": "Fairfax, Virginia",
+    "description": "Deputy Athletic Director @ George Mason University and proud member of the CAA.",
+    "url": "http://www.gomason.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.gomason.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 453,
+    "friends_count": 200,
+    "listed_count": 4,
+    "created_at": "Sun Dec 25 17:35:04 +0000 2011",
+    "favourites_count": 154,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4955,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3170049767/94419ddd43dda7962807bc2156c066b3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3170049767/94419ddd43dda7962807bc2156c066b3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/446398099/1353101035",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FOIA",
+        "indices": [
+          99,
+          104
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/kS1er1XW",
+        "expanded_url": "http://storify.com/cavalierdaily/emails-show-thoughts-of-key-bov-members",
+        "display_url": "storify.com/cavalierdaily/…",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          21,
+          35
+        ]
+      },
+      {
+        "screen_name": "Storify",
+        "name": "Storify",
+        "id": 17814938,
+        "id_str": "17814938",
+        "indices": [
+          126,
+          134
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

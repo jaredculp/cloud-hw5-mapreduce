@@ -1,0 +1,108 @@
+{
+  "created_at": "Mon Aug 06 13:03:19 +0000 2012",
+  "id": 232461852527972354,
+  "id_str": "232461852527972354",
+  "text": "RT @ilovevalladolid: La Escuela de Ingenierías de la #UVA ofrece ocho másteres oficiales #Valladolid http://t.co/NZuqKqeq",
+  "source": "<a href=\"http://www.sharedby.co\" rel=\"nofollow\">SharedBy</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 263071259,
+    "id_str": "263071259",
+    "name": "Susana Ortega",
+    "screen_name": "PlanEmpleo",
+    "location": "Valladolid",
+    "description": "#GestióndeEmpleo #Orientacionlaboral #Educaciónsocial #Inserción #Formación #rrhh #cyl ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 763,
+    "friends_count": 674,
+    "listed_count": 40,
+    "created_at": "Wed Mar 09 09:35:38 +0000 2011",
+    "favourites_count": 30,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2957,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/670623580/90564c53b1700999c86bccbad3226b9e.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/670623580/90564c53b1700999c86bccbad3226b9e.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3050726111/0770f4d8ae711246a0ddb5b565131fd4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3050726111/0770f4d8ae711246a0ddb5b565131fd4_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          53,
+          57
+        ]
+      },
+      {
+        "text": "Valladolid",
+        "indices": [
+          89,
+          100
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/NZuqKqeq",
+        "expanded_url": "http://goo.gl/dqooK",
+        "display_url": "goo.gl/dqooK",
+        "indices": [
+          101,
+          121
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ilovevalladolid",
+        "name": "I love Valladolid",
+        "id": 125335691,
+        "id_str": "125335691",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

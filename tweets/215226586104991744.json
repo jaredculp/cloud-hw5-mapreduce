@@ -1,0 +1,125 @@
+{
+  "created_at": "Tue Jun 19 23:36:31 +0000 2012",
+  "id": 215226586104991744,
+  "id_str": "215226586104991744",
+  "text": "Would love to see the @onpointradio crew take a look at the #UVa #BOV debacle. #Sullivan #Dragas",
+  "source": "<a href=\"http://seesmic.com/\" rel=\"nofollow\">Seesmic</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 224790598,
+    "id_str": "224790598",
+    "name": "Heather Balmat",
+    "screen_name": "BalmatLaw",
+    "location": "Charlottesville, Virginia",
+    "description": "I am a trademark attorney with a focus on advising clients on trademark selection and registration. I also assist with int'l registration. ",
+    "url": "http://www.balmatlaw.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.balmatlaw.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 227,
+    "friends_count": 374,
+    "listed_count": 12,
+    "created_at": "Thu Dec 09 21:50:12 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 415,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1427825734/hbalmat20forWeb_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1427825734/hbalmat20forWeb_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          60,
+          64
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          65,
+          69
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          79,
+          88
+        ]
+      },
+      {
+        "text": "Dragas",
+        "indices": [
+          89,
+          96
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "OnPointRadio",
+        "name": "On Point - NPR",
+        "id": 23112236,
+        "id_str": "23112236",
+        "indices": [
+          22,
+          35
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

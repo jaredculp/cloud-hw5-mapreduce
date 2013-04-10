@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Jun 26 19:27:55 +0000 2012",
+  "id": 217700737742946304,
+  "id_str": "217700737742946304",
+  "text": "You’ll be able to hear Sullivan’s remarks at http://t.co/G4Ti211u and http://t.co/rEBJr7kz. #BOV #UVA",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 52553230,
+    "id_str": "52553230",
+    "name": "cvillenews.com",
+    "screen_name": "cvillenewscom",
+    "location": "Charlottesville, VA",
+    "description": "Charlottesville news tweetage. Maintained by @waldojaquith.",
+    "url": "http://www.cvillenews.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cvillenews.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1166,
+    "friends_count": 17,
+    "listed_count": 79,
+    "created_at": "Tue Jun 30 23:04:41 +0000 2009",
+    "favourites_count": 32,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1385,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/291110792/waldo_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/291110792/waldo_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          92,
+          96
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          97,
+          101
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/G4Ti211u",
+        "expanded_url": "http://newsplex.com",
+        "display_url": "newsplex.com",
+        "indices": [
+          45,
+          65
+        ]
+      },
+      {
+        "url": "http://t.co/rEBJr7kz",
+        "expanded_url": "http://nbc29.com",
+        "display_url": "nbc29.com",
+        "indices": [
+          70,
+          90
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

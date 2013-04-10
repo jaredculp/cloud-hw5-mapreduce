@@ -1,0 +1,95 @@
+{
+  "created_at": "Fri Aug 10 18:29:49 +0000 2012",
+  "id": 233993571617882113,
+  "id_str": "233993571617882113",
+  "text": "·quieres? (Y) #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 186980603,
+    "id_str": "186980603",
+    "name": "MoniMosqueda!",
+    "screen_name": "MonicaMosq",
+    "location": "villahermosa",
+    "description": "Si lo vieras tan solo es un SHOW!!♥",
+    "url": "http://www.MonicaMosqueda.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.MonicaMosqueda.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 161,
+    "friends_count": 306,
+    "listed_count": 0,
+    "created_at": "Sat Sep 04 23:10:38 +0000 2010",
+    "favourites_count": 4,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1427,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/726672628/d2b0b2f9c11a58d9b711189b8a630856.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/726672628/d2b0b2f9c11a58d9b711189b8a630856.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2920323433/617cfcb95f784470bd2690fbed8414b1_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2920323433/617cfcb95f784470bd2690fbed8414b1_normal.jpeg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          14,
+          18
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

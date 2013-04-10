@@ -1,0 +1,131 @@
+{
+  "created_at": "Fri Jun 22 21:14:01 +0000 2012",
+  "id": 216277886385143808,
+  "id_str": "216277886385143808",
+  "text": "@cavalierdaily Good for Gov. McDonnell...",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216276890917404674,
+  "in_reply_to_status_id_str": "216276890917404674",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 115656327,
+    "id_str": "115656327",
+    "name": "pat jones",
+    "screen_name": "VADistillery",
+    "location": "Charlottesville, VA",
+    "description": "Making authentic 'Scottish' style single malt whisky in America. Our craft distillery is under construction in Virginia. Eades Double Malt whisky available now.",
+    "url": "http://www.vadistillery.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.vadistillery.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1311,
+    "friends_count": 1958,
+    "listed_count": 82,
+    "created_at": "Fri Feb 19 12:55:42 +0000 2010",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1053,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "7D6134",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/112372603/IMG_0941.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/112372603/IMG_0941.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/740566138/avipat_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/740566138/avipat_normal.jpg",
+    "profile_link_color": "D1852E",
+    "profile_sidebar_border_color": "0AFFD2",
+    "profile_sidebar_fill_color": "B5D9F2",
+    "profile_text_color": "080707",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "84a054a9dfe0dcf1",
+    "url": "https://api.twitter.com/1.1/geo/id/84a054a9dfe0dcf1.json",
+    "place_type": "city",
+    "name": "Samuel Miller",
+    "full_name": "Samuel Miller, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.806576,
+            37.907229
+          ],
+          [
+            -78.514126,
+            37.907229
+          ],
+          [
+            -78.514126,
+            38.104528
+          ],
+          [
+            -78.806576,
+            38.104528
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

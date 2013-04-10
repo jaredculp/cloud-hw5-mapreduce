@@ -1,0 +1,274 @@
+{
+  "created_at": "Sat Jun 23 00:25:17 +0000 2012",
+  "id": 216326020846993410,
+  "id_str": "216326020846993410",
+  "text": "RT @TimBolling: RT @makowrites Wow @HelenDragas discovered twitter, finally. #uva #Sullivan #Dragas &gt;&gt; that's a fake account, @mak ...",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 190296269,
+    "id_str": "190296269",
+    "name": "Tom Glendening",
+    "screen_name": "e3blue",
+    "location": "NYC, NY",
+    "description": "urban innovation",
+    "url": "http://www.glendening.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.glendening.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 43,
+    "friends_count": 41,
+    "listed_count": 0,
+    "created_at": "Mon Sep 13 16:00:56 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 965,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Jun 23 00:15:22 +0000 2012",
+    "id": 216323525244489729,
+    "id_str": "216323525244489729",
+    "text": "RT @makowrites Wow @HelenDragas discovered twitter, finally. #uva #Sullivan #Dragas &gt;&gt; that's a fake account, @makowrites",
+    "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 21550087,
+      "id_str": "21550087",
+      "name": "Tim Bolling",
+      "screen_name": "TimBolling",
+      "location": "Morgantown, West Virginia",
+      "description": "Associate Vice President at the WVU Foundation;  Husband, father, and with more interests than I can handle",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 484,
+      "friends_count": 1886,
+      "listed_count": 15,
+      "created_at": "Sun Feb 22 06:20:31 +0000 2009",
+      "favourites_count": 249,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2436,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1665449123/Twitter_profile_normal.JPG",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1665449123/Twitter_profile_normal.JPG",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "uva",
+          "indices": [
+            61,
+            65
+          ]
+        },
+        {
+          "text": "Sullivan",
+          "indices": [
+            66,
+            75
+          ]
+        },
+        {
+          "text": "Dragas",
+          "indices": [
+            76,
+            83
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "makowrites",
+          "name": "makowrites",
+          "id": 42775953,
+          "id_str": "42775953",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "HelenDragas",
+          "name": "Helen Dragas",
+          "id": 612252466,
+          "id_str": "612252466",
+          "indices": [
+            19,
+            31
+          ]
+        },
+        {
+          "screen_name": "makowrites",
+          "name": "makowrites",
+          "id": 42775953,
+          "id_str": "42775953",
+          "indices": [
+            116,
+            127
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          77,
+          81
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          82,
+          91
+        ]
+      },
+      {
+        "text": "Dragas",
+        "indices": [
+          92,
+          99
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TimBolling",
+        "name": "Tim Bolling",
+        "id": 21550087,
+        "id_str": "21550087",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "makowrites",
+        "name": "makowrites",
+        "id": 42775953,
+        "id_str": "42775953",
+        "indices": [
+          19,
+          30
+        ]
+      },
+      {
+        "screen_name": "HelenDragas",
+        "name": "Helen Dragas",
+        "id": 612252466,
+        "id_str": "612252466",
+        "indices": [
+          35,
+          47
+        ]
+      },
+      {
+        "screen_name": "mak",
+        "name": "mak",
+        "id": 65053,
+        "id_str": "65053",
+        "indices": [
+          132,
+          136
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

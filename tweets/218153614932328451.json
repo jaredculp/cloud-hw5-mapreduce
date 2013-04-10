@@ -1,0 +1,138 @@
+{
+  "created_at": "Thu Jun 28 01:27:29 +0000 2012",
+  "id": 218153614932328451,
+  "id_str": "218153614932328451",
+  "text": "@BlairMatthews1 @MattBMcLean6F @uvaswimdive got 5th in the 200 free and that qualifies him for a relay in #london2012 #uva #fcef",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 218147612392566784,
+  "in_reply_to_status_id_str": "218147612392566784",
+  "in_reply_to_user_id": 21675766,
+  "in_reply_to_user_id_str": "21675766",
+  "in_reply_to_screen_name": "BlairMatthews1",
+  "user": {
+    "id": 59835047,
+    "id_str": "59835047",
+    "name": "Bo Greenwood",
+    "screen_name": "bogreenwood",
+    "location": "Charlottesville",
+    "description": "",
+    "url": "http://www.vcuathletics.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.vcuathletics.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 102,
+    "friends_count": 135,
+    "listed_count": 0,
+    "created_at": "Fri Jul 24 17:14:19 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 37,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2147901621/fcef_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2147901621/fcef_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "london2012",
+        "indices": [
+          106,
+          117
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          118,
+          122
+        ]
+      },
+      {
+        "text": "fcef",
+        "indices": [
+          123,
+          128
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BlairMatthews1",
+        "name": "Blair Matthews",
+        "id": 21675766,
+        "id_str": "21675766",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "MattBMcLean6F",
+        "name": "Matt McLean",
+        "id": 303618048,
+        "id_str": "303618048",
+        "indices": [
+          16,
+          30
+        ]
+      },
+      {
+        "screen_name": "uvaswimdive",
+        "name": "Virginia Swim & Dive",
+        "id": 44697418,
+        "id_str": "44697418",
+        "indices": [
+          31,
+          43
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

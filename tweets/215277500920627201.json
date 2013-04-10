@@ -1,0 +1,121 @@
+{
+  "created_at": "Wed Jun 20 02:58:50 +0000 2012",
+  "id": 215277500920627201,
+  "id_str": "215277500920627201",
+  "text": "Nice architectural shot! RT @janefriedman: The #Rotunda at #UVA  @ The Rotunda http://t.co/VJY8G2V9",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 39469575,
+    "id_str": "39469575",
+    "name": "Porter Anderson",
+    "screen_name": "Porter_Anderson",
+    "location": "",
+    "description": "Journalist, Speaker | Writing on the Ether  @JaneFriedman | Ether for Authors @PubPerspectives | @DigiBookWorld | @WriterUnboxed | Fmr. CNN, UNWFP/Rome  ",
+    "url": "http://www.PorterAnderson.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.PorterAnderson.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6245,
+    "friends_count": 1551,
+    "listed_count": 440,
+    "created_at": "Tue May 12 09:56:28 +0000 2009",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 61934,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/330853370/Louvre_morning.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/330853370/Louvre_morning.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1218111533/Porter_Anderson_thumb_close2__Photo_Jeff_Cohen__normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1218111533/Porter_Anderson_thumb_close2__Photo_Jeff_Cohen__normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/39469575/1348921139",
+    "profile_link_color": "666666",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "CCCCCC",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Rotunda",
+        "indices": [
+          47,
+          55
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          59,
+          63
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/VJY8G2V9",
+        "expanded_url": "http://instagr.am/p/MFGKBIpJBB/",
+        "display_url": "instagr.am/p/MFGKBIpJBB/",
+        "indices": [
+          79,
+          99
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JaneFriedman",
+        "name": "Jane Friedman",
+        "id": 14868280,
+        "id_str": "14868280",
+        "indices": [
+          28,
+          41
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

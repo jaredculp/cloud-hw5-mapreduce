@@ -1,0 +1,111 @@
+{
+  "created_at": "Mon Aug 13 01:42:30 +0000 2012",
+  "id": 234827233938784258,
+  "id_str": "234827233938784258",
+  "text": "Tonight's board call yielded a theme for our gala on 10/20 in DC: \"The Courage to Fight | The Power to Inspire.\" #LGBT #UVA @UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 112589714,
+    "id_str": "112589714",
+    "name": "UVA Serp Society",
+    "screen_name": "UVASerpSociety",
+    "location": "Charlottesville & everywhere",
+    "description": "The Serpentine Society, the University of Virginia's LGBTQ alumni network. Twitter account managed by @slicksean, class of 2000.",
+    "url": "http://www.serpentinesociety.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.serpentinesociety.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 224,
+    "friends_count": 220,
+    "listed_count": 15,
+    "created_at": "Tue Feb 09 01:45:27 +0000 2010",
+    "favourites_count": 6,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1050,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3181269709/1c562fc07130fa40112428aa873b39f0_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3181269709/1c562fc07130fa40112428aa873b39f0_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "LGBT",
+        "indices": [
+          113,
+          118
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          119,
+          123
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          124,
+          128
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

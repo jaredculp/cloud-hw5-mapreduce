@@ -1,0 +1,155 @@
+{
+  "created_at": "Sun Aug 26 11:59:21 +0000 2012",
+  "id": 239693511715344384,
+  "id_str": "239693511715344384",
+  "text": "#UVA on nixing Obama #rally: Would #disrupt 186 #classes http://t.co/4VKGgnuB #education #Democrat #campaign http://t.co/Ii8IcwnC",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 78156215,
+    "id_str": "78156215",
+    "name": "AwesomeCapital",
+    "screen_name": "AwesomeCapital",
+    "location": "",
+    "description": "",
+    "url": "http://www.awesomecapital.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.awesomecapital.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1700,
+    "friends_count": 1812,
+    "listed_count": 12,
+    "created_at": "Mon Sep 28 23:38:28 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14949,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/87986568/awesome2x.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/87986568/awesome2x.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/442727434/awesome_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/442727434/awesome_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "rally",
+        "indices": [
+          21,
+          27
+        ]
+      },
+      {
+        "text": "disrupt",
+        "indices": [
+          35,
+          43
+        ]
+      },
+      {
+        "text": "classes",
+        "indices": [
+          48,
+          56
+        ]
+      },
+      {
+        "text": "education",
+        "indices": [
+          78,
+          88
+        ]
+      },
+      {
+        "text": "Democrat",
+        "indices": [
+          89,
+          98
+        ]
+      },
+      {
+        "text": "campaign",
+        "indices": [
+          99,
+          108
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/4VKGgnuB",
+        "expanded_url": "http://awesomecapital.com",
+        "display_url": "awesomecapital.com",
+        "indices": [
+          57,
+          77
+        ]
+      },
+      {
+        "url": "http://t.co/Ii8IcwnC",
+        "expanded_url": "http://tinyurl.com/br35vee",
+        "display_url": "tinyurl.com/br35vee",
+        "indices": [
+          109,
+          129
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

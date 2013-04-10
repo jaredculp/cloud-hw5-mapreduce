@@ -1,0 +1,129 @@
+{
+  "created_at": "Fri Jun 22 01:32:55 +0000 2012",
+  "id": 215980652942721025,
+  "id_str": "215980652942721025",
+  "text": "Must Read re: #UVA #sullivan Midnight Judges http://t.co/hmCXrUPj via @HuffPostCollege #thomasjefferson",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 158397224,
+    "id_str": "158397224",
+    "name": "Lucien Zeigler",
+    "screen_name": "lucienzeigler",
+    "location": "Washington, D.C.",
+    "description": "Research Director @SUSTG | CEO @Arabianomics | Tweets about #Saudi and #Gulf region business and diplomatic affairs. Opinions, as great as they are, are mine.  ",
+    "url": "http://t.co/U2RaQT0H",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/U2RaQT0H",
+            "expanded_url": "http://sustg.org/blog/author/lucien/",
+            "display_url": "sustg.org/blog/author/lu…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 232,
+    "friends_count": 178,
+    "listed_count": 6,
+    "created_at": "Tue Jun 22 15:23:30 +0000 2010",
+    "favourites_count": 89,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3333,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/663812893/0nkr4nhvj871v8dve1fg.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/663812893/0nkr4nhvj871v8dve1fg.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2836725518/96c03235f94f143e0310fbbffd09f5d9_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2836725518/96c03235f94f143e0310fbbffd09f5d9_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/158397224/1350246597",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          14,
+          18
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          19,
+          28
+        ]
+      },
+      {
+        "text": "thomasjefferson",
+        "indices": [
+          87,
+          103
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/hmCXrUPj",
+        "expanded_url": "http://huff.to/LDZcJm",
+        "display_url": "huff.to/LDZcJm",
+        "indices": [
+          45,
+          65
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HuffPostCollege",
+        "name": "HuffPost College",
+        "id": 101896529,
+        "id_str": "101896529",
+        "indices": [
+          70,
+          86
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

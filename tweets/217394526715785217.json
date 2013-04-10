@@ -1,0 +1,125 @@
+{
+  "created_at": "Mon Jun 25 23:11:08 +0000 2012",
+  "id": 217394526715785217,
+  "id_str": "217394526715785217",
+  "text": "#WSJ blows simple fact checking (not the first time) as it weighs in on #UVA (not #BPA) controversy http://t.co/UUkgRNZK #RectorDragas",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21318226,
+    "id_str": "21318226",
+    "name": "Pete Myers",
+    "screen_name": "petemyers",
+    "location": "Charlottesville, VA",
+    "description": "Scientist, publisher, author (Our Stolen Future), photographer",
+    "url": "http://www.environmentalhealthnews.org/ehs/Members/jpmyers",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.environmentalhealthnews.org/ehs/Members/jpmyers",
+            "expanded_url": null,
+            "indices": [
+              0,
+              58
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2186,
+    "friends_count": 293,
+    "listed_count": 158,
+    "created_at": "Thu Feb 19 17:22:42 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6404,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/37885770/petemyers_1253290193.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/37885770/petemyers_1253290193.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/545553028/2007-0731_JPM_tight_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/545553028/2007-0731_JPM_tight_normal.jpg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "WSJ",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          72,
+          76
+        ]
+      },
+      {
+        "text": "BPA",
+        "indices": [
+          82,
+          86
+        ]
+      },
+      {
+        "text": "RectorDragas",
+        "indices": [
+          121,
+          134
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UUkgRNZK",
+        "expanded_url": "http://bit.ly/Ml5hNG",
+        "display_url": "bit.ly/Ml5hNG",
+        "indices": [
+          100,
+          120
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

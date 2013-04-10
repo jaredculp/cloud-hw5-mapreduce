@@ -1,0 +1,99 @@
+{
+  "created_at": "Thu Aug 09 14:18:23 +0000 2012",
+  "id": 233567909778169857,
+  "id_str": "233567909778169857",
+  "text": "@PamTstdo jajajajajajjajajajajaja me hiciste el diia #noparodereir #UVA jajaj",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 233541174844080128,
+  "in_reply_to_status_id_str": "233541174844080128",
+  "in_reply_to_user_id": 99842983,
+  "in_reply_to_user_id_str": "99842983",
+  "in_reply_to_screen_name": "PamTstdo",
+  "user": {
+    "id": 579211589,
+    "id_str": "579211589",
+    "name": "mariana kuri",
+    "screen_name": "marianakuri4",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 78,
+    "friends_count": 94,
+    "listed_count": 0,
+    "created_at": "Sun May 13 19:18:49 +0000 2012",
+    "favourites_count": 7,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 540,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2215728047/426019_10150703175820132_12964065_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2215728047/426019_10150703175820132_12964065_n_normal.jpg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "noparodereir",
+        "indices": [
+          53,
+          66
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PamTstdo",
+        "name": "Pan Tostado",
+        "id": 99842983,
+        "id_str": "99842983",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

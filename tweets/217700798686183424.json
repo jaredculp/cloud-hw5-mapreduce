@@ -1,0 +1,103 @@
+{
+  "created_at": "Tue Jun 26 19:28:09 +0000 2012",
+  "id": 217700798686183424,
+  "id_str": "217700798686183424",
+  "text": "Unanimous \"yes\" vote to reinstate #Sullivan as President at #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 227767527,
+    "id_str": "227767527",
+    "name": "Todd Corillo",
+    "screen_name": "ToddCorilloWTKR",
+    "location": "Norfolk, Virginia",
+    "description": "Reporter @WTKR3 in #Norfolk. Native of #hrva & a proud @williamandmary alum. Have a story idea? E-mail: todd.corillo@wtkr.com",
+    "url": "http://www.wtkr.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wtkr.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 798,
+    "friends_count": 318,
+    "listed_count": 41,
+    "created_at": "Fri Dec 17 19:13:48 +0000 2010",
+    "favourites_count": 21,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8907,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/566828576/265w87n4vomjpl1yadna.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/566828576/265w87n4vomjpl1yadna.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2786241141/2f5929f5b93d4de8c8aa6d664e0f2103_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2786241141/2f5929f5b93d4de8c8aa6d664e0f2103_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/227767527/1355609586",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          34,
+          43
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          60,
+          64
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

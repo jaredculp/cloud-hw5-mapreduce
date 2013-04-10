@@ -1,0 +1,86 @@
+{
+  "created_at": "Sun Jun 24 18:36:38 +0000 2012",
+  "id": 216963057014939648,
+  "id_str": "216963057014939648",
+  "text": "@cavalierdaily on my way, make that 1001-1501!",
+  "source": "<a href=\"http://twidroyd.com\" rel=\"nofollow\">Twidroyd for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 182084257,
+    "id_str": "182084257",
+    "name": "Goy Hebrew Prof",
+    "screen_name": "GoyHebrewProf",
+    "location": "",
+    "description": "Corn-fed Kansas goy boy who fell in love with Hebrew and now teaches @ research university east of the Mississippi.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4,
+    "friends_count": 18,
+    "listed_count": 0,
+    "created_at": "Mon Aug 23 20:01:35 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 31,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2323275612/nqlkj0901tpi7zxqd12k_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2323275612/nqlkj0901tpi7zxqd12k_normal.jpeg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "65B0DA",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

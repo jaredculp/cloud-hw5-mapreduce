@@ -1,0 +1,84 @@
+{
+  "created_at": "Sat Aug 11 13:43:26 +0000 2012",
+  "id": 234283890703990784,
+  "id_str": "234283890703990784",
+  "text": "Two weeks until #UVA",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 577671489,
+    "id_str": "577671489",
+    "name": "Barun Deep Singh",
+    "screen_name": "baaarrooon",
+    "location": "",
+    "description": "I'm a social butterfly...",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 40,
+    "friends_count": 82,
+    "listed_count": 0,
+    "created_at": "Sat May 12 00:37:31 +0000 2012",
+    "favourites_count": 39,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 594,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2787746078/0aebc66fc01cbf0babaef066620e81b3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2787746078/0aebc66fc01cbf0babaef066620e81b3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/577671489/1350721006",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          16,
+          20
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

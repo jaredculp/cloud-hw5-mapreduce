@@ -1,0 +1,128 @@
+{
+  "created_at": "Thu Jun 28 17:19:12 +0000 2012",
+  "id": 218393123368337408,
+  "id_str": "218393123368337408",
+  "text": "@BMaffett I'm taking an issues in higher education course in the fall. I'm sure #UVA will be on the topic list #sachat #lookingforwardtoit",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 218392555241484288,
+  "in_reply_to_status_id_str": "218392555241484288",
+  "in_reply_to_user_id": 24827481,
+  "in_reply_to_user_id_str": "24827481",
+  "in_reply_to_screen_name": "BMaffett",
+  "user": {
+    "id": 364011222,
+    "id_str": "364011222",
+    "name": "Jessica Dean",
+    "screen_name": "j_deanSAys",
+    "location": "Tallahassee, FL",
+    "description": "#Clemson Alumna; Kappa Alpha Theta Alumna & Advisor; Pursuing Master's in Higher Education at #FSU; Reflection at: http://t.co/Melw8qgU",
+    "url": "http://t.co/Melw8qgU",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/Melw8qgU",
+            "expanded_url": "http://jessicagdean.wordpress.com",
+            "display_url": "jessicagdean.wordpress.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/Melw8qgU",
+            "expanded_url": "http://jessicagdean.wordpress.com",
+            "display_url": "jessicagdean.wordpress.com",
+            "indices": [
+              115,
+              135
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 291,
+    "friends_count": 349,
+    "listed_count": 18,
+    "created_at": "Mon Aug 29 01:57:05 +0000 2011",
+    "favourites_count": 326,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 872,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1518335368/Jessica_Dean_005_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1518335368/Jessica_Dean_005_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/364011222/1355285212",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          80,
+          84
+        ]
+      },
+      {
+        "text": "sachat",
+        "indices": [
+          111,
+          118
+        ]
+      },
+      {
+        "text": "lookingforwardtoit",
+        "indices": [
+          119,
+          138
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BMaffett",
+        "name": "Britt",
+        "id": 24827481,
+        "id_str": "24827481",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

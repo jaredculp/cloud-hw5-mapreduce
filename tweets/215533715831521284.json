@@ -1,0 +1,124 @@
+{
+  "created_at": "Wed Jun 20 19:56:56 +0000 2012",
+  "id": 215533715831521284,
+  "id_str": "215533715831521284",
+  "text": "As an undergrad at @UVA I was a lowly copy-editor at @cavalierdaily. Liking its intense coverage of #Sullivan affair. http://t.co/moFiOHzx",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1528701,
+    "id_str": "1528701",
+    "name": "Lewis Shepherd",
+    "screen_name": "lewisshepherd",
+    "location": "Washington, DC",
+    "description": "Live in Virginia, work in DC & Redmond, play on the web. Director of Microsoft Institute for Advanced Technology in Governments.",
+    "url": "http://t.co/TgvLVAgK",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/TgvLVAgK",
+            "expanded_url": "http://www.ShepherdsPi.com",
+            "display_url": "ShepherdsPi.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5107,
+    "friends_count": 4001,
+    "listed_count": 419,
+    "created_at": "Mon Mar 19 17:01:58 +0000 2007",
+    "favourites_count": 70,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 16631,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "09025A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/3105215/Keyboard_background.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/3105215/Keyboard_background.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1352022720/LShepherd_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1352022720/LShepherd_normal.JPG",
+    "profile_link_color": "AB0017",
+    "profile_sidebar_border_color": "870C2B",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          100,
+          109
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/moFiOHzx",
+        "expanded_url": "http://www.cavalierdaily.com",
+        "display_url": "cavalierdaily.com",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          19,
+          23
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          53,
+          67
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

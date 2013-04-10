@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 19:31:44 +0000 2012",
+  "id": 217701700704813056,
+  "id_str": "217701700704813056",
+  "text": "@npquarterly examines #UVa uproar and finds worthwhile lessons: http://t.co/dY0MLM2T",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 61206610,
+  "in_reply_to_user_id_str": "61206610",
+  "in_reply_to_screen_name": "npquarterly",
+  "user": {
+    "id": 543632214,
+    "id_str": "543632214",
+    "name": "IU SPEA Bloomington",
+    "screen_name": "SPEAIUB",
+    "location": "Bloomington, Indiana",
+    "description": "The mission of SPEA is to improve the lives of individuals, the impact of organizations and the quality of communities through research and education.",
+    "url": "http://indiana.edu/~spea",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://indiana.edu/~spea",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 679,
+    "friends_count": 302,
+    "listed_count": 21,
+    "created_at": "Mon Apr 02 16:40:04 +0000 2012",
+    "favourites_count": 2,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1147,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2019280230/SPEA_IUB_avatar_250x250_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2019280230/SPEA_IUB_avatar_250x250_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          22,
+          26
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dY0MLM2T",
+        "expanded_url": "http://ow.ly/bQ5ja",
+        "display_url": "ow.ly/bQ5ja",
+        "indices": [
+          64,
+          84
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "npquarterly",
+        "name": "Nonprofit Quarterly",
+        "id": 61206610,
+        "id_str": "61206610",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

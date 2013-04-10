@@ -1,0 +1,118 @@
+{
+  "created_at": "Sun Aug 12 20:54:33 +0000 2012",
+  "id": 234754771515473920,
+  "id_str": "234754771515473920",
+  "text": "#quem #quer #trident #de #uva #segue",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 485138227,
+    "id_str": "485138227",
+    "name": "Trident De Uva",
+    "screen_name": "_TridentDeUva",
+    "location": "",
+    "description": "QUEREMOOS TRIDENT DE UVA\r\nSEGUII GENTE PRA NÓS CONSEGUIRMOS O #TridentDeUva .. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1,
+    "friends_count": 10,
+    "listed_count": 0,
+    "created_at": "Mon Feb 06 21:40:16 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8F12C4",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/418380695/page.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/418380695/page.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1809289744/5167fa9056f1e9b3f650787e8bd82496_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1809289744/5167fa9056f1e9b3f650787e8bd82496_normal.png",
+    "profile_link_color": "8014D9",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "quem",
+        "indices": [
+          0,
+          5
+        ]
+      },
+      {
+        "text": "quer",
+        "indices": [
+          6,
+          11
+        ]
+      },
+      {
+        "text": "trident",
+        "indices": [
+          12,
+          20
+        ]
+      },
+      {
+        "text": "de",
+        "indices": [
+          21,
+          24
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          25,
+          29
+        ]
+      },
+      {
+        "text": "segue",
+        "indices": [
+          30,
+          36
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

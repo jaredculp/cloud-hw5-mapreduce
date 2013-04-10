@@ -1,0 +1,103 @@
+{
+  "created_at": "Wed Aug 08 00:03:54 +0000 2012",
+  "id": 232990482358218753,
+  "id_str": "232990482358218753",
+  "text": "@DavidTeelatDP @TheUVAFool #UVA Over is a lock. What is Marylands total? Gotta think they go under. They are a mess. Edsall has lost them.",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 232985837879562240,
+  "in_reply_to_status_id_str": "232985837879562240",
+  "in_reply_to_user_id": 185385165,
+  "in_reply_to_user_id_str": "185385165",
+  "in_reply_to_screen_name": "DavidTeelatDP",
+  "user": {
+    "id": 43378252,
+    "id_str": "43378252",
+    "name": "EW-Hwy410",
+    "screen_name": "EastWestHighway",
+    "location": "Maryland via Virginia",
+    "description": "Find me at Navy Yard Metro. Would love a Frank Gore jersey.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 163,
+    "friends_count": 488,
+    "listed_count": 0,
+    "created_at": "Fri May 29 18:07:33 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2814,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/280204356/north_20entrance.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/280204356/north_20entrance.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2869506097/aa2ecbd89028696eeadacef505501364_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2869506097/aa2ecbd89028696eeadacef505501364_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/43378252/1356065341",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          27,
+          31
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DavidTeelatDP",
+        "name": "David Teel",
+        "id": 185385165,
+        "id_str": "185385165",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          15,
+          26
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

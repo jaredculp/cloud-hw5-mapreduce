@@ -1,0 +1,116 @@
+{
+  "created_at": "Tue Jun 19 20:16:33 +0000 2012",
+  "id": 215176264175206400,
+  "id_str": "215176264175206400",
+  "text": "First dominoes falls. RT @NBC29 The #Cville Daily Progress says Vice Rector Mark J. Kington has resigned. @DailyProgTed #UVA #Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 252169141,
+    "id_str": "252169141",
+    "name": "Shawn Brydge",
+    "screen_name": "sbrydge",
+    "location": "Cville",
+    "description": "University of Virginia - Financial Economics '00, Cavaliers Against Cancer, Chi Psi Lodge, WaHooWa",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 82,
+    "friends_count": 279,
+    "listed_count": 2,
+    "created_at": "Mon Feb 14 16:49:07 +0000 2011",
+    "favourites_count": 14,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 705,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/378253963/IMG_5035_edit.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/378253963/IMG_5035_edit.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2539162222/ypkhbkxzp6752fi1pb8k_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2539162222/ypkhbkxzp6752fi1pb8k_normal.jpeg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Cville",
+        "indices": [
+          36,
+          43
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          120,
+          124
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          125,
+          134
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          25,
+          31
+        ]
+      },
+      {
+        "screen_name": "DailyProgTed",
+        "name": "Ted Strong, reporter",
+        "id": 365027838,
+        "id_str": "365027838",
+        "indices": [
+          106,
+          119
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

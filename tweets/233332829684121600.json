@@ -1,0 +1,84 @@
+{
+  "created_at": "Wed Aug 08 22:44:16 +0000 2012",
+  "id": 233332829684121600,
+  "id_str": "233332829684121600",
+  "text": "#Uva .",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 637230682,
+    "id_str": "637230682",
+    "name": "Sarah",
+    "screen_name": "sarahbaxir",
+    "location": "Americana - SP",
+    "description": "A verdade sempre abre portas! (Bolha) ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 137,
+    "friends_count": 118,
+    "listed_count": 0,
+    "created_at": "Mon Jul 16 19:45:26 +0000 2012",
+    "favourites_count": 14,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9142,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0E0F0F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/784067895/5e6da18413f80df0fee0a71186a593bd.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/784067895/5e6da18413f80df0fee0a71186a593bd.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3186336559/725fbd7497fd42b532a06a3dd134ccb6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3186336559/725fbd7497fd42b532a06a3dd134ccb6_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/637230682/1360198652",
+    "profile_link_color": "14E0BE",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

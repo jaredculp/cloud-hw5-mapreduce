@@ -1,0 +1,122 @@
+{
+  "created_at": "Fri Jun 29 16:16:06 +0000 2012",
+  "id": 218739628260331521,
+  "id_str": "218739628260331521",
+  "text": "RT \"@gmercan A Leader in the Crowd: #SuzieMcCarthy and the #SocialMedia Story behind #UVA’s Turnabout http://t.co/ye5AFfOJ \" #socialmedia",
+  "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 422142861,
+    "id_str": "422142861",
+    "name": "Socials",
+    "screen_name": "RT_SocialMedia",
+    "location": "",
+    "description": "Social Media News ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 381,
+    "friends_count": 105,
+    "listed_count": 22,
+    "created_at": "Sat Nov 26 21:35:47 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 41584,
+    "lang": "tr",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1659450317/Social-Media-News-image-small_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1659450317/Social-Media-News-image-small_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SuzieMcCarthy",
+        "indices": [
+          36,
+          50
+        ]
+      },
+      {
+        "text": "SocialMedia",
+        "indices": [
+          59,
+          71
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          85,
+          89
+        ]
+      },
+      {
+        "text": "socialmedia",
+        "indices": [
+          125,
+          137
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ye5AFfOJ",
+        "expanded_url": "http://goo.gl/4iNwu",
+        "display_url": "goo.gl/4iNwu",
+        "indices": [
+          102,
+          122
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "gmercan",
+        "name": "Gökhan MERCANOGLU",
+        "id": 10500652,
+        "id_str": "10500652",
+        "indices": [
+          4,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

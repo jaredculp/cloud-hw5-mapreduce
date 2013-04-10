@@ -1,0 +1,91 @@
+{
+  "created_at": "Mon Jun 25 16:13:45 +0000 2012",
+  "id": 217289486713892864,
+  "id_str": "217289486713892864",
+  "text": "The fiasco at #UVA and the imminent reinstatement of the president is a remarkable showcase of how social has shifted the balance of power",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 106463784,
+    "id_str": "106463784",
+    "name": "Villi Iltchev",
+    "screen_name": "VilliSpeaks",
+    "location": "San Francisco",
+    "description": "VP, Corporate Development at http://t.co/L2guQFGc. Proud father. Love the web, startups, and fancy beers. My tweets are my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/L2guQFGc",
+            "expanded_url": "http://salesforce.com",
+            "display_url": "salesforce.com",
+            "indices": [
+              29,
+              49
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 364,
+    "friends_count": 100,
+    "listed_count": 18,
+    "created_at": "Tue Jan 19 17:00:07 +0000 2010",
+    "favourites_count": 28,
+    "utc_offset": -32400,
+    "time_zone": "Alaska",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2190,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1853916641/Summer_Vacation_2011_001.jpg15_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1853916641/Summer_Vacation_2011_001.jpg15_normal.jpg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          14,
+          18
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

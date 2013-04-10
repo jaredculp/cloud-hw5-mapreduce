@@ -1,0 +1,120 @@
+{
+  "created_at": "Fri Jun 22 20:54:41 +0000 2012",
+  "id": 216273022531809280,
+  "id_str": "216273022531809280",
+  "text": "MT @GovernorVA: Governor McDonnell sends letter to #UVA #BOV http://t.co/lYv2oadx -staff",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 309672219,
+    "id_str": "309672219",
+    "name": "Matthew Rosenberg",
+    "screen_name": "MattofMaymont",
+    "location": "Richmond, Va",
+    "description": "Jedi Master of the Jack of all trades. Journalistic Swiss Army knife. Generalist extraordinaire. ",
+    "url": "http://matthewrosenberg.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://matthewrosenberg.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 625,
+    "friends_count": 1027,
+    "listed_count": 9,
+    "created_at": "Thu Jun 02 13:40:20 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11065,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3130047740/835d0cefa878dee1d3883062e50c66cb_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3130047740/835d0cefa878dee1d3883062e50c66cb_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          51,
+          55
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          56,
+          60
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/lYv2oadx",
+        "expanded_url": "http://www.governor.virginia.gov/News/viewRelease.cfm?id=1304",
+        "display_url": "governor.virginia.gov/News/viewRelea…",
+        "indices": [
+          61,
+          81
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GovernorVA",
+        "name": "Bob McDonnell",
+        "id": 104198706,
+        "id_str": "104198706",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

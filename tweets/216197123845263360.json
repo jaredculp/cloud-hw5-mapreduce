@@ -1,0 +1,124 @@
+{
+  "created_at": "Fri Jun 22 15:53:05 +0000 2012",
+  "id": 216197123845263360,
+  "id_str": "216197123845263360",
+  "text": "MT @dancohen: Post by @DTWillingham on how much pioneering digital scholarship &amp; education is going on at #UVA http://t.co/J10NYCiX",
+  "source": "<a href=\"http://rowiapp.com\" rel=\"nofollow\">rowi for Windows Phone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 27106703,
+    "id_str": "27106703",
+    "name": "lorcan dempsey",
+    "screen_name": "lorcanD",
+    "location": "Columbus, OH",
+    "description": "Living with family in Ohio. Has worked for @dubcilib, @uniofbath, @jisc, @KingsCollegeLon, @oclc, ...",
+    "url": "http://orweblog.oclc.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://orweblog.oclc.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4065,
+    "friends_count": 762,
+    "listed_count": 430,
+    "created_at": "Fri Mar 27 21:50:20 +0000 2009",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11804,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C49AE6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/209257727/smallcobblestones.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/209257727/smallcobblestones.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/142046232/HPIM5626_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/142046232/HPIM5626_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/27106703/1359061726",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          110,
+          114
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/J10NYCiX",
+        "expanded_url": "http://bit.ly/MvCIeR",
+        "display_url": "bit.ly/MvCIeR",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dancohen",
+        "name": "Dan Cohen",
+        "id": 14181097,
+        "id_str": "14181097",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "DTWillingham",
+        "name": "Daniel T. Willingham",
+        "id": 84619537,
+        "id_str": "84619537",
+        "indices": [
+          22,
+          35
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

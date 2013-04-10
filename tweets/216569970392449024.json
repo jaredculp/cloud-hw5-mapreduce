@@ -1,0 +1,165 @@
+{
+  "created_at": "Sat Jun 23 16:34:39 +0000 2012",
+  "id": 216569970392449024,
+  "id_str": "216569970392449024",
+  "text": "I had to sell my pet boa-he had a crush on me~Dave Weinbaum @thedailyminds @gabby_hoffman @larrysabato @OKCStormWatcher @pepper_10 @pjhults",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 263268740,
+    "id_str": "263268740",
+    "name": "Dave Weinbaum",
+    "screen_name": "TheDaveWeinbaum",
+    "location": "Rolla, MO",
+    "description": "Conserv writer(opeds) business owner&talk show host.Writer of 44k orig quotes&jokes Golf, fish, standup http://t.co/OOjLvCpJ & http://t.co/QOzxpAKs  ",
+    "url": "http://www.daveweinbaum.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.daveweinbaum.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/OOjLvCpJ",
+            "expanded_url": "http://www.daveweinbaum.com",
+            "display_url": "daveweinbaum.com",
+            "indices": [
+              104,
+              124
+            ]
+          },
+          {
+            "url": "http://t.co/QOzxpAKs",
+            "expanded_url": "http://www.jewishworldreview.com",
+            "display_url": "jewishworldreview.com",
+            "indices": [
+              127,
+              147
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5248,
+    "friends_count": 5753,
+    "listed_count": 145,
+    "created_at": "Wed Mar 09 18:35:54 +0000 2011",
+    "favourites_count": 836,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 25717,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1766752860/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1766752860/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheDailyMinds",
+        "name": "TheDailyMinds",
+        "id": 835307972,
+        "id_str": "835307972",
+        "indices": [
+          60,
+          74
+        ]
+      },
+      {
+        "screen_name": "Gabby_Hoffman",
+        "name": "Gabriella Hoffman",
+        "id": 104342107,
+        "id_str": "104342107",
+        "indices": [
+          75,
+          89
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          90,
+          102
+        ]
+      },
+      {
+        "screen_name": "OKCStormWatcher",
+        "name": "Donald Blondell",
+        "id": 26079308,
+        "id_str": "26079308",
+        "indices": [
+          103,
+          119
+        ]
+      },
+      {
+        "screen_name": "pepper_10",
+        "name": "Pj",
+        "id": 16168407,
+        "id_str": "16168407",
+        "indices": [
+          120,
+          130
+        ]
+      },
+      {
+        "screen_name": "pjhults",
+        "name": "Jayne Hults",
+        "id": 262401415,
+        "id_str": "262401415",
+        "indices": [
+          131,
+          139
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

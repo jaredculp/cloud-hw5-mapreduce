@@ -1,0 +1,112 @@
+{
+  "created_at": "Tue Jun 19 06:36:20 +0000 2012",
+  "id": 214969849166827520,
+  "id_str": "214969849166827520",
+  "text": "Reporters: today is my 40th birthday. Take a break from the #UVa  #BOV drama &amp; give me a birthday shout out. @PositivChannels",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 243454912,
+    "id_str": "243454912",
+    "name": "Andrea D. Copeland",
+    "screen_name": "copelandandi",
+    "location": "The Next Level",
+    "description": "Cville's Oprah; Founder, #PositiveChannels, @PositivChannels; TV host; speaker; mentor; life-long learner. And redeemed!",
+    "url": "http://positive-channels.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://positive-channels.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 317,
+    "friends_count": 518,
+    "listed_count": 5,
+    "created_at": "Thu Jan 27 02:35:48 +0000 2011",
+    "favourites_count": 57,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4574,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3109240253/2b68a720cc5d780a6e7418f57d104c12_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3109240253/2b68a720cc5d780a6e7418f57d104c12_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/243454912/1358193804",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          60,
+          64
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          66,
+          70
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PositivChannels",
+        "name": "Positive Channels",
+        "id": 302654593,
+        "id_str": "302654593",
+        "indices": [
+          113,
+          129
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

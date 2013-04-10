@@ -1,0 +1,144 @@
+{
+  "created_at": "Tue Jul 03 18:58:00 +0000 2012",
+  "id": 220229924131307520,
+  "id_str": "220229924131307520",
+  "text": "\"Togliete la divisa a poliziotti a condannati\" http://t.co/QrNqzrcF via @rep_bologna @repubblicait #Aldrovandi #Giuliani #Cucchi #Uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 60612778,
+    "id_str": "60612778",
+    "name": "Jacopo Paoletti",
+    "screen_name": "jacopopaoletti",
+    "location": "Rome, Milan",
+    "description": "Sono un mostro. Proprio come te. | @intervistato @esacarbon @socialcommercio",
+    "url": "http://www.jacopopaoletti.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jacopopaoletti.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4503,
+    "friends_count": 483,
+    "listed_count": 157,
+    "created_at": "Mon Jul 27 14:34:10 +0000 2009",
+    "favourites_count": 138,
+    "utc_offset": 3600,
+    "time_zone": "Rome",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 22276,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/162002316/sfondo_jacopo_paoletti_jcp.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/162002316/sfondo_jacopo_paoletti_jcp.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1614198861/jcpavatar500_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1614198861/jcpavatar500_normal.png",
+    "profile_link_color": "336699",
+    "profile_sidebar_border_color": "336699",
+    "profile_sidebar_fill_color": "E5F2FF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Aldrovandi",
+        "indices": [
+          99,
+          110
+        ]
+      },
+      {
+        "text": "Giuliani",
+        "indices": [
+          111,
+          120
+        ]
+      },
+      {
+        "text": "Cucchi",
+        "indices": [
+          121,
+          128
+        ]
+      },
+      {
+        "text": "Uva",
+        "indices": [
+          129,
+          133
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/QrNqzrcF",
+        "expanded_url": "http://bologna.repubblica.it/cronaca/2012/07/03/news/togliete_la_divisa_di_poliziotto_agli_agenti_che_si_macchiano_di_delitti-38446421/",
+        "display_url": "bologna.repubblica.it/cronaca/2012/0…",
+        "indices": [
+          47,
+          67
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rep_bologna",
+        "name": "Repubblica Bologna",
+        "id": 392664890,
+        "id_str": "392664890",
+        "indices": [
+          72,
+          84
+        ]
+      },
+      {
+        "screen_name": "repubblicait",
+        "name": "la Repubblica",
+        "id": 18935802,
+        "id_str": "18935802",
+        "indices": [
+          85,
+          98
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

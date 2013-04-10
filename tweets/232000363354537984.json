@@ -1,0 +1,99 @@
+{
+  "created_at": "Sun Aug 05 06:29:31 +0000 2012",
+  "id": 232000363354537984,
+  "id_str": "232000363354537984",
+  "text": "@robbiepic @Greg_Strine I have my Twitter linked to Facebook. I just remembered. No more boners for me. /fnk",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 417518991,
+    "id_str": "417518991",
+    "name": "Austin Hulverson",
+    "screen_name": "MagicalPinata",
+    "location": "from fucking Oscoda.",
+    "description": "Hi, I'm Austin. I'm taken, sixteen. That's all that really matters, honestly. Stay mellow.",
+    "url": "http://youonlyliveoncekid.tumblr.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://youonlyliveoncekid.tumblr.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 128,
+    "friends_count": 56,
+    "listed_count": 0,
+    "created_at": "Mon Nov 21 01:45:54 +0000 2011",
+    "favourites_count": 254,
+    "utc_offset": -32400,
+    "time_zone": "Alaska",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1438,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/497942628/Plaid.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/497942628/Plaid.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1649909420/Picture0001__7__normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1649909420/Picture0001__7__normal.JPG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/417518991/1353852475",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "00FF09",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Greg_Strine",
+        "name": "Greg Strine",
+        "id": 390790897,
+        "id_str": "390790897",
+        "indices": [
+          11,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

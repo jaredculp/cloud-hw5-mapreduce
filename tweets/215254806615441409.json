@@ -1,0 +1,99 @@
+{
+  "created_at": "Wed Jun 20 01:28:39 +0000 2012",
+  "id": 215254806615441409,
+  "id_str": "215254806615441409",
+  "text": "Sadly #UVA and #Sullivan are part of a greater trend. Public universities under fire. SOS http://t.co/kkMB9OTk",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 336240621,
+    "id_str": "336240621",
+    "name": "Juliana Barton",
+    "screen_name": "juliana_barton",
+    "location": "Brooklyn, NY",
+    "description": "(t)witty tastemaker",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 143,
+    "friends_count": 234,
+    "listed_count": 1,
+    "created_at": "Fri Jul 15 23:51:03 +0000 2011",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1808,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1807029557/IMG_1075_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1807029557/IMG_1075_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          6,
+          10
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          15,
+          24
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/kkMB9OTk",
+        "expanded_url": "http://www.cnn.com/2012/06/19/opinion/suri-public-universities/index.html?hpt=hp_bn7",
+        "display_url": "cnn.com/2012/06/19/opi…",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

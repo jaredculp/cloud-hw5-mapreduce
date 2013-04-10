@@ -1,0 +1,107 @@
+{
+  "created_at": "Sun Aug 19 15:10:38 +0000 2012",
+  "id": 237204937040330752,
+  "id_str": "237204937040330752",
+  "text": "#UVA gets their president back, but #WM's still stuck with a board of conservative bigots. Harumph. #longlivedeangene @williamandmary",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 184993975,
+    "id_str": "184993975",
+    "name": "Diana Fakhouri",
+    "screen_name": "dianafakhouri",
+    "location": "Chicago, IL",
+    "description": "#chicago newbie, @williamandmary alum, social media at @beamglobal. opinions here are my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 713,
+    "friends_count": 889,
+    "listed_count": 23,
+    "created_at": "Tue Aug 31 00:11:36 +0000 2010",
+    "favourites_count": 350,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6972,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1BA68F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/647086992/x44b7002882119111619a947ce58efbc.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/647086992/x44b7002882119111619a947ce58efbc.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2823913450/e58c5fa39c2a86a1f2142a596c1f9f82_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2823913450/e58c5fa39c2a86a1f2142a596c1f9f82_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/184993975/1347999233",
+    "profile_link_color": "F76631",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "0C5340",
+    "profile_text_color": "F4930B",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "WM",
+        "indices": [
+          36,
+          39
+        ]
+      },
+      {
+        "text": "longlivedeangene",
+        "indices": [
+          100,
+          117
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "williamandmary",
+        "name": "William and Mary",
+        "id": 15768704,
+        "id_str": "15768704",
+        "indices": [
+          118,
+          133
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

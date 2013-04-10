@@ -1,0 +1,109 @@
+{
+  "created_at": "Tue Jun 26 00:38:57 +0000 2012",
+  "id": 217416627057205250,
+  "id_str": "217416627057205250",
+  "text": "@foundhistory @sivavaid and sailing!",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217416388430675969,
+  "in_reply_to_status_id_str": "217416388430675969",
+  "in_reply_to_user_id": 20406724,
+  "in_reply_to_user_id_str": "20406724",
+  "in_reply_to_screen_name": "sivavaid",
+  "user": {
+    "id": 10752192,
+    "id_str": "10752192",
+    "name": "David Ryan",
+    "screen_name": "CaptDavidRyan",
+    "location": "Mostly Montauk, sometimes NYC",
+    "description": "Builder and captain of S/V MON TIKI, a 40' USCG Inspect Passenger Sailing Catamaran operating out of Montauk NY. Also a writer (The Atlantic, LoOG) & filmmaker.",
+    "url": "http://www.sailingmontauk.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.sailingmontauk.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1464,
+    "friends_count": 349,
+    "listed_count": 84,
+    "created_at": "Fri Nov 30 22:27:30 +0000 2007",
+    "favourites_count": 47,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 37583,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/150789068/dogcove.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/150789068/dogcove.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2829021823/e63461ba7d6f351504160f2b8e4c678b_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2829021823/e63461ba7d6f351504160f2b8e4c678b_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/10752192/1355094563",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "foundhistory",
+        "name": "Tom Scheinfeldt",
+        "id": 851851,
+        "id_str": "851851",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          14,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

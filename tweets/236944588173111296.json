@@ -1,0 +1,131 @@
+{
+  "created_at": "Sat Aug 18 21:56:06 +0000 2012",
+  "id": 236944588173111296,
+  "id_str": "236944588173111296",
+  "text": "@lunagandra tomando Fanta Uva, o @jonassakamoto pira! haha! #fanta #uva  http://t.co/1LfHmgf7",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 56892988,
+  "in_reply_to_user_id_str": "56892988",
+  "in_reply_to_screen_name": "lunagandra",
+  "user": {
+    "id": 156069807,
+    "id_str": "156069807",
+    "name": "Jonas Sakamoto",
+    "screen_name": "jonassakamoto",
+    "location": "São Luís/MA - Brasil",
+    "description": "Estudante de Jornalismo, guitarrista, cinéfilo, apaixonado por música e fotografia, lounger at @obvious and I am an AIESECer!.",
+    "url": "http://meadiciona.com/jonassakamoto",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://meadiciona.com/jonassakamoto",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 608,
+    "friends_count": 603,
+    "listed_count": 3,
+    "created_at": "Tue Jun 15 23:14:10 +0000 2010",
+    "favourites_count": 82,
+    "utc_offset": -14400,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7742,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/693603441/4549eb01ba59596a98ac10243fa3b3b4.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/693603441/4549eb01ba59596a98ac10243fa3b3b4.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3183393954/f8562e9f247df246dc2b57b259f45287_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3183393954/f8562e9f247df246dc2b57b259f45287_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/156069807/1357160774",
+    "profile_link_color": "1F3D70",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "01021C",
+    "profile_text_color": "0B3742",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fanta",
+        "indices": [
+          60,
+          66
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/1LfHmgf7",
+        "expanded_url": "http://instagr.am/p/OfDx9OJQz3/",
+        "display_url": "instagr.am/p/OfDx9OJQz3/",
+        "indices": [
+          73,
+          93
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "lunagandra",
+        "name": "Lunão",
+        "id": 56892988,
+        "id_str": "56892988",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "jonassakamoto",
+        "name": "Jonas Sakamoto",
+        "id": 156069807,
+        "id_str": "156069807",
+        "indices": [
+          33,
+          47
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

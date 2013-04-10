@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 19 22:33:42 +0000 2012",
+  "id": 215210779656458241,
+  "id_str": "215210779656458241",
+  "text": "#UVA #BOV letter from Rector Dragas' sister:  whining, pathetic, undignified, unworthy!  http://t.co/xorp2Pve",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 111978442,
+    "id_str": "111978442",
+    "name": "Scott Kolber",
+    "screen_name": "RelevantScale",
+    "location": "New York City",
+    "description": "Roadify COO- trying to make the world more livable by helping people find out when the train, bus or boat is coming.  Mobile/big data/social/location/design",
+    "url": "http://roadify.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://roadify.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 35,
+    "friends_count": 24,
+    "listed_count": 4,
+    "created_at": "Sat Feb 06 20:46:41 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 63,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/756634387/relevantscale_logo_fortwitter_3150_x_3150_square_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/756634387/relevantscale_logo_fortwitter_3150_x_3150_square_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          5,
+          9
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xorp2Pve",
+        "expanded_url": "http://ow.ly/bGUvV",
+        "display_url": "ow.ly/bGUvV",
+        "indices": [
+          89,
+          109
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

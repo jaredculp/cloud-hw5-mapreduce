@@ -1,0 +1,112 @@
+{
+  "created_at": "Sat Aug 04 17:03:37 +0000 2012",
+  "id": 231797552863907840,
+  "id_str": "231797552863907840",
+  "text": "Just like #38nothing. RT @CavsJournal: #UVa QB Michael Rocco intent on beating out Alabama transfer Phillip Sims: 'It's my job to lose.'",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 265103514,
+    "id_str": "265103514",
+    "name": "Matthew Sparacio",
+    "screen_name": "SparachNSniff",
+    "location": "Auburn, AL",
+    "description": "VPI & SU '08 '10. Auburn '16. War Damn Hokie. \r\n#VT4SEC",
+    "url": "http://www.thekeyplay.com/blog/627",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.thekeyplay.com/blog/627",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 449,
+    "friends_count": 1094,
+    "listed_count": 15,
+    "created_at": "Sun Mar 13 01:18:37 +0000 2011",
+    "favourites_count": 513,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9852,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E1561A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/318937264/xbf692e1914d438ecbfb137254368b23.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/318937264/xbf692e1914d438ecbfb137254368b23.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2972029137/4ff6e82c973b4d2a13007482dd2b5738_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2972029137/4ff6e82c973b4d2a13007482dd2b5738_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/265103514/1348593942",
+    "profile_link_color": "E05518",
+    "profile_sidebar_border_color": "660423",
+    "profile_sidebar_fill_color": "67042B",
+    "profile_text_color": "E05518",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "38nothing",
+        "indices": [
+          10,
+          20
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          39,
+          43
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CavsJournal",
+        "name": "Mark Giannotto",
+        "id": 61822290,
+        "id_str": "61822290",
+        "indices": [
+          25,
+          37
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

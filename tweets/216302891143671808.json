@@ -1,0 +1,130 @@
+{
+  "created_at": "Fri Jun 22 22:53:22 +0000 2012",
+  "id": 216302891143671808,
+  "id_str": "216302891143671808",
+  "text": "RT @WhizChem: Gov. @bobmcdonnell wants decision from #BOV, blows off #UVA faculty, students, and alumni http://t.co/sdZLGyNY &lt; well said.",
+  "source": "<a href=\"http://tweetfireapp.com/\" rel=\"nofollow\">TweetFireApp</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216288850627145728,
+  "in_reply_to_status_id_str": "216288850627145728",
+  "in_reply_to_user_id": 49633388,
+  "in_reply_to_user_id_str": "49633388",
+  "in_reply_to_screen_name": "WhizChem",
+  "user": {
+    "id": 8232472,
+    "id_str": "8232472",
+    "name": "dmacvittie",
+    "screen_name": "dmacvittie",
+    "location": "Midwest USA",
+    "description": "Technical Marketing Manager at F5 Networks, Computer Geek. Gaming (table top) Geek. Husband and Dad",
+    "url": "http://devcentral.f5.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://devcentral.f5.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 726,
+    "friends_count": 451,
+    "listed_count": 49,
+    "created_at": "Thu Aug 16 20:46:32 +0000 2007",
+    "favourites_count": 3,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4548,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/683131626/ProfilePic2_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/683131626/ProfilePic2_normal.JPG",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          53,
+          57
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          69,
+          73
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/sdZLGyNY",
+        "expanded_url": "http://bit.ly/L0OeMW",
+        "display_url": "bit.ly/L0OeMW",
+        "indices": [
+          104,
+          124
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WhizChem",
+        "name": "Old Alchemist",
+        "id": 49633388,
+        "id_str": "49633388",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          19,
+          32
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

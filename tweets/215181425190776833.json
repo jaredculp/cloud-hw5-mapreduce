@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 19 20:37:04 +0000 2012",
+  "id": 215181425190776833,
+  "id_str": "215181425190776833",
+  "text": "http://t.co/cBA5mOsS #UVa",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 294420970,
+    "id_str": "294420970",
+    "name": "Bill Tracy",
+    "screen_name": "BillTracy1",
+    "location": "Madison Wisconsin",
+    "description": "RTs do not necessarily equal endorsements, but sometimes they do. Go figure.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 92,
+    "friends_count": 14,
+    "listed_count": 5,
+    "created_at": "Sat May 07 03:44:23 +0000 2011",
+    "favourites_count": 28,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 838,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/325558321/SAM_0084-4.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/325558321/SAM_0084-4.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2321303445/0i6qq7f7jhvcveddmvlw_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2321303445/0i6qq7f7jhvcveddmvlw_normal.jpeg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          21,
+          25
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/cBA5mOsS",
+        "expanded_url": "http://chronicle.com/blognetwork/edgeofthewest/2012/06/18/on-the-university-of-virginia-and-moneychangers-in-the-temple/",
+        "display_url": "chronicle.com/blognetwork/ed…",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

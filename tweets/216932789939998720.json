@@ -1,0 +1,143 @@
+{
+  "created_at": "Sun Jun 24 16:36:22 +0000 2012",
+  "id": 216932789939998720,
+  "id_str": "216932789939998720",
+  "text": "@ThomasJefferson @MonticelloTJ @TJeffersonQuote RT @cronknews: Thomas Jefferson Rolls Over in His Grave http://t.co/6Ce5w1UB #UVA",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 8172182,
+  "in_reply_to_user_id_str": "8172182",
+  "in_reply_to_screen_name": "ThomasJefferson",
+  "user": {
+    "id": 349875922,
+    "id_str": "349875922",
+    "name": "National Satire Mo.",
+    "screen_name": "NatSatMo",
+    "location": "Earth",
+    "description": "National Satire Month. Mark your calendar for November, when we'll all give thanks for irony and intellect.",
+    "url": "http://www.cronknews.com/national-satire-month/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cronknews.com/national-satire-month/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              47
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 206,
+    "friends_count": 499,
+    "listed_count": 0,
+    "created_at": "Sat Aug 06 21:07:46 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1311,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1481827694/SwiftStewartTwain_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1481827694/SwiftStewartTwain_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          125,
+          129
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/6Ce5w1UB",
+        "expanded_url": "http://bit.ly/MsM9wk",
+        "display_url": "bit.ly/MsM9wk",
+        "indices": [
+          104,
+          124
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ThomasJefferson",
+        "name": "Thomas Jefferson",
+        "id": 8172182,
+        "id_str": "8172182",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "MonticelloTJ",
+        "name": "Thomas Jefferson",
+        "id": 121213885,
+        "id_str": "121213885",
+        "indices": [
+          17,
+          30
+        ]
+      },
+      {
+        "screen_name": "TJeffersonQuote",
+        "name": "Thomas Jefferson",
+        "id": 120486482,
+        "id_str": "120486482",
+        "indices": [
+          31,
+          47
+        ]
+      },
+      {
+        "screen_name": "CronkNews",
+        "name": "CronkNews",
+        "id": 44928151,
+        "id_str": "44928151",
+        "indices": [
+          51,
+          61
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

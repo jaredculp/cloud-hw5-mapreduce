@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jun 27 13:37:27 +0000 2012",
+  "id": 217974930044751872,
+  "id_str": "217974930044751872",
+  "text": "#np in Pres. Sullivan's office: http://t.co/BDDzNSDl #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 382813654,
+    "id_str": "382813654",
+    "name": "Nyasha Junior",
+    "screen_name": "NyashaJunior",
+    "location": "Off-Campus",
+    "description": "Asst Prof of Hebrew Bible/Old Testament & Red-Pen Grader at    Howard Univ School of Divinity ",
+    "url": "http://www.nyashajunior.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nyashajunior.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 556,
+    "friends_count": 437,
+    "listed_count": 20,
+    "created_at": "Fri Sep 30 18:45:49 +0000 2011",
+    "favourites_count": 39,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8427,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "68A7C7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/660237436/6niavqfv9w18fyn9mzkw.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/660237436/6niavqfv9w18fyn9mzkw.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2194172976/NJR3_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2194172976/NJR3_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/382813654/1349943366",
+    "profile_link_color": "7F818A",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "92CFEB",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "np",
+        "indices": [
+          0,
+          3
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          53,
+          57
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/BDDzNSDl",
+        "expanded_url": "http://www.youtube.com/watch?v=sVzvRsl4rEM",
+        "display_url": "youtube.com/watch?v=sVzvRs…",
+        "indices": [
+          32,
+          52
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

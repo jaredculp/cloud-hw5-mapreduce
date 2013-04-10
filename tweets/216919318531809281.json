@@ -1,0 +1,126 @@
+{
+  "created_at": "Sun Jun 24 15:42:50 +0000 2012",
+  "id": 216919318531809281,
+  "id_str": "216919318531809281",
+  "text": "standing united with #Rally4Honor. Once they get one school, they will get all schools @OccupyWallSt @occupypgh @OccupyDublin #ows #occupy",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17095799,
+    "id_str": "17095799",
+    "name": "AntoinetteMarie",
+    "screen_name": "antoinettemarie",
+    "location": "The Paris of the Rustbelt",
+    "description": "Stop, drop, and revolt!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 108,
+    "friends_count": 169,
+    "listed_count": 1,
+    "created_at": "Sat Nov 01 02:22:40 +0000 2008",
+    "favourites_count": 19,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2023,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0E0D02",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/348083953/x73ebf164729acbc37c986ca2db58035.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/348083953/x73ebf164729acbc37c986ca2db58035.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3002322238/0bb623904138135cd8293d29566a2bf7_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3002322238/0bb623904138135cd8293d29566a2bf7_normal.png",
+    "profile_link_color": "39BD91",
+    "profile_sidebar_border_color": "BEDFB6",
+    "profile_sidebar_fill_color": "0E0D02",
+    "profile_text_color": "895429",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Rally4Honor",
+        "indices": [
+          21,
+          33
+        ]
+      },
+      {
+        "text": "ows",
+        "indices": [
+          126,
+          130
+        ]
+      },
+      {
+        "text": "occupy",
+        "indices": [
+          131,
+          138
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "OccupyWallSt",
+        "name": "Occupy Wall Street",
+        "id": 335369838,
+        "id_str": "335369838",
+        "indices": [
+          87,
+          100
+        ]
+      },
+      {
+        "screen_name": "occupypgh",
+        "name": "OccupyPittsburgh",
+        "id": 382241249,
+        "id_str": "382241249",
+        "indices": [
+          101,
+          111
+        ]
+      },
+      {
+        "screen_name": "OccupyDublin",
+        "name": "OccupyEire",
+        "id": 380924583,
+        "id_str": "380924583",
+        "indices": [
+          112,
+          125
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

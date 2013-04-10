@@ -1,0 +1,161 @@
+{
+  "created_at": "Mon Aug 20 16:30:02 +0000 2012",
+  "id": 237587305852964867,
+  "id_str": "237587305852964867",
+  "text": "Would be shocked if not UVa RT @rivalsmike: new 5 star RB Taquan Mizzell ready for decision -- http://t.co/YV4wyn2s #Uva, #WVU, #UNC",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 107757676,
+    "id_str": "107757676",
+    "name": "David Wright",
+    "screen_name": "DWright_10",
+    "location": "Nashville",
+    "description": "I'm having an incredible year.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 183,
+    "friends_count": 318,
+    "listed_count": 7,
+    "created_at": "Sat Jan 23 16:42:19 +0000 2010",
+    "favourites_count": 51,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13927,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "111414",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2777340593/09b98dcb53bd389259fd8a62bef85f04_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2777340593/09b98dcb53bd389259fd8a62bef85f04_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/107757676/1353503539",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "EDEDED",
+    "profile_sidebar_fill_color": "EBEBEB",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      35.97349704,
+      -86.83286285
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -86.83286285,
+      35.97349704
+    ]
+  },
+  "place": {
+    "id": "cc631a80adacd459",
+    "url": "https://api.twitter.com/1.1/geo/id/cc631a80adacd459.json",
+    "place_type": "city",
+    "name": "Franklin",
+    "full_name": "Franklin, TN",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -86.920496,
+            35.872831
+          ],
+          [
+            -86.747815,
+            35.872831
+          ],
+          [
+            -86.747815,
+            35.981542
+          ],
+          [
+            -86.920496,
+            35.981542
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          116,
+          120
+        ]
+      },
+      {
+        "text": "WVU",
+        "indices": [
+          122,
+          126
+        ]
+      },
+      {
+        "text": "UNC",
+        "indices": [
+          128,
+          132
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/YV4wyn2s",
+        "expanded_url": "http://ow.ly/d60o8",
+        "display_url": "ow.ly/d60o8",
+        "indices": [
+          95,
+          115
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rivalsmike",
+        "name": "Mike Farrell",
+        "id": 170021040,
+        "id_str": "170021040",
+        "indices": [
+          31,
+          42
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

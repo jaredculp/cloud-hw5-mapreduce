@@ -1,0 +1,116 @@
+{
+  "created_at": "Fri Jun 22 20:45:14 +0000 2012",
+  "id": 216270645149970432,
+  "id_str": "216270645149970432",
+  "text": "Interim #UVA president to sit out until board decides on #Sullivan. @UVAFacultySen praises decision. AP: http://t.co/I1sQBm3u.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 293686903,
+    "id_str": "293686903",
+    "name": "Zinie Chen Sampson",
+    "screen_name": "Zinie",
+    "location": "Richmond, Virginia",
+    "description": "PR practitioner with http://t.co/KxiGgDgF and former AP journalist. Love my family, music (the good kind), books (when I have time). ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/KxiGgDgF",
+            "expanded_url": "http://www.hellermanbaretz.com",
+            "display_url": "hellermanbaretz.com",
+            "indices": [
+              21,
+              41
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 343,
+    "friends_count": 333,
+    "listed_count": 20,
+    "created_at": "Thu May 05 19:57:16 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 778,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2423328479/kiukhoq5dgb2hjsnzvrl_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2423328479/kiukhoq5dgb2hjsnzvrl_normal.jpeg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          8,
+          12
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          57,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/I1sQBm3u",
+        "expanded_url": "http://bit.ly/Nh329V",
+        "display_url": "bit.ly/Nh329V",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVAFacultySen",
+        "name": "UVA Faculty Senate",
+        "id": 613796706,
+        "id_str": "613796706",
+        "indices": [
+          68,
+          82
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

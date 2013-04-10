@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Jun 19 03:16:31 +0000 2012",
+  "id": 214919561059901440,
+  "id_str": "214919561059901440",
+  "text": "Maybe it's time to crank up some hair-band metal outside the Rotunda. It worked for Noriega. #UVa #BOV http://t.co/DNg3zC9D",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 6293442,
+    "id_str": "6293442",
+    "name": "Doug French",
+    "screen_name": "LOD",
+    "location": "Ann Arbor, MI",
+    "description": "LOD stands for http://t.co/iu3cYUPa. Co-founder of @dad2summit and co-parent of @whentheflames. Fulcrum of the Three French Men.",
+    "url": "http://about.me/dougfrench",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://about.me/dougfrench",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/iu3cYUPa",
+            "expanded_url": "http://laidoffdad.org",
+            "display_url": "laidoffdad.org",
+            "indices": [
+              15,
+              35
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4264,
+    "friends_count": 856,
+    "listed_count": 245,
+    "created_at": "Thu May 24 18:28:05 +0000 2007",
+    "favourites_count": 540,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8794,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/18016448/twitback2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/18016448/twitback2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2895502139/39b7a36822876a0ef4aee7c7beabf20a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2895502139/39b7a36822876a0ef4aee7c7beabf20a_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/6293442/1348073859",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "B4CEF7",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          93,
+          97
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          98,
+          102
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/DNg3zC9D",
+        "expanded_url": "http://nofearofthefuture.blogspot.com/2006/12/noriega-playlist.html",
+        "display_url": "nofearofthefuture.blogspot.com/2006/12/norieg…",
+        "indices": [
+          103,
+          123
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

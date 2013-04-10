@@ -1,0 +1,109 @@
+{
+  "created_at": "Thu Jun 28 17:43:37 +0000 2012",
+  "id": 218399266723475456,
+  "id_str": "218399266723475456",
+  "text": "Si de algo estoy segura es que no votaré por @EPN y por la #UVA #UnióndeViejasArguenderas (@JVM)",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 480857139,
+    "id_str": "480857139",
+    "name": "O’farrell",
+    "screen_name": "amordhabitacion",
+    "location": "En tu corazón",
+    "description": "Si va a ser será!! Me confieso amante de la música y los amigos. Ganate el followback :D",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 97,
+    "friends_count": 96,
+    "listed_count": 0,
+    "created_at": "Thu Feb 02 00:30:18 +0000 2012",
+    "favourites_count": 213,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7770,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3076467831/421709a88743fffe06ae1356140ada9c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3076467831/421709a88743fffe06ae1356140ada9c_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          59,
+          63
+        ]
+      },
+      {
+        "text": "UnióndeViejasArguenderas",
+        "indices": [
+          64,
+          89
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "EPN",
+        "name": "Enrique Peña Nieto",
+        "id": 2897441,
+        "id_str": "2897441",
+        "indices": [
+          45,
+          49
+        ]
+      },
+      {
+        "screen_name": "jvm",
+        "name": "jacqueline Marinho",
+        "id": 84953471,
+        "id_str": "84953471",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

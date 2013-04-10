@@ -1,0 +1,97 @@
+{
+  "created_at": "Fri Jun 22 21:10:10 +0000 2012",
+  "id": 216276919149268993,
+  "id_str": "216276919149268993",
+  "text": "@LarrySabato thoughts on @bobmcdonnell's letter (just released, it seems) to the BOV?",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 34165390,
+    "id_str": "34165390",
+    "name": "Sam Hempel",
+    "screen_name": "sam_hempel",
+    "location": "Atlanta / Athens GA USA",
+    "description": "american. capitalist. libertarian. UGA 14. raves: free markets, budgets, economics, news, big picture. rants: congress, traffic, slow internet, shortsightedness",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 260,
+    "friends_count": 462,
+    "listed_count": 4,
+    "created_at": "Wed Apr 22 03:24:26 +0000 2009",
+    "favourites_count": 455,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4012,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/13092807/drop_1_WS.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/13092807/drop_1_WS.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1295101478/aleroy_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1295101478/aleroy_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/34165390/1359075526",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          25,
+          38
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

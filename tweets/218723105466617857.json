@@ -1,0 +1,119 @@
+{
+  "created_at": "Fri Jun 29 15:10:26 +0000 2012",
+  "id": 218723105466617857,
+  "id_str": "218723105466617857",
+  "text": "Te gusta el #cine? Quieres ser un joven cineasta? Apúntate al #Curso de Cinematografía de la #UVA http://t.co/z7Iz6iq3",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 293918687,
+    "id_str": "293918687",
+    "name": "Juventud CYL",
+    "screen_name": "JuventudCYL",
+    "location": "Castilla y Leon, España",
+    "description": "Twitter oficial del Instituto de la Juventud de Castilla y León. Información sobre #empleo #ocio #formacion #tiempolibre #emprender #CarnéJoven",
+    "url": "http://www.juventud.jcyl.es/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.juventud.jcyl.es/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4454,
+    "friends_count": 506,
+    "listed_count": 110,
+    "created_at": "Fri May 06 06:28:07 +0000 2011",
+    "favourites_count": 6,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4791,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5C32C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/724644900/4956635d52dbafaf264a40775aecf753.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/724644900/4956635d52dbafaf264a40775aecf753.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2911180709/41b6f246702daf4a33699fd467b2d754_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2911180709/41b6f246702daf4a33699fd467b2d754_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/293918687/1354204906",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DCECF2",
+    "profile_text_color": "332433",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cine",
+        "indices": [
+          12,
+          17
+        ]
+      },
+      {
+        "text": "Curso",
+        "indices": [
+          62,
+          68
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          93,
+          97
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/z7Iz6iq3",
+        "expanded_url": "http://ow.ly/bUhnZ",
+        "display_url": "ow.ly/bUhnZ",
+        "indices": [
+          98,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

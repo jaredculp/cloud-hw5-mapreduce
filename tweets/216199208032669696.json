@@ -1,0 +1,205 @@
+{
+  "created_at": "Fri Jun 22 16:01:22 +0000 2012",
+  "id": 216199208032669696,
+  "id_str": "216199208032669696",
+  "text": "#FF @cavalierdaily @POWMIAvoice @RollingStone @inthesedeserts @shevory @born2flie @simon_klingert @UVA @USArmy @ScoutComms @sinandsyntax",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25077028,
+    "id_str": "25077028",
+    "name": "Matt Farwell",
+    "screen_name": "mattbfarwell",
+    "location": "virginia",
+    "description": "writer, reader. 10th Mountain Infantry veteran of Afghanistan. Now back at the University of Virginia. Turns out I'm not dead, despite what you heard.",
+    "url": "http://www.mattbfarwell.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mattbfarwell.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1475,
+    "friends_count": 778,
+    "listed_count": 25,
+    "created_at": "Wed Mar 18 14:09:10 +0000 2009",
+    "favourites_count": 89,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3447,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3162841917/db2b619a9f6d3767a5de59aa0bf9a28d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3162841917/db2b619a9f6d3767a5de59aa0bf9a28d_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/25077028/1359156050",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FF",
+        "indices": [
+          0,
+          3
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          4,
+          18
+        ]
+      },
+      {
+        "screen_name": "POWMIAvoice",
+        "name": "POW*MIA Voice",
+        "id": 470958963,
+        "id_str": "470958963",
+        "indices": [
+          19,
+          31
+        ]
+      },
+      {
+        "screen_name": "RollingStone",
+        "name": "Rolling Stone",
+        "id": 14780915,
+        "id_str": "14780915",
+        "indices": [
+          32,
+          45
+        ]
+      },
+      {
+        "screen_name": "inthesedeserts",
+        "name": "Nathan Bradley",
+        "id": 198967539,
+        "id_str": "198967539",
+        "indices": [
+          46,
+          61
+        ]
+      },
+      {
+        "screen_name": "shevory",
+        "name": "Kristina Shevory",
+        "id": 18960714,
+        "id_str": "18960714",
+        "indices": [
+          62,
+          70
+        ]
+      },
+      {
+        "screen_name": "born2flie",
+        "name": "Bill Lincoln",
+        "id": 274507428,
+        "id_str": "274507428",
+        "indices": [
+          71,
+          81
+        ]
+      },
+      {
+        "screen_name": "simon_klingert",
+        "name": "Simon Klingert",
+        "id": 269750335,
+        "id_str": "269750335",
+        "indices": [
+          82,
+          97
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          98,
+          102
+        ]
+      },
+      {
+        "screen_name": "USArmy",
+        "name": "U.S. Army",
+        "id": 8775672,
+        "id_str": "8775672",
+        "indices": [
+          103,
+          110
+        ]
+      },
+      {
+        "screen_name": "ScoutComms",
+        "name": "ScoutComms",
+        "id": 216835225,
+        "id_str": "216835225",
+        "indices": [
+          111,
+          122
+        ]
+      },
+      {
+        "screen_name": "sinandsyntax",
+        "name": "Constance Hale",
+        "id": 84593873,
+        "id_str": "84593873",
+        "indices": [
+          123,
+          136
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

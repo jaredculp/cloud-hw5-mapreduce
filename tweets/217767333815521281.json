@@ -1,0 +1,110 @@
+{
+  "created_at": "Tue Jun 26 23:52:32 +0000 2012",
+  "id": 217767333815521281,
+  "id_str": "217767333815521281",
+  "text": "Hmm, will Dragas &amp; Sullivan be seen grabbing dinner or a beer together across the street at the @VirginianCville or @BoylanHeights? #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 293686903,
+    "id_str": "293686903",
+    "name": "Zinie Chen Sampson",
+    "screen_name": "Zinie",
+    "location": "Richmond, Virginia",
+    "description": "PR practitioner with http://t.co/KxiGgDgF and former AP journalist. Love my family, music (the good kind), books (when I have time). ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/KxiGgDgF",
+            "expanded_url": "http://www.hellermanbaretz.com",
+            "display_url": "hellermanbaretz.com",
+            "indices": [
+              21,
+              41
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 345,
+    "friends_count": 333,
+    "listed_count": 20,
+    "created_at": "Thu May 05 19:57:16 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 782,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2423328479/kiukhoq5dgb2hjsnzvrl_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2423328479/kiukhoq5dgb2hjsnzvrl_normal.jpeg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          136,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "virginiancville",
+        "name": "The Virginian ",
+        "id": 429336093,
+        "id_str": "429336093",
+        "indices": [
+          100,
+          116
+        ]
+      },
+      {
+        "screen_name": "BoylanHeights",
+        "name": "Boylan Heights",
+        "id": 21044165,
+        "id_str": "21044165",
+        "indices": [
+          120,
+          134
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

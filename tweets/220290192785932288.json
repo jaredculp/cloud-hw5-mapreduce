@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jul 03 22:57:29 +0000 2012",
+  "id": 220290192785932288,
+  "id_str": "220290192785932288",
+  "text": "Sad RT @SoccerInsider: Concussions end another career: #MLS veteran forward Adam Cristman #dcu #uva",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 113077024,
+    "id_str": "113077024",
+    "name": "Vishal Patel",
+    "screen_name": "DrShikaka",
+    "location": "",
+    "description": "A fucking waste of atoms that survives on soccer and pizza.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 102,
+    "friends_count": 125,
+    "listed_count": 0,
+    "created_at": "Wed Feb 10 16:39:11 +0000 2010",
+    "favourites_count": 13,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9980,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2253651429/295142_10101024077911459_836696684_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2253651429/295142_10101024077911459_836696684_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MLS",
+        "indices": [
+          55,
+          59
+        ]
+      },
+      {
+        "text": "dcu",
+        "indices": [
+          90,
+          94
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          95,
+          99
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SoccerInsider",
+        "name": "Steven Goff",
+        "id": 16313045,
+        "id_str": "16313045",
+        "indices": [
+          7,
+          21
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

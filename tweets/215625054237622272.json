@@ -1,0 +1,92 @@
+{
+  "created_at": "Thu Jun 21 01:59:53 +0000 2012",
+  "id": 215625054237622272,
+  "id_str": "215625054237622272",
+  "text": "Sad but true RT @aaronsdotson: The saddest part of the #UVa saga is that it was easier to fire the president than Al Groh.",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18979015,
+    "id_str": "18979015",
+    "name": "Jason Cavanaugh",
+    "screen_name": "UVA_LF_Heckler",
+    "location": "Palmyra, VA",
+    "description": "Commenting and followingall #UVA sports.  Caps, Nats, O's fan as well.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 86,
+    "friends_count": 127,
+    "listed_count": 5,
+    "created_at": "Wed Jan 14 15:09:00 +0000 2009",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2533,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/414553082/SBZDJGNYMIZMQDB_20100613010410.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/414553082/SBZDJGNYMIZMQDB_20100613010410.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/422325284/camp_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/422325284/camp_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          55,
+          59
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "aaronsdotson",
+        "name": "Aaron Dotson",
+        "id": 17583771,
+        "id_str": "17583771",
+        "indices": [
+          16,
+          29
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

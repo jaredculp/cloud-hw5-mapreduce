@@ -1,0 +1,137 @@
+{
+  "created_at": "Fri Jun 22 15:44:43 +0000 2012",
+  "id": 216195018812178432,
+  "id_str": "216195018812178432",
+  "text": "RT @RTDSchapiro: #rva #vagov BREAKING @bobmcdonnell demands 'closure' on #UVa controversy http://t.co/ptSjXtfY",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 159609655,
+    "id_str": "159609655",
+    "name": "Lauren Whittington",
+    "screen_name": "l_whittington",
+    "location": "Washington, DC",
+    "description": "@rollcall Politics Editor, political junkie, 'real Virginia' native living on Capitol Hill. Fan of football, NASCAR, martinis and red meat. ",
+    "url": "http://www.rollcall.com/politics",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.rollcall.com/politics",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3078,
+    "friends_count": 1872,
+    "listed_count": 152,
+    "created_at": "Fri Jun 25 21:32:50 +0000 2010",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6293,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1431100292/IMG00065-20110707-1457_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1431100292/IMG00065-20110707-1457_normal.jpg",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "rva",
+        "indices": [
+          17,
+          21
+        ]
+      },
+      {
+        "text": "vagov",
+        "indices": [
+          22,
+          28
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          73,
+          77
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ptSjXtfY",
+        "expanded_url": "http://bit.ly/MGOY8i",
+        "display_url": "bit.ly/MGOY8i",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RTDSchapiro",
+        "name": "Jeff E. Schapiro",
+        "id": 64729812,
+        "id_str": "64729812",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          38,
+          51
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

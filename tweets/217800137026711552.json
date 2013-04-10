@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed Jun 27 02:02:53 +0000 2012",
+  "id": 217800137026711552,
+  "id_str": "217800137026711552",
+  "text": "Hear, hear! RT @dancohen @sivavaid And kudos again on your fantastic leadership and articulation of values in the #UVA upheaval.",
+  "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13560922,
+    "id_str": "13560922",
+    "name": "Sherman Dorn",
+    "screen_name": "shermandorn",
+    "location": "Tampa, FL",
+    "description": "",
+    "url": "http://www.shermandorn.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.shermandorn.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1037,
+    "friends_count": 557,
+    "listed_count": 73,
+    "created_at": "Sat Feb 16 18:56:05 +0000 2008",
+    "favourites_count": 28,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8769,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/49515862/Dorn-port1_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/49515862/Dorn-port1_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          114,
+          118
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dancohen",
+        "name": "Dan Cohen",
+        "id": 14181097,
+        "id_str": "14181097",
+        "indices": [
+          15,
+          24
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          25,
+          34
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

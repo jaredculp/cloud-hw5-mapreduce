@@ -1,0 +1,114 @@
+{
+  "created_at": "Mon Jun 25 23:59:09 +0000 2012",
+  "id": 217406608509120512,
+  "id_str": "217406608509120512",
+  "text": "Alan Bennett and social change MT @irasocol Would #UVA want to create social mobility as it considers (actual) change? http://t.co/Fy7g9n2O",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217378771987210241,
+  "in_reply_to_status_id_str": "217378771987210241",
+  "in_reply_to_user_id": 1249711,
+  "in_reply_to_user_id_str": "1249711",
+  "in_reply_to_screen_name": "irasocol",
+  "user": {
+    "id": 18476076,
+    "id_str": "18476076",
+    "name": "JosieHolford",
+    "screen_name": "JosieHolford",
+    "location": "Poughkeepsie",
+    "description": "Head of School at Poughkeepsie Day School(PDS). My tweets are my own.",
+    "url": "http://www.pdscompasspoint.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.pdscompasspoint.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1862,
+    "friends_count": 1397,
+    "listed_count": 117,
+    "created_at": "Tue Dec 30 12:42:45 +0000 2008",
+    "favourites_count": 293,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7918,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/358617103/twilk_background_4eb4db999c7dc.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/358617103/twilk_background_4eb4db999c7dc.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1310425135/PDS2011_129_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1310425135/PDS2011_129_normal.JPG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18476076/1354300885",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          50,
+          54
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Fy7g9n2O",
+        "expanded_url": "http://www.guardian.co.uk/education/2012/jun/25/universities-significant-force-social-mobility",
+        "display_url": "guardian.co.uk/education/2012…",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "irasocol",
+        "name": "Ira Socol",
+        "id": 1249711,
+        "id_str": "1249711",
+        "indices": [
+          34,
+          43
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

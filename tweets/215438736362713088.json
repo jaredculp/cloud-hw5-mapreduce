@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 20 13:39:32 +0000 2012",
+  "id": 215438736362713088,
+  "id_str": "215438736362713088",
+  "text": "Can't disagree w/this! RT @criener: Seriously, all should join AAUP. May not prevent things like #UVA debacle, but helps.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 108943700,
+    "id_str": "108943700",
+    "name": "AAUP",
+    "screen_name": "AAUP",
+    "location": "Washington, DC",
+    "description": "The American Association of University Professors protects academic freedom, shared governance, and tenure. Contact: gbradley@aaup.org",
+    "url": "http://www.aaup.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.aaup.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2067,
+    "friends_count": 234,
+    "listed_count": 173,
+    "created_at": "Wed Jan 27 13:54:29 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1524,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "750710",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1379122587/AAUPlogoTwitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1379122587/AAUPlogoTwitter_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "170C0C",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          97,
+          101
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "criener",
+        "name": "Cedar Riener",
+        "id": 16210723,
+        "id_str": "16210723",
+        "indices": [
+          26,
+          34
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

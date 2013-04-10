@@ -1,0 +1,113 @@
+{
+  "created_at": "Sun Jun 24 23:15:27 +0000 2012",
+  "id": 217033223287488512,
+  "id_str": "217033223287488512",
+  "text": "Fave quote from the @huffpost story about #UVA: \"Making a lot of money does not demonstrate that you are very smart\" http://t.co/437WTXbU",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 23032617,
+    "id_str": "23032617",
+    "name": "Kristin McAuliffe",
+    "screen_name": "kcheb",
+    "location": "Boston, MA",
+    "description": "Pop culture nut, American history nerd, musical theatre aficionado & die hard NFL fan (Philadelphia Eagles). Eclectic, opinionated & happy. And now a new mom. ",
+    "url": "http://kcheb.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://kcheb.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 223,
+    "friends_count": 257,
+    "listed_count": 7,
+    "created_at": "Fri Mar 06 04:56:23 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1842,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/643004327/Me_solo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/643004327/Me_solo_normal.jpg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "65B0DA",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/437WTXbU",
+        "expanded_url": "http://www.huffingtonpost.com/2012/06/24/uva-teresa-sullivan-ouster-_n_1619261.html?utm_hp_ref=twitter&comm_ref=false",
+        "display_url": "huffingtonpost.com/2012/06/24/uva…",
+        "indices": [
+          117,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HuffPost",
+        "name": "HuffPost",
+        "id": 26682862,
+        "id_str": "26682862",
+        "indices": [
+          20,
+          29
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,148 @@
+{
+  "created_at": "Sun Aug 26 17:48:54 +0000 2012",
+  "id": 239781478450470913,
+  "id_str": "239781478450470913",
+  "text": "@JKamara1 Jump on board #UVa with your boy @Smokee_4 and get this 2014 class started #757",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 290693728,
+  "in_reply_to_user_id_str": "290693728",
+  "in_reply_to_screen_name": "JKamara1",
+  "user": {
+    "id": 391086006,
+    "id_str": "391086006",
+    "name": "LUNCH in your BOX",
+    "screen_name": "helloladies24",
+    "location": "",
+    "description": "if you can dodge a wrench, you can dodge a ball",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 63,
+    "friends_count": 114,
+    "listed_count": 1,
+    "created_at": "Sat Oct 15 01:17:09 +0000 2011",
+    "favourites_count": 128,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2271,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2675294846/c8c03016c55dee51d6b56f1dac931a70_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2675294846/c8c03016c55dee51d6b56f1dac931a70_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/391086006/1349233565",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.24271749,
+      -78.07875817
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.07875817,
+      38.24271749
+    ]
+  },
+  "place": {
+    "id": "dea1eac2d7ef8878",
+    "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json",
+    "place_type": "admin",
+    "name": "Maryland",
+    "full_name": "Maryland, US",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -79.487651,
+            37.886605
+          ],
+          [
+            -74.986282,
+            37.886605
+          ],
+          [
+            -74.986282,
+            39.723037
+          ],
+          [
+            -79.487651,
+            39.723037
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          24,
+          28
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JKamara1",
+        "name": "Jamil Kamara",
+        "id": 290693728,
+        "id_str": "290693728",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "Smokee_4",
+        "name": "Taquan Mizzell",
+        "id": 363260057,
+        "id_str": "363260057",
+        "indices": [
+          43,
+          52
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

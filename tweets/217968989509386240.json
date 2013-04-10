@@ -1,0 +1,103 @@
+{
+  "created_at": "Wed Jun 27 13:13:51 +0000 2012",
+  "id": 217968989509386240,
+  "id_str": "217968989509386240",
+  "text": "am i an idiot, or are other people confused as to why sullivan took the job back? #uva #effthat",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15128619,
+    "id_str": "15128619",
+    "name": "matt klaman",
+    "screen_name": "mattklaman",
+    "location": "richmond, va",
+    "description": "designer. branding. minimalist. lover of skinny :)",
+    "url": "http://www.mattklaman.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mattklaman.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 284,
+    "friends_count": 99,
+    "listed_count": 12,
+    "created_at": "Sun Jun 15 22:44:08 +0000 2008",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8577,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EEEEEE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/663715123/g736hlxmnl66nauy7flh.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/663715123/g736hlxmnl66nauy7flh.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3044204914/78db23f3d85432d6494d639c8f6630a4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3044204914/78db23f3d85432d6494d639c8f6630a4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/15128619/1348075466",
+    "profile_link_color": "036FA0",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "2A3947",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          82,
+          86
+        ]
+      },
+      {
+        "text": "effthat",
+        "indices": [
+          87,
+          95
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,84 @@
+{
+  "created_at": "Mon Aug 20 16:35:13 +0000 2012",
+  "id": 237588610575114240,
+  "id_str": "237588610575114240",
+  "text": "Tomando suco de #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 347915262,
+    "id_str": "347915262",
+    "name": "Ana",
+    "screen_name": "anna_haeser",
+    "location": "Venâncio Aires",
+    "description": "Across the ocean, across the sea... \r\nLove Justin Bieber ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 735,
+    "friends_count": 706,
+    "listed_count": 0,
+    "created_at": "Wed Aug 03 15:37:05 +0000 2011",
+    "favourites_count": 236,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 26804,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/782783402/86607e435e71e6e1f8c698c70a9e7b4d.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/782783402/86607e435e71e6e1f8c698c70a9e7b4d.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3211527204/159f6bb1ebaa80071d84b3f04ea03e3c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3211527204/159f6bb1ebaa80071d84b3f04ea03e3c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/347915262/1360073343",
+    "profile_link_color": "F75656",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "8A0CF0",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          16,
+          20
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

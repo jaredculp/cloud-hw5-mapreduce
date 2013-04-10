@@ -1,0 +1,141 @@
+{
+  "created_at": "Wed Jun 20 19:57:05 +0000 2012",
+  "id": 215533751877382144,
+  "id_str": "215533751877382144",
+  "text": "RT @saragoldrickrab: The travesty at #UVA-- new commentary from @judithburstyn,  former UC chair @UWMadison http://t.co/Z7o776SM #highered",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 36101852,
+    "id_str": "36101852",
+    "name": "Liam Goldrick",
+    "screen_name": "lgoldrick25",
+    "location": "Madison, Wisconsin",
+    "description": "Public education, quality teaching, economic inequality, Wisconsin politics. New Teacher Center policy director. Wife is @saragoldrickrab. Opinions are my own.",
+    "url": "http://eduoptimists.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://eduoptimists.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1997,
+    "friends_count": 598,
+    "listed_count": 105,
+    "created_at": "Tue Apr 28 15:59:14 +0000 2009",
+    "favourites_count": 202,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8182,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1852669673/Headshot2012_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1852669673/Headshot2012_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/36101852/1359995507",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          37,
+          41
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          129,
+          138
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Z7o776SM",
+        "expanded_url": "http://bit.ly/KNiyPM",
+        "display_url": "bit.ly/KNiyPM",
+        "indices": [
+          108,
+          128
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "saragoldrickrab",
+        "name": "Sara Goldrick-Rab",
+        "id": 32608975,
+        "id_str": "32608975",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "judithburstyn",
+        "name": "Judith Burstyn",
+        "id": 372619798,
+        "id_str": "372619798",
+        "indices": [
+          64,
+          78
+        ]
+      },
+      {
+        "screen_name": "UWMadison",
+        "name": "UW-Madison",
+        "id": 15763818,
+        "id_str": "15763818",
+        "indices": [
+          97,
+          107
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,83 @@
+{
+  "created_at": "Tue Jun 26 19:36:32 +0000 2012",
+  "id": 217702905531215872,
+  "id_str": "217702905531215872",
+  "text": "#UVA is trending! My little town!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 62900383,
+    "id_str": "62900383",
+    "name": "Megan Rowe",
+    "screen_name": "cvillemegan",
+    "location": "Charlottesville",
+    "description": "Social media enthusiast, writer, figure skater, Hokie alum, contrarian. Mom says I should've been a lawyer.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 146,
+    "friends_count": 268,
+    "listed_count": 11,
+    "created_at": "Tue Aug 04 19:12:34 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3041,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1414721449/P9180377_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1414721449/P9180377_normal.JPG",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

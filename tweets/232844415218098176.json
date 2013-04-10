@@ -1,0 +1,174 @@
+{
+  "created_at": "Tue Aug 07 14:23:29 +0000 2012",
+  "id": 232844415218098176,
+  "id_str": "232844415218098176",
+  "text": "#gelatina #higo #uva #fresa #durazno @AlafandiBiz  @ Alafandi Bizcocheria http://t.co/6BjostLQ",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 106482699,
+    "id_str": "106482699",
+    "name": "Sami Alafandi",
+    "screen_name": "SamiAlafandi",
+    "location": "Guadalajara, Jalisco",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 258,
+    "friends_count": 425,
+    "listed_count": 0,
+    "created_at": "Tue Jan 19 18:15:29 +0000 2010",
+    "favourites_count": 26,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1475,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1116042787/sam_20bebiendo_20cumple_20richard_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1116042787/sam_20bebiendo_20cumple_20richard_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      20.68431,
+      -103.39355
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -103.39355,
+      20.68431
+    ]
+  },
+  "place": {
+    "id": "7807880b17af73d8",
+    "url": "https://api.twitter.com/1.1/geo/id/7807880b17af73d8.json",
+    "place_type": "city",
+    "name": "Guadalajara",
+    "full_name": "Guadalajara, Jalisco",
+    "country_code": "MX",
+    "country": "Mexico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -103.410515,
+            20.600585
+          ],
+          [
+            -103.262645,
+            20.600585
+          ],
+          [
+            -103.262645,
+            20.752719
+          ],
+          [
+            -103.410515,
+            20.752719
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "gelatina",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "text": "higo",
+        "indices": [
+          10,
+          15
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          16,
+          20
+        ]
+      },
+      {
+        "text": "fresa",
+        "indices": [
+          21,
+          27
+        ]
+      },
+      {
+        "text": "durazno",
+        "indices": [
+          28,
+          36
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/6BjostLQ",
+        "expanded_url": "http://instagr.am/p/OB7PPNqJH2/",
+        "display_url": "instagr.am/p/OB7PPNqJH2/",
+        "indices": [
+          74,
+          94
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AlafandiBiz",
+        "name": "Alafandi Bizcocheria",
+        "id": 543622795,
+        "id_str": "543622795",
+        "indices": [
+          37,
+          49
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

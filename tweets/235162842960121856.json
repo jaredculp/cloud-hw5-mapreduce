@@ -1,0 +1,105 @@
+{
+  "created_at": "Mon Aug 13 23:56:05 +0000 2012",
+  "id": 235162842960121856,
+  "id_str": "235162842960121856",
+  "text": "@Chris_tai Você nunca mais vai sair da #UVA não? :D",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 235162351140237313,
+  "in_reply_to_status_id_str": "235162351140237313",
+  "in_reply_to_user_id": 10005692,
+  "in_reply_to_user_id_str": "10005692",
+  "in_reply_to_screen_name": "Chris_tai",
+  "user": {
+    "id": 125173132,
+    "id_str": "125173132",
+    "name": "Guilherme Alves",
+    "screen_name": "guilwitter",
+    "location": "Rio de Janeiro",
+    "description": "O tio do inglês",
+    "url": "http://atomo.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://atomo.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 23,
+    "friends_count": 29,
+    "listed_count": 0,
+    "created_at": "Sun Mar 21 23:34:42 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4523,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/303377956/CARINHA.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/303377956/CARINHA.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2956579229/ab3bb12e9f51814a449c27ed8648bb4f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2956579229/ab3bb12e9f51814a449c27ed8648bb4f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/125173132/1349991848",
+    "profile_link_color": "0A6915",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E0E03E",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          39,
+          43
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Chris_tai",
+        "name": "Tainá Almeida",
+        "id": 10005692,
+        "id_str": "10005692",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

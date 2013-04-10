@@ -1,0 +1,101 @@
+{
+  "created_at": "Fri Jun 29 19:32:03 +0000 2012",
+  "id": 218788940851855360,
+  "id_str": "218788940851855360",
+  "text": "@flovanlieshout Geen campus brede licentie voor Turnitin, De #UvA keus voor het moment is Ephorus. Ik doe (...) http://t.co/0yN9zUrH",
+  "source": "<a href=\"http://bottlenose.com/\" rel=\"nofollow\">Bottlenose</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 218702043504844801,
+  "in_reply_to_status_id_str": "218702043504844801",
+  "in_reply_to_user_id": 193287711,
+  "in_reply_to_user_id_str": "193287711",
+  "in_reply_to_screen_name": "flovanlieshout",
+  "user": {
+    "id": 17306290,
+    "id_str": "17306290",
+    "name": "frankbenneker",
+    "screen_name": "frankbenneker",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 224,
+    "friends_count": 247,
+    "listed_count": 15,
+    "created_at": "Tue Nov 11 08:44:23 +0000 2008",
+    "favourites_count": 12,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1693,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/506426452/jipkl_bigger_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/506426452/jipkl_bigger_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/0yN9zUrH",
+        "expanded_url": "http://bo.tt/6qy6x",
+        "display_url": "bo.tt/6qy6x",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "flovanlieshout",
+        "name": "Floris van Lieshout",
+        "id": 193287711,
+        "id_str": "193287711",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

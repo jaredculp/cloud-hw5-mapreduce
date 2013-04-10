@@ -1,0 +1,86 @@
+{
+  "created_at": "Sat Jun 23 00:07:21 +0000 2012",
+  "id": 216321507322900481,
+  "id_str": "216321507322900481",
+  "text": "@LarrySabato Icarus comes to mind",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216311472756760576,
+  "in_reply_to_status_id_str": "216311472756760576",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 19475281,
+    "id_str": "19475281",
+    "name": "Lindsay Fisher",
+    "screen_name": "fisherlr",
+    "location": "Richmond, VA",
+    "description": "Policy Dir. @stateGLF. #VCU grad. Phi Mu alumna. 804 native. Tweets are my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 546,
+    "friends_count": 869,
+    "listed_count": 5,
+    "created_at": "Sun Jan 25 02:48:26 +0000 2009",
+    "favourites_count": 103,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5384,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/96580290/2010-04-28_11-05-02_70.105.60.150.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/96580290/2010-04-28_11-05-02_70.105.60.150.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2596683595/ec24pge1sc5tupkqtiv4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2596683595/ec24pge1sc5tupkqtiv4_normal.jpeg",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "FF99CC",
+    "profile_sidebar_fill_color": "FF99CC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

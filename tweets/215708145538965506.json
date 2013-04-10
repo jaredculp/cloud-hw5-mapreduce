@@ -1,0 +1,134 @@
+{
+  "created_at": "Thu Jun 21 07:30:04 +0000 2012",
+  "id": 215708145538965506,
+  "id_str": "215708145538965506",
+  "text": "RT @4Hum @nowviskie on DH, #UVa, and \"our collective obligation\" to be stewards of higher ed: http://t.co/BVuH309t - via @rcooper",
+  "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 50122046,
+    "id_str": "50122046",
+    "name": "melissa terras",
+    "screen_name": "melissaterras",
+    "location": "London",
+    "description": "Co-Director, UCL Centre for Digital Humanities. Digital Humanities, Digital Culture: Computer Science vs cultural heritage. Personal Capacity, etc etc. ",
+    "url": "http://melissaterras.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://melissaterras.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3758,
+    "friends_count": 1091,
+    "listed_count": 279,
+    "created_at": "Tue Jun 23 22:21:08 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13250,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2630632768/01ce0a6bb38171543219679701f95e38_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2630632768/01ce0a6bb38171543219679701f95e38_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/50122046/1358760995",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          27,
+          31
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/BVuH309t",
+        "expanded_url": "http://bit.ly/KA7Jz8",
+        "display_url": "bit.ly/KA7Jz8",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "4Hum",
+        "name": "4Humanities ",
+        "id": 299924386,
+        "id_str": "299924386",
+        "indices": [
+          3,
+          8
+        ]
+      },
+      {
+        "screen_name": "nowviskie",
+        "name": "Bethany Nowviskie",
+        "id": 14221013,
+        "id_str": "14221013",
+        "indices": [
+          9,
+          19
+        ]
+      },
+      {
+        "screen_name": "rcooper",
+        "name": "R. Cooper",
+        "id": 5960652,
+        "id_str": "5960652",
+        "indices": [
+          121,
+          129
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

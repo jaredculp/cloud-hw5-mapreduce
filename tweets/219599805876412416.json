@@ -1,0 +1,136 @@
+{
+  "created_at": "Mon Jul 02 01:14:08 +0000 2012",
+  "id": 219599805876412416,
+  "id_str": "219599805876412416",
+  "text": "MT @cavalierdaily: @UVAStudCo VP @NeilBranch asks #Dragas to resign from #UVA #BOV. http://t.co/q9yXoikd",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 127713630,
+    "id_str": "127713630",
+    "name": "Anna Xie",
+    "screen_name": "annameliorate",
+    "location": "Fairfax / Charlottesville",
+    "description": "@mcintireuva student. Former @cavalierdaily CFO. Photographer. Aspiring consultant and IT specialist.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 228,
+    "friends_count": 417,
+    "listed_count": 4,
+    "created_at": "Tue Mar 30 01:29:16 +0000 2010",
+    "favourites_count": 544,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4031,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3186148867/c5617fe04010ac35b6ddd8ba7a813a25_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3186148867/c5617fe04010ac35b6ddd8ba7a813a25_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/127713630/1359596499",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Dragas",
+        "indices": [
+          50,
+          57
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          73,
+          77
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          78,
+          82
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/q9yXoikd",
+        "expanded_url": "http://www.cavalierdaily.com/2012/07/01/council-considers-response-to-dragas-reappointment/",
+        "display_url": "cavalierdaily.com/2012/07/01/cou…",
+        "indices": [
+          84,
+          104
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          3,
+          17
+        ]
+      },
+      {
+        "screen_name": "UVaStudCo",
+        "name": "UVa Student Council",
+        "id": 73327823,
+        "id_str": "73327823",
+        "indices": [
+          19,
+          29
+        ]
+      },
+      {
+        "screen_name": "NeilBranch",
+        "name": "Neil Branch",
+        "id": 469734293,
+        "id_str": "469734293",
+        "indices": [
+          33,
+          44
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

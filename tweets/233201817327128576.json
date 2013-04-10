@@ -1,0 +1,162 @@
+{
+  "created_at": "Wed Aug 08 14:03:40 +0000 2012",
+  "id": 233201817327128576,
+  "id_str": "233201817327128576",
+  "text": "Y que me agarra #Ernesto en mi casa encerrado!!! Lo bueno que hay #Vodka y #Arandano con #Uva me falta hielo",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 90899353,
+    "id_str": "90899353",
+    "name": "Roberto Novelo",
+    "screen_name": "robnovmen",
+    "location": "Campeche, México",
+    "description": "Licenciado en Sistemas de Computación Administrativas. Aficionado de Chivas! Instagram: @robnovmen ",
+    "url": "https://www.facebook.com/robnovmen",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://www.facebook.com/robnovmen",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 464,
+    "friends_count": 1186,
+    "listed_count": 5,
+    "created_at": "Wed Nov 18 16:06:32 +0000 2009",
+    "favourites_count": 484,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11839,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1796116948/NbaK0keS_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1796116948/NbaK0keS_normal",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/90899353/1354396697",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      19.3583505,
+      -90.7213721
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -90.7213721,
+      19.3583505
+    ]
+  },
+  "place": {
+    "id": "ea0b11ac2bd8a59a",
+    "url": "https://api.twitter.com/1.1/geo/id/ea0b11ac2bd8a59a.json",
+    "place_type": "city",
+    "name": "Champotón",
+    "full_name": "Champotón, Campeche",
+    "country_code": "MX",
+    "country": "Mexico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -92.326654,
+            17.812147
+          ],
+          [
+            -89.414791,
+            17.812147
+          ],
+          [
+            -89.414791,
+            21.215461
+          ],
+          [
+            -92.326654,
+            21.215461
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ernesto",
+        "indices": [
+          16,
+          24
+        ]
+      },
+      {
+        "text": "Vodka",
+        "indices": [
+          66,
+          72
+        ]
+      },
+      {
+        "text": "Arandano",
+        "indices": [
+          75,
+          84
+        ]
+      },
+      {
+        "text": "Uva",
+        "indices": [
+          89,
+          93
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

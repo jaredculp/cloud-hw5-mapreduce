@@ -1,0 +1,125 @@
+{
+  "created_at": "Fri Jun 22 07:06:55 +0000 2012",
+  "id": 216064708275486720,
+  "id_str": "216064708275486720",
+  "text": "Vandaag eens kijken hoe we #DataNose als middleware breder in het #HO krijgen door #omix, met de geweldige feiten van de #UvA lukt dat zeker",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19067129,
+    "id_str": "19067129",
+    "name": "Peter Roeterdink",
+    "screen_name": "PeterRoeterdink",
+    "location": "Deventer",
+    "description": "Man, Vader, Ondernemer, Levensgenieter, Sportief, Eerlijk en Vrolijk\r\nhttp://t.co/JAqCwX6o ",
+    "url": "http://t.co/JAqCwX6o",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/JAqCwX6o",
+            "expanded_url": "http://www.omix.nl",
+            "display_url": "omix.nl",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/JAqCwX6o",
+            "expanded_url": "http://www.omix.nl",
+            "display_url": "omix.nl",
+            "indices": [
+              70,
+              90
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 204,
+    "friends_count": 280,
+    "listed_count": 3,
+    "created_at": "Fri Jan 16 13:57:17 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2299,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/430092872/Plaza_major.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/430092872/Plaza_major.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3065063363/b7149b4a329ef64e57e989c94cd5def0_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3065063363/b7149b4a329ef64e57e989c94cd5def0_normal.jpeg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "DataNose",
+        "indices": [
+          27,
+          36
+        ]
+      },
+      {
+        "text": "HO",
+        "indices": [
+          66,
+          69
+        ]
+      },
+      {
+        "text": "omix",
+        "indices": [
+          83,
+          88
+        ]
+      },
+      {
+        "text": "UvA",
+        "indices": [
+          121,
+          125
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

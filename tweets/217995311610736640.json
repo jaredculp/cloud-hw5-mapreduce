@@ -1,0 +1,150 @@
+{
+  "created_at": "Wed Jun 27 14:58:27 +0000 2012",
+  "id": 217995311610736640,
+  "id_str": "217995311610736640",
+  "text": "@theavettbros Ur words transcend song.  They're your genius gift to us all #Betabridge #UVA the LOVE healed our school http://t.co/mICy4z5o",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 34935679,
+  "in_reply_to_user_id_str": "34935679",
+  "in_reply_to_screen_name": "theavettbros",
+  "user": {
+    "id": 239255117,
+    "id_str": "239255117",
+    "name": "Kassie Benham",
+    "screen_name": "LifeInPlayBlog",
+    "location": "",
+    "description": "Live the questions. Break yourself open to the audaciousness of possibility. ",
+    "url": "http://puttinglifeinplay.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://puttinglifeinplay.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 65,
+    "friends_count": 150,
+    "listed_count": 0,
+    "created_at": "Mon Jan 17 05:34:38 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 21,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "6E0A6E",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/437148608/Element8-Stones-Retouch_2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/437148608/Element8-Stones-Retouch_2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1361218538/KB-Headshot_1__normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1361218538/KB-Headshot_1__normal.jpg",
+    "profile_link_color": "6E0A6E",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "CBF024",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Betabridge",
+        "indices": [
+          75,
+          86
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          87,
+          91
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "theavettbros",
+        "name": "The Avett Brothers",
+        "id": 34935679,
+        "id_str": "34935679",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 217995311614930945,
+        "id_str": "217995311614930945",
+        "indices": [
+          119,
+          139
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwZ5lLeCMAEzPX1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwZ5lLeCMAEzPX1.jpg",
+        "url": "http://t.co/mICy4z5o",
+        "display_url": "pic.twitter.com/mICy4z5o",
+        "expanded_url": "http://twitter.com/LifeInPlayBlog/status/217995311610736640/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 450,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 768,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 255,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

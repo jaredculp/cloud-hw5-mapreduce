@@ -1,0 +1,172 @@
+{
+  "created_at": "Tue Jun 26 22:13:08 +0000 2012",
+  "id": 217742315723309056,
+  "id_str": "217742315723309056",
+  "text": "RT @NBC29: The #UVA #BOV has reinstated President Teresa #Sullivan after outcry over her ouster earlier this month.  http://t.co/BTY4i1aT",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 52132707,
+    "id_str": "52132707",
+    "name": "Kim Wilkins",
+    "screen_name": "kimrwilkins",
+    "location": "Clarksburg, MD",
+    "description": "Happily married to the love of my life and mommy to the most amazing little boy ever.  Love my God, love my family, love my life!\r\nI Corinthians 15:58",
+    "url": "https://www.facebook.com/kimrwilkins?ref=tn_tnmn",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://www.facebook.com/kimrwilkins?ref=tn_tnmn",
+            "expanded_url": null,
+            "indices": [
+              0,
+              48
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 73,
+    "friends_count": 193,
+    "listed_count": 0,
+    "created_at": "Mon Jun 29 17:59:50 +0000 2009",
+    "favourites_count": 104,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1200,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2866589869/c76f347e4495c00e3b770a64617270eb_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2866589869/c76f347e4495c00e3b770a64617270eb_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      39.2207964,
+      -77.2676948
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.2676948,
+      39.2207964
+    ]
+  },
+  "place": {
+    "id": "2b89722b090b739b",
+    "url": "https://api.twitter.com/1.1/geo/id/2b89722b090b739b.json",
+    "place_type": "city",
+    "name": "Clarksburg",
+    "full_name": "Clarksburg, MD",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.333984,
+            39.188156
+          ],
+          [
+            -77.23413,
+            39.188156
+          ],
+          [
+            -77.23413,
+            39.251419
+          ],
+          [
+            -77.333984,
+            39.251419
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          15,
+          19
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          20,
+          24
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          57,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/BTY4i1aT",
+        "expanded_url": "http://ht.ly/bQmeR",
+        "display_url": "ht.ly/bQmeR",
+        "indices": [
+          117,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

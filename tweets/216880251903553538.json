@@ -1,0 +1,102 @@
+{
+  "created_at": "Sun Jun 24 13:07:36 +0000 2012",
+  "id": 216880251903553538,
+  "id_str": "216880251903553538",
+  "text": "We knew this op-ed was coming: RT @washingtonpost: What would Thomas Jefferson think of the #UVA turmoil? http://t.co/z0tNRQ2c",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 888621,
+    "id_str": "888621",
+    "name": "Nu Wexler",
+    "screen_name": "wexler",
+    "location": "DC, via the Carolinas",
+    "description": "Politics, sports, music, food, sarcasm. Former @OgilvyDC, current Senate flack. Opinions expressed here are mine alone. Email: nwexler at gmail dot com",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3115,
+    "friends_count": 1950,
+    "listed_count": 140,
+    "created_at": "Sat Mar 10 22:59:05 +0000 2007",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 24210,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/75545909/WNC2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/75545909/WNC2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2814315249/7af4311f3805fd3664e43f015fc0a1ec_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2814315249/7af4311f3805fd3664e43f015fc0a1ec_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/888621/1356822120",
+    "profile_link_color": "1432A8",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          92,
+          96
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/z0tNRQ2c",
+        "expanded_url": "http://wapo.st/L4peo9",
+        "display_url": "wapo.st/L4peo9",
+        "indices": [
+          106,
+          126
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          34,
+          49
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

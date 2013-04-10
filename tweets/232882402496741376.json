@@ -1,0 +1,138 @@
+{
+  "created_at": "Tue Aug 07 16:54:26 +0000 2012",
+  "id": 232882402496741376,
+  "id_str": "232882402496741376",
+  "text": "Expectations Abound at UVA Media Day: http://t.co/x0qsvaFG @HoosFootball @cavalierinsider #UVA #WahooNation #ACC",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 78658489,
+    "id_str": "78658489",
+    "name": "Southern Pigskin",
+    "screen_name": "SouthernPigskin",
+    "location": "The South",
+    "description": "Celebrating our 11th year online, your home for ACC, SEC & SoCon football. Browse the site, you will feel our passion for the game. Check us out on Facebook! ",
+    "url": "http://SouthernPigskin.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://SouthernPigskin.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2770,
+    "friends_count": 910,
+    "listed_count": 110,
+    "created_at": "Wed Sep 30 17:26:53 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6413,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/627772148/xxns2cpnx4n38rdyoh2x.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/627772148/xxns2cpnx4n38rdyoh2x.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1873662320/new_twitter_and_facebook_logo_reasonably_small_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1873662320/new_twitter_and_facebook_logo_reasonably_small_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/78658489/1354542474",
+    "profile_link_color": "1BB300",
+    "profile_sidebar_border_color": "06A10B",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          90,
+          94
+        ]
+      },
+      {
+        "text": "WahooNation",
+        "indices": [
+          95,
+          107
+        ]
+      },
+      {
+        "text": "ACC",
+        "indices": [
+          108,
+          112
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/x0qsvaFG",
+        "expanded_url": "http://bit.ly/P3BN8j",
+        "display_url": "bit.ly/P3BN8j",
+        "indices": [
+          38,
+          58
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HoosFootball",
+        "name": "UVA Football",
+        "id": 82909130,
+        "id_str": "82909130",
+        "indices": [
+          59,
+          72
+        ]
+      },
+      {
+        "screen_name": "cavalierinsider",
+        "name": "Daily Progress",
+        "id": 82451567,
+        "id_str": "82451567",
+        "indices": [
+          73,
+          89
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

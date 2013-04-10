@@ -1,0 +1,116 @@
+{
+  "created_at": "Tue Jun 26 21:59:11 +0000 2012",
+  "id": 217738807787786240,
+  "id_str": "217738807787786240",
+  "text": "@ProfessorU @chucktodd @LarrySabato @FordOConnell and so utterly self-centered.",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217700840088145922,
+  "in_reply_to_status_id_str": "217700840088145922",
+  "in_reply_to_user_id": 119467859,
+  "in_reply_to_user_id_str": "119467859",
+  "in_reply_to_screen_name": "ProfessorU",
+  "user": {
+    "id": 590382073,
+    "id_str": "590382073",
+    "name": "PopulistPete",
+    "screen_name": "PopulistPete",
+    "location": "",
+    "description": "Just a guy trying to understand a little better.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 21,
+    "friends_count": 111,
+    "listed_count": 0,
+    "created_at": "Fri May 25 22:42:47 +0000 2012",
+    "favourites_count": 22,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2166,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/568935325/fixm0e4lmi3enktcfek7.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/568935325/fixm0e4lmi3enktcfek7.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2647142541/b96855dcf5ea0f396e94c5b478e430d3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2647142541/b96855dcf5ea0f396e94c5b478e430d3_normal.jpeg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ProfessorU",
+        "name": "Peter Ubertaccio",
+        "id": 119467859,
+        "id_str": "119467859",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "chucktodd",
+        "name": "Chuck Todd",
+        "id": 50325797,
+        "id_str": "50325797",
+        "indices": [
+          12,
+          22
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          23,
+          35
+        ]
+      },
+      {
+        "screen_name": "FordOConnell",
+        "name": "Ford O'Connell",
+        "id": 123899931,
+        "id_str": "123899931",
+        "indices": [
+          36,
+          49
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

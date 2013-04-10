@@ -1,0 +1,155 @@
+{
+  "created_at": "Wed Jul 04 13:40:44 +0000 2012",
+  "id": 220512467481141248,
+  "id_str": "220512467481141248",
+  "text": "Mmmmm, spinach and feta or ham and cheese croissant? Decisions! Decisions!! #JAG #CVille #UVa #bakery http://t.co/rn3KIlfH",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 555348611,
+    "id_str": "555348611",
+    "name": "Paradox Pastry",
+    "screen_name": "ParadoxPastry",
+    "location": "Charlottesville, VA",
+    "description": "Paradox Pastry is a Charlottesville, VA based company dedicated to delighting clients w/ American designs & European techniques. ",
+    "url": "http://paradoxpastry.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://paradoxpastry.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 79,
+    "friends_count": 80,
+    "listed_count": 0,
+    "created_at": "Mon Apr 16 19:05:56 +0000 2012",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 142,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2137867155/Paradox-Pastry-Bakery-Charlottesville200_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2137867155/Paradox-Pastry-Bakery-Charlottesville200_normal.png",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "JAG",
+        "indices": [
+          76,
+          80
+        ]
+      },
+      {
+        "text": "CVille",
+        "indices": [
+          81,
+          88
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          89,
+          93
+        ]
+      },
+      {
+        "text": "bakery",
+        "indices": [
+          94,
+          101
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 220512467485335552,
+        "id_str": "220512467485335552",
+        "indices": [
+          102,
+          122
+        ],
+        "media_url": "http://pbs.twimg.com/media/Aw9q670CIAA8c3O.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Aw9q670CIAA8c3O.jpg",
+        "url": "http://t.co/rn3KIlfH",
+        "display_url": "pic.twitter.com/rn3KIlfH",
+        "expanded_url": "http://twitter.com/ParadoxPastry/status/220512467481141248/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 453,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 768,
+            "h": 1024,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

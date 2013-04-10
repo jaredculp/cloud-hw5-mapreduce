@@ -1,0 +1,120 @@
+{
+  "created_at": "Wed Aug 29 19:30:13 +0000 2012",
+  "id": 240894140890640384,
+  "id_str": "240894140890640384",
+  "text": "RT @sivavaid: This #UVA student introducing the president is impressive. Of course, all #UVA students are impressive. http://t.co/9XJAE3zE",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 43117323,
+    "id_str": "43117323",
+    "name": "David J. Toscano",
+    "screen_name": "deltoscano",
+    "location": "Charlottesville, VA",
+    "description": "Representing the 57th District in the Virginia House of Delegates",
+    "url": "http://www.davidtoscano.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.davidtoscano.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1481,
+    "friends_count": 826,
+    "listed_count": 104,
+    "created_at": "Thu May 28 14:18:52 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 755,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/16070650/banner3.09.3.wide.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/16070650/banner3.09.3.wide.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/245058540/Untitled_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/245058540/Untitled_normal.jpg",
+    "profile_link_color": "FF3333",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "1F98C7",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          19,
+          23
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          88,
+          92
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/9XJAE3zE",
+        "expanded_url": "http://www.nbc29.com/category/175730/live-stream-landing-page",
+        "display_url": "nbc29.com/category/17573…",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

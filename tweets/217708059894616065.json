@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 26 19:57:00 +0000 2012",
+  "id": 217708059894616065,
+  "id_str": "217708059894616065",
+  "text": "Interesting note:  #UVA resolution reinstating Sullivan also resolves that @mikescott is ACC Player of the Year.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14763703,
+    "id_str": "14763703",
+    "name": "Brian Hammond",
+    "screen_name": "bhammond",
+    "location": "Midlothian, VA",
+    "description": "Father & husband, tech & policy writer, stat geek, UVA & Detroit sports fan.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 88,
+    "friends_count": 605,
+    "listed_count": 2,
+    "created_at": "Tue May 13 19:58:44 +0000 2008",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 639,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1873647708/138753471_display_image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1873647708/138753471_display_image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          19,
+          23
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          75,
+          85
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

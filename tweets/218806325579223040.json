@@ -1,0 +1,121 @@
+{
+  "created_at": "Fri Jun 29 20:41:07 +0000 2012",
+  "id": 218806325579223040,
+  "id_str": "218806325579223040",
+  "text": "If Mr. Jefferson were on Twitter, he'd follow @cavalierdaily and @cathgrimes  #FF #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20531221,
+    "id_str": "20531221",
+    "name": "Holly Hacker",
+    "screen_name": "hollyhacker",
+    "location": "Dallas, TX",
+    "description": "Education reporter & data evangelist at @dallasnews I love a good scatterplot. hhacker@dallasnews.com",
+    "url": "http://www.dallasnews.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.dallasnews.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2692,
+    "friends_count": 673,
+    "listed_count": 206,
+    "created_at": "Tue Feb 10 18:10:47 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1562,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/675712890/twitterpic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/675712890/twitterpic_normal.jpg",
+    "profile_link_color": "3B4BFF",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FF",
+        "indices": [
+          78,
+          81
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          82,
+          86
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          46,
+          60
+        ]
+      },
+      {
+        "screen_name": "cathgrimes",
+        "name": "Cathy Grimes",
+        "id": 19253485,
+        "id_str": "19253485",
+        "indices": [
+          65,
+          76
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

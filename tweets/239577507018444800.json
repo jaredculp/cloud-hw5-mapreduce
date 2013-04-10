@@ -1,0 +1,120 @@
+{
+  "created_at": "Sun Aug 26 04:18:23 +0000 2012",
+  "id": 239577507018444800,
+  "id_str": "239577507018444800",
+  "text": "wow! RT @FoxNews: University of Virginia reportedly declines Obama request to speak on campus http://t.co/XhdybnTQ #UVA #2012Elections",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 283287448,
+    "id_str": "283287448",
+    "name": "Black RVA",
+    "screen_name": "BlackRVA",
+    "location": "The best city in the WORLD!",
+    "description": "Support..Visit..Explore..Connect..Shop..Black RVA! Not about secluding, we love everyone! Just lifting up our community in a positive light.",
+    "url": "http://www.blackrva.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.blackrva.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1895,
+    "friends_count": 1599,
+    "listed_count": 22,
+    "created_at": "Sun Apr 17 00:30:10 +0000 2011",
+    "favourites_count": 156,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8732,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/335619088/BLACKRVA-STATE.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/335619088/BLACKRVA-STATE.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1841266700/BLACKRVA-SKYLINE_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1841266700/BLACKRVA-SKYLINE_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          115,
+          119
+        ]
+      },
+      {
+        "text": "2012Elections",
+        "indices": [
+          120,
+          134
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/XhdybnTQ",
+        "expanded_url": "http://fxn.ws/U1GdfM",
+        "display_url": "fxn.ws/U1GdfM",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "FoxNews",
+        "name": "Fox News",
+        "id": 1367531,
+        "id_str": "1367531",
+        "indices": [
+          8,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

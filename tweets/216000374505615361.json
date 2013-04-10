@@ -1,0 +1,105 @@
+{
+  "created_at": "Fri Jun 22 02:51:17 +0000 2012",
+  "id": 216000374505615361,
+  "id_str": "216000374505615361",
+  "text": "READ http://t.co/h1MK3GCJ #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17519548,
+    "id_str": "17519548",
+    "name": "Pear Moraras",
+    "screen_name": "pmoraras",
+    "location": "Seattle, WA",
+    "description": "be (com)passionate | UVA '08 | UW SPH '14",
+    "url": "http://footandfork.tumblr.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://footandfork.tumblr.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 193,
+    "friends_count": 340,
+    "listed_count": 8,
+    "created_at": "Thu Nov 20 19:36:39 +0000 2008",
+    "favourites_count": 195,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2966,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "5A8258",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/662972062/rf2i2l6i4b24n8xjef79.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/662972062/rf2i2l6i4b24n8xjef79.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3101341652/cbfb2d42d49118a66dfadc72a7608831_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3101341652/cbfb2d42d49118a66dfadc72a7608831_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/17519548/1351024534",
+    "profile_link_color": "25B046",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "AEC993",
+    "profile_text_color": "121111",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          26,
+          30
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/h1MK3GCJ",
+        "expanded_url": "http://www.tnr.com/blog/plank/104204/university-of-virginia-teresa-sullivan",
+        "display_url": "tnr.com/blog/plank/104…",
+        "indices": [
+          5,
+          25
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,108 @@
+{
+  "created_at": "Tue Jun 26 13:46:45 +0000 2012",
+  "id": 217614880327475200,
+  "id_str": "217614880327475200",
+  "text": "@petulad what was the point of this article? http://t.co/9Gm2dJAq Also, Snape and Dumbledore ended up being on the same team. #UVA #Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 14619947,
+  "in_reply_to_user_id_str": "14619947",
+  "in_reply_to_screen_name": "petulad",
+  "user": {
+    "id": 27443543,
+    "id_str": "27443543",
+    "name": "LTP",
+    "screen_name": "LinTP",
+    "location": "Arlington, VA",
+    "description": "Watch out for snark attacks.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 55,
+    "friends_count": 88,
+    "listed_count": 1,
+    "created_at": "Sun Mar 29 15:35:00 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 183,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/7034492/Georgetown_0208.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/7034492/Georgetown_0208.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/113828156/foxfield_crop_b_w_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/113828156/foxfield_crop_b_w_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          126,
+          130
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          131,
+          140
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/9Gm2dJAq",
+        "expanded_url": "http://www.washingtonpost.com/local/the-u-va-president-drama-is-it-the-queen-bee-scenario/2012/06/25/gJQATn6r2V_story.html",
+        "display_url": "washingtonpost.com/local/the-u-va…",
+        "indices": [
+          45,
+          65
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "petulad",
+        "name": "Petula Dvorak ",
+        "id": 14619947,
+        "id_str": "14619947",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

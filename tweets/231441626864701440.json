@@ -1,0 +1,92 @@
+{
+  "created_at": "Fri Aug 03 17:29:18 +0000 2012",
+  "id": 231441626864701440,
+  "id_str": "231441626864701440",
+  "text": "The new @VirginiaSports webpage looks great!  Very easy to navaigate!  Well done #UVA!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 223038009,
+    "id_str": "223038009",
+    "name": "Micah Morris",
+    "screen_name": "micah_morris",
+    "location": "VA",
+    "description": "Sports Fan, Parrothead, Radio Personality, Insurance Agent, Wanna be Beach Bum",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 38,
+    "friends_count": 106,
+    "listed_count": 0,
+    "created_at": "Sun Dec 05 05:48:09 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 422,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/436987304/bermuda_3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/436987304/bermuda_3.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1184065418/me_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1184065418/me_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          81,
+          85
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "VirginiaSports",
+        "name": "Virginia Cavaliers",
+        "id": 44257374,
+        "id_str": "44257374",
+        "indices": [
+          8,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

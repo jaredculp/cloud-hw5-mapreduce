@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Aug 07 17:01:47 +0000 2012",
+  "id": 232884253271154688,
+  "id_str": "232884253271154688",
+  "text": "RT @HenryGraff: #uva Michael Strine resigned his position as Executive Vice President and Chief Operating Officer, effective today.",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14552827,
+    "id_str": "14552827",
+    "name": "Jennifer McKeever",
+    "screen_name": "jmckeever",
+    "location": "Charlottesville, Virginia",
+    "description": "Mom, Lawyer, Charlottesville City School Board Member, living the dream",
+    "url": "http://www.jennifermckeever.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jennifermckeever.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2194,
+    "friends_count": 2398,
+    "listed_count": 113,
+    "created_at": "Sat Apr 26 23:13:07 +0000 2008",
+    "favourites_count": 36,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 17138,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1531337368/0161_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1531337368/0161_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          16,
+          20
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HenryGraff",
+        "name": "Henry Graff",
+        "id": 65287423,
+        "id_str": "65287423",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

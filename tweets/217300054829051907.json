@@ -1,0 +1,113 @@
+{
+  "created_at": "Mon Jun 25 16:55:44 +0000 2012",
+  "id": 217300054829051907,
+  "id_str": "217300054829051907",
+  "text": "Darden Dean's response http://t.co/iXwBDuxU to WSJ article about the UVA mess -- http://t.co/yIIiAUvX #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 117538729,
+    "id_str": "117538729",
+    "name": "Toni Barskile",
+    "screen_name": "ToniHoo",
+    "location": "Here",
+    "description": "WordPress consultant, maker of websites, foodie, house music fan. ",
+    "url": "http://ugivegoodweb.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ugivegoodweb.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 53,
+    "friends_count": 151,
+    "listed_count": 1,
+    "created_at": "Thu Feb 25 21:38:33 +0000 2010",
+    "favourites_count": 44,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 318,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2429733305/4oaa7yhfkmdhnilpo6cs_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2429733305/4oaa7yhfkmdhnilpo6cs_normal.jpeg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          102,
+          106
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/iXwBDuxU",
+        "expanded_url": "http://bit.ly/Lvd7TQ",
+        "display_url": "bit.ly/Lvd7TQ",
+        "indices": [
+          23,
+          43
+        ]
+      },
+      {
+        "url": "http://t.co/yIIiAUvX",
+        "expanded_url": "http://on.wsj.com/Ok60R3",
+        "display_url": "on.wsj.com/Ok60R3",
+        "indices": [
+          81,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

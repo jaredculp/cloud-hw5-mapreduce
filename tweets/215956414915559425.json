@@ -1,0 +1,127 @@
+{
+  "created_at": "Thu Jun 21 23:56:36 +0000 2012",
+  "id": 215956414915559425,
+  "id_str": "215956414915559425",
+  "text": "Your assignment: compare #Dragas statement (http://t.co/Gi8zIVaf) w/ #Sullivan strategy memo (http://t.co/a9KY6TAx). #uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13560922,
+    "id_str": "13560922",
+    "name": "Sherman Dorn",
+    "screen_name": "shermandorn",
+    "location": "Tampa, FL",
+    "description": "",
+    "url": "http://www.shermandorn.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.shermandorn.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1036,
+    "friends_count": 556,
+    "listed_count": 73,
+    "created_at": "Sat Feb 16 18:56:05 +0000 2008",
+    "favourites_count": 26,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8751,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/49515862/Dorn-port1_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/49515862/Dorn-port1_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Dragas",
+        "indices": [
+          25,
+          32
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          69,
+          78
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          117,
+          121
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Gi8zIVaf",
+        "expanded_url": "http://www.cavalierdaily.com/2012/06/21/rector-dragas-statement-on-university-challenges-sullivan-resignation/",
+        "display_url": "cavalierdaily.com/2012/06/21/rec…",
+        "indices": [
+          44,
+          64
+        ]
+      },
+      {
+        "url": "http://t.co/a9KY6TAx",
+        "expanded_url": "http://www.cavalierdaily.com/2012/06/14/president-sullivans-strategic-plan-to-the-board-of-visitors/",
+        "display_url": "cavalierdaily.com/2012/06/14/pre…",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

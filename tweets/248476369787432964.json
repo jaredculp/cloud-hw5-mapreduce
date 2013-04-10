@@ -1,0 +1,117 @@
+{
+  "created_at": "Wed Sep 19 17:39:17 +0000 2012",
+  "id": 248476369787432964,
+  "id_str": "248476369787432964",
+  "text": "Virginia Policy Review Accepting New Submissions 4 Fall Edition! http://t.co/28CbrZOM @UVAFacultySen @tomfuva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 485310511,
+    "id_str": "485310511",
+    "name": "VA Policy Review",
+    "screen_name": "VAPolicyReview",
+    "location": "Charlottesville, VA",
+    "description": "The Virginia Policy Review (VPR) is the public policy journal at the University of Virginia Frank Batten School of Leadership and Public Policy. ",
+    "url": "http://www.virginiapolicyreview.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginiapolicyreview.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 82,
+    "friends_count": 288,
+    "listed_count": 1,
+    "created_at": "Tue Feb 07 02:18:48 +0000 2012",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 171,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/418556566/uva7.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/418556566/uva7.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1809777715/entry_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1809777715/entry_normal.jpeg",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/28CbrZOM",
+        "expanded_url": "http://virginiapolicyreview.com/contact-submissions/",
+        "display_url": "virginiapolicyreview.com/contact-submis…",
+        "indices": [
+          65,
+          85
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVAFacultySen",
+        "name": "UVA Faculty Senate",
+        "id": 613796706,
+        "id_str": "613796706",
+        "indices": [
+          86,
+          100
+        ]
+      },
+      {
+        "screen_name": "tomfUVA",
+        "name": "Tom Fitch",
+        "id": 28636593,
+        "id_str": "28636593",
+        "indices": [
+          101,
+          109
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

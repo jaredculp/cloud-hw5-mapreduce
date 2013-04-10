@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Aug 28 20:19:08 +0000 2012",
+  "id": 240544062367756288,
+  "id_str": "240544062367756288",
+  "text": "Noodwijziging #UvAdraadloos zojuist opgestart. http://t.co/0boCFdtd #uva #eduroam",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 128573686,
+    "id_str": "128573686",
+    "name": "UvAdraadloos",
+    "screen_name": "UvAdraadloos",
+    "location": "Amsterdam",
+    "description": "UvAdraadloos biedt studenten, medewerkers en gasten van de UvA op verschillende lokaties (hotspots) een beveiligde draadloze verbinding met het UvAnet.",
+    "url": "http://draadloos.uva.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://draadloos.uva.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 170,
+    "friends_count": 27,
+    "listed_count": 6,
+    "created_at": "Thu Apr 01 14:36:12 +0000 2010",
+    "favourites_count": 7,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 215,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/136885663/IC_SYMBOOL_compleet.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/136885663/IC_SYMBOOL_compleet.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1120246230/sw2_res_default_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1120246230/sw2_res_default_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvAdraadloos",
+        "indices": [
+          14,
+          27
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          68,
+          72
+        ]
+      },
+      {
+        "text": "eduroam",
+        "indices": [
+          73,
+          81
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/0boCFdtd",
+        "expanded_url": "http://www.student.uva.nl/a-z/ict-storingen.cfm/DADFC1BB-E799-46B9-BD9EBFD39343BD4C",
+        "display_url": "student.uva.nl/a-z/ict-storin…",
+        "indices": [
+          47,
+          67
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

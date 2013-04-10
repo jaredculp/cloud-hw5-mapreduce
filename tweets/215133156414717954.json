@@ -1,0 +1,125 @@
+{
+  "created_at": "Tue Jun 19 17:25:16 +0000 2012",
+  "id": 215133156414717954,
+  "id_str": "215133156414717954",
+  "text": "Dragas secret identity? http://t.co/q86gH81s\n#UVA #dragasresign #dragasmustgo #sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 38593690,
+    "id_str": "38593690",
+    "name": "Jeff Atkins",
+    "screen_name": "atkinsjeff",
+    "location": "Charlottesville, VA",
+    "description": "Dad, husband, scientist, and purveyor of loud, annoying music.",
+    "url": "http://evsc.virginia.edu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://evsc.virginia.edu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 35,
+    "friends_count": 125,
+    "listed_count": 0,
+    "created_at": "Fri May 08 03:14:20 +0000 2009",
+    "favourites_count": 21,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 876,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2715149728/7b004bbbbfc796ef2622d562597440f7_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2715149728/7b004bbbbfc796ef2622d562597440f7_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          45,
+          49
+        ]
+      },
+      {
+        "text": "dragasresign",
+        "indices": [
+          50,
+          63
+        ]
+      },
+      {
+        "text": "dragasmustgo",
+        "indices": [
+          64,
+          77
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          78,
+          87
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/q86gH81s",
+        "expanded_url": "http://imgur.com/WU38S",
+        "display_url": "imgur.com/WU38S",
+        "indices": [
+          24,
+          44
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,123 @@
+{
+  "created_at": "Wed Jun 20 08:46:29 +0000 2012",
+  "id": 215364988766912514,
+  "id_str": "215364988766912514",
+  "text": "debgalant: RT @kissane: This is how you write a protest resignation. Professor Wulf, I salute you. https://t.co/S5OKcZnj #UVA (via @kjhealy)",
+  "source": "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 38232265,
+    "id_str": "38232265",
+    "name": "Baristas Tweet",
+    "screen_name": "baristatweet",
+    "location": "Montclair, NJ",
+    "description": "Follow the Twitter-using Baristas of Baristanet.com - Your one-stop news and entertainment source for Essex County, NJ!",
+    "url": "http://baristanet.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://baristanet.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 926,
+    "friends_count": 0,
+    "listed_count": 46,
+    "created_at": "Wed May 06 17:40:01 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 15729,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EFEFEF",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1889668815/mobile-icon_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1889668815/mobile-icon_normal.png",
+    "profile_link_color": "0588D1",
+    "profile_sidebar_border_color": "020405",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          121,
+          125
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/S5OKcZnj",
+        "expanded_url": "https://gist.github.com/2956118",
+        "display_url": "gist.github.com/2956118",
+        "indices": [
+          99,
+          120
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kissane",
+        "name": "erin kissane",
+        "id": 13145012,
+        "id_str": "13145012",
+        "indices": [
+          14,
+          22
+        ]
+      },
+      {
+        "screen_name": "kjhealy",
+        "name": "Kieran Healy",
+        "id": 782325,
+        "id_str": "782325",
+        "indices": [
+          131,
+          139
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

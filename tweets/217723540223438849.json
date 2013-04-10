@@ -1,0 +1,138 @@
+{
+  "created_at": "Tue Jun 26 20:58:31 +0000 2012",
+  "id": 217723540223438849,
+  "id_str": "217723540223438849",
+  "text": "Adam Oates, NHL or #UVA wouldn't support the willful killings of 1,800 Whales by the Navy! Speak Out for your planet http://t.co/KG8J60Op",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 35916306,
+    "id_str": "35916306",
+    "name": "Silversides_Fishing",
+    "screen_name": "sturgeonguide",
+    "location": "Vancouver",
+    "description": "#Vancouver and Fraser river #BC's best #fishing guide for #Salmon #Steelhead #Sturgeon, Guided Fly Fishing. Plus #topstories on #food, #health and #environment",
+    "url": "http://www.bcfishing-guide.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.bcfishing-guide.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 416,
+    "friends_count": 1091,
+    "listed_count": 19,
+    "created_at": "Tue Apr 28 00:08:10 +0000 2009",
+    "favourites_count": 12,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3125,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "303F47",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/175091165/xcc2ebfc30b54a7e58561b097a4f43b9.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/175091165/xcc2ebfc30b54a7e58561b097a4f43b9.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1867697427/brianSFmckinlay_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1867697427/brianSFmckinlay_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/35916306/1355521246",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "216dd1bcf824f9f7",
+    "url": "https://api.twitter.com/1.1/geo/id/216dd1bcf824f9f7.json",
+    "place_type": "city",
+    "name": "Greater Vancouver",
+    "full_name": "Greater Vancouver, British Columbia",
+    "country_code": "CA",
+    "country": "Canada",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -123.738375,
+            49.001921
+          ],
+          [
+            -122.406655,
+            49.001921
+          ],
+          [
+            -122.406655,
+            49.574551
+          ],
+          [
+            -123.738375,
+            49.574551
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          19,
+          23
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/KG8J60Op",
+        "expanded_url": "http://www.nrdconline.org/site/R?i=n5peA-_xMhVluHY9iKPHog",
+        "display_url": "nrdconline.org/site/R?i=n5peA…",
+        "indices": [
+          117,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

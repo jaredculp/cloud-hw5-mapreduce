@@ -1,0 +1,120 @@
+{
+  "created_at": "Wed Jun 27 03:31:21 +0000 2012",
+  "id": 217822396827189250,
+  "id_str": "217822396827189250",
+  "text": "This take on #Sullivan's #UVA ousting is awesome analysis of college politics today! via @NewFacMajority http://t.co/vJuPaRG6",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 489696340,
+    "id_str": "489696340",
+    "name": "Occupy CUNY News",
+    "screen_name": "CUNY101",
+    "location": "New York",
+    "description": "A collective covering news, events, media, and resources for #OccupyCUNY and solidarity groups.",
+    "url": "http://occupycunynews.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://occupycunynews.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 237,
+    "friends_count": 93,
+    "listed_count": 8,
+    "created_at": "Sat Feb 11 19:57:18 +0000 2012",
+    "favourites_count": 11,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 341,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2262171552/occupyCUNY2_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2262171552/occupyCUNY2_normal.gif",
+    "profile_link_color": "CC0000",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          13,
+          22
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          25,
+          29
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/vJuPaRG6",
+        "expanded_url": "http://bit.ly/L82Ha7",
+        "display_url": "bit.ly/L82Ha7",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NewFacMajority",
+        "name": "New Faculty Majority",
+        "id": 537502474,
+        "id_str": "537502474",
+        "indices": [
+          89,
+          104
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

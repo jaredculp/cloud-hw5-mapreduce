@@ -1,0 +1,114 @@
+{
+  "created_at": "Fri Jun 29 20:40:29 +0000 2012",
+  "id": 218806165151293441,
+  "id_str": "218806165151293441",
+  "text": "Sort of surprising after the whole TSull fiasco RT @wpjenna: Helen Dragas reappointed to #UVA Board of Visitors: http://t.co/3yWoIt4v",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18962489,
+    "id_str": "18962489",
+    "name": "Joseph Lichterman",
+    "screen_name": "ylichterman",
+    "location": "Ann Arbor, MI",
+    "description": "Senior in the @umich @fordschool. @michiganradio intern. Summer 2013 @Reuters Detroit intern. Recovering @michigandaily editor in chief.  ylichterman@gmail.com ",
+    "url": "http://www.josephlichterman.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.josephlichterman.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 606,
+    "friends_count": 1540,
+    "listed_count": 12,
+    "created_at": "Wed Jan 14 01:39:32 +0000 2009",
+    "favourites_count": 16,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4865,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/758989934/185e00af9bc7e875c092ace79d9d531f.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/758989934/185e00af9bc7e875c092ace79d9d531f.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2966834366/1e7c87eeba6abcccdc7b359107b69f8a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2966834366/1e7c87eeba6abcccdc7b359107b69f8a_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18962489/1357697070",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          89,
+          93
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/3yWoIt4v",
+        "expanded_url": "http://wapo.st/NLLvqG",
+        "display_url": "wapo.st/NLLvqG",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          51,
+          59
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

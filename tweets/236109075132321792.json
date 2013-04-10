@@ -1,0 +1,147 @@
+{
+  "created_at": "Thu Aug 16 14:36:04 +0000 2012",
+  "id": 236109075132321792,
+  "id_str": "236109075132321792",
+  "text": "Not sure how to respond to this… RT @uvadubs2007: @philliphess I know I've said this before, but you should have gone to #UVa.",
+  "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26607370,
+    "id_str": "26607370",
+    "name": "Phillip Hess",
+    "screen_name": "philliphess",
+    "location": "New York, NY",
+    "description": "Strategist by day. Designer by night. Photographer on travel. A greater fool always.",
+    "url": "http://www.philliphess.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.philliphess.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 386,
+    "friends_count": 150,
+    "listed_count": 10,
+    "created_at": "Wed Mar 25 22:14:53 +0000 2009",
+    "favourites_count": 1076,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11914,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/604447652/1wzrzpptagmiux4gclby.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/604447652/1wzrzpptagmiux4gclby.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3095812729/cda4a2ff39dda62ee8354c3601008236_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3095812729/cda4a2ff39dda62ee8354c3601008236_normal.png",
+    "profile_link_color": "A10000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "D1D1D1",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "086752cb03de1d5d",
+    "url": "https://api.twitter.com/1.1/geo/id/086752cb03de1d5d.json",
+    "place_type": "city",
+    "name": "Manhattan",
+    "full_name": "Manhattan, NY",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.047285,
+            40.679548
+          ],
+          [
+            -73.907,
+            40.679548
+          ],
+          [
+            -73.907,
+            40.882214
+          ],
+          [
+            -74.047285,
+            40.882214
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          121,
+          125
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "uvadubs2007",
+        "name": "Woody Wingfield",
+        "id": 724281450,
+        "id_str": "724281450",
+        "indices": [
+          36,
+          48
+        ]
+      },
+      {
+        "screen_name": "philliphess",
+        "name": "Phillip Hess",
+        "id": 26607370,
+        "id_str": "26607370",
+        "indices": [
+          50,
+          62
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

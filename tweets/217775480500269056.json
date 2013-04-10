@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Jun 27 00:24:55 +0000 2012",
+  "id": 217775480500269056,
+  "id_str": "217775480500269056",
+  "text": "Hey hey UVA! RT @jbouie: Wahoo wa, bitches. RT @DailyProgress: Unanimous vote to reinstate Teressa Sullivan as #UVa president.",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 46822887,
+    "id_str": "46822887",
+    "name": "Imani ABL",
+    "screen_name": "AngryBlackLady",
+    "location": "Los Angeles",
+    "description": "Sr Legal Analyst @ RHRealityCheck. Founder of #TeamUterati Wiki. Winner of 2012 Black Weblog Award. Oxford comma enthusiast. My mom is white. True story. o--€",
+    "url": "http://www.angryblackladychronicles.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.angryblackladychronicles.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              39
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 13094,
+    "friends_count": 1305,
+    "listed_count": 726,
+    "created_at": "Sat Jun 13 04:10:49 +0000 2009",
+    "favourites_count": 4328,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 147658,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/473997648/abl-bauhaus.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/473997648/abl-bauhaus.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3137049329/a51ae65d842b7d0b7646f64ac890deb2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3137049329/a51ae65d842b7d0b7646f64ac890deb2_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/46822887/1356245635",
+    "profile_link_color": "104D8B",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "104D8B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          111,
+          115
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jbouie",
+        "name": "Jamelle Bouie",
+        "id": 14190948,
+        "id_str": "14190948",
+        "indices": [
+          16,
+          23
+        ]
+      },
+      {
+        "screen_name": "DailyProgress",
+        "name": "The Daily Progress",
+        "id": 17136814,
+        "id_str": "17136814",
+        "indices": [
+          47,
+          61
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

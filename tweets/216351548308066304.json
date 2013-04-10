@@ -1,0 +1,206 @@
+{
+  "created_at": "Sat Jun 23 02:06:43 +0000 2012",
+  "id": 216351548308066304,
+  "id_str": "216351548308066304",
+  "text": "RT @MattMotyl: @cvillenewscom Is it possible for the BoV to oust Dragas? #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 612905896,
+    "id_str": "612905896",
+    "name": "Thomas Talhelm",
+    "screen_name": "ThomasTalhelm",
+    "location": "Charlottesville, VA",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 10,
+    "friends_count": 13,
+    "listed_count": 0,
+    "created_at": "Tue Jun 19 22:11:47 +0000 2012",
+    "favourites_count": 27,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 169,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2326152012/tsmtf13b75j1dvuqdell_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2326152012/tsmtf13b75j1dvuqdell_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Jun 23 01:53:10 +0000 2012",
+    "id": 216348140708691969,
+    "id_str": "216348140708691969",
+    "text": "@cvillenewscom Is it possible for the BoV to oust Dragas? #uva",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 52553230,
+    "in_reply_to_user_id_str": "52553230",
+    "in_reply_to_screen_name": "cvillenewscom",
+    "user": {
+      "id": 18353044,
+      "id_str": "18353044",
+      "name": "Matt Motyl",
+      "screen_name": "MattMotyl",
+      "location": "Charlottesville, VA, USA",
+      "description": "I am a doctoral candidate studying political psychology at the University of Virginia.",
+      "url": "http://people.virginia.edu/~msm6sw/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://people.virginia.edu/~msm6sw/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                35
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 87,
+      "friends_count": 241,
+      "listed_count": 0,
+      "created_at": "Wed Dec 24 06:51:02 +0000 2008",
+      "favourites_count": 41,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 937,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "0000FF",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/583400093/h56y86u7wzqp2tymy1hc.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/583400093/h56y86u7wzqp2tymy1hc.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2328171657/wg9l0ht9rq8uhyqkneqf_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2328171657/wg9l0ht9rq8uhyqkneqf_normal.jpeg",
+      "profile_link_color": "FFA500",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "uva",
+          "indices": [
+            58,
+            62
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cvillenewscom",
+          "name": "cvillenews.com",
+          "id": 52553230,
+          "id_str": "52553230",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          73,
+          77
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MattMotyl",
+        "name": "Matt Motyl",
+        "id": 18353044,
+        "id_str": "18353044",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "cvillenewscom",
+        "name": "cvillenews.com",
+        "id": 52553230,
+        "id_str": "52553230",
+        "indices": [
+          15,
+          29
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

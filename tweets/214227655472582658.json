@@ -1,0 +1,126 @@
+{
+  "created_at": "Sun Jun 17 05:27:07 +0000 2012",
+  "id": 214227655472582658,
+  "id_str": "214227655472582658",
+  "text": "@sivavaid, shaking things up @UVa! #hoosforsullivan #justmythesisadvisor #nbd http://t.co/8mQVWz3g",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 20406724,
+  "in_reply_to_user_id_str": "20406724",
+  "in_reply_to_screen_name": "sivavaid",
+  "user": {
+    "id": 153396653,
+    "id_str": "153396653",
+    "name": "Stephanie Nguyen",
+    "screen_name": "nguyenist",
+    "location": "Washington, D.C.",
+    "description": "this is my digital media curio",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 293,
+    "friends_count": 198,
+    "listed_count": 9,
+    "created_at": "Tue Jun 08 12:55:58 +0000 2010",
+    "favourites_count": 24,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 786,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/117821570/green_grass.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/117821570/green_grass.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3130673313/c6737500b4aaea7e0dd90994a0f554c0_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3130673313/c6737500b4aaea7e0dd90994a0f554c0_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/153396653/1358631982",
+    "profile_link_color": "00D672",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "141414",
+    "profile_text_color": "FFFFFF",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "hoosforsullivan",
+        "indices": [
+          35,
+          51
+        ]
+      },
+      {
+        "text": "justmythesisadvisor",
+        "indices": [
+          52,
+          72
+        ]
+      },
+      {
+        "text": "nbd",
+        "indices": [
+          73,
+          77
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/8mQVWz3g",
+        "expanded_url": "http://www.slate.com/articles/news_and_politics/hey_wait_a_minute/2012/06/teresa_sullivan_fired_from_uva_what_happens_when_universities_are_run_by_robber_barons_.html",
+        "display_url": "slate.com/articles/news_…",
+        "indices": [
+          78,
+          98
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          29,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

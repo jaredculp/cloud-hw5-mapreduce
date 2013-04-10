@@ -1,0 +1,132 @@
+{
+  "created_at": "Fri Jun 22 21:36:20 +0000 2012",
+  "id": 216283505238343680,
+  "id_str": "216283505238343680",
+  "text": "RT @PilotOpinion Columnist Candy Hatcher: A show of character in 140 characters http://t.co/LB2Tkunu @cavalierdaily #uva #badasscavdaily",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18639029,
+    "id_str": "18639029",
+    "name": "ajw93",
+    "screen_name": "ajw93",
+    "location": "Albany, NY USA",
+    "description": "Photography, lefty politics, and sarcasm. I went to U.-Va. You wanna make something of it?",
+    "url": "http://t.co/BESrd4tl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/BESrd4tl",
+            "expanded_url": "http://about.me/apertureamy",
+            "display_url": "about.me/apertureamy",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 140,
+    "friends_count": 179,
+    "listed_count": 4,
+    "created_at": "Mon Jan 05 18:04:12 +0000 2009",
+    "favourites_count": 230,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6713,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/6616926/argyle-bluee.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/6616926/argyle-bluee.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2823376377/b030c9706c884b466f67d987aa34e24f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2823376377/b030c9706c884b466f67d987aa34e24f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18639029/1359574234",
+    "profile_link_color": "FCC988",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "8B9DCB",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          116,
+          120
+        ]
+      },
+      {
+        "text": "badasscavdaily",
+        "indices": [
+          121,
+          136
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/LB2Tkunu",
+        "expanded_url": "http://ow.ly/1O7dLr",
+        "display_url": "ow.ly/1O7dLr",
+        "indices": [
+          80,
+          100
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PilotOpinion",
+        "name": "Pilot Opinion",
+        "id": 195783230,
+        "id_str": "195783230",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          101,
+          115
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

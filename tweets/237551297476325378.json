@@ -1,0 +1,171 @@
+{
+  "created_at": "Mon Aug 20 14:06:57 +0000 2012",
+  "id": 237551297476325378,
+  "id_str": "237551297476325378",
+  "text": "Voltando ao #jardimdeinfancia #MetodologiaVisual #DesigndeModa #UVA   @ Universidade Veiga de Almeida http://t.co/E4nOqWc6",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 454520155,
+    "id_str": "454520155",
+    "name": "Soraya Rodrigues",
+    "screen_name": "soraya_nery",
+    "location": "Rio de Janeiro",
+    "description": "Designer de moda, fashion lover, sonhadora, botafoguense e carioca da gema. Aquela que você fala mal, paga-pau e faz  igual.",
+    "url": "http://www.facebook.com/profile.php?id=1803620643",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/profile.php?id=1803620643",
+            "expanded_url": null,
+            "indices": [
+              0,
+              49
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 113,
+    "friends_count": 705,
+    "listed_count": 0,
+    "created_at": "Wed Jan 04 02:49:03 +0000 2012",
+    "favourites_count": 4,
+    "utc_offset": 46800,
+    "time_zone": "Nuku'alofa",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1573,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/394373063/moda.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/394373063/moda.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2562211301/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2562211301/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/454520155/1348800704",
+    "profile_link_color": "F516DB",
+    "profile_sidebar_border_color": "DAC1EB",
+    "profile_sidebar_fill_color": "58DBC5",
+    "profile_text_color": "1D81ED",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -23.00407507,
+      -43.35281777
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -43.35281777,
+      -23.00407507
+    ]
+  },
+  "place": {
+    "id": "97bcdfca1a2dca59",
+    "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json",
+    "place_type": "city",
+    "name": "Rio de Janeiro",
+    "full_name": "Rio de Janeiro, Rio de Janeiro",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -43.795449,
+            -23.08302
+          ],
+          [
+            -43.099381,
+            -23.08302
+          ],
+          [
+            -43.099381,
+            -22.749044
+          ],
+          [
+            -43.795449,
+            -22.749044
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "jardimdeinfancia",
+        "indices": [
+          12,
+          29
+        ]
+      },
+      {
+        "text": "MetodologiaVisual",
+        "indices": [
+          30,
+          48
+        ]
+      },
+      {
+        "text": "DesigndeModa",
+        "indices": [
+          49,
+          62
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          63,
+          67
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/E4nOqWc6",
+        "expanded_url": "http://instagr.am/p/OjXFR_hxeH/",
+        "display_url": "instagr.am/p/OjXFR_hxeH/",
+        "indices": [
+          102,
+          122
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

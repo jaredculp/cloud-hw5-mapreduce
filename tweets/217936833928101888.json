@@ -1,0 +1,105 @@
+{
+  "created_at": "Wed Jun 27 11:06:04 +0000 2012",
+  "id": 217936833928101888,
+  "id_str": "217936833928101888",
+  "text": "tres personas para mandarme un justificante al correo... #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 219110619,
+    "id_str": "219110619",
+    "name": "Lady Sith.",
+    "screen_name": "meeridelap",
+    "location": "In a galaxy far far away...",
+    "description": "Integradora Social, estudiante de Magisterio, Maquera ,b/vlogger y señora de @RickyNumberFive ♥ † http://t.co/VRK6zTSB †",
+    "url": "http://t.co/o7N7JTWw",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/o7N7JTWw",
+            "expanded_url": "http://www.youtube.com/user/meeridelap",
+            "display_url": "youtube.com/user/meeridelap",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/VRK6zTSB",
+            "expanded_url": "http://paranoialactivity.blogspot.com.es",
+            "display_url": "paranoialactivity.blogspot.com.es",
+            "indices": [
+              99,
+              119
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 873,
+    "friends_count": 291,
+    "listed_count": 6,
+    "created_at": "Tue Nov 23 23:27:58 +0000 2010",
+    "favourites_count": 235,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15336,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/674090262/b9ffbd9a28c50207a61f4bb6611b5bbb.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/674090262/b9ffbd9a28c50207a61f4bb6611b5bbb.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3197279962/871adaacdd6f8fedf9634dc0d2b7285d_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3197279962/871adaacdd6f8fedf9634dc0d2b7285d_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/219110619/1358887568",
+    "profile_link_color": "EB0E20",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F3F3F1",
+    "profile_text_color": "242424",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          57,
+          61
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,131 @@
+{
+  "created_at": "Sat Jun 23 00:21:47 +0000 2012",
+  "id": 216325139959267329,
+  "id_str": "216325139959267329",
+  "text": "I would like to thank @CBS19 and @BobBeardCBS19 for letting me speak today about the #Rally4Hope. 2pm Sunday at #UVA. http://t.co/tf9Qvmzu",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 60258809,
+    "id_str": "60258809",
+    "name": "M. Joel Voss",
+    "screen_name": "mjoelvoss",
+    "location": "Charlottesville, VA",
+    "description": "PhD candidate at the University of Virginia where I study human rights, the UN HRC, international law, and foreign affairs. \r\n",
+    "url": "http://www.mjoelvoss.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mjoelvoss.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 167,
+    "friends_count": 462,
+    "listed_count": 0,
+    "created_at": "Sun Jul 26 07:35:14 +0000 2009",
+    "favourites_count": 166,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2276,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2552997035/xs0nwi2dtmhgy5fxzass_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2552997035/xs0nwi2dtmhgy5fxzass_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/60258809/1353772512",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Rally4Hope",
+        "indices": [
+          85,
+          96
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          112,
+          116
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/tf9Qvmzu",
+        "expanded_url": "http://www.newsplex.com/home/headlines/UVa_Today_Rally_For_Honor_160071355.html",
+        "display_url": "newsplex.com/home/headlines…",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CBS19",
+        "name": "WCAV CBS19",
+        "id": 18235216,
+        "id_str": "18235216",
+        "indices": [
+          22,
+          28
+        ]
+      },
+      {
+        "screen_name": "BobBeardCBS19",
+        "name": "Bob Beard",
+        "id": 495147431,
+        "id_str": "495147431",
+        "indices": [
+          33,
+          47
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

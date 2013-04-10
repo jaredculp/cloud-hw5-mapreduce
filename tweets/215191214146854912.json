@@ -1,0 +1,98 @@
+{
+  "created_at": "Tue Jun 19 21:15:58 +0000 2012",
+  "id": 215191214146854912,
+  "id_str": "215191214146854912",
+  "text": "@LarrySabato what a cadaver.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215190244650254336,
+  "in_reply_to_status_id_str": "215190244650254336",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 314780899,
+    "id_str": "314780899",
+    "name": "KETK_NealBarton",
+    "screen_name": "KETK_NealBarton",
+    "location": "Tyler, Texas",
+    "description": "News Director and 5 and 6 anchor at KETK-TV.",
+    "url": "http://ketknbc.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ketknbc.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 371,
+    "friends_count": 523,
+    "listed_count": 7,
+    "created_at": "Fri Jun 10 20:06:23 +0000 2011",
+    "favourites_count": 8,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3247,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/280460935/neal-barton.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/280460935/neal-barton.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1404852439/nbarton-twitter-avatar_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1404852439/nbarton-twitter-avatar_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "575757",
+    "profile_sidebar_fill_color": "D1D1D1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

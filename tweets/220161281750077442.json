@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jul 03 14:25:14 +0000 2012",
+  "id": 220161281750077442,
+  "id_str": "220161281750077442",
+  "text": "After firing #Sullivan, Dragas tells Simon he's made \"quite an unhelpful comment\" http://t.co/UZO9359b",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 34417310,
+    "id_str": "34417310",
+    "name": "The Hook newspaper",
+    "screen_name": "readthehook",
+    "location": "Charlottesville, VA",
+    "description": "Charlottesville's award-winning weekly newspaper offers around-the-clock news updates here on Twitter--- and a few random musings from editor Hawes Spencer.",
+    "url": "http://www.readthehook.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.readthehook.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3841,
+    "friends_count": 52,
+    "listed_count": 189,
+    "created_at": "Wed Apr 22 22:08:05 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2733,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/168624263/rainyMall-m.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/168624263/rainyMall-m.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/212976509/hook-logo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/212976509/hook-logo_normal.jpg",
+    "profile_link_color": "4846AB",
+    "profile_sidebar_border_color": "F50541",
+    "profile_sidebar_fill_color": "D47D6A",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          13,
+          22
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UZO9359b",
+        "expanded_url": "http://ow.ly/bZggm",
+        "display_url": "ow.ly/bZggm",
+        "indices": [
+          82,
+          102
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

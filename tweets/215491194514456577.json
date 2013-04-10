@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 17:07:59 +0000 2012",
+  "id": 215491194514456577,
+  "id_str": "215491194514456577",
+  "text": "RT @kjhealy: The BoV Declaration of Independence: http://t.co/LK5o8JS4 #UVa | love this",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 388271696,
+    "id_str": "388271696",
+    "name": "J. TaylorMontoya,PhD",
+    "screen_name": "jjtaymo",
+    "location": "",
+    "description": "Dad,archaeologist, husband,coffee addict. Interests:science,job,parenthood,idle chatter. Views are mine & don't reflect those of my employer or clients.",
+    "url": "http://culturematerial.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://culturematerial.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 114,
+    "friends_count": 135,
+    "listed_count": 5,
+    "created_at": "Mon Oct 10 13:40:43 +0000 2011",
+    "favourites_count": 60,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1382,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1609687352/JTM_BCpic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1609687352/JTM_BCpic_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "CAF296",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          71,
+          75
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/LK5o8JS4",
+        "expanded_url": "http://kieranhealy.org/blog/archives/2012/06/20/the-declaration-of-independence/",
+        "display_url": "kieranhealy.org/blog/archives/…",
+        "indices": [
+          50,
+          70
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kjhealy",
+        "name": "Kieran Healy",
+        "id": 782325,
+        "id_str": "782325",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

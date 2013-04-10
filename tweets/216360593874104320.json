@@ -1,0 +1,123 @@
+{
+  "created_at": "Sat Jun 23 02:42:40 +0000 2012",
+  "id": 216360593874104320,
+  "id_str": "216360593874104320",
+  "text": "Following the debacle at #UVA? Read this @Slate piece by @jdickerson: http://t.co/8mhjORt3",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 54941426,
+    "id_str": "54941426",
+    "name": "Tracy Hahn-Burkett",
+    "screen_name": "THahnBurkett",
+    "location": "New Hampshire",
+    "description": "Husband, kids, friends.  Writing & reading, cooking & eating. New England. Chocolate. You know, the good stuff.",
+    "url": "http://www.UnchartedParent.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.UnchartedParent.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 879,
+    "friends_count": 506,
+    "listed_count": 75,
+    "created_at": "Wed Jul 08 16:14:27 +0000 2009",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13592,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/323566031/twitter-bg-001.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/323566031/twitter-bg-001.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1244250195/THB_fall_2010__3__square_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1244250195/THB_fall_2010__3__square_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          25,
+          29
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/8mhjORt3",
+        "expanded_url": "http://www.slate.com/articles/news_and_politics/politics/2012/06/helen_dragas_and_the_uva_board_took_a_bad_gamble_in_trying_to_fire_teresa_sullivan_in_secret_.single.html",
+        "display_url": "slate.com/articles/news_…",
+        "indices": [
+          70,
+          90
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Slate",
+        "name": "Slate",
+        "id": 15164565,
+        "id_str": "15164565",
+        "indices": [
+          41,
+          47
+        ]
+      },
+      {
+        "screen_name": "jdickerson",
+        "name": "John Dickerson",
+        "id": 4119741,
+        "id_str": "4119741",
+        "indices": [
+          57,
+          68
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,112 @@
+{
+  "created_at": "Fri Jun 22 20:50:16 +0000 2012",
+  "id": 216271912052076547,
+  "id_str": "216271912052076547",
+  "text": "@jbouie You and @coybarefoot sound terrific. Interesting interview on @1070wina about #UVA.",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216265014225547264,
+  "in_reply_to_status_id_str": "216265014225547264",
+  "in_reply_to_user_id": 14190948,
+  "in_reply_to_user_id_str": "14190948",
+  "in_reply_to_screen_name": "jbouie",
+  "user": {
+    "id": 21206219,
+    "id_str": "21206219",
+    "name": "Caroline Emerson",
+    "screen_name": "carolineemerson",
+    "location": "Charlottesville, Virginia",
+    "description": "In Charlottesville, keeping the garden, poultry, cats & dog alive, working for the fabulous United Way-Thomas Jefferson Area. Love all things Charlie's Angels.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 996,
+    "friends_count": 1416,
+    "listed_count": 42,
+    "created_at": "Wed Feb 18 15:33:54 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3527,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1752220446/caroline_headshot_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1752220446/caroline_headshot_normal.jpg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          86,
+          90
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jbouie",
+        "name": "Jamelle Bouie",
+        "id": 14190948,
+        "id_str": "14190948",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "screen_name": "coybarefoot",
+        "name": "Coy Barefoot",
+        "id": 164530478,
+        "id_str": "164530478",
+        "indices": [
+          16,
+          28
+        ]
+      },
+      {
+        "screen_name": "1070WINA",
+        "name": "Newsradio 1070 WINA",
+        "id": 55003292,
+        "id_str": "55003292",
+        "indices": [
+          70,
+          79
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jun 27 16:17:50 +0000 2012",
+  "id": 218015292457091072,
+  "id_str": "218015292457091072",
+  "text": "Although perhaps less dramatic than other #UVa news yest we’re delighted to announce that @Markings was named Interim Director of UVAP #aaup",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 235269670,
+    "id_str": "235269670",
+    "name": "UVa Press",
+    "screen_name": "uvapress",
+    "location": "Charlottesville, VA",
+    "description": "Founded in 1963, the University of Virginia Press publishes fifty to sixty new titles annually and maintains a backlist of over 1,000 titles in print.",
+    "url": "http://www.upress.virginia.edu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.upress.virginia.edu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 586,
+    "friends_count": 421,
+    "listed_count": 48,
+    "created_at": "Fri Jan 07 19:37:32 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 283,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/754401278/e9669b94177616fdebc1224ae55bbcb1.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/754401278/e9669b94177616fdebc1224ae55bbcb1.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3060473688/588ec9cd4bce4b10dc7a3b68632ff014_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3060473688/588ec9cd4bce4b10dc7a3b68632ff014_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/235269670/1354028289",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          42,
+          46
+        ]
+      },
+      {
+        "text": "aaup",
+        "indices": [
+          135,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Markings",
+        "name": "Mark Saunders",
+        "id": 20067695,
+        "id_str": "20067695",
+        "indices": [
+          90,
+          99
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

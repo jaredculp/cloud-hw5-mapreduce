@@ -1,0 +1,106 @@
+{
+  "created_at": "Sun Jun 24 14:01:13 +0000 2012",
+  "id": 216893747366080514,
+  "id_str": "216893747366080514",
+  "text": "@matthewccameron @UVAFacultySen @UVaStudCo To be fair, they haven't called for her ouster either. They've called for clarification, yes?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216883062380834816,
+  "in_reply_to_status_id_str": "216883062380834816",
+  "in_reply_to_user_id": 305369959,
+  "in_reply_to_user_id_str": "305369959",
+  "in_reply_to_screen_name": "matthewccameron",
+  "user": {
+    "id": 101955438,
+    "id_str": "101955438",
+    "name": "Stacey Donelan",
+    "screen_name": "Stacey_at_UVA",
+    "location": "",
+    "description": "Yankees fan, Wahoo fan, sports fan, sports *spectator*, major cheerleader, sci-fi geek, foodie, Jersey girl. Go World!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 10,
+    "friends_count": 88,
+    "listed_count": 1,
+    "created_at": "Tue Jan 05 04:24:33 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 412,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2302196779/i8h3i5v95ehsp8kxjocj_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2302196779/i8h3i5v95ehsp8kxjocj_normal.jpeg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "matthewccameron",
+        "name": "Matthew Cameron",
+        "id": 305369959,
+        "id_str": "305369959",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "UVAFacultySen",
+        "name": "UVA Faculty Senate",
+        "id": 613796706,
+        "id_str": "613796706",
+        "indices": [
+          17,
+          31
+        ]
+      },
+      {
+        "screen_name": "UVaStudCo",
+        "name": "UVa Student Council",
+        "id": 73327823,
+        "id_str": "73327823",
+        "indices": [
+          32,
+          42
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

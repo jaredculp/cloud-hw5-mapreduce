@@ -1,0 +1,102 @@
+{
+  "created_at": "Fri Aug 10 16:14:05 +0000 2012",
+  "id": 233959413134811136,
+  "id_str": "233959413134811136",
+  "text": "@ImprimereLLC My stepdaughter @teacherladya was Fairfax student, attended #UVA and now teaches HS in Manassas",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 233955579742261248,
+  "in_reply_to_status_id_str": "233955579742261248",
+  "in_reply_to_user_id": 528754434,
+  "in_reply_to_user_id_str": "528754434",
+  "in_reply_to_screen_name": "ImprimereLLC",
+  "user": {
+    "id": 19459806,
+    "id_str": "19459806",
+    "name": "Susan Polos",
+    "screen_name": "spolos",
+    "location": "Katonah, New York",
+    "description": "Librarian, Teacher, Student, Parent, Activist.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 569,
+    "friends_count": 1090,
+    "listed_count": 35,
+    "created_at": "Sat Jan 24 19:40:00 +0000 2009",
+    "favourites_count": 420,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1498,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFCC",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/357332500/twilk_background_4eb1d8c75286c.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/357332500/twilk_background_4eb1d8c75286c.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3180967661/f5d1aedafe1a1439b6c091f75a742b55_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3180967661/f5d1aedafe1a1439b6c091f75a742b55_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCD",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          74,
+          78
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ImprimereLLC",
+        "name": "Corinne Marasco",
+        "id": 528754434,
+        "id_str": "528754434",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "teacherladya",
+        "name": "Alyssa Love",
+        "id": 34098553,
+        "id_str": "34098553",
+        "indices": [
+          30,
+          43
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

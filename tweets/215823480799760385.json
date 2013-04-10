@@ -1,0 +1,109 @@
+{
+  "created_at": "Thu Jun 21 15:08:22 +0000 2012",
+  "id": 215823480799760385,
+  "id_str": "215823480799760385",
+  "text": "@LarrySabato @john_mcguirk Actually I have a two year old that is teaching himself via iPad, I'd consider online learning, for my own kids.",
+  "source": "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215820643424415744,
+  "in_reply_to_status_id_str": "215820643424415744",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 160514302,
+    "id_str": "160514302",
+    "name": "Richard Dalton",
+    "screen_name": "richardadalton",
+    "location": "Dublin, Ireland",
+    "description": "Software Developer, Speaker, Writer, Mentor.",
+    "url": "http://www.devjoy.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.devjoy.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 250,
+    "friends_count": 70,
+    "listed_count": 10,
+    "created_at": "Mon Jun 28 11:27:14 +0000 2010",
+    "favourites_count": 6,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4530,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/687927535/b2ebf72ba8fc96d4e126d2810c37467a.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/687927535/b2ebf72ba8fc96d4e126d2810c37467a.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2439813330/4fnuxt7p9gntt9dku11r_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2439813330/4fnuxt7p9gntt9dku11r_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/160514302/1357347025",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "john_mcguirk",
+        "name": "John McGuirk",
+        "id": 23949317,
+        "id_str": "23949317",
+        "indices": [
+          13,
+          26
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

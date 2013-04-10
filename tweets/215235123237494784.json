@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed Jun 20 00:10:26 +0000 2012",
+  "id": 215235123237494784,
+  "id_str": "215235123237494784",
+  "text": "@cavalierdaily Jeff Walker also appears to be an historically big donor for IT projects at #UVA - http://t.co/d7t13srp",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215228824336613377,
+  "in_reply_to_status_id_str": "215228824336613377",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 450385865,
+    "id_str": "450385865",
+    "name": "Greg Lewis",
+    "screen_name": "greglewis_5",
+    "location": "Charlottesville, VA",
+    "description": "Social Media Manager at @cavalierdaily, Media Studies student at @UVA, digital media enthusiast, open gov't proponent. Follow me for news from #UVA & #cville.",
+    "url": "http://www.cavalierdaily.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cavalierdaily.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 585,
+    "friends_count": 837,
+    "listed_count": 16,
+    "created_at": "Fri Dec 30 05:37:14 +0000 2011",
+    "favourites_count": 9,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1043,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/750163805/ffc372e4996ea9514edb3c79bf0503c7.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/750163805/ffc372e4996ea9514edb3c79bf0503c7.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3036076705/80500df02b1d6dd967721d9293a0a5de_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3036076705/80500df02b1d6dd967721d9293a0a5de_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/450385865/1356761496",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/d7t13srp",
+        "expanded_url": "http://www.lib.virginia.edu/old-press/00-01/etextgift.html",
+        "display_url": "lib.virginia.edu/old-press/00-0…",
+        "indices": [
+          98,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

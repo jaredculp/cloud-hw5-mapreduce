@@ -1,0 +1,130 @@
+{
+  "created_at": "Wed Jun 20 18:44:52 +0000 2012",
+  "id": 215515578352418817,
+  "id_str": "215515578352418817",
+  "text": "That @kjhealy is indeed killing it.  #UVa #BoV http://t.co/m6uybvwZ // via @wynkenhimself and a whole lot of other folks.",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14308843,
+    "id_str": "14308843",
+    "name": "Kathleen Fitzpatrick",
+    "screen_name": "kfitz",
+    "location": "New York, NY",
+    "description": "Director of Scholarly Communication, Modern Language Association",
+    "url": "http://www.plannedobsolescence.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.plannedobsolescence.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3613,
+    "friends_count": 331,
+    "listed_count": 314,
+    "created_at": "Sat Apr 05 06:18:08 +0000 2008",
+    "favourites_count": 237,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13453,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1186788938/new_gravatar_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1186788938/new_gravatar_2_normal.jpg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          37,
+          41
+        ]
+      },
+      {
+        "text": "BoV",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/m6uybvwZ",
+        "expanded_url": "http://bit.ly/KzoAlN",
+        "display_url": "bit.ly/KzoAlN",
+        "indices": [
+          47,
+          67
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kjhealy",
+        "name": "Kieran Healy",
+        "id": 782325,
+        "id_str": "782325",
+        "indices": [
+          5,
+          13
+        ]
+      },
+      {
+        "screen_name": "wynkenhimself",
+        "name": "Sarah Werner",
+        "id": 35384223,
+        "id_str": "35384223",
+        "indices": [
+          75,
+          89
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

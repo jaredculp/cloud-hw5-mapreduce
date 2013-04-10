@@ -1,0 +1,114 @@
+{
+  "created_at": "Thu Jun 21 17:14:06 +0000 2012",
+  "id": 215855122184548352,
+  "id_str": "215855122184548352",
+  "text": "UVA Board's Lazy Business Sense http://t.co/X8CQkxtp (via @HuffPostEdu) #UVA",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 75719992,
+    "id_str": "75719992",
+    "name": "Stephen Anfield",
+    "screen_name": "StephenAnfield",
+    "location": "Washington, DC-ish",
+    "description": "Social Media Consultant | Tennessee Volunteer | TKE | AmeriCorps Alum | Blogger | Friend | All around fun guy loving life! ",
+    "url": "http://about.me/stephenanfield",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://about.me/stephenanfield",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5113,
+    "friends_count": 2661,
+    "listed_count": 130,
+    "created_at": "Sun Sep 20 04:33:50 +0000 2009",
+    "favourites_count": 378,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 31350,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FCAB14",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/723336546/fcb07201723665e2b3073a21430dd62a.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/723336546/fcb07201723665e2b3073a21430dd62a.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2827869489/ddfcde7fea731c93fbb76c0890b90ba3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2827869489/ddfcde7fea731c93fbb76c0890b90ba3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/75719992/1354064996",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          72,
+          76
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/X8CQkxtp",
+        "expanded_url": "http://huff.to/MhRd6u",
+        "display_url": "huff.to/MhRd6u",
+        "indices": [
+          32,
+          52
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HuffPostEdu",
+        "name": "HuffPostEducation",
+        "id": 185397767,
+        "id_str": "185397767",
+        "indices": [
+          58,
+          70
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

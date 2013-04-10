@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 20 05:05:14 +0000 2012",
+  "id": 215309309658152960,
+  "id_str": "215309309658152960",
+  "text": "If you read one thing about recent news at #UVA, let it be this: http://t.co/B6V9Kw2K",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 343321951,
+    "id_str": "343321951",
+    "name": "billy",
+    "screen_name": "adogandhisboy",
+    "location": "dorchester",
+    "description": "All opinions, herein expressed, are solely my own and often facetious. Most retweets are  mocking and ironic. All drawings are done by me for FIXWTF, U.O.N.",
+    "url": "http://www.fixwtf.tumblr.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.fixwtf.tumblr.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 82,
+    "friends_count": 382,
+    "listed_count": 1,
+    "created_at": "Wed Jul 27 11:44:35 +0000 2011",
+    "favourites_count": 650,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5306,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "A78448",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/591779221/1goy708tbo5ajickhxv0.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/591779221/1goy708tbo5ajickhxv0.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2308424382/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2308424382/image_normal.jpg",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "575757",
+    "profile_sidebar_fill_color": "816535",
+    "profile_text_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          43,
+          47
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/B6V9Kw2K",
+        "expanded_url": "http://j.mp/M8dx2o",
+        "display_url": "j.mp/M8dx2o",
+        "indices": [
+          65,
+          85
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

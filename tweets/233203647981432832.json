@@ -1,0 +1,101 @@
+{
+  "created_at": "Wed Aug 08 14:10:57 +0000 2012",
+  "id": 233203647981432832,
+  "id_str": "233203647981432832",
+  "text": "RT @McIntireGlobal: Announcing new 2013 GCI Courses in Argentina, India, Bangladesh, Ireland, EU, and China!! http://t.co/kE1AaTvZ #UVA",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 289072142,
+    "id_str": "289072142",
+    "name": "Dean WE",
+    "screen_name": "cweUVA",
+    "location": "Charlottesville, VA",
+    "description": "Chris Wilcox Elliott, Assistant Dean of Student Life & Global Programs at McIntire School of Commerce, UVA",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 120,
+    "friends_count": 269,
+    "listed_count": 3,
+    "created_at": "Wed Apr 27 23:54:35 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 335,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3114773776/51fdfe2c334ba86f4a188c01de828103_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3114773776/51fdfe2c334ba86f4a188c01de828103_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          131,
+          135
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/kE1AaTvZ",
+        "expanded_url": "http://ow.ly/cP6Kf",
+        "display_url": "ow.ly/cP6Kf",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "McIntireGlobal",
+        "name": "McIntire Global",
+        "id": 744182629,
+        "id_str": "744182629",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

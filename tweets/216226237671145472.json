@@ -1,0 +1,118 @@
+{
+  "created_at": "Fri Jun 22 17:48:47 +0000 2012",
+  "id": 216226237671145472,
+  "id_str": "216226237671145472",
+  "text": "Peter van Gorsel over fusie #hva #uva #vu http://t.co/J5CVKR4b",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 112969803,
+    "id_str": "112969803",
+    "name": "Jim Jansen",
+    "screen_name": "jimfjansen",
+    "location": "Amsterdam",
+    "description": "Hoofdredacteur Folia Magazine & Folia Web * UvA * HvA * Dagvoorzitter * Schrijver boek No Balls No Glory * Ned. flipper ver.* VZ MR Lidwinaschool * Pinball *",
+    "url": "http://foliaweb.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://foliaweb.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 894,
+    "friends_count": 892,
+    "listed_count": 15,
+    "created_at": "Wed Feb 10 08:22:32 +0000 2010",
+    "favourites_count": 13,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2809,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2881385796/267b56d944d5188697ce02449ede3661_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2881385796/267b56d944d5188697ce02449ede3661_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "hva",
+        "indices": [
+          28,
+          32
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          33,
+          37
+        ]
+      },
+      {
+        "text": "vu",
+        "indices": [
+          38,
+          41
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/J5CVKR4b",
+        "expanded_url": "http://www.parool.nl/parool/nl/224/BINNENLAND/article/detail/3275326/2012/06/22/Fusie-tussen-UvA-en-HvA-historische-vergissing.dhtml",
+        "display_url": "parool.nl/parool/nl/224/…",
+        "indices": [
+          42,
+          62
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,108 @@
+{
+  "created_at": "Sat Sep 15 17:36:35 +0000 2012",
+  "id": 247026138608721922,
+  "id_str": "247026138608721922",
+  "text": "@bookofjoe @UVAFacultySen the 140 character limit took its toll! I agree with you!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 246955968427069440,
+  "in_reply_to_status_id_str": "246955968427069440",
+  "in_reply_to_user_id": 22153,
+  "in_reply_to_user_id_str": "22153",
+  "in_reply_to_screen_name": "bookofjoe",
+  "user": {
+    "id": 158227794,
+    "id_str": "158227794",
+    "name": "Rachel V",
+    "screen_name": "secondhandsally",
+    "location": "Charlottesville, VA",
+    "description": "",
+    "url": "http://athriftstore.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://athriftstore.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 149,
+    "friends_count": 202,
+    "listed_count": 6,
+    "created_at": "Tue Jun 22 03:30:55 +0000 2010",
+    "favourites_count": 58,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1960,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2861204760/072c05b2c01f253481ceea62889f29fa_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2861204760/072c05b2c01f253481ceea62889f29fa_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "bookofjoe",
+        "name": "bookofjoe",
+        "id": 22153,
+        "id_str": "22153",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "UVAFacultySen",
+        "name": "UVA Faculty Senate",
+        "id": 613796706,
+        "id_str": "613796706",
+        "indices": [
+          11,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed Jun 27 16:25:05 +0000 2012",
+  "id": 218017117147107328,
+  "id_str": "218017117147107328",
+  "text": "@NYTimes see the #UVa fight as a microcosm of other battles at major public universities around the country http://t.co/YP6xRhp2",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 807095,
+  "in_reply_to_user_id_str": "807095",
+  "in_reply_to_screen_name": "nytimes",
+  "user": {
+    "id": 40028791,
+    "id_str": "40028791",
+    "name": "The David Project",
+    "screen_name": "David_Project",
+    "location": "Boston - New York - Israel",
+    "description": "Positively shaping campus opinion on Israel by educating, training, and empowering student leaders to be thoughtful, strategic, and persuasive advocates",
+    "url": "http://www.davidproject.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.davidproject.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6967,
+    "friends_count": 3342,
+    "listed_count": 182,
+    "created_at": "Thu May 14 16:32:18 +0000 2009",
+    "favourites_count": 145,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4392,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2CAAE2",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/675723203/813279a84c5c5e814bb190b09629bd53.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/675723203/813279a84c5c5e814bb190b09629bd53.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3193075056/148baeddbdeddf20674e93e2df087057_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3193075056/148baeddbdeddf20674e93e2df087057_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/40028791/1349281636",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "68B9FB",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          17,
+          21
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/YP6xRhp2",
+        "expanded_url": "http://nyti.ms/MpOOYv",
+        "display_url": "nyti.ms/MpOOYv",
+        "indices": [
+          108,
+          128
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nytimes",
+        "name": "The New York Times",
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,167 @@
+{
+  "created_at": "Tue Jun 26 20:56:16 +0000 2012",
+  "id": 217722973505855488,
+  "id_str": "217722973505855488",
+  "text": "@chronicle: Teresa Sullivan is reinstated at #UVa: http://t.co/P6g0NyDV Complete coverage: http://t.co/CJAxUE4D",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 12413032,
+  "in_reply_to_user_id_str": "12413032",
+  "in_reply_to_screen_name": "chronicle",
+  "user": {
+    "id": 18788476,
+    "id_str": "18788476",
+    "name": "Brad Koch",
+    "screen_name": "BradleyAKoch",
+    "location": "Milledgeville, GA",
+    "description": "I am an asst professor of sociology at Georgia College interested in religion, strat, teaching/learning, & higher ed & enjoy making music & riding my road bike.",
+    "url": "http://www.bradleykoch.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.bradleykoch.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 253,
+    "friends_count": 189,
+    "listed_count": 19,
+    "created_at": "Fri Jan 09 02:09:09 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1810,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2261505385/bktwit_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2261505385/bktwit_normal.jpg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      33.0821526,
+      -83.2306515
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -83.2306515,
+      33.0821526
+    ]
+  },
+  "place": {
+    "id": "accbd86fb69a0b88",
+    "url": "https://api.twitter.com/1.1/geo/id/accbd86fb69a0b88.json",
+    "place_type": "city",
+    "name": "Milledgeville",
+    "full_name": "Milledgeville, GA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -83.314487,
+            33.01989
+          ],
+          [
+            -83.188681,
+            33.01989
+          ],
+          [
+            -83.188681,
+            33.166366
+          ],
+          [
+            -83.314487,
+            33.166366
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          45,
+          49
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/P6g0NyDV",
+        "expanded_url": "http://chroni.cl/QdqIiN",
+        "display_url": "chroni.cl/QdqIiN",
+        "indices": [
+          51,
+          71
+        ]
+      },
+      {
+        "url": "http://t.co/CJAxUE4D",
+        "expanded_url": "http://chroni.cl/Mwk9Y8",
+        "display_url": "chroni.cl/Mwk9Y8",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

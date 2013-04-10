@@ -1,0 +1,135 @@
+{
+  "created_at": "Fri Aug 17 04:27:38 +0000 2012",
+  "id": 236318345497022465,
+  "id_str": "236318345497022465",
+  "text": "@FedericoED @MaARimery @quiquem03 @cristinaromerod #uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 236318216673169408,
+  "in_reply_to_status_id_str": "236318216673169408",
+  "in_reply_to_user_id": 187694328,
+  "in_reply_to_user_id_str": "187694328",
+  "in_reply_to_screen_name": "FedericoED",
+  "user": {
+    "id": 65770775,
+    "id_str": "65770775",
+    "name": "Gumer Ventura",
+    "screen_name": "GumerV",
+    "location": "El Salvador",
+    "description": "Economía, política, videojuegos, fútbol y más. Director de @CREO_org, Jefe de Entrevistas en @MedioLlenoSV y colaborador de La Prensa Gráfica.",
+    "url": "http://digoyovea.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://digoyovea.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 812,
+    "friends_count": 328,
+    "listed_count": 17,
+    "created_at": "Fri Aug 14 23:50:33 +0000 2009",
+    "favourites_count": 778,
+    "utc_offset": -21600,
+    "time_zone": "Central America",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10071,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "3C2C22",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/679147983/6274fd9c69000807c081cdb2d1c43814.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/679147983/6274fd9c69000807c081cdb2d1c43814.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2643831334/076af48d8c0a3382810138f92ca768ea_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2643831334/076af48d8c0a3382810138f92ca768ea_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/65770775/1356233306",
+    "profile_link_color": "7A5C45",
+    "profile_sidebar_border_color": "7A5C45",
+    "profile_sidebar_fill_color": "281E17",
+    "profile_text_color": "54493E",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          51,
+          55
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "FedericoED",
+        "name": "Federico Escobar",
+        "id": 187694328,
+        "id_str": "187694328",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "MaARimery",
+        "name": "María A.",
+        "id": 291835001,
+        "id_str": "291835001",
+        "indices": [
+          12,
+          22
+        ]
+      },
+      {
+        "screen_name": "quiquem03",
+        "name": "Enrique Magana",
+        "id": 591572823,
+        "id_str": "591572823",
+        "indices": [
+          23,
+          33
+        ]
+      },
+      {
+        "screen_name": "cristinaromerod",
+        "name": "Cristina Romero ",
+        "id": 382702023,
+        "id_str": "382702023",
+        "indices": [
+          34,
+          50
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

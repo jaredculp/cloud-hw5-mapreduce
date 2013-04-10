@@ -1,0 +1,118 @@
+{
+  "created_at": "Thu Jun 21 20:48:50 +0000 2012",
+  "id": 215909164004806656,
+  "id_str": "215909164004806656",
+  "text": "RT@cavalierdaily 10/11 academic deans, dean of admissions, librarian call 4 #UVA #BOV to \"reset the relationship with President #Sullivan\"",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 149668823,
+    "id_str": "149668823",
+    "name": "Prashanth",
+    "screen_name": "TheAsianist",
+    "location": "Washington DC",
+    "description": "(Southeast) Asianist; PhD @FletcherSchool; fellow @CSIS PacForum; freelance journalist; editor of The Asianist blog; @UVA grad. Ts/RTs not endorsements.",
+    "url": "http://asianist.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://asianist.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 534,
+    "friends_count": 574,
+    "listed_count": 17,
+    "created_at": "Sat May 29 22:30:22 +0000 2010",
+    "favourites_count": 13,
+    "utc_offset": 28800,
+    "time_zone": "Kuala Lumpur",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1823,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/560045419/asia_map_now.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/560045419/asia_map_now.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1852623833/blog_pic_two_reformed_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1852623833/blog_pic_two_reformed_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          76,
+          80
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          81,
+          85
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          128,
+          137
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          2,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

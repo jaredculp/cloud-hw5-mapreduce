@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 19 20:59:26 +0000 2012",
+  "id": 215187054529748992,
+  "id_str": "215187054529748992",
+  "text": "Wow, top-ranked UVa prof resigns in opposition RT @cavalierdaily Full text of #UVA Prof. Wulf's resignation letter: http://t.co/JBVnkIEw",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 12014302,
+    "id_str": "12014302",
+    "name": "Nick Diakopoulos",
+    "screen_name": "ndiakopoulos",
+    "location": "New York, NY",
+    "description": "Researcher, technologist, and consultant interested in computational journalism / media and information visualization.",
+    "url": "http://www.nickdiakopoulos.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nickdiakopoulos.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1284,
+    "friends_count": 436,
+    "listed_count": 107,
+    "created_at": "Wed Jan 09 05:26:52 +0000 2008",
+    "favourites_count": 150,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3024,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1243375474/nick1_thumb2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1243375474/nick1_thumb2_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          78,
+          82
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/JBVnkIEw",
+        "expanded_url": "http://www.cavalierdaily.com/2012/06/19/comp-sci-prof-william-wulfs-resignation-letter/",
+        "display_url": "cavalierdaily.com/2012/06/19/com…",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          50,
+          64
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

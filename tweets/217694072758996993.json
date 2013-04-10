@@ -1,0 +1,129 @@
+{
+  "created_at": "Tue Jun 26 19:01:26 +0000 2012",
+  "id": 217694072758996993,
+  "id_str": "217694072758996993",
+  "text": "RT @chris_stover: One chair left to fill: Dragas. #UVA #BOV http://t.co/RlxB4pex",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18807749,
+    "id_str": "18807749",
+    "name": "Tyler Kingkade",
+    "screen_name": "tylerkingkade",
+    "location": "New York, NY",
+    "description": "Assistant Editor @HuffingtonPost @HuffPostCollege. Studied at @Georgetown & @IowaStateU. Caffeine addict. tyler.kingkade[at]http://t.co/LPsS1ouL",
+    "url": "http://www.huffingtonpost.com/tyler-kingkade",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.huffingtonpost.com/tyler-kingkade",
+            "expanded_url": null,
+            "indices": [
+              0,
+              44
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/LPsS1ouL",
+            "expanded_url": "http://huffingtonpost.com",
+            "display_url": "huffingtonpost.com",
+            "indices": [
+              124,
+              144
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1718,
+    "friends_count": 1068,
+    "listed_count": 108,
+    "created_at": "Fri Jan 09 17:31:03 +0000 2009",
+    "favourites_count": 126,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8252,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/319788557/2011-07-02_18.06.16.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/319788557/2011-07-02_18.06.16.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3158628034/83a6c0d47884bcd07a642926924aff46_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3158628034/83a6c0d47884bcd07a642926924aff46_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18807749/1354638805",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          50,
+          54
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          55,
+          59
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/RlxB4pex",
+        "expanded_url": "http://twitter.com/chris_stover/status/217694013237624833/photo/1",
+        "display_url": "pic.twitter.com/RlxB4pex",
+        "indices": [
+          60,
+          80
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Chris_Stover",
+        "name": "Chris Stover",
+        "id": 996326786,
+        "id_str": "996326786",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

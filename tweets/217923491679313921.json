@@ -1,0 +1,111 @@
+{
+  "created_at": "Wed Jun 27 10:13:03 +0000 2012",
+  "id": 217923491679313921,
+  "id_str": "217923491679313921",
+  "text": "What a reversal MT @washingtonpost MT @postlocal: #UVA board's vote to reinstate Sullivan follows 16 days of protests http://t.co/3Pafe6jj",
+  "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 322136579,
+    "id_str": "322136579",
+    "name": "Hana Suckstorff",
+    "screen_name": "HanaSuckstorff",
+    "location": "Arcore, Italy",
+    "description": "English conversation teacher in Italy; @NorthwesternU & @ifyc alum; lover of Renaissance history & art, news, theology, good food, wine & Chicago",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 158,
+    "friends_count": 188,
+    "listed_count": 6,
+    "created_at": "Wed Jun 22 17:55:56 +0000 2011",
+    "favourites_count": 10,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 642,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1414251776/Hana_Suckstorff_picture_1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1414251776/Hana_Suckstorff_picture_1_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          50,
+          54
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/3Pafe6jj",
+        "expanded_url": "http://buff.ly/QdFeXO",
+        "display_url": "buff.ly/QdFeXO",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          19,
+          34
+        ]
+      },
+      {
+        "screen_name": "postlocal",
+        "name": "PostLocal",
+        "id": 14345759,
+        "id_str": "14345759",
+        "indices": [
+          38,
+          48
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,116 @@
+{
+  "created_at": "Tue Jun 26 20:19:48 +0000 2012",
+  "id": 217713796762959872,
+  "id_str": "217713796762959872",
+  "text": "@RealVirginian \"And now we turn @bobmcdonnell for whether he reappoints #Drags to the #UVA #BOV. The suspense is killing me.\"  Me too!!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 204555114,
+  "in_reply_to_user_id_str": "204555114",
+  "in_reply_to_screen_name": "RealVirginian",
+  "user": {
+    "id": 611934146,
+    "id_str": "611934146",
+    "name": "David Bolick",
+    "screen_name": "smushandrocky",
+    "location": "",
+    "description": "Senior Laboratory Technician at UVA...exciting, eh?",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3,
+    "friends_count": 11,
+    "listed_count": 0,
+    "created_at": "Mon Jun 18 19:34:12 +0000 2012",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 146,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2320153165/IMG_0098_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2320153165/IMG_0098_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Drags",
+        "indices": [
+          72,
+          78
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          86,
+          90
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RealVirginian",
+        "name": "A Real Virginian",
+        "id": 204555114,
+        "id_str": "204555114",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          32,
+          45
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

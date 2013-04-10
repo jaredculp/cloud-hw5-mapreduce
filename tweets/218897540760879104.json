@@ -1,0 +1,90 @@
+{
+  "created_at": "Sat Jun 30 02:43:35 +0000 2012",
+  "id": 218897540760879104,
+  "id_str": "218897540760879104",
+  "text": "No power in fry's spring #cville #uva",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29272410,
+    "id_str": "29272410",
+    "name": "Donald Newell",
+    "screen_name": "Donnie_Newell",
+    "location": "Charlottesville, Virginia",
+    "description": "Bacon.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 54,
+    "friends_count": 264,
+    "listed_count": 2,
+    "created_at": "Mon Apr 06 19:26:18 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1051,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F0C135",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/96515279/fsu.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/96515279/fsu.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/252049440/ski_lift_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/252049440/ski_lift_normal.jpg",
+    "profile_link_color": "FAC628",
+    "profile_sidebar_border_color": "8F8382",
+    "profile_sidebar_fill_color": "C2464A",
+    "profile_text_color": "B8B3B2",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cville",
+        "indices": [
+          25,
+          32
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          33,
+          37
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

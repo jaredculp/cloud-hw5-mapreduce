@@ -1,0 +1,150 @@
+{
+  "created_at": "Wed Jul 04 15:57:44 +0000 2012",
+  "id": 220546945414987778,
+  "id_str": "220546945414987778",
+  "text": "Uncle Sam with our First Place blue ribbon for our entry in today's parade in Stanardsville.  Hooray!\n@VA_GOP #va #UVA http://t.co/nXu3nAC1",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 18978469,
+  "in_reply_to_user_id_str": "18978469",
+  "in_reply_to_screen_name": "VA_GOP",
+  "user": {
+    "id": 603992293,
+    "id_str": "603992293",
+    "name": "Greene Co GOP",
+    "screen_name": "GreeneCountyGOP",
+    "location": "Greene County, Virginia",
+    "description": "Committed to electing Republican candidates. Promoting conservative values. Engage local volunteers. Stand by the Virginia Republican Creed.",
+    "url": "http://www.GCRCGOP.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.GCRCGOP.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 108,
+    "friends_count": 267,
+    "listed_count": 0,
+    "created_at": "Sat Jun 09 22:53:27 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 111,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/575010196/dxgaxnrw4sa6235lxj23.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/575010196/dxgaxnrw4sa6235lxj23.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2293850184/GCRCRNCELEPHANT_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2293850184/GCRCRNCELEPHANT_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "va",
+        "indices": [
+          110,
+          113
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          114,
+          118
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "VA_GOP",
+        "name": "RPV",
+        "id": 18978469,
+        "id_str": "18978469",
+        "indices": [
+          102,
+          109
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 220546945419182081,
+        "id_str": "220546945419182081",
+        "indices": [
+          119,
+          139
+        ],
+        "media_url": "http://pbs.twimg.com/media/Aw-KR0ICAAEmmg8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Aw-KR0ICAAEmmg8.jpg",
+        "url": "http://t.co/nXu3nAC1",
+        "display_url": "pic.twitter.com/nXu3nAC1",
+        "expanded_url": "http://twitter.com/GreeneCountyGOP/status/220546945414987778/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 455,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 765,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 803,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 19 15:56:59 +0000 2012",
+  "id": 215110941883375616,
+  "id_str": "215110941883375616",
+  "text": "@nytimes It's disappointing that all #UVA stories covered in recent years are negative. We need to do better. #Sullivan #Huguely #Cuccinelli",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215106889409757184,
+  "in_reply_to_status_id_str": "215106889409757184",
+  "in_reply_to_user_id": 807095,
+  "in_reply_to_user_id_str": "807095",
+  "in_reply_to_screen_name": "nytimes",
+  "user": {
+    "id": 138132346,
+    "id_str": "138132346",
+    "name": "Alie",
+    "screen_name": "UVAlison",
+    "location": "Charlottesville, VA",
+    "description": "U.Va. '13 | I am a voice of a generation.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 162,
+    "friends_count": 223,
+    "listed_count": 2,
+    "created_at": "Wed Apr 28 18:19:47 +0000 2010",
+    "favourites_count": 213,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 934,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/96605907/breezetry4.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/96605907/breezetry4.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3076528398/668aec9f5acd7e363bda6046f3991cb9_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3076528398/668aec9f5acd7e363bda6046f3991cb9_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          37,
+          41
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          110,
+          119
+        ]
+      },
+      {
+        "text": "Huguely",
+        "indices": [
+          120,
+          128
+        ]
+      },
+      {
+        "text": "Cuccinelli",
+        "indices": [
+          129,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nytimes",
+        "name": "The New York Times",
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

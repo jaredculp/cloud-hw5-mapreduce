@@ -1,0 +1,128 @@
+{
+  "created_at": "Sun Jun 24 20:11:26 +0000 2012",
+  "id": 216986915625373697,
+  "id_str": "216986915625373697",
+  "text": "Vroom speaking for students, very eloquent speaking about honor at #UVA",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21042656,
+    "id_str": "21042656",
+    "name": "Sarah Olson",
+    "screen_name": "SDOontheGO",
+    "location": "Charlottesville, VA",
+    "description": "#SAPro at the University of VIrginia, ENFP | Includer | Woo | Communication | Positivity | Futuristic |  Adventurer, world citizen, open to new ideas. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 94,
+    "friends_count": 123,
+    "listed_count": 6,
+    "created_at": "Mon Feb 16 23:28:54 +0000 2009",
+    "favourites_count": 48,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1389,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/136611271/IMG_0250.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/136611271/IMG_0250.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2937329273/691f2a566654481e03632053d163be60_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2937329273/691f2a566654481e03632053d163be60_normal.jpeg",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.0336943,
+      -78.5051901
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.5051901,
+      38.0336943
+    ]
+  },
+  "place": {
+    "id": "a5aee0034fb1fb02",
+    "url": "https://api.twitter.com/1.1/geo/id/a5aee0034fb1fb02.json",
+    "place_type": "city",
+    "name": "Jack Jouett",
+    "full_name": "Jack Jouett, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.593326,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.143404
+          ],
+          [
+            -78.593326,
+            38.143404
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

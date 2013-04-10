@@ -1,0 +1,95 @@
+{
+  "created_at": "Tue Jun 26 20:48:48 +0000 2012",
+  "id": 217721095820820480,
+  "id_str": "217721095820820480",
+  "text": "Hooray #UVa!",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 325223528,
+    "id_str": "325223528",
+    "name": "Rachel E. Clark",
+    "screen_name": "recverso",
+    "location": "Wartburg College",
+    "description": "Assistant Professor of English; Associate Nerd of Bookery; User of Technically Nonexistent Words (Such as Bookery); Random Capitalizer.",
+    "url": "http://reclark.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://reclark.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 200,
+    "friends_count": 178,
+    "listed_count": 4,
+    "created_at": "Mon Jun 27 23:11:02 +0000 2011",
+    "favourites_count": 395,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1808,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FDFDFD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/425243540/humidor-gray-eckard.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/425243540/humidor-gray-eckard.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1416758348/P1000778copy_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1416758348/P1000778copy_normal.JPG",
+    "profile_link_color": "A81B22",
+    "profile_sidebar_border_color": "E9E76B",
+    "profile_sidebar_fill_color": "DCD0DE",
+    "profile_text_color": "040404",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          7,
+          11
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

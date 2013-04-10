@@ -1,0 +1,156 @@
+{
+  "created_at": "Sat Jun 23 03:24:36 +0000 2012",
+  "id": 216371150635286528,
+  "id_str": "216371150635286528",
+  "text": "After projected 3 hrs of sleep tonite in San Diego hotel, 1st order of #iste12 business will be @sivavaid on Up With Chris at 6 am. #uppers.",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3287471,
+    "id_str": "3287471",
+    "name": "Peter Zingg",
+    "screen_name": "pzingg",
+    "location": "Dewitt, California",
+    "description": "k12 education x architecture x programming x film - background courtesy Antonio Gaudi",
+    "url": "http://bipedsmonitor.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://bipedsmonitor.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 246,
+    "friends_count": 406,
+    "listed_count": 14,
+    "created_at": "Tue Apr 03 05:01:45 +0000 2007",
+    "favourites_count": 467,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3952,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C7AA75",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/49484583/guell_tile.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/49484583/guell_tile.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/556209419/sol_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/556209419/sol_normal.jpg",
+    "profile_link_color": "992913",
+    "profile_sidebar_border_color": "0C4982",
+    "profile_sidebar_fill_color": "F2E59E",
+    "profile_text_color": "2B5750",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      37.94656268,
+      -122.51244482
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -122.51244482,
+      37.94656268
+    ]
+  },
+  "place": {
+    "id": "5abe94c7f05eb014",
+    "url": "https://api.twitter.com/1.1/geo/id/5abe94c7f05eb014.json",
+    "place_type": "city",
+    "name": "Larkspur",
+    "full_name": "Larkspur, CA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -122.553357,
+            37.921332
+          ],
+          [
+            -122.500785,
+            37.921332
+          ],
+          [
+            -122.500785,
+            37.959332
+          ],
+          [
+            -122.553357,
+            37.959332
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "iste12",
+        "indices": [
+          71,
+          78
+        ]
+      },
+      {
+        "text": "uppers",
+        "indices": [
+          132,
+          139
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          96,
+          105
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

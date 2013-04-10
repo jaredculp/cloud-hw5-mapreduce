@@ -1,0 +1,141 @@
+{
+  "created_at": "Thu Aug 16 23:19:13 +0000 2012",
+  "id": 236240727594643456,
+  "id_str": "236240727594643456",
+  "text": "Wifi aberto,santa #uva",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 287451378,
+    "id_str": "287451378",
+    "name": "Gabriel Marinho",
+    "screen_name": "marinh0w",
+    "location": "Condado",
+    "description": "Construi um castelo em cima da areia,agora o vejo caindo lentamente sem poder fazer nada,e sem ter para onde ir.",
+    "url": "http://www.youtube.com/user/GMOG14?feature=mhee",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.youtube.com/user/GMOG14?feature=mhee",
+            "expanded_url": null,
+            "indices": [
+              0,
+              47
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 0,
+    "friends_count": 0,
+    "listed_count": 0,
+    "created_at": "Mon Apr 25 01:12:23 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 0,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/249184689/portal-2-glados-wallpaper.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/249184689/portal-2-glados-wallpaper.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2942098782/0f330838c1cafdcc6bf7d398dcf39547_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2942098782/0f330838c1cafdcc6bf7d398dcf39547_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/287451378/1352225305",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -22.9115405,
+      -43.2210508
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -43.2210508,
+      -22.9115405
+    ]
+  },
+  "place": {
+    "id": "97bcdfca1a2dca59",
+    "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json",
+    "place_type": "city",
+    "name": "Rio de Janeiro",
+    "full_name": "Rio de Janeiro, Rio de Janeiro",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -43.795449,
+            -23.08302
+          ],
+          [
+            -43.099381,
+            -23.08302
+          ],
+          [
+            -43.099381,
+            -22.749044
+          ],
+          [
+            -43.795449,
+            -22.749044
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          18,
+          22
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

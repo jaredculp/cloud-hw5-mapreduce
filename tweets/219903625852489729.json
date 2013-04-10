@@ -1,0 +1,125 @@
+{
+  "created_at": "Mon Jul 02 21:21:24 +0000 2012",
+  "id": 219903625852489729,
+  "id_str": "219903625852489729",
+  "text": "@elotroalex @scholarslab http://t.co/d8E4V7FM rocks! great job! #uva",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 219903327335493632,
+  "in_reply_to_status_id_str": "219903327335493632",
+  "in_reply_to_user_id": 91438333,
+  "in_reply_to_user_id_str": "91438333",
+  "in_reply_to_screen_name": "elotroalex",
+  "user": {
+    "id": 8215732,
+    "id_str": "8215732",
+    "name": "Jordhy Ledesma",
+    "screen_name": "jordhy",
+    "location": "",
+    "description": "Product Management, Social Media and Startups. Founder of Information Providers and Leslor Technologies.",
+    "url": "http://t.co/CWpPxjDk",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/CWpPxjDk",
+            "expanded_url": "http://www.jordhy.com",
+            "display_url": "jordhy.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 18605,
+    "friends_count": 368,
+    "listed_count": 110,
+    "created_at": "Thu Aug 16 03:15:42 +0000 2007",
+    "favourites_count": 495,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4497,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/452521600/barca.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/452521600/barca.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2039515623/profile-pic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2039515623/profile-pic_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/8215732/1353121050",
+    "profile_link_color": "1777E6",
+    "profile_sidebar_border_color": "DBE9ED",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          64,
+          68
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/d8E4V7FM",
+        "expanded_url": "http://neatline.org",
+        "display_url": "neatline.org",
+        "indices": [
+          25,
+          45
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "elotroalex",
+        "name": "Alex Gil",
+        "id": 91438333,
+        "id_str": "91438333",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "scholarslab",
+        "name": "scholarslab",
+        "id": 15175262,
+        "id_str": "15175262",
+        "indices": [
+          12,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

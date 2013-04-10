@@ -1,0 +1,101 @@
+{
+  "created_at": "Wed Jun 20 02:00:58 +0000 2012",
+  "id": 215262938435551236,
+  "id_str": "215262938435551236",
+  "text": "@DMendelsohn1960 I just came across this resignation letter by a CS Univ Prof protesting BoV: http://t.co/PiHmQZhH #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 483657883,
+  "in_reply_to_user_id_str": "483657883",
+  "in_reply_to_screen_name": "DMendelsohn1960",
+  "user": {
+    "id": 23545498,
+    "id_str": "23545498",
+    "name": "b gudivada",
+    "screen_name": "bgji",
+    "location": "",
+    "description": "pomme de terre",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 88,
+    "friends_count": 88,
+    "listed_count": 3,
+    "created_at": "Tue Mar 10 02:37:29 +0000 2009",
+    "favourites_count": 509,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1027,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/633965315/1yne9fqqwpjhx05cr953.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/633965315/1yne9fqqwpjhx05cr953.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2870406410/9a5a4954e6056e01572032472039537e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2870406410/9a5a4954e6056e01572032472039537e_normal.jpeg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          115,
+          119
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/PiHmQZhH",
+        "expanded_url": "http://gist.github.com/2955870",
+        "display_url": "gist.github.com/2955870",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DMendelsohn1960",
+        "name": "Daniel Mendelsohn",
+        "id": 483657883,
+        "id_str": "483657883",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

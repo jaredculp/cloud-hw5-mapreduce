@@ -1,0 +1,102 @@
+{
+  "created_at": "Tue Jun 19 06:30:13 +0000 2012",
+  "id": 214968310054395904,
+  "id_str": "214968310054395904",
+  "text": "Hahaha: @HelenDragas\nQuit it. Trying to focus on being dynamically strategic in here. RT @exteric bowling infront of the rotunda #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16174710,
+    "id_str": "16174710",
+    "name": "Elizabeth Ladner",
+    "screen_name": "Rilla220",
+    "location": "Charlottesville, VA",
+    "description": "ABD in history and life",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 48,
+    "friends_count": 188,
+    "listed_count": 3,
+    "created_at": "Sun Sep 07 22:31:22 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 279,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DADCE6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/343683417/321320_822883353014_1301788_39074006_5732385_n.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/343683417/321320_822883353014_1301788_39074006_5732385_n.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1585667054/twitterpic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1585667054/twitterpic_normal.jpg",
+    "profile_link_color": "6D7FAD",
+    "profile_sidebar_border_color": "544446",
+    "profile_sidebar_fill_color": "EAEDDF",
+    "profile_text_color": "0F2D52",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          129,
+          133
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HelenDragas",
+        "name": "Helen Dragas",
+        "id": 612252466,
+        "id_str": "612252466",
+        "indices": [
+          8,
+          20
+        ]
+      },
+      {
+        "screen_name": "exteric",
+        "name": "Yatzek",
+        "id": 154810624,
+        "id_str": "154810624",
+        "indices": [
+          89,
+          97
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

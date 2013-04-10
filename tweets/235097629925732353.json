@@ -1,0 +1,113 @@
+{
+  "created_at": "Mon Aug 13 19:36:57 +0000 2012",
+  "id": 235097629925732353,
+  "id_str": "235097629925732353",
+  "text": "@HendersonCox Which office? The last survey was done by #UVA in 2006. To cut costs we now encourage feedback through http://t.co/u9f65dfl.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 234274412893970432,
+  "in_reply_to_status_id_str": "234274412893970432",
+  "in_reply_to_user_id": 106530260,
+  "in_reply_to_user_id_str": "106530260",
+  "in_reply_to_screen_name": "HendersonCox",
+  "user": {
+    "id": 185284413,
+    "id_str": "185284413",
+    "name": "VirginiaDMV",
+    "screen_name": "VirginiaDMV",
+    "location": "Virginia, USA",
+    "description": "Do you have a VirginiaDMV related question? Ask us! While you’re parked of course. Mon-Fri. 9 a.m.-5 p.m. ET. We're also listening under #VirginiaDMV #DMV2Go",
+    "url": "http://www.dmvNOW.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.dmvNOW.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 432,
+    "friends_count": 363,
+    "listed_count": 4,
+    "created_at": "Tue Aug 31 16:41:15 +0000 2010",
+    "favourites_count": 41,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1751,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/531003584/background.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/531003584/background.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2170258050/Socialmedia_avatar_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2170258050/Socialmedia_avatar_normal.JPG",
+    "profile_link_color": "0E6D8F",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "A8B6C1",
+    "profile_text_color": "274760",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          56,
+          60
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/u9f65dfl",
+        "expanded_url": "http://bit.ly/Mi6nYT",
+        "display_url": "bit.ly/Mi6nYT",
+        "indices": [
+          117,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HendersonCox",
+        "name": "Henderson Cox LLC",
+        "id": 106530260,
+        "id_str": "106530260",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

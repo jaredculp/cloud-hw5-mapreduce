@@ -1,0 +1,109 @@
+{
+  "created_at": "Sat Jun 23 12:55:10 +0000 2012",
+  "id": 216514736655843328,
+  "id_str": "216514736655843328",
+  "text": "@TheBrown32 For information on #UVA, the student newspaper @cavalierdaily has been a great source. #uppers",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216514079731355650,
+  "in_reply_to_status_id_str": "216514079731355650",
+  "in_reply_to_user_id": 405509324,
+  "in_reply_to_user_id_str": "405509324",
+  "in_reply_to_screen_name": "TheBrown32",
+  "user": {
+    "id": 78681715,
+    "id_str": "78681715",
+    "name": "Katrina ",
+    "screen_name": "ZoooeyGrrl",
+    "location": "Mid-Atlantic US",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 19,
+    "friends_count": 242,
+    "listed_count": 0,
+    "created_at": "Wed Sep 30 19:02:31 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 85,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2211995655/PICT0105_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2211995655/PICT0105_2_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          31,
+          35
+        ]
+      },
+      {
+        "text": "uppers",
+        "indices": [
+          99,
+          106
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheBrown32",
+        "name": "TheBrown32",
+        "id": 405509324,
+        "id_str": "405509324",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          59,
+          73
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,122 @@
+{
+  "created_at": "Thu Jun 21 00:48:49 +0000 2012",
+  "id": 215607167665967104,
+  "id_str": "215607167665967104",
+  "text": "RT @sbrydge Washington posts reports #UVA #Sullivan will return if Dragas resigns. Page 3 http://t.co/he4jGeyE",
+  "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14078052,
+    "id_str": "14078052",
+    "name": "Peter M. Carey",
+    "screen_name": "petermcarey",
+    "location": "Charlottesville, VA",
+    "description": "Episcopal Priest serving at The Corner of UVA\r\nSt. Paul's Memorial Church\r\nWahoowa!\r\nThis is the day that the Lord has made!\r\n",
+    "url": "http://t.co/lTKzrp8C",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/lTKzrp8C",
+            "expanded_url": "http://www.petercarey.org",
+            "display_url": "petercarey.org",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 943,
+    "friends_count": 880,
+    "listed_count": 53,
+    "created_at": "Tue Mar 04 14:39:58 +0000 2008",
+    "favourites_count": 733,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10376,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/701884761/40fbc7d026a8ce449280e22c789560d0.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/701884761/40fbc7d026a8ce449280e22c789560d0.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3101466623/76c69de1c8de737897dd27c9fabf0d64_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3101466623/76c69de1c8de737897dd27c9fabf0d64_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14078052/1354334086",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          37,
+          41
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          42,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/he4jGeyE",
+        "expanded_url": "http://mobile.washingtonpost.com/rss.jsp?rssid=599&item=http%3a%2f%2fwww.washingtonpost.com%2flocal%2fdc-politics%2finterim-u-va-leader-carl-zeithaml-seeks-to-quell-uproar-over-presidents-ouster%2f2012%2f06%2f20%2fgJQAAsZ1qV_mobile.mobile&cid=-1&page=2",
+        "display_url": "mobile.washingtonpost.com/rss.jsp?rssid=…",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sbrydge",
+        "name": "Shawn Brydge",
+        "id": 252169141,
+        "id_str": "252169141",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,92 @@
+{
+  "created_at": "Fri Jun 22 15:48:40 +0000 2012",
+  "id": 216196013457817600,
+  "id_str": "216196013457817600",
+  "text": "@georginaf #bov",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216195629465079808,
+  "in_reply_to_status_id_str": "216195629465079808",
+  "in_reply_to_user_id": 43866820,
+  "in_reply_to_user_id_str": "43866820",
+  "in_reply_to_screen_name": "georginaf",
+  "user": {
+    "id": 499269671,
+    "id_str": "499269671",
+    "name": "Ben Patterson",
+    "screen_name": "ben_p21",
+    "location": "",
+    "description": "If your easily offended then i suggest you fuck off.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 135,
+    "friends_count": 140,
+    "listed_count": 0,
+    "created_at": "Tue Feb 21 23:26:37 +0000 2012",
+    "favourites_count": 21,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3073,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2628047202/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2628047202/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bov",
+        "indices": [
+          11,
+          15
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "georginaf",
+        "name": "Georgina Fiorellino",
+        "id": 43866820,
+        "id_str": "43866820",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

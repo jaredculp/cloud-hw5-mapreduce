@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Jun 26 02:27:07 +0000 2012",
+  "id": 217443847251296256,
+  "id_str": "217443847251296256",
+  "text": "SACS is displeased. RT @JennMcClellanVA: #UVA Accreditor says #Sullivan ouster has raised issues about compliance. http://t.co/rqa0S5ap",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14188292,
+    "id_str": "14188292",
+    "name": "It's Just Mo",
+    "screen_name": "TwitsJustMo",
+    "location": "Richmond, VA",
+    "description": "",
+    "url": "http://itsjustmo.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://itsjustmo.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 159,
+    "friends_count": 188,
+    "listed_count": 3,
+    "created_at": "Fri Mar 21 00:02:29 +0000 2008",
+    "favourites_count": 21,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2617,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0D88C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/294376200/x383d55784946d0dc19563a44960f379.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/294376200/x383d55784946d0dc19563a44960f379.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1470629858/ACK_avatar_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1470629858/ACK_avatar_normal.jpg",
+    "profile_link_color": "F07877",
+    "profile_sidebar_border_color": "0A5C5A",
+    "profile_sidebar_fill_color": "FA2A3A",
+    "profile_text_color": "F7A472",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          41,
+          45
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          62,
+          71
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/rqa0S5ap",
+        "expanded_url": "http://chronicle.com/blogs/ticker/uva-s-accreditor-says-sullivan-ouster-has-raised-questions-about-compliance/44813",
+        "display_url": "chronicle.com/blogs/ticker/u…",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JennMcClellanVA",
+        "name": "Jennifer McClellan",
+        "id": 370859141,
+        "id_str": "370859141",
+        "indices": [
+          23,
+          39
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

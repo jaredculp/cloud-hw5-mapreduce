@@ -1,0 +1,109 @@
+{
+  "created_at": "Sun Jun 24 02:27:46 +0000 2012",
+  "id": 216719233961295872,
+  "id_str": "216719233961295872",
+  "text": "@SNguyen14 @UVA @sivavaid Hey, what about Michael Strine?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215987930861285376,
+  "in_reply_to_status_id_str": "215987930861285376",
+  "in_reply_to_user_id": 153396653,
+  "in_reply_to_user_id_str": "153396653",
+  "in_reply_to_screen_name": "nguyenist",
+  "user": {
+    "id": 24166858,
+    "id_str": "24166858",
+    "name": "Pamela Ross, MD",
+    "screen_name": "DrPamelaRoss",
+    "location": "Troy, Virginia",
+    "description": "The Socially Conscious Physician | Founder, Holistic Medical Consultants | Vessel for Healing Mind-Body-Spirit | Feat. in #EscapeFire | Life Member #DSTInc1913",
+    "url": "http://DrPamelaRoss.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://DrPamelaRoss.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 543,
+    "friends_count": 147,
+    "listed_count": 15,
+    "created_at": "Fri Mar 13 13:05:12 +0000 2009",
+    "favourites_count": 1291,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1426,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2743426484/23f965b3a331e8801fcc1c8ed3ab3176_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2743426484/23f965b3a331e8801fcc1c8ed3ab3176_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/24166858/1356209010",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          11,
+          15
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          16,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

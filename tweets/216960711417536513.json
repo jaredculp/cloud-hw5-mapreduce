@@ -1,0 +1,86 @@
+{
+  "created_at": "Sun Jun 24 18:27:19 +0000 2012",
+  "id": 216960711417536513,
+  "id_str": "216960711417536513",
+  "text": "@cavalierdaily About the same number for the livestream as well.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216960526708768769,
+  "in_reply_to_status_id_str": "216960526708768769",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 611550841,
+    "id_str": "611550841",
+    "name": "Diana Hereford",
+    "screen_name": "DianaHereford",
+    "location": "Charlottesville",
+    "description": "Stories. Dancing. Travel. Life is about discovery. Studying: English @UVa, Education @Curry",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 29,
+    "friends_count": 167,
+    "listed_count": 0,
+    "created_at": "Mon Jun 18 09:40:30 +0000 2012",
+    "favourites_count": 189,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 243,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2321690384/6m7dqbi1mg55nto8y18d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2321690384/6m7dqbi1mg55nto8y18d_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Thu Jun 21 03:26:27 +0000 2012",
+  "id": 215646837221240833,
+  "id_str": "215646837221240833",
+  "text": "@FairPhantom19 : This situation has certainly cast ANOTHER negative shadow over #UVA.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 16037358,
+  "in_reply_to_user_id_str": "16037358",
+  "in_reply_to_screen_name": "FairPhantom19",
+  "user": {
+    "id": 30380284,
+    "id_str": "30380284",
+    "name": "MIC FIELDS",
+    "screen_name": "MICFIELDS",
+    "location": "DMV",
+    "description": "I am an ARTIST... Lover of all things inspirational, which is pretty much Everything.",
+    "url": "http://www.facebook.com/micfields3",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/micfields3",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 553,
+    "friends_count": 1181,
+    "listed_count": 3,
+    "created_at": "Sat Apr 11 02:55:14 +0000 2009",
+    "favourites_count": 19,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3064,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/19953467/MJJ_Billie_Jean_1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/19953467/MJJ_Billie_Jean_1.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/137543892/MICFIELDS_1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/137543892/MICFIELDS_1_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          80,
+          84
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "FairPhantom19",
+        "name": "Jennifer",
+        "id": 16037358,
+        "id_str": "16037358",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

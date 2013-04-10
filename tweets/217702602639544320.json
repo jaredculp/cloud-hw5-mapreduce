@@ -1,0 +1,135 @@
+{
+  "created_at": "Tue Jun 26 19:35:19 +0000 2012",
+  "id": 217702602639544320,
+  "id_str": "217702602639544320",
+  "text": "Good decision made today at #UVa and I’m looking forward to where this takes us. #longlivesullivan",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1987,
+    "id_str": "1987",
+    "name": "Ben Vander",
+    "screen_name": "Vander",
+    "location": "Philadelphia",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 148,
+    "friends_count": 338,
+    "listed_count": 3,
+    "created_at": "Mon Jul 17 16:29:17 +0000 2006",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 700,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/429603216/x4d92e3f6d69c26ab65938a7b23e49e5.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/429603216/x4d92e3f6d69c26ab65938a7b23e49e5.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1277065499/BVDV5_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1277065499/BVDV5_2_normal.jpg",
+    "profile_link_color": "618238",
+    "profile_sidebar_border_color": "204207",
+    "profile_sidebar_fill_color": "060A00",
+    "profile_text_color": "485C3A",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      39.95454616,
+      -75.16856782
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -75.16856782,
+      39.95454616
+    ]
+  },
+  "place": {
+    "id": "e4a0d228eb6be76b",
+    "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+    "place_type": "city",
+    "name": "Philadelphia",
+    "full_name": "Philadelphia, PA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.280303,
+            39.867004
+          ],
+          [
+            -74.955763,
+            39.867004
+          ],
+          [
+            -74.955763,
+            40.137992
+          ],
+          [
+            -75.280303,
+            40.137992
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          28,
+          32
+        ]
+      },
+      {
+        "text": "longlivesullivan",
+        "indices": [
+          81,
+          98
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

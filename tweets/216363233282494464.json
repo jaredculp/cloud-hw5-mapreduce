@@ -1,0 +1,93 @@
+{
+  "created_at": "Sat Jun 23 02:53:09 +0000 2012",
+  "id": 216363233282494464,
+  "id_str": "216363233282494464",
+  "text": "@pienso_yowaja porque tu pregunta #Uva.?",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216361872272801795,
+  "in_reply_to_status_id_str": "216361872272801795",
+  "in_reply_to_user_id": 467877808,
+  "in_reply_to_user_id_str": "467877808",
+  "in_reply_to_screen_name": "pienso_yowaja",
+  "user": {
+    "id": 187288937,
+    "id_str": "187288937",
+    "name": "NoseQuePoner --'",
+    "screen_name": "Danii_pas",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 55,
+    "friends_count": 46,
+    "listed_count": 0,
+    "created_at": "Sun Sep 05 20:24:13 +0000 2010",
+    "favourites_count": 11,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2482,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/541255627/Deadmau5.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/541255627/Deadmau5.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3038335384/226c4ba24a46c7e13d72d3375f50219c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3038335384/226c4ba24a46c7e13d72d3375f50219c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/187288937/1354143576",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "pienso_yowaja",
+        "name": "Soy chaparrita ",
+        "id": 467877808,
+        "id_str": "467877808",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

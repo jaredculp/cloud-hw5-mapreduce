@@ -1,0 +1,110 @@
+{
+  "created_at": "Thu Jun 28 17:34:45 +0000 2012",
+  "id": 218397036301660164,
+  "id_str": "218397036301660164",
+  "text": "Ningun RT @Wylbert1 #uva RT @Sherlysaii: ...este se cree q me va a sacar la correa hoy #NoMijoNo",
+  "source": "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 218396873080324097,
+  "in_reply_to_status_id_str": "218396873080324097",
+  "in_reply_to_user_id": 42884841,
+  "in_reply_to_user_id_str": "42884841",
+  "in_reply_to_screen_name": "Wylbert1",
+  "user": {
+    "id": 39878744,
+    "id_str": "39878744",
+    "name": "❥ Ms. Calabazita 8)",
+    "screen_name": "Sherlysaii",
+    "location": "Cloud 9",
+    "description": "❥ A complicated girl, living in a simple world |°Karma is a bitch that's why I like her so much°| *What goes around comes around* | #TeamHeat | Bacterias Inc.™",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2437,
+    "friends_count": 614,
+    "listed_count": 11,
+    "created_at": "Thu May 14 00:17:13 +0000 2009",
+    "favourites_count": 486,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 139302,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/129077176/Slide1.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/129077176/Slide1.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3109785373/f1be848fb47033c9b7ffec667100f2a3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3109785373/f1be848fb47033c9b7ffec667100f2a3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/39878744/1355849243",
+    "profile_link_color": "00A9E6",
+    "profile_sidebar_border_color": "CF66D9",
+    "profile_sidebar_fill_color": "A327B3",
+    "profile_text_color": "F50E91",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          20,
+          24
+        ]
+      },
+      {
+        "text": "NoMijoNo",
+        "indices": [
+          87,
+          96
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Wylbert1",
+        "name": "Wylbert",
+        "id": 42884841,
+        "id_str": "42884841",
+        "indices": [
+          10,
+          19
+        ]
+      },
+      {
+        "screen_name": "Sherlysaii",
+        "name": "❥ Ms. Calabazita 8)",
+        "id": 39878744,
+        "id_str": "39878744",
+        "indices": [
+          28,
+          39
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

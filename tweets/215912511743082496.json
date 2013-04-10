@@ -1,0 +1,104 @@
+{
+  "created_at": "Thu Jun 21 21:02:08 +0000 2012",
+  "id": 215912511743082496,
+  "id_str": "215912511743082496",
+  "text": "RT @DailyProgTed: #UVa BoV meeting is officially to \"discuss possible changes in the terms of employment of the President\"",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 485195727,
+    "id_str": "485195727",
+    "name": "John Shifflett",
+    "screen_name": "John_Shifflett",
+    "location": "Charlottesville, Virginia",
+    "description": "Sports Editor at The Daily Progress in Charlottesville, Virginia.",
+    "url": "http://www.dailyprogress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.dailyprogress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 160,
+    "friends_count": 596,
+    "listed_count": 7,
+    "created_at": "Mon Feb 06 23:05:15 +0000 2012",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3983,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1809439693/JohnAvi_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1809439693/JohnAvi_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          18,
+          22
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DailyProgTed",
+        "name": "Ted Strong, reporter",
+        "id": 365027838,
+        "id_str": "365027838",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

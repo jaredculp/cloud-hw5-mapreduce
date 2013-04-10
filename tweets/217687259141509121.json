@@ -1,0 +1,127 @@
+{
+  "created_at": "Tue Jun 26 18:34:21 +0000 2012",
+  "id": 217687259141509121,
+  "id_str": "217687259141509121",
+  "text": "RT @gretchedwards: #HigherEd folks interested in #UVA's #BOV meeting, there's a livestream here: http://t.co/casVre3S",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 27708841,
+    "id_str": "27708841",
+    "name": "SabbaticalHomes.com",
+    "screen_name": "SabbaticalHomes",
+    "location": "Manhattan Beach, California",
+    "description": "The academic community’s resource for home rentals, exchanges, house sitting and sharing worldwide since 2000.",
+    "url": "http://sabbaticalhomes.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://sabbaticalhomes.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 127,
+    "friends_count": 162,
+    "listed_count": 0,
+    "created_at": "Mon Mar 30 19:30:28 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -32400,
+    "time_zone": "Alaska",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 257,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/401101381/eiffel.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/401101381/eiffel.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3144784255/1cc6de7ef8f683d72dfac5dcd4881d82_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3144784255/1cc6de7ef8f683d72dfac5dcd4881d82_normal.jpeg",
+    "profile_link_color": "ED4D03",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HigherEd",
+        "indices": [
+          19,
+          28
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          49,
+          53
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          56,
+          60
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/casVre3S",
+        "expanded_url": "http://blog.vivianpaige.com/2012/06/26/uva-bov-meeting-live-stream/",
+        "display_url": "blog.vivianpaige.com/2012/06/26/uva…",
+        "indices": [
+          97,
+          117
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "gretchEdwards",
+        "name": "Gretchen Edwards",
+        "id": 108362171,
+        "id_str": "108362171",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

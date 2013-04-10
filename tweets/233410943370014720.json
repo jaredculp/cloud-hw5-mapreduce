@@ -1,0 +1,123 @@
+{
+  "created_at": "Thu Aug 09 03:54:40 +0000 2012",
+  "id": 233410943370014720,
+  "id_str": "233410943370014720",
+  "text": "The surprise is not the Strine left; it's that it took this long. As Shakespeare wrote, when you strike at the king, you must kill him.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22153,
+    "id_str": "22153",
+    "name": "bookofjoe",
+    "screen_name": "bookofjoe",
+    "location": "Charlottesville, VA, USA ",
+    "description": "World's most popular blogging anesthesiologist—and I do it on a treadmill. Said by some whose sites I've trashed to be insightful re: user interface issues.",
+    "url": "http://t.co/vlurYoN7",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/vlurYoN7",
+            "expanded_url": "http://www.bookofjoe.com/",
+            "display_url": "bookofjoe.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1866,
+    "friends_count": 50,
+    "listed_count": 82,
+    "created_at": "Sat Nov 25 23:49:09 +0000 2006",
+    "favourites_count": 150,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 33224,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/553562315/twilk_background_4fb3d421eb7f0.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/553562315/twilk_background_4fb3d421eb7f0.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3099811569/d74acd11b4a4dfb4efa8f39bb55d33ca_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3099811569/d74acd11b4a4dfb4efa8f39bb55d33ca_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "531a6942bb8056b9",
+    "url": "https://api.twitter.com/1.1/geo/id/531a6942bb8056b9.json",
+    "place_type": "city",
+    "name": "Charlottesville",
+    "full_name": "Charlottesville, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.523637,
+            38.009584
+          ],
+          [
+            -78.446311,
+            38.009584
+          ],
+          [
+            -78.446311,
+            38.070591
+          ],
+          [
+            -78.523637,
+            38.070591
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

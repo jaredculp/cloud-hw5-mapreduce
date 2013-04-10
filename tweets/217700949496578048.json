@@ -1,0 +1,110 @@
+{
+  "created_at": "Tue Jun 26 19:28:45 +0000 2012",
+  "id": 217700949496578048,
+  "id_str": "217700949496578048",
+  "text": "RT @chronicle: Teresa Sullivan is reinstated at #UVa: http://t.co/6VXTeyN4 Complete coverage: http://t.co/W7oHnPpU",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19400793,
+    "id_str": "19400793",
+    "name": "LaTonya Sadler",
+    "screen_name": "LaTonyaSadler",
+    "location": "Miami",
+    "description": "ENTJ, connecter, relationship-builder, believes in the power of pull. Forever a Miami Hurricane.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1723,
+    "friends_count": 820,
+    "listed_count": 86,
+    "created_at": "Fri Jan 23 16:26:08 +0000 2009",
+    "favourites_count": 189,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10510,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4CC5AA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/677691000/8391d6c3e8c5138ce4cfc07c276032c1.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/677691000/8391d6c3e8c5138ce4cfc07c276032c1.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1850826458/profile_pic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1850826458/profile_pic_normal.jpg",
+    "profile_link_color": "543D39",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDDDDD",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/6VXTeyN4",
+        "expanded_url": "http://chroni.cl/QdqIiN",
+        "display_url": "chroni.cl/QdqIiN",
+        "indices": [
+          54,
+          74
+        ]
+      },
+      {
+        "url": "http://t.co/W7oHnPpU",
+        "expanded_url": "http://chroni.cl/Mwk9Y8",
+        "display_url": "chroni.cl/Mwk9Y8",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

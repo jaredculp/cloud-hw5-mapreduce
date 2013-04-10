@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 00:10:26 +0000 2012",
+  "id": 217409447176306688,
+  "id_str": "217409447176306688",
+  "text": "@AbZurdity it's in honor of the situation at my alma mater, #UVA.",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217408729853853696,
+  "in_reply_to_status_id_str": "217408729853853696",
+  "in_reply_to_user_id": 179679497,
+  "in_reply_to_user_id_str": "179679497",
+  "in_reply_to_screen_name": "AbZurdity",
+  "user": {
+    "id": 30451813,
+    "id_str": "30451813",
+    "name": "Jennifer Mendelsohn",
+    "screen_name": "CleverTitleTK",
+    "location": "Charm City",
+    "description": "HuffPo named me a standout Bachelor tweeter; my college profs wept. Mom. Journo. (People, Slate alum). Us Fashion Police snarker. RTs = I'll love you forever.",
+    "url": "http://www.jenmen.com/p/about-jennifer-mendelsohn.html",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jenmen.com/p/about-jennifer-mendelsohn.html",
+            "expanded_url": null,
+            "indices": [
+              0,
+              54
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2903,
+    "friends_count": 1450,
+    "listed_count": 182,
+    "created_at": "Sat Apr 11 14:03:51 +0000 2009",
+    "favourites_count": 78,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 34044,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FAE2AC",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/63466972/mqparceldeath.br.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/63466972/mqparceldeath.br.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2915638945/94b4544cc0ea7cbf6ce15b5809358ebd_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2915638945/94b4544cc0ea7cbf6ce15b5809358ebd_normal.jpeg",
+    "profile_link_color": "757575",
+    "profile_sidebar_border_color": "FAE2AC",
+    "profile_sidebar_fill_color": "FF0010",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          60,
+          64
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AbZurdity",
+        "name": "Abby Zidle",
+        "id": 179679497,
+        "id_str": "179679497",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

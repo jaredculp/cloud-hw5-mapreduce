@@ -1,0 +1,137 @@
+{
+  "created_at": "Sat Jun 23 00:54:54 +0000 2012",
+  "id": 216333475991650305,
+  "id_str": "216333475991650305",
+  "text": "Tonight we are meeting at the rock to show turdy the respect he deserves #UVA @hall_o_gram",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 42274687,
+    "id_str": "42274687",
+    "name": "travis bickle",
+    "screen_name": "LLthay",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 74,
+    "friends_count": 74,
+    "listed_count": 0,
+    "created_at": "Sun May 24 20:22:16 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 619,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/204226261/va_flag.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/204226261/va_flag.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1818282035/sussudio_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1818282035/sussudio_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.93117253,
+      -77.1709966
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.1709966,
+      38.93117253
+    ]
+  },
+  "place": {
+    "id": "dc234665a759a05d",
+    "url": "https://api.twitter.com/1.1/geo/id/dc234665a759a05d.json",
+    "place_type": "city",
+    "name": "McLean",
+    "full_name": "McLean, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.233039,
+            38.893245
+          ],
+          [
+            -77.119759,
+            38.893245
+          ],
+          [
+            -77.119759,
+            38.970299
+          ],
+          [
+            -77.233039,
+            38.970299
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          73,
+          77
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "hall_o_gram",
+        "name": "nelson.",
+        "id": 322896096,
+        "id_str": "322896096",
+        "indices": [
+          78,
+          90
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

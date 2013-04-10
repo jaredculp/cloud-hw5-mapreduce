@@ -1,0 +1,83 @@
+{
+  "created_at": "Tue Jun 26 18:30:21 +0000 2012",
+  "id": 217686251145396225,
+  "id_str": "217686251145396225",
+  "text": "people in the boardroom #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 544582695,
+    "id_str": "544582695",
+    "name": "Jenny Braun",
+    "screen_name": "JTemech",
+    "location": "Charlottesville, VA",
+    "description": "English Ph.D. student researching property (literary and landed), copyright, and colonial anxieties in the long eighteenth century",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 59,
+    "friends_count": 100,
+    "listed_count": 0,
+    "created_at": "Tue Apr 03 18:41:39 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 109,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/492323526/Museum__Patent_Office__by_Jarvis__J._F.__John_F.___b._1850.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/492323526/Museum__Patent_Office__by_Jarvis__J._F.__John_F.___b._1850.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2028621936/1774_Paul_Revere_s_logotype_for_the_Royal_American_Magazine_1774_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2028621936/1774_Paul_Revere_s_logotype_for_the_Royal_American_Magazine_1774_2_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          24,
+          28
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

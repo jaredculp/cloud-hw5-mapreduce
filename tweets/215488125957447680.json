@@ -1,0 +1,122 @@
+{
+  "created_at": "Wed Jun 20 16:55:47 +0000 2012",
+  "id": 215488125957447680,
+  "id_str": "215488125957447680",
+  "text": "@SuzanneOkkes @jimfjansen #HvA en #UvA zijn bestuurlijk gefuseerd toch? Daar doelt PvG toch op?",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215482479463776256,
+  "in_reply_to_status_id_str": "215482479463776256",
+  "in_reply_to_user_id": 163079822,
+  "in_reply_to_user_id_str": "163079822",
+  "in_reply_to_screen_name": "SuzanneOkkes",
+  "user": {
+    "id": 7500422,
+    "id_str": "7500422",
+    "name": "Wim de Jong",
+    "screen_name": "wimdejong",
+    "location": "Amsterdam",
+    "description": "Eindredacteur @FoliaWeb, nieuws en meer over UvA en HvA",
+    "url": "http://www.foliaweb.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.foliaweb.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 801,
+    "friends_count": 997,
+    "listed_count": 20,
+    "created_at": "Mon Jul 16 07:33:24 +0000 2007",
+    "favourites_count": 20,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2774,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F4E724",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1448407474/263704_10150226909469141_650894140_7432072_4251155_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1448407474/263704_10150226909469141_650894140_7432072_4251155_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/7500422/1359193562",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HvA",
+        "indices": [
+          26,
+          30
+        ]
+      },
+      {
+        "text": "UvA",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SuzanneOkkes",
+        "name": "Suzanne Okkes",
+        "id": 163079822,
+        "id_str": "163079822",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "jimfjansen",
+        "name": "Jim Jansen",
+        "id": 112969803,
+        "id_str": "112969803",
+        "indices": [
+          14,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

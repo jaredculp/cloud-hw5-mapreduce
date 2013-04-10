@@ -1,0 +1,123 @@
+{
+  "created_at": "Tue Jun 19 21:50:33 +0000 2012",
+  "id": 215199918388805632,
+  "id_str": "215199918388805632",
+  "text": "@stevenricejr MT @jmittell: #UVA Prof Computer Science Bill Wulf's resignation letter quite a statement! (via @sramsay) http://t.co/S2S2Z59z",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 93832861,
+  "in_reply_to_user_id_str": "93832861",
+  "in_reply_to_screen_name": "stevengua",
+  "user": {
+    "id": 105463286,
+    "id_str": "105463286",
+    "name": "Bettie",
+    "screen_name": "RVAREGal",
+    "location": "Richmond VA Metro Area",
+    "description": "I'm a Realtor with Napier Realtors ERA. I also do online work with @HumanityRoad helping people around the world in times of disaster. ",
+    "url": "http://www.napierera.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.napierera.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2411,
+    "friends_count": 2635,
+    "listed_count": 170,
+    "created_at": "Sat Jan 16 12:20:03 +0000 2010",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 68670,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "404CB0",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/338971528/HR_Napier_Twitter6.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/338971528/HR_Napier_Twitter6.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1290609086/af7ca517-9908-4485-9805-0404fab27626_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1290609086/af7ca517-9908-4485-9805-0404fab27626_normal.png",
+    "profile_link_color": "404CB0",
+    "profile_sidebar_border_color": "FAF9D3",
+    "profile_sidebar_fill_color": "FAF9D3",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/S2S2Z59z",
+        "expanded_url": "http://bit.ly/MtjQJm",
+        "display_url": "bit.ly/MtjQJm",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jmittell",
+        "name": "Jason Mittell",
+        "id": 35295295,
+        "id_str": "35295295",
+        "indices": [
+          17,
+          26
+        ]
+      },
+      {
+        "screen_name": "sramsay",
+        "name": "Stephen Ramsay",
+        "id": 15107513,
+        "id_str": "15107513",
+        "indices": [
+          110,
+          118
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

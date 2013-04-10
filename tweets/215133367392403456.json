@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Jun 19 17:26:06 +0000 2012",
+  "id": 215133367392403456,
+  "id_str": "215133367392403456",
+  "text": "Gov #BobMcDonnell says some mistakes where made at #UVA in the way the Univ President was removed. But he won't intervene. #va @wtop",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 205360834,
+    "id_str": "205360834",
+    "name": "Hank Silverberg",
+    "screen_name": "hsilverbergwtop",
+    "location": "wtop ",
+    "description": "Northern Virginia Correspondent  ",
+    "url": "http://www.wtop.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wtop.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1077,
+    "friends_count": 386,
+    "listed_count": 67,
+    "created_at": "Wed Oct 20 18:10:04 +0000 2010",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4369,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1149021192/64639_1534989208046_1034285476_1572484_5822977_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1149021192/64639_1534989208046_1034285476_1572484_5822977_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BobMcDonnell",
+        "indices": [
+          4,
+          17
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          51,
+          55
+        ]
+      },
+      {
+        "text": "va",
+        "indices": [
+          123,
+          126
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WTOP",
+        "name": "WTOP ",
+        "id": 17906632,
+        "id_str": "17906632",
+        "indices": [
+          127,
+          132
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

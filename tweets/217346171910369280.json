@@ -1,0 +1,113 @@
+{
+  "created_at": "Mon Jun 25 19:59:00 +0000 2012",
+  "id": 217346171910369280,
+  "id_str": "217346171910369280",
+  "text": "#UVA alumni weighed in on today's @kojoshow about the ongoing saga surrounding the ouster of Pres. Teresa Sullivan: http://t.co/l1IzRcrr",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14856665,
+    "id_str": "14856665",
+    "name": "WAMU 88.5 News",
+    "screen_name": "wamu885news",
+    "location": "Washington, DC",
+    "description": "Local news from WAMU 88.5 - American University Radio in Washington, D.C.",
+    "url": "http://wamu.org/news/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://wamu.org/news/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5821,
+    "friends_count": 195,
+    "listed_count": 440,
+    "created_at": "Wed May 21 14:00:16 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 14610,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "246FA8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/186243644/twitter-news2.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/186243644/twitter-news2.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1371209434/News_twitter130x130_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1371209434/News_twitter130x130_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "CCCCCC",
+    "profile_sidebar_fill_color": "CCCCCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/l1IzRcrr",
+        "expanded_url": "http://wamu.fm/KIFFd4",
+        "display_url": "wamu.fm/KIFFd4",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kojoshow",
+        "name": "The Kojo Nnamdi Show",
+        "id": 14848798,
+        "id_str": "14848798",
+        "indices": [
+          34,
+          43
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

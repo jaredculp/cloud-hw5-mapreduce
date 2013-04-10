@@ -1,0 +1,114 @@
+{
+  "created_at": "Sun Jun 24 17:49:22 +0000 2012",
+  "id": 216951163260641280,
+  "id_str": "216951163260641280",
+  "text": "Thank you from those of us far away! RT @fuzzymogwai the livefeed is live! http://t.co/C4qKNLJb #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216949983222575104,
+  "in_reply_to_status_id_str": "216949983222575104",
+  "in_reply_to_user_id": 106732110,
+  "in_reply_to_user_id_str": "106732110",
+  "in_reply_to_screen_name": "fuzzymogwai",
+  "user": {
+    "id": 39143159,
+    "id_str": "39143159",
+    "name": "Haas Policy",
+    "screen_name": "haaspolicy",
+    "location": "Austin, TX",
+    "description": "Education and public policy analysis (also occasionally - politics, sports and sartorial commentary).  Opinions, intelligent or otherwise, are entirely my own.",
+    "url": "http://www.haaspolicy.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.haaspolicy.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 582,
+    "friends_count": 509,
+    "listed_count": 35,
+    "created_at": "Mon May 11 00:17:52 +0000 2009",
+    "favourites_count": 401,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7070,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0810A6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/13494140/haasicon.jpeg.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/13494140/haasicon.jpeg.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/207570352/haasicon-copy_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/207570352/haasicon-copy_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/39143159/1354297557",
+    "profile_link_color": "2563F4",
+    "profile_sidebar_border_color": "C4CFCF",
+    "profile_sidebar_fill_color": "DCE5E4",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          96,
+          100
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/C4qKNLJb",
+        "expanded_url": "http://www.ustream.tv/channel/sunday-on-the-lawn",
+        "display_url": "ustream.tv/channel/sunday…",
+        "indices": [
+          75,
+          95
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "fuzzymogwai",
+        "name": "twang",
+        "id": 106732110,
+        "id_str": "106732110",
+        "indices": [
+          40,
+          52
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

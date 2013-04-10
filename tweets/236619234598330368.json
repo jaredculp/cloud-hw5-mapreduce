@@ -1,0 +1,164 @@
+{
+  "created_at": "Sat Aug 18 00:23:16 +0000 2012",
+  "id": 236619234598330368,
+  "id_str": "236619234598330368",
+  "text": "Nf a fellow tail club big up #uva #aka's @ellejaykim",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 445740826,
+    "id_str": "445740826",
+    "name": "DJ Suave",
+    "screen_name": "djsuave1963",
+    "location": "Virginia Beach, VA",
+    "description": "http://t.co/W7e8eulQ\r\nhttp://t.co/tE5Un3Rp\r\n#crcDJs\r\n#FutureStarDJs\r\n#SoOfficialGangDj",
+    "url": "http://www.crcdjs.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.crcdjs.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/W7e8eulQ",
+            "expanded_url": "http://www.facebook.com/pages/DJ-SUAVE/132738403405926",
+            "display_url": "facebook.com/pages/DJ-SUAVE…",
+            "indices": [
+              0,
+              20
+            ]
+          },
+          {
+            "url": "http://t.co/tE5Un3Rp",
+            "expanded_url": "http://www.futurestardjs.com",
+            "display_url": "futurestardjs.com",
+            "indices": [
+              22,
+              42
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1516,
+    "friends_count": 2002,
+    "listed_count": 11,
+    "created_at": "Sat Dec 24 20:10:36 +0000 2011",
+    "favourites_count": 763,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15676,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DEED05",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1712172271/twit_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1712172271/twit_normal.png",
+    "profile_link_color": "522503",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      36.8303186,
+      -76.1213697
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -76.1213697,
+      36.8303186
+    ]
+  },
+  "place": {
+    "id": "84229b03659050aa",
+    "url": "https://api.twitter.com/1.1/geo/id/84229b03659050aa.json",
+    "place_type": "city",
+    "name": "Virginia Beach",
+    "full_name": "Virginia Beach, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -76.22776,
+            36.550453
+          ],
+          [
+            -75.797497,
+            36.550453
+          ],
+          [
+            -75.797497,
+            37.040886
+          ],
+          [
+            -76.22776,
+            37.040886
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          29,
+          33
+        ]
+      },
+      {
+        "text": "aka",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

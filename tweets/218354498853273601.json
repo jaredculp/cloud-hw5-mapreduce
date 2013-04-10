@@ -1,0 +1,104 @@
+{
+  "created_at": "Thu Jun 28 14:45:44 +0000 2012",
+  "id": 218354498853273601,
+  "id_str": "218354498853273601",
+  "text": "RT @michaelpRTD: #UVa's Danny Hultzen (age 22) makes his triple-A home debut tonight in Tacoma, pitching against Jamie Moyer (age 49).",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18390940,
+    "id_str": "18390940",
+    "name": "JonathanK",
+    "screen_name": "JonathanK",
+    "location": "Charlottesville, VA",
+    "description": "1. Husband and Dad  2. Principal Broker of Nest Realty  3. St. Louis Cardinals Fan  (In that order)",
+    "url": "http://www.nestrealty.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nestrealty.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 635,
+    "friends_count": 257,
+    "listed_count": 37,
+    "created_at": "Fri Dec 26 16:22:50 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 978,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/188038073/Nest-Office2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/188038073/Nest-Office2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/446146374/jonathan_kauffmann_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/446146374/jonathan_kauffmann_normal.jpg",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          17,
+          21
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "michaelpRTD",
+        "name": "michael phillips",
+        "id": 25730085,
+        "id_str": "25730085",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

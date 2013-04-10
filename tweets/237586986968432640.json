@@ -1,0 +1,128 @@
+{
+  "created_at": "Mon Aug 20 16:28:46 +0000 2012",
+  "id": 237586986968432640,
+  "id_str": "237586986968432640",
+  "text": "RT @rivalsmike: new 5 star RB Taquan Mizzell ready for decision -- http://t.co/yQhZDYzs #Uva, #WVU, #UNC",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 24763873,
+    "id_str": "24763873",
+    "name": "WVSports.com",
+    "screen_name": "WVSportsDotCom",
+    "location": "Morgantown, WV",
+    "description": "The most comprehensive source for WVU sports and recruiting information.  Member of the Rivals.com network.  Contact us at: wvsportsreport@gmail.com",
+    "url": "http://www.WVSports.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.WVSports.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5132,
+    "friends_count": 1897,
+    "listed_count": 83,
+    "created_at": "Mon Mar 16 20:34:55 +0000 2009",
+    "favourites_count": 73,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6159,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/223009027/third.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/223009027/third.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1223916046/399031_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1223916046/399031_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/24763873/1349297510",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          88,
+          92
+        ]
+      },
+      {
+        "text": "WVU",
+        "indices": [
+          94,
+          98
+        ]
+      },
+      {
+        "text": "UNC",
+        "indices": [
+          100,
+          104
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/yQhZDYzs",
+        "expanded_url": "http://ow.ly/d60o8",
+        "display_url": "ow.ly/d60o8",
+        "indices": [
+          67,
+          87
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rivalsmike",
+        "name": "Mike Farrell",
+        "id": 170021040,
+        "id_str": "170021040",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

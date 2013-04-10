@@ -1,0 +1,104 @@
+{
+  "created_at": "Thu Jun 21 18:27:28 +0000 2012",
+  "id": 215873586496413699,
+  "id_str": "215873586496413699",
+  "text": "#UVa. Donde la educación y el aprendizaje de los alumnos es lo primero. #moríostodos",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 249831540,
+    "id_str": "249831540",
+    "name": "Sara Iglesias",
+    "screen_name": "Paharilla",
+    "location": "",
+    "description": "Chocolate, mimos y música.",
+    "url": "http://t.co/0DsPqYHS",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/0DsPqYHS",
+            "expanded_url": "http://zajhra.deviantart.com/",
+            "display_url": "zajhra.deviantart.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 106,
+    "friends_count": 279,
+    "listed_count": 3,
+    "created_at": "Wed Feb 09 21:42:41 +0000 2011",
+    "favourites_count": 510,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3667,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DEDEDE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/761767247/8ed7b23eab2cafa9eaf1068b98ccc7d5.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/761767247/8ed7b23eab2cafa9eaf1068b98ccc7d5.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3197811791/b7a521cdda6fa744b154ac7f9a291bd8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3197811791/b7a521cdda6fa744b154ac7f9a291bd8_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/249831540/1356262643",
+    "profile_link_color": "FF0505",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "moríostodos",
+        "indices": [
+          72,
+          84
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

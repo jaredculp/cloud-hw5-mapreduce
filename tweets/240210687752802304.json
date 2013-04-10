@@ -1,0 +1,102 @@
+{
+  "created_at": "Mon Aug 27 22:14:25 +0000 2012",
+  "id": 240210687752802304,
+  "id_str": "240210687752802304",
+  "text": "Wahoowa! MT @UVa_Alumni: If we get 6,000 followers by Friday, 4 followers will get an awesome #UVA gnome ornament! http://t.co/brYEIwGj RT!",
+  "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 537512335,
+    "id_str": "537512335",
+    "name": "Dharma George",
+    "screen_name": "DharmaDG",
+    "location": "Washington, DC",
+    "description": "my loves: dogs (adopt!), cooking, craft beer, the great outdoors, travel, optimism.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 109,
+    "friends_count": 275,
+    "listed_count": 1,
+    "created_at": "Mon Mar 26 19:58:33 +0000 2012",
+    "favourites_count": 154,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 422,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F0F0D7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/609656170/x4b9e4b185a3a05a23034ec40386b253.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/609656170/x4b9e4b185a3a05a23034ec40386b253.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1964566584/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1964566584/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/537512335/1348264357",
+    "profile_link_color": "EF311C",
+    "profile_sidebar_border_color": "F2F0E4",
+    "profile_sidebar_fill_color": "CCEFE6",
+    "profile_text_color": "F0F0E4",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          94,
+          98
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/brYEIwGj",
+        "expanded_url": "http://ow.ly/i/SQlg",
+        "display_url": "ow.ly/i/SQlg",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          12,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

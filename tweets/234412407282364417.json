@@ -1,0 +1,112 @@
+{
+  "created_at": "Sat Aug 11 22:14:07 +0000 2012",
+  "id": 234412407282364417,
+  "id_str": "234412407282364417",
+  "text": "#uva #fondue frutas para fondue hoje a noite http://t.co/2Mi5XXBZ",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 216850858,
+    "id_str": "216850858",
+    "name": "Luiza Alves",
+    "screen_name": "ldutraalves",
+    "location": "Brasil",
+    "description": "I'm a Mahomie,16 years old",
+    "url": "http://www.keek.com/LuAlves",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.keek.com/LuAlves",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 617,
+    "friends_count": 1222,
+    "listed_count": 1,
+    "created_at": "Wed Nov 17 22:04:54 +0000 2010",
+    "favourites_count": 1462,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5855,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/530500848/e.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/530500848/e.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3090694863/e9ad5e6aebbb31a1837341060e3b6691_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3090694863/e9ad5e6aebbb31a1837341060e3b6691_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/216850858/1357851042",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "fondue",
+        "indices": [
+          5,
+          12
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/2Mi5XXBZ",
+        "expanded_url": "http://instagr.am/p/ONEPPUDqeT/",
+        "display_url": "instagr.am/p/ONEPPUDqeT/",
+        "indices": [
+          45,
+          65
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

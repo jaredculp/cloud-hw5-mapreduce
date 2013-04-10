@@ -1,0 +1,118 @@
+{
+  "created_at": "Wed Jun 20 12:58:18 +0000 2012",
+  "id": 215428362213134336,
+  "id_str": "215428362213134336",
+  "text": "Hah! RT @tigerljily BREAKING: #UVA #BOV agrees to keep Classics Dept if they agree to cut Latin declensions from five to three #streamlining",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215322889161940994,
+  "in_reply_to_status_id_str": "215322889161940994",
+  "in_reply_to_user_id": 22292430,
+  "in_reply_to_user_id_str": "22292430",
+  "in_reply_to_screen_name": "tigerljily",
+  "user": {
+    "id": 15072475,
+    "id_str": "15072475",
+    "name": "Julia Hayden",
+    "screen_name": "julenesque",
+    "location": "Crozet, VA",
+    "description": "artist, antiques dealer, & professional gadabout - known most places as julen.  |   Also at julen.etsy.com",
+    "url": "http://julen.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://julen.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 296,
+    "friends_count": 261,
+    "listed_count": 30,
+    "created_at": "Tue Jun 10 12:28:09 +0000 2008",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4047,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E7E4D5",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/450434218/x0091cf43410c541fec303eeac965c1a.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/450434218/x0091cf43410c541fec303eeac965c1a.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1339367735/bunnytile_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1339367735/bunnytile_normal",
+    "profile_link_color": "F70C0F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "18130B",
+    "profile_text_color": "FFF3DB",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          30,
+          34
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          35,
+          39
+        ]
+      },
+      {
+        "text": "streamlining",
+        "indices": [
+          127,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "tigerljily",
+        "name": "Highway Llama",
+        "id": 22292430,
+        "id_str": "22292430",
+        "indices": [
+          8,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

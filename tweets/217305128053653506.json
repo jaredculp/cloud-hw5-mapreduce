@@ -1,0 +1,121 @@
+{
+  "created_at": "Mon Jun 25 17:15:54 +0000 2012",
+  "id": 217305128053653506,
+  "id_str": "217305128053653506",
+  "text": "RT @cavalierdaily: Darden Dean @Bob_Bruner responds to @WSJ #UVA editorial http://t.co/90eR8DwF",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19733804,
+    "id_str": "19733804",
+    "name": "anne hedgepeth",
+    "screen_name": "anneblair",
+    "location": "Washington, DC ",
+    "description": "Proud @CollegiateRVA & @DavidsonCollege grad turned nonprofit gov't relations mgr and @MasonPolicy student. I anxiously anticipate sundress season every year.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 327,
+    "friends_count": 290,
+    "listed_count": 14,
+    "created_at": "Thu Jan 29 20:55:50 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6968,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/4582335/photo.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/4582335/photo.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2807098318/0e5a86aa80327d0887806f3b6991ade5_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2807098318/0e5a86aa80327d0887806f3b6991ade5_normal.jpeg",
+    "profile_link_color": "0635EF",
+    "profile_sidebar_border_color": "ED0736",
+    "profile_sidebar_fill_color": "FBFC79",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          60,
+          64
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/90eR8DwF",
+        "expanded_url": "http://bit.ly/LvrQy6",
+        "display_url": "bit.ly/LvrQy6",
+        "indices": [
+          75,
+          95
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          3,
+          17
+        ]
+      },
+      {
+        "screen_name": "Bob_Bruner",
+        "name": "Bob_Bruner",
+        "id": 15407235,
+        "id_str": "15407235",
+        "indices": [
+          31,
+          42
+        ]
+      },
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          55,
+          59
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

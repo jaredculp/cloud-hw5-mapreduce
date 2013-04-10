@@ -1,0 +1,247 @@
+{
+  "created_at": "Fri Jun 22 17:22:25 +0000 2012",
+  "id": 216219603557289985,
+  "id_str": "216219603557289985",
+  "text": "RT @kdneville: @CvilleNewscom  Received reply from @pmorici1 \"I have absolutely no relationship with any interested party.\" #UVA #sulliv ...",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 52553230,
+    "id_str": "52553230",
+    "name": "cvillenews.com",
+    "screen_name": "cvillenewscom",
+    "location": "Charlottesville, VA",
+    "description": "Charlottesville news tweetage. Maintained by @waldojaquith.",
+    "url": "http://www.cvillenews.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cvillenews.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1171,
+    "friends_count": 17,
+    "listed_count": 79,
+    "created_at": "Tue Jun 30 23:04:41 +0000 2009",
+    "favourites_count": 32,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1386,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/291110792/waldo_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/291110792/waldo_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Jun 22 13:21:34 +0000 2012",
+    "id": 216158990952955904,
+    "id_str": "216158990952955904",
+    "text": "@CvilleNewscom  Received reply from @pmorici1 \"I have absolutely no relationship with any interested party.\" #UVA #sullivan #rally4honor",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 52553230,
+    "in_reply_to_user_id_str": "52553230",
+    "in_reply_to_screen_name": "cvillenewscom",
+    "user": {
+      "id": 14227466,
+      "id_str": "14227466",
+      "name": "Katie Neville",
+      "screen_name": "kdneville",
+      "location": "Northern Virginia",
+      "description": "Mom, wife, teacher, grandmom, sister, friend, iTRT, bibliophile,  Cradle Episcopalian, Democrat, dog lover, Redskins fan, Apple Evangelist, vegetarian.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 343,
+      "friends_count": 684,
+      "listed_count": 10,
+      "created_at": "Wed Mar 26 16:54:31 +0000 2008",
+      "favourites_count": 11,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2509,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/737905000/fa297f845a156aeb3e81555478968c3d.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/737905000/fa297f845a156aeb3e81555478968c3d.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/631633572/twitterProfilePhoto_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/631633572/twitterProfilePhoto_normal.jpg",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVA",
+          "indices": [
+            109,
+            113
+          ]
+        },
+        {
+          "text": "sullivan",
+          "indices": [
+            114,
+            123
+          ]
+        },
+        {
+          "text": "rally4honor",
+          "indices": [
+            124,
+            136
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cvillenewscom",
+          "name": "cvillenews.com",
+          "id": 52553230,
+          "id_str": "52553230",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "PMorici1",
+          "name": "Peter Morici",
+          "id": 332817280,
+          "id_str": "332817280",
+          "indices": [
+            36,
+            45
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          124,
+          128
+        ]
+      },
+      {
+        "text": "sulliv",
+        "indices": [
+          129,
+          136
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kdneville",
+        "name": "Katie Neville",
+        "id": 14227466,
+        "id_str": "14227466",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "cvillenewscom",
+        "name": "cvillenews.com",
+        "id": 52553230,
+        "id_str": "52553230",
+        "indices": [
+          15,
+          29
+        ]
+      },
+      {
+        "screen_name": "PMorici1",
+        "name": "Peter Morici",
+        "id": 332817280,
+        "id_str": "332817280",
+        "indices": [
+          51,
+          60
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 20:12:40 +0000 2012",
+  "id": 217712000174796800,
+  "id_str": "217712000174796800",
+  "text": "It's not just President Sullivan reinstated at #UVA, but right priorities for the kind of society we want to cultivate: http://t.co/mDIqys42",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 31503949,
+    "id_str": "31503949",
+    "name": "Anna Clark",
+    "screen_name": "annaleighclark",
+    "location": "Detroit, Michigan",
+    "description": "Journalist, writer, educator, blogger, and a bookish but outdoorsy sensibility.",
+    "url": "http://www.annaclark.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.annaclark.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2209,
+    "friends_count": 978,
+    "listed_count": 127,
+    "created_at": "Wed Apr 15 20:09:29 +0000 2009",
+    "favourites_count": 47,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9503,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2723436113/9986e2a654631df84ed5af9c3f16d918_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2723436113/9986e2a654631df84ed5af9c3f16d918_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/mDIqys42",
+        "expanded_url": "http://wapo.st/NIWmoA",
+        "display_url": "wapo.st/NIWmoA",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

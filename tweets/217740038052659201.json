@@ -1,0 +1,121 @@
+{
+  "created_at": "Tue Jun 26 22:04:05 +0000 2012",
+  "id": 217740038052659201,
+  "id_str": "217740038052659201",
+  "text": "\" #UniversityOfVirginia Reinstates Ousted President\" - http://t.co/LRqsBYVJ (via @NYTimes) #UVA",
+  "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16912954,
+    "id_str": "16912954",
+    "name": "Elan Schnitzer",
+    "screen_name": "Schnitzer",
+    "location": "NYC ex-pat based in DC",
+    "description": "Communications and PR guy.  Bleeding-heart lib, with a healthy dose of righteous indignation.  Little bit of an information fiend.  Wordsmith.",
+    "url": "http://www.About.me/Schnitzer",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.About.me/Schnitzer",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 668,
+    "friends_count": 644,
+    "listed_count": 26,
+    "created_at": "Wed Oct 22 21:13:14 +0000 2008",
+    "favourites_count": 44,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 20037,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3177280500/cd76c994764f893a266d322bb1af2f1c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3177280500/cd76c994764f893a266d322bb1af2f1c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/16912954/1348278432",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UniversityOfVirginia",
+        "indices": [
+          2,
+          23
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/LRqsBYVJ",
+        "expanded_url": "http://nyti.ms/LzXpa2",
+        "display_url": "nyti.ms/LzXpa2",
+        "indices": [
+          55,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nytimes",
+        "name": "The New York Times",
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          81,
+          89
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

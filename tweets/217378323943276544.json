@@ -1,0 +1,123 @@
+{
+  "created_at": "Mon Jun 25 22:06:45 +0000 2012",
+  "id": 217378323943276544,
+  "id_str": "217378323943276544",
+  "text": "@mikepetroff @alumnifutures So am I...Andy's insights needed soon! ps: C 5,500 responses from #UVa alums to BOV office http://t.co/ASBodepp",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217376414595424256,
+  "in_reply_to_status_id_str": "217376414595424256",
+  "in_reply_to_user_id": 12931202,
+  "in_reply_to_user_id_str": "12931202",
+  "in_reply_to_screen_name": "mikepetroff",
+  "user": {
+    "id": 20961822,
+    "id_str": "20961822",
+    "name": "GlobalHigherEd",
+    "screen_name": "GlobalHigherEd",
+    "location": "Madison, WI/USA",
+    "description": "Kris Olds (co-editor of GlobalHigherEd). Interests: globalization of higher ed & research; global networks; urban studies. Profiling & RTs ≠ endorsement.",
+    "url": "http://krisolds.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://krisolds.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7345,
+    "friends_count": 2588,
+    "listed_count": 487,
+    "created_at": "Mon Feb 16 04:13:31 +0000 2009",
+    "favourites_count": 280,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7860,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/64601593/London.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/64601593/London.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3083037448/6363df97765d89a248dc5b82aac96ded_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3083037448/6363df97765d89a248dc5b82aac96ded_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          94,
+          98
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ASBodepp",
+        "expanded_url": "http://yfrog.com/oeejuloj",
+        "display_url": "yfrog.com/oeejuloj",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mikepetroff",
+        "name": "Mike Petroff",
+        "id": 12931202,
+        "id_str": "12931202",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "alumnifutures",
+        "name": "Andy Shaindlin",
+        "id": 14981525,
+        "id_str": "14981525",
+        "indices": [
+          13,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

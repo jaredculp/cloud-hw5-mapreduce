@@ -1,0 +1,130 @@
+{
+  "created_at": "Fri Jun 29 20:10:13 +0000 2012",
+  "id": 218798547447988224,
+  "id_str": "218798547447988224",
+  "text": "What bullshit. RT @dp_citybeat: McDonnell says Dragas and others bring \"inquiry, critical thinking and change\" to the table on #UVa board",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 64070349,
+    "id_str": "64070349",
+    "name": "Trent M Kays",
+    "screen_name": "trentmkays",
+    "location": "MN | CA | Online",
+    "description": "Writer, teacher, agitator, & Rhetoric PhD student.\r\n\r\nOpinions (often blunt) are my own. Not rude, just direct. Follow at your own peril.\r\n\r\nI aim to misbehave.",
+    "url": "http://t.co/w3UgBVsu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/w3UgBVsu",
+            "expanded_url": "http://about.me/trentmkays",
+            "display_url": "about.me/trentmkays",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1063,
+    "friends_count": 876,
+    "listed_count": 102,
+    "created_at": "Sun Aug 09 00:03:20 +0000 2009",
+    "favourites_count": 3237,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 48065,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/764331333/3b417bd1c8287676018b72c806d77b01.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/764331333/3b417bd1c8287676018b72c806d77b01.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3137289233/a832d9adad3c59ff2b887987d8ae138e_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3137289233/a832d9adad3c59ff2b887987d8ae138e_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/64070349/1357617712",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "8e9665cec9370f0f",
+    "url": "https://api.twitter.com/1.1/geo/id/8e9665cec9370f0f.json",
+    "place_type": "city",
+    "name": "Minneapolis",
+    "full_name": "Minneapolis, MN",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -93.329163,
+            44.890144
+          ],
+          [
+            -93.193794,
+            44.890144
+          ],
+          [
+            -93.193794,
+            45.05125
+          ],
+          [
+            -93.329163,
+            45.05125
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          127,
+          131
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

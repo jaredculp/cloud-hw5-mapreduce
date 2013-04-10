@@ -1,0 +1,105 @@
+{
+  "created_at": "Mon Aug 20 05:48:43 +0000 2012",
+  "id": 237425912545701889,
+  "id_str": "237425912545701889",
+  "text": "@ElenaRoppa sveglia all'alba? E' vero che Chi dorme non piglia #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 237422832726994944,
+  "in_reply_to_status_id_str": "237422832726994944",
+  "in_reply_to_user_id": 237692888,
+  "in_reply_to_user_id_str": "237692888",
+  "in_reply_to_screen_name": "ElenaRoppa",
+  "user": {
+    "id": 93015508,
+    "id_str": "93015508",
+    "name": "Enrico Cerrato",
+    "screen_name": "EnricoWineAsia",
+    "location": "Hong Kong, Thailand",
+    "description": "Wine Judge, Brand Management, F&B StartUp Consultant, but most of all a Gourmet Traveller\r\nLinkedin: http://linkd.in/hsbuZR \r\nFacebook: http://ow.ly/dyGaN  ",
+    "url": "http://italianqualityclub.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://italianqualityclub.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 529,
+    "friends_count": 813,
+    "listed_count": 16,
+    "created_at": "Fri Nov 27 17:56:15 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": 25200,
+    "time_zone": "Bangkok",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 983,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DEE3F7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/653851556/uaf82rkoz9nij7mrrf9c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/653851556/uaf82rkoz9nij7mrrf9c.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1462971779/FB_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1462971779/FB_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/93015508/1349766529",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          63,
+          67
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ElenaRoppa",
+        "name": "Elena Roppa",
+        "id": 237692888,
+        "id_str": "237692888",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

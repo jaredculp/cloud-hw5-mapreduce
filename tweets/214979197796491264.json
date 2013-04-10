@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 19 07:13:29 +0000 2012",
+  "id": 214979197796491264,
+  "id_str": "214979197796491264",
+  "text": "@HelenDragas perhaps you should care more about what the people who actually know about higher education think. #listentothecommunity",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 612252466,
+  "in_reply_to_user_id_str": "612252466",
+  "in_reply_to_screen_name": "HelenDragas",
+  "user": {
+    "id": 143991014,
+    "id_str": "143991014",
+    "name": "Brian Rosenwald",
+    "screen_name": "brianros1",
+    "location": "Philadelphia",
+    "description": "Political historian. Penn grad. Philly sports diehard. Political buff. Dog lover. ",
+    "url": "http://www.virginia.edu/history/user/281",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginia.edu/history/user/281",
+            "expanded_url": null,
+            "indices": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 147,
+    "friends_count": 584,
+    "listed_count": 3,
+    "created_at": "Sat May 15 00:38:30 +0000 2010",
+    "favourites_count": 5,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11450,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1591785545/phillies_logo_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1591785545/phillies_logo_normal.gif",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "listentothecommunity",
+        "indices": [
+          112,
+          133
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HelenDragas",
+        "name": "Helen Dragas",
+        "id": 612252466,
+        "id_str": "612252466",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

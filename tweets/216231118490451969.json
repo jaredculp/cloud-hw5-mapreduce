@@ -1,0 +1,108 @@
+{
+  "created_at": "Fri Jun 22 18:08:10 +0000 2012",
+  "id": 216231118490451969,
+  "id_str": "216231118490451969",
+  "text": "@LarrySabato I hope you'll invite @SenMarkHerring to Address Gov't 101 next Fall, he showed great leadership today.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 252766425,
+    "id_str": "252766425",
+    "name": "Evan Macbeth",
+    "screen_name": "Paradox13VA",
+    "location": "Leesburg, Viginia",
+    "description": "Loudoun County Democratic Chair.\r\nWorking on it.",
+    "url": "http://www.loudoundemocrats.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.loudoundemocrats.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 247,
+    "friends_count": 303,
+    "listed_count": 11,
+    "created_at": "Tue Feb 15 21:32:38 +0000 2011",
+    "favourites_count": 104,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4848,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/579752154/h33rm1fneuc5cp0tn34k.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/579752154/h33rm1fneuc5cp0tn34k.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2866374899/1b1515cc058bddc46116600a9264fd21_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2866374899/1b1515cc058bddc46116600a9264fd21_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "SenMarkHerring",
+        "name": "Mark Herring",
+        "id": 205299497,
+        "id_str": "205299497",
+        "indices": [
+          34,
+          49
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

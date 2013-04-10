@@ -1,0 +1,110 @@
+{
+  "created_at": "Fri Jun 22 20:31:00 +0000 2012",
+  "id": 216267062664900608,
+  "id_str": "216267062664900608",
+  "text": "@SenMarkHerring ‘shocked’ and ‘deeply concerned’ over UVA situation | http://t.co/GT04Nuoy: http://t.co/ZmkJhdxS #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 205299497,
+  "in_reply_to_user_id_str": "205299497",
+  "in_reply_to_screen_name": "SenMarkHerring",
+  "user": {
+    "id": 333160768,
+    "id_str": "333160768",
+    "name": "Trevor W. Baratko",
+    "screen_name": "writewinewomen",
+    "location": "Northern Virginia",
+    "description": "old-school journo. OH- , SC- and VA- affiliated. wine happens. I am the owner of my opinions, which are always spot on.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 321,
+    "friends_count": 317,
+    "listed_count": 8,
+    "created_at": "Mon Jul 11 02:46:06 +0000 2011",
+    "favourites_count": 11,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2909,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1903538220/hemingway_drinking_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1903538220/hemingway_drinking_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          113,
+          117
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/GT04Nuoy",
+        "expanded_url": "http://LoudounTimes.com",
+        "display_url": "LoudounTimes.com",
+        "indices": [
+          70,
+          90
+        ]
+      },
+      {
+        "url": "http://t.co/ZmkJhdxS",
+        "expanded_url": "http://bit.ly/MKR1w5",
+        "display_url": "bit.ly/MKR1w5",
+        "indices": [
+          92,
+          112
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SenMarkHerring",
+        "name": "Mark Herring",
+        "id": 205299497,
+        "id_str": "205299497",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

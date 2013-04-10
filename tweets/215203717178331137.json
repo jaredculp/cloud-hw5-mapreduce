@@ -1,0 +1,102 @@
+{
+  "created_at": "Tue Jun 19 22:05:39 +0000 2012",
+  "id": 215203717178331137,
+  "id_str": "215203717178331137",
+  "text": "Bored? Follow #UVA. It's a never-ending, ever-evolving story. #revisedmystoryfivetimestoday",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21786220,
+    "id_str": "21786220",
+    "name": "Katie Watson",
+    "screen_name": "kathrynw5",
+    "location": "Alexandria, VA / D.C.",
+    "description": "Investigative reporter @WatchdogVA. Diet Coke drinker. Christ follower. My views are expressly my own. \r\n",
+    "url": "http://watchdog.org/category/virginia/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://watchdog.org/category/virginia/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 242,
+    "friends_count": 220,
+    "listed_count": 8,
+    "created_at": "Tue Feb 24 19:27:04 +0000 2009",
+    "favourites_count": 88,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 937,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2837686589/7ab527e762867830c6bdd9f747ad0555_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2837686589/7ab527e762867830c6bdd9f747ad0555_normal.jpeg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          14,
+          18
+        ]
+      },
+      {
+        "text": "revisedmystoryfivetimestoday",
+        "indices": [
+          62,
+          91
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

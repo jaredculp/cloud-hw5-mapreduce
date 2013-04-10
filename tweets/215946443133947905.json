@@ -1,0 +1,124 @@
+{
+  "created_at": "Thu Jun 21 23:16:58 +0000 2012",
+  "id": 215946443133947905,
+  "id_str": "215946443133947905",
+  "text": "RT @tana_johnson: Too late? RT @NBC12: BREAKING: #UVA to consider reinstating ousted president\nhttp://t.co/u9zVbDEV",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 349492767,
+    "id_str": "349492767",
+    "name": "Mickey White",
+    "screen_name": "NYMSkinCare",
+    "location": "Central Virginia",
+    "description": "Always looking for Energetic Partners to join me at Rodan+Fields.  Unapologetic Capitalist. #SteelerNation\r\n. ",
+    "url": "http://NotYourMothersSkinCare.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://NotYourMothersSkinCare.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1538,
+    "friends_count": 1964,
+    "listed_count": 38,
+    "created_at": "Sat Aug 06 05:32:08 +0000 2011",
+    "favourites_count": 44,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 21066,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DBE9ED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/335563538/R_F_logo_with_products.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/335563538/R_F_logo_with_products.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2506591440/y62irhq1dcl56y46j2k3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2506591440/y62irhq1dcl56y46j2k3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/349492767/1349786824",
+    "profile_link_color": "CC3366",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          49,
+          53
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/u9zVbDEV",
+        "expanded_url": "http://po.st/kBWyaI",
+        "display_url": "po.st/kBWyaI",
+        "indices": [
+          95,
+          115
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Tana_Johnson",
+        "name": "T'ana M. Johnson",
+        "id": 377033020,
+        "id_str": "377033020",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "NBC12",
+        "name": "NBC12 WWBT Richmond",
+        "id": 19151000,
+        "id_str": "19151000",
+        "indices": [
+          31,
+          37
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

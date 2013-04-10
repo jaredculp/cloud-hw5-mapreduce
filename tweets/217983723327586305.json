@@ -1,0 +1,122 @@
+{
+  "created_at": "Wed Jun 27 14:12:24 +0000 2012",
+  "id": 217983723327586305,
+  "id_str": "217983723327586305",
+  "text": "CaRTOON: Masters of the Universe-ity http://t.co/p1PbPbRs #uva @johnedwinmason",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22800820,
+    "id_str": "22800820",
+    "name": "Jason Crane",
+    "screen_name": "JasonDCrane",
+    "location": "Auburn, AL",
+    "description": "Poet & interviewer. I host The Jason Crane Show, a show about arts & culture, Saturdays at 10 am CT/11 am ET:  http://t.co/mkFA2D8N.",
+    "url": "http://jasoncrane.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://jasoncrane.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/mkFA2D8N",
+            "expanded_url": "http://craneshow.com",
+            "display_url": "craneshow.com",
+            "indices": [
+              111,
+              131
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2799,
+    "friends_count": 283,
+    "listed_count": 183,
+    "created_at": "Wed Mar 04 17:09:30 +0000 2009",
+    "favourites_count": 18,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 29805,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/671178984/5f65d7d1050c7f4a2a2aaf384d520ef0.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/671178984/5f65d7d1050c7f4a2a2aaf384d520ef0.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3088211129/e30a7e83ba635b75b127ca2befa42de8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3088211129/e30a7e83ba635b75b127ca2befa42de8_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/22800820/1355291852",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EAEBED",
+    "profile_text_color": "290505",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          58,
+          62
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/p1PbPbRs",
+        "expanded_url": "http://bit.ly/NMUuv4",
+        "display_url": "bit.ly/NMUuv4",
+        "indices": [
+          37,
+          57
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "johnedwinmason",
+        "name": "John Edwin Mason",
+        "id": 25343700,
+        "id_str": "25343700",
+        "indices": [
+          63,
+          78
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

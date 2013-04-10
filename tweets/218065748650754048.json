@@ -1,0 +1,120 @@
+{
+  "created_at": "Wed Jun 27 19:38:20 +0000 2012",
+  "id": 218065748650754048,
+  "id_str": "218065748650754048",
+  "text": "Great piece by @sivavaid  http://t.co/xY9F5Zh9  #UVA and #highered",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29606788,
+    "id_str": "29606788",
+    "name": "Abigail Holeman",
+    "screen_name": "ALHoleman",
+    "location": "",
+    "description": "Archaeologist, etc.",
+    "url": "http://www.chacoarchive.org/cra/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.chacoarchive.org/cra/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 36,
+    "friends_count": 97,
+    "listed_count": 3,
+    "created_at": "Wed Apr 08 01:43:22 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 284,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1064463109/brideoffrankenstein_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1064463109/brideoffrankenstein_normal.jpg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          48,
+          52
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          57,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xY9F5Zh9",
+        "expanded_url": "http://www.slate.com/articles/news_and_politics/politics/2012/06/teresa_sullivan_reinstated_as_the_president_of_the_university_of_virginia_.html",
+        "display_url": "slate.com/articles/news_…",
+        "indices": [
+          26,
+          46
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          15,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

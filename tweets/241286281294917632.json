@@ -1,0 +1,105 @@
+{
+  "created_at": "Thu Aug 30 21:28:27 +0000 2012",
+  "id": 241286281294917632,
+  "id_str": "241286281294917632",
+  "text": "Say word?! RT @SkeezeCorleone: #UVA life..",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29311994,
+    "id_str": "29311994",
+    "name": "•Da Special List•",
+    "screen_name": "hisHIGHnesss",
+    "location": "Where aint shit to do but COOK",
+    "description": "::visualizin' the REALism of LIFE in actuality::\n#SmackBoy\n",
+    "url": "http://www.DONTgetGassed.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.DONTgetGassed.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1050,
+    "friends_count": 921,
+    "listed_count": 28,
+    "created_at": "Mon Apr 06 22:32:34 +0000 2009",
+    "favourites_count": 34,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 47059,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409893948/freshprince.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409893948/freshprince.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3158428830/fbc0d789519e18fed210c70885a0167d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3158428830/fbc0d789519e18fed210c70885a0167d_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/29311994/1351651341",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "FF0000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SkeezeCorleone",
+        "name": "Skeeze",
+        "id": 164406727,
+        "id_str": "164406727",
+        "indices": [
+          14,
+          29
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

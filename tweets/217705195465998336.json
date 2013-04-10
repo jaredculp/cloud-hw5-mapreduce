@@ -1,0 +1,155 @@
+{
+  "created_at": "Tue Jun 26 19:45:38 +0000 2012",
+  "id": 217705195465998336,
+  "id_str": "217705195465998336",
+  "text": "Excellent! RT @chronicle Teresa Sullivan is reinstated at #UVa: http://t.co/0O4aBKK0 Complete coverage: http://t.co/1QspxF22",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 34975338,
+    "id_str": "34975338",
+    "name": "Elisabeth Jones",
+    "screen_name": "eaj6",
+    "location": "Ann Arbor, MI",
+    "description": "PhD Candidate, Information School, University of Washington; Postdoctoral Research Associate, University of Michigan Libraries (why not do it all at once?)",
+    "url": "http://elisabethjones.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://elisabethjones.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 153,
+    "friends_count": 126,
+    "listed_count": 19,
+    "created_at": "Fri Apr 24 16:54:06 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 430,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/181263778/PinkBlueWaterfallMe_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/181263778/PinkBlueWaterfallMe_normal.jpg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "de599025180e2ee7",
+    "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json",
+    "place_type": "admin",
+    "name": "Ohio",
+    "full_name": "Ohio, US",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -84.820305,
+            38.403423
+          ],
+          [
+            -80.518454,
+            38.403423
+          ],
+          [
+            -80.518454,
+            42.327132
+          ],
+          [
+            -84.820305,
+            42.327132
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          58,
+          62
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/0O4aBKK0",
+        "expanded_url": "http://chroni.cl/QdqIiN",
+        "display_url": "chroni.cl/QdqIiN",
+        "indices": [
+          64,
+          84
+        ]
+      },
+      {
+        "url": "http://t.co/1QspxF22",
+        "expanded_url": "http://chroni.cl/Mwk9Y8",
+        "display_url": "chroni.cl/Mwk9Y8",
+        "indices": [
+          104,
+          124
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          14,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

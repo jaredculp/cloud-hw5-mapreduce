@@ -1,0 +1,121 @@
+{
+  "created_at": "Wed Jun 20 23:23:46 +0000 2012",
+  "id": 215585763881005058,
+  "id_str": "215585763881005058",
+  "text": "The @UVAFacultySen has continued its resistance, e.g. with tweeting:\"#UVA June 20 Lawn Vigil - not giving up!\" https://t.co/BAZs4ZBm",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 176371696,
+    "id_str": "176371696",
+    "name": "Alex Holcombe",
+    "screen_name": "ceptional",
+    "location": "Sydney, Australia",
+    "description": "Science is broken. Let's fix it. @NZAUOpenRes, @PsychFileDrawer,  http://t.co/LOdkzEw5, @EvidenceChart",
+    "url": "http://www.psych.usyd.edu.au/staff/alexh/lab/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.psych.usyd.edu.au/staff/alexh/lab/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              45
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/LOdkzEw5",
+            "expanded_url": "http://www.youtube.com/watch?v=GMIY_4t-DR0",
+            "display_url": "youtube.com/watch?v=GMIY_4…",
+            "indices": [
+              66,
+              86
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 775,
+    "friends_count": 714,
+    "listed_count": 61,
+    "created_at": "Mon Aug 09 10:37:26 +0000 2010",
+    "favourites_count": 119,
+    "utc_offset": 36000,
+    "time_zone": "Sydney",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2710,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/276790498/Screen_shot_2011-06-24_at_8.07.14_PM.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/276790498/Screen_shot_2011-06-24_at_8.07.14_PM.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1859605937/9263df19-fb4b-4321-9a55-b2d371aa830e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1859605937/9263df19-fb4b-4321-9a55-b2d371aa830e_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          69,
+          73
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/BAZs4ZBm",
+        "expanded_url": "https://twitter.com/UVAFacultySen/status/215572029934538752/photo/1",
+        "display_url": "pic.twitter.com/BAZs4ZBm",
+        "indices": [
+          111,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVAFacultySen",
+        "name": "UVA Faculty Senate",
+        "id": 613796706,
+        "id_str": "613796706",
+        "indices": [
+          4,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,130 @@
+{
+  "created_at": "Fri Jun 29 21:20:56 +0000 2012",
+  "id": 218816343431053314,
+  "id_str": "218816343431053314",
+  "text": "@bobmcdonnell reappointed Helen Dragas to #BOV @UVA. #FAIL http://t.co/0GrzFCB2",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 14738157,
+  "in_reply_to_user_id_str": "14738157",
+  "in_reply_to_screen_name": "BobMcDonnell",
+  "user": {
+    "id": 15324883,
+    "id_str": "15324883",
+    "name": "Polichicks",
+    "screen_name": "Polichicks",
+    "location": "Washington D.C.",
+    "description": "The It Girl's Guide to Politics (Just Enough to Get By at a Cocktail Party). Tweets are not endorsements. Polichicks is a registered trademark. Rights reserved.",
+    "url": "http://www.PolichicksOnline.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.PolichicksOnline.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1174,
+    "friends_count": 1048,
+    "listed_count": 57,
+    "created_at": "Sat Jul 05 11:26:33 +0000 2008",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2992,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/56243420/polichicks_girl_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/56243420/polichicks_girl_normal.jpg",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          42,
+          46
+        ]
+      },
+      {
+        "text": "FAIL",
+        "indices": [
+          53,
+          58
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/0GrzFCB2",
+        "expanded_url": "http://tinyurl.com/7gz9f4p",
+        "display_url": "tinyurl.com/7gz9f4p",
+        "indices": [
+          59,
+          79
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

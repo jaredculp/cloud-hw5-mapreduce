@@ -1,0 +1,84 @@
+{
+  "created_at": "Tue Jun 26 19:33:40 +0000 2012",
+  "id": 217702186136780800,
+  "id_str": "217702186136780800",
+  "text": "#UVA is trending. like a boss",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 90018301,
+    "id_str": "90018301",
+    "name": "Stiles Stilinski ⚽",
+    "screen_name": "John_Copelander",
+    "location": "",
+    "description": "If you're reading this in a british accent, it will make me sound 10x smarter.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 318,
+    "friends_count": 361,
+    "listed_count": 2,
+    "created_at": "Sat Nov 14 20:51:00 +0000 2009",
+    "favourites_count": 1037,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15331,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3104418740/b1553d03f3e7ee55ff89b2f5299681a7_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3104418740/b1553d03f3e7ee55ff89b2f5299681a7_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/90018301/1358621105",
+    "profile_link_color": "BD202D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

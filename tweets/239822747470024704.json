@@ -1,0 +1,129 @@
+{
+  "created_at": "Sun Aug 26 20:32:53 +0000 2012",
+  "id": 239822747470024704,
+  "id_str": "239822747470024704",
+  "text": "In Virginia for the night hope the lady cavilers are ready #UVA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 54756769,
+    "id_str": "54756769",
+    "name": "Chris Donofrio",
+    "screen_name": "dnof781",
+    "location": "Boston Ma",
+    "description": "Lax ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 223,
+    "friends_count": 431,
+    "listed_count": 0,
+    "created_at": "Wed Jul 08 01:42:12 +0000 2009",
+    "favourites_count": 312,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2066,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "A0A793",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/432198452/x8003f7b1f5c83d95a8cad6a0a3aba8c.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/432198452/x8003f7b1f5c83d95a8cad6a0a3aba8c.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2030856399/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2030856399/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/54756769/1359307441",
+    "profile_link_color": "696E60",
+    "profile_sidebar_border_color": "163652",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "979E8A",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      37.00517773,
+      -79.3558961
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -79.3558961,
+      37.00517773
+    ]
+  },
+  "place": {
+    "id": "f5a5411179272c70",
+    "url": "https://api.twitter.com/1.1/geo/id/f5a5411179272c70.json",
+    "place_type": "city",
+    "name": "Staunton River",
+    "full_name": "Staunton River, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -79.441002,
+            36.936775
+          ],
+          [
+            -79.10546,
+            36.936775
+          ],
+          [
+            -79.10546,
+            37.137454
+          ],
+          [
+            -79.441002,
+            37.137454
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          59,
+          63
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

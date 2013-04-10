@@ -1,0 +1,114 @@
+{
+  "created_at": "Sun Jun 24 06:02:51 +0000 2012",
+  "id": 216773363010502656,
+  "id_str": "216773363010502656",
+  "text": "As #UVa ripples outwards, here's a calm and inspiring vision for the connected campus community, from @jimgroom: http://t.co/aCGFE1iN",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 379065166,
+    "id_str": "379065166",
+    "name": "Kate Bowles",
+    "screen_name": "KateMfD",
+    "location": "Australia",
+    "description": "Edtech, shared governance, intermittent edupunk.  Cinema audiences.  Still somehow working in Australian higher education.  Not always paying attention.",
+    "url": "http://musicfordeckchairs.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://musicfordeckchairs.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 699,
+    "friends_count": 328,
+    "listed_count": 43,
+    "created_at": "Sat Sep 24 09:18:58 +0000 2011",
+    "favourites_count": 205,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3134,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/427840083/Sand_photo_large.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/427840083/Sand_photo_large.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1557363696/Screen_shot_2011-09-24_at_7.36.20_PM_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1557363696/Screen_shot_2011-09-24_at_7.36.20_PM_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/379065166/1353926693",
+    "profile_link_color": "399BBF",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          3,
+          7
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/aCGFE1iN",
+        "expanded_url": "http://bit.ly/O2oLHm",
+        "display_url": "bit.ly/O2oLHm",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jimgroom",
+        "name": "Jim Groom",
+        "id": 3362981,
+        "id_str": "3362981",
+        "indices": [
+          102,
+          111
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,131 @@
+{
+  "created_at": "Wed Aug 08 15:26:32 +0000 2012",
+  "id": 233222670894919680,
+  "id_str": "233222670894919680",
+  "text": "RT @HuffPostCollege: RT @wpjenna: Another commenter says this of Strine at #UVA: \"He was hired to perform... http://t.co/acP7vKH7 ~vt #NSCS",
+  "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14585013,
+    "id_str": "14585013",
+    "name": "NSCS",
+    "screen_name": "NSCS",
+    "location": "Washington, DC",
+    "description": "Honor society for high achieving college students. We are listening and sharing the thoughts of our nearly 1 million members & 300 chapters across the US.",
+    "url": "http://www.nscs.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nscs.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4306,
+    "friends_count": 3942,
+    "listed_count": 126,
+    "created_at": "Tue Apr 29 14:12:20 +0000 2008",
+    "favourites_count": 97,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 16137,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9E0020",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/698095307/2727bfbf4fa71d422c94484d68f6e0f9.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/698095307/2727bfbf4fa71d422c94484d68f6e0f9.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2370092839/0hxing47lss515gd14ia_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2370092839/0hxing47lss515gd14ia_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14585013/1359050334",
+    "profile_link_color": "9E0020",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "AD8B3B",
+    "profile_text_color": "242323",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          75,
+          79
+        ]
+      },
+      {
+        "text": "NSCS",
+        "indices": [
+          134,
+          139
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/acP7vKH7",
+        "expanded_url": "http://dlvr.it/1z3yqp",
+        "display_url": "dlvr.it/1z3yqp",
+        "indices": [
+          109,
+          129
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HuffPostCollege",
+        "name": "HuffPost College",
+        "id": 101896529,
+        "id_str": "101896529",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          24,
+          32
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,115 @@
+{
+  "created_at": "Sat Jun 30 14:31:13 +0000 2012",
+  "id": 219075625221242881,
+  "id_str": "219075625221242881",
+  "text": "Oh my. RT @mishajcharles: Governor of Virginia reappoints #UVA board leader http://t.co/YGEpgFJU #corpgov #Highered",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17292415,
+    "id_str": "17292415",
+    "name": "Robert Herzog",
+    "screen_name": "HerzogIND",
+    "location": "Indianapolis",
+    "description": "HigherEd, finance, technology, & public policy. Change agent. Student advocate. Wine & social media.  Twins fan. Father of two, husband of one. Opinions my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1917,
+    "friends_count": 1454,
+    "listed_count": 52,
+    "created_at": "Mon Nov 10 19:03:15 +0000 2008",
+    "favourites_count": 549,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 12741,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/198893557/twitter1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/198893557/twitter1.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2551127399/HerzogIND_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2551127399/HerzogIND_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          58,
+          62
+        ]
+      },
+      {
+        "text": "corpgov",
+        "indices": [
+          97,
+          105
+        ]
+      },
+      {
+        "text": "Highered",
+        "indices": [
+          106,
+          115
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/YGEpgFJU",
+        "expanded_url": "http://ow.ly/1Oap2Y",
+        "display_url": "ow.ly/1Oap2Y",
+        "indices": [
+          76,
+          96
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mishajcharles",
+        "name": "Misha Charles",
+        "id": 122813093,
+        "id_str": "122813093",
+        "indices": [
+          10,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

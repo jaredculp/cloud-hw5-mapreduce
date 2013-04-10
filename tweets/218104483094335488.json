@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed Jun 27 22:12:15 +0000 2012",
+  "id": 218104483094335488,
+  "id_str": "218104483094335488",
+  "text": "Excellent. RT @saragoldrickrab: Mike Bastedo-- on what we should learn from #UVA. Here's a hint: moral seduction. http://t.co/HTUk26nM",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 555514234,
+    "id_str": "555514234",
+    "name": "Joanna Frye",
+    "screen_name": "joannafrye",
+    "location": "Ann Arbor, MI",
+    "description": "#highered researcher, PhD candidate at the Univ. of Michigan, policy nerd, mom. I study higher ed finance & policy. @MSUCollegeofEd alum. Native Michigander.",
+    "url": "http://t.co/EKgKbdjY",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/EKgKbdjY",
+            "expanded_url": "http://about.me/joannafrye",
+            "display_url": "about.me/joannafrye",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 262,
+    "friends_count": 407,
+    "listed_count": 10,
+    "created_at": "Mon Apr 16 23:45:46 +0000 2012",
+    "favourites_count": 603,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 812,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/754764767/eb03ac222979854994986f091a05cff0.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/754764767/eb03ac222979854994986f091a05cff0.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2167529479/frye_joanna_lg_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2167529479/frye_joanna_lg_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          76,
+          80
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/HTUk26nM",
+        "expanded_url": "http://huff.to/MC2goE",
+        "display_url": "huff.to/MC2goE",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "saragoldrickrab",
+        "name": "Sara Goldrick-Rab",
+        "id": 32608975,
+        "id_str": "32608975",
+        "indices": [
+          14,
+          30
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

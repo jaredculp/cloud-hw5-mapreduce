@@ -1,0 +1,118 @@
+{
+  "created_at": "Wed Jun 20 17:52:54 +0000 2012",
+  "id": 215502500806131712,
+  "id_str": "215502500806131712",
+  "text": "The Declaration of Independence http://t.co/OI7jXioF #uva #satire #ohnotheydidnt",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 704563,
+    "id_str": "704563",
+    "name": "Anna Creech",
+    "screen_name": "annacreech",
+    "location": "Richmond, VA",
+    "description": "(╯°□°）╯︵ ┻━┻",
+    "url": "http://about.me/annacreech",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://about.me/annacreech",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1143,
+    "friends_count": 372,
+    "listed_count": 142,
+    "created_at": "Thu Jan 25 23:10:18 +0000 2007",
+    "favourites_count": 724,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 20202,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2238870750/avatar_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2238870750/avatar_normal.jpg",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          53,
+          57
+        ]
+      },
+      {
+        "text": "satire",
+        "indices": [
+          58,
+          65
+        ]
+      },
+      {
+        "text": "ohnotheydidnt",
+        "indices": [
+          66,
+          80
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/OI7jXioF",
+        "expanded_url": "http://bit.ly/LkvTgu",
+        "display_url": "bit.ly/LkvTgu",
+        "indices": [
+          32,
+          52
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

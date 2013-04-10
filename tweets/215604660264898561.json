@@ -1,0 +1,114 @@
+{
+  "created_at": "Thu Jun 21 00:38:51 +0000 2012",
+  "id": 215604660264898561,
+  "id_str": "215604660264898561",
+  "text": "@sivavaid @UVAFacultySen #UVA Imagine the BOV seeking out expertise among the excellent UVa faculty.",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 20406724,
+  "in_reply_to_user_id_str": "20406724",
+  "in_reply_to_screen_name": "sivavaid",
+  "user": {
+    "id": 372619798,
+    "id_str": "372619798",
+    "name": "Judith Burstyn",
+    "screen_name": "judithburstyn",
+    "location": "Madison, WI",
+    "description": "Bio-inorganic chemist (no that's not a oxymoron).  Favorite elements: Fe, Cu, O, N.  Favorite amino acid: cysteine.  Opinions are my own.",
+    "url": "http://chem.wisc.edu/~burstyn",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://chem.wisc.edu/~burstyn",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 72,
+    "friends_count": 106,
+    "listed_count": 3,
+    "created_at": "Tue Sep 13 03:11:32 +0000 2011",
+    "favourites_count": 7,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 709,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1549451573/Burstyn_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1549451573/Burstyn_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          25,
+          29
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "UVAFacultySen",
+        "name": "UVA Faculty Senate",
+        "id": 613796706,
+        "id_str": "613796706",
+        "indices": [
+          10,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:59:42 +0000 2012",
+  "id": 217708737648005120,
+  "id_str": "217708737648005120",
+  "text": "Wahoo! Sullivan reinstated at #UVA http://t.co/ftJBrrQi",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 240199983,
+    "id_str": "240199983",
+    "name": "Katy Bachman",
+    "screen_name": "KatyontheHill",
+    "location": "Washington, DC",
+    "description": "Veteran media journalist covering advertising, media & tech issues",
+    "url": "http://www.adweek.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.adweek.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1187,
+    "friends_count": 481,
+    "listed_count": 64,
+    "created_at": "Wed Jan 19 11:27:28 +0000 2011",
+    "favourites_count": 2,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4697,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1223932548/IMG_0038__1__normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1223932548/IMG_0038__1__normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ftJBrrQi",
+        "expanded_url": "http://tinyurl.com/csn9q8k",
+        "display_url": "tinyurl.com/csn9q8k",
+        "indices": [
+          35,
+          55
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

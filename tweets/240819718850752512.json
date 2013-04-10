@@ -1,0 +1,129 @@
+{
+  "created_at": "Wed Aug 29 14:34:29 +0000 2012",
+  "id": 240819718850752512,
+  "id_str": "240819718850752512",
+  "text": "Everyone here is permanently going to the gym. #UVa",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16476578,
+    "id_str": "16476578",
+    "name": "S. Fire ",
+    "screen_name": "sarfietweets",
+    "location": "NOVA",
+    "description": "Sara; UVA, Future Journalist, Gaga Fanatic",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 215,
+    "friends_count": 299,
+    "listed_count": 2,
+    "created_at": "Fri Sep 26 22:55:56 +0000 2008",
+    "favourites_count": 339,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3146,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/670785771/f86a13f229c1622f8db9317618d8d715.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/670785771/f86a13f229c1622f8db9317618d8d715.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3035969878/e5ec78ee6810e97d6d4a4b9a064ababf_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3035969878/e5ec78ee6810e97d6d4a4b9a064ababf_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/16476578/1349101604",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "D9D9D9",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.0337256,
+      -78.50362862
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.50362862,
+      38.0337256
+    ]
+  },
+  "place": {
+    "id": "a5aee0034fb1fb02",
+    "url": "https://api.twitter.com/1.1/geo/id/a5aee0034fb1fb02.json",
+    "place_type": "city",
+    "name": "Jack Jouett",
+    "full_name": "Jack Jouett, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.593326,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.143404
+          ],
+          [
+            -78.593326,
+            38.143404
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

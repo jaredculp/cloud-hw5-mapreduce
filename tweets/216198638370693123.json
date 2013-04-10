@@ -1,0 +1,118 @@
+{
+  "created_at": "Fri Jun 22 15:59:06 +0000 2012",
+  "id": 216198638370693123,
+  "id_str": "216198638370693123",
+  "text": "Love that TSull is reading the @cavalierdaily in the photo w/this good @chronicle story  http://t.co/76Xy2VEC",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18962489,
+    "id_str": "18962489",
+    "name": "Joseph Lichterman",
+    "screen_name": "ylichterman",
+    "location": "Ann Arbor, MI",
+    "description": "Senior in the @umich @fordschool. @michiganradio intern. Summer 2013 @Reuters Detroit intern. Recovering @michigandaily editor in chief.  ylichterman@gmail.com ",
+    "url": "http://www.josephlichterman.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.josephlichterman.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 605,
+    "friends_count": 1538,
+    "listed_count": 12,
+    "created_at": "Wed Jan 14 01:39:32 +0000 2009",
+    "favourites_count": 16,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4858,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/758989934/185e00af9bc7e875c092ace79d9d531f.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/758989934/185e00af9bc7e875c092ace79d9d531f.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2966834366/1e7c87eeba6abcccdc7b359107b69f8a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2966834366/1e7c87eeba6abcccdc7b359107b69f8a_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18962489/1357697070",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/76Xy2VEC",
+        "expanded_url": "http://chroni.cl/MbZ4DH",
+        "display_url": "chroni.cl/MbZ4DH",
+        "indices": [
+          89,
+          109
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          31,
+          45
+        ]
+      },
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          71,
+          81
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,115 @@
+{
+  "created_at": "Sun Jun 17 18:09:04 +0000 2012",
+  "id": 214419403637399552,
+  "id_str": "214419403637399552",
+  "text": "author of the Slate article: RT @sivavaid @UVa, please join rally Monday 2:30 Rotunda. Could cheer Prez as she walks by. #HoosforSullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16059905,
+    "id_str": "16059905",
+    "name": "Melissa Techman",
+    "screen_name": "mtechman",
+    "location": "Charlottesville, VA",
+    "description": "K-5 School Lib'n, former Public Lib'n. Keeping an eye on books, tech, learning, design, usability. I care about access and education with heart.",
+    "url": "http://mtechman.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://mtechman.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6878,
+    "friends_count": 3218,
+    "listed_count": 553,
+    "created_at": "Sat Aug 30 23:41:06 +0000 2008",
+    "favourites_count": 10408,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 39938,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/4106092/503925158_466c871411.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/4106092/503925158_466c871411.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1310705756/IMG_0617_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1310705756/IMG_0617_normal.JPG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/16059905/1354468117",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HoosforSullivan",
+        "indices": [
+          121,
+          137
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,132 @@
+{
+  "created_at": "Mon Aug 13 01:57:54 +0000 2012",
+  "id": 234831111660912641,
+  "id_str": "234831111660912641",
+  "text": "#Pollo a la #uva -- lo dulce de la #fruta se casa sabrosamente con lo ácido del vinagre y la #cebolla.  #Receta http://t.co/Lj22mk5Y",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 398063799,
+    "id_str": "398063799",
+    "name": "Robin Grose",
+    "screen_name": "AboutComidaMex",
+    "location": "",
+    "description": "Entérate de todo lo relacionado con comida mexicana.",
+    "url": "http://comidamexicana.about.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://comidamexicana.about.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 147,
+    "friends_count": 157,
+    "listed_count": 5,
+    "created_at": "Tue Oct 25 14:41:38 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 102,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/613973783/ngqj9ac4avom41cnebns.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/613973783/ngqj9ac4avom41cnebns.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1606106516/FB-Icon-ComidaMexicana_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1606106516/FB-Icon-ComidaMexicana_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Pollo",
+        "indices": [
+          0,
+          6
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          12,
+          16
+        ]
+      },
+      {
+        "text": "fruta",
+        "indices": [
+          35,
+          41
+        ]
+      },
+      {
+        "text": "cebolla",
+        "indices": [
+          93,
+          101
+        ]
+      },
+      {
+        "text": "Receta",
+        "indices": [
+          104,
+          111
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Lj22mk5Y",
+        "expanded_url": "http://comidamexicana.about.com/od/PlatosPrincipales/r/Pollo-A-La-Uva.htm",
+        "display_url": "comidamexicana.about.com/od/PlatosPrinc…",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

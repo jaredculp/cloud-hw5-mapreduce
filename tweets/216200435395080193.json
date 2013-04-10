@@ -1,0 +1,129 @@
+{
+  "created_at": "Fri Jun 22 16:06:15 +0000 2012",
+  "id": 216200435395080193,
+  "id_str": "216200435395080193",
+  "text": "Just read the new #Dragas email to Alumni - after her 10 points I'm still confused.  Too late for an apology.",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 308833366,
+    "id_str": "308833366",
+    "name": "Justine Fritz",
+    "screen_name": "justine_fritz",
+    "location": "Baltimore, Maryland",
+    "description": "UVA grad in Baltimore working for @orderuphq • I love cheap pizza, beach cruisers, costumes, LPs, and fun • I hate QR codes • Tweets my own ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 309,
+    "friends_count": 629,
+    "listed_count": 5,
+    "created_at": "Wed Jun 01 02:30:36 +0000 2011",
+    "favourites_count": 92,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2929,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFCFC",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/607064875/ksav8hug2nhnyophper2.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/607064875/ksav8hug2nhnyophper2.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2890459636/91c0aba1447b3fcb08d38fd86617977c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2890459636/91c0aba1447b3fcb08d38fd86617977c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/308833366/1353744361",
+    "profile_link_color": "130485",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "E6E1E6",
+    "profile_text_color": "B81820",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      39.35145719,
+      -74.44484099
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -74.44484099,
+      39.35145719
+    ]
+  },
+  "place": {
+    "id": "6243f731e37c76aa",
+    "url": "https://api.twitter.com/1.1/geo/id/6243f731e37c76aa.json",
+    "place_type": "city",
+    "name": "Atlantic City",
+    "full_name": "Atlantic City, NJ",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.501592,
+            39.335544
+          ],
+          [
+            -74.404054,
+            39.335544
+          ],
+          [
+            -74.404054,
+            39.417678
+          ],
+          [
+            -74.501592,
+            39.417678
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Dragas",
+        "indices": [
+          18,
+          25
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,113 @@
+{
+  "created_at": "Thu Aug 16 08:05:27 +0000 2012",
+  "id": 236010770842910720,
+  "id_str": "236010770842910720",
+  "text": "Boeiende materie @fhuysmans nieuwe #UvA-cursus Innovatie van de Publieke Informatievoorziening open voor niet-studenten http://t.co/majsrgFK",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 105411501,
+    "id_str": "105411501",
+    "name": "Nan van Schendel",
+    "screen_name": "NanvanSchendel",
+    "location": "Holland",
+    "description": "Directeur bibliotheken in Gouda. Op zoek naar gesprek met klanten, politici, collega's en ieder ander over wat een hedendaagse bibliotheek moet zijn.",
+    "url": "http://www.bibliotheekgouda.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.bibliotheekgouda.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 871,
+    "friends_count": 340,
+    "listed_count": 63,
+    "created_at": "Sat Jan 16 07:54:37 +0000 2010",
+    "favourites_count": 11,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3791,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C3E2EB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/416449623/twilk_background_4f2d163f2fa14.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/416449623/twilk_background_4f2d163f2fa14.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2406902435/r1erefmv3cwntxc2ku9t_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2406902435/r1erefmv3cwntxc2ku9t_normal.jpeg",
+    "profile_link_color": "0080B3",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          35,
+          39
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/majsrgFK",
+        "expanded_url": "http://tinyurl.com/8clru25",
+        "display_url": "tinyurl.com/8clru25",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "fhuysmans",
+        "name": "Frank Huysmans",
+        "id": 85658776,
+        "id_str": "85658776",
+        "indices": [
+          17,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

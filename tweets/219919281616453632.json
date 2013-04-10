@@ -1,0 +1,93 @@
+{
+  "created_at": "Mon Jul 02 22:23:37 +0000 2012",
+  "id": 219919281616453632,
+  "id_str": "219919281616453632",
+  "text": "@BeauAmos2 does it matter that a four digit number goes in to my bank ever week ? No ! #Bov.com",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 436999553,
+  "in_reply_to_user_id_str": "436999553",
+  "in_reply_to_screen_name": "BeauAmos2",
+  "user": {
+    "id": 236052379,
+    "id_str": "236052379",
+    "name": "Jack Waldren",
+    "screen_name": "Jackwaldren",
+    "location": "LONDON.",
+    "description": "Football.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 703,
+    "friends_count": 170,
+    "listed_count": 0,
+    "created_at": "Sun Jan 09 17:56:32 +0000 2011",
+    "favourites_count": 220,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3909,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3207293616/86e90aaf57e83b2f1954fdcd28863d6d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3207293616/86e90aaf57e83b2f1954fdcd28863d6d_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/236052379/1357057874",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Bov",
+        "indices": [
+          87,
+          91
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BeauAmos2",
+        "name": "Beau Amos",
+        "id": 436999553,
+        "id_str": "436999553",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

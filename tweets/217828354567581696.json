@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jun 27 03:55:01 +0000 2012",
+  "id": 217828354567581696,
+  "id_str": "217828354567581696",
+  "text": "Wow. RT @UVA The #UVa stream of BOV meeting topped out at 13,300 viewers; #uvafinals2012 topped out at 600.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217710678407004162,
+  "in_reply_to_status_id_str": "217710678407004162",
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 39143159,
+    "id_str": "39143159",
+    "name": "Haas Policy",
+    "screen_name": "haaspolicy",
+    "location": "Austin, TX",
+    "description": "Education and public policy analysis (also occasionally - politics, sports and sartorial commentary).  Opinions, intelligent or otherwise, are entirely my own.",
+    "url": "http://www.haaspolicy.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.haaspolicy.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 576,
+    "friends_count": 509,
+    "listed_count": 35,
+    "created_at": "Mon May 11 00:17:52 +0000 2009",
+    "favourites_count": 400,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6999,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0810A6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/13494140/haasicon.jpeg.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/13494140/haasicon.jpeg.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/207570352/haasicon-copy_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/207570352/haasicon-copy_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/39143159/1354297557",
+    "profile_link_color": "2563F4",
+    "profile_sidebar_border_color": "C4CFCF",
+    "profile_sidebar_fill_color": "DCE5E4",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          17,
+          21
+        ]
+      },
+      {
+        "text": "uvafinals2012",
+        "indices": [
+          74,
+          88
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          8,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

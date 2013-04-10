@@ -1,0 +1,131 @@
+{
+  "created_at": "Tue Jun 26 23:26:09 +0000 2012",
+  "id": 217760691912851456,
+  "id_str": "217760691912851456",
+  "text": "RT @wpjenna: WaPo's @ValerieStrauss on #UVA president reinstatement: The 99% win. http://t.co/JkGMdVz2 //#win",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13790242,
+    "id_str": "13790242",
+    "name": "The Turtle ",
+    "screen_name": "the_turtle",
+    "location": "Usually in the barn or the car",
+    "description": "#fridayfacts lives here. Tune in for chicken flavor updates, wabbit pictures, lots of foul language when I talk about stupid people. Dedicated absurdist.",
+    "url": "http://t.co/9VzdUoJN",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/9VzdUoJN",
+            "expanded_url": "http://assroadtruckers.com",
+            "display_url": "assroadtruckers.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1076,
+    "friends_count": 1315,
+    "listed_count": 78,
+    "created_at": "Thu Feb 21 21:28:50 +0000 2008",
+    "favourites_count": 43,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 74782,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022E06",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/62609047/tlogo2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/62609047/tlogo2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/358268624/twitterProfilePhoto_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/358268624/twitterProfilePhoto_normal.jpg",
+    "profile_link_color": "0027FF",
+    "profile_sidebar_border_color": "F208C7",
+    "profile_sidebar_fill_color": "C9CFBA",
+    "profile_text_color": "690909",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          39,
+          43
+        ]
+      },
+      {
+        "text": "win",
+        "indices": [
+          105,
+          109
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/JkGMdVz2",
+        "expanded_url": "http://wapo.st/MzkE1c",
+        "display_url": "wapo.st/MzkE1c",
+        "indices": [
+          82,
+          102
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          3,
+          11
+        ]
+      },
+      {
+        "screen_name": "valeriestrauss",
+        "name": "Valerie Strauss",
+        "id": 47348884,
+        "id_str": "47348884",
+        "indices": [
+          20,
+          35
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

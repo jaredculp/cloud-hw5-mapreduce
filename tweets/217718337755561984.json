@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 20:37:51 +0000 2012",
+  "id": 217718337755561984,
+  "id_str": "217718337755561984",
+  "text": "@markgr Mark, did you catch the livestream of the #UVA Board of Visitors meeting this afternoon?",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217713937175691264,
+  "in_reply_to_status_id_str": "217713937175691264",
+  "in_reply_to_user_id": 816513,
+  "in_reply_to_user_id_str": "816513",
+  "in_reply_to_screen_name": "markgr",
+  "user": {
+    "id": 8556552,
+    "id_str": "8556552",
+    "name": "DeborahEdwards-Onoro",
+    "screen_name": "redcrew",
+    "location": "metro Detroit, Michigan",
+    "description": "Higher ed web developer focused on user experience & accessibility. Refresh Detroit & Metro Detroit WordPress leader. Tennis fan. Birdwatcher.",
+    "url": "http://lireo.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://lireo.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              17
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2223,
+    "friends_count": 1427,
+    "listed_count": 295,
+    "created_at": "Fri Aug 31 12:14:27 +0000 2007",
+    "favourites_count": 4452,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 50456,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/736951260/d1f96d77c06c1006ec0a415c8cb18d6c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/736951260/d1f96d77c06c1006ec0a415c8cb18d6c.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1296603343/IMG_4772-180px_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1296603343/IMG_4772-180px_normal.jpg",
+    "profile_link_color": "112275",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF3AD",
+    "profile_text_color": "301B30",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          50,
+          54
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "markgr",
+        "name": "Mark Greenfield",
+        "id": 816513,
+        "id_str": "816513",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

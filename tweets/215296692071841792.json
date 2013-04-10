@@ -1,0 +1,99 @@
+{
+  "created_at": "Wed Jun 20 04:15:06 +0000 2012",
+  "id": 215296692071841792,
+  "id_str": "215296692071841792",
+  "text": "respond to Alumni Assoc: http://t.co/zSlnDV6O #UVA #bov",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18769655,
+    "id_str": "18769655",
+    "name": "eabrown25",
+    "screen_name": "eabrown25",
+    "location": "Binghamton, NY",
+    "description": "Scholarly Communications and Grants Officer, Binghamton Univ Lib, publishing. intellectual property. digital repositories. procrastinator. fiber fiend.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 334,
+    "friends_count": 323,
+    "listed_count": 34,
+    "created_at": "Thu Jan 08 16:52:30 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1777,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1191419375/100916-110617_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1191419375/100916-110617_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          46,
+          50
+        ]
+      },
+      {
+        "text": "bov",
+        "indices": [
+          51,
+          55
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zSlnDV6O",
+        "expanded_url": "http://alumni.virginia.edu/contact/alumni-feedback/",
+        "display_url": "alumni.virginia.edu/contact/alumni…",
+        "indices": [
+          25,
+          45
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

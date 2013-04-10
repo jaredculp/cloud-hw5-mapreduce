@@ -1,0 +1,135 @@
+{
+  "created_at": "Tue Aug 21 12:53:33 +0000 2012",
+  "id": 237895211781607424,
+  "id_str": "237895211781607424",
+  "text": "“@rivalsmike: Today is Taquan Mizzell's decision day. #UVa #WVU or #UNC getting a potentially great one.” hope this isn't a heartbreak #UVA",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 271377333,
+    "id_str": "271377333",
+    "name": "Kevin Sparks",
+    "screen_name": "Sully_sparks",
+    "location": "My throne",
+    "description": "1/2 of the duo @syndicatentn \r\n\r\nShows every Monday 8-10pm on @NTNRadioNetwork\r\n\r\nhttp://t.co/gRBKNa6C ",
+    "url": "http://t.co/vLbdJGck",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/vLbdJGck",
+            "expanded_url": "http://NTNradio.com",
+            "display_url": "NTNradio.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/gRBKNa6C",
+            "expanded_url": "http://Ntnradio.com",
+            "display_url": "Ntnradio.com",
+            "indices": [
+              82,
+              102
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 396,
+    "friends_count": 753,
+    "listed_count": 5,
+    "created_at": "Thu Mar 24 11:33:30 +0000 2011",
+    "favourites_count": 16,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 25742,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3185127284/3c54b82371114db3b20e502c5e6054b7_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3185127284/3c54b82371114db3b20e502c5e6054b7_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/271377333/1358096852",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          54,
+          58
+        ]
+      },
+      {
+        "text": "WVU",
+        "indices": [
+          59,
+          63
+        ]
+      },
+      {
+        "text": "UNC",
+        "indices": [
+          67,
+          71
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rivalsmike",
+        "name": "Mike Farrell",
+        "id": 170021040,
+        "id_str": "170021040",
+        "indices": [
+          1,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

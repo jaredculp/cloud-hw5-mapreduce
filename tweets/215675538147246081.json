@@ -1,0 +1,124 @@
+{
+  "created_at": "Thu Jun 21 05:20:30 +0000 2012",
+  "id": 215675538147246081,
+  "id_str": "215675538147246081",
+  "text": "@GrantWP3 @saragoldrickrab @BillTracy1 That's the plan. Blame the victim. Take them over. #UVA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215651383251189760,
+  "in_reply_to_status_id_str": "215651383251189760",
+  "in_reply_to_user_id": 20709307,
+  "in_reply_to_user_id_str": "20709307",
+  "in_reply_to_screen_name": "GrantWP3",
+  "user": {
+    "id": 372619798,
+    "id_str": "372619798",
+    "name": "Judith Burstyn",
+    "screen_name": "judithburstyn",
+    "location": "Madison, WI",
+    "description": "Bio-inorganic chemist (no that's not a oxymoron).  Favorite elements: Fe, Cu, O, N.  Favorite amino acid: cysteine.  Opinions are my own.",
+    "url": "http://chem.wisc.edu/~burstyn",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://chem.wisc.edu/~burstyn",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 73,
+    "friends_count": 106,
+    "listed_count": 3,
+    "created_at": "Tue Sep 13 03:11:32 +0000 2011",
+    "favourites_count": 7,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 709,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1549451573/Burstyn_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1549451573/Burstyn_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          90,
+          94
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GrantWP3",
+        "name": "Grant P",
+        "id": 20709307,
+        "id_str": "20709307",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "saragoldrickrab",
+        "name": "Sara Goldrick-Rab",
+        "id": 32608975,
+        "id_str": "32608975",
+        "indices": [
+          10,
+          26
+        ]
+      },
+      {
+        "screen_name": "BillTracy1",
+        "name": "Bill Tracy",
+        "id": 294420970,
+        "id_str": "294420970",
+        "indices": [
+          27,
+          38
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

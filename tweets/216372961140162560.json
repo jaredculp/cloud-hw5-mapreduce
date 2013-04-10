@@ -1,0 +1,144 @@
+{
+  "created_at": "Sat Jun 23 03:31:48 +0000 2012",
+  "id": 216372961140162560,
+  "id_str": "216372961140162560",
+  "text": "RT @gigaom #Online #education #startups: a field guide http://t.co/UrtJvwMn l my favorite subject! @uva #uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 9948722,
+    "id_str": "9948722",
+    "name": "Letitia Green",
+    "screen_name": "VaActiveAngels",
+    "location": "Mid-Atlantic Region",
+    "description": "Angel investing group with private membership in Virginia and Mid-Atlantic since 2005. Instructor @UVA School of Engineering (SEAS) | Entrepreneurship & Finance",
+    "url": "http://www.virginiaactiveangelnetwork.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginiaactiveangelnetwork.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              41
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 538,
+    "friends_count": 269,
+    "listed_count": 19,
+    "created_at": "Sun Nov 04 21:57:02 +0000 2007",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2438,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/218621162/2_2cLOWsmall.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/218621162/2_2cLOWsmall.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2635663697/3d577f01155cf76067562b2687417c95_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2635663697/3d577f01155cf76067562b2687417c95_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Online",
+        "indices": [
+          11,
+          18
+        ]
+      },
+      {
+        "text": "education",
+        "indices": [
+          19,
+          29
+        ]
+      },
+      {
+        "text": "startups",
+        "indices": [
+          30,
+          39
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          104,
+          108
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UrtJvwMn",
+        "expanded_url": "http://dlvr.it/1lndwR",
+        "display_url": "dlvr.it/1lndwR",
+        "indices": [
+          55,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "gigaom",
+        "name": "GigaOM",
+        "id": 2893971,
+        "id_str": "2893971",
+        "indices": [
+          3,
+          10
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          99,
+          103
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

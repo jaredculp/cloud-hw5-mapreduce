@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Jun 26 21:02:04 +0000 2012",
+  "id": 217724431521431552,
+  "id_str": "217724431521431552",
+  "text": "Yeah! MT @ethanwhite: Academic institutions will stand up for themselves if pushed far enough. Thanks #UVa http://t.co/mKFqM38q",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 112475924,
+    "id_str": "112475924",
+    "name": "Jacquelyn Gill",
+    "screen_name": "JacquelynGill",
+    "location": "Providence, RI, USA",
+    "description": "Voss Postdoc at Brown's Environmental Change Initiative. Paleoecology, biogeography, vegetation dynamics, climate change, extinctions, ice age megafauna.",
+    "url": "http://contemplativemammoth.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://contemplativemammoth.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              42
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3436,
+    "friends_count": 1390,
+    "listed_count": 303,
+    "created_at": "Mon Feb 08 16:51:09 +0000 2010",
+    "favourites_count": 18,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 22413,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/683512137/Jackie_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/683512137/Jackie_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/112475924/1358976627",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          102,
+          106
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/mKFqM38q",
+        "expanded_url": "http://is.gd/vXGy2Q",
+        "display_url": "is.gd/vXGy2Q",
+        "indices": [
+          107,
+          127
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ethanwhite",
+        "name": "Ethan White",
+        "id": 34540379,
+        "id_str": "34540379",
+        "indices": [
+          9,
+          20
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

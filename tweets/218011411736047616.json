@@ -1,0 +1,131 @@
+{
+  "created_at": "Wed Jun 27 16:02:25 +0000 2012",
+  "id": 218011411736047616,
+  "id_str": "218011411736047616",
+  "text": "RT @saragoldrickrab: RT @sivavaid: Disruption is an excuse for politically motivated changes http://t.co/FcTWC5QY #UVA #highered",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 252132568,
+    "id_str": "252132568",
+    "name": "GT C21U",
+    "screen_name": "C21U",
+    "location": "Atlanta, GA",
+    "description": "The Center for 21st Century Universities (C21U) is Georgia Tech's living laboratory for fundamental change in higher education.",
+    "url": "http://www.c21u.gatech.edu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.c21u.gatech.edu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1010,
+    "friends_count": 559,
+    "listed_count": 84,
+    "created_at": "Mon Feb 14 15:20:29 +0000 2011",
+    "favourites_count": 44,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4112,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C4CBD3",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/612521220/7ghyrcf3t2syladw88hl.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/612521220/7ghyrcf3t2syladw88hl.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2414533240/utbr3i39blkxy664heg4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2414533240/utbr3i39blkxy664heg4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/252132568/1353076531",
+    "profile_link_color": "005A8C",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          114,
+          118
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          119,
+          128
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/FcTWC5QY",
+        "expanded_url": "http://bit.ly/Lz1ife",
+        "display_url": "bit.ly/Lz1ife",
+        "indices": [
+          93,
+          113
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "saragoldrickrab",
+        "name": "Sara Goldrick-Rab",
+        "id": 32608975,
+        "id_str": "32608975",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          24,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

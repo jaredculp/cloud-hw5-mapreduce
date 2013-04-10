@@ -1,0 +1,121 @@
+{
+  "created_at": "Fri Jun 22 18:05:10 +0000 2012",
+  "id": 216230364480417793,
+  "id_str": "216230364480417793",
+  "text": "So awesome!  TY @UVa_Alumni for letting us speak! Printout of the ~ 5500 alumni comments going to #UVA BoV today http://t.co/SzrK1zV3 #fb",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216229830226739201,
+  "in_reply_to_status_id_str": "216229830226739201",
+  "in_reply_to_user_id": 17592789,
+  "in_reply_to_user_id_str": "17592789",
+  "in_reply_to_screen_name": "UVa_Alumni",
+  "user": {
+    "id": 39143159,
+    "id_str": "39143159",
+    "name": "Haas Policy",
+    "screen_name": "haaspolicy",
+    "location": "Austin, TX",
+    "description": "Education and public policy analysis (also occasionally - politics, sports and sartorial commentary).  Opinions, intelligent or otherwise, are entirely my own.",
+    "url": "http://www.haaspolicy.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.haaspolicy.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 582,
+    "friends_count": 510,
+    "listed_count": 35,
+    "created_at": "Mon May 11 00:17:52 +0000 2009",
+    "favourites_count": 401,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7064,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0810A6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/13494140/haasicon.jpeg.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/13494140/haasicon.jpeg.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/207570352/haasicon-copy_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/207570352/haasicon-copy_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/39143159/1354297557",
+    "profile_link_color": "2563F4",
+    "profile_sidebar_border_color": "C4CFCF",
+    "profile_sidebar_fill_color": "DCE5E4",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          98,
+          102
+        ]
+      },
+      {
+        "text": "fb",
+        "indices": [
+          134,
+          137
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/SzrK1zV3",
+        "expanded_url": "http://ow.ly/i/IsYg",
+        "display_url": "ow.ly/i/IsYg",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          16,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

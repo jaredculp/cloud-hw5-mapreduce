@@ -1,0 +1,102 @@
+{
+  "created_at": "Mon Aug 27 15:52:37 +0000 2012",
+  "id": 240114604221554688,
+  "id_str": "240114604221554688",
+  "text": "Isenfir needs to find a way to retain #UVa students who aren't interested in combat but are interested in the #SCA.",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15606152,
+    "id_str": "15606152",
+    "name": "Sir Corby",
+    "screen_name": "sircorby",
+    "location": "Charlottesville VA",
+    "description": "Atlantian Knight & long time Mac Guy working in computers",
+    "url": "http://delaflamme.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://delaflamme.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 89,
+    "friends_count": 77,
+    "listed_count": 7,
+    "created_at": "Sat Jul 26 01:16:45 +0000 2008",
+    "favourites_count": 33,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3158,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/247198672/twitterhelm_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/247198672/twitterhelm_normal.jpg",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          38,
+          42
+        ]
+      },
+      {
+        "text": "SCA",
+        "indices": [
+          110,
+          114
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

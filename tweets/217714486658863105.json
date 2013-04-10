@@ -1,0 +1,140 @@
+{
+  "created_at": "Tue Jun 26 20:22:33 +0000 2012",
+  "id": 217714486658863105,
+  "id_str": "217714486658863105",
+  "text": "RT @techsoc From #UVA to #Egypt to #Komen to #SOPA to #Trayvon to #ows, it's clear that the \"internet public\" is a different kind of public.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1175221,
+    "id_str": "1175221",
+    "name": "Alex Howard",
+    "screen_name": "digiphile",
+    "location": "Washington, DC",
+    "description": "Washington Correspondent, @Radar, @OReillyMedia. alex@oreilly.com. Intrigued by societal change, taken with ideas, cooking, the outdoors, books, dogs & media.",
+    "url": "http://radar.oreilly.com/alexh",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://radar.oreilly.com/alexh",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 175777,
+    "friends_count": 1412,
+    "listed_count": 3758,
+    "created_at": "Wed Mar 14 19:12:20 +0000 2007",
+    "favourites_count": 13269,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 74441,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/336302576/MLK-memorial-silhouettes.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/336302576/MLK-memorial-silhouettes.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2203436180/IMG_3481-1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2203436180/IMG_3481-1_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/1175221/1348008961",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          17,
+          21
+        ]
+      },
+      {
+        "text": "Egypt",
+        "indices": [
+          25,
+          31
+        ]
+      },
+      {
+        "text": "Komen",
+        "indices": [
+          35,
+          41
+        ]
+      },
+      {
+        "text": "SOPA",
+        "indices": [
+          45,
+          50
+        ]
+      },
+      {
+        "text": "Trayvon",
+        "indices": [
+          54,
+          62
+        ]
+      },
+      {
+        "text": "ows",
+        "indices": [
+          66,
+          70
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "techsoc",
+        "name": "Zeynep Tufekci",
+        "id": 65375759,
+        "id_str": "65375759",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,106 @@
+{
+  "created_at": "Wed Jun 20 16:53:56 +0000 2012",
+  "id": 215487661039828992,
+  "id_str": "215487661039828992",
+  "text": "@SenorScott Amen! I've seen some tweets re: blaming ed tech (due to rush to get e-classes started at #UVa). It's def. communication!!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215487212098297859,
+  "in_reply_to_status_id_str": "215487212098297859",
+  "in_reply_to_user_id": 179950316,
+  "in_reply_to_user_id_str": "179950316",
+  "in_reply_to_screen_name": "SenorScott",
+  "user": {
+    "id": 180029275,
+    "id_str": "180029275",
+    "name": "Catherine Flippen",
+    "screen_name": "CatFlippen",
+    "location": "Georgia",
+    "description": "Geeky educator, wife, mom. Edtech evangelist. UF doc student. #Gamification #EmergentEd #EdCampATL. Technophile, futurist. @EdReach #disruptEDU-er. DEN star.",
+    "url": "http://t.co/3wEHqdSj",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/3wEHqdSj",
+            "expanded_url": "http://www.ctrlaltteach.com",
+            "display_url": "ctrlaltteach.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1075,
+    "friends_count": 954,
+    "listed_count": 63,
+    "created_at": "Wed Aug 18 17:36:08 +0000 2010",
+    "favourites_count": 123,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3627,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "542437",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/149937663/x6a04dff50fc67dc5944aa8704f1b674.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/149937663/x6a04dff50fc67dc5944aa8704f1b674.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2620332045/vkp80mmic1sne51qu3zw_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2620332045/vkp80mmic1sne51qu3zw_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/180029275/1351646905",
+    "profile_link_color": "53777A",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "ECD178",
+    "profile_text_color": "C02942",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          101,
+          105
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SenorScott",
+        "name": "Mike Scott",
+        "id": 179950316,
+        "id_str": "179950316",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

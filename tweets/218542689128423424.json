@@ -1,0 +1,93 @@
+{
+  "created_at": "Fri Jun 29 03:13:32 +0000 2012",
+  "id": 218542689128423424,
+  "id_str": "218542689128423424",
+  "text": "I'm a Hawks fan now!! @mikescott #UVA",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 386950805,
+    "id_str": "386950805",
+    "name": "Ryan Morgan",
+    "screen_name": "RyanMorgan_8",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 130,
+    "friends_count": 145,
+    "listed_count": 0,
+    "created_at": "Sat Oct 08 06:15:41 +0000 2011",
+    "favourites_count": 35,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 679,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "150C2E",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/401837229/logo-virginia-university.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/401837229/logo-virginia-university.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1577908479/bcsoccer_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1577908479/bcsoccer_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/386950805/1348275344",
+    "profile_link_color": "F7870F",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          33,
+          37
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          22,
+          32
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

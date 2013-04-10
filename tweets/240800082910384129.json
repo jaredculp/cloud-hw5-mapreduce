@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Aug 29 13:16:28 +0000 2012",
+  "id": 240800082910384129,
+  "id_str": "240800082910384129",
+  "text": "OMG niet te geloven de #UVA heeft een nieuwe #roostersite waar je dus zowaar je  eigen timetable kan maken ipv de vooroorlogse variant #yes",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 243671225,
+    "id_str": "243671225",
+    "name": "Frida",
+    "screen_name": "LaFritzie",
+    "location": "",
+    "description": "brought to you from San Francisco baby\r\n\r\nhttp://t.co/uVwGrbHy\r\nhttp://t.co/Ejtm51E2\r\n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/uVwGrbHy",
+            "expanded_url": "http://lafritzie.tumblr.com/",
+            "display_url": "lafritzie.tumblr.com",
+            "indices": [
+              42,
+              62
+            ]
+          },
+          {
+            "url": "http://t.co/Ejtm51E2",
+            "expanded_url": "http://fridaboeke.wordpress.com/",
+            "display_url": "fridaboeke.wordpress.com",
+            "indices": [
+              64,
+              84
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 177,
+    "friends_count": 330,
+    "listed_count": 3,
+    "created_at": "Thu Jan 27 15:24:57 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 784,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/572918059/x7rp95fawu0gtnb3nhzf.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/572918059/x7rp95fawu0gtnb3nhzf.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1254716522/fridaaa_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1254716522/fridaaa_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/243671225/1359250502",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          23,
+          27
+        ]
+      },
+      {
+        "text": "roostersite",
+        "indices": [
+          45,
+          57
+        ]
+      },
+      {
+        "text": "yes",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

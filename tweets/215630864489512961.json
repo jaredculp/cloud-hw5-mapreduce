@@ -1,0 +1,120 @@
+{
+  "created_at": "Thu Jun 21 02:22:58 +0000 2012",
+  "id": 215630864489512961,
+  "id_str": "215630864489512961",
+  "text": "@katiecouric Also, \"philo differences\" = #sullivan wanted buy-in and incr. change  v. BOV's \"strategic dynamism\" #uva http://t.co/UBjWFpJK",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215569785201754113,
+  "in_reply_to_status_id_str": "215569785201754113",
+  "in_reply_to_user_id": 18812301,
+  "in_reply_to_user_id_str": "18812301",
+  "in_reply_to_screen_name": "katiecouric",
+  "user": {
+    "id": 29720810,
+    "id_str": "29720810",
+    "name": "Rosalie Morton",
+    "screen_name": "rosaliemo",
+    "location": "ÜT: 34.052821,-118.259144",
+    "description": "PR professional. Social media addict. Dog lover. Horseback rider. Sailor. Eater of delicious food. ",
+    "url": "http://rosaliemo.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://rosaliemo.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 531,
+    "friends_count": 787,
+    "listed_count": 21,
+    "created_at": "Wed Apr 08 14:02:28 +0000 2009",
+    "favourites_count": 37,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1800,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "80ABD9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/8130213/bayville.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/8130213/bayville.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1084612820/VHLVM0NMLOTX0EOT_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1084612820/VHLVM0NMLOTX0EOT_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "57639E",
+    "profile_sidebar_fill_color": "B3E0AA",
+    "profile_text_color": "515C87",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sullivan",
+        "indices": [
+          41,
+          50
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          113,
+          117
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UBjWFpJK",
+        "expanded_url": "http://www.slate.com/articles/news_and_politics/hey_wait_a_minute/2012/06/teresa_sullivan_fired_from_uva_what_happens_when_universities_are_run_by_robber_barons_.html",
+        "display_url": "slate.com/articles/news_…",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

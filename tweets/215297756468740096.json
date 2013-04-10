@@ -1,0 +1,100 @@
+{
+  "created_at": "Wed Jun 20 04:19:19 +0000 2012",
+  "id": 215297756468740096,
+  "id_str": "215297756468740096",
+  "text": "@brooklynAsmith #Sullivan #(770) 997-2220 #yourwelcome",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215296564661452802,
+  "in_reply_to_status_id_str": "215296564661452802",
+  "in_reply_to_user_id": 335461514,
+  "in_reply_to_user_id_str": "335461514",
+  "in_reply_to_screen_name": "brooklynAsmith",
+  "user": {
+    "id": 344284112,
+    "id_str": "344284112",
+    "name": "Cooper Baker",
+    "screen_name": "coopbaker",
+    "location": "Statesboro, Ga",
+    "description": "Kappa Sigma at Georgia Southern University ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 388,
+    "friends_count": 310,
+    "listed_count": 0,
+    "created_at": "Thu Jul 28 20:39:09 +0000 2011",
+    "favourites_count": 123,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1621,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3176542611/c863445e4e5d650f3382dfb66e20a773_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3176542611/c863445e4e5d650f3382dfb66e20a773_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/344284112/1359409683",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          16,
+          25
+        ]
+      },
+      {
+        "text": "yourwelcome",
+        "indices": [
+          42,
+          54
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "brooklynAsmith",
+        "name": "Brooklyn Smith",
+        "id": 335461514,
+        "id_str": "335461514",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,99 @@
+{
+  "created_at": "Thu Aug 23 14:01:08 +0000 2012",
+  "id": 238636997172928513,
+  "id_str": "238636997172928513",
+  "text": "Princeton Review in #Sullivan, #IN - http://t.co/OMJA1EuU",
+  "source": "<a href=\"http://www.locationsnear.com\" rel=\"nofollow\">LocationsNear.com</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 485708816,
+    "id_str": "485708816",
+    "name": "LocationsNear",
+    "screen_name": "LocationsNear",
+    "location": "Chicago, IL",
+    "description": "If you've ever navigated a terrible corporate site looking for the nearest location to you, we feel your pain. We've built the solution.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 494,
+    "friends_count": 5,
+    "listed_count": 9,
+    "created_at": "Tue Feb 07 14:00:19 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 176283,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2194551562/locationsnear_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2194551562/locationsnear_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          20,
+          29
+        ]
+      },
+      {
+        "text": "IN",
+        "indices": [
+          31,
+          34
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/OMJA1EuU",
+        "expanded_url": "http://princetonreview.locationsnear.com/sullivan-in",
+        "display_url": "princetonreview.locationsnear.com/sullivan-in",
+        "indices": [
+          37,
+          57
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

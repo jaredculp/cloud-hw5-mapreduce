@@ -1,0 +1,113 @@
+{
+  "created_at": "Thu Aug 30 20:59:09 +0000 2012",
+  "id": 241278911655321601,
+  "id_str": "241278911655321601",
+  "text": "should've been life #UVa RT @AP Former Virginia lacrosse player sentenced to 23 yrs for ex-girlfriend's beating death: http://t.co/ZLye1Olp",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 48198556,
+    "id_str": "48198556",
+    "name": "Pete.",
+    "screen_name": "shethepete",
+    "location": "here & there in the dmv ",
+    "description": "• Creatively Charming • iRun @inkwerkzforher • #Art.. collective thoughts and some other shit • IG: peteart",
+    "url": "http://www.inkwerkzforher.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.inkwerkzforher.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 951,
+    "friends_count": 331,
+    "listed_count": 32,
+    "created_at": "Thu Jun 18 01:38:17 +0000 2009",
+    "favourites_count": 772,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 44213,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0A0A0A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/438609714/photo-1-1-1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/438609714/photo-1-1-1.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3190433300/0734017d05b3aeb261ac5be5ec2a6f3a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3190433300/0734017d05b3aeb261ac5be5ec2a6f3a_normal.jpeg",
+    "profile_link_color": "1F041F",
+    "profile_sidebar_border_color": "300A30",
+    "profile_sidebar_fill_color": "404535",
+    "profile_text_color": "990F99",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ZLye1Olp",
+        "expanded_url": "http://hosted.ap.org/dynamic/stories/U/US_VIRGINIA_LACROSSE_SLAYING?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT",
+        "display_url": "hosted.ap.org/dynamic/storie…",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AP",
+        "name": "The Associated Press",
+        "id": 51241574,
+        "id_str": "51241574",
+        "indices": [
+          28,
+          31
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

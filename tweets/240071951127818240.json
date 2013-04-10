@@ -1,0 +1,180 @@
+{
+  "created_at": "Mon Aug 27 13:03:08 +0000 2012",
+  "id": 240071951127818240,
+  "id_str": "240071951127818240",
+  "text": "#UniversityOfVirginia reportedly declines #Obama request to speak on campus http://t.co/l6n4tCnh #UVA #2012Elections",
+  "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 28557805,
+    "id_str": "28557805",
+    "name": "DeniseSawyer.com",
+    "screen_name": "DeniseSawyerTV",
+    "location": "Salisbury, Maryland",
+    "description": "@WBOC-TV reporter, who's a @HowardU alumnae. Ready to talk #news #musicals & #football. Member of @NABJ #SPJ @ONA \nFounder of http://t.co/6K07bGCG",
+    "url": "http://t.co/Sk0lmrap",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/Sk0lmrap",
+            "expanded_url": "http://denisesawyer.com/",
+            "display_url": "denisesawyer.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/6K07bGCG",
+            "expanded_url": "http://tinyurl.com/9pzby32",
+            "display_url": "tinyurl.com/9pzby32",
+            "indices": [
+              126,
+              146
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1654,
+    "friends_count": 1513,
+    "listed_count": 35,
+    "created_at": "Fri Apr 03 13:06:24 +0000 2009",
+    "favourites_count": 155,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 17617,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/713700241/3bfa521e59f608793c6ee95a9ce1e292.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/713700241/3bfa521e59f608793c6ee95a9ce1e292.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3061473879/ace52d2a7cdfb9057bbae12f01f3878b_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3061473879/ace52d2a7cdfb9057bbae12f01f3878b_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/28557805/1357251981",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.94526005,
+      -76.97698975
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -76.97698975,
+      38.94526005
+    ]
+  },
+  "place": {
+    "id": "01fbe706f872cb32",
+    "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+    "place_type": "city",
+    "name": "Washington",
+    "full_name": "Washington, DC",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.119759,
+            38.791645
+          ],
+          [
+            -76.909393,
+            38.791645
+          ],
+          [
+            -76.909393,
+            38.995548
+          ],
+          [
+            -77.119759,
+            38.995548
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UniversityOfVirginia",
+        "indices": [
+          0,
+          21
+        ]
+      },
+      {
+        "text": "Obama",
+        "indices": [
+          42,
+          48
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          97,
+          101
+        ]
+      },
+      {
+        "text": "2012Elections",
+        "indices": [
+          102,
+          116
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/l6n4tCnh",
+        "expanded_url": "http://fxn.ws/U1GdfM",
+        "display_url": "fxn.ws/U1GdfM",
+        "indices": [
+          76,
+          96
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

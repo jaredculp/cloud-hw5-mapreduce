@@ -1,0 +1,120 @@
+{
+  "created_at": "Mon Aug 27 09:48:39 +0000 2012",
+  "id": 240023007333072896,
+  "id_str": "240023007333072896",
+  "text": "Begonnen met #INTREE #UvA en al een kamer gevonden? Check je huurprijs via http://t.co/W3VN6RRt of kom langs @wswonen voor advies",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 107098343,
+    "id_str": "107098343",
+    "name": "Wijksteunpunt Wonen",
+    "screen_name": "wswonen",
+    "location": "Amsterdam",
+    "description": "Wijksteunpunten Wonen Amsterdam.\r\nAlles over huren en wonen.",
+    "url": "http://www.wswonen.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wswonen.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 349,
+    "friends_count": 180,
+    "listed_count": 13,
+    "created_at": "Thu Jan 21 15:04:40 +0000 2010",
+    "favourites_count": 37,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 652,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/136947198/wswlogo_mini_alleen_figuur.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/136947198/wswlogo_mini_alleen_figuur.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/685389107/wswlogo_mini_alleen_figuur_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/685389107/wswlogo_mini_alleen_figuur_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "INTREE",
+        "indices": [
+          13,
+          20
+        ]
+      },
+      {
+        "text": "UvA",
+        "indices": [
+          21,
+          25
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/W3VN6RRt",
+        "expanded_url": "http://bit.ly/PasqQy",
+        "display_url": "bit.ly/PasqQy",
+        "indices": [
+          75,
+          95
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wswonen",
+        "name": "Wijksteunpunt Wonen",
+        "id": 107098343,
+        "id_str": "107098343",
+        "indices": [
+          109,
+          117
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

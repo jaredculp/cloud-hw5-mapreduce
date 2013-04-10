@@ -1,0 +1,120 @@
+{
+  "created_at": "Thu Jun 28 16:53:46 +0000 2012",
+  "id": 218386720163508225,
+  "id_str": "218386720163508225",
+  "text": "#UVA One misguided, knee-jerk, top-down academic \"reform\" averted, #Rutgers another pending http://t.co/1AutKJNZ See http://t.co/IApBxjdO",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 48400074,
+    "id_str": "48400074",
+    "name": "John Theibault",
+    "screen_name": "jtheibault",
+    "location": "",
+    "description": "Historian interested in digital humanities",
+    "url": "http://www.jtheibault.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jtheibault.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1377,
+    "friends_count": 461,
+    "listed_count": 147,
+    "created_at": "Thu Jun 18 16:20:10 +0000 2009",
+    "favourites_count": 22,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7234,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/18708111/Eschwegebackground.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/18708111/Eschwegebackground.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/269363502/Cherub_Close_Up_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/269363502/Cherub_Close_Up_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Rutgers",
+        "indices": [
+          67,
+          75
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/1AutKJNZ",
+        "expanded_url": "http://www.northjersey.com/news/state/062812_Rutgers_board_to_meet_on_day_of_merger_vote.html",
+        "display_url": "northjersey.com/news/state/062…",
+        "indices": [
+          92,
+          112
+        ]
+      },
+      {
+        "url": "http://t.co/IApBxjdO",
+        "expanded_url": "http://gillette.rutgers.edu/",
+        "display_url": "gillette.rutgers.edu",
+        "indices": [
+          117,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

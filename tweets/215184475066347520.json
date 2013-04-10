@@ -1,0 +1,93 @@
+{
+  "created_at": "Tue Jun 19 20:49:11 +0000 2012",
+  "id": 215184475066347520,
+  "id_str": "215184475066347520",
+  "text": "@MattParkin_89 Hashtag #Bov",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215174035984744448,
+  "in_reply_to_status_id_str": "215174035984744448",
+  "in_reply_to_user_id": 592955720,
+  "in_reply_to_user_id_str": "592955720",
+  "in_reply_to_screen_name": "MattParkin_89",
+  "user": {
+    "id": 211104145,
+    "id_str": "211104145",
+    "name": "Kurtis A. Sanders",
+    "screen_name": "KDotSanders",
+    "location": "Home",
+    "description": "Like a brown Bruce Willis.\nRap Music & Football! \nBristol City",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 250,
+    "friends_count": 371,
+    "listed_count": 3,
+    "created_at": "Tue Nov 02 10:01:30 +0000 2010",
+    "favourites_count": 9,
+    "utc_offset": -36000,
+    "time_zone": "Hawaii",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5093,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/394059160/creating-rap-music_400.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/394059160/creating-rap-music_400.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3109281201/871bf896bf1a176d0e9c1b3c647be657_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3109281201/871bf896bf1a176d0e9c1b3c647be657_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/211104145/1356706832",
+    "profile_link_color": "FF0505",
+    "profile_sidebar_border_color": "FF0303",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "FF0505",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Bov",
+        "indices": [
+          23,
+          27
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MattParkin_89",
+        "name": "Matthew Parkin",
+        "id": 592955720,
+        "id_str": "592955720",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

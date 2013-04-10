@@ -1,0 +1,119 @@
+{
+  "created_at": "Wed Jun 20 01:15:51 +0000 2012",
+  "id": 215251584186187777,
+  "id_str": "215251584186187777",
+  "text": "@KingEcon @amasays @mediaUVAgreg @sivavaid the email didn't provide more information",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215251349611356160,
+  "in_reply_to_status_id_str": "215251349611356160",
+  "in_reply_to_user_id": 584900703,
+  "in_reply_to_user_id_str": "584900703",
+  "in_reply_to_screen_name": "KingEcon",
+  "user": {
+    "id": 24296023,
+    "id_str": "24296023",
+    "name": "The Cavalier Daily",
+    "screen_name": "cavalierdaily",
+    "location": "Newcomb Hall Basement",
+    "description": "The University of Virginia's student-operated independent newspaper and Charlottesville's oldest daily newspaper.",
+    "url": "http://www.cavalierdaily.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cavalierdaily.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7176,
+    "friends_count": 165,
+    "listed_count": 211,
+    "created_at": "Sat Mar 14 00:55:04 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2960,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1518291353/jefferson_cutout_opinion_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1518291353/jefferson_cutout_opinion_2_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/24296023/1350236225",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "KingEcon",
+        "name": "Kevin King",
+        "id": 584900703,
+        "id_str": "584900703",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "amasays",
+        "name": "Anne-Marie Angelo",
+        "id": 17700609,
+        "id_str": "17700609",
+        "indices": [
+          10,
+          18
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          33,
+          42
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

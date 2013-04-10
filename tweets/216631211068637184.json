@@ -1,0 +1,130 @@
+{
+  "created_at": "Sat Jun 23 20:38:00 +0000 2012",
+  "id": 216631211068637184,
+  "id_str": "216631211068637184",
+  "text": "RT@coybarefoot: great job @sivavaid on MSNBC this morning! #uva #sullivan video: http://t.co/cDtQCyt7",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 370859141,
+    "id_str": "370859141",
+    "name": "Jennifer McClellan",
+    "screen_name": "JennMcClellanVA",
+    "location": "Richmond, VA",
+    "description": "Member of the Virginia House of Delegates (71st District).  Wife of @davemillsva. Mom of Jack.",
+    "url": "http://www.jennifermcclellan.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jennifermcclellan.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1302,
+    "friends_count": 642,
+    "listed_count": 62,
+    "created_at": "Fri Sep 09 19:14:57 +0000 2011",
+    "favourites_count": 27,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4804,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1536419204/n810482499_1397134_7818403_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1536419204/n810482499_1397134_7818403_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          59,
+          63
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          64,
+          73
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/cDtQCyt7",
+        "expanded_url": "http://video.msnbc.msn.com/up-with-chris-hayes/47931377",
+        "display_url": "video.msnbc.msn.com/up-with-chris-…",
+        "indices": [
+          81,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "coybarefoot",
+        "name": "Coy Barefoot",
+        "id": 164530478,
+        "id_str": "164530478",
+        "indices": [
+          2,
+          14
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          26,
+          35
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

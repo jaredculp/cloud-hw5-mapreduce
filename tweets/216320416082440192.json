@@ -1,0 +1,141 @@
+{
+  "created_at": "Sat Jun 23 00:03:00 +0000 2012",
+  "id": 216320416082440192,
+  "id_str": "216320416082440192",
+  "text": "@chitownbeardown @LarrySabato this.",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216291813181501440,
+  "in_reply_to_status_id_str": "216291813181501440",
+  "in_reply_to_user_id": 42743109,
+  "in_reply_to_user_id_str": "42743109",
+  "in_reply_to_screen_name": "chitownbeardown",
+  "user": {
+    "id": 1987,
+    "id_str": "1987",
+    "name": "Ben Vander",
+    "screen_name": "Vander",
+    "location": "Philadelphia",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 148,
+    "friends_count": 338,
+    "listed_count": 3,
+    "created_at": "Mon Jul 17 16:29:17 +0000 2006",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 698,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/429603216/x4d92e3f6d69c26ab65938a7b23e49e5.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/429603216/x4d92e3f6d69c26ab65938a7b23e49e5.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1277065499/BVDV5_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1277065499/BVDV5_2_normal.jpg",
+    "profile_link_color": "618238",
+    "profile_sidebar_border_color": "204207",
+    "profile_sidebar_fill_color": "060A00",
+    "profile_text_color": "485C3A",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      39.99396385,
+      -75.27997293
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -75.27997293,
+      39.99396385
+    ]
+  },
+  "place": {
+    "id": "96e512c848bfdf95",
+    "url": "https://api.twitter.com/1.1/geo/id/96e512c848bfdf95.json",
+    "place_type": "city",
+    "name": "Lower Merion",
+    "full_name": "Lower Merion, PA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.349457,
+            39.976959
+          ],
+          [
+            -75.205485,
+            39.976959
+          ],
+          [
+            -75.205485,
+            40.073013
+          ],
+          [
+            -75.349457,
+            40.073013
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chitownbeardown",
+        "name": "Matt Ammentorp",
+        "id": 42743109,
+        "id_str": "42743109",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          17,
+          29
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

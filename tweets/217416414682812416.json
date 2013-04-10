@@ -1,0 +1,127 @@
+{
+  "created_at": "Tue Jun 26 00:38:07 +0000 2012",
+  "id": 217416414682812416,
+  "id_str": "217416414682812416",
+  "text": "#hoyasaxa RT @wynkenhimself: Georgetown Faculty Senate's resolution condemning #UVa #BoV actions:  http://t.co/zfEIfk7w",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 9893782,
+    "id_str": "9893782",
+    "name": "Sharon Leon",
+    "screen_name": "sleonchnm",
+    "location": "Fairfax, VA",
+    "description": "Director of Public Projects, Roy Rosenzweig Center for History and New Media",
+    "url": "http://6floors.org/bracket/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://6floors.org/bracket/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1679,
+    "friends_count": 488,
+    "listed_count": 161,
+    "created_at": "Fri Nov 02 18:13:54 +0000 2007",
+    "favourites_count": 94,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9244,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "344A99",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/2324880/371319610_73c88f5461_o.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/2324880/371319610_73c88f5461_o.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/521253161/SML_sideProfile_small_crop_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/521253161/SML_sideProfile_small_crop_normal.jpg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "hoyasaxa",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          79,
+          83
+        ]
+      },
+      {
+        "text": "BoV",
+        "indices": [
+          84,
+          88
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zfEIfk7w",
+        "expanded_url": "http://yfrog.com/odntrhlj",
+        "display_url": "yfrog.com/odntrhlj",
+        "indices": [
+          99,
+          119
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wynkenhimself",
+        "name": "Sarah Werner",
+        "id": 35384223,
+        "id_str": "35384223",
+        "indices": [
+          13,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

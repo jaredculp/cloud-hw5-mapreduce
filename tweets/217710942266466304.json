@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Jun 26 20:08:28 +0000 2012",
+  "id": 217710942266466304,
+  "id_str": "217710942266466304",
+  "text": "U-Va. President Teresa #Sullivan reinstated http://t.co/EwQBT7CT via @washingtonpost #in",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 464017799,
+    "id_str": "464017799",
+    "name": "Hans-MartientenNapel",
+    "screen_name": "hmtennapel",
+    "location": "Leiden University",
+    "description": "Ass. Professor of Constitutional and Administrative Law, Sen. Researcher at School of Human Rights. Expertise: Law and Religion, Comparative Constitutional Law",
+    "url": "http://www.linkedin.com/pub/hans-martien-ten-napel/39/424/923",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.linkedin.com/pub/hans-martien-ten-napel/39/424/923",
+            "expanded_url": null,
+            "indices": [
+              0,
+              61
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 604,
+    "friends_count": 784,
+    "listed_count": 8,
+    "created_at": "Sat Jan 14 19:00:15 +0000 2012",
+    "favourites_count": 3,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2217,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1758765872/vaFoto14-03-2009_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1758765872/vaFoto14-03-2009_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          23,
+          32
+        ]
+      },
+      {
+        "text": "in",
+        "indices": [
+          85,
+          88
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/EwQBT7CT",
+        "expanded_url": "http://liveblog.washingtonpost.com/?p=1252",
+        "display_url": "liveblog.washingtonpost.com/?p=1252",
+        "indices": [
+          44,
+          64
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          69,
+          84
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

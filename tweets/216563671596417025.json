@@ -1,0 +1,92 @@
+{
+  "created_at": "Sat Jun 23 16:09:37 +0000 2012",
+  "id": 216563671596417025,
+  "id_str": "216563671596417025",
+  "text": "@dankuckuck Not dithering or non-transparent. #BOV is compounding the problem by moving in several directions at once, behind closed doors.",
+  "source": "<a href=\"http://stone.com/Twittelator\" rel=\"nofollow\">Twittelator</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216370508923535360,
+  "in_reply_to_status_id_str": "216370508923535360",
+  "in_reply_to_user_id": 14683189,
+  "in_reply_to_user_id_str": "14683189",
+  "in_reply_to_screen_name": "dankuckuck",
+  "user": {
+    "id": 15604712,
+    "id_str": "15604712",
+    "name": "DCdoozy",
+    "screen_name": "DCdoozy",
+    "location": "",
+    "description": "DCdoozy is an experienced public affairs, government relations, and public relations professional who uses tweets for personal, not professional reasons.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 453,
+    "friends_count": 658,
+    "listed_count": 5,
+    "created_at": "Fri Jul 25 22:28:59 +0000 2008",
+    "favourites_count": 1,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 17070,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2616762116/lslkwc8h260vy8dbgccn_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2616762116/lslkwc8h260vy8dbgccn_normal.jpeg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          46,
+          50
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dankuckuck",
+        "name": "Dan Kuckuck",
+        "id": 14683189,
+        "id_str": "14683189",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

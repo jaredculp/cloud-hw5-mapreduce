@@ -1,0 +1,102 @@
+{
+  "created_at": "Thu Jun 21 14:12:21 +0000 2012",
+  "id": 215809386231246850,
+  "id_str": "215809386231246850",
+  "text": "The threat to #Classics at #UVa was imaginary (confirmed now by multiple sources in the admin.), but threats elsewhere are very real.",
+  "source": "<a href=\"http://streamie.org\" rel=\"nofollow\">streamie</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 337973490,
+    "id_str": "337973490",
+    "name": "Daniel Barber",
+    "screen_name": "Horatiana",
+    "location": "Omaha, NE",
+    "description": "I teach Greek and Latin in the Dept. of Classical and Near Eastern Studies at Creighton University",
+    "url": "http://dbarber.horatiana.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://dbarber.horatiana.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 94,
+    "friends_count": 73,
+    "listed_count": 5,
+    "created_at": "Mon Jul 18 21:45:07 +0000 2011",
+    "favourites_count": 95,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 215,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/419346243/0e89e5041ecd11e1abb01231381b65e3_7.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/419346243/0e89e5041ecd11e1abb01231381b65e3_7.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1474697893/tenax_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1474697893/tenax_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Classics",
+        "indices": [
+          14,
+          23
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          27,
+          31
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

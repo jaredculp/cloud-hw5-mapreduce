@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Jul 03 22:54:39 +0000 2012",
+  "id": 220289479909453825,
+  "id_str": "220289479909453825",
+  "text": "RT @SoccerInsider: Concussions end another career: #MLS veteran forward Adam Cristman #dcu #uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 97610758,
+    "id_str": "97610758",
+    "name": "Jonathan Tannenwald",
+    "screen_name": "thegoalkeeper",
+    "location": "Philadelphia, PA",
+    "description": "Soccer news with a Philadelphia spin from Philly.com.",
+    "url": "http://www.philly.com/philly/blogs/thegoalkeeper",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.philly.com/philly/blogs/thegoalkeeper",
+            "expanded_url": null,
+            "indices": [
+              0,
+              48
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3417,
+    "friends_count": 917,
+    "listed_count": 246,
+    "created_at": "Fri Dec 18 07:10:35 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 46835,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/60476529/20091218_soccer2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/60476529/20091218_soccer2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1793744417/headshot_raw_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1793744417/headshot_raw_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MLS",
+        "indices": [
+          51,
+          55
+        ]
+      },
+      {
+        "text": "dcu",
+        "indices": [
+          86,
+          90
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SoccerInsider",
+        "name": "Steven Goff",
+        "id": 16313045,
+        "id_str": "16313045",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

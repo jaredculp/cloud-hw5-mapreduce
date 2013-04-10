@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 26 20:50:45 +0000 2012",
+  "id": 217721585946206208,
+  "id_str": "217721585946206208",
+  "text": "Agreed RT @joelmcglothlin: The #Sullivan decision isn't just about #UVa. This will have far-reaching consequences across academia.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 320210499,
+    "id_str": "320210499",
+    "name": "Casey Bergman",
+    "screen_name": "caseybergman",
+    "location": "Manchester, UK",
+    "description": "Everyman, Worrier, Information Junkie, Yankunian, Macolyte, Drosophilista, Open Science Advocate, @FlyJedi, Principal Investigator of the @bergmanlab",
+    "url": "http://caseybergman.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://caseybergman.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 812,
+    "friends_count": 43,
+    "listed_count": 50,
+    "created_at": "Sun Jun 19 14:18:53 +0000 2011",
+    "favourites_count": 714,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4744,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2092288245/Untitled-1_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2092288245/Untitled-1_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          31,
+          40
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "joelmcglothlin",
+        "name": "Joel McGlothlin",
+        "id": 107037417,
+        "id_str": "107037417",
+        "indices": [
+          10,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

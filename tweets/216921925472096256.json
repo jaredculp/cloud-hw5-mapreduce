@@ -1,0 +1,134 @@
+{
+  "created_at": "Sun Jun 24 15:53:11 +0000 2012",
+  "id": 216921925472096256,
+  "id_str": "216921925472096256",
+  "text": "@justamusicprof @sivavaid @paulmguest @jessiechapman I have worn the honors of Honor. This will be righted. In solidarity. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216920496506290179,
+  "in_reply_to_status_id_str": "216920496506290179",
+  "in_reply_to_user_id": 72512625,
+  "in_reply_to_user_id_str": "72512625",
+  "in_reply_to_screen_name": "justamusicprof",
+  "user": {
+    "id": 143268809,
+    "id_str": "143268809",
+    "name": "Brennan Lowery",
+    "screen_name": "BuckHercules",
+    "location": "New York City",
+    "description": "Brennan Lowery: New School MFA Actor, Office Director for Dylan Ratigan. Buck Hercules: award-winning correspondent for award-deserving NewShow. Both: ticklish.",
+    "url": "http://www.newshowdotcom.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.newshowdotcom.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 188,
+    "friends_count": 293,
+    "listed_count": 3,
+    "created_at": "Thu May 13 01:30:10 +0000 2010",
+    "favourites_count": 89,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2711,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1766737107/booth_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1766737107/booth_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          123,
+          127
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "justamusicprof",
+        "name": "PM Higgins",
+        "id": 72512625,
+        "id_str": "72512625",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          16,
+          25
+        ]
+      },
+      {
+        "screen_name": "paulmguest",
+        "name": "Paul Guest",
+        "id": 53186733,
+        "id_str": "53186733",
+        "indices": [
+          26,
+          37
+        ]
+      },
+      {
+        "screen_name": "jessiechapman",
+        "name": "Jessie Chapman",
+        "id": 33105026,
+        "id_str": "33105026",
+        "indices": [
+          38,
+          52
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

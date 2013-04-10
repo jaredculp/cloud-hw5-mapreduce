@@ -1,0 +1,130 @@
+{
+  "created_at": "Thu Aug 30 18:54:12 +0000 2012",
+  "id": 241247466740146176,
+  "id_str": "241247466740146176",
+  "text": "If you live in #CVille, go to #UVa or enjoy traveling from #RVa, these brands are valuable resources: @CVilleFood &amp; @CVilleBars!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 62639060,
+    "id_str": "62639060",
+    "name": "Jerry Miller",
+    "screen_name": "JerryMillerNow",
+    "location": "Virginia",
+    "description": "I'm the Founder/President of vmv brands, a digital + traditional ad agency. Award-winning writer. Entrepreneur. Ad man. Media fan. Professional speaker.",
+    "url": "http://t.co/mfUkqbSd",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/mfUkqbSd",
+            "expanded_url": "http://www.vmvbrands.com",
+            "display_url": "vmvbrands.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 225,
+    "friends_count": 87,
+    "listed_count": 10,
+    "created_at": "Mon Aug 03 22:24:16 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2065,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/711535029/225ec95e0dcb7cc7266f0c8f9cb2e560.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/711535029/225ec95e0dcb7cc7266f0c8f9cb2e560.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2648802950/08bfa109d603955f947c903490b26964_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2648802950/08bfa109d603955f947c903490b26964_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/62639060/1353017266",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "CVille",
+        "indices": [
+          15,
+          22
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          30,
+          34
+        ]
+      },
+      {
+        "text": "RVa",
+        "indices": [
+          59,
+          63
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CVilleFood",
+        "name": "CVille Food",
+        "id": 168890206,
+        "id_str": "168890206",
+        "indices": [
+          102,
+          113
+        ]
+      },
+      {
+        "screen_name": "CVilleBars",
+        "name": "CVille Bars",
+        "id": 168880865,
+        "id_str": "168880865",
+        "indices": [
+          120,
+          131
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 19 17:56:59 +0000 2012",
+  "id": 215141138049409024,
+  "id_str": "215141138049409024",
+  "text": "@JimDuncan There are no winners in a fight like this - #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215140389890428929,
+  "in_reply_to_status_id_str": "215140389890428929",
+  "in_reply_to_user_id": 3308171,
+  "in_reply_to_user_id_str": "3308171",
+  "in_reply_to_screen_name": "JimDuncan",
+  "user": {
+    "id": 38525391,
+    "id_str": "38525391",
+    "name": "Doug Francis",
+    "screen_name": "dougfrancis",
+    "location": "Vienna, Virginia",
+    "description": "I find life interesting and seek out new ideas. Technology, social internet 3.0, smart people, WP bloggers. Enjoy my freedom starting with my morning coffee...",
+    "url": "http://www.dougfrancis.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.dougfrancis.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 426,
+    "friends_count": 395,
+    "listed_count": 23,
+    "created_at": "Thu May 07 21:47:39 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2331,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/106001511/twilk_background_4bffd781e1963.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/106001511/twilk_background_4bffd781e1963.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2947980132/1c65b8434ebe28d7200972cdf9d842d2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2947980132/1c65b8434ebe28d7200972cdf9d842d2_normal.jpeg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          55,
+          59
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JimDuncan",
+        "name": "Jim Duncan",
+        "id": 3308171,
+        "id_str": "3308171",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

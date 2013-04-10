@@ -1,0 +1,135 @@
+{
+  "created_at": "Tue Aug 21 18:11:07 +0000 2012",
+  "id": 237975133350948865,
+  "id_str": "237975133350948865",
+  "text": "Huge get RT @Rivals: BREAKING: 5-star RB Taquan Mizzell has chosen #UVA, head to http://t.co/NNRNg0op for the latest! #Cavs #Virginia",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 269085637,
+    "id_str": "269085637",
+    "name": "Ezra Amacher",
+    "screen_name": "EzraAmacher",
+    "location": "Virginia Beach",
+    "description": "Writer of Arizona Wildcats hoops at http://t.co/WdcHaBME, avid SF Giants follower & all-around college sports addict. West coaster living out east. ",
+    "url": "http://pointguardu.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://pointguardu.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/WdcHaBME",
+            "expanded_url": "http://pointguardu.com",
+            "display_url": "pointguardu.com",
+            "indices": [
+              36,
+              56
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 613,
+    "friends_count": 1504,
+    "listed_count": 14,
+    "created_at": "Sun Mar 20 02:28:23 +0000 2011",
+    "favourites_count": 284,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 37173,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000066",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/539184248/2012-04-29_13-16-52_72.84.75.202.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/539184248/2012-04-29_13-16-52_72.84.75.202.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2742841532/6ee51af57fb9ac0595df897d62c8e121_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2742841532/6ee51af57fb9ac0595df897d62c8e121_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCD",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          67,
+          71
+        ]
+      },
+      {
+        "text": "Cavs",
+        "indices": [
+          118,
+          123
+        ]
+      },
+      {
+        "text": "Virginia",
+        "indices": [
+          124,
+          133
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/NNRNg0op",
+        "expanded_url": "http://CavsCorner.com",
+        "display_url": "CavsCorner.com",
+        "indices": [
+          81,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Rivals",
+        "name": "Rivals.com",
+        "id": 109959589,
+        "id_str": "109959589",
+        "indices": [
+          12,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Sat Jun 23 02:00:52 +0000 2012",
+  "id": 216350076505825280,
+  "id_str": "216350076505825280",
+  "text": "@johnedwinmason Univ is a valuable asset. Conceivable that big players see control as key issue &amp; will not tolerate contrary precedent. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216348019086471168,
+  "in_reply_to_status_id_str": "216348019086471168",
+  "in_reply_to_user_id": 25343700,
+  "in_reply_to_user_id_str": "25343700",
+  "in_reply_to_screen_name": "johnedwinmason",
+  "user": {
+    "id": 39157667,
+    "id_str": "39157667",
+    "name": "Frank Bennett",
+    "screen_name": "fgbjr",
+    "location": "Japan",
+    "description": "Associate Professor, Faculty of Law, Nagoya University. Author of citeproc-js, Zotero Item History and multilingual modifications to Zotero.",
+    "url": "http://citationstylist.org/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://citationstylist.org/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 133,
+    "friends_count": 74,
+    "listed_count": 6,
+    "created_at": "Mon May 11 01:22:54 +0000 2009",
+    "favourites_count": 138,
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1775,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2022212193/frank-florenc-cameo-small-square-flipped_normal_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2022212193/frank-florenc-cameo-small-square-flipped_normal_normal.png",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          140,
+          144
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "johnedwinmason",
+        "name": "John Edwin Mason",
+        "id": 25343700,
+        "id_str": "25343700",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

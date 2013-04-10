@@ -1,0 +1,100 @@
+{
+  "created_at": "Tue Aug 28 13:33:18 +0000 2012",
+  "id": 240441932478832640,
+  "id_str": "240441932478832640",
+  "text": "@MegKillilea are you applying to #uva this year??? #youshouldcome",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 452607679,
+    "id_str": "452607679",
+    "name": "Jack Geddy",
+    "screen_name": "jack_geddy",
+    "location": "",
+    "description": "HRA '12 UVA '16",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 172,
+    "friends_count": 171,
+    "listed_count": 0,
+    "created_at": "Mon Jan 02 01:56:06 +0000 2012",
+    "favourites_count": 851,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1025,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2929884497/6ed4e2a0f65cfbb2bd77c665b66e90b2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2929884497/6ed4e2a0f65cfbb2bd77c665b66e90b2_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/452607679/1354764385",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          33,
+          37
+        ]
+      },
+      {
+        "text": "youshouldcome",
+        "indices": [
+          51,
+          65
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MegKillilea",
+        "name": "Megan",
+        "id": 336303337,
+        "id_str": "336303337",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

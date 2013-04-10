@@ -1,0 +1,113 @@
+{
+  "created_at": "Thu Jun 28 20:03:05 +0000 2012",
+  "id": 218434366538383360,
+  "id_str": "218434366538383360",
+  "text": "Author Michael Bastedo on lessons to be learned from #UVA: http://t.co/Jzue2Fok via @HuffPostCollege",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29731124,
+    "id_str": "29731124",
+    "name": "JHU Press",
+    "screen_name": "JHUPress",
+    "location": "Baltimore, MD",
+    "description": "JHU Press is one of the world’s largest university presses, publishing 60 scholarly journals and nearly 200 new books each year.",
+    "url": "http://www.press.jhu.edu/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.press.jhu.edu/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2684,
+    "friends_count": 404,
+    "listed_count": 257,
+    "created_at": "Wed Apr 08 14:50:18 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1379,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/148662613/Shield_k_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/148662613/Shield_k_normal.jpg",
+    "profile_link_color": "1C4073",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          53,
+          57
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Jzue2Fok",
+        "expanded_url": "http://huff.to/LRwtkf",
+        "display_url": "huff.to/LRwtkf",
+        "indices": [
+          59,
+          79
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HuffPostCollege",
+        "name": "HuffPost College",
+        "id": 101896529,
+        "id_str": "101896529",
+        "indices": [
+          84,
+          100
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

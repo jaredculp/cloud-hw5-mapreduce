@@ -1,0 +1,104 @@
+{
+  "created_at": "Thu Jun 21 10:44:20 +0000 2012",
+  "id": 215757037345312768,
+  "id_str": "215757037345312768",
+  "text": "hey #UVA  need you to write the BOV in support of emergency meeting to reinstate Sullivan. Instrux/info here: http://t.co/YzPzNrvU",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 158227794,
+    "id_str": "158227794",
+    "name": "Rachel V",
+    "screen_name": "secondhandsally",
+    "location": "Charlottesville, VA",
+    "description": "",
+    "url": "http://athriftstore.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://athriftstore.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 150,
+    "friends_count": 202,
+    "listed_count": 6,
+    "created_at": "Tue Jun 22 03:30:55 +0000 2010",
+    "favourites_count": 57,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1959,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2861204760/072c05b2c01f253481ceea62889f29fa_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2861204760/072c05b2c01f253481ceea62889f29fa_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          4,
+          8
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/YzPzNrvU",
+        "expanded_url": "http://goo.gl/MFj9o",
+        "display_url": "goo.gl/MFj9o",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

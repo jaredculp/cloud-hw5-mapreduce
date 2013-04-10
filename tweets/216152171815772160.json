@@ -1,0 +1,148 @@
+{
+  "created_at": "Fri Jun 22 12:54:28 +0000 2012",
+  "id": 216152171815772160,
+  "id_str": "216152171815772160",
+  "text": "say hi 2 @l_whittington ! MT @cbellantoni: Excited 2 talk 2012 4 @larrysabato panel 2day w/ @jmartpolitico @jilldlawrence @thejuanwilliams",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20295222,
+    "id_str": "20295222",
+    "name": "Emily Pierce",
+    "screen_name": "emilyprollcall",
+    "location": "",
+    "description": "Senate editor for @RollCall Newspaper in D.C., wonktastic mom of two, Congressional procedure nerd",
+    "url": "http://www.rollcall.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.rollcall.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2380,
+    "friends_count": 443,
+    "listed_count": 152,
+    "created_at": "Sat Feb 07 05:16:21 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6554,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1154321512/headshot_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1154321512/headshot_normal.png",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "l_whittington",
+        "name": "Lauren Whittington",
+        "id": 159609655,
+        "id_str": "159609655",
+        "indices": [
+          9,
+          23
+        ]
+      },
+      {
+        "screen_name": "cbellantoni",
+        "name": "Christina Bellantoni",
+        "id": 15689503,
+        "id_str": "15689503",
+        "indices": [
+          29,
+          41
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          65,
+          77
+        ]
+      },
+      {
+        "screen_name": "jmartpolitico",
+        "name": "jmartpolitico",
+        "id": 18678924,
+        "id_str": "18678924",
+        "indices": [
+          92,
+          106
+        ]
+      },
+      {
+        "screen_name": "JillDLawrence",
+        "name": "Jill Lawrence",
+        "id": 47415772,
+        "id_str": "47415772",
+        "indices": [
+          107,
+          121
+        ]
+      },
+      {
+        "screen_name": "TheJuanWilliams",
+        "name": "Juan Williams",
+        "id": 228747444,
+        "id_str": "228747444",
+        "indices": [
+          122,
+          138
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

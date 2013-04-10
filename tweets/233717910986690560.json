@@ -1,0 +1,91 @@
+{
+  "created_at": "Fri Aug 10 00:14:26 +0000 2012",
+  "id": 233717910986690560,
+  "id_str": "233717910986690560",
+  "text": "I must go to a #UVA football game this year #wahoos",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 69434615,
+    "id_str": "69434615",
+    "name": "Olivia Camden",
+    "screen_name": "OliviaCamden",
+    "location": "Virginia ",
+    "description": "Petite and sweet!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 108,
+    "friends_count": 453,
+    "listed_count": 0,
+    "created_at": "Thu Aug 27 23:10:38 +0000 2009",
+    "favourites_count": 43,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1239,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/431256974/Cupcakes.ashx.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/431256974/Cupcakes.ashx.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3163717184/b9cdd63df57a904bebce8b959ef2e556_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3163717184/b9cdd63df57a904bebce8b959ef2e556_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/69434615/1359174179",
+    "profile_link_color": "FF6699",
+    "profile_sidebar_border_color": "BFBFBF",
+    "profile_sidebar_fill_color": "C9C9C9",
+    "profile_text_color": "1C1F23",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          15,
+          19
+        ]
+      },
+      {
+        "text": "wahoos",
+        "indices": [
+          44,
+          51
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

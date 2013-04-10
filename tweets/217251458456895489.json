@@ -1,0 +1,121 @@
+{
+  "created_at": "Mon Jun 25 13:42:38 +0000 2012",
+  "id": 217251458456895489,
+  "id_str": "217251458456895489",
+  "text": "@FoliaWeb doet de eerste voorzichtige schreden op Foursquare https://t.co/1nAHAHif #HvA #UvA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 324834016,
+  "in_reply_to_user_id_str": "324834016",
+  "in_reply_to_screen_name": "FoliaWeb",
+  "user": {
+    "id": 7500422,
+    "id_str": "7500422",
+    "name": "Wim de Jong",
+    "screen_name": "wimdejong",
+    "location": "Amsterdam",
+    "description": "Eindredacteur @FoliaWeb, nieuws en meer over UvA en HvA",
+    "url": "http://www.foliaweb.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.foliaweb.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 796,
+    "friends_count": 998,
+    "listed_count": 20,
+    "created_at": "Mon Jul 16 07:33:24 +0000 2007",
+    "favourites_count": 20,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2763,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F4E724",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1448407474/263704_10150226909469141_650894140_7432072_4251155_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1448407474/263704_10150226909469141_650894140_7432072_4251155_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/7500422/1359193562",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HvA",
+        "indices": [
+          83,
+          87
+        ]
+      },
+      {
+        "text": "UvA",
+        "indices": [
+          88,
+          92
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/1nAHAHif",
+        "expanded_url": "https://foursquare.com/foliaweb",
+        "display_url": "foursquare.com/foliaweb",
+        "indices": [
+          61,
+          82
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "FoliaWeb",
+        "name": "Folia Web",
+        "id": 324834016,
+        "id_str": "324834016",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,102 @@
+{
+  "created_at": "Tue Jun 19 06:42:31 +0000 2012",
+  "id": 214971404213428225,
+  "id_str": "214971404213428225",
+  "text": "#UVA #BOV meeting is over! A new interim president has been nominated Carl Zeithaml  the current Dean of the McIntire School of Commerce.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 545098583,
+    "id_str": "545098583",
+    "name": "Good AM Washington",
+    "screen_name": "ABC7GMW",
+    "location": "Washington, DC",
+    "description": "News, Traffic and Weather from the Washington area's best morning team!",
+    "url": "http://www.wjla.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wjla.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 356,
+    "friends_count": 103,
+    "listed_count": 9,
+    "created_at": "Wed Apr 04 12:45:53 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1361,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2970243108/4676475eca4237b4911e4e3b7d01fb54_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2970243108/4676475eca4237b4911e4e3b7d01fb54_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          5,
+          9
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,119 @@
+{
+  "created_at": "Mon Jun 25 15:10:04 +0000 2012",
+  "id": 217273461700182016,
+  "id_str": "217273461700182016",
+  "text": "@BMaffett Have you seen this? \"@CronkNews: New: U-Va. Rector Dragas Aims to Remove God from Notre Dame http://t.co/nUGhsTDS #highered #UVA”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 24827481,
+  "in_reply_to_user_id_str": "24827481",
+  "in_reply_to_screen_name": "BMaffett",
+  "user": {
+    "id": 459854721,
+    "id_str": "459854721",
+    "name": "Chad R. Mandala",
+    "screen_name": "ChadRMandala",
+    "location": "",
+    "description": "Not all who wander are lost.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 266,
+    "friends_count": 400,
+    "listed_count": 10,
+    "created_at": "Tue Jan 10 03:51:23 +0000 2012",
+    "favourites_count": 38,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2239,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1792150384/181678_10150091887563647_505003646_6261055_1523854_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1792150384/181678_10150091887563647_505003646_6261055_1523854_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/459854721/1349442964",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "highered",
+        "indices": [
+          124,
+          133
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          134,
+          138
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/nUGhsTDS",
+        "expanded_url": "http://bit.ly/LLxVoi",
+        "display_url": "bit.ly/LLxVoi",
+        "indices": [
+          103,
+          123
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BMaffett",
+        "name": "Britt",
+        "id": 24827481,
+        "id_str": "24827481",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "CronkNews",
+        "name": "CronkNews",
+        "id": 44928151,
+        "id_str": "44928151",
+        "indices": [
+          31,
+          41
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

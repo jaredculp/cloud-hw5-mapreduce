@@ -1,0 +1,112 @@
+{
+  "created_at": "Thu Jun 21 22:31:57 +0000 2012",
+  "id": 215935113572270082,
+  "id_str": "215935113572270082",
+  "text": "RT @wpjenna: Former Virginia Gov @timkaine: \"I think they should offer to reinstate President Sullivan.\" http://t.co/qslWAtpI  #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20656734,
+    "id_str": "20656734",
+    "name": "carter berger",
+    "screen_name": "popcarts",
+    "location": "nyc",
+    "description": "Excuse my dust.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 99,
+    "friends_count": 278,
+    "listed_count": 3,
+    "created_at": "Thu Feb 12 05:31:49 +0000 2009",
+    "favourites_count": 98,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8272,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0F1180",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/689828030/425193c57683bbdf065cbb2a005cf2e4.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/689828030/425193c57683bbdf065cbb2a005cf2e4.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3026893384/1081d4e769117a5769289a127a738480_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3026893384/1081d4e769117a5769289a127a738480_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/20656734/1357575066",
+    "profile_link_color": "117170",
+    "profile_sidebar_border_color": "96E2A1",
+    "profile_sidebar_fill_color": "65C298",
+    "profile_text_color": "4EA687",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          127,
+          131
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/qslWAtpI",
+        "expanded_url": "http://tinyurl.com/86jnoug",
+        "display_url": "tinyurl.com/86jnoug",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          3,
+          11
+        ]
+      },
+      {
+        "screen_name": "timkaine",
+        "name": "Senator Tim Kaine",
+        "id": 172858784,
+        "id_str": "172858784",
+        "indices": [
+          33,
+          42
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

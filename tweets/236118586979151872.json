@@ -1,0 +1,112 @@
+{
+  "created_at": "Thu Aug 16 15:13:52 +0000 2012",
+  "id": 236118586979151872,
+  "id_str": "236118586979151872",
+  "text": "Any idea of what time? RT @rivalsmike Wyatt Teller decision coming tomorrow (Friday) between #Hokies and #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 236117683513462785,
+  "in_reply_to_status_id_str": "236117683513462785",
+  "in_reply_to_user_id": 170021040,
+  "in_reply_to_user_id_str": "170021040",
+  "in_reply_to_screen_name": "rivalsmike",
+  "user": {
+    "id": 121947320,
+    "id_str": "121947320",
+    "name": "THE KEY PLAY",
+    "screen_name": "thekeyplay",
+    "location": "#HokieNation",
+    "description": "#HOKIES. 38-0. I'M NOT YELLING AT YOU, I JUST TYPE IN ALL-CAPS DURING FOOTBALL SEASON. BEAT ALABAMA.",
+    "url": "http://www.thekeyplay.com/user/register",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.thekeyplay.com/user/register",
+            "expanded_url": null,
+            "indices": [
+              0,
+              39
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6877,
+    "friends_count": 345,
+    "listed_count": 245,
+    "created_at": "Thu Mar 11 03:30:57 +0000 2010",
+    "favourites_count": 4171,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 39794,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0F0F0F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/320500940/twitter-background6.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/320500940/twitter-background6.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1311388507/bitch-please-3_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1311388507/bitch-please-3_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/121947320/1348144389",
+    "profile_link_color": "660000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "660000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Hokies",
+        "indices": [
+          93,
+          100
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          105,
+          109
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rivalsmike",
+        "name": "Mike Farrell",
+        "id": 170021040,
+        "id_str": "170021040",
+        "indices": [
+          26,
+          37
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,115 @@
+{
+  "created_at": "Fri Jun 22 15:52:45 +0000 2012",
+  "id": 216197038604431360,
+  "id_str": "216197038604431360",
+  "text": "University accrediting agency plans to determine whether #BOV actions put #UVA out of compliance. #Sullivan @sivavaid http://t.co/RYUwynpU",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 588543835,
+    "id_str": "588543835",
+    "name": "Tara Casey",
+    "screen_name": "legal_lou",
+    "location": "",
+    "description": "Current member of UR Law faculty; former Assistant U.S. Attorney; do not claim to be an expert, just trying to stay on top of it all.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 95,
+    "friends_count": 71,
+    "listed_count": 3,
+    "created_at": "Wed May 23 19:59:20 +0000 2012",
+    "favourites_count": 114,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 638,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2244323212/Casey_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2244323212/Casey_normal.jpg",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 5,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          57,
+          61
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          74,
+          78
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          98,
+          107
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/RYUwynpU",
+        "expanded_url": "http://www2.timesdispatch.com/news/news/2012/jun/22/tdmain01-uva-board-to-reconsider-sullivan-ouster-ar-2005566/",
+        "display_url": "www2.timesdispatch.com/news/news/2012…",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          108,
+          117
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

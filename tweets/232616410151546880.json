@@ -1,0 +1,97 @@
+{
+  "created_at": "Mon Aug 06 23:17:28 +0000 2012",
+  "id": 232616410151546880,
+  "id_str": "232616410151546880",
+  "text": "Bebendo sucoo dee #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 368919234,
+    "id_str": "368919234",
+    "name": "-",
+    "screen_name": "MillenaLemes",
+    "location": "São Paulo",
+    "description": "' It doesn't matter if you love him, or capital H-I-M..Just put your paws up..'Cause you were born this way, Baby (8*",
+    "url": "http://t.co/uTF4oPUf",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/uTF4oPUf",
+            "expanded_url": "http://www.facebook.com/millena.lemes",
+            "display_url": "facebook.com/millena.lemes",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 532,
+    "friends_count": 369,
+    "listed_count": 1,
+    "created_at": "Tue Sep 06 13:13:03 +0000 2011",
+    "favourites_count": 36,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 19569,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/782882004/acee50154bd519eac4b12e6f34c2901b.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/782882004/acee50154bd519eac4b12e6f34c2901b.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3211508534/5a4d0444d056a0aaf0c2fa9fccef4bfc_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3211508534/5a4d0444d056a0aaf0c2fa9fccef4bfc_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/368919234/1360081249",
+    "profile_link_color": "F0081B",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          18,
+          22
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

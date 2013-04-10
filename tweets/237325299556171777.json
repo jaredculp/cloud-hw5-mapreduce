@@ -1,0 +1,90 @@
+{
+  "created_at": "Sun Aug 19 23:08:55 +0000 2012",
+  "id": 237325299556171777,
+  "id_str": "237325299556171777",
+  "text": "Tengo una nueva adicción: los TOMATES UVAS. #tomate #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 182035502,
+    "id_str": "182035502",
+    "name": "Francisco Maytorena",
+    "screen_name": "franzmmayt",
+    "location": "Hermosillo, Sonora, México",
+    "description": "Amante de la arquitectura, del diseño, de la música, del deporte, de los vídeo juegos. Pero, soy dentista.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 129,
+    "friends_count": 289,
+    "listed_count": 2,
+    "created_at": "Mon Aug 23 17:37:19 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1283,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1109296079/twit_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1109296079/twit_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "tomate",
+        "indices": [
+          44,
+          51
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          52,
+          56
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

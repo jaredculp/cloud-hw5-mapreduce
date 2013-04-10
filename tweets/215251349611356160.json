@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jun 20 01:14:55 +0000 2012",
+  "id": 215251349611356160,
+  "id_str": "215251349611356160",
+  "text": ".@cavalierdaily What do people think \"Wahoo1\" is? @amasays @mediaUVAgreg @sivavaid #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215247746330918913,
+  "in_reply_to_status_id_str": "215247746330918913",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 584900703,
+    "id_str": "584900703",
+    "name": "Kevin King",
+    "screen_name": "KingEcon",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 34,
+    "friends_count": 266,
+    "listed_count": 0,
+    "created_at": "Sat May 19 14:46:53 +0000 2012",
+    "favourites_count": 2,
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 493,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2332333558/aytfefng57y0h4835l1i_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2332333558/aytfefng57y0h4835l1i_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          83,
+          87
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          1,
+          15
+        ]
+      },
+      {
+        "screen_name": "amasays",
+        "name": "Anne-Marie Angelo",
+        "id": 17700609,
+        "id_str": "17700609",
+        "indices": [
+          50,
+          58
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          73,
+          82
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

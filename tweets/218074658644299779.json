@@ -1,0 +1,133 @@
+{
+  "created_at": "Wed Jun 27 20:13:44 +0000 2012",
+  "id": 218074658644299779,
+  "id_str": "218074658644299779",
+  "text": "A proper RT for @girlinblack RT @girlinblack: &lt;3 2 @sivavaid 4 dropping ths baller #UVA postgame! \" http://t.co/E95vnXXP",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 27954050,
+    "id_str": "27954050",
+    "name": "Michael Kiser",
+    "screen_name": "one_lucky_man",
+    "location": "Waterville, ME",
+    "description": "",
+    "url": "http://www.oneluckyman.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.oneluckyman.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 147,
+    "friends_count": 122,
+    "listed_count": 12,
+    "created_at": "Tue Mar 31 20:24:15 +0000 2009",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1278,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1250709474/Michael_KiserTwitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1250709474/Michael_KiserTwitter_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          86,
+          90
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/E95vnXXP",
+        "expanded_url": "http://slate.me/MqjSY1",
+        "display_url": "slate.me/MqjSY1",
+        "indices": [
+          103,
+          123
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "girlinblack",
+        "name": "Josette Torres",
+        "id": 53983,
+        "id_str": "53983",
+        "indices": [
+          16,
+          28
+        ]
+      },
+      {
+        "screen_name": "girlinblack",
+        "name": "Josette Torres",
+        "id": 53983,
+        "id_str": "53983",
+        "indices": [
+          32,
+          44
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          54,
+          63
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

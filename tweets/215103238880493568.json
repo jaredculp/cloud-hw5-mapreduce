@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 19 15:26:23 +0000 2012",
+  "id": 215103238880493568,
+  "id_str": "215103238880493568",
+  "text": "For the first time ever I am ashamed to be a graduate of #UVA  No one represents me less than the #BOV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 430361036,
+    "id_str": "430361036",
+    "name": "Leah F.",
+    "screen_name": "leahf2010",
+    "location": "Virginia",
+    "description": "Queer activist. Traveler. Geek. ",
+    "url": "http://t.co/80pHp4T1",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/80pHp4T1",
+            "expanded_url": "http://cas-thewaywardangel.tumblr.com/",
+            "display_url": "cas-thewaywardangel.tumblr.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 76,
+    "friends_count": 109,
+    "listed_count": 1,
+    "created_at": "Wed Dec 07 02:32:53 +0000 2011",
+    "favourites_count": 788,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1537,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2596655532/AXaKqYp0_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2596655532/AXaKqYp0_normal",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/430361036/1357279049",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          57,
+          61
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          98,
+          102
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,129 @@
+{
+  "created_at": "Wed Jun 20 02:35:14 +0000 2012",
+  "id": 215271562130112512,
+  "id_str": "215271562130112512",
+  "text": "Rich morons #UVA #BOV RT @historianess: From emails from @cavalierdaily: someone reads something abt Stanford in  WSJ and a president falls.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 9905192,
+    "id_str": "9905192",
+    "name": "Catherine Kerr",
+    "screen_name": "cathy_kerr",
+    "location": "Brown University ",
+    "description": " I do brain science related to Mindfulness, Tai Chi  and healing. I also do health-science epistemology. See \r\n \r\nhttp://t.co/WZu4fMhO ",
+    "url": "http://research.brown.edu/research/profile.php?id=1314807477&r=1",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://research.brown.edu/research/profile.php?id=1314807477&r=1",
+            "expanded_url": null,
+            "indices": [
+              0,
+              64
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/WZu4fMhO",
+            "expanded_url": "http://brown.academia.edu/CatherineKerr/About",
+            "display_url": "brown.academia.edu/CatherineKerr/…",
+            "indices": [
+              114,
+              134
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 558,
+    "friends_count": 534,
+    "listed_count": 44,
+    "created_at": "Sat Nov 03 02:43:02 +0000 2007",
+    "favourites_count": 1291,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4823,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/35014467/jeeproad_tellu2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/35014467/jeeproad_tellu2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/366438041/IMG_0437_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/366438041/IMG_0437_normal.JPG",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          12,
+          16
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          17,
+          21
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "historianess",
+        "name": "The Historianess",
+        "id": 140665322,
+        "id_str": "140665322",
+        "indices": [
+          25,
+          38
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          57,
+          71
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

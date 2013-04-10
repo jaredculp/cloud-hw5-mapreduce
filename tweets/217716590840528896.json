@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 26 20:30:54 +0000 2012",
+  "id": 217716590840528896,
+  "id_str": "217716590840528896",
+  "text": "http://t.co/PUTjoxHQ #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 48267960,
+    "id_str": "48267960",
+    "name": "Jon Spielberg",
+    "screen_name": "jon19003",
+    "location": "Philadelphia PA",
+    "description": "Exposes photo students to filmmaking to turn them from the stillness of their lives",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 226,
+    "friends_count": 1876,
+    "listed_count": 6,
+    "created_at": "Thu Jun 18 06:20:36 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1362,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1600168307/IMG_5436_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1600168307/IMG_5436_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          21,
+          25
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/PUTjoxHQ",
+        "expanded_url": "http://www.insidehighered.com/news/2012/06/26/uva-board-reinstates-sullivan-president",
+        "display_url": "insidehighered.com/news/2012/06/2…",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

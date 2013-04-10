@@ -1,0 +1,115 @@
+{
+  "created_at": "Mon Jun 25 19:43:06 +0000 2012",
+  "id": 217342173824290816,
+  "id_str": "217342173824290816",
+  "text": "Fantastic. #UVa Library has a digital archive for materials related to Sullivan's resignation http://t.co/EyTUt3qb \n\nvia @BradleyDaigle",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 222342668,
+    "id_str": "222342668",
+    "name": "Robin Camille Davis",
+    "screen_name": "robincamille",
+    "location": "New York, NY",
+    "description": "Loving books & internet. Learning Drupal & Python.\r\nEmerging Tech Librarian @JohnJayLibrary. \r\n(Views mine.)",
+    "url": "http://t.co/jjXVoyv9",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/jjXVoyv9",
+            "expanded_url": "http://robincamille.com",
+            "display_url": "robincamille.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 344,
+    "friends_count": 323,
+    "listed_count": 24,
+    "created_at": "Fri Dec 03 04:00:37 +0000 2010",
+    "favourites_count": 108,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1198,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9F3322",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/775970922/aab044035c1eb1e448c8147a033fffb6.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/775970922/aab044035c1eb1e448c8147a033fffb6.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2646867700/c433f227e8d31cc492bc887169a3c153_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2646867700/c433f227e8d31cc492bc887169a3c153_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/222342668/1359397413",
+    "profile_link_color": "0C277A",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "454545",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          11,
+          15
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/EyTUt3qb",
+        "expanded_url": "http://sullivan.lib.virginia.edu/",
+        "display_url": "sullivan.lib.virginia.edu",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BradleyDaigle",
+        "name": "Bradley Daigle",
+        "id": 298112917,
+        "id_str": "298112917",
+        "indices": [
+          121,
+          135
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

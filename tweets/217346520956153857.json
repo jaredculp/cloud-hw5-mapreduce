@@ -1,0 +1,113 @@
+{
+  "created_at": "Mon Jun 25 20:00:23 +0000 2012",
+  "id": 217346520956153857,
+  "id_str": "217346520956153857",
+  "text": "RT @wpjenna: The top student leaders at #UVA stop short of saying ‘Reinstate Sullivan.’ http://t.co/2U7nds4L",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13235502,
+    "id_str": "13235502",
+    "name": "Christopher",
+    "screen_name": "cenelson08",
+    "location": "NYC & the DMV (Bmore)",
+    "description": "Baltimore native. @mcdonogh @loyolamaryland @georgetownlaw alum. I've worked @cbsbaltimore & @nbcnews. Links/retweets aren't endorsements. Opinions are my own. ",
+    "url": "http://goo.gl/xfiaJ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://goo.gl/xfiaJ",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1289,
+    "friends_count": 1868,
+    "listed_count": 71,
+    "created_at": "Fri Feb 08 05:11:19 +0000 2008",
+    "favourites_count": 172,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 34939,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2272531771/u79bsm258ot5akn64vtu_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2272531771/u79bsm258ot5akn64vtu_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          40,
+          44
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/2U7nds4L",
+        "expanded_url": "http://wapo.st/MTAIcK",
+        "display_url": "wapo.st/MTAIcK",
+        "indices": [
+          88,
+          108
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,172 @@
+{
+  "created_at": "Fri Aug 31 01:40:10 +0000 2012",
+  "id": 241349630779080705,
+  "id_str": "241349630779080705",
+  "text": "Let me put on my shock face RT @BizBlanco: http://t.co/vOFccUDZ | #UVA Omega Psi Fraternity Undr Investigation 4 Hazing http://t.co/XHnoTrRO",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 27028235,
+    "id_str": "27028235",
+    "name": "Imo Nse Imeh ΑΦΑ",
+    "screen_name": "ImoImeh",
+    "location": "Springfield, MA",
+    "description": "Artist & Scholar of African Diaspora Art | PhD in Art History via Yale Univ. | Author: Daughters of Seclusion http://t.co/RNUdYrNp | http://t.co/mJxdBX5f",
+    "url": "http://www.imoimeh.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.imoimeh.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/RNUdYrNp",
+            "expanded_url": "http://amzn.to/HqsOF5",
+            "display_url": "amzn.to/HqsOF5",
+            "indices": [
+              110,
+              130
+            ]
+          },
+          {
+            "url": "http://t.co/mJxdBX5f",
+            "expanded_url": "http://www.facebook.com/imoimeh",
+            "display_url": "facebook.com/imoimeh",
+            "indices": [
+              133,
+              153
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 877,
+    "friends_count": 790,
+    "listed_count": 30,
+    "created_at": "Fri Mar 27 15:37:26 +0000 2009",
+    "favourites_count": 688,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 17310,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3209291884/3a1739e4e5cc873cc17fb7229d9b4dbe_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3209291884/3a1739e4e5cc873cc17fb7229d9b4dbe_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "9f4583bf6dae13c4",
+    "url": "https://api.twitter.com/1.1/geo/id/9f4583bf6dae13c4.json",
+    "place_type": "city",
+    "name": "Springfield",
+    "full_name": "Springfield, MA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.621534,
+            42.063595
+          ],
+          [
+            -72.471149,
+            42.063595
+          ],
+          [
+            -72.471149,
+            42.162086
+          ],
+          [
+            -72.621534,
+            42.162086
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          66,
+          70
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/vOFccUDZ",
+        "expanded_url": "http://bizzyblanco.com",
+        "display_url": "bizzyblanco.com",
+        "indices": [
+          43,
+          63
+        ]
+      },
+      {
+        "url": "http://t.co/XHnoTrRO",
+        "expanded_url": "http://bizzyblanco.com/uva-omega-psi-fraternity-under-investigation-for-hazing-is-hazing-right/",
+        "display_url": "bizzyblanco.com/uva-omega-psi-…",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BizBlanco",
+        "name": "Bizzy Blanco™",
+        "id": 52496561,
+        "id_str": "52496561",
+        "indices": [
+          31,
+          41
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

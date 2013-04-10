@@ -1,0 +1,130 @@
+{
+  "created_at": "Mon Jun 25 20:16:49 +0000 2012",
+  "id": 217350656632160257,
+  "id_str": "217350656632160257",
+  "text": "DH + GIS + Rally: Aerial photography of Sunday's #UVA #Rally4Honor from @scholarslab http://t.co/x2NC4Y1J via @KellyGJohnston",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19243544,
+    "id_str": "19243544",
+    "name": "Wendy Hsu",
+    "screen_name": "wendyfhsu",
+    "location": "Los Angeles / Taipei",
+    "description": "Music Ethnographer; Digital Humanist; Musician @dzianband",
+    "url": "http://beingwendyhsu.info",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://beingwendyhsu.info",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1038,
+    "friends_count": 461,
+    "listed_count": 69,
+    "created_at": "Tue Jan 20 16:30:57 +0000 2009",
+    "favourites_count": 185,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5830,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B50412",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/65186588/Mao_streetart_taipei.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/65186588/Mao_streetart_taipei.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1290347805/WH_TheBridgeDrawing_sm_cl_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1290347805/WH_TheBridgeDrawing_sm_cl_normal.jpg",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          49,
+          53
+        ]
+      },
+      {
+        "text": "Rally4Honor",
+        "indices": [
+          54,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/x2NC4Y1J",
+        "expanded_url": "http://is.gd/59Ubhw",
+        "display_url": "is.gd/59Ubhw",
+        "indices": [
+          85,
+          105
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "scholarslab",
+        "name": "scholarslab",
+        "id": 15175262,
+        "id_str": "15175262",
+        "indices": [
+          72,
+          84
+        ]
+      },
+      {
+        "screen_name": "KellyGJohnston",
+        "name": "Kelly Johnston",
+        "id": 49891096,
+        "id_str": "49891096",
+        "indices": [
+          110,
+          125
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

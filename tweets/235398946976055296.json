@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Aug 14 15:34:17 +0000 2012",
+  "id": 235398946976055296,
+  "id_str": "235398946976055296",
+  "text": "@Uvasdoce y sabe mejor! Por cierto os recomendamos el aceite #ecologico de setas, junto con la #uva es exquisito!!",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 235398282887720962,
+  "in_reply_to_status_id_str": "235398282887720962",
+  "in_reply_to_user_id": 318445117,
+  "in_reply_to_user_id_str": "318445117",
+  "in_reply_to_screen_name": "Uvasdoce",
+  "user": {
+    "id": 413798745,
+    "id_str": "413798745",
+    "name": "Canela y Clavo AC",
+    "screen_name": "canelaYclavo_AC",
+    "location": "España",
+    "description": "Agencia de Comunicación especializada en el sector alimentación, con más de 30 años de experiencia. Comunicación 2.0.",
+    "url": "http://canelayclavocomunicacion.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://canelayclavocomunicacion.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 94,
+    "friends_count": 198,
+    "listed_count": 1,
+    "created_at": "Wed Nov 16 08:23:05 +0000 2011",
+    "favourites_count": 8,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 240,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/441821406/cyc.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/441821406/cyc.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1874513669/cyc_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1874513669/cyc_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ecologico",
+        "indices": [
+          61,
+          71
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          95,
+          99
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Uvasdoce",
+        "name": "Uvasdoce",
+        "id": 318445117,
+        "id_str": "318445117",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

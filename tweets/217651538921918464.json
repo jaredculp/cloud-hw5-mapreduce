@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue Jun 26 16:12:25 +0000 2012",
+  "id": 217651538921918464,
+  "id_str": "217651538921918464",
+  "text": "RT @mr_reedy: Hi all. I taught biology in @ChiPubSchools for the past 7 years.  Im now a PhD student in evolutionary bio at #UVA. #ideaschat",
+  "source": "<a href=\"http://tweetchat.com/\" rel=\"nofollow\">TweetChat</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 175145606,
+    "id_str": "175145606",
+    "name": "Chicago Ideas Week",
+    "screen_name": "chicagoideas",
+    "location": "Chicago, IL",
+    "description": "Chicago Ideas Week is an annual 7-day celebration of ideas & innovation, designed to ignite, inspire, & connect the city around great ideas & people. #CIW",
+    "url": "http://chicagoideas.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://chicagoideas.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 11547,
+    "friends_count": 1896,
+    "listed_count": 303,
+    "created_at": "Thu Aug 05 19:15:51 +0000 2010",
+    "favourites_count": 160,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 8229,
+    "lang": "en",
+    "contributors_enabled": true,
+    "is_translator": false,
+    "profile_background_color": "1C2120",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/707016814/1708f21953510c2dabe5c243dc43cf9c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/707016814/1708f21953510c2dabe5c243dc43cf9c.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2159947327/Screen_shot_2012-04-23_at_2.06.26_PM_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2159947327/Screen_shot_2012-04-23_at_2.06.26_PM_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/175145606/1359653469",
+    "profile_link_color": "113FF5",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "363336",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          124,
+          128
+        ]
+      },
+      {
+        "text": "ideaschat",
+        "indices": [
+          130,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mr_reedy",
+        "name": "Aaron Reedy",
+        "id": 197258209,
+        "id_str": "197258209",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "ChiPubSchools",
+        "name": "ChicagoPublicSchools",
+        "id": 255059151,
+        "id_str": "255059151",
+        "indices": [
+          42,
+          56
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,151 @@
+{
+  "created_at": "Tue Aug 21 18:09:53 +0000 2012",
+  "id": 237974822905323520,
+  "id_str": "237974822905323520",
+  "text": "Smoke!! “@CoachMikeLondon: Things are heating up in Hooville!!!  Iron Sharpens Iron \n#UVA #GoHoos #ACC”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 165990485,
+    "id_str": "165990485",
+    "name": "Jay O'Donnell",
+    "screen_name": "JayOD1",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 34,
+    "friends_count": 292,
+    "listed_count": 0,
+    "created_at": "Tue Jul 13 01:52:09 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 33,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2691507325/cf00f5dd7de79cabc10ecd2df51668b6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2691507325/cf00f5dd7de79cabc10ecd2df51668b6_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.89931342,
+      -77.02417764
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.02417764,
+      38.89931342
+    ]
+  },
+  "place": {
+    "id": "01fbe706f872cb32",
+    "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+    "place_type": "city",
+    "name": "Washington",
+    "full_name": "Washington, DC",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.119759,
+            38.791645
+          ],
+          [
+            -76.909393,
+            38.791645
+          ],
+          [
+            -76.909393,
+            38.995548
+          ],
+          [
+            -77.119759,
+            38.995548
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          85,
+          89
+        ]
+      },
+      {
+        "text": "GoHoos",
+        "indices": [
+          90,
+          97
+        ]
+      },
+      {
+        "text": "ACC",
+        "indices": [
+          98,
+          102
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CoachMikeLondon",
+        "name": "Mike London",
+        "id": 175767720,
+        "id_str": "175767720",
+        "indices": [
+          9,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,110 @@
+{
+  "created_at": "Tue Jun 26 19:28:21 +0000 2012",
+  "id": 217700847566598144,
+  "id_str": "217700847566598144",
+  "text": "#Sullivan re-instated! #BOV #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 245935071,
+    "id_str": "245935071",
+    "name": "AIDS Services Group",
+    "screen_name": "ASGVA",
+    "location": "Charlottesville, VA",
+    "description": "Building community for people living with, affected by, or at risk for HIV or AIDS. http://www.givinglibrary.org/organizations/aidshiv-services-group",
+    "url": "http://www.asgva.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.asgva.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 431,
+    "friends_count": 558,
+    "listed_count": 15,
+    "created_at": "Tue Feb 01 19:43:08 +0000 2011",
+    "favourites_count": 3,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 860,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "171717",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/669857020/d6303b93266981201b39cb09dcb5f2e8.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/669857020/d6303b93266981201b39cb09dcb5f2e8.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1231970833/ASG_LogoA_Complete_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1231970833/ASG_LogoA_Complete_normal.gif",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/245935071/1348664417",
+    "profile_link_color": "FF003C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "CCCCCC",
+    "profile_text_color": "363636",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          23,
+          27
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

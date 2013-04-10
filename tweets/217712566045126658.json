@@ -1,0 +1,108 @@
+{
+  "created_at": "Tue Jun 26 20:14:55 +0000 2012",
+  "id": 217712566045126658,
+  "id_str": "217712566045126658",
+  "text": "Right on, right on! @nancybaym: Huge congratulations to @sivavaid and everyone else at UVA on winning Pres. Sullivan's reinstatement!",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16607691,
+    "id_str": "16607691",
+    "name": "JoannaOC",
+    "screen_name": "JoannaOC",
+    "location": "Minneapolis",
+    "description": "reading all the books",
+    "url": "http://www.joannao.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.joannao.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 426,
+    "friends_count": 600,
+    "listed_count": 30,
+    "created_at": "Mon Oct 06 00:27:16 +0000 2008",
+    "favourites_count": 623,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10382,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "3D2626",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/166990701/x1dc99a852d63cf7cc142a9fe341a35a.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/166990701/x1dc99a852d63cf7cc142a9fe341a35a.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/61342848/avatar_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/61342848/avatar_normal.jpg",
+    "profile_link_color": "B0A489",
+    "profile_sidebar_border_color": "6CCC9F",
+    "profile_sidebar_fill_color": "CCFFC7",
+    "profile_text_color": "A2C495",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nancybaym",
+        "name": "Nancy Baym",
+        "id": 1290351,
+        "id_str": "1290351",
+        "indices": [
+          20,
+          30
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          56,
+          65
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

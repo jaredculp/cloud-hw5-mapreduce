@@ -1,0 +1,112 @@
+{
+  "created_at": "Tue Jun 19 06:24:25 +0000 2012",
+  "id": 214966847857115136,
+  "id_str": "214966847857115136",
+  "text": ".@IsaacWood is this thing turning into the 1920 Democratic National Convention redux? #UVA #BOV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 214966519640236032,
+  "in_reply_to_status_id_str": "214966519640236032",
+  "in_reply_to_user_id": 21119925,
+  "in_reply_to_user_id_str": "21119925",
+  "in_reply_to_screen_name": "IsaacWood",
+  "user": {
+    "id": 14457121,
+    "id_str": "14457121",
+    "name": "Rick_Sincere",
+    "screen_name": "Rick_Sincere",
+    "location": "Charlottesville, VA",
+    "description": "blogger, book reviewer, theatre critic, libertarian, Republican, political activist, election official, cofounder of Gays & Lesbians for Individual Liberty",
+    "url": "http://www.RickSincere.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.RickSincere.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1541,
+    "friends_count": 1997,
+    "listed_count": 79,
+    "created_at": "Mon Apr 21 01:45:20 +0000 2008",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 20409,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1710142710/Rick-Sincere-examiner_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1710142710/Rick-Sincere-examiner_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14457121/1349917866",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          86,
+          90
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "IsaacWood",
+        "name": "Isaac Wood",
+        "id": 21119925,
+        "id_str": "21119925",
+        "indices": [
+          1,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,111 @@
+{
+  "created_at": "Wed Aug 15 16:00:56 +0000 2012",
+  "id": 235768043416981504,
+  "id_str": "235768043416981504",
+  "text": "WaPo: President #Sullivan seeks lessons from #UVA crisis \n http://t.co/JC5XGMpJ",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Safari on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21422565,
+    "id_str": "21422565",
+    "name": "Sean McCord",
+    "screen_name": "seanmccord",
+    "location": "iPhone: 38.051796,-78.498711",
+    "description": "",
+    "url": "http://citizenmccord.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://citizenmccord.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 199,
+    "friends_count": 308,
+    "listed_count": 15,
+    "created_at": "Fri Feb 20 19:01:18 +0000 2009",
+    "favourites_count": 41,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2348,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/80780901/ldap_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/80780901/ldap_normal.jpg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          16,
+          25
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          45,
+          49
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/JC5XGMpJ",
+        "expanded_url": "http://mobile.washingtonpost.com/rss.jsp;jsessionid=1118A669D6CC1DB3EF8B8B8D75FD5AF6?rssid=599&item=http%3a%2f%2fwww.washingtonpost.com%2flocal%2feducation%2fsullivan-seeks-lessons-from-u-va-crisis%2f2012%2f08%2f14%2f1a20daac-e60b-11e1-936a-b801f1abab19_mobile.mobile&cid=-1&spf=1",
+        "display_url": "mobile.washingtonpost.com/rss.jsp;jsessi…",
+        "indices": [
+          59,
+          79
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,121 @@
+{
+  "created_at": "Sat Jun 23 23:41:58 +0000 2012",
+  "id": 216677507724869632,
+  "id_str": "216677507724869632",
+  "text": "#EMchat thoughts? +1 RT @wpjenna Turmoil at #UVA raises this question: What should premier public universities be? http://t.co/UUDTYSRG",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 226297283,
+    "id_str": "226297283",
+    "name": "Alex Williams",
+    "screen_name": "AlexMWilliams_",
+    "location": "Washington, DC",
+    "description": "Co-founder of #EMchat. Interested in my wife, dogs, education, @salisburyu and happy hours. ",
+    "url": "http://www.emchat.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.emchat.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 744,
+    "friends_count": 649,
+    "listed_count": 70,
+    "created_at": "Mon Dec 13 20:41:05 +0000 2010",
+    "favourites_count": 558,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10589,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2871988054/c9141c4076b1177d8ea516f7a8d23d16_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2871988054/c9141c4076b1177d8ea516f7a8d23d16_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/226297283/1353381759",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "EMchat",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          44,
+          48
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UUDTYSRG",
+        "expanded_url": "http://wapo.st/LIGyQq",
+        "display_url": "wapo.st/LIGyQq",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          24,
+          32
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

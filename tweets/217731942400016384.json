@@ -1,0 +1,109 @@
+{
+  "created_at": "Tue Jun 26 21:31:54 +0000 2012",
+  "id": 217731942400016384,
+  "id_str": "217731942400016384",
+  "text": "Hopped on Twitter; naively assumed that #UVA would be trending; instead saw #ThingsIGotAWhoopinFor. #TwitterPriorities",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 113533226,
+    "id_str": "113533226",
+    "name": "Carrie Allen Tipton",
+    "screen_name": "BachGrrl",
+    "location": "Houston",
+    "description": "All o'er those wide extended plains shines one eternal day\r\n",
+    "url": "http://carrieallentipton.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://carrieallentipton.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 51,
+    "friends_count": 74,
+    "listed_count": 3,
+    "created_at": "Fri Feb 12 03:35:55 +0000 2010",
+    "favourites_count": 5,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 609,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2670802980/945b6bdda693145279e611c2ce746b33_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2670802980/945b6bdda693145279e611c2ce746b33_normal.jpeg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          40,
+          44
+        ]
+      },
+      {
+        "text": "ThingsIGotAWhoopinFor",
+        "indices": [
+          76,
+          98
+        ]
+      },
+      {
+        "text": "TwitterPriorities",
+        "indices": [
+          100,
+          118
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

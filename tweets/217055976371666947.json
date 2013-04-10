@@ -1,0 +1,108 @@
+{
+  "created_at": "Mon Jun 25 00:45:52 +0000 2012",
+  "id": 217055976371666947,
+  "id_str": "217055976371666947",
+  "text": "This was *totally* not written by a paid publicist to make tomorrow's news cycle. Nah. » http://t.co/AUjKTgis /via @suzimcc",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 6223132,
+    "id_str": "6223132",
+    "name": "Max Fenton ",
+    "screen_name": "maxfenton",
+    "location": "Brooklyn",
+    "description": "Online editor of @believermag and evangelist of @abookapart. Considering the case for connected reading on networked screens.",
+    "url": "http://maxfenton.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://maxfenton.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2244,
+    "friends_count": 562,
+    "listed_count": 112,
+    "created_at": "Tue May 22 06:15:46 +0000 2007",
+    "favourites_count": 34284,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 22812,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0F0E0F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/325217237/body-bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/325217237/body-bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2919844609/57c34aa7b1688c86637c1bb1c37e3d45_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2919844609/57c34aa7b1688c86637c1bb1c37e3d45_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/6223132/1355882835",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "CFCFCF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/AUjKTgis",
+        "expanded_url": "http://on.wsj.com/OgWU7H",
+        "display_url": "on.wsj.com/OgWU7H",
+        "indices": [
+          89,
+          109
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "suzimcc",
+        "name": "Suzi McC",
+        "id": 20621761,
+        "id_str": "20621761",
+        "indices": [
+          115,
+          123
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

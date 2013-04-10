@@ -1,0 +1,135 @@
+{
+  "created_at": "Sun Jun 24 19:57:38 +0000 2012",
+  "id": 216983441483366400,
+  "id_str": "216983441483366400",
+  "text": "RT @RTDNEWS: More than 1,000 rally in support of ousted #UVA President Teresa #Sullivan. http://t.co/WlpiWvFI #rva #va",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18375327,
+    "id_str": "18375327",
+    "name": "Everett Will",
+    "screen_name": "DCAbloob",
+    "location": "Fort Washington, MD",
+    "description": "Washington, D.C. area news, sports with assorted views. RT ≠ endorsement. This is a high volume Twitter account.",
+    "url": "http://t.co/TiEErpa7",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/TiEErpa7",
+            "expanded_url": "http://goo.gl/6eUU1",
+            "display_url": "goo.gl/6eUU1",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2300,
+    "friends_count": 2008,
+    "listed_count": 111,
+    "created_at": "Thu Dec 25 15:04:34 +0000 2008",
+    "favourites_count": 2501,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 64688,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "500E1A",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/598654733/bannerfans_4592193_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/598654733/bannerfans_4592193_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          56,
+          60
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          78,
+          87
+        ]
+      },
+      {
+        "text": "rva",
+        "indices": [
+          110,
+          114
+        ]
+      },
+      {
+        "text": "va",
+        "indices": [
+          115,
+          118
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WlpiWvFI",
+        "expanded_url": "http://bit.ly/KGZ2mJ",
+        "display_url": "bit.ly/KGZ2mJ",
+        "indices": [
+          89,
+          109
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RTDNEWS",
+        "name": "Times-Dispatch",
+        "id": 23764675,
+        "id_str": "23764675",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

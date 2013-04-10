@@ -1,0 +1,99 @@
+{
+  "created_at": "Thu Jun 21 02:27:00 +0000 2012",
+  "id": 215631879448170496,
+  "id_str": "215631879448170496",
+  "text": "@amandafrench She technically is, til August 15th. #UVa #Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215630466034835459,
+  "in_reply_to_status_id_str": "215630466034835459",
+  "in_reply_to_user_id": 6361722,
+  "in_reply_to_user_id_str": "6361722",
+  "in_reply_to_screen_name": "amandafrench",
+  "user": {
+    "id": 525120255,
+    "id_str": "525120255",
+    "name": "John Laycock",
+    "screen_name": "jpl486",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 27,
+    "friends_count": 36,
+    "listed_count": 0,
+    "created_at": "Thu Mar 15 07:09:52 +0000 2012",
+    "favourites_count": 13,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 476,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1915773606/coffee_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1915773606/coffee_normal",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          51,
+          55
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          56,
+          65
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "amandafrench",
+        "name": "Amanda French",
+        "id": 6361722,
+        "id_str": "6361722",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,123 @@
+{
+  "created_at": "Tue Jun 26 20:18:20 +0000 2012",
+  "id": 217713425151836160,
+  "id_str": "217713425151836160",
+  "text": "RT @washingtonpost: The Lawn at #UVA erupts in cheers as Teresa Sullivan is reinstated, says @WPJenna: http://t.co/jg0fewob",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 517748373,
+    "id_str": "517748373",
+    "name": "News Street",
+    "screen_name": "News_Street",
+    "location": "United States",
+    "description": "To know means to choose. So, read our news, participate and assert your liberty!",
+    "url": "http://www.questionity.com/!News_Street/microblog",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.questionity.com/!News_Street/microblog",
+            "expanded_url": null,
+            "indices": [
+              0,
+              49
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 412,
+    "friends_count": 1370,
+    "listed_count": 4,
+    "created_at": "Wed Mar 07 16:42:33 +0000 2012",
+    "favourites_count": 1112,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2119,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "14508F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/587978329/sd97rtbmey7miiwvos44.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/587978329/sd97rtbmey7miiwvos44.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1881203360/News_Street_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1881203360/News_Street_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          32,
+          36
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/jg0fewob",
+        "expanded_url": "http://wapo.st/Le1lKO",
+        "display_url": "wapo.st/Le1lKO",
+        "indices": [
+          103,
+          123
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          93,
+          101
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

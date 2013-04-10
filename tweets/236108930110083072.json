@@ -1,0 +1,93 @@
+{
+  "created_at": "Thu Aug 16 14:35:30 +0000 2012",
+  "id": 236108930110083072,
+  "id_str": "236108930110083072",
+  "text": "@philliphess I know I've said this before, but you should have gone to #UVa.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 26607370,
+  "in_reply_to_user_id_str": "26607370",
+  "in_reply_to_screen_name": "philliphess",
+  "user": {
+    "id": 724281450,
+    "id_str": "724281450",
+    "name": "Woody Wingfield",
+    "screen_name": "uvadubs2007",
+    "location": "Fairfax, VA",
+    "description": "Proud UVa graduate. Development Officer at Marymount University in Arlington, VA by day, band dork by night. I love both my jobs. My views are my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 103,
+    "friends_count": 115,
+    "listed_count": 1,
+    "created_at": "Sun Jul 29 16:43:11 +0000 2012",
+    "favourites_count": 382,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1645,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/617726272/9z0yoleus0xax66idr6r.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/617726272/9z0yoleus0xax66idr6r.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2445481081/14349_679106043896_1539403_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2445481081/14349_679106043896_1539403_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/724281450/1349137497",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          71,
+          75
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "philliphess",
+        "name": "Phillip Hess",
+        "id": 26607370,
+        "id_str": "26607370",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 22:12:10 +0000 2012",
+  "id": 217742073405771776,
+  "id_str": "217742073405771776",
+  "text": "Sullivan reinstated 15-0 at #UVA. Wow. http://t.co/xsX4Wloz",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 811350,
+    "id_str": "811350",
+    "name": "Alexis Ohanian",
+    "screen_name": "alexisohanian",
+    "location": "Brooklyn, NY",
+    "description": "Startup guy: @reddit, @breadpig, @thehipmunk with the aim of making the world suck less. @YCombinator ambassador, investor, speaker, author. #Internet2012",
+    "url": "http://withoutyourpermission.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://withoutyourpermission.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 31701,
+    "friends_count": 2126,
+    "listed_count": 1646,
+    "created_at": "Mon Mar 05 03:26:51 +0000 2007",
+    "favourites_count": 402,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 28556,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/767349777/b0c50187955a2084cb02963ede99da73.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/767349777/b0c50187955a2084cb02963ede99da73.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2857702869/29cd01ace455f94642d32b99895be80a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2857702869/29cd01ace455f94642d32b99895be80a_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/811350/1353110713",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xsX4Wloz",
+        "expanded_url": "http://bit.ly/KC0jXA",
+        "display_url": "bit.ly/KC0jXA",
+        "indices": [
+          39,
+          59
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

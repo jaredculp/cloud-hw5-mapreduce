@@ -1,0 +1,99 @@
+{
+  "created_at": "Thu Jun 21 19:22:00 +0000 2012",
+  "id": 215887310850506752,
+  "id_str": "215887310850506752",
+  "text": "RT @MrJefferson_UVa 9 days Dragas. 9 days. #ticktock your term is almost over and I can have my University back. #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 72220010,
+    "id_str": "72220010",
+    "name": "Stevie Chancellor",
+    "screen_name": "snchancellor",
+    "location": "Northern VA",
+    "description": "Doing MA @ @GeorgetownCCT. Missing @UVa already. Interested in intellectual property, privacy online. Front end developer on the side",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 104,
+    "friends_count": 297,
+    "listed_count": 0,
+    "created_at": "Mon Sep 07 06:09:01 +0000 2009",
+    "favourites_count": 9,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 690,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4D4D4D",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/402527344/me_cropped_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/402527344/me_cropped_normal.jpg",
+    "profile_link_color": "341FD1",
+    "profile_sidebar_border_color": "67A0A3",
+    "profile_sidebar_fill_color": "9BDDE0",
+    "profile_text_color": "424242",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ticktock",
+        "indices": [
+          43,
+          52
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          113,
+          117
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MrJefferson_UVa",
+        "name": "Thomas Jefferson",
+        "id": 132633456,
+        "id_str": "132633456",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

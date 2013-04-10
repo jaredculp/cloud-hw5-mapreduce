@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 06:41:40 +0000 2012",
+  "id": 214971191595769856,
+  "id_str": "214971191595769856",
+  "text": "@LarrySabato The only surprise here then is the length of time it took the BOV to formally ratify what it allegedly had already decided.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 214970811629568000,
+  "in_reply_to_status_id_str": "214970811629568000",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 14768117,
+    "id_str": "14768117",
+    "name": "TBWheeler",
+    "screen_name": "TBWheeler",
+    "location": "Baltimore, MD",
+    "description": "Reports on environment and Chesapeake Bay. Loves oysters, rambles in the country and good stories.",
+    "url": "http://t.co/LUwXotnX",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/LUwXotnX",
+            "expanded_url": "http://www.baltimoresun.com/features/green/blog/",
+            "display_url": "baltimoresun.com/features/green…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1455,
+    "friends_count": 450,
+    "listed_count": 104,
+    "created_at": "Wed May 14 02:27:07 +0000 2008",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 278,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2A3332",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/745002818/d5897de31dfe0002fcb1c73a6246ea2a.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/745002818/d5897de31dfe0002fcb1c73a6246ea2a.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2310616578/wsyd3js98m7ri2fisqba_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2310616578/wsyd3js98m7ri2fisqba_normal.jpeg",
+    "profile_link_color": "A0A394",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

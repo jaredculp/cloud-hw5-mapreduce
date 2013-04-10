@@ -1,0 +1,152 @@
+{
+  "created_at": "Sun Aug 05 17:44:56 +0000 2012",
+  "id": 232170333900247040,
+  "id_str": "232170333900247040",
+  "text": "Look, getting the Rotunda ready for the upcoming freshmen! @andrewvutsinas @nick__masters @chels_eh #UVA http://t.co/CMUPRnKF",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 45663766,
+    "id_str": "45663766",
+    "name": "Cameron Wooddell",
+    "screen_name": "_MaryCameron",
+    "location": "",
+    "description": "Junk of the heart, is junk of my mind.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 324,
+    "friends_count": 239,
+    "listed_count": 0,
+    "created_at": "Mon Jun 08 20:37:55 +0000 2009",
+    "favourites_count": 1355,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5614,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3171522148/03cd29313b0c0493b0238ba89dc43747_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3171522148/03cd29313b0c0493b0238ba89dc43747_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/45663766/1358313782",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          100,
+          104
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "andrewvutsinas",
+        "name": "Andrew Vutsinas",
+        "id": 39149237,
+        "id_str": "39149237",
+        "indices": [
+          59,
+          74
+        ]
+      },
+      {
+        "screen_name": "nick__masters",
+        "name": "Nick Masters",
+        "id": 508379196,
+        "id_str": "508379196",
+        "indices": [
+          75,
+          89
+        ]
+      },
+      {
+        "screen_name": "chels_eh",
+        "name": "Chelsea Adams",
+        "id": 84477410,
+        "id_str": "84477410",
+        "indices": [
+          90,
+          99
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 232170333912829952,
+        "id_str": "232170333912829952",
+        "indices": [
+          105,
+          125
+        ],
+        "media_url": "http://pbs.twimg.com/media/AzjVsEhCEAA6WTn.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AzjVsEhCEAA6WTn.jpg",
+        "url": "http://t.co/CMUPRnKF",
+        "display_url": "pic.twitter.com/CMUPRnKF",
+        "expanded_url": "http://twitter.com/_MaryCameron/status/232170333900247040/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 453,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 768,
+            "h": 1024,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

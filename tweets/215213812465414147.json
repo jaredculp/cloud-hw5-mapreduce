@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 19 22:45:46 +0000 2012",
+  "id": 215213812465414147,
+  "id_str": "215213812465414147",
+  "text": "Yikes #uva RT @newsycombinator UVA Computer Science professor resigns over incompetence of board http://t.co/De6nwTbN",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21759396,
+    "id_str": "21759396",
+    "name": "Patrick Smith",
+    "screen_name": "PatrickSmithRVA",
+    "location": "Richmond, VA",
+    "description": "Professional - I build websites & get them ranked in search engines for http://t.co/oIggjBLI (@streamline,@convertable)\r\nAmateur - #BBQ, #JMU or #RVA.",
+    "url": "http://streamlinemetrics.com/about/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://streamlinemetrics.com/about/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 596,
+    "friends_count": 394,
+    "listed_count": 33,
+    "created_at": "Tue Feb 24 14:47:37 +0000 2009",
+    "favourites_count": 2077,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1782,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2677634027/6cde35292b69785733c805cce017da17_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2677634027/6cde35292b69785733c805cce017da17_normal.jpeg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          6,
+          10
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/De6nwTbN",
+        "expanded_url": "http://j.mp/LcMWD5",
+        "display_url": "j.mp/LcMWD5",
+        "indices": [
+          97,
+          117
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "newsycombinator",
+        "name": "news.yc Popular",
+        "id": 14335498,
+        "id_str": "14335498",
+        "indices": [
+          14,
+          30
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 20:19:13 +0000 2012",
+  "id": 215539320507994115,
+  "id_str": "215539320507994115",
+  "text": "the Declaration of Independence, updated for the new University of Virginia, http://t.co/aR1F1EeI via @crookedtimber #uva",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 292407130,
+    "id_str": "292407130",
+    "name": "ian hurd",
+    "screen_name": "ian_hurd",
+    "location": "",
+    "description": "... on international law and foreign policy.",
+    "url": "http://faculty.wcas.northwestern.edu/~ihu355/Home.html",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://faculty.wcas.northwestern.edu/~ihu355/Home.html",
+            "expanded_url": null,
+            "indices": [
+              0,
+              54
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 254,
+    "friends_count": 88,
+    "listed_count": 6,
+    "created_at": "Tue May 03 16:07:26 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 371,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/527318952/2006af6053__high_res_copy.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/527318952/2006af6053__high_res_copy.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1385713932/IMG_9790_-_Version_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1385713932/IMG_9790_-_Version_2_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          117,
+          121
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/aR1F1EeI",
+        "expanded_url": "http://bit.ly/LDBxHx",
+        "display_url": "bit.ly/LDBxHx",
+        "indices": [
+          77,
+          97
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "crookedtimber",
+        "name": "Crooked Timber",
+        "id": 14516567,
+        "id_str": "14516567",
+        "indices": [
+          102,
+          116
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

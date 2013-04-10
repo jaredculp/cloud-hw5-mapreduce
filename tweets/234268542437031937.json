@@ -1,0 +1,153 @@
+{
+  "created_at": "Sat Aug 11 12:42:27 +0000 2012",
+  "id": 234268542437031937,
+  "id_str": "234268542437031937",
+  "text": "#UVA DA #TAVOLA quali sono le #caratteristichenutrizionali http://t.co/d6NXxGsm",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 522360121,
+    "id_str": "522360121",
+    "name": "CantinaDelTerraglio",
+    "screen_name": "TerraglioWINERY",
+    "location": "Mogliano Veneto - Italy -",
+    "description": "CANTINA DEL TERRAGLIO is a Traditional Venetian Winery: Prosecco Doc, Pinot Grigio, Merlot, Chardonnay, Cabernet Sauvignon - Franc, Manzoni, Verduzzo, Raboso\r\n",
+    "url": "http://t.co/nK8yPLqu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/nK8yPLqu",
+            "expanded_url": "http://www.cantinadelterraglio.com",
+            "display_url": "cantinadelterraglio.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 364,
+    "friends_count": 1552,
+    "listed_count": 5,
+    "created_at": "Mon Mar 12 15:54:03 +0000 2012",
+    "favourites_count": 30,
+    "utc_offset": 3600,
+    "time_zone": "Rome",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 659,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "58389C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/537168321/DSCF4052.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/537168321/DSCF4052.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2904000613/3c01734cf514c9c33f5ece0b59e0c8a5_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2904000613/3c01734cf514c9c33f5ece0b59e0c8a5_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/522360121/1354283737",
+    "profile_link_color": "B8D934",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "36e619a4b9c907d9",
+    "url": "https://api.twitter.com/1.1/geo/id/36e619a4b9c907d9.json",
+    "place_type": "city",
+    "name": "Mogliano Veneto",
+    "full_name": "Mogliano Veneto, Treviso",
+    "country_code": "IT",
+    "country": "Italy",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            12.181826,
+            45.530617
+          ],
+          [
+            12.343607,
+            45.530617
+          ],
+          [
+            12.343607,
+            45.604868
+          ],
+          [
+            12.181826,
+            45.604868
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "TAVOLA",
+        "indices": [
+          8,
+          15
+        ]
+      },
+      {
+        "text": "caratteristichenutrizionali",
+        "indices": [
+          30,
+          58
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/d6NXxGsm",
+        "expanded_url": "http://cantinadelterraglio.blogspot.it/2012/08/uva-da-tavolae-iniziata-la-stagione.html",
+        "display_url": "cantinadelterraglio.blogspot.it/2012/08/uva-da…",
+        "indices": [
+          59,
+          79
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,103 @@
+{
+  "created_at": "Mon Jun 25 19:50:58 +0000 2012",
+  "id": 217344150276816896,
+  "id_str": "217344150276816896",
+  "text": "@DailyProgTed @wsj @dp_citybeat Too little, too late, as we've seen their bias. #UVA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217340308101406721,
+  "in_reply_to_status_id_str": "217340308101406721",
+  "in_reply_to_user_id": 197095963,
+  "in_reply_to_user_id_str": "197095963",
+  "in_reply_to_screen_name": "gmoomaw",
+  "user": {
+    "id": 463111612,
+    "id_str": "463111612",
+    "name": "Tina Gordon",
+    "screen_name": "TinaTGordon",
+    "location": "",
+    "description": "RN & mom.  Proud alum of UVA and fanatical about the Nats & Skins!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 77,
+    "friends_count": 736,
+    "listed_count": 0,
+    "created_at": "Fri Jan 13 18:49:17 +0000 2012",
+    "favourites_count": 254,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1380,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2731133920/5c875de3f261b77004996a81e208af10_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2731133920/5c875de3f261b77004996a81e208af10_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/463111612/1356470481",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          80,
+          84
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DailyProgTed",
+        "name": "Ted Strong, reporter",
+        "id": 365027838,
+        "id_str": "365027838",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          14,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,149 @@
+{
+  "created_at": "Thu Aug 16 13:14:24 +0000 2012",
+  "id": 236088523378282497,
+  "id_str": "236088523378282497",
+  "text": "Funny. RT @NBC29: Some #UVa BOV members think the number of committees should be reduced.  New committee created will deal with that issue.",
+  "source": "<a href=\"http://www.handmark.com\" rel=\"nofollow\">TweetCaster for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 351359665,
+    "id_str": "351359665",
+    "name": "Rob Tilghman",
+    "screen_name": "RobTilghman",
+    "location": "Charlottesville, VA",
+    "description": "Cell and molecular biologist, living in the rolling green fields of Central Virginia.",
+    "url": "http://tinyacorns.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://tinyacorns.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 27,
+    "friends_count": 93,
+    "listed_count": 0,
+    "created_at": "Tue Aug 09 04:12:19 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 145,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1712744019/Profile_picture2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1712744019/Profile_picture2_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.022828,
+      -78.475269
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.475269,
+      38.022828
+    ]
+  },
+  "place": {
+    "id": "531a6942bb8056b9",
+    "url": "https://api.twitter.com/1.1/geo/id/531a6942bb8056b9.json",
+    "place_type": "city",
+    "name": "Charlottesville",
+    "full_name": "Charlottesville, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.523637,
+            38.009584
+          ],
+          [
+            -78.446311,
+            38.009584
+          ],
+          [
+            -78.446311,
+            38.070591
+          ],
+          [
+            -78.523637,
+            38.070591
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          23,
+          27
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

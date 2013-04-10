@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 14:01:58 +0000 2012",
+  "id": 217618712256200704,
+  "id_str": "217618712256200704",
+  "text": "\"@UWMadison Donna Shalala in today's NYT: UW chancellors are \"like tugboat captains, trying to get ships aligned\" http://t.co/y3hsx4JN #UVA\"",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217615046891675649,
+  "in_reply_to_status_id_str": "217615046891675649",
+  "in_reply_to_user_id": 15763818,
+  "in_reply_to_user_id_str": "15763818",
+  "in_reply_to_screen_name": "UWMadison",
+  "user": {
+    "id": 20961822,
+    "id_str": "20961822",
+    "name": "GlobalHigherEd",
+    "screen_name": "GlobalHigherEd",
+    "location": "Madison, WI/USA",
+    "description": "Kris Olds (co-editor of GlobalHigherEd). Interests: globalization of higher ed & research; global networks; urban studies. Profiling & RTs ≠ endorsement.",
+    "url": "http://krisolds.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://krisolds.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7345,
+    "friends_count": 2588,
+    "listed_count": 487,
+    "created_at": "Mon Feb 16 04:13:31 +0000 2009",
+    "favourites_count": 282,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7860,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/64601593/London.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/64601593/London.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3083037448/6363df97765d89a248dc5b82aac96ded_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3083037448/6363df97765d89a248dc5b82aac96ded_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/y3hsx4JN",
+        "expanded_url": "http://nyti.ms/QbaQxp",
+        "display_url": "nyti.ms/QbaQxp",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UWMadison",
+        "name": "UW-Madison",
+        "id": 15763818,
+        "id_str": "15763818",
+        "indices": [
+          1,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

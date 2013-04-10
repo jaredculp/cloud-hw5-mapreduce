@@ -1,0 +1,103 @@
+{
+  "created_at": "Wed Aug 15 18:42:20 +0000 2012",
+  "id": 235808661728014337,
+  "id_str": "235808661728014337",
+  "text": "#DRAGAS apologizes for \"controversies that, at best, have been distractions from the important work ahead of us.\" during #UVA meeting.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 32464130,
+    "id_str": "32464130",
+    "name": "Virginia Business",
+    "screen_name": "VirginiaBiz",
+    "location": "Virginia",
+    "description": "Virginia Business magazine: Virginia's Source for Business Intelligence.",
+    "url": "http://www.virginiabusiness.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginiabusiness.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1740,
+    "friends_count": 173,
+    "listed_count": 69,
+    "created_at": "Fri Apr 17 16:17:34 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1216,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/199649706/background.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/199649706/background.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/646648767/vb-for-twitter_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/646648767/vb-for-twitter_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/32464130/1354214709",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "DRAGAS",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          121,
+          125
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

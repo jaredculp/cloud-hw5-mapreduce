@@ -1,0 +1,113 @@
+{
+  "created_at": "Mon Jun 25 03:29:10 +0000 2012",
+  "id": 217097075106656259,
+  "id_str": "217097075106656259",
+  "text": "Blue Ridge Swim Club mentioned again: http://t.co/tvA3v4Iw - RT @jameskeithford this afternoon I went to work, participated in the #UVA #...",
+  "source": "<a href=\"http://www.geotweeting.com\" rel=\"nofollow\">LocalBuzz</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 313148514,
+    "id_str": "313148514",
+    "name": "Charlottesville Buzz",
+    "screen_name": "CVilleBuzz",
+    "location": "Charlottesville",
+    "description": "Real-time local buzz for events, restaurants, bars and the very best local deals available right now in Charlottesville!",
+    "url": "http://buzz.schmap.com/charlottesville-va",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://buzz.schmap.com/charlottesville-va",
+            "expanded_url": null,
+            "indices": [
+              0,
+              41
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 299,
+    "friends_count": 41,
+    "listed_count": 12,
+    "created_at": "Wed Jun 08 06:36:28 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2402,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8E9D74",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/269774170/twitter-bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/269774170/twitter-bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1398302636/buzz-logo-charlottesville_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1398302636/buzz-logo-charlottesville_normal.png",
+    "profile_link_color": "3087A6",
+    "profile_sidebar_border_color": "E8E8E5",
+    "profile_sidebar_fill_color": "FCFBF2",
+    "profile_text_color": "292B1F",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          131,
+          135
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/tvA3v4Iw",
+        "expanded_url": "http://sch.mp/10zkb",
+        "display_url": "sch.mp/10zkb",
+        "indices": [
+          38,
+          58
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jameskeithford",
+        "name": "James Ford",
+        "id": 235603509,
+        "id_str": "235603509",
+        "indices": [
+          64,
+          79
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

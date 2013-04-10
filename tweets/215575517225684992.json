@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 22:43:03 +0000 2012",
+  "id": 215575517225684992,
+  "id_str": "215575517225684992",
+  "text": ". @morganmundum #UVA Dean Roberts' response to the errors in the PTJ op-ed piece is here (scroll to the bottom): http://t.co/5veWeyyn",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215565330750242818,
+  "in_reply_to_status_id_str": "215565330750242818",
+  "in_reply_to_user_id": 6087352,
+  "in_reply_to_user_id_str": "6087352",
+  "in_reply_to_screen_name": "morganmundum",
+  "user": {
+    "id": 246933613,
+    "id_str": "246933613",
+    "name": "Faith Harden",
+    "screen_name": "fsharden",
+    "location": "LOS ANGELES",
+    "description": "newly-minted PhD; lecturer in Spanish at USC; working on honor, masculinity, and the life-writing of 17thC soldiers; into all things medieval & early modern",
+    "url": "http://tinyurl.com/faith-harden",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://tinyurl.com/faith-harden",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 201,
+    "friends_count": 368,
+    "listed_count": 4,
+    "created_at": "Thu Feb 03 19:18:45 +0000 2011",
+    "favourites_count": 65,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 403,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/404813560/nocturne.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/404813560/nocturne.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1889584649/facey-face_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1889584649/facey-face_normal.jpg",
+    "profile_link_color": "4D1557",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          16,
+          20
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/5veWeyyn",
+        "expanded_url": "http://www.readthehook.com/104292/sullivans-legacy",
+        "display_url": "readthehook.com/104292/sulliva…",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "morganmundum",
+        "name": "Glenda Morgan",
+        "id": 6087352,
+        "id_str": "6087352",
+        "indices": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

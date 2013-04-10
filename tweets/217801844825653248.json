@@ -1,0 +1,125 @@
+{
+  "created_at": "Wed Jun 27 02:09:41 +0000 2012",
+  "id": 217801844825653248,
+  "id_str": "217801844825653248",
+  "text": "Ick. MT @WahooVero: @cavalierdaily A hug between #BOV Rector Helen #Dragas &amp; reappointed President Teresa #Sullivan. http://t.co/TLMUQYHj",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15655520,
+    "id_str": "15655520",
+    "name": "nevasue",
+    "screen_name": "nevasue",
+    "location": "Fredericksburg, Va.",
+    "description": "Editor, writer, gardener, vermiculturalist, foodie, dog lover. All tweets are my own and represent me alone. Retweets mean nothing to me now. Nothing.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 363,
+    "friends_count": 919,
+    "listed_count": 18,
+    "created_at": "Wed Jul 30 02:51:20 +0000 2008",
+    "favourites_count": 65,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7307,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2838565781/a37cf31492e7cbc4e6535ba1aef58bed_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2838565781/a37cf31492e7cbc4e6535ba1aef58bed_normal.jpeg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          49,
+          53
+        ]
+      },
+      {
+        "text": "Dragas",
+        "indices": [
+          67,
+          74
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          110,
+          119
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/TLMUQYHj",
+        "expanded_url": "http://twitter.com/WahooVero/status/217710815514607618/photo/1",
+        "display_url": "pic.twitter.com/TLMUQYHj",
+        "indices": [
+          121,
+          141
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WahooVero",
+        "name": "Veronica M",
+        "id": 613949242,
+        "id_str": "613949242",
+        "indices": [
+          8,
+          18
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          20,
+          34
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,111 @@
+{
+  "created_at": "Thu Aug 16 14:20:59 +0000 2012",
+  "id": 236105277630468096,
+  "id_str": "236105277630468096",
+  "text": "De #UvA bestaat #380jaar kom dit vieren op maandag 3 september met het Glazen huis van de Wetenschap! http://t.co/WATc1QfC",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 24741007,
+    "id_str": "24741007",
+    "name": "Esra Dede",
+    "screen_name": "EsraDede",
+    "location": "AMSTERDAM",
+    "description": "21/med-student/SP/IFMSA/everything related to blood and dead bodies ",
+    "url": "http://amsterdam.sp.nl/kerngroepen/oost/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://amsterdam.sp.nl/kerngroepen/oost/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 139,
+    "friends_count": 125,
+    "listed_count": 7,
+    "created_at": "Mon Mar 16 18:25:29 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1550,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EEF0E1",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/130624113/xd7ee52430d370f59b0c699abd6f245d.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/130624113/xd7ee52430d370f59b0c699abd6f245d.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2137828794/profile_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2137828794/profile_normal.jpg",
+    "profile_link_color": "807220",
+    "profile_sidebar_border_color": "0E4254",
+    "profile_sidebar_fill_color": "242B29",
+    "profile_text_color": "F20028",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          3,
+          7
+        ]
+      },
+      {
+        "text": "380jaar",
+        "indices": [
+          16,
+          24
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WATc1QfC",
+        "expanded_url": "http://bitly.com/PmTCOe",
+        "display_url": "bitly.com/PmTCOe",
+        "indices": [
+          102,
+          122
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

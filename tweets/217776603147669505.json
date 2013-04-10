@@ -1,0 +1,120 @@
+{
+  "created_at": "Wed Jun 27 00:29:22 +0000 2012",
+  "id": 217776603147669505,
+  "id_str": "217776603147669505",
+  "text": "couldn't agree more, @thinkrps_cville: RT\ncard of the day: Wahoowa. #uva #sullivan http://t.co/GjN0i2uL",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 249357620,
+    "id_str": "249357620",
+    "name": "Hedge Fine Blooms",
+    "screen_name": "hedgefine",
+    "location": "Charlottesville Va.",
+    "description": "Charlottesville’s innovative source for flowers and floral arrangements. ",
+    "url": "http://www.hedgefineblooms.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.hedgefineblooms.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 66,
+    "friends_count": 115,
+    "listed_count": 2,
+    "created_at": "Tue Feb 08 22:00:08 +0000 2011",
+    "favourites_count": 2,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 35,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "67634F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/584985373/x9b8eaff5aa01dc09b0736ac7d195d55.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/584985373/x9b8eaff5aa01dc09b0736ac7d195d55.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2328972124/2tmxz8t600fs06pldyhc_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2328972124/2tmxz8t600fs06pldyhc_normal.jpeg",
+    "profile_link_color": "83A391",
+    "profile_sidebar_border_color": "FAF8F0",
+    "profile_sidebar_fill_color": "D9D0B2",
+    "profile_text_color": "767A5B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          68,
+          72
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          73,
+          82
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/GjN0i2uL",
+        "expanded_url": "http://instagr.am/p/MWZ1Pxgzt0/",
+        "display_url": "instagr.am/p/MWZ1Pxgzt0/",
+        "indices": [
+          83,
+          103
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "thinkrps_cville",
+        "name": "rock paper scissors",
+        "id": 133476960,
+        "id_str": "133476960",
+        "indices": [
+          21,
+          37
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

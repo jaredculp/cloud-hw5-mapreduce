@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Jun 19 06:20:16 +0000 2012",
+  "id": 214965807036379137,
+  "id_str": "214965807036379137",
+  "text": "@Priestic1 @derickwaller @LarrySabato @JulieCareyNBC I want a chocolate milkshake!",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 214953784298840064,
+  "in_reply_to_status_id_str": "214953784298840064",
+  "in_reply_to_user_id": 390520244,
+  "in_reply_to_user_id_str": "390520244",
+  "in_reply_to_screen_name": "Priestic1",
+  "user": {
+    "id": 46044301,
+    "id_str": "46044301",
+    "name": "Jessica Jaglois",
+    "screen_name": "JessicaJaglois",
+    "location": "ÜT: 38.068769,-78.484646",
+    "description": "Reporter for NBC12 bringing the latest, breaking news that matters to you.",
+    "url": "http://t.co/FhHUM0mZ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/FhHUM0mZ",
+            "expanded_url": "http://www.facebook.com/jessicajaglois",
+            "display_url": "facebook.com/jessicajaglois",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 917,
+    "friends_count": 195,
+    "listed_count": 63,
+    "created_at": "Wed Jun 10 05:17:39 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2785,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0A0A0A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/731846850/9718425e8f8c28eeed56697265bd59ee.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/731846850/9718425e8f8c28eeed56697265bd59ee.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2672858228/bcd0738e3cdf288f46afc2150a22e020_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2672858228/bcd0738e3cdf288f46afc2150a22e020_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/46044301/1354907956",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Priestic1",
+        "name": "Andy Priest",
+        "id": 390520244,
+        "id_str": "390520244",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          25,
+          37
+        ]
+      },
+      {
+        "screen_name": "JulieCareyNBC",
+        "name": "Julie Carey",
+        "id": 322830431,
+        "id_str": "322830431",
+        "indices": [
+          38,
+          52
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

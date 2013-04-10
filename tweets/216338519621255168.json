@@ -1,0 +1,111 @@
+{
+  "created_at": "Sat Jun 23 01:14:57 +0000 2012",
+  "id": 216338519621255168,
+  "id_str": "216338519621255168",
+  "text": "That's 6000 students! MT @amandafrench: @audreywatters reports that MITx's first MOOC had a 5% completion rate: http://t.co/bSPIuIq2 #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 36482311,
+    "id_str": "36482311",
+    "name": "Patsy Baudoin",
+    "screen_name": "pbmit",
+    "location": "Cambridge, MA",
+    "description": "Digital humanities/film, media & arts librarian@MIT",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 239,
+    "friends_count": 196,
+    "listed_count": 17,
+    "created_at": "Wed Apr 29 21:10:02 +0000 2009",
+    "favourites_count": 195,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1025,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "07191A",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/199509940/DSCN1525_2_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/199509940/DSCN1525_2_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "080108",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          133,
+          137
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/bSPIuIq2",
+        "expanded_url": "http://bit.ly/MpzEPd",
+        "display_url": "bit.ly/MpzEPd",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "amandafrench",
+        "name": "Amanda French",
+        "id": 6361722,
+        "id_str": "6361722",
+        "indices": [
+          25,
+          38
+        ]
+      },
+      {
+        "screen_name": "audreywatters",
+        "name": "Audrey Watters",
+        "id": 25388528,
+        "id_str": "25388528",
+        "indices": [
+          40,
+          54
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

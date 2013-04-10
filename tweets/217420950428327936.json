@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jun 26 00:56:08 +0000 2012",
+  "id": 217420950428327936,
+  "id_str": "217420950428327936",
+  "text": "For a textbook example of #corporate outrage at the prospect of not being able to buy everything - see #WSJ on #UVa: http://t.co/Tu0wqNyq",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 593045949,
+    "id_str": "593045949",
+    "name": "George Sundman",
+    "screen_name": "GeorgeSundman",
+    "location": "America",
+    "description": "Philosophies & Speculations.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 13,
+    "friends_count": 166,
+    "listed_count": 0,
+    "created_at": "Mon May 28 18:45:51 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 231,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2258161742/stoller6_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2258161742/stoller6_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "corporate",
+        "indices": [
+          26,
+          36
+        ]
+      },
+      {
+        "text": "WSJ",
+        "indices": [
+          103,
+          107
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          111,
+          115
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Tu0wqNyq",
+        "expanded_url": "http://online.wsj.com/article/SB10001424052702304765304577481043087404280.html",
+        "display_url": "online.wsj.com/article/SB1000…",
+        "indices": [
+          117,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

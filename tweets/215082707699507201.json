@@ -1,0 +1,128 @@
+{
+  "created_at": "Tue Jun 19 14:04:48 +0000 2012",
+  "id": 215082707699507201,
+  "id_str": "215082707699507201",
+  "text": "Join us today at noon on 89.5 FM as we speak with @deltoscano @anitakumar01 and former #UVa Pres. R. O'Neil about the #sullivan #ousting.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 232287587,
+    "id_str": "232287587",
+    "name": "HearSay Cathy Lewis",
+    "screen_name": "HearSayWHRV",
+    "location": "Norfolk, VA",
+    "description": "HearSay with Cathy Lewis is the only locally produced, public affairs radio call-in program in Hampton Roads.  Join us at noon M-R on 89.5 WHRV FM. RT ≠ ENDORSE",
+    "url": "http://hearsay.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://hearsay.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1035,
+    "friends_count": 1366,
+    "listed_count": 36,
+    "created_at": "Thu Dec 30 18:57:59 +0000 2010",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 329,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1202680529/FB_Profile_picture_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1202680529/FB_Profile_picture_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          87,
+          91
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          118,
+          127
+        ]
+      },
+      {
+        "text": "ousting",
+        "indices": [
+          128,
+          136
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "deltoscano",
+        "name": "David J. Toscano",
+        "id": 43117323,
+        "id_str": "43117323",
+        "indices": [
+          50,
+          61
+        ]
+      },
+      {
+        "screen_name": "anitakumar01",
+        "name": "Anita Kumar",
+        "id": 48581849,
+        "id_str": "48581849",
+        "indices": [
+          62,
+          75
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

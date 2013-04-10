@@ -1,0 +1,125 @@
+{
+  "created_at": "Tue Jun 19 17:00:35 +0000 2012",
+  "id": 215126948085637121,
+  "id_str": "215126948085637121",
+  "text": "@astromel @SallyHemingsKid Good alternative option? He doesn't necessarily need one. http://t.co/Rw5pBaxq #Sullivan  #UVA #CS",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215126212929007616,
+  "in_reply_to_status_id_str": "215126212929007616",
+  "in_reply_to_user_id": 36270821,
+  "in_reply_to_user_id_str": "36270821",
+  "in_reply_to_screen_name": "astromel",
+  "user": {
+    "id": 14163336,
+    "id_str": "14163336",
+    "name": "baxton",
+    "screen_name": "baxton",
+    "location": "Charlottesville",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 143,
+    "friends_count": 151,
+    "listed_count": 5,
+    "created_at": "Mon Mar 17 14:21:55 +0000 2008",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 146,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/52830988/John_and_Margaret_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/52830988/John_and_Margaret_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          106,
+          115
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          117,
+          121
+        ]
+      },
+      {
+        "text": "CS",
+        "indices": [
+          122,
+          125
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Rw5pBaxq",
+        "expanded_url": "http://en.wikipedia.org/wiki/William_Wulf",
+        "display_url": "en.wikipedia.org/wiki/William_W…",
+        "indices": [
+          85,
+          105
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "astromel",
+        "name": "Melissa McGrath",
+        "id": 36270821,
+        "id_str": "36270821",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "SallyHemingsKid",
+        "name": "Sally Hemings Kid",
+        "id": 599552607,
+        "id_str": "599552607",
+        "indices": [
+          10,
+          26
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

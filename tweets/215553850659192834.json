@@ -1,0 +1,108 @@
+{
+  "created_at": "Wed Jun 20 21:16:57 +0000 2012",
+  "id": 215553850659192834,
+  "id_str": "215553850659192834",
+  "text": "@dancohen  http://t.co/2ysaLywt interesting points about online courses as well and #uva #bov",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215550717405052929,
+  "in_reply_to_status_id_str": "215550717405052929",
+  "in_reply_to_user_id": 14181097,
+  "in_reply_to_user_id_str": "14181097",
+  "in_reply_to_screen_name": "dancohen",
+  "user": {
+    "id": 19907166,
+    "id_str": "19907166",
+    "name": "Lauren T",
+    "screen_name": "nolauren",
+    "location": "New Haven and NOLA",
+    "description": "yale american studies graduate student,  co-director of photogrammar and UVa grad from nola",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 158,
+    "friends_count": 251,
+    "listed_count": 9,
+    "created_at": "Mon Feb 02 13:51:15 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 175,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/85308795/confederacy_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/85308795/confederacy_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          84,
+          88
+        ]
+      },
+      {
+        "text": "bov",
+        "indices": [
+          89,
+          93
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/2ysaLywt",
+        "expanded_url": "http://tinyurl.com/csp6bsx",
+        "display_url": "tinyurl.com/csp6bsx",
+        "indices": [
+          11,
+          31
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dancohen",
+        "name": "Dan Cohen",
+        "id": 14181097,
+        "id_str": "14181097",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Mon Jun 25 16:29:08 +0000 2012",
+  "id": 217293357372813312,
+  "id_str": "217293357372813312",
+  "text": "Useful take on the #UVA story from Gin and Tacos, could use a @saragoldrickrab  RT... http://t.co/lvvqunwx",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 138460384,
+    "id_str": "138460384",
+    "name": "Mike Wagner",
+    "screen_name": "prowag",
+    "location": "WI viaSD,ROK,MN,NE,IL,IN,DE,NE",
+    "description": "Beloved political scientist, Minnesotan. Assistant Professor in the School of Journalism and Mass Communication at UW-Madison",
+    "url": "http://prowag.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://prowag.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 860,
+    "friends_count": 842,
+    "listed_count": 37,
+    "created_at": "Thu Apr 29 16:12:49 +0000 2010",
+    "favourites_count": 914,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10257,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/96858929/me_LJS.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/96858929/me_LJS.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1312114445/mug_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1312114445/mug_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/138460384/1354638512",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          19,
+          23
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/lvvqunwx",
+        "expanded_url": "http://www.ginandtacos.com/2012/06/25/new-socialist-man/",
+        "display_url": "ginandtacos.com/2012/06/25/new…",
+        "indices": [
+          86,
+          106
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "saragoldrickrab",
+        "name": "Sara Goldrick-Rab",
+        "id": 32608975,
+        "id_str": "32608975",
+        "indices": [
+          62,
+          78
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

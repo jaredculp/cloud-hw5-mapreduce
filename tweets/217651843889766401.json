@@ -1,0 +1,117 @@
+{
+  "created_at": "Tue Jun 26 16:13:38 +0000 2012",
+  "id": 217651843889766401,
+  "id_str": "217651843889766401",
+  "text": "@mediaUVAgreg @matthewccameron  @cavalierdaily Stream our broadcast live at http://t.co/HWlWlycf",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217431548801191937,
+  "in_reply_to_status_id_str": "217431548801191937",
+  "in_reply_to_user_id": 450385865,
+  "in_reply_to_user_id_str": "450385865",
+  "in_reply_to_screen_name": "greglewis_5",
+  "user": {
+    "id": 232287587,
+    "id_str": "232287587",
+    "name": "HearSay Cathy Lewis",
+    "screen_name": "HearSayWHRV",
+    "location": "Norfolk, VA",
+    "description": "HearSay with Cathy Lewis is the only locally produced, public affairs radio call-in program in Hampton Roads.  Join us at noon M-R on 89.5 WHRV FM. RT ≠ ENDORSE",
+    "url": "http://hearsay.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://hearsay.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1029,
+    "friends_count": 1366,
+    "listed_count": 36,
+    "created_at": "Thu Dec 30 18:57:59 +0000 2010",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 329,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1202680529/FB_Profile_picture_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1202680529/FB_Profile_picture_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/HWlWlycf",
+        "expanded_url": "http://whro.org/home/publicradio/whrv/",
+        "display_url": "whro.org/home/publicrad…",
+        "indices": [
+          76,
+          96
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "matthewccameron",
+        "name": "Matthew Cameron",
+        "id": 305369959,
+        "id_str": "305369959",
+        "indices": [
+          14,
+          30
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          32,
+          46
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

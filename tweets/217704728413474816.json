@@ -1,0 +1,121 @@
+{
+  "created_at": "Tue Jun 26 19:43:46 +0000 2012",
+  "id": 217704728413474816,
+  "id_str": "217704728413474816",
+  "text": "\"@WTOP: #UVa governing board reinstates Teresa Sullivan, who was ousted without a vote earlier this month http://t.co/cfeJBrqD #VA\"",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 44951698,
+    "id_str": "44951698",
+    "name": "Max Smith",
+    "screen_name": "amaxsmith",
+    "location": "Washington, DC",
+    "description": "Reporter, Anchor, Editor @WTOP (and sports fan, #GWU alum) Tweeting what I'm covering & other interesting stories. Opinions my own. RTs/follows not endorsements",
+    "url": "http://wtop.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://wtop.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1143,
+    "friends_count": 1391,
+    "listed_count": 62,
+    "created_at": "Fri Jun 05 17:57:40 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8536,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "224245",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/19790758/Sanford_opening_night.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/19790758/Sanford_opening_night.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1506880668/TOP_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1506880668/TOP_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/44951698/1351375328",
+    "profile_link_color": "BA2A06",
+    "profile_sidebar_border_color": "3CB3E6",
+    "profile_sidebar_fill_color": "B4EDC1",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          8,
+          12
+        ]
+      },
+      {
+        "text": "VA",
+        "indices": [
+          127,
+          130
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/cfeJBrqD",
+        "expanded_url": "http://bit.ly/QdrlJc",
+        "display_url": "bit.ly/QdrlJc",
+        "indices": [
+          106,
+          126
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WTOP",
+        "name": "WTOP ",
+        "id": 17906632,
+        "id_str": "17906632",
+        "indices": [
+          1,
+          6
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

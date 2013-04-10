@@ -1,0 +1,108 @@
+{
+  "created_at": "Sun Jun 24 02:47:29 +0000 2012",
+  "id": 216724194166177793,
+  "id_str": "216724194166177793",
+  "text": "#UVA Students, Family &amp; Friends United to Reinstate President Sullivan #HoosforSullivan: http://t.co/63buqfc6 via @youtube",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 148368552,
+    "id_str": "148368552",
+    "name": "Steve Pace",
+    "screen_name": "SteveLPace",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 83,
+    "friends_count": 29,
+    "listed_count": 1,
+    "created_at": "Wed May 26 14:36:06 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 150,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2107424868/IMG_0678_1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2107424868/IMG_0678_1_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "HoosforSullivan",
+        "indices": [
+          75,
+          91
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/63buqfc6",
+        "expanded_url": "http://youtu.be/cMr3_wIQJNE",
+        "display_url": "youtu.be/cMr3_wIQJNE",
+        "indices": [
+          93,
+          113
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "YouTube",
+        "name": "YouTube",
+        "id": 10228272,
+        "id_str": "10228272",
+        "indices": [
+          118,
+          126
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

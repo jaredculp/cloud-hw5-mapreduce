@@ -1,0 +1,123 @@
+{
+  "created_at": "Fri Jun 29 16:59:08 +0000 2012",
+  "id": 218750458498527232,
+  "id_str": "218750458498527232",
+  "text": "I got to see Saturn and the Moon through an uber cool telescope at #UVA http://t.co/2y8AuquO",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Photos on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 93914645,
+    "id_str": "93914645",
+    "name": "Caroline Ruffing",
+    "screen_name": "RUFFING_it",
+    "location": "",
+    "description": ".",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 89,
+    "friends_count": 76,
+    "listed_count": 0,
+    "created_at": "Tue Dec 01 18:31:28 +0000 2009",
+    "favourites_count": 223,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1385,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/728303609/81bfd6435f765988afed3cf5c905fb85.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/728303609/81bfd6435f765988afed3cf5c905fb85.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3197971240/e03b522bab683256ba0df164be214dc7_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3197971240/e03b522bab683256ba0df164be214dc7_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/93914645/1354554959",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 218750458548858880,
+        "id_str": "218750458548858880",
+        "indices": [
+          72,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwkoYhBCMAAb7rn.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwkoYhBCMAAb7rn.jpg",
+        "url": "http://t.co/2y8AuquO",
+        "display_url": "pic.twitter.com/2y8AuquO",
+        "expanded_url": "http://twitter.com/RUFFING_it/status/218750458498527232/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 648,
+            "h": 484,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 254,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 448,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

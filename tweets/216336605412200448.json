@@ -1,0 +1,121 @@
+{
+  "created_at": "Sat Jun 23 01:07:20 +0000 2012",
+  "id": 216336605412200448,
+  "id_str": "216336605412200448",
+  "text": "@TheEdLawProf @LastNameTurner the Gov aint playing with #UVA #highered",
+  "source": "<a href=\"http://getscopeapp.com\" rel=\"nofollow\">Scope App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216330463151796224,
+  "in_reply_to_status_id_str": "216330463151796224",
+  "in_reply_to_user_id": 18824893,
+  "in_reply_to_user_id_str": "18824893",
+  "in_reply_to_screen_name": "LastNameTurner",
+  "user": {
+    "id": 45245992,
+    "id_str": "45245992",
+    "name": "Stefan Urkel",
+    "screen_name": "mindofrob",
+    "location": "NC",
+    "description": "The Black James Bond  #HTTR. Hate Duke and the Cowboys  ",
+    "url": "http://www.double0negro.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.double0negro.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 937,
+    "friends_count": 501,
+    "listed_count": 23,
+    "created_at": "Sun Jun 07 00:15:33 +0000 2009",
+    "favourites_count": 105,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 75723,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "99BADD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/17010825/4166_1145882851338_1355540137_30382889_5185607_n.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/17010825/4166_1145882851338_1355540137_30382889_5185607_n.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3050988826/649743e32d304960bed86386921e0d3e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3050988826/649743e32d304960bed86386921e0d3e_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          56,
+          60
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          61,
+          70
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheEdLawProf",
+        "name": "AARON N TAYLOR",
+        "id": 231149019,
+        "id_str": "231149019",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "LastNameTurner",
+        "name": "#MyNameTurner",
+        "id": 18824893,
+        "id_str": "18824893",
+        "indices": [
+          14,
+          29
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

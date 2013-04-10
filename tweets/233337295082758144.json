@@ -1,0 +1,84 @@
+{
+  "created_at": "Wed Aug 08 23:02:01 +0000 2012",
+  "id": 233337295082758144,
+  "id_str": "233337295082758144",
+  "text": "- soos re bonito - Y eso que no me viste en pelotas... #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 342958631,
+    "id_str": "342958631",
+    "name": "Vero Fili Watson",
+    "screen_name": "vicofer",
+    "location": "burzaco",
+    "description": "''Me encantaría tener una pata de palo y estar garchando y perder el equilibrio y caerme y tentarme de la risa ahí nomas''",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 120,
+    "friends_count": 202,
+    "listed_count": 0,
+    "created_at": "Tue Jul 26 21:05:27 +0000 2011",
+    "favourites_count": 183,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 16432,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/744134725/44962d638b662e5a9d32419411c33721.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/744134725/44962d638b662e5a9d32419411c33721.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3210423675/bf3a2f6a217ccca3c51c81ebb6433fd1_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3210423675/bf3a2f6a217ccca3c51c81ebb6433fd1_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/342958631/1357611224",
+    "profile_link_color": "29ACDB",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "E01BE0",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          55,
+          59
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

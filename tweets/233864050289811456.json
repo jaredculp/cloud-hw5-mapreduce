@@ -1,0 +1,93 @@
+{
+  "created_at": "Fri Aug 10 09:55:09 +0000 2012",
+  "id": 233864050289811456,
+  "id_str": "233864050289811456",
+  "text": "¿Qué cual es mi jueves en la noche ideal? \nAmanecer el viernes jugando LoL con @DonEdgardo, probablemente. #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 60504707,
+    "id_str": "60504707",
+    "name": "Kritz",
+    "screen_name": "AdaraGabrielle",
+    "location": "Puertorro.",
+    "description": "I'm a twenty year old, God-loving, Biology-studying, musically-passionate, adventure-seeking fool. And that is all I have to say about that.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 148,
+    "friends_count": 284,
+    "listed_count": 1,
+    "created_at": "Mon Jul 27 05:54:36 +0000 2009",
+    "favourites_count": 4673,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6621,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "660066",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/776841107/497e15e4cc437c7f8ac00b9688e30c70.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/776841107/497e15e4cc437c7f8ac00b9688e30c70.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3180630025/b0e148ff3c24da986bd4893bc6890659_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3180630025/b0e148ff3c24da986bd4893bc6890659_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/60504707/1359269979",
+    "profile_link_color": "6D2AA3",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "6658A8",
+    "profile_text_color": "34D989",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          107,
+          111
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DonEdgardo",
+        "name": "Edgardo  Carreras",
+        "id": 35656155,
+        "id_str": "35656155",
+        "indices": [
+          79,
+          90
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

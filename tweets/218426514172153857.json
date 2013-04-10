@@ -1,0 +1,105 @@
+{
+  "created_at": "Thu Jun 28 19:31:53 +0000 2012",
+  "id": 218426514172153857,
+  "id_str": "218426514172153857",
+  "text": "@UVA One would think a #Sullivan Tie would be made in Michigan, not New York, no?",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 218423641627561984,
+  "in_reply_to_status_id_str": "218423641627561984",
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 560541455,
+    "id_str": "560541455",
+    "name": "André D",
+    "screen_name": "uncandre",
+    "location": "",
+    "description": "",
+    "url": "http://eurovisionobsession.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://eurovisionobsession.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 42,
+    "friends_count": 70,
+    "listed_count": 2,
+    "created_at": "Sun Apr 22 19:37:22 +0000 2012",
+    "favourites_count": 17,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 516,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2730105608/c17e245e05606c6a1f0affce63446615_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2730105608/c17e245e05606c6a1f0affce63446615_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/560541455/1358477848",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          23,
+          32
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

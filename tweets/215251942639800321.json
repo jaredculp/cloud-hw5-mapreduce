@@ -1,0 +1,111 @@
+{
+  "created_at": "Wed Jun 20 01:17:16 +0000 2012",
+  "id": 215251942639800321,
+  "id_str": "215251942639800321",
+  "text": "Sadly spot on. RT @jbouie: How the troubles at #UVA are a microcosm for the whole country: http://t.co/JNb4i0z7 @theprospect",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 177452517,
+    "id_str": "177452517",
+    "name": "BluePlanetRadio",
+    "screen_name": "blueplanetradio",
+    "location": "",
+    "description": "Be Here Now",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 195,
+    "friends_count": 293,
+    "listed_count": 15,
+    "created_at": "Thu Aug 12 04:43:01 +0000 2010",
+    "favourites_count": 172,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9577,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "325769",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/161927089/44.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/161927089/44.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2995684435/e5f8c8659d9fc1efff9d3f036e57344c_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2995684435/e5f8c8659d9fc1efff9d3f036e57344c_normal.png",
+    "profile_link_color": "2F6E80",
+    "profile_sidebar_border_color": "35421A",
+    "profile_sidebar_fill_color": "011403",
+    "profile_text_color": "4E5445",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/JNb4i0z7",
+        "expanded_url": "http://cl.ly/HUHz",
+        "display_url": "cl.ly/HUHz",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jbouie",
+        "name": "Jamelle Bouie",
+        "id": 14190948,
+        "id_str": "14190948",
+        "indices": [
+          18,
+          25
+        ]
+      },
+      {
+        "screen_name": "theprospect",
+        "name": "The Prospect",
+        "id": 15949696,
+        "id_str": "15949696",
+        "indices": [
+          112,
+          124
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

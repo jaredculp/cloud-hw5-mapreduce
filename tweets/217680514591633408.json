@@ -1,0 +1,112 @@
+{
+  "created_at": "Tue Jun 26 18:07:33 +0000 2012",
+  "id": 217680514591633408,
+  "id_str": "217680514591633408",
+  "text": "\"groups of altruists beat groups of selfish individuals\" hoping #UVa #bov strikes the right balance today. http://t.co/dDrnFoGo",
+  "source": "<a href=\"http://itunes.apple.com/us/app/nytimes/id284862083?mt=8&uo=4\" rel=\"nofollow\">NYTimes on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1166101,
+    "id_str": "1166101",
+    "name": "Allen Avery",
+    "screen_name": "apavery",
+    "location": "Durham, NC",
+    "description": "",
+    "url": "http://allenavery.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://allenavery.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 141,
+    "friends_count": 692,
+    "listed_count": 8,
+    "created_at": "Wed Mar 14 16:27:37 +0000 2007",
+    "favourites_count": 12,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 82,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D3D9D4",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/40975062/twitter_back2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/40975062/twitter_back2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2787057293/3bd34171ab62ac303381850f6ea33ac6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2787057293/3bd34171ab62ac303381850f6ea33ac6_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/1166101/1351647391",
+    "profile_link_color": "FF2B06",
+    "profile_sidebar_border_color": "413527",
+    "profile_sidebar_fill_color": "D3D9D4",
+    "profile_text_color": "242424",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          64,
+          68
+        ]
+      },
+      {
+        "text": "bov",
+        "indices": [
+          69,
+          73
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dDrnFoGo",
+        "expanded_url": "http://nyti.ms/LsnnvY",
+        "display_url": "nyti.ms/LsnnvY",
+        "indices": [
+          107,
+          127
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

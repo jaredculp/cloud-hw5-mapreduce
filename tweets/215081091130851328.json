@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Jun 19 13:58:22 +0000 2012",
+  "id": 215081091130851328,
+  "id_str": "215081091130851328",
+  "text": "@anitakumar01 @BrianCoy @helendragas Certainly hope so. But following anyway.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215080077069787136,
+  "in_reply_to_status_id_str": "215080077069787136",
+  "in_reply_to_user_id": 48581849,
+  "in_reply_to_user_id_str": "48581849",
+  "in_reply_to_screen_name": "anitakumar01",
+  "user": {
+    "id": 404272127,
+    "id_str": "404272127",
+    "name": "Delegate Bob Brink",
+    "screen_name": "delbrink",
+    "location": "Arlington VA",
+    "description": "Member Virginia House of Delegates",
+    "url": "http://www.bobbrink.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.bobbrink.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 528,
+    "friends_count": 631,
+    "listed_count": 28,
+    "created_at": "Thu Nov 03 17:48:17 +0000 2011",
+    "favourites_count": 2,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 540,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1623788502/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1623788502/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "anitakumar01",
+        "name": "Anita Kumar",
+        "id": 48581849,
+        "id_str": "48581849",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "BrianCoy",
+        "name": "BrianCoy",
+        "id": 15920291,
+        "id_str": "15920291",
+        "indices": [
+          14,
+          23
+        ]
+      },
+      {
+        "screen_name": "HelenDragas",
+        "name": "Helen Dragas",
+        "id": 612252466,
+        "id_str": "612252466",
+        "indices": [
+          24,
+          36
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,157 @@
+{
+  "created_at": "Mon Jul 02 15:48:51 +0000 2012",
+  "id": 219819937219354625,
+  "id_str": "219819937219354625",
+  "text": "hazardous #weather outlook issued for #NH counties #COOS #GRAFTON #CARROLL #SULLIVAN #NHwx http://t.co/PUhGOa0h @NHSeacoast_WX @PolandMEwx",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 523694546,
+    "id_str": "523694546",
+    "name": "Kelli Merritz",
+    "screen_name": "KelliMerritz",
+    "location": "Georges Mills, New Hampshire",
+    "description": "Español, Français, enpe Kreyol. SKYWARN, NDPC, IDRN. Safety & preparedness advocate. As I am able, updates & info on #NHwx, hazards, disasters, EMS & FD news.",
+    "url": "http://t.co/3bhIamvo",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/3bhIamvo",
+            "expanded_url": "http://inspirer-paix.tumblr.com/",
+            "display_url": "inspirer-paix.tumblr.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 156,
+    "friends_count": 379,
+    "listed_count": 8,
+    "created_at": "Tue Mar 13 21:28:50 +0000 2012",
+    "favourites_count": 1699,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7436,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/749351198/b095dd16dd810be43224790d4c332628.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/749351198/b095dd16dd810be43224790d4c332628.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2968392019/77d7f39394cb7927e18780af76e28c02_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2968392019/77d7f39394cb7927e18780af76e28c02_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/523694546/1358344828",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "78C0A8",
+    "profile_text_color": "5E412F",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "weather",
+        "indices": [
+          10,
+          18
+        ]
+      },
+      {
+        "text": "NH",
+        "indices": [
+          38,
+          41
+        ]
+      },
+      {
+        "text": "COOS",
+        "indices": [
+          51,
+          56
+        ]
+      },
+      {
+        "text": "GRAFTON",
+        "indices": [
+          57,
+          65
+        ]
+      },
+      {
+        "text": "CARROLL",
+        "indices": [
+          66,
+          74
+        ]
+      },
+      {
+        "text": "SULLIVAN",
+        "indices": [
+          75,
+          84
+        ]
+      },
+      {
+        "text": "NHwx",
+        "indices": [
+          85,
+          90
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/PUhGOa0h",
+        "expanded_url": "http://forecast.weather.gov/showsigwx.php?warnzone=NHZ007&warncounty=NHC019&firewxzone=NHZ007&local_place1=Sunapee+NH&product1=Hazardous+Weather+Outlook",
+        "display_url": "forecast.weather.gov/showsigwx.php?…",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NHSeacoast_WX",
+        "name": "Ricky Firey",
+        "id": 564194390,
+        "id_str": "564194390",
+        "indices": [
+          112,
+          126
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

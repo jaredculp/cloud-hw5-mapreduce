@@ -1,0 +1,150 @@
+{
+  "created_at": "Sat Jun 23 11:10:14 +0000 2012",
+  "id": 216488328755806208,
+  "id_str": "216488328755806208",
+  "text": "Upw/Chris guests Sat : @michaelianblack @douthatnyt @sivavaid, @ljoywilliams @joseiswriting. 8am ET on @msnbctv #uppers",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 76584367,
+    "id_str": "76584367",
+    "name": " moment_um",
+    "screen_name": "moment_um",
+    "location": " Oregon",
+    "description": "People wanna be told what to do so badly,they'll listen to anything.~Don Draper-Mad Men|Don McLean - Waters of Babylon: http://t.co/wsSrUw3u  ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/wsSrUw3u",
+            "expanded_url": "http://youtu.be/uTnspbSjKVc",
+            "display_url": "youtu.be/uTnspbSjKVc",
+            "indices": [
+              120,
+              140
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4171,
+    "friends_count": 4090,
+    "listed_count": 203,
+    "created_at": "Wed Sep 23 07:19:49 +0000 2009",
+    "favourites_count": 60126,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 58673,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/756227987/ff66eb96f4520da29c5ee5bdf1bbfc4a.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/756227987/ff66eb96f4520da29c5ee5bdf1bbfc4a.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3053880571/a7f2195252225fd06668c9a971b13d8a_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3053880571/a7f2195252225fd06668c9a971b13d8a_normal.png",
+    "profile_link_color": "EB8C4D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FF6200",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uppers",
+        "indices": [
+          112,
+          119
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "michaelianblack",
+        "name": "Michael Ian Black",
+        "id": 21035409,
+        "id_str": "21035409",
+        "indices": [
+          23,
+          39
+        ]
+      },
+      {
+        "screen_name": "DouthatNYT",
+        "name": "Ross Douthat",
+        "id": 546135718,
+        "id_str": "546135718",
+        "indices": [
+          40,
+          51
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          52,
+          61
+        ]
+      },
+      {
+        "screen_name": "ljoywilliams",
+        "name": "L. Joy Williams",
+        "id": 17583309,
+        "id_str": "17583309",
+        "indices": [
+          63,
+          76
+        ]
+      },
+      {
+        "screen_name": "joseiswriting",
+        "name": "Jose Antonio Vargas",
+        "id": 15956067,
+        "id_str": "15956067",
+        "indices": [
+          77,
+          91
+        ]
+      },
+      {
+        "screen_name": "msnbctv",
+        "name": "Chris Matthews",
+        "id": 786035239,
+        "id_str": "786035239",
+        "indices": [
+          103,
+          111
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

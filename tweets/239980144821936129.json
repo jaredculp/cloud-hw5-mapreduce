@@ -1,0 +1,113 @@
+{
+  "created_at": "Mon Aug 27 06:58:19 +0000 2012",
+  "id": 239980144821936129,
+  "id_str": "239980144821936129",
+  "text": "@PAA_Java_KNSM \nWelkom studenten #UVA #Intree vanavond op Kop van Java http://t.co/2WVZgO2Y",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 191762245,
+  "in_reply_to_user_id_str": "191762245",
+  "in_reply_to_screen_name": "polJava_KNSM",
+  "user": {
+    "id": 474241980,
+    "id_str": "474241980",
+    "name": "Marco Buis",
+    "screen_name": "polAmbonplein",
+    "location": "Amsterdam Oost",
+    "description": "Buurtregisseur Ambonpleinbuurt Amsterdam Oost, Indischebuurt, Wijkteam Zeeburg, politie Amsterdam. Spoedeisende zaken? Niet via Twitter, bel 112.",
+    "url": "https://t.co/TJstMFc1",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/TJstMFc1",
+            "expanded_url": "https://www.politie.nl/wijkagenten/05/marco-buis.html",
+            "display_url": "politie.nl/wijkagenten/05…",
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 477,
+    "friends_count": 492,
+    "listed_count": 23,
+    "created_at": "Wed Jan 25 20:03:31 +0000 2012",
+    "favourites_count": 2,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 663,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/779064959/8e5516ffe3da44102664dd2d03e7c741.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/779064959/8e5516ffe3da44102664dd2d03e7c741.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1781009049/Marco_Buis1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1781009049/Marco_Buis1_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/474241980/1360011749",
+    "profile_link_color": "004280",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "BE9E55",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          33,
+          37
+        ]
+      },
+      {
+        "text": "Intree",
+        "indices": [
+          38,
+          45
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/2WVZgO2Y",
+        "expanded_url": "http://www.intreeweek.nl/",
+        "display_url": "intreeweek.nl",
+        "indices": [
+          71,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

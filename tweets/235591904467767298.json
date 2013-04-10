@@ -1,0 +1,100 @@
+{
+  "created_at": "Wed Aug 15 04:21:01 +0000 2012",
+  "id": 235591904467767298,
+  "id_str": "235591904467767298",
+  "text": "I beat my #UVA bound brother, @Java37 , in #scrabble tonight. He swears it's because I got the Q and the Z, but I think it's pure skill ;)",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 33785118,
+    "id_str": "33785118",
+    "name": "Danielle Yale Amin",
+    "screen_name": "daniyaleamin",
+    "location": "Virginia Tech",
+    "description": "Hokies, family, friends, and love are what I'm all about.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 164,
+    "friends_count": 343,
+    "listed_count": 1,
+    "created_at": "Tue Apr 21 02:57:59 +0000 2009",
+    "favourites_count": 182,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 895,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/9356293/2f1725336c28d20c95082346e0435efce3ca9638_m.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/9356293/2f1725336c28d20c95082346e0435efce3ca9638_m.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1942481319/316421_10150413177511013_503391012_10561157_1333804844_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1942481319/316421_10150413177511013_503391012_10561157_1333804844_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/33785118/1349153291",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          10,
+          14
+        ]
+      },
+      {
+        "text": "scrabble",
+        "indices": [
+          43,
+          52
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Java37",
+        "name": "David Amin",
+        "id": 26582511,
+        "id_str": "26582511",
+        "indices": [
+          30,
+          37
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

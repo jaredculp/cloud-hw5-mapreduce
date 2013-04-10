@@ -1,0 +1,144 @@
+{
+  "created_at": "Sun Aug 26 02:30:58 +0000 2012",
+  "id": 239550471583432704,
+  "id_str": "239550471583432704",
+  "text": "@mikescott just opened the new leaf basketball cards, and look what i got! #UVA http://t.co/Lu8wkOQs",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 150367583,
+  "in_reply_to_user_id_str": "150367583",
+  "in_reply_to_screen_name": "mikescott",
+  "user": {
+    "id": 522484436,
+    "id_str": "522484436",
+    "name": "Brett McDanieł",
+    "screen_name": "BMMcDaniel6",
+    "location": "DM[V]",
+    "description": "Singer, Basketball lover, and a dreamer. Living life to the fullest. follow me. #TeamLeBron #TeamHeat #HokieNation #LetGoAndLetGod #TeamVocal Taken.",
+    "url": "http://m.youtube.com/user/officialbrettmichael",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://m.youtube.com/user/officialbrettmichael",
+            "expanded_url": null,
+            "indices": [
+              0,
+              46
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 444,
+    "friends_count": 745,
+    "listed_count": 1,
+    "created_at": "Mon Mar 12 18:42:49 +0000 2012",
+    "favourites_count": 2095,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4286,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3217876793/aedd8da084cff9207b05fb20076d4753_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3217876793/aedd8da084cff9207b05fb20076d4753_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/522484436/1359846701",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 9,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          75,
+          79
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 239550471591821312,
+        "id_str": "239550471591821312",
+        "indices": [
+          80,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/media/A1MN4n0CAAAibTW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A1MN4n0CAAAibTW.jpg",
+        "url": "http://t.co/Lu8wkOQs",
+        "display_url": "pic.twitter.com/Lu8wkOQs",
+        "expanded_url": "http://twitter.com/BMMcDaniel6/status/239550471583432704/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1024,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 340,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

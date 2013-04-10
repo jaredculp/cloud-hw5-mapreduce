@@ -1,0 +1,84 @@
+{
+  "created_at": "Tue Aug 14 15:00:47 +0000 2012",
+  "id": 235390518509588480,
+  "id_str": "235390518509588480",
+  "text": "Off to Charlottesville! #UVa tomorrow!",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 242152290,
+    "id_str": "242152290",
+    "name": "Hannah Seelye",
+    "screen_name": "han_seelye",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 176,
+    "friends_count": 126,
+    "listed_count": 0,
+    "created_at": "Mon Jan 24 02:29:52 +0000 2011",
+    "favourites_count": 431,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2184,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "07040A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/708274638/54df1e81e3072839f00b64aa70632326.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/708274638/54df1e81e3072839f00b64aa70632326.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3175602453/95c6bb4c63b5854de03f9eea4a982786_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3175602453/95c6bb4c63b5854de03f9eea4a982786_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/242152290/1357786744",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          24,
+          28
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

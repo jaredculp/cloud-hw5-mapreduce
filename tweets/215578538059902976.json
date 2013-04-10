@@ -1,0 +1,118 @@
+{
+  "created_at": "Wed Jun 20 22:55:03 +0000 2012",
+  "id": 215578538059902976,
+  "id_str": "215578538059902976",
+  "text": "Nice to know that one of the #UVa scandal #dbags served on the board of my alma mater. http://t.co/p8lZ6TMY @kamida @MilesKlee",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 216480273,
+    "id_str": "216480273",
+    "name": "Eric B. Maier",
+    "screen_name": "ericbmaier",
+    "location": "",
+    "description": "Musician. Socioeconomic Ponderer. BopIt.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 48,
+    "friends_count": 201,
+    "listed_count": 2,
+    "created_at": "Tue Nov 16 21:05:03 +0000 2010",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 394,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/430489221/bleak2.1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/430489221/bleak2.1.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1829844464/ezra_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1829844464/ezra_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          29,
+          33
+        ]
+      },
+      {
+        "text": "dbags",
+        "indices": [
+          42,
+          48
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/p8lZ6TMY",
+        "expanded_url": "http://www.readthehook.com/104250/important-alums-did-they-topple-presidency",
+        "display_url": "readthehook.com/104250/importa…",
+        "indices": [
+          87,
+          107
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kamida",
+        "name": "Michael Kamida",
+        "id": 24074316,
+        "id_str": "24074316",
+        "indices": [
+          108,
+          115
+        ]
+      },
+      {
+        "screen_name": "MilesKlee",
+        "name": "Miles Klee",
+        "id": 460444548,
+        "id_str": "460444548",
+        "indices": [
+          116,
+          126
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

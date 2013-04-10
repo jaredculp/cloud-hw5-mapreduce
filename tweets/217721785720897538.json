@@ -1,0 +1,95 @@
+{
+  "created_at": "Tue Jun 26 20:51:33 +0000 2012",
+  "id": 217721785720897538,
+  "id_str": "217721785720897538",
+  "text": "#UVA reinstated President Sullivan!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 536848118,
+    "id_str": "536848118",
+    "name": "Larry Robertson",
+    "screen_name": "LarryRobertson3",
+    "location": "Narrows, VA",
+    "description": "Follow my journey to greatness.",
+    "url": "http://facebook.com/robertsonlarrye",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://facebook.com/robertsonlarrye",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 72,
+    "friends_count": 151,
+    "listed_count": 0,
+    "created_at": "Mon Mar 26 02:30:14 +0000 2012",
+    "favourites_count": 18,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 659,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2601085178/yw68eddfmxb852dgsv2a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2601085178/yw68eddfmxb852dgsv2a_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

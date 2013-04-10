@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 14:47:09 +0000 2012",
+  "id": 215455754575020032,
+  "id_str": "215455754575020032",
+  "text": "MT @neilschlager Online courses experimental. So far produce no revenue. Firing president based on fad is madness #UVA http://t.co/Fe6xsb8X",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215453833726406656,
+  "in_reply_to_status_id_str": "215453833726406656",
+  "in_reply_to_user_id": 18819396,
+  "in_reply_to_user_id_str": "18819396",
+  "in_reply_to_screen_name": "neilschlager",
+  "user": {
+    "id": 25343700,
+    "id_str": "25343700",
+    "name": "John Edwin Mason",
+    "screen_name": "johnedwinmason",
+    "location": "Charlottesville & Cape Town",
+    "description": "Writer (Africa, jazz, history); photographer (documentary projects). Teaches at the University of Virginia.",
+    "url": "http://johnedwinmason.typepad.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://johnedwinmason.typepad.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2506,
+    "friends_count": 1285,
+    "listed_count": 184,
+    "created_at": "Thu Mar 19 17:28:52 +0000 2009",
+    "favourites_count": 977,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13395,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "347EED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/32060609/ID_Photos_Twitter.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/32060609/ID_Photos_Twitter.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2265859419/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2265859419/image_normal.jpg",
+    "profile_link_color": "4B4AAB",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "91989C",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          114,
+          118
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Fe6xsb8X",
+        "expanded_url": "http://bit.ly/KyXPxN",
+        "display_url": "bit.ly/KyXPxN",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "neilschlager",
+        "name": "Neil Schlager",
+        "id": 18819396,
+        "id_str": "18819396",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

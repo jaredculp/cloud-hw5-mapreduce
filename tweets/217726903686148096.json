@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Jun 26 21:11:53 +0000 2012",
+  "id": 217726903686148096,
+  "id_str": "217726903686148096",
+  "text": "w00t! #sullivan #UVa #remarkable http://t.co/8oZp7n3t",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22097479,
+    "id_str": "22097479",
+    "name": "Barbara Hui",
+    "screen_name": "barbarahui",
+    "location": "Oakland, California",
+    "description": "Mapper of Literature. Writer of Code. Comp Lit PhD. Mutt. Software developer in the @eScholarship & @calisphere group @CalDigLib. ",
+    "url": "http://www.barbarahui.net/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.barbarahui.net/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1317,
+    "friends_count": 510,
+    "listed_count": 122,
+    "created_at": "Fri Feb 27 02:36:11 +0000 2009",
+    "favourites_count": 195,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10036,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/25629750/HappyHappy.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/25629750/HappyHappy.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/805663919/barbara_by_monica_sq_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/805663919/barbara_by_monica_sq_normal.png",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "ABB9BA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sullivan",
+        "indices": [
+          6,
+          15
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          16,
+          20
+        ]
+      },
+      {
+        "text": "remarkable",
+        "indices": [
+          21,
+          32
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/8oZp7n3t",
+        "expanded_url": "http://www.nytimes.com/2012/06/27/education/university-of-virginia-reinstates-ousted-president.html",
+        "display_url": "nytimes.com/2012/06/27/edu…",
+        "indices": [
+          33,
+          53
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

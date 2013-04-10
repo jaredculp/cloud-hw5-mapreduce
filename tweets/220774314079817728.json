@@ -1,0 +1,123 @@
+{
+  "created_at": "Thu Jul 05 07:01:13 +0000 2012",
+  "id": 220774314079817728,
+  "id_str": "220774314079817728",
+  "text": "HAHAHAHAHAHAHAHAHAHA #UVA ✌ http://t.co/LJ8ly9DH",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 341882265,
+    "id_str": "341882265",
+    "name": "flapjack",
+    "screen_name": "melozcannn",
+    "location": "#EIGHTHUNNIT",
+    "description": "waffles gang or die #irk #OG4 #BootyCrew #TEAM",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 487,
+    "friends_count": 414,
+    "listed_count": 0,
+    "created_at": "Mon Jul 25 03:24:12 +0000 2011",
+    "favourites_count": 1389,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10504,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/342703163/taylor_lautner.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/342703163/taylor_lautner.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3185465480/34faef15f41e236078ab87b11d6123d2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3185465480/34faef15f41e236078ab87b11d6123d2_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/341882265/1352840515",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          21,
+          25
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 220774314084012034,
+        "id_str": "220774314084012034",
+        "indices": [
+          28,
+          48
+        ],
+        "media_url": "http://pbs.twimg.com/media/AxBZEaaCEAIjauj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AxBZEaaCEAIjauj.jpg",
+        "url": "http://t.co/LJ8ly9DH",
+        "display_url": "pic.twitter.com/LJ8ly9DH",
+        "expanded_url": "http://twitter.com/melozcannn/status/220774314079817728/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 510,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 960,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

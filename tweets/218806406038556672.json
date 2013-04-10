@@ -1,0 +1,127 @@
+{
+  "created_at": "Fri Jun 29 20:41:27 +0000 2012",
+  "id": 218806406038556672,
+  "id_str": "218806406038556672",
+  "text": "Awkward RT @washingtonpost #BREAKINGNEWS: Gov. @BobMcDonnell has reappointed Dragas to #UVA board for a 2nd 4-yr term http://t.co/gPMV44xL",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 259322958,
+    "id_str": "259322958",
+    "name": "Andy Thomason",
+    "screen_name": "arthomason",
+    "location": "",
+    "description": "Editor-in-chief of @dailytarheel and a UNC student. My DTH Editor's Blog: http://t.co/rZ7PB1Kt",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/rZ7PB1Kt",
+            "expanded_url": "http://bit.ly/P9LbrF",
+            "display_url": "bit.ly/P9LbrF",
+            "indices": [
+              74,
+              94
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 635,
+    "friends_count": 321,
+    "listed_count": 22,
+    "created_at": "Tue Mar 01 16:41:36 +0000 2011",
+    "favourites_count": 100,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2029,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/765366252/d8fdcb87bb452d4c68a1b2b24b21ae5b.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/765366252/d8fdcb87bb452d4c68a1b2b24b21ae5b.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2677556052/1650b0e47570eae0d5afab2c43810267_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2677556052/1650b0e47570eae0d5afab2c43810267_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/259322958/1358351424",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BREAKINGNEWS",
+        "indices": [
+          27,
+          40
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          87,
+          91
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/gPMV44xL",
+        "expanded_url": "http://wapo.st/Lm35Sr",
+        "display_url": "wapo.st/Lm35Sr",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          11,
+          26
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          47,
+          60
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

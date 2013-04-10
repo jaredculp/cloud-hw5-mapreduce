@@ -1,0 +1,117 @@
+{
+  "created_at": "Tue Jun 26 15:37:01 +0000 2012",
+  "id": 217642632090894338,
+  "id_str": "217642632090894338",
+  "text": "#Uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 339850202,
+    "id_str": "339850202",
+    "name": "KarineDePaula ☮",
+    "screen_name": "KarinedePaula12",
+    "location": "Rio Grande - RS",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 418,
+    "friends_count": 1723,
+    "listed_count": 1,
+    "created_at": "Thu Jul 21 19:18:44 +0000 2011",
+    "favourites_count": 15,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6569,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "CF40CA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/744488290/a1b649b6ce336e4f5e7b97520e1cdcbd.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/744488290/a1b649b6ce336e4f5e7b97520e1cdcbd.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3032941725/79b9eb4a1f45d0e936328c8044b6a663_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3032941725/79b9eb4a1f45d0e936328c8044b6a663_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/339850202/1356702851",
+    "profile_link_color": "19E835",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "3c465ed3fc434def",
+    "url": "https://api.twitter.com/1.1/geo/id/3c465ed3fc434def.json",
+    "place_type": "city",
+    "name": "Rio Grande",
+    "full_name": "Rio Grande, Rio Grande do Sul",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -52.692035,
+            -32.650655
+          ],
+          [
+            -52.063954,
+            -32.650655
+          ],
+          [
+            -52.063954,
+            -31.7735
+          ],
+          [
+            -52.692035,
+            -31.7735
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

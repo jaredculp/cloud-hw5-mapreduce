@@ -1,0 +1,124 @@
+{
+  "created_at": "Mon Aug 27 20:44:53 +0000 2012",
+  "id": 240188154890551296,
+  "id_str": "240188154890551296",
+  "text": "@NickC941 @ESPNradio941 yay #UVa news! I'm not sure about Rocco in the pocket- and they should have redshirted @DWatford5 last season",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 240187757534785537,
+  "in_reply_to_status_id_str": "240187757534785537",
+  "in_reply_to_user_id": 52536524,
+  "in_reply_to_user_id_str": "52536524",
+  "in_reply_to_screen_name": "NickC941",
+  "user": {
+    "id": 18347439,
+    "id_str": "18347439",
+    "name": "Ramona Rice",
+    "screen_name": "SportsGalPal",
+    "location": "Virginia",
+    "description": "Writer and Creator of Sports Gal Pal, mom of tiny humans, wife to a big man, University of Virginia Alumna, #Hoos ",
+    "url": "http://sportspalgal.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://sportspalgal.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 173,
+    "friends_count": 559,
+    "listed_count": 1,
+    "created_at": "Wed Dec 24 01:29:24 +0000 2008",
+    "favourites_count": 29,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2645,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2469215699/mfpaiqz7vf4typeynxjd_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2469215699/mfpaiqz7vf4typeynxjd_normal.jpeg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NickC941",
+        "name": "Nick Cattles",
+        "id": 52536524,
+        "id_str": "52536524",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "ESPNradio941",
+        "name": "ESPNradio941",
+        "id": 81870875,
+        "id_str": "81870875",
+        "indices": [
+          10,
+          23
+        ]
+      },
+      {
+        "screen_name": "DWatford5",
+        "name": "David Watford",
+        "id": 190122893,
+        "id_str": "190122893",
+        "indices": [
+          111,
+          121
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

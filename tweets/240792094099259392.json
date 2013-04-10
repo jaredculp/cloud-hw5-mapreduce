@@ -1,0 +1,103 @@
+{
+  "created_at": "Wed Aug 29 12:44:43 +0000 2012",
+  "id": 240792094099259392,
+  "id_str": "240792094099259392",
+  "text": "In de trein op weg naar Amsterdam. Voel me even weer student, ook al heb ik geen introductie. #UvA #opnaardeDam",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 105771451,
+    "id_str": "105771451",
+    "name": "Albertine",
+    "screen_name": "tien90",
+    "location": "The Netherlands",
+    "description": "Working. Studying. Dreaming. Rebel Without A Cause. I Love Cycling, Soccer and Music. Do what you love and love what you do. @RideOnTweets",
+    "url": "http://rideonblog.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://rideonblog.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 83,
+    "friends_count": 242,
+    "listed_count": 3,
+    "created_at": "Sun Jan 17 12:23:50 +0000 2010",
+    "favourites_count": 2,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3433,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3153616908/2ccc5f4e38e565db6f7c16e1f739c2e0_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3153616908/2ccc5f4e38e565db6f7c16e1f739c2e0_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/105771451/1358365810",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          94,
+          98
+        ]
+      },
+      {
+        "text": "opnaardeDam",
+        "indices": [
+          99,
+          111
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

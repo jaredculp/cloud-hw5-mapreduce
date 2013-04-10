@@ -1,0 +1,102 @@
+{
+  "created_at": "Mon Aug 06 16:31:53 +0000 2012",
+  "id": 232514340857720833,
+  "id_str": "232514340857720833",
+  "text": "Y la #solución es la #uva. ¿habéis acertado?",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 310140092,
+    "id_str": "310140092",
+    "name": "Dale Tiempo Al Juego",
+    "screen_name": "DaleTiempoAlJue",
+    "location": "Ibi, Alicante",
+    "description": "Espacio para hablar del juego y el juguete infantil. Jugar es diversión, educación, cultura, un derecho universal y necesario para el desarrollo de los niños.",
+    "url": "http://www.daletiempoaljuego.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.daletiempoaljuego.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1369,
+    "friends_count": 1793,
+    "listed_count": 27,
+    "created_at": "Fri Jun 03 07:55:12 +0000 2011",
+    "favourites_count": 43,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1144,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "024001",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/527099946/fondo_twitter.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/527099946/fondo_twitter.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2146713567/Untitled-1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2146713567/Untitled-1_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "solución",
+        "indices": [
+          5,
+          14
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          21,
+          25
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

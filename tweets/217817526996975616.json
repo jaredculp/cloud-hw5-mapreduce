@@ -1,0 +1,111 @@
+{
+  "created_at": "Wed Jun 27 03:11:59 +0000 2012",
+  "id": 217817526996975616,
+  "id_str": "217817526996975616",
+  "text": "Great clip of the President's address on the Lawn this afternoon - http://t.co/auAarwkB #sUlliVAn #uvacommunity",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 41048951,
+    "id_str": "41048951",
+    "name": "Virginia Club of NYC",
+    "screen_name": "VirginiaClub",
+    "location": "New York City",
+    "description": "The official home for U.Va. alumni, family, and friends in New York City, located at the Yale Club in Midtown Manhattan.",
+    "url": "http://www.uvanyc.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.uvanyc.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 392,
+    "friends_count": 143,
+    "listed_count": 12,
+    "created_at": "Tue May 19 03:51:12 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 577,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "05078A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/13735838/doubledown2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/13735838/doubledown2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2528538157/tcaqbognncjgrc6zjvn6_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2528538157/tcaqbognncjgrc6zjvn6_normal.png",
+    "profile_link_color": "FFC38A",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FA800F",
+    "profile_text_color": "0E066F",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sUlliVAn",
+        "indices": [
+          88,
+          97
+        ]
+      },
+      {
+        "text": "uvacommunity",
+        "indices": [
+          98,
+          111
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/auAarwkB",
+        "expanded_url": "http://www.youtube.com/watch?v=zTVIUSolPk8&feature=youtu.be",
+        "display_url": "youtube.com/watch?v=zTVIUS…",
+        "indices": [
+          67,
+          87
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,83 @@
+{
+  "created_at": "Mon Jun 25 11:40:09 +0000 2012",
+  "id": 217220635053654017,
+  "id_str": "217220635053654017",
+  "text": "First day at work let's see how this goes. \n#UVA",
+  "source": "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 573983181,
+    "id_str": "573983181",
+    "name": "Hector Torres",
+    "screen_name": "HT_MrNiceGuy",
+    "location": "Anaheim, California",
+    "description": "Always up for a good time. \r\n:)",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 111,
+    "friends_count": 110,
+    "listed_count": 0,
+    "created_at": "Mon May 07 19:27:03 +0000 2012",
+    "favourites_count": 243,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1992,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/624748440/mmm6gwiy34jsrkpb6lzn.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/624748440/mmm6gwiy34jsrkpb6lzn.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2385802776/yr5g36jtwqnm0m8ybw8v_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2385802776/yr5g36jtwqnm0m8ybw8v_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          44,
+          48
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

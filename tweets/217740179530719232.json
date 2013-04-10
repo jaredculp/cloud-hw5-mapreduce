@@ -1,0 +1,97 @@
+{
+  "created_at": "Tue Jun 26 22:04:38 +0000 2012",
+  "id": 217740179530719232,
+  "id_str": "217740179530719232",
+  "text": "Get it, Sullivan! #Uva",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 381834474,
+    "id_str": "381834474",
+    "name": "Mike Zoghby",
+    "screen_name": "mkZOGZ",
+    "location": "RVA",
+    "description": "Architecture - We were supposed to make things together. I will not work for free. I will not work 90 days at a time with no benefits. Where is the future?",
+    "url": "https://t.co/CwhJ2tDb",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/CwhJ2tDb",
+            "expanded_url": "https://dl.dropbox.com/u/19345735/MDZResumeDocument.pdf",
+            "display_url": "dl.dropbox.com/u/19345735/MDZ…",
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 59,
+    "friends_count": 136,
+    "listed_count": 1,
+    "created_at": "Thu Sep 29 01:07:42 +0000 2011",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 734,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1564641539/California_240_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1564641539/California_240_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/381834474/1351629135",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          18,
+          22
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

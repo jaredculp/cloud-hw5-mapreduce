@@ -1,0 +1,95 @@
+{
+  "created_at": "Wed Jun 20 20:33:19 +0000 2012",
+  "id": 215542870784999424,
+  "id_str": "215542870784999424",
+  "text": "UVA BOV fire President? Strangest story of the week. It's like some sort of weird DC politics event, but in Charlottesville. #UVA",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15505526,
+    "id_str": "15505526",
+    "name": "cmackge",
+    "screen_name": "cmackge",
+    "location": "Hamilton, Va",
+    "description": "e-commerce expert, funky bass-player, and general well-meaning fiend. Spent a long time learning things the hard way, so I've gotta wicked bag of tricks.",
+    "url": "http://www.cmackg.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cmackg.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 49,
+    "friends_count": 79,
+    "listed_count": 2,
+    "created_at": "Sun Jul 20 20:26:16 +0000 2008",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 415,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/533028872/twitter-back.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/533028872/twitter-back.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2173783753/cmg-headshot_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2173783753/cmg-headshot_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          125,
+          129
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

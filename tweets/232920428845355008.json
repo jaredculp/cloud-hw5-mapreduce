@@ -1,0 +1,128 @@
+{
+  "created_at": "Tue Aug 07 19:25:32 +0000 2012",
+  "id": 232920428845355008,
+  "id_str": "232920428845355008",
+  "text": "Reports from @hardlyworkin950 radio in Richmond are that Zach Bradshaw, who de-committed from #PSU, has committed to Virginia. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 76212581,
+    "id_str": "76212581",
+    "name": "Marty Valania",
+    "screen_name": "EastRecruiting",
+    "location": "",
+    "description": "Covers Penn State football for http://t.co/Irjan84C and football recruiting for http://t.co/PgkPk048.",
+    "url": "http://www.nittanylionsden.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nittanylionsden.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/Irjan84C",
+            "expanded_url": "http://nittanylionsden.com",
+            "display_url": "nittanylionsden.com",
+            "indices": [
+              31,
+              51
+            ]
+          },
+          {
+            "url": "http://t.co/PgkPk048",
+            "expanded_url": "http://easternfootballrecruiting.com",
+            "display_url": "easternfootballrecruiting.com",
+            "indices": [
+              80,
+              100
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 439,
+    "friends_count": 388,
+    "listed_count": 11,
+    "created_at": "Tue Sep 22 01:29:36 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2271,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2361868419/tnat2bmekvdg7h29tg7l_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2361868419/tnat2bmekvdg7h29tg7l_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "PSU",
+        "indices": [
+          94,
+          98
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          127,
+          131
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "hardlyworkin950",
+        "name": "Greg Burton",
+        "id": 74775618,
+        "id_str": "74775618",
+        "indices": [
+          13,
+          29
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

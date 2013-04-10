@@ -1,0 +1,92 @@
+{
+  "created_at": "Wed Jun 20 13:57:23 +0000 2012",
+  "id": 215443231524143104,
+  "id_str": "215443231524143104",
+  "text": "Links plus timeline #UVA http://t.co/GYipwgV6",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 180314988,
+    "id_str": "180314988",
+    "name": "Racial Politics UVA",
+    "screen_name": "RacialPol",
+    "location": "Charlottesville VA",
+    "description": "We study Racial Politics at the University of Virginia",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 152,
+    "friends_count": 26,
+    "listed_count": 0,
+    "created_at": "Thu Aug 19 09:49:40 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 342,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "3D220B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/137342732/bg.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/137342732/bg.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1110021454/abrahamobama_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1110021454/abrahamobama_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/GYipwgV6",
+        "expanded_url": "http://www.virginia.edu/facultysenate/faqs.html",
+        "display_url": "virginia.edu/facultysenate/…",
+        "indices": [
+          25,
+          45
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

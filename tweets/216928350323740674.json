@@ -1,0 +1,109 @@
+{
+  "created_at": "Sun Jun 24 16:18:43 +0000 2012",
+  "id": 216928350323740674,
+  "id_str": "216928350323740674",
+  "text": "“@TheUVAFool: You'll be able to live stream today's #UVA #Rally4Honor on the Lawn here: http://t.co/l30S6zeh”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 595146688,
+    "id_str": "595146688",
+    "name": "UVa First Year Probs",
+    "screen_name": "FirstYearProbss",
+    "location": "charlottesville, va",
+    "description": "Because we're the best. #wahoowa #uva2016 #firstyearprobss #UVa",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 538,
+    "friends_count": 201,
+    "listed_count": 3,
+    "created_at": "Thu May 31 03:44:21 +0000 2012",
+    "favourites_count": 160,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 400,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2265057089/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2265057089/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/595146688/1358373077",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          52,
+          56
+        ]
+      },
+      {
+        "text": "Rally4Honor",
+        "indices": [
+          57,
+          69
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/l30S6zeh",
+        "expanded_url": "http://www.ustream.tv/channel/sunday-on-the-lawn#utm_source=TheUVAFool",
+        "display_url": "ustream.tv/channel/sunday…",
+        "indices": [
+          88,
+          108
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          1,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 26 15:39:31 +0000 2012",
+  "id": 217643260536029184,
+  "id_str": "217643260536029184",
+  "text": "correction: @amandafrench *is* a #uva grad. seems to me i knew that, so extra apologies for mistake.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29558718,
+    "id_str": "29558718",
+    "name": "Susan Garfinkel",
+    "screen_name": "footnotesrising",
+    "location": "Washington, D.C.",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 764,
+    "friends_count": 565,
+    "listed_count": 90,
+    "created_at": "Tue Apr 07 22:04:49 +0000 2009",
+    "favourites_count": 126,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5924,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/275068451/morderneicon_sm_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/275068451/morderneicon_sm_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "1DEBE1",
+    "profile_sidebar_fill_color": "CCFDFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          33,
+          37
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "amandafrench",
+        "name": "Amanda French",
+        "id": 6361722,
+        "id_str": "6361722",
+        "indices": [
+          12,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

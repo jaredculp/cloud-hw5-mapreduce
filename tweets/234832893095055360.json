@@ -1,0 +1,95 @@
+{
+  "created_at": "Mon Aug 13 02:04:59 +0000 2012",
+  "id": 234832893095055360,
+  "id_str": "234832893095055360",
+  "text": "And I thought Miley Cyrus was good looking at one point. #ashamed",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 401142126,
+    "id_str": "401142126",
+    "name": "Hunter Strine",
+    "screen_name": "h_strine",
+    "location": "Ocean City",
+    "description": "Livin the chill life\r\nOld Twitter - @hdawggyswag",
+    "url": "http://hunterstrine.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://hunterstrine.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 175,
+    "friends_count": 233,
+    "listed_count": 0,
+    "created_at": "Sun Oct 30 03:42:03 +0000 2011",
+    "favourites_count": 45,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 110,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2482989860/4cydp8meh0dauznm7zlu_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2482989860/4cydp8meh0dauznm7zlu_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ashamed",
+        "indices": [
+          57,
+          65
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

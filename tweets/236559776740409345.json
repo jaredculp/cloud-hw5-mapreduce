@@ -1,0 +1,111 @@
+{
+  "created_at": "Fri Aug 17 20:27:00 +0000 2012",
+  "id": 236559776740409345,
+  "id_str": "236559776740409345",
+  "text": "Why #TeresaSullivan should not apologize for \"her part\" in the #UVA fiasco. http://t.co/9aOByHCz",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22811188,
+    "id_str": "22811188",
+    "name": "Double X",
+    "screen_name": "DoubleXMag",
+    "location": "",
+    "description": "What women really think.",
+    "url": "http://www.slate.com/articles/double_x.html",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.slate.com/articles/double_x.html",
+            "expanded_url": null,
+            "indices": [
+              0,
+              43
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 8449,
+    "friends_count": 2027,
+    "listed_count": 462,
+    "created_at": "Wed Mar 04 18:24:32 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4390,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B628C0",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/475007916/DoubleXbkgd.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/475007916/DoubleXbkgd.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/454194895/doubleX-white_73x73_b_bigger3_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/454194895/doubleX-white_73x73_b_bigger3_normal.gif",
+    "profile_link_color": "0077FF",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "999999",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "TeresaSullivan",
+        "indices": [
+          4,
+          19
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          63,
+          67
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/9aOByHCz",
+        "expanded_url": "http://www.slate.com/blogs/xx_factor/2012/08/17/teresa_sullivan_and_uva_she_shouldn_t_apologize_.html",
+        "display_url": "slate.com/blogs/xx_facto…",
+        "indices": [
+          76,
+          96
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

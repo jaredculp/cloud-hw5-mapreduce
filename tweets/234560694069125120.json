@@ -1,0 +1,125 @@
+{
+  "created_at": "Sun Aug 12 08:03:22 +0000 2012",
+  "id": 234560694069125120,
+  "id_str": "234560694069125120",
+  "text": "http://t.co/txqkgQt1 #sunscreen #sunprotection #UVA #/UVB #aging",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 624308519,
+    "id_str": "624308519",
+    "name": "Vitality Medispa",
+    "screen_name": "VitalityMedisp1",
+    "location": "Ocean Grove & Leopold ",
+    "description": "Vitality is a multi award winning clinic that incorporates an extensive range of beauty & clinical treatments utilising medical grade products and equipment. ",
+    "url": "http://www.vitalitymedispa.com.au",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.vitalitymedispa.com.au",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 41,
+    "friends_count": 173,
+    "listed_count": 0,
+    "created_at": "Mon Jul 02 03:09:10 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 18,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/621472870/4iwe13btopd9o7i37en5.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/621472870/4iwe13btopd9o7i37en5.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2359493543/309736_134176570014903_1115100641_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2359493543/309736_134176570014903_1115100641_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sunscreen",
+        "indices": [
+          21,
+          31
+        ]
+      },
+      {
+        "text": "sunprotection",
+        "indices": [
+          32,
+          46
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "aging",
+        "indices": [
+          58,
+          64
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/txqkgQt1",
+        "expanded_url": "http://www.vogue.com.au/beauty/news/the+latest+generation+of+sunscreens+,16417",
+        "display_url": "vogue.com.au/beauty/news/th…",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

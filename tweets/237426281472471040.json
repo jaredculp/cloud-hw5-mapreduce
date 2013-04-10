@@ -1,0 +1,112 @@
+{
+  "created_at": "Mon Aug 20 05:50:11 +0000 2012",
+  "id": 237426281472471040,
+  "id_str": "237426281472471040",
+  "text": "@EnricoWineAsia in effetti un po' di sonno c'e', ma vale la pena per #uva e #vino",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 237425912545701889,
+  "in_reply_to_status_id_str": "237425912545701889",
+  "in_reply_to_user_id": 93015508,
+  "in_reply_to_user_id_str": "93015508",
+  "in_reply_to_screen_name": "EnricoWineAsia",
+  "user": {
+    "id": 237692888,
+    "id_str": "237692888",
+    "name": "Elena Roppa",
+    "screen_name": "ElenaRoppa",
+    "location": "Friuli Venezia Giulia",
+    "description": "Event Manager and Wine Tourism PR for wine & food sector, I'm often in the #wine cellar! #winelover #food #italy #friuliveneziagiulia",
+    "url": "http://www.itsawineworld.it",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.itsawineworld.it",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1294,
+    "friends_count": 522,
+    "listed_count": 52,
+    "created_at": "Thu Jan 13 12:10:46 +0000 2011",
+    "favourites_count": 257,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5514,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/604121515/spebwildszjapjw2i1nk.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/604121515/spebwildszjapjw2i1nk.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3022791886/4a196b0d52fce8c8ed905171513a9598_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3022791886/4a196b0d52fce8c8ed905171513a9598_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/237692888/1355391375",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          69,
+          73
+        ]
+      },
+      {
+        "text": "vino",
+        "indices": [
+          76,
+          81
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "EnricoWineAsia",
+        "name": "Enrico Cerrato",
+        "id": 93015508,
+        "id_str": "93015508",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

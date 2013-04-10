@@ -1,0 +1,122 @@
+{
+  "created_at": "Sun Aug 26 20:50:13 +0000 2012",
+  "id": 239827107436437504,
+  "id_str": "239827107436437504",
+  "text": "Ohhhhhh yeah. Love this place #UVa http://t.co/ydyJSA3D",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 616235992,
+    "id_str": "616235992",
+    "name": "Michael Михаил مايكل",
+    "screen_name": "michaelhenrik",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 109,
+    "friends_count": 103,
+    "listed_count": 0,
+    "created_at": "Sat Jun 23 16:01:49 +0000 2012",
+    "favourites_count": 64,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 258,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2333981230/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2333981230/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 239827107444826112,
+        "id_str": "239827107444826112",
+        "indices": [
+          35,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/A1QJe8rCIAA2K61.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A1QJe8rCIAA2K61.jpg",
+        "url": "http://t.co/ydyJSA3D",
+        "display_url": "pic.twitter.com/ydyJSA3D",
+        "expanded_url": "http://twitter.com/michaelhenrik/status/239827107436437504/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 455,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 765,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 803,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

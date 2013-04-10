@@ -1,0 +1,142 @@
+{
+  "created_at": "Sat Jun 23 20:49:01 +0000 2012",
+  "id": 216633985936261121,
+  "id_str": "216633985936261121",
+  "text": "@SlaughterAM in @TheAtlantic+ #BOV #UVA #Sullivan mayhem = #havingitall in higher ed? #UVA as The Family First University for top talent?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 252531143,
+  "in_reply_to_user_id_str": "252531143",
+  "in_reply_to_screen_name": "SlaughterAM",
+  "user": {
+    "id": 14950841,
+    "id_str": "14950841",
+    "name": "Cynthia Corby",
+    "screen_name": "AllButHousework",
+    "location": "Charlottesville, VA",
+    "description": "",
+    "url": "http://attachedfeminist.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://attachedfeminist.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 102,
+    "friends_count": 171,
+    "listed_count": 2,
+    "created_at": "Fri May 30 02:38:07 +0000 2008",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 118,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/74378526/cbcboysprofile_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/74378526/cbcboysprofile_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          30,
+          34
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          35,
+          39
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          40,
+          49
+        ]
+      },
+      {
+        "text": "havingitall",
+        "indices": [
+          59,
+          71
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          86,
+          90
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SlaughterAM",
+        "name": "Anne-Marie Slaughter",
+        "id": 252531143,
+        "id_str": "252531143",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "TheAtlantic",
+        "name": "The Atlantic",
+        "id": 35773039,
+        "id_str": "35773039",
+        "indices": [
+          16,
+          28
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

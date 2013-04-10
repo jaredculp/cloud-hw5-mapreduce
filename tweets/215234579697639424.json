@@ -1,0 +1,102 @@
+{
+  "created_at": "Wed Jun 20 00:08:17 +0000 2012",
+  "id": 215234579697639424,
+  "id_str": "215234579697639424",
+  "text": "It's damning all right. RT “@dandrezner: Is it just me, or is this a really damning letter? #UVA   https://t.co/BwBHWzEc”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15898695,
+    "id_str": "15898695",
+    "name": "evaottesmith",
+    "screen_name": "evaottesmith",
+    "location": "California",
+    "description": "hope, innovation, democracy, danish, education, technology, downton abbey, environment, science, human rights, obama, homeland, space, john stewart, animals",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 824,
+    "friends_count": 1998,
+    "listed_count": 23,
+    "created_at": "Tue Aug 19 00:56:49 +0000 2008",
+    "favourites_count": 662,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 25918,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1254996531/twitter_7_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1254996531/twitter_7_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/15898695/1349454111",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          92,
+          96
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/BwBHWzEc",
+        "expanded_url": "https://gist.github.com/2956118",
+        "display_url": "gist.github.com/2956118",
+        "indices": [
+          99,
+          120
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dandrezner",
+        "name": "Daniel Drezner",
+        "id": 75797367,
+        "id_str": "75797367",
+        "indices": [
+          28,
+          39
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

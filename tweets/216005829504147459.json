@@ -1,0 +1,160 @@
+{
+  "created_at": "Fri Jun 22 03:12:57 +0000 2012",
+  "id": 216005829504147459,
+  "id_str": "216005829504147459",
+  "text": "@planetann yes, #nerdwin! Metadata shows Dragas' stmt by Repub PR strategist http://t.co/sa5KKp3l #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216004114440663040,
+  "in_reply_to_status_id_str": "216004114440663040",
+  "in_reply_to_user_id": 18119155,
+  "in_reply_to_user_id_str": "18119155",
+  "in_reply_to_screen_name": "planetann",
+  "user": {
+    "id": 176371696,
+    "id_str": "176371696",
+    "name": "Alex Holcombe",
+    "screen_name": "ceptional",
+    "location": "Sydney, Australia",
+    "description": "Science is broken. Let's fix it. @NZAUOpenRes, @PsychFileDrawer,  http://t.co/LOdkzEw5, @EvidenceChart",
+    "url": "http://www.psych.usyd.edu.au/staff/alexh/lab/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.psych.usyd.edu.au/staff/alexh/lab/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              45
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/LOdkzEw5",
+            "expanded_url": "http://www.youtube.com/watch?v=GMIY_4t-DR0",
+            "display_url": "youtube.com/watch?v=GMIY_4…",
+            "indices": [
+              66,
+              86
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 776,
+    "friends_count": 716,
+    "listed_count": 61,
+    "created_at": "Mon Aug 09 10:37:26 +0000 2010",
+    "favourites_count": 120,
+    "utc_offset": 36000,
+    "time_zone": "Sydney",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2763,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/276790498/Screen_shot_2011-06-24_at_8.07.14_PM.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/276790498/Screen_shot_2011-06-24_at_8.07.14_PM.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1859605937/9263df19-fb4b-4321-9a55-b2d371aa830e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1859605937/9263df19-fb4b-4321-9a55-b2d371aa830e_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "nerdwin",
+        "indices": [
+          16,
+          24
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          98,
+          102
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "planetann",
+        "name": "Ann Kovalchick",
+        "id": 18119155,
+        "id_str": "18119155",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 215982643165134850,
+        "id_str": "215982643165134850",
+        "indices": [
+          77,
+          97
+        ],
+        "media_url": "http://pbs.twimg.com/media/Av9TEdOCAAIGUez.png",
+        "media_url_https": "https://pbs.twimg.com/media/Av9TEdOCAAIGUez.png",
+        "url": "http://t.co/sa5KKp3l",
+        "display_url": "pic.twitter.com/sa5KKp3l",
+        "expanded_url": "http://twitter.com/cvillenewscom/status/215982643156746242/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 612,
+            "h": 392,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 218,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 384,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 215982643156746242,
+        "source_status_id_str": "215982643156746242"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

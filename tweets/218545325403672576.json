@@ -1,0 +1,109 @@
+{
+  "created_at": "Fri Jun 29 03:24:00 +0000 2012",
+  "id": 218545325403672576,
+  "id_str": "218545325403672576",
+  "text": "Top #ArtsAdmin in Charlottesville: http://t.co/zNYe8lK4 Enjoyed taking a class with @maggie3b and hope to take one with Jody Kielbasa. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 127713630,
+    "id_str": "127713630",
+    "name": "Anna Xie",
+    "screen_name": "annameliorate",
+    "location": "Fairfax / Charlottesville",
+    "description": "@mcintireuva student. Former @cavalierdaily CFO. Photographer. Aspiring consultant and IT specialist.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 225,
+    "friends_count": 414,
+    "listed_count": 4,
+    "created_at": "Tue Mar 30 01:29:16 +0000 2010",
+    "favourites_count": 543,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4026,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3186148867/c5617fe04010ac35b6ddd8ba7a813a25_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3186148867/c5617fe04010ac35b6ddd8ba7a813a25_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/127713630/1359596499",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ArtsAdmin",
+        "indices": [
+          4,
+          14
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zNYe8lK4",
+        "expanded_url": "http://www.c-ville.com/Article/Features/The_Arts_Creativitys_top_players/",
+        "display_url": "c-ville.com/Article/Featur…",
+        "indices": [
+          35,
+          55
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "maggie3b",
+        "name": "Maggie Guggenheimer",
+        "id": 22556923,
+        "id_str": "22556923",
+        "indices": [
+          84,
+          93
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

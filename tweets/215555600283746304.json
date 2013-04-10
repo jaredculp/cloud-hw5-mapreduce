@@ -1,0 +1,124 @@
+{
+  "created_at": "Wed Jun 20 21:23:54 +0000 2012",
+  "id": 215555600283746304,
+  "id_str": "215555600283746304",
+  "text": "Haha, how awks. RT @JennMcClellanVA: #UVA interim president does not support Sullivan ouster http://t.co/KnMpK6RV (via @rtdnews)",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21368776,
+    "id_str": "21368776",
+    "name": "CeeJayLouis™",
+    "screen_name": "TheCeeJayLouis",
+    "location": "The Frontal Lobe.✈",
+    "description": "Christian. Psychonaut. Sapiosexual. Apprentice of Truth. Provocative Pundit. Raconteur. Non-Intentional Role Model. Prisoner of Hope. In Perpetual Metanoia.",
+    "url": "http://www.youtube.com/playlist?list=PL8F015BE58DFD253E",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.youtube.com/playlist?list=PL8F015BE58DFD253E",
+            "expanded_url": null,
+            "indices": [
+              0,
+              55
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 492,
+    "friends_count": 471,
+    "listed_count": 22,
+    "created_at": "Fri Feb 20 03:11:06 +0000 2009",
+    "favourites_count": 596,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 36678,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/579308814/6x61bc8vichlsbor6nu1.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/579308814/6x61bc8vichlsbor6nu1.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2815634751/0ee451de3125b86814426e5c1da58908_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2815634751/0ee451de3125b86814426e5c1da58908_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/21368776/1359996923",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/KnMpK6RV",
+        "expanded_url": "http://bit.ly/NjrbA5",
+        "display_url": "bit.ly/NjrbA5",
+        "indices": [
+          93,
+          113
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JennMcClellanVA",
+        "name": "Jennifer McClellan",
+        "id": 370859141,
+        "id_str": "370859141",
+        "indices": [
+          19,
+          35
+        ]
+      },
+      {
+        "screen_name": "RTDNEWS",
+        "name": "Times-Dispatch",
+        "id": 23764675,
+        "id_str": "23764675",
+        "indices": [
+          119,
+          127
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,123 @@
+{
+  "created_at": "Wed Jun 27 10:48:43 +0000 2012",
+  "id": 217932464432234496,
+  "id_str": "217932464432234496",
+  "text": "Plausible, scary MT @chrisalensula theory of #UVA President Sullivan's ousting via @NewFacMajority http://t.co/T3Gy9Hse",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19531912,
+    "id_str": "19531912",
+    "name": "John Tomlinson",
+    "screen_name": "johntomlinson",
+    "location": "New York City",
+    "description": "Communications, design, knowledge & information management, technology, information & public policy, journalism, international development, philanthropy",
+    "url": "http://www.johntomlinson.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.johntomlinson.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 158,
+    "friends_count": 135,
+    "listed_count": 9,
+    "created_at": "Mon Jan 26 12:42:15 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1314,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/279221734/globalizationtwitter2.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/279221734/globalizationtwitter2.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1751267112/johntomlinson_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1751267112/johntomlinson_normal.jpg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          45,
+          49
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/T3Gy9Hse",
+        "expanded_url": "http://ow.ly/bQKC0",
+        "display_url": "ow.ly/bQKC0",
+        "indices": [
+          99,
+          119
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chrisalensula",
+        "name": "Chris Alen Sula",
+        "id": 14964264,
+        "id_str": "14964264",
+        "indices": [
+          20,
+          34
+        ]
+      },
+      {
+        "screen_name": "NewFacMajority",
+        "name": "New Faculty Majority",
+        "id": 537502474,
+        "id_str": "537502474",
+        "indices": [
+          83,
+          98
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

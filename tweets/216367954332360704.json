@@ -1,0 +1,104 @@
+{
+  "created_at": "Sat Jun 23 03:11:54 +0000 2012",
+  "id": 216367954332360704,
+  "id_str": "216367954332360704",
+  "text": "RT @chronicle: #UVA creates an online archive documenting Sullivan's resignation--particularly, photos, tweets, signs, and blogs:...",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 268459624,
+    "id_str": "268459624",
+    "name": "Paul E. Mabrey III",
+    "screen_name": "paulmabrey3",
+    "location": "Harrisonburg, VA, USA",
+    "description": "Lecturer in School of Communication Studies and Assistant Director of Debate at James Madison University\r\nsites.jmu.edu/foodcomm",
+    "url": "http://sites.jmu.edu/foodcomm",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://sites.jmu.edu/foodcomm",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 284,
+    "friends_count": 437,
+    "listed_count": 5,
+    "created_at": "Fri Mar 18 20:34:05 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1280,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1616389369/Photo_on_2011-09-08_at_08.44_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1616389369/Photo_on_2011-09-08_at_08.44_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          15,
+          19
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

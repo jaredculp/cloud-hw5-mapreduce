@@ -1,0 +1,190 @@
+{
+  "created_at": "Wed Jun 20 17:34:54 +0000 2012",
+  "id": 215497968445435905,
+  "id_str": "215497968445435905",
+  "text": "RT @jpizzi: I thought I went to the University of Virginia, not the University of Phoenix. #UVA #Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 271160889,
+    "id_str": "271160889",
+    "name": "Amanda Lee House",
+    "screen_name": "AmandaLeeHouse",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2,
+    "friends_count": 42,
+    "listed_count": 0,
+    "created_at": "Thu Mar 24 00:01:16 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2328334483/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2328334483/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jun 20 17:16:18 +0000 2012",
+    "id": 215493289372168192,
+    "id_str": "215493289372168192",
+    "text": "I thought I went to the University of Virginia, not the University of Phoenix. #UVA #Sullivan",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 15692737,
+      "id_str": "15692737",
+      "name": "Julia Pizzi",
+      "screen_name": "jpizzi",
+      "location": "New York, NY",
+      "description": "Enjoys cheese of both the literal and figurative varieties. Opinions are my own.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 974,
+      "friends_count": 368,
+      "listed_count": 24,
+      "created_at": "Fri Aug 01 18:44:28 +0000 2008",
+      "favourites_count": 327,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7119,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/316423178/Julia_Pizzi_Photo_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/316423178/Julia_Pizzi_Photo_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/15692737/1354576003",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 4,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVA",
+          "indices": [
+            79,
+            83
+          ]
+        },
+        {
+          "text": "Sullivan",
+          "indices": [
+            84,
+            93
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          91,
+          95
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          96,
+          105
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jpizzi",
+        "name": "Julia Pizzi",
+        "id": 15692737,
+        "id_str": "15692737",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,156 @@
+{
+  "created_at": "Sun Jul 01 16:24:51 +0000 2012",
+  "id": 219466610078007296,
+  "id_str": "219466610078007296",
+  "text": "Check out the weather for #Sullivan, #Kentucky here! http://t.co/K199CJg1",
+  "source": "<a href=\"http://screamradius.com\" rel=\"nofollow\">screamradius</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 284534859,
+    "id_str": "284534859",
+    "name": "Scream Radius",
+    "screen_name": "screamradius",
+    "location": "",
+    "description": "",
+    "url": "http://screamradius.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://screamradius.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1750,
+    "friends_count": 1,
+    "listed_count": 41,
+    "created_at": "Tue Apr 19 13:25:23 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 536912,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1340624492/screamradius_logo_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1340624492/screamradius_logo_normal.gif",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      37.4975,
+      -87.945278
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -87.945278,
+      37.4975
+    ]
+  },
+  "place": {
+    "id": "6ffcf3b0b904bbcb",
+    "url": "https://api.twitter.com/1.1/geo/id/6ffcf3b0b904bbcb.json",
+    "place_type": "admin",
+    "name": "Kentucky",
+    "full_name": "Kentucky, US",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -89.571509,
+            36.497129
+          ],
+          [
+            -81.964872,
+            36.497129
+          ],
+          [
+            -81.964872,
+            39.147458
+          ],
+          [
+            -89.571509,
+            39.147458
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          26,
+          35
+        ]
+      },
+      {
+        "text": "Kentucky",
+        "indices": [
+          37,
+          46
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/K199CJg1",
+        "expanded_url": "http://bit.ly/iFSGn5",
+        "display_url": "bit.ly/iFSGn5",
+        "indices": [
+          53,
+          73
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

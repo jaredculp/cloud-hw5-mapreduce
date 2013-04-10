@@ -1,0 +1,86 @@
+{
+  "created_at": "Wed Jun 20 04:30:27 +0000 2012",
+  "id": 215300557592731648,
+  "id_str": "215300557592731648",
+  "text": "@LarrySabato count me in",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215298480661475330,
+  "in_reply_to_status_id_str": "215298480661475330",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 20408361,
+    "id_str": "20408361",
+    "name": "Paula Fallon",
+    "screen_name": "PollyNewton",
+    "location": "Charlottesville, Virginia",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 268,
+    "friends_count": 1762,
+    "listed_count": 2,
+    "created_at": "Mon Feb 09 02:07:18 +0000 2009",
+    "favourites_count": 75,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 490,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3062750596/3cf7cb592fefb6f84fa66d0a3942d9fd_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3062750596/3cf7cb592fefb6f84fa66d0a3942d9fd_normal.jpeg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

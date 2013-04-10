@@ -1,0 +1,96 @@
+{
+  "created_at": "Thu Aug 30 23:46:03 +0000 2012",
+  "id": 241320909481324544,
+  "id_str": "241320909481324544",
+  "text": "Will be watching #Sullivan&amp;Son tonight. Good show.",
+  "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17199633,
+    "id_str": "17199633",
+    "name": "Sheldon Higdon",
+    "screen_name": "sheldonhigdon",
+    "location": "Pittsburgh, Pennsylvania",
+    "description": "Author",
+    "url": "http://www.sheldonhigdon.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.sheldonhigdon.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 500,
+    "friends_count": 635,
+    "listed_count": 30,
+    "created_at": "Wed Nov 05 22:45:49 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3002,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "050505",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/658208824/8f9ba19lzehbru91pvsh.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/658208824/8f9ba19lzehbru91pvsh.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2875684000/d0204b17dff696119ec41820e8f26146_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2875684000/d0204b17dff696119ec41820e8f26146_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/17199633/1353458650",
+    "profile_link_color": "D68B08",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          17,
+          26
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

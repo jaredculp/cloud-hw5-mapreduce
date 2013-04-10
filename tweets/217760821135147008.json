@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 23:26:40 +0000 2012",
+  "id": 217760821135147008,
+  "id_str": "217760821135147008",
+  "text": "Sullivan reinstated at #UVA http://t.co/C0NtcLwb",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 193718193,
+    "id_str": "193718193",
+    "name": "CackleofRad",
+    "screen_name": "CackleofRad",
+    "location": "",
+    "description": "",
+    "url": "http://cackleofradness.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://cackleofradness.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 262,
+    "friends_count": 253,
+    "listed_count": 14,
+    "created_at": "Wed Sep 22 14:39:26 +0000 2010",
+    "favourites_count": 10,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5981,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2753062220/9818c9a7436b65191792bfd03b181588_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2753062220/9818c9a7436b65191792bfd03b181588_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          23,
+          27
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/C0NtcLwb",
+        "expanded_url": "http://www.nytimes.com/2012/06/27/education/university-of-virginia-reinstates-ousted-president.html",
+        "display_url": "nytimes.com/2012/06/27/edu…",
+        "indices": [
+          28,
+          48
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

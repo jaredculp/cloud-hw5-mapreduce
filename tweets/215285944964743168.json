@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed Jun 20 03:32:23 +0000 2012",
+  "id": 215285944964743168,
+  "id_str": "215285944964743168",
+  "text": "@eriklove #uva not caving.  Respectful questions, debate, and disagreement ongoing. Read the twitter feed. @johnedwinmason",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215277044295139329,
+  "in_reply_to_status_id_str": "215277044295139329",
+  "in_reply_to_user_id": 25343700,
+  "in_reply_to_user_id_str": "25343700",
+  "in_reply_to_screen_name": "johnedwinmason",
+  "user": {
+    "id": 400697407,
+    "id_str": "400697407",
+    "name": "Amanda",
+    "screen_name": "parentlikeadad",
+    "location": "",
+    "description": "I spend my money on wetsuits and running shoes.",
+    "url": "http://anothermotherrunner.com/2011/08/24/why-i-run-amanda/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://anothermotherrunner.com/2011/08/24/why-i-run-amanda/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              59
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 214,
+    "friends_count": 640,
+    "listed_count": 3,
+    "created_at": "Sat Oct 29 12:49:00 +0000 2011",
+    "favourites_count": 36,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2898,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/694507129/3e2dfe62858d109645f6043fe0531958.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/694507129/3e2dfe62858d109645f6043fe0531958.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2569301525/qm1hdrjfaphdcm5jwm90_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2569301525/qm1hdrjfaphdcm5jwm90_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          10,
+          14
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ErikLove",
+        "name": "Erik Love",
+        "id": 14413424,
+        "id_str": "14413424",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "johnedwinmason",
+        "name": "John Edwin Mason",
+        "id": 25343700,
+        "id_str": "25343700",
+        "indices": [
+          107,
+          122
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

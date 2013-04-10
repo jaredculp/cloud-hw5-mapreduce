@@ -1,0 +1,93 @@
+{
+  "created_at": "Thu Jun 21 15:02:03 +0000 2012",
+  "id": 215821893910016000,
+  "id_str": "215821893910016000",
+  "text": "#UVa RT @LarrySabato: Wise person said to me: \"Online college education is what its advocates want for other people's children.\"",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 775142,
+    "id_str": "775142",
+    "name": "Greg Greene",
+    "screen_name": "ggreeneva",
+    "location": "Washington, D.C.",
+    "description": "Digital comms alum of @TheDemocrats (+ @ObamaInaugural). Likes food, indie music & snark. Views my own; RTs & faves ≠ endorsements.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3731,
+    "friends_count": 986,
+    "listed_count": 196,
+    "created_at": "Fri Feb 16 06:11:52 +0000 2007",
+    "favourites_count": 5877,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 23246,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2825600352/f9d951060a5823e15d94a7360bd9c8de_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2825600352/f9d951060a5823e15d94a7360bd9c8de_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/775142/1352665800",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 5,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          8,
+          20
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

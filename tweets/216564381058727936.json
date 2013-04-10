@@ -1,0 +1,177 @@
+{
+  "created_at": "Sat Jun 23 16:12:26 +0000 2012",
+  "id": 216564381058727936,
+  "id_str": "216564381058727936",
+  "text": "@cnn @bbc @nyt legendary larry sabato on #dragas #uva #bov. @mcdonnell failed leadership @mittromney @saltlakenews\n\nhttp://t.co/8o4gJ87v",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 759251,
+  "in_reply_to_user_id_str": "759251",
+  "in_reply_to_screen_name": "CNN",
+  "user": {
+    "id": 61632775,
+    "id_str": "61632775",
+    "name": "Team E3NYC",
+    "screen_name": "E3NYC",
+    "location": "New York",
+    "description": "Cleantech innovation is of little value if it is not implemented.  E3NYC is a catalyst for large scale cleantech implementation.",
+    "url": "http://www.e3blue.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.e3blue.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 111,
+    "friends_count": 111,
+    "listed_count": 5,
+    "created_at": "Thu Jul 30 23:38:02 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1515,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "5B527F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409329266/E3NYC_MAP_2016-1000.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409329266/E3NYC_MAP_2016-1000.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1781575994/e3nyc-logo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1781575994/e3nyc-logo_normal.jpg",
+    "profile_link_color": "550873",
+    "profile_sidebar_border_color": "99BBAD",
+    "profile_sidebar_fill_color": "EDEAE4",
+    "profile_text_color": "9A8194",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "dragas",
+        "indices": [
+          41,
+          48
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          49,
+          53
+        ]
+      },
+      {
+        "text": "bov",
+        "indices": [
+          54,
+          58
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/8o4gJ87v",
+        "expanded_url": "http://youtu.be/AFKvrngCUYI",
+        "display_url": "youtu.be/AFKvrngCUYI",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CNN",
+        "name": "CNN",
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "screen_name": "BBC",
+        "name": "BBC",
+        "id": 19701628,
+        "id_str": "19701628",
+        "indices": [
+          5,
+          9
+        ]
+      },
+      {
+        "screen_name": "NYT",
+        "name": "NYT River",
+        "id": 1255671,
+        "id_str": "1255671",
+        "indices": [
+          10,
+          14
+        ]
+      },
+      {
+        "screen_name": "mcdonnell",
+        "name": "mcdonnell",
+        "id": 16684326,
+        "id_str": "16684326",
+        "indices": [
+          60,
+          70
+        ]
+      },
+      {
+        "screen_name": "MittRomney",
+        "name": "Mitt Romney",
+        "id": 50055701,
+        "id_str": "50055701",
+        "indices": [
+          89,
+          100
+        ]
+      },
+      {
+        "screen_name": "SaltLakeNews",
+        "name": "Salt Lake City News",
+        "id": 28288952,
+        "id_str": "28288952",
+        "indices": [
+          101,
+          114
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

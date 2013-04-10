@@ -1,0 +1,112 @@
+{
+  "created_at": "Mon Aug 13 16:54:48 +0000 2012",
+  "id": 235056824989138944,
+  "id_str": "235056824989138944",
+  "text": "@kelssoom @annierice2 @emricee12 I'll pick you guys up on my way back from #uva",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 235055364427628545,
+  "in_reply_to_status_id_str": "235055364427628545",
+  "in_reply_to_user_id": 509547055,
+  "in_reply_to_user_id_str": "509547055",
+  "in_reply_to_screen_name": "kelssoom",
+  "user": {
+    "id": 426145832,
+    "id_str": "426145832",
+    "name": "Tyler Bausinger",
+    "screen_name": "tbaus23",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 82,
+    "friends_count": 101,
+    "listed_count": 1,
+    "created_at": "Thu Dec 01 22:04:41 +0000 2011",
+    "favourites_count": 109,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 236,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2420263031/ulnrkghtqk4yllpfk7jt_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2420263031/ulnrkghtqk4yllpfk7jt_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          75,
+          79
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kelssoom",
+        "name": "Kelsey Soom",
+        "id": 509547055,
+        "id_str": "509547055",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "annierice2",
+        "name": "Anne Rice ",
+        "id": 542135284,
+        "id_str": "542135284",
+        "indices": [
+          10,
+          21
+        ]
+      },
+      {
+        "screen_name": "emricee12",
+        "name": "Emily Rice",
+        "id": 542252538,
+        "id_str": "542252538",
+        "indices": [
+          22,
+          32
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

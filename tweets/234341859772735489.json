@@ -1,0 +1,129 @@
+{
+  "created_at": "Sat Aug 11 17:33:47 +0000 2012",
+  "id": 234341859772735489,
+  "id_str": "234341859772735489",
+  "text": "So what can a guy do at #UVa for his birthday weekend in October?",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16700045,
+    "id_str": "16700045",
+    "name": "Joseph Slugs Aiello",
+    "screen_name": "joey_slugs",
+    "location": "Cambridge, MA",
+    "description": "Serving East #CambMA as CDCC #Ward1 Chair.  Views are my own.  #UniteBlue\n\nAlso an unapologetic #MUFC fan.  #GGMU",
+    "url": "http://fb.me/JoeAiello.Ward1",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://fb.me/JoeAiello.Ward1",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 386,
+    "friends_count": 831,
+    "listed_count": 13,
+    "created_at": "Sat Oct 11 21:05:14 +0000 2008",
+    "favourites_count": 21,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6857,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3172416748/9cb73998df4d1ed0470ddec569d2a633_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3172416748/9cb73998df4d1ed0470ddec569d2a633_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/16700045/1351983845",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "8193d87541f11dfb",
+    "url": "https://api.twitter.com/1.1/geo/id/8193d87541f11dfb.json",
+    "place_type": "city",
+    "name": "Cambridge",
+    "full_name": "Cambridge, MA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.160332,
+            42.352397
+          ],
+          [
+            -71.064095,
+            42.352397
+          ],
+          [
+            -71.064095,
+            42.404384
+          ],
+          [
+            -71.160332,
+            42.404384
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          24,
+          28
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

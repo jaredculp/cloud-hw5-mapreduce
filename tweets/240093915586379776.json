@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon Aug 27 14:30:24 +0000 2012",
+  "id": 240093915586379776,
+  "id_str": "240093915586379776",
+  "text": "@The_Superhoo if Maryland had to sift through all their band members to field their 2-deep, #UVa's should be ready.",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 240093269827137537,
+  "in_reply_to_status_id_str": "240093269827137537",
+  "in_reply_to_user_id": 72145989,
+  "in_reply_to_user_id_str": "72145989",
+  "in_reply_to_screen_name": "The_Superhoo",
+  "user": {
+    "id": 146245447,
+    "id_str": "146245447",
+    "name": "Lambeth Field",
+    "screen_name": "lambethfield",
+    "location": "Charlottesville, VA",
+    "description": "Die hard UVa fans for more than 5 decades.",
+    "url": "http://www.lambethfield.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.lambethfield.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 652,
+    "friends_count": 307,
+    "listed_count": 38,
+    "created_at": "Thu May 20 23:47:16 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10935,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/136823539/lfpngs.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/136823539/lfpngs.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2656812776/f17924418581af0892d708d5a1cf3085_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2656812776/f17924418581af0892d708d5a1cf3085_normal.jpeg",
+    "profile_link_color": "C45516",
+    "profile_sidebar_border_color": "0A0A0A",
+    "profile_sidebar_fill_color": "97999C",
+    "profile_text_color": "070B8A",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          92,
+          96
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "The_Superhoo",
+        "name": "Ben",
+        "id": 72145989,
+        "id_str": "72145989",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,83 @@
+{
+  "created_at": "Tue Jun 26 19:31:26 +0000 2012",
+  "id": 217701622992744448,
+  "id_str": "217701622992744448",
+  "text": "Welcome back T. Sullivan. BoV sure botched that whole thing. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 290222557,
+    "id_str": "290222557",
+    "name": "Luke Waidmann",
+    "screen_name": "LWaidmann",
+    "location": "Alexandria, VA",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 34,
+    "friends_count": 75,
+    "listed_count": 0,
+    "created_at": "Fri Apr 29 23:07:52 +0000 2011",
+    "favourites_count": 10,
+    "utc_offset": 3600,
+    "time_zone": "Paris",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 303,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1344299539/216313_911973585476_1510031_46221938_3858412_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1344299539/216313_911973585476_1510031_46221938_3858412_n_normal.jpg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

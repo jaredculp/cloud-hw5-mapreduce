@@ -1,0 +1,127 @@
+{
+  "created_at": "Thu Jun 21 18:08:01 +0000 2012",
+  "id": 215868691714289664,
+  "id_str": "215868691714289664",
+  "text": "RT @alicekorngold: #Nonprofit #Boards: Take Heed- Lessons of #UVa http://t.co/yinbqnxg As info emerges, it's clear that the process was...",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 160657021,
+    "id_str": "160657021",
+    "name": "Leading Boards",
+    "screen_name": "leadingboard",
+    "location": "Montreal",
+    "description": "#Secure and user-friendly #Governance #Board portal, Leading Boards mitigates #risk for #directors and reduces the load on management. Follow us @ReseauCA",
+    "url": "http://www.leadingboards.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.leadingboards.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 461,
+    "friends_count": 381,
+    "listed_count": 18,
+    "created_at": "Mon Jun 28 20:04:52 +0000 2010",
+    "favourites_count": 31,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1501,
+    "lang": "fr",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/493891866/Twitter_background_copie_copie.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/493891866/Twitter_background_copie_copie.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1033317101/phare_bleu_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1033317101/phare_bleu_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Nonprofit",
+        "indices": [
+          19,
+          29
+        ]
+      },
+      {
+        "text": "Boards",
+        "indices": [
+          30,
+          37
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/yinbqnxg",
+        "expanded_url": "http://huff.to/M6H2BH",
+        "display_url": "huff.to/M6H2BH",
+        "indices": [
+          66,
+          86
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "alicekorngold",
+        "name": "Alice Korngold",
+        "id": 46903629,
+        "id_str": "46903629",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

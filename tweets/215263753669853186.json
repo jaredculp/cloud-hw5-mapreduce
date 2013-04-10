@@ -1,0 +1,83 @@
+{
+  "created_at": "Wed Jun 20 02:04:12 +0000 2012",
+  "id": 215263753669853186,
+  "id_str": "215263753669853186",
+  "text": "Step 1: Take #UVA.  Step 2: Add internet.  Step 3: ??  Step 4: PROFIT!!!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 31621747,
+    "id_str": "31621747",
+    "name": "Brian Haluska",
+    "screen_name": "Cvillian",
+    "location": "Charlottesville, VA",
+    "description": "Virginian, and everything else implied by that word.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 67,
+    "friends_count": 146,
+    "listed_count": 6,
+    "created_at": "Thu Apr 16 03:11:00 +0000 2009",
+    "favourites_count": 14,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 370,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2632441920/6d668af277bcb9de101e9614e8475542_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2632441920/6d668af277bcb9de101e9614e8475542_normal.jpeg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          13,
+          17
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

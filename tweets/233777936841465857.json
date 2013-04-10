@@ -1,0 +1,99 @@
+{
+  "created_at": "Fri Aug 10 04:12:58 +0000 2012",
+  "id": 233777936841465857,
+  "id_str": "233777936841465857",
+  "text": "Wow, what a twitt - #UVa leader Helen Dragas questioned Lady #Gaga class http://t.co/qfk9ANKr",
+  "source": "<a href=\"http://itunes.apple.com/us/app/feeddler-rss-reader-pro/id365710282?mt=8\" rel=\"nofollow\">Feeddler</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22862582,
+    "id_str": "22862582",
+    "name": "Jason Thomas",
+    "screen_name": "JDeanThomas",
+    "location": "ÜT: 40.720141,-73.992725",
+    "description": "Economics of Media, Strategy, Content Development. News Junkie, Data Nerd. Produced bands for half the internet in a former life Brooklyn/RVA",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 140,
+    "friends_count": 319,
+    "listed_count": 2,
+    "created_at": "Thu Mar 05 01:51:37 +0000 2009",
+    "favourites_count": 13,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3425,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/125776983/10972507.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/125776983/10972507.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2224359523/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2224359523/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          20,
+          24
+        ]
+      },
+      {
+        "text": "Gaga",
+        "indices": [
+          61,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/qfk9ANKr",
+        "expanded_url": "http://wapo.st/S6dcws",
+        "display_url": "wapo.st/S6dcws",
+        "indices": [
+          73,
+          93
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

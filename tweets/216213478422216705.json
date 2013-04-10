@@ -1,0 +1,113 @@
+{
+  "created_at": "Fri Jun 22 16:58:04 +0000 2012",
+  "id": 216213478422216705,
+  "id_str": "216213478422216705",
+  "text": "'Strategic dynamics' and the \"whims of the wealthy\" -  catching up to @sivavaid on #UVA meltdown.  http://t.co/jWEQ3Czj",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21144925,
+    "id_str": "21144925",
+    "name": "Mark Phillipson",
+    "screen_name": "clayfox",
+    "location": "iPhone: 40.754841,-73.968048",
+    "description": "Applied humanist, intermittently exiled romanticist.",
+    "url": "http://clayfox.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://clayfox.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 148,
+    "friends_count": 117,
+    "listed_count": 7,
+    "created_at": "Tue Feb 17 23:20:41 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 530,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/840677874/mp_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/840677874/mp_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          83,
+          87
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/jWEQ3Czj",
+        "expanded_url": "http://slate.me/M11OQh",
+        "display_url": "slate.me/M11OQh",
+        "indices": [
+          99,
+          119
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          70,
+          79
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

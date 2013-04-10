@@ -1,0 +1,103 @@
+{
+  "created_at": "Fri Jun 29 19:54:31 +0000 2012",
+  "id": 218794595688005632,
+  "id_str": "218794595688005632",
+  "text": "Um … RT @jdickerson: Huh. Presumably for her ability to generate excitement. @bobmcdonnell reappoints Helen Dragas to #UVa board of visitors",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 775142,
+    "id_str": "775142",
+    "name": "Greg Greene",
+    "screen_name": "ggreeneva",
+    "location": "Washington, D.C.",
+    "description": "Digital comms alum of @TheDemocrats (+ @ObamaInaugural). Likes food, indie music & snark. Views my own; RTs & faves ≠ endorsements.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3734,
+    "friends_count": 987,
+    "listed_count": 196,
+    "created_at": "Fri Feb 16 06:11:52 +0000 2007",
+    "favourites_count": 5886,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 23251,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2825600352/f9d951060a5823e15d94a7360bd9c8de_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2825600352/f9d951060a5823e15d94a7360bd9c8de_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/775142/1352665800",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          118,
+          122
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jdickerson",
+        "name": "John Dickerson",
+        "id": 4119741,
+        "id_str": "4119741",
+        "indices": [
+          8,
+          19
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          77,
+          90
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

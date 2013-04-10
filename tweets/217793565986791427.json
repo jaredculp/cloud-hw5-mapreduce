@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 27 01:36:47 +0000 2012",
+  "id": 217793565986791427,
+  "id_str": "217793565986791427",
+  "text": "@ThomasTalhelm it had to be at least one thousand. #uva are there other estimates floating around?",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217780327521861634,
+  "in_reply_to_status_id_str": "217780327521861634",
+  "in_reply_to_user_id": 612905896,
+  "in_reply_to_user_id_str": "612905896",
+  "in_reply_to_screen_name": "ThomasTalhelm",
+  "user": {
+    "id": 18353044,
+    "id_str": "18353044",
+    "name": "Matt Motyl",
+    "screen_name": "MattMotyl",
+    "location": "Charlottesville, VA, USA",
+    "description": "I am a doctoral candidate studying political psychology at the University of Virginia.",
+    "url": "http://people.virginia.edu/~msm6sw/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://people.virginia.edu/~msm6sw/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 87,
+    "friends_count": 240,
+    "listed_count": 0,
+    "created_at": "Wed Dec 24 06:51:02 +0000 2008",
+    "favourites_count": 40,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 931,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0000FF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/583400093/h56y86u7wzqp2tymy1hc.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/583400093/h56y86u7wzqp2tymy1hc.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2328171657/wg9l0ht9rq8uhyqkneqf_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2328171657/wg9l0ht9rq8uhyqkneqf_normal.jpeg",
+    "profile_link_color": "FFA500",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          51,
+          55
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ThomasTalhelm",
+        "name": "Thomas Talhelm",
+        "id": 612905896,
+        "id_str": "612905896",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

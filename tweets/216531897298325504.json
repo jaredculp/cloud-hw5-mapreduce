@@ -1,0 +1,105 @@
+{
+  "created_at": "Sat Jun 23 14:03:21 +0000 2012",
+  "id": 216531897298325504,
+  "id_str": "216531897298325504",
+  "text": "@sivavaid: How do you make the case for supporting #highered to those who are business-minded without talking about inputs and outputs?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 20406724,
+  "in_reply_to_user_id_str": "20406724",
+  "in_reply_to_screen_name": "sivavaid",
+  "user": {
+    "id": 531575339,
+    "id_str": "531575339",
+    "name": "Troy Miller",
+    "screen_name": "TroyMillerFCAN",
+    "location": "Tampa, FL",
+    "description": "Sr. Researcher & Policy Analyst @ Florida College Access Network. Follow @GOAL2025Florida for more college/career access, success and completion in FL tweets.",
+    "url": "http://www.floridacollegeaccess.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.floridacollegeaccess.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 154,
+    "friends_count": 397,
+    "listed_count": 1,
+    "created_at": "Tue Mar 20 19:40:08 +0000 2012",
+    "favourites_count": 31,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 361,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1939922175/FCAN_Staff_T_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1939922175/FCAN_Staff_T_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/531575339/1354756707",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "highered",
+        "indices": [
+          51,
+          60
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

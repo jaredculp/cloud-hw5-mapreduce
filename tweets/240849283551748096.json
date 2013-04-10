@@ -1,0 +1,102 @@
+{
+  "created_at": "Wed Aug 29 16:31:58 +0000 2012",
+  "id": 240849283551748096,
+  "id_str": "240849283551748096",
+  "text": "\"@TheUVAFool: #UVA OT Oday Aboushi named to ESPN's preseason All-America team! http://t.co/SpeyAGle\" way to go Oday!!!!",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 51548220,
+    "id_str": "51548220",
+    "name": "Maurice Canady Sr.",
+    "screen_name": "Mo_Can",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 39,
+    "friends_count": 181,
+    "listed_count": 0,
+    "created_at": "Sat Jun 27 20:35:27 +0000 2009",
+    "favourites_count": 115,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 201,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2545119817/3Y5S4wv9_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2545119817/3Y5S4wv9_normal",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/51548220/1348250848",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          14,
+          18
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/SpeyAGle",
+        "expanded_url": "http://espn.go.com/ncf/feature/video/_/page/preseasonallamerica2012/2012-all-america-team",
+        "display_url": "espn.go.com/ncf/feature/vi…",
+        "indices": [
+          79,
+          99
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          1,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,132 @@
+{
+  "created_at": "Sun Jun 24 18:55:51 +0000 2012",
+  "id": 216967891034193923,
+  "id_str": "216967891034193923",
+  "text": "Avett Brothers' lyrics on Beta Bridge making my day #uva @AvettNation http://t.co/JaGd7cSY",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Camera on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 187792547,
+    "id_str": "187792547",
+    "name": "Jenna Smoot",
+    "screen_name": "SMOOThtalking14",
+    "location": "",
+    "description": "Third-year politics major, sports enthusiast, and lover of all things blue and orange #wahoowa",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 521,
+    "friends_count": 516,
+    "listed_count": 1,
+    "created_at": "Tue Sep 07 04:28:14 +0000 2010",
+    "favourites_count": 369,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2441,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "07090B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/308275952/x742fb7f33ec9880e6600a3e37c50a46.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/308275952/x742fb7f33ec9880e6600a3e37c50a46.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2909466150/ca34637c54799f5f700b27ca390af7a3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2909466150/ca34637c54799f5f700b27ca390af7a3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/187792547/1359134665",
+    "profile_link_color": "C34242",
+    "profile_sidebar_border_color": "BFBFBF",
+    "profile_sidebar_fill_color": "C9C9C9",
+    "profile_text_color": "1C1F23",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          52,
+          56
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AvettNation",
+        "name": "Avett Nation ",
+        "id": 67774822,
+        "id_str": "67774822",
+        "indices": [
+          57,
+          69
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 216967891050971137,
+        "id_str": "216967891050971137",
+        "indices": [
+          70,
+          90
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwLTJbnCQAEy_Qb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwLTJbnCQAEy_Qb.jpg",
+        "url": "http://t.co/JaGd7cSY",
+        "display_url": "pic.twitter.com/JaGd7cSY",
+        "expanded_url": "http://twitter.com/SMOOThtalking14/status/216967891034193923/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 450,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 816,
+            "h": 612,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 255,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

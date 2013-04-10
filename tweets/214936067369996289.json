@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue Jun 19 04:22:06 +0000 2012",
+  "id": 214936067369996289,
+  "id_str": "214936067369996289",
+  "text": "@wtop @mikemosswtop are you guys following the #uva #sullivan issue? It's been crazy tonight.",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 17906632,
+  "in_reply_to_user_id_str": "17906632",
+  "in_reply_to_screen_name": "WTOP",
+  "user": {
+    "id": 25917423,
+    "id_str": "25917423",
+    "name": "Sue London",
+    "screen_name": "cmdrsue",
+    "location": "Virginia",
+    "description": "Doodlist, scribbler, thinker, planner, and all around fun chick. Geek extraordinaire. Writer nurturer. I know where the Cheetos are.",
+    "url": "http://cmdrsue.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://cmdrsue.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1808,
+    "friends_count": 1703,
+    "listed_count": 173,
+    "created_at": "Mon Mar 23 00:38:47 +0000 2009",
+    "favourites_count": 2765,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 37997,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9B70BA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/289125920/LiloStitch",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/289125920/LiloStitch",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3096231617/a6d9269d57d4925aa8c6867212a705b4_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3096231617/a6d9269d57d4925aa8c6867212a705b4_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/25917423/1348003454",
+    "profile_link_color": "6251A6",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "D3C1F7",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          52,
+          61
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WTOP",
+        "name": "WTOP ",
+        "id": 17906632,
+        "id_str": "17906632",
+        "indices": [
+          0,
+          5
+        ]
+      },
+      {
+        "screen_name": "mikemosswtop",
+        "name": "Mike Moss",
+        "id": 250256967,
+        "id_str": "250256967",
+        "indices": [
+          6,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

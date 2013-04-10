@@ -1,0 +1,139 @@
+{
+  "created_at": "Mon Jun 18 23:36:24 +0000 2012",
+  "id": 214864167910379520,
+  "id_str": "214864167910379520",
+  "text": "@timkaine you need to denounce the #BoV action of firing of #UVa President #Sullivan.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 172858784,
+  "in_reply_to_user_id_str": "172858784",
+  "in_reply_to_screen_name": "timkaine",
+  "user": {
+    "id": 37474390,
+    "id_str": "37474390",
+    "name": "Jeff McLean",
+    "screen_name": "jeffmacarl",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 11,
+    "friends_count": 93,
+    "listed_count": 0,
+    "created_at": "Sun May 03 18:52:02 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 558,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1397913179/Picture_10_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1397913179/Picture_10_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "077e6b03695c28ee",
+    "url": "https://api.twitter.com/1.1/geo/id/077e6b03695c28ee.json",
+    "place_type": "city",
+    "name": "Falls Church",
+    "full_name": "Falls Church, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.19434,
+            38.872213
+          ],
+          [
+            -77.149789,
+            38.872213
+          ],
+          [
+            -77.149789,
+            38.896272
+          ],
+          [
+            -77.19434,
+            38.896272
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BoV",
+        "indices": [
+          35,
+          39
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          60,
+          64
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          75,
+          84
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "timkaine",
+        "name": "Senator Tim Kaine",
+        "id": 172858784,
+        "id_str": "172858784",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,120 @@
+{
+  "created_at": "Wed Jun 20 04:24:52 +0000 2012",
+  "id": 215299153478172673,
+  "id_str": "215299153478172673",
+  "text": "@LarrySabato Larry as a grad of UVA, whats going on??",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215298480661475330,
+  "in_reply_to_status_id_str": "215298480661475330",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 455151827,
+    "id_str": "455151827",
+    "name": "Rebeckah Christine",
+    "screen_name": "JustConservativ",
+    "location": "Montgomery, AL",
+    "description": "Conservative, Catholic, Reagan Republican, Pro Life, . Pro Notre Dame Sports, Pro NY Giants, #LNYHBT  RT=AGREEMENT Searching for that shining city on a hill   ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1026,
+    "friends_count": 1998,
+    "listed_count": 22,
+    "created_at": "Wed Jan 04 19:58:16 +0000 2012",
+    "favourites_count": 95,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 17498,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3122888238/ae5f7e2ae9e34da23c069de27365573c_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3122888238/ae5f7e2ae9e34da23c069de27365573c_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/455151827/1353543942",
+    "profile_link_color": "E6174E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "7f061ded71fdc974",
+    "url": "https://api.twitter.com/1.1/geo/id/7f061ded71fdc974.json",
+    "place_type": "city",
+    "name": "Montgomery",
+    "full_name": "Montgomery, AL",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -86.41987,
+            32.249921
+          ],
+          [
+            -86.072205,
+            32.249921
+          ],
+          [
+            -86.072205,
+            32.437677
+          ],
+          [
+            -86.41987,
+            32.437677
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

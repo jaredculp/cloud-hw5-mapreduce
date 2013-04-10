@@ -1,0 +1,111 @@
+{
+  "created_at": "Sat Jun 23 21:40:45 +0000 2012",
+  "id": 216647003512381440,
+  "id_str": "216647003512381440",
+  "text": "@robpegoraro On #UVA see also Kieran Healy's Declaration of Independence post. http://t.co/Lltnsw4i @waldojaquith",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 7301572,
+  "in_reply_to_user_id_str": "7301572",
+  "in_reply_to_screen_name": "robpegoraro",
+  "user": {
+    "id": 14745294,
+    "id_str": "14745294",
+    "name": "Keith Ivey",
+    "screen_name": "kcivey",
+    "location": "Washington, DC",
+    "description": "computer/politics geek, ombudsman & political director of @dc4d, former cohost of @DCDrinkLib. Tweets here are speaking only for myself.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1368,
+    "friends_count": 948,
+    "listed_count": 102,
+    "created_at": "Mon May 12 15:40:50 +0000 2008",
+    "favourites_count": 10,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 27961,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2F3030",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2169249914/image1335503174_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2169249914/image1335503174_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          16,
+          20
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Lltnsw4i",
+        "expanded_url": "http://bit.ly/O7hN3P",
+        "display_url": "bit.ly/O7hN3P",
+        "indices": [
+          79,
+          99
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "robpegoraro",
+        "name": "Rob Pegoraro",
+        "id": 7301572,
+        "id_str": "7301572",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "waldojaquith",
+        "name": "Waldo Jaquith",
+        "id": 206283535,
+        "id_str": "206283535",
+        "indices": [
+          100,
+          113
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

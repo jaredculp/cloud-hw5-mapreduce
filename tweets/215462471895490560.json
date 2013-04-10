@@ -1,0 +1,108 @@
+{
+  "created_at": "Wed Jun 20 15:13:51 +0000 2012",
+  "id": 215462471895490560,
+  "id_str": "215462471895490560",
+  "text": "@sivavaid awesome! http://t.co/4cjKEWyM Do you know any way we can get sound equipment?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215460781762945024,
+  "in_reply_to_status_id_str": "215460781762945024",
+  "in_reply_to_user_id": 20406724,
+  "in_reply_to_user_id_str": "20406724",
+  "in_reply_to_screen_name": "sivavaid",
+  "user": {
+    "id": 20621761,
+    "id_str": "20621761",
+    "name": "Suzi McC",
+    "screen_name": "suzimcc",
+    "location": "Charlottesville, VA",
+    "description": "PhD student at UVA studying Impact of Social Media Networks on political participation",
+    "url": "http://www.facebook.com/United4Honor",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/United4Honor",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 189,
+    "friends_count": 172,
+    "listed_count": 5,
+    "created_at": "Wed Feb 11 20:05:38 +0000 2009",
+    "favourites_count": 322,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4268,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/593923791/2u30uwsefvpc9gxaynpt.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/593923791/2u30uwsefvpc9gxaynpt.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3086704726/73e60ae31d625ad1cf729a0a379c74bd_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3086704726/73e60ae31d625ad1cf729a0a379c74bd_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/20621761/1357743165",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/4cjKEWyM",
+        "expanded_url": "http://on.fb.me/NiXGyd",
+        "display_url": "on.fb.me/NiXGyd",
+        "indices": [
+          19,
+          39
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

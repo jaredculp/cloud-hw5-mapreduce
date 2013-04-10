@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 06:38:45 +0000 2012",
+  "id": 214970456942456833,
+  "id_str": "214970456942456833",
+  "text": "Let's \"form a special committee for nomination of a president\"! #UVA #BOV live stream from http://t.co/cfqT7TqT",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 27962624,
+    "id_str": "27962624",
+    "name": "b",
+    "screen_name": "_ang3",
+    "location": "Somewhere in 'Merica! ",
+    "description": "I like tofu.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 107,
+    "friends_count": 156,
+    "listed_count": 5,
+    "created_at": "Tue Mar 31 21:03:23 +0000 2009",
+    "favourites_count": 145,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4093,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2506217415/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2506217415/image_normal.jpg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          64,
+          68
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          69,
+          73
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/cfqT7TqT",
+        "expanded_url": "http://ww2.newsplex.com/global/video/flash/popupplayer.asp?vt1=l&d1=0&ClipId1=mms%3A//a1449.l1404823448.c14048.g.lm.akamaistream.net/D/1449/14048/v0001/reflector%3A23448&LiveURI=mms%3A//a1449.l1404823448.c14048.g.lm.akamaistream.net/D/1449/14048/v0001/reflector%3A23448&h1=LIVE%20STREAM&at1=News&LiveURITitle=LIVE%20STREAM&LaunchPageAdTag=News&fvCatNo=undefined&secure=undefined&akPort=undefined&akProfile=undefined&rnd=42284466",
+        "display_url": "ww2.newsplex.com/global/video/f…",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

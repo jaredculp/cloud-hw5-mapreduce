@@ -1,0 +1,128 @@
+{
+  "created_at": "Tue Jun 26 19:06:46 +0000 2012",
+  "id": 217695415758372865,
+  "id_str": "217695415758372865",
+  "text": "RT @NBC12 \nLIVE VIDEO: #UVA Board considers reinstating president http://t.co/TTvo5MGX #BOV #Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 35292538,
+    "id_str": "35292538",
+    "name": "Rachel DePompa",
+    "screen_name": "RachelDePompa",
+    "location": "Richmond, Virginia",
+    "description": "#NBC12's Emmy award winning investigative reporter. Originally from Maryland. Crabcakes and Football! Diehard #Redskins Fan! Go #Caps! #journalism #rva",
+    "url": "http://www.facebook.com/RachelDePompaNBC12",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/RachelDePompaNBC12",
+            "expanded_url": null,
+            "indices": [
+              0,
+              42
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5016,
+    "friends_count": 4128,
+    "listed_count": 251,
+    "created_at": "Sat Apr 25 19:46:23 +0000 2009",
+    "favourites_count": 167,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10158,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/30445419/New_BACKGROUN.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/30445419/New_BACKGROUN.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2349499231/yeeyu71etvm0z2rbzpzd_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2349499231/yeeyu71etvm0z2rbzpzd_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/35292538/1351618979",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "022C74",
+    "profile_sidebar_fill_color": "6690C4",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          23,
+          27
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          87,
+          91
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          92,
+          101
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/TTvo5MGX",
+        "expanded_url": "http://www.nbc12.com/story/18884762/watch-live-uva-board-discusses-presidents-reinstatement",
+        "display_url": "nbc12.com/story/18884762…",
+        "indices": [
+          66,
+          86
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC12",
+        "name": "NBC12 WWBT Richmond",
+        "id": 19151000,
+        "id_str": "19151000",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

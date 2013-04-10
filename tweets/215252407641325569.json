@@ -1,0 +1,124 @@
+{
+  "created_at": "Wed Jun 20 01:19:07 +0000 2012",
+  "id": 215252407641325569,
+  "id_str": "215252407641325569",
+  "text": "RT @digiwonk: RT @Mark_R_Allen \"Dear Proles...\" Rector Dragas' Statement Translated into Plain English #UVa http://t.co/97nSqx6j",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 142070729,
+    "id_str": "142070729",
+    "name": "Julie White",
+    "screen_name": "CCedJWhite",
+    "location": "",
+    "description": "Community college educator and researcher, vegan foodie, sustainable living advocate. RT's are not endorsements.  Opinions are my own.",
+    "url": "http://t.co/Ld74EzWe",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/Ld74EzWe",
+            "expanded_url": "http://about.me/julieawhite",
+            "display_url": "about.me/julieawhite",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 299,
+    "friends_count": 392,
+    "listed_count": 32,
+    "created_at": "Sun May 09 21:41:25 +0000 2010",
+    "favourites_count": 7,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3353,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1693247578/head_shot_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1693247578/head_shot_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          103,
+          107
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/97nSqx6j",
+        "expanded_url": "http://bit.ly/M8dx2o",
+        "display_url": "bit.ly/M8dx2o",
+        "indices": [
+          108,
+          128
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "digiwonk",
+        "name": "Aimée Morrison",
+        "id": 113056960,
+        "id_str": "113056960",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "Mark_R_Allen",
+        "name": "Mark Allen",
+        "id": 23705086,
+        "id_str": "23705086",
+        "indices": [
+          17,
+          30
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 20:54:54 +0000 2012",
+  "id": 217722628679536641,
+  "id_str": "217722628679536641",
+  "text": "@litherland Huh. I stand corrected. #uva",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 18327967,
+  "in_reply_to_user_id_str": "18327967",
+  "in_reply_to_screen_name": "litherland",
+  "user": {
+    "id": 22881265,
+    "id_str": "22881265",
+    "name": "Allen Tan",
+    "screen_name": "tealtan",
+    "location": "New York City",
+    "description": "Designer for NYT by day. Assistant editor for @Contents and @codex by night. Compulsive finder of things on the internet.",
+    "url": "http://tanmade.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://tanmade.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1575,
+    "friends_count": 318,
+    "listed_count": 80,
+    "created_at": "Thu Mar 05 04:41:35 +0000 2009",
+    "favourites_count": 14287,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 14819,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E0E0E0",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/209075342/bg.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/209075342/bg.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1664413961/photo_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1664413961/photo_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/22881265/1347976565",
+    "profile_link_color": "145324",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "C2CBD1",
+    "profile_text_color": "224649",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          36,
+          40
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "litherland",
+        "name": "litherland",
+        "id": 18327967,
+        "id_str": "18327967",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

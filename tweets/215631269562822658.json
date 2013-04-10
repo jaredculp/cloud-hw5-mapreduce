@@ -1,0 +1,120 @@
+{
+  "created_at": "Thu Jun 21 02:24:35 +0000 2012",
+  "id": 215631269562822658,
+  "id_str": "215631269562822658",
+  "text": "MT @jayrosen_nyu: Compelling editorial in hometown paper of #UVA rector, Helen Dragas, tells her to resign. http://t.co/oQ7epPu6 #highered",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15768681,
+    "id_str": "15768681",
+    "name": "Michael Stoner",
+    "screen_name": "mStonerblog",
+    "location": "Woodstock, VT, USA",
+    "description": "Michael Stoner consults to .edu on marketing, web, social media, strategy. I was a content marketer before it had a fancy name. Local food fanatic. Runner. #vt ",
+    "url": "http://www.mstoner.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mstoner.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3722,
+    "friends_count": 760,
+    "listed_count": 392,
+    "created_at": "Thu Aug 07 20:03:32 +0000 2008",
+    "favourites_count": 115,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10473,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/10439589/twitter_bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/10439589/twitter_bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1775637579/0ce62576-70f4-4133-a85c-39aef01f4dc1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1775637579/0ce62576-70f4-4133-a85c-39aef01f4dc1_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          60,
+          64
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          129,
+          138
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/oQ7epPu6",
+        "expanded_url": "http://bit.ly/NVreVh",
+        "display_url": "bit.ly/NVreVh",
+        "indices": [
+          108,
+          128
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jayrosen_nyu",
+        "name": "Jay Rosen ",
+        "id": 14834340,
+        "id_str": "14834340",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

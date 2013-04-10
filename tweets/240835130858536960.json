@@ -1,0 +1,111 @@
+{
+  "created_at": "Wed Aug 29 15:35:44 +0000 2012",
+  "id": 240835130858536960,
+  "id_str": "240835130858536960",
+  "text": "#masterdegree for @guidafonseca, congratulations #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 157964332,
+    "id_str": "157964332",
+    "name": "hannieyama",
+    "screen_name": "hannieyama",
+    "location": "Amsterdam",
+    "description": "Visual Communicator",
+    "url": "http://www.studio-hb.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.studio-hb.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 49,
+    "friends_count": 117,
+    "listed_count": 2,
+    "created_at": "Mon Jun 21 11:10:37 +0000 2010",
+    "favourites_count": 4,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 310,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1010390429/2949a07_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1010390429/2949a07_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "masterdegree",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          49,
+          53
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "guidafonseca",
+        "name": "guidafonseca",
+        "id": 15807117,
+        "id_str": "15807117",
+        "indices": [
+          18,
+          31
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

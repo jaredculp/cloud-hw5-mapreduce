@@ -1,0 +1,144 @@
+{
+  "created_at": "Wed Jun 20 00:53:25 +0000 2012",
+  "id": 215245937927393281,
+  "id_str": "215245937927393281",
+  "text": "“@cavalierdaily: Kington to Dragas: \"I am proud to serve with you.\" in email, several hours after #Sullivan's resignation #UVA” ughhhhh yuck",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 61347033,
+    "id_str": "61347033",
+    "name": "Blair Capps",
+    "screen_name": "Bust_a_Capps",
+    "location": "Washington, DC",
+    "description": "Organizational Viking. Wahoowa.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 392,
+    "friends_count": 232,
+    "listed_count": 35,
+    "created_at": "Thu Jul 30 01:04:43 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3899,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/305000559/tumblr_liwo6x5fPZ1qhxg9co1_400.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/305000559/tumblr_liwo6x5fPZ1qhxg9co1_400.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1478425087/74265_456830911591_519746591_5595259_203062_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1478425087/74265_456830911591_519746591_5595259_203062_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.90648816,
+      -77.03048485
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.03048485,
+      38.90648816
+    ]
+  },
+  "place": {
+    "id": "01fbe706f872cb32",
+    "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+    "place_type": "city",
+    "name": "Washington",
+    "full_name": "Washington, DC",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.119759,
+            38.791645
+          ],
+          [
+            -76.909393,
+            38.791645
+          ],
+          [
+            -76.909393,
+            38.995548
+          ],
+          [
+            -77.119759,
+            38.995548
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          98,
+          107
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          122,
+          126
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

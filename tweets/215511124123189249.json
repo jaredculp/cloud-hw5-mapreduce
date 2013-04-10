@@ -1,0 +1,102 @@
+{
+  "created_at": "Wed Jun 20 18:27:10 +0000 2012",
+  "id": 215511124123189249,
+  "id_str": "215511124123189249",
+  "text": "The situation at #UVa absolutely disgusts me. That heinous #Dragas bitch needs to GO!",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 8841842,
+    "id_str": "8841842",
+    "name": "rosalicious",
+    "screen_name": "rosalicious",
+    "location": "Charlottesville, VA",
+    "description": "New mama who likes writing, gardening, floral design, running, food, organization, domestic projects and wine. Lots and lots of wine.",
+    "url": "http://www.rosalicious.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.rosalicious.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 643,
+    "friends_count": 536,
+    "listed_count": 45,
+    "created_at": "Wed Sep 12 21:47:17 +0000 2007",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10257,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EADBB0",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/397734090/threadlessCatastrophe_875_7028.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/397734090/threadlessCatastrophe_875_7028.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1744650460/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1744650460/image_normal.jpg",
+    "profile_link_color": "459F7F",
+    "profile_sidebar_border_color": "459F7F",
+    "profile_sidebar_fill_color": "231405",
+    "profile_text_color": "C5CA95",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          17,
+          21
+        ]
+      },
+      {
+        "text": "Dragas",
+        "indices": [
+          59,
+          66
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

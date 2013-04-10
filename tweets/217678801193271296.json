@@ -1,0 +1,112 @@
+{
+  "created_at": "Tue Jun 26 18:00:45 +0000 2012",
+  "id": 217678801193271296,
+  "id_str": "217678801193271296",
+  "text": "@sivavaid asked \"HOOS WITH ME?\"  Me!  #HoosforSullivan head to the Lawn. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217678302750580736,
+  "in_reply_to_status_id_str": "217678302750580736",
+  "in_reply_to_user_id": 20406724,
+  "in_reply_to_user_id_str": "20406724",
+  "in_reply_to_screen_name": "sivavaid",
+  "user": {
+    "id": 614305520,
+    "id_str": "614305520",
+    "name": "William Guilford",
+    "screen_name": "WillGuilford",
+    "location": "Charlottesville, VA",
+    "description": "Associate Professor of Biomedical Engineering, Undergraduate Program Director, Chair of Task Force on Online Learning. All views are my own and not UVa.",
+    "url": "http://bme.virginia.edu/people/guilford.html",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://bme.virginia.edu/people/guilford.html",
+            "expanded_url": null,
+            "indices": [
+              0,
+              44
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 37,
+    "friends_count": 103,
+    "listed_count": 1,
+    "created_at": "Thu Jun 21 13:14:55 +0000 2012",
+    "favourites_count": 47,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 497,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0289CC",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/606056969/vt3qhoejiaot5q18f1qk.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/606056969/vt3qhoejiaot5q18f1qk.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2961802988/2bb219aed92c77b2ed48bb6fe3fb9cbd_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2961802988/2bb219aed92c77b2ed48bb6fe3fb9cbd_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/614305520/1351628524",
+    "profile_link_color": "547885",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HoosforSullivan",
+        "indices": [
+          38,
+          54
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          73,
+          77
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

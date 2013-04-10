@@ -1,0 +1,102 @@
+{
+  "created_at": "Wed Jun 27 19:37:52 +0000 2012",
+  "id": 218065628739796993,
+  "id_str": "218065628739796993",
+  "text": "@megainer this is the #uva fiasco I mentioned last night http://t.co/bjSRJOF6",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 296050815,
+  "in_reply_to_user_id_str": "296050815",
+  "in_reply_to_screen_name": "megainer",
+  "user": {
+    "id": 82658602,
+    "id_str": "82658602",
+    "name": "Christina Williamson",
+    "screen_name": "_Christina_W",
+    "location": "",
+    "description": "Writing my MA public history paper on a kapitaq (parka) from @Civilization Interested in museums, Aboriginal and digital hist. RT not always an endorsement",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 332,
+    "friends_count": 558,
+    "listed_count": 17,
+    "created_at": "Thu Oct 15 16:48:25 +0000 2009",
+    "favourites_count": 46,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1594,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "75B1B5",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/730521252/fe1e4d9eff04412f34dbf3344f533ba0.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/730521252/fe1e4d9eff04412f34dbf3344f533ba0.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2801733812/1d307f81bfd23b4bf19be5f7c3eb266f_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2801733812/1d307f81bfd23b4bf19be5f7c3eb266f_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/82658602/1354338191",
+    "profile_link_color": "C2342F",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "ECDCBA",
+    "profile_text_color": "41C6CB",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          22,
+          26
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/bjSRJOF6",
+        "expanded_url": "http://ow.ly/bRYPy",
+        "display_url": "ow.ly/bRYPy",
+        "indices": [
+          57,
+          77
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "megainer",
+        "name": "Meghan Lundrigan",
+        "id": 296050815,
+        "id_str": "296050815",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,128 @@
+{
+  "created_at": "Wed Aug 29 04:47:04 +0000 2012",
+  "id": 240671891055050752,
+  "id_str": "240671891055050752",
+  "text": "@Josue_merin0  simon con snoop dogg #SosVerga pa la musica, vos escuha #TaylorGang de Wiz Khalifa esta pero #Uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 259892829,
+  "in_reply_to_user_id_str": "259892829",
+  "in_reply_to_screen_name": "Josue_merin0",
+  "user": {
+    "id": 462212273,
+    "id_str": "462212273",
+    "name": "↕ Lil Bow Woow ↕",
+    "screen_name": "DeLaGezzy_94",
+    "location": "Brooklyn,New York",
+    "description": "Perro por placer, cabrón por necesidad, puto por diversión y caballero ante la sociedad. #DeLaGeezy  https://t.co/9kTTvVs9 ",
+    "url": "http://t.co/KC42f2E4",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/KC42f2E4",
+            "expanded_url": "http://ask.fm/chemavelaskez",
+            "display_url": "ask.fm/chemavelaskez",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/9kTTvVs9",
+            "expanded_url": "https://www.facebook.com/gvelasquezlemus",
+            "display_url": "facebook.com/gvelasquezlemus",
+            "indices": [
+              101,
+              122
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 248,
+    "friends_count": 421,
+    "listed_count": 2,
+    "created_at": "Thu Jan 12 18:02:39 +0000 2012",
+    "favourites_count": 1129,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9607,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "AB914A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/739466716/94176a9ac2791480644ba70185c57ad8.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/739466716/94176a9ac2791480644ba70185c57ad8.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3217848047/314df6a2388e3118c376d445a360b572_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3217848047/314df6a2388e3118c376d445a360b572_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/462212273/1360119696",
+    "profile_link_color": "0A9424",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SosVerga",
+        "indices": [
+          36,
+          45
+        ]
+      },
+      {
+        "text": "TaylorGang",
+        "indices": [
+          71,
+          82
+        ]
+      },
+      {
+        "text": "Uva",
+        "indices": [
+          108,
+          112
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Josue_merin0",
+        "name": "Josue merino",
+        "id": 259892829,
+        "id_str": "259892829",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

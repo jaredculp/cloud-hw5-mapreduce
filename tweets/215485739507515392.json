@@ -1,0 +1,108 @@
+{
+  "created_at": "Wed Jun 20 16:46:18 +0000 2012",
+  "id": 215485739507515392,
+  "id_str": "215485739507515392",
+  "text": "Context for reading the #UVa imbroglio: Lee Fang 's Dec. '11 article in The Nation on #elearning virtual ed push http://t.co/4z4FNXlc",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 104953191,
+    "id_str": "104953191",
+    "name": "Amanda M. Wilson",
+    "screen_name": "ritrovai",
+    "location": "Washington, D.C.",
+    "description": "Freelance, resident of the District, reporter with @TheDCMud - these flowers are from Crystal City http://t.co/4tPlMNPU",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/4tPlMNPU",
+            "expanded_url": "http://amandamwilson.tumblr.com/",
+            "display_url": "amandamwilson.tumblr.com",
+            "indices": [
+              99,
+              119
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 159,
+    "friends_count": 159,
+    "listed_count": 4,
+    "created_at": "Thu Jan 14 22:27:04 +0000 2010",
+    "favourites_count": 25,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 983,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/348294691/IMG_5051__2_.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/348294691/IMG_5051__2_.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2238284778/IMG_8668_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2238284778/IMG_8668_normal.JPG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/104953191/1358529105",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          24,
+          28
+        ]
+      },
+      {
+        "text": "elearning",
+        "indices": [
+          86,
+          96
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/4z4FNXlc",
+        "expanded_url": "http://bit.ly/M4VyZA",
+        "display_url": "bit.ly/M4VyZA",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

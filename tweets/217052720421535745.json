@@ -1,0 +1,98 @@
+{
+  "created_at": "Mon Jun 25 00:32:55 +0000 2012",
+  "id": 217052720421535745,
+  "id_str": "217052720421535745",
+  "text": "Article on our upcoming meeting next Sunday July 1st at 3PM. http://t.co/eiZEIr84",
+  "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 73327823,
+    "id_str": "73327823",
+    "name": "UVa Student Council",
+    "screen_name": "UVaStudCo",
+    "location": "Charlottesville, VA",
+    "description": "Your voice is our vision.",
+    "url": "http://www.uvastudentcouncil.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.uvastudentcouncil.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 742,
+    "friends_count": 31,
+    "listed_count": 23,
+    "created_at": "Fri Sep 11 06:48:44 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 542,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/95738569/studcotwit.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/95738569/studcotwit.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/673867936/Untitled-1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/673867936/Untitled-1_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/eiZEIr84",
+        "expanded_url": "http://fb.me/O8fEWkde",
+        "display_url": "fb.me/O8fEWkde",
+        "indices": [
+          61,
+          81
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

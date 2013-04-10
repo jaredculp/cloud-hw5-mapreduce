@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed Jun 20 00:51:42 +0000 2012",
+  "id": 215245506253815808,
+  "id_str": "215245506253815808",
+  "text": ".@BobMcDonnell: Call for an investigation of the #UVa BoV &amp; the resignation of Rector Dragas: http://t.co/xMxcqlFA",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 251183937,
+    "id_str": "251183937",
+    "name": "Just here. Just now.",
+    "screen_name": "JustHereJustNow",
+    "location": "Charlottesville, VA",
+    "description": "Writing about spirituality, gratitude, meditation, Bikram yoga and my quest to be as present and joyful as my dog.",
+    "url": "http://justherejustnow.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://justherejustnow.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 427,
+    "friends_count": 509,
+    "listed_count": 17,
+    "created_at": "Sat Feb 12 16:24:05 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 952,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1261777748/IMG_0561_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1261777748/IMG_0561_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/251183937/1353852948",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          49,
+          53
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xMxcqlFA",
+        "expanded_url": "http://chn.ge/TheBoV",
+        "display_url": "chn.ge/TheBoV",
+        "indices": [
+          98,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          1,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

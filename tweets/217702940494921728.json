@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 26 19:36:40 +0000 2012",
+  "id": 217702940494921728,
+  "id_str": "217702940494921728",
+  "text": "Live stream of Lawn: http://t.co/QmeYq4te #uva #sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18352645,
+    "id_str": "18352645",
+    "name": "N M C",
+    "screen_name": "N_M_C_",
+    "location": "Charlottesville, VA",
+    "description": "Traveler; Tarheel; Runner; Attorney; recent resident of Barcelona and DC, now in C'ville, VA",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 78,
+    "friends_count": 214,
+    "listed_count": 7,
+    "created_at": "Wed Dec 24 06:21:14 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 96,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "278CB8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/82796670/twitter_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/82796670/twitter_normal.JPG",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "EFFF61",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          42,
+          46
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          47,
+          56
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/QmeYq4te",
+        "expanded_url": "http://www.ustream.tv/channel/tuesday-vigil-during-bov-meeting",
+        "display_url": "ustream.tv/channel/tuesda…",
+        "indices": [
+          21,
+          41
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

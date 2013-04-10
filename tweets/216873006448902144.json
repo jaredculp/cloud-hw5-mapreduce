@@ -1,0 +1,105 @@
+{
+  "created_at": "Sun Jun 24 12:38:48 +0000 2012",
+  "id": 216873006448902144,
+  "id_str": "216873006448902144",
+  "text": "What would Thomas Jefferson think of the #UVA turmoil? http://t.co/5x2FpySN",
+  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2467791,
+    "id_str": "2467791",
+    "name": "The Washington Post",
+    "screen_name": "washingtonpost",
+    "location": "Washington, D.C. ",
+    "description": "One of many ways The Washington Post gets social. Send your tips and tweets to @washingtonpost.",
+    "url": "http://www.washingtonpost.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.washingtonpost.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1425122,
+    "friends_count": 737,
+    "listed_count": 40539,
+    "created_at": "Tue Mar 27 11:19:39 +0000 2007",
+    "favourites_count": 910,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 77623,
+    "lang": "en",
+    "contributors_enabled": true,
+    "is_translator": false,
+    "profile_background_color": "333333",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/464437503/wp-capitol.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/464437503/wp-capitol.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1946293623/WPTwitterIcon-512x512_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1946293623/WPTwitterIcon-512x512_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/2467791/1348076832",
+    "profile_link_color": "0057EC",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DBDBDB",
+    "profile_text_color": "323232",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 22,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          41,
+          45
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/5x2FpySN",
+        "expanded_url": "http://wapo.st/L4peo9",
+        "display_url": "wapo.st/L4peo9",
+        "indices": [
+          55,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

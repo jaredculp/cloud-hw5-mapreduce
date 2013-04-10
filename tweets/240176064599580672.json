@@ -1,0 +1,137 @@
+{
+  "created_at": "Mon Aug 27 19:56:50 +0000 2012",
+  "id": 240176064599580672,
+  "id_str": "240176064599580672",
+  "text": "The view from my dorm #uva  @ IRC - International Residential College http://t.co/Cj8tf60X",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 295993011,
+    "id_str": "295993011",
+    "name": "Brooke Hering",
+    "screen_name": "Pikasurf2013",
+    "location": "Virginia",
+    "description": " I want to know, love, and serve God on this earth to the best of my ability so that I may be eternally happy with Him in the Next. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 75,
+    "friends_count": 319,
+    "listed_count": 1,
+    "created_at": "Tue May 10 00:57:01 +0000 2011",
+    "favourites_count": 34,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 743,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "97A63D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/514754136/x2ebb55e9c706a50cb7079bea76fa26d.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/514754136/x2ebb55e9c706a50cb7079bea76fa26d.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1559276500/pikasurf_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1559276500/pikasurf_normal.jpg",
+    "profile_link_color": "44A377",
+    "profile_sidebar_border_color": "FF9E47",
+    "profile_sidebar_fill_color": "EDC331",
+    "profile_text_color": "D1A63E",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.03941011,
+      -78.50766453
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.50766453,
+      38.03941011
+    ]
+  },
+  "place": {
+    "id": "531a6942bb8056b9",
+    "url": "https://api.twitter.com/1.1/geo/id/531a6942bb8056b9.json",
+    "place_type": "city",
+    "name": "Charlottesville",
+    "full_name": "Charlottesville, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.523637,
+            38.009584
+          ],
+          [
+            -78.446311,
+            38.009584
+          ],
+          [
+            -78.446311,
+            38.070591
+          ],
+          [
+            -78.523637,
+            38.070591
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          22,
+          26
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Cj8tf60X",
+        "expanded_url": "http://instagr.am/p/O2BMtgx5G8/",
+        "display_url": "instagr.am/p/O2BMtgx5G8/",
+        "indices": [
+          70,
+          90
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

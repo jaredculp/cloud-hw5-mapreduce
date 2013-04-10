@@ -1,0 +1,93 @@
+{
+  "created_at": "Thu Jun 28 15:19:33 +0000 2012",
+  "id": 218363011499425792,
+  "id_str": "218363011499425792",
+  "text": "@bradhansford no me neither #BOV",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 218362872194019329,
+  "in_reply_to_status_id_str": "218362872194019329",
+  "in_reply_to_user_id": 51418636,
+  "in_reply_to_user_id_str": "51418636",
+  "in_reply_to_screen_name": "bradhansford",
+  "user": {
+    "id": 459338502,
+    "id_str": "459338502",
+    "name": "Joe Clayton",
+    "screen_name": "JoeClayton93",
+    "location": "Manchester",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 242,
+    "friends_count": 216,
+    "listed_count": 0,
+    "created_at": "Mon Jan 09 15:10:17 +0000 2012",
+    "favourites_count": 44,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1111,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "003854",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/399158758/joe_on_bike.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/399158758/joe_on_bike.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2362390187/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2362390187/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/459338502/1354203441",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "2D4A57",
+    "profile_text_color": "9E969E",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "bradhansford",
+        "name": "Brad Hansford",
+        "id": 51418636,
+        "id_str": "51418636",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

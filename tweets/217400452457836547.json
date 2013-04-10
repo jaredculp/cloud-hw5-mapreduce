@@ -1,0 +1,123 @@
+{
+  "created_at": "Mon Jun 25 23:34:41 +0000 2012",
+  "id": 217400452457836547,
+  "id_str": "217400452457836547",
+  "text": "Praise for @cavalierdaily from my former boss Candy Hatcher @PilotOpinion Show of character in 140 characters http://t.co/qQ1lk75k  #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 124004237,
+    "id_str": "124004237",
+    "name": "Suzanne Tate",
+    "screen_name": "SuzanneTate",
+    "location": "Bristol, Tenn/Va ",
+    "description": "Media and marketing pro, career editor, MBA, VT Hokie, cook book collector, lover of blue crabs. Follow my food tweets @FineKettleFood",
+    "url": "http://www.linkedin.com/in/suzannetate",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.linkedin.com/in/suzannetate",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 924,
+    "friends_count": 1389,
+    "listed_count": 36,
+    "created_at": "Wed Mar 17 23:08:20 +0000 2010",
+    "favourites_count": 88,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5653,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "045F66",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/340832239/iconsbubble3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/340832239/iconsbubble3.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2229135211/headshotjpg_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2229135211/headshotjpg_normal.jpg",
+    "profile_link_color": "9D4CBD",
+    "profile_sidebar_border_color": "CE8108",
+    "profile_sidebar_fill_color": "EAF59B",
+    "profile_text_color": "046666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          132,
+          136
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/qQ1lk75k",
+        "expanded_url": "http://ow.ly/1O7dLr",
+        "display_url": "ow.ly/1O7dLr",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          11,
+          25
+        ]
+      },
+      {
+        "screen_name": "PilotOpinion",
+        "name": "Pilot Opinion",
+        "id": 195783230,
+        "id_str": "195783230",
+        "indices": [
+          60,
+          73
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

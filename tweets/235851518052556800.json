@@ -1,0 +1,108 @@
+{
+  "created_at": "Wed Aug 15 21:32:38 +0000 2012",
+  "id": 235851518052556800,
+  "id_str": "235851518052556800",
+  "text": "@washingtonpost talks about the difference between broken systems and failed leadership.  http://t.co/S8afhx6J  #UVA #PennState",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 2467791,
+  "in_reply_to_user_id_str": "2467791",
+  "in_reply_to_screen_name": "washingtonpost",
+  "user": {
+    "id": 399597778,
+    "id_str": "399597778",
+    "name": "Cara Volpe",
+    "screen_name": "cara_volpe",
+    "location": "New York, NY",
+    "description": "I like to talk, mostly about: education, leadership, politics+policy, community development, nail polish, whiskey, football, my dog #leaveitbetterthanyoufoundit",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 291,
+    "friends_count": 523,
+    "listed_count": 6,
+    "created_at": "Thu Oct 27 18:59:03 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 938,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1609602965/grad_picture_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1609602965/grad_picture_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          112,
+          116
+        ]
+      },
+      {
+        "text": "PennState",
+        "indices": [
+          117,
+          127
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/S8afhx6J",
+        "expanded_url": "http://wapo.st/Plb0TC",
+        "display_url": "wapo.st/Plb0TC",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

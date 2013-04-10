@@ -1,0 +1,145 @@
+{
+  "created_at": "Thu Jun 21 17:39:04 +0000 2012",
+  "id": 215861405126103040,
+  "id_str": "215861405126103040",
+  "text": "@uva @cavalierdaily @UVa_Alumni   The bridge never lies... Thanks DU/Beta! http://t.co/ODua3NMw",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Photos on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 19315662,
+    "id_str": "19315662",
+    "name": "Dave Snow",
+    "screen_name": "dsnows",
+    "location": "Winchester, VA",
+    "description": "UVA '83, EVMS '87, Radiology '96.  Living the dream in Winchester, VA",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 21,
+    "friends_count": 84,
+    "listed_count": 0,
+    "created_at": "Wed Jan 21 23:54:20 +0000 2009",
+    "favourites_count": 80,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 349,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1613185369/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1613185369/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          5,
+          19
+        ]
+      },
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          20,
+          31
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 215861405134491648,
+        "id_str": "215861405134491648",
+        "indices": [
+          75,
+          95
+        ],
+        "media_url": "http://pbs.twimg.com/media/Av7kzeXCEAAZ6YH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Av7kzeXCEAAZ6YH.jpg",
+        "url": "http://t.co/ODua3NMw",
+        "display_url": "pic.twitter.com/ODua3NMw",
+        "expanded_url": "http://twitter.com/dsnows/status/215861405126103040/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 600,
+            "h": 450,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 450,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 255,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

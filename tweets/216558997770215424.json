@@ -1,0 +1,188 @@
+{
+  "created_at": "Sat Jun 23 15:51:03 +0000 2012",
+  "id": 216558997770215424,
+  "id_str": "216558997770215424",
+  "text": "@WhizChem @mcdonnell is clueless @cnn @usatoday @ft #dragas has destroyed value at #UVa @mittromney @planetromney @bbc #mcdonnell = useless",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216330691128995841,
+  "in_reply_to_status_id_str": "216330691128995841",
+  "in_reply_to_user_id": 49633388,
+  "in_reply_to_user_id_str": "49633388",
+  "in_reply_to_screen_name": "WhizChem",
+  "user": {
+    "id": 61632775,
+    "id_str": "61632775",
+    "name": "Team E3NYC",
+    "screen_name": "E3NYC",
+    "location": "New York",
+    "description": "Cleantech innovation is of little value if it is not implemented.  E3NYC is a catalyst for large scale cleantech implementation.",
+    "url": "http://www.e3blue.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.e3blue.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 111,
+    "friends_count": 111,
+    "listed_count": 5,
+    "created_at": "Thu Jul 30 23:38:02 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1513,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "5B527F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409329266/E3NYC_MAP_2016-1000.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409329266/E3NYC_MAP_2016-1000.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1781575994/e3nyc-logo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1781575994/e3nyc-logo_normal.jpg",
+    "profile_link_color": "550873",
+    "profile_sidebar_border_color": "99BBAD",
+    "profile_sidebar_fill_color": "EDEAE4",
+    "profile_text_color": "9A8194",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "dragas",
+        "indices": [
+          52,
+          59
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          83,
+          87
+        ]
+      },
+      {
+        "text": "mcdonnell",
+        "indices": [
+          119,
+          129
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WhizChem",
+        "name": "Old Alchemist",
+        "id": 49633388,
+        "id_str": "49633388",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "mcdonnell",
+        "name": "mcdonnell",
+        "id": 16684326,
+        "id_str": "16684326",
+        "indices": [
+          10,
+          20
+        ]
+      },
+      {
+        "screen_name": "CNN",
+        "name": "CNN",
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          33,
+          37
+        ]
+      },
+      {
+        "screen_name": "USATODAY",
+        "name": "USA TODAY",
+        "id": 15754281,
+        "id_str": "15754281",
+        "indices": [
+          38,
+          47
+        ]
+      },
+      {
+        "screen_name": "FT",
+        "name": "Financial Times",
+        "id": 18949452,
+        "id_str": "18949452",
+        "indices": [
+          48,
+          51
+        ]
+      },
+      {
+        "screen_name": "MittRomney",
+        "name": "Mitt Romney",
+        "id": 50055701,
+        "id_str": "50055701",
+        "indices": [
+          88,
+          99
+        ]
+      },
+      {
+        "screen_name": "PlanetRomney",
+        "name": "Fridgeagram",
+        "id": 19912372,
+        "id_str": "19912372",
+        "indices": [
+          100,
+          113
+        ]
+      },
+      {
+        "screen_name": "BBC",
+        "name": "BBC",
+        "id": 19701628,
+        "id_str": "19701628",
+        "indices": [
+          114,
+          118
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

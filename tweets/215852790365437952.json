@@ -1,0 +1,143 @@
+{
+  "created_at": "Thu Jun 21 17:04:50 +0000 2012",
+  "id": 215852790365437952,
+  "id_str": "215852790365437952",
+  "text": "@LarrySabato I don't know.  Lots of gay rights fans would never vote for a mormon. Myself included.",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215821904924258304,
+  "in_reply_to_status_id_str": "215821904924258304",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 21915572,
+    "id_str": "21915572",
+    "name": "Justin Hunt",
+    "screen_name": "justinevan",
+    "location": "San Francisco,CA,USA",
+    "description": "Overall nice guy…if you're a Republican, you're not going to think I'm so nice.  The law and politics are my realm.  Technology and Human Rights my passion.",
+    "url": "http://politicalhunt.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://politicalhunt.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 234,
+    "friends_count": 303,
+    "listed_count": 4,
+    "created_at": "Wed Feb 25 20:40:47 +0000 2009",
+    "favourites_count": 27,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10947,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2879388893/15fa70b706326da43811b8ca3e0e20d6_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2879388893/15fa70b706326da43811b8ca3e0e20d6_normal.png",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      36.03597905,
+      -86.81142193
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -86.81142193,
+      36.03597905
+    ]
+  },
+  "place": {
+    "id": "42835dec78de1327",
+    "url": "https://api.twitter.com/1.1/geo/id/42835dec78de1327.json",
+    "place_type": "city",
+    "name": "Brentwood",
+    "full_name": "Brentwood, TN",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -86.869444,
+            35.93256
+          ],
+          [
+            -86.714699,
+            35.93256
+          ],
+          [
+            -86.714699,
+            36.044672
+          ],
+          [
+            -86.869444,
+            36.044672
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

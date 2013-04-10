@@ -1,0 +1,171 @@
+{
+  "created_at": "Fri Jun 22 21:52:24 +0000 2012",
+  "id": 216287548119588865,
+  "id_str": "216287548119588865",
+  "text": "@megtopp @bobmcdonnell @cnn @nytimes @mittromney it was about destroying the value of #UVa @ft @bbc  #cville is still burning  PLS RT",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216276419356008450,
+  "in_reply_to_status_id_str": "216276419356008450",
+  "in_reply_to_user_id": 46777333,
+  "in_reply_to_user_id_str": "46777333",
+  "in_reply_to_screen_name": "megtopp",
+  "user": {
+    "id": 190296269,
+    "id_str": "190296269",
+    "name": "Tom Glendening",
+    "screen_name": "e3blue",
+    "location": "NYC, NY",
+    "description": "urban innovation",
+    "url": "http://www.glendening.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.glendening.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 41,
+    "friends_count": 41,
+    "listed_count": 0,
+    "created_at": "Mon Sep 13 16:00:56 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 965,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          86,
+          90
+        ]
+      },
+      {
+        "text": "cville",
+        "indices": [
+          101,
+          108
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "megtopp",
+        "name": "Meghan Topp",
+        "id": 46777333,
+        "id_str": "46777333",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          9,
+          22
+        ]
+      },
+      {
+        "screen_name": "CNN",
+        "name": "CNN",
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          23,
+          27
+        ]
+      },
+      {
+        "screen_name": "nytimes",
+        "name": "The New York Times",
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          28,
+          36
+        ]
+      },
+      {
+        "screen_name": "MittRomney",
+        "name": "Mitt Romney",
+        "id": 50055701,
+        "id_str": "50055701",
+        "indices": [
+          37,
+          48
+        ]
+      },
+      {
+        "screen_name": "FT",
+        "name": "Financial Times",
+        "id": 18949452,
+        "id_str": "18949452",
+        "indices": [
+          91,
+          94
+        ]
+      },
+      {
+        "screen_name": "BBC",
+        "name": "BBC",
+        "id": 19701628,
+        "id_str": "19701628",
+        "indices": [
+          95,
+          99
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

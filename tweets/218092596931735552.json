@@ -1,0 +1,128 @@
+{
+  "created_at": "Wed Jun 27 21:25:01 +0000 2012",
+  "id": 218092596931735552,
+  "id_str": "218092596931735552",
+  "text": "@danmaxey @rachelnoelj I will concede that there's an older school out there, but it's certainly not #UVA! #Harvard #technicality",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 14645133,
+  "in_reply_to_user_id_str": "14645133",
+  "in_reply_to_screen_name": "danmaxey",
+  "user": {
+    "id": 299404395,
+    "id_str": "299404395",
+    "name": "Myra Ann Houser",
+    "screen_name": "myramt",
+    "location": "washington, dc",
+    "description": "Graduate student at @Howard. Tweet on varied subjects: (mostly southern) African hist and pol, higher ed issues, Baptist life/pol, life in DC, pop culture, etc.",
+    "url": "http://dumbinthedistrict.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://dumbinthedistrict.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 194,
+    "friends_count": 407,
+    "listed_count": 3,
+    "created_at": "Mon May 16 01:22:16 +0000 2011",
+    "favourites_count": 61,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3209,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1355350936/pic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1355350936/pic_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          101,
+          105
+        ]
+      },
+      {
+        "text": "Harvard",
+        "indices": [
+          107,
+          115
+        ]
+      },
+      {
+        "text": "technicality",
+        "indices": [
+          116,
+          129
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "danmaxey",
+        "name": "Daniel Maxey",
+        "id": 14645133,
+        "id_str": "14645133",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "rachelnoelj",
+        "name": "Rachel Johnson",
+        "id": 73459257,
+        "id_str": "73459257",
+        "indices": [
+          10,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

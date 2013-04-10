@@ -1,0 +1,151 @@
+{
+  "created_at": "Fri Jun 22 21:43:44 +0000 2012",
+  "id": 216285364783038464,
+  "id_str": "216285364783038464",
+  "text": "counterpoint RT @e3blue: @chrishurstwdbj @bobmcdonnell @WDBJ7 That was a wimpish reply. @cnn   #UVa deserves better.  fire #dragas",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 195039753,
+    "id_str": "195039753",
+    "name": "Chris Hurst",
+    "screen_name": "chrishurstwdbj",
+    "location": "Roanoke, VA",
+    "description": "6 & 11 Anchor for WDBJ7. News. Sports. Politics. Virginia. Philly. Only RTs from @AdventureTimeCN are endorsements",
+    "url": "https://www.facebook.com/chrishurstwdbj",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://www.facebook.com/chrishurstwdbj",
+            "expanded_url": null,
+            "indices": [
+              0,
+              39
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 980,
+    "friends_count": 862,
+    "listed_count": 49,
+    "created_at": "Sat Sep 25 16:54:11 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5300,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/153690670/n8213836_37444917_1771.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/153690670/n8213836_37444917_1771.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2365485012/9n1bp4ux0dr6zr15pyp5_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2365485012/9n1bp4ux0dr6zr15pyp5_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          95,
+          99
+        ]
+      },
+      {
+        "text": "dragas",
+        "indices": [
+          123,
+          130
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "e3blue",
+        "name": "Tom Glendening",
+        "id": 190296269,
+        "id_str": "190296269",
+        "indices": [
+          16,
+          23
+        ]
+      },
+      {
+        "screen_name": "chrishurstwdbj",
+        "name": "Chris Hurst",
+        "id": 195039753,
+        "id_str": "195039753",
+        "indices": [
+          25,
+          40
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          41,
+          54
+        ]
+      },
+      {
+        "screen_name": "WDBJ7",
+        "name": "WDBJ7",
+        "id": 14857413,
+        "id_str": "14857413",
+        "indices": [
+          55,
+          61
+        ]
+      },
+      {
+        "screen_name": "CNN",
+        "name": "CNN",
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          88,
+          92
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

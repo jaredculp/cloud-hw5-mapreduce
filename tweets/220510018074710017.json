@@ -1,0 +1,105 @@
+{
+  "created_at": "Wed Jul 04 13:30:59 +0000 2012",
+  "id": 220510018074710017,
+  "id_str": "220510018074710017",
+  "text": "Asaja Murcia prevé calidad “extraordinaria” para la #uva de mesa murciana esta campaña &gt; http://t.co/Jv0HxL38",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 443774751,
+    "id_str": "443774751",
+    "name": "IDEAGRO",
+    "screen_name": "ideagro",
+    "location": "Murcia",
+    "description": "Investigación y Desarrollo Agro-alimentario. ¿Innovamos juntos? Te ayudamos a hacer mejor lo que ya sabes hacer. Innovate through outsourcing your R&D. ",
+    "url": "http://ideagro.es",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ideagro.es",
+            "expanded_url": null,
+            "indices": [
+              0,
+              17
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1647,
+    "friends_count": 678,
+    "listed_count": 48,
+    "created_at": "Thu Dec 22 14:41:02 +0000 2011",
+    "favourites_count": 1717,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2474,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/432497465/post.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/432497465/post.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1845506673/i_d_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1845506673/i_d_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/443774751/1348766895",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          52,
+          56
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Jv0HxL38",
+        "expanded_url": "http://www.chil.org/news/1310",
+        "display_url": "chil.org/news/1310",
+        "indices": [
+          92,
+          112
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,108 @@
+{
+  "created_at": "Fri Jun 22 23:00:59 +0000 2012",
+  "id": 216304808909484032,
+  "id_str": "216304808909484032",
+  "text": "\"@DTWillingham: http://t.co/P7cLznjn Failing grade for Board of Visitors #UVa #Sullivan\"",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 204555114,
+    "id_str": "204555114",
+    "name": "A Real Virginian",
+    "screen_name": "RealVirginian",
+    "location": "Washington, DC Metro Area",
+    "description": "From the so-called Real Virginia, forced to live in the DC area for work. Views are my own and are rarely worth worrying about.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 113,
+    "friends_count": 557,
+    "listed_count": 2,
+    "created_at": "Mon Oct 18 23:39:02 +0000 2010",
+    "favourites_count": 33,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1464,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/168200199/P1070507_2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/168200199/P1070507_2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3180961297/5069cf939ae421c96f91911fd515b1cc_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3180961297/5069cf939ae421c96f91911fd515b1cc_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          73,
+          77
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          78,
+          87
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/P7cLznjn",
+        "expanded_url": "http://bit.ly/Mx05CV",
+        "display_url": "bit.ly/Mx05CV",
+        "indices": [
+          16,
+          36
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DTWillingham",
+        "name": "Daniel T. Willingham",
+        "id": 84619537,
+        "id_str": "84619537",
+        "indices": [
+          1,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,86 @@
+{
+  "created_at": "Thu Jun 21 21:20:54 +0000 2012",
+  "id": 215917232553857025,
+  "id_str": "215917232553857025",
+  "text": "@LarrySabato sad instance where outcome can be separated from process and unanimously agree:process was epic fail. BOV needs housecleaning.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215915978859614208,
+  "in_reply_to_status_id_str": "215915978859614208",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 340517893,
+    "id_str": "340517893",
+    "name": "Taylor Beery",
+    "screen_name": "KTaylorBeery",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 150,
+    "friends_count": 174,
+    "listed_count": 7,
+    "created_at": "Fri Jul 22 20:43:20 +0000 2011",
+    "favourites_count": 6,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 384,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1455784467/Screen_shot_2011-07-22_at_3.50.44_PM_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1455784467/Screen_shot_2011-07-22_at_3.50.44_PM_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

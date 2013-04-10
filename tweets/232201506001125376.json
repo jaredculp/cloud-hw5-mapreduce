@@ -1,0 +1,104 @@
+{
+  "created_at": "Sun Aug 05 19:48:47 +0000 2012",
+  "id": 232201506001125376,
+  "id_str": "232201506001125376",
+  "text": "@knohles ballin. #UVa reppin hard this summer. nuff said",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 42123809,
+  "in_reply_to_user_id_str": "42123809",
+  "in_reply_to_screen_name": "knohles",
+  "user": {
+    "id": 92433262,
+    "id_str": "92433262",
+    "name": "Brandon Sargent",
+    "screen_name": "boss1sarge",
+    "location": "VA",
+    "description": "Boss -\r\nwho always keeps it real.\r\nFull-time Sports Junkie, Part-time Gambling Addict.\r\n\r\n#Cubs #Bucs #Sixers #UVA",
+    "url": "http://www.facebook.com/profile.php?id=68111004",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/profile.php?id=68111004",
+            "expanded_url": null,
+            "indices": [
+              0,
+              47
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 105,
+    "friends_count": 138,
+    "listed_count": 7,
+    "created_at": "Wed Nov 25 03:00:48 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3831,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2895149493/963ef19dbedb348e770d32324e58c3d6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2895149493/963ef19dbedb348e770d32324e58c3d6_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          17,
+          21
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "knohles",
+        "name": "Ben Kohles",
+        "id": 42123809,
+        "id_str": "42123809",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

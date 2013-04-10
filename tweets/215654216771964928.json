@@ -1,0 +1,114 @@
+{
+  "created_at": "Thu Jun 21 03:55:46 +0000 2012",
+  "id": 215654216771964928,
+  "id_str": "215654216771964928",
+  "text": "I'm a real proud Virginian and #UVa alum, and hope President Sullivan is reinstated http://t.co/tq3Dyf7o (via @johnedwinmason)",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 37978965,
+    "id_str": "37978965",
+    "name": "Mary Slosson",
+    "screen_name": "maryslosson",
+    "location": "Los Angeles, CA",
+    "description": "Doing global health and development work @GOOD. Lover of music, the big wide beautiful world, and the great outdoors. Former @Reuters correspondent.",
+    "url": "http://maryslosson.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://maryslosson.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1186,
+    "friends_count": 345,
+    "listed_count": 94,
+    "created_at": "Tue May 05 18:01:39 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3149,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "59472F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/595864292/x37eec83c8e5f87ea5df5668cb4bdfca.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/595864292/x37eec83c8e5f87ea5df5668cb4bdfca.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3096604298/a6561d2983dc3c699446a25f6c5d56ff_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3096604298/a6561d2983dc3c699446a25f6c5d56ff_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/37978965/1353393297",
+    "profile_link_color": "52555C",
+    "profile_sidebar_border_color": "000515",
+    "profile_sidebar_fill_color": "061127",
+    "profile_text_color": "827972",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/tq3Dyf7o",
+        "expanded_url": "http://wapo.st/L6yLZV",
+        "display_url": "wapo.st/L6yLZV",
+        "indices": [
+          84,
+          104
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "johnedwinmason",
+        "name": "John Edwin Mason",
+        "id": 25343700,
+        "id_str": "25343700",
+        "indices": [
+          110,
+          125
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,100 @@
+{
+  "created_at": "Tue Aug 28 14:41:04 +0000 2012",
+  "id": 240458984388194304,
+  "id_str": "240458984388194304",
+  "text": "Progress on the new field http://t.co/k70G4wz9 #uva #uvabaseball",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 67759455,
+    "id_str": "67759455",
+    "name": "David Long",
+    "screen_name": "DavidL0ng",
+    "location": "Charlottesville, VA",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 85,
+    "friends_count": 330,
+    "listed_count": 1,
+    "created_at": "Sat Aug 22 00:01:16 +0000 2009",
+    "favourites_count": 14,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1128,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1246279051/Agent_P_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1246279051/Agent_P_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/67759455/1355173831",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "uvabaseball",
+        "indices": [
+          52,
+          64
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/k70G4wz9",
+        "expanded_url": "http://oxblue.com/open/carolinagreencorp/davenport",
+        "display_url": "oxblue.com/open/carolinag…",
+        "indices": [
+          26,
+          46
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

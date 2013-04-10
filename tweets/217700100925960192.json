@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 26 19:25:23 +0000 2012",
+  "id": 217700100925960192,
+  "id_str": "217700100925960192",
+  "text": "@LarrySabato I think they finally woke up… Governor was going to act, not bluffing.",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217699805172994050,
+  "in_reply_to_status_id_str": "217699805172994050",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 19028636,
+    "id_str": "19028636",
+    "name": "Dave Morales",
+    "screen_name": "Morales",
+    "location": "Richmond, VA",
+    "description": "Father, husband, WordPress Ninja. Trying to change the world.",
+    "url": "http://davemoral.es",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://davemoral.es",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 264,
+    "friends_count": 264,
+    "listed_count": 7,
+    "created_at": "Thu Jan 15 17:00:31 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13387,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/13017375/01893_springwheat_1920x1200.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/13017375/01893_springwheat_1920x1200.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2080632675/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2080632675/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/19028636/1347993903",
+    "profile_link_color": "AC6362",
+    "profile_sidebar_border_color": "485732",
+    "profile_sidebar_fill_color": "E0E8C4",
+    "profile_text_color": "697038",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

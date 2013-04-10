@@ -1,0 +1,99 @@
+{
+  "created_at": "Fri Jun 22 14:28:21 +0000 2012",
+  "id": 216175798632189952,
+  "id_str": "216175798632189952",
+  "text": "@foundhistory The #BOV would prefer you to kindly hand over your credit card details before using the Rossetti Archive #nines2012",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216169735765753859,
+  "in_reply_to_status_id_str": "216169735765753859",
+  "in_reply_to_user_id": 851851,
+  "in_reply_to_user_id_str": "851851",
+  "in_reply_to_screen_name": "foundhistory",
+  "user": {
+    "id": 261089315,
+    "id_str": "261089315",
+    "name": "Justin Tonra",
+    "screen_name": "jtonra",
+    "location": "Galway, Ireland",
+    "description": "Irish Research Council Postdoctoral Fellow @UVA & @nuigalway.\r\nEarly 19thC, Textual Studies & Digital Humanities scholar.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 261,
+    "friends_count": 317,
+    "listed_count": 16,
+    "created_at": "Sat Mar 05 06:10:14 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 423,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2524519960/6sewv5itxn6soj3cczhk_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2524519960/6sewv5itxn6soj3cczhk_normal.jpeg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          18,
+          22
+        ]
+      },
+      {
+        "text": "nines2012",
+        "indices": [
+          119,
+          129
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "foundhistory",
+        "name": "Tom Scheinfeldt",
+        "id": 851851,
+        "id_str": "851851",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

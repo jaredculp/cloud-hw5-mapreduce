@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:41:21 +0000 2012",
+  "id": 217704117886398465,
+  "id_str": "217704117886398465",
+  "text": "RT @uva: #UVa trending! Loud cheers from the Lawn!",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 33552833,
+    "id_str": "33552833",
+    "name": "Sid the Kid",
+    "screen_name": "sid_thekid",
+    "location": "Washington DC",
+    "description": "I just made a list of things to do in my life. I cant wait to get started.",
+    "url": "http://sid.pixyblog.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://sid.pixyblog.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 183,
+    "friends_count": 365,
+    "listed_count": 2,
+    "created_at": "Mon Apr 20 15:38:00 +0000 2009",
+    "favourites_count": 37,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2021,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/68967904/skyline.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/68967904/skyline.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/599531054/lincoln_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/599531054/lincoln_normal.jpg",
+    "profile_link_color": "274FB3",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          9,
+          13
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          3,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

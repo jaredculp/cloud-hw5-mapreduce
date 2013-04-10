@@ -1,0 +1,144 @@
+{
+  "created_at": "Tue Jun 19 07:11:56 +0000 2012",
+  "id": 214978809479442432,
+  "id_str": "214978809479442432",
+  "text": "#bov is now trending in #DC http://t.co/a0GzBOcc",
+  "source": "<a href=\"http://trendsmap.com/\" rel=\"nofollow\">Trendsmap Alerting</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 132332780,
+    "id_str": "132332780",
+    "name": "Trendsmap DC",
+    "screen_name": "TrendsDC",
+    "location": "Washington DC, USA",
+    "description": "Real-time Washington DC Twitter trends",
+    "url": "http://trendsmap.com/local/us/washington",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://trendsmap.com/local/us/washington",
+            "expanded_url": null,
+            "indices": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3068,
+    "friends_count": 1706,
+    "listed_count": 150,
+    "created_at": "Mon Apr 12 23:35:04 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15464,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/149132789/TrendsDC.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/149132789/TrendsDC.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1083354945/TrendsMap-Logo-_Dark___1__normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1083354945/TrendsMap-Logo-_Dark___1__normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "01fbe706f872cb32",
+    "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+    "place_type": "city",
+    "name": "Washington",
+    "full_name": "Washington, DC",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.119759,
+            38.791645
+          ],
+          [
+            -76.909393,
+            38.791645
+          ],
+          [
+            -76.909393,
+            38.995548
+          ],
+          [
+            -77.119759,
+            38.995548
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bov",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "DC",
+        "indices": [
+          24,
+          27
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/a0GzBOcc",
+        "expanded_url": "http://trendsmap.com/us/washington",
+        "display_url": "trendsmap.com/us/washington",
+        "indices": [
+          28,
+          48
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

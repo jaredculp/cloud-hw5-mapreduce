@@ -1,0 +1,108 @@
+{
+  "created_at": "Tue Jun 19 04:45:31 +0000 2012",
+  "id": 214941958852968448,
+  "id_str": "214941958852968448",
+  "text": "@uva @LarrySabato 42 years ago Prez Shannon thought protesters were there to cheer him, not because of Kent State. Nice to have one to cheer",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 16550178,
+    "id_str": "16550178",
+    "name": "FrMike",
+    "screen_name": "FrMike",
+    "location": "San Diego",
+    "description": "Rector of an Episcopal Church.  Scholar on Richard Hooker.  Bread Baker, Cyclist, Sherlock Holmes fan, Volunteer staff for ComicCon, Comfort food chef.",
+    "url": "http://richardhooker.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://richardhooker.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 283,
+    "friends_count": 103,
+    "listed_count": 15,
+    "created_at": "Wed Oct 01 20:52:35 +0000 2008",
+    "favourites_count": 1,
+    "utc_offset": -32400,
+    "time_zone": "Alaska",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2400,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1217797059/MBR_photo_2010_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1217797059/MBR_photo_2010_normal.jpg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "0C0C0D",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          5,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

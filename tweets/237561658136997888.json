@@ -1,0 +1,130 @@
+{
+  "created_at": "Mon Aug 20 14:48:07 +0000 2012",
+  "id": 237561658136997888,
+  "id_str": "237561658136997888",
+  "text": "Of met deze http://t.co/YBPlSx6J RT @theoploeg: Nieuwe studenten #HvA #UvA?Leer je nieuwe stad kennen met deze wandeling @soundtrackcity.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 136958529,
+    "id_str": "136958529",
+    "name": "inoost met Mik",
+    "screen_name": "inoostmetmik",
+    "location": "Amsterdam",
+    "description": "Ik ben Mik, je online vriendin die 'leuke plekken en activiteiten' in Amsterdam-Oost via social media met je deelt. Compleet overzicht? Kijk op www.metmik.nl",
+    "url": "http://www.inoost.metmik.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.inoost.metmik.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1547,
+    "friends_count": 1795,
+    "listed_count": 34,
+    "created_at": "Sun Apr 25 11:17:36 +0000 2010",
+    "favourites_count": 7,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4354,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/212039266/x6bf77ce8f62d71919ad1234e7f09978.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/212039266/x6bf77ce8f62d71919ad1234e7f09978.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1259445722/mik_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1259445722/mik_normal.jpg",
+    "profile_link_color": "065A62",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "1EC8DA",
+    "profile_text_color": "48636E",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HvA",
+        "indices": [
+          65,
+          69
+        ]
+      },
+      {
+        "text": "UvA",
+        "indices": [
+          70,
+          74
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/YBPlSx6J",
+        "expanded_url": "http://bit.ly/I4jrzH",
+        "display_url": "bit.ly/I4jrzH",
+        "indices": [
+          12,
+          32
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "theoploeg",
+        "name": "theo ploeg",
+        "id": 8847692,
+        "id_str": "8847692",
+        "indices": [
+          36,
+          46
+        ]
+      },
+      {
+        "screen_name": "soundtrackcity",
+        "name": "Soundtrackcity",
+        "id": 74120463,
+        "id_str": "74120463",
+        "indices": [
+          121,
+          136
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

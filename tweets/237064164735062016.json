@@ -1,0 +1,115 @@
+{
+  "created_at": "Sun Aug 19 05:51:15 +0000 2012",
+  "id": 237064164735062016,
+  "id_str": "237064164735062016",
+  "text": "Laaaargarooon! Con @JavierFiad @ramiroVG22 y #UVA",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 150608229,
+    "id_str": "150608229",
+    "name": "BENDER",
+    "screen_name": "benjalezana",
+    "location": "Santiago del Estero, Argentina",
+    "description": "2A9C79E5  ",
+    "url": "http://www.lashow965.com.ar",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.lashow965.com.ar",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 292,
+    "friends_count": 242,
+    "listed_count": 7,
+    "created_at": "Tue Jun 01 10:44:33 +0000 2010",
+    "favourites_count": 165,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5730,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "59BEE4",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/689772793/7b1cad0896d22d75b85f5f86fc69b59f.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/689772793/7b1cad0896d22d75b85f5f86fc69b59f.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3175652606/26a250064ee383c6afbec8e22be99979_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3175652606/26a250064ee383c6afbec8e22be99979_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/150608229/1352259730",
+    "profile_link_color": "8FCAE0",
+    "profile_sidebar_border_color": "4BB7DF",
+    "profile_sidebar_fill_color": "191F22",
+    "profile_text_color": "4BB7DF",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          45,
+          49
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JavierFiad",
+        "name": "Javier Fiad",
+        "id": 549308680,
+        "id_str": "549308680",
+        "indices": [
+          19,
+          30
+        ]
+      },
+      {
+        "screen_name": "ramiroVG22",
+        "name": "Ramiro Velez",
+        "id": 634675286,
+        "id_str": "634675286",
+        "indices": [
+          31,
+          42
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

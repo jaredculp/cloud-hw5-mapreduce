@@ -1,0 +1,215 @@
+{
+  "created_at": "Tue Jun 19 21:43:00 +0000 2012",
+  "id": 215198019363155969,
+  "id_str": "215198019363155969",
+  "text": "RT @jeffmacarl: JK Rowlings based the character Dolores Umbridge  on Helen Dragas #DragasFacts #UVa #Sullivan",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 52553230,
+    "id_str": "52553230",
+    "name": "cvillenews.com",
+    "screen_name": "cvillenewscom",
+    "location": "Charlottesville, VA",
+    "description": "Charlottesville news tweetage. Maintained by @waldojaquith.",
+    "url": "http://www.cvillenews.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cvillenews.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1170,
+    "friends_count": 17,
+    "listed_count": 79,
+    "created_at": "Tue Jun 30 23:04:41 +0000 2009",
+    "favourites_count": 32,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1385,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/291110792/waldo_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/291110792/waldo_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 19 19:51:16 +0000 2012",
+    "id": 215169899348238336,
+    "id_str": "215169899348238336",
+    "text": "JK Rowlings based the character Dolores Umbridge  on Helen Dragas #DragasFacts #UVa #Sullivan",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 37474390,
+      "id_str": "37474390",
+      "name": "Jeff McLean",
+      "screen_name": "jeffmacarl",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 11,
+      "friends_count": 93,
+      "listed_count": 0,
+      "created_at": "Sun May 03 18:52:02 +0000 2009",
+      "favourites_count": 5,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 558,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1397913179/Picture_10_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1397913179/Picture_10_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DragasFacts",
+          "indices": [
+            66,
+            78
+          ]
+        },
+        {
+          "text": "UVa",
+          "indices": [
+            79,
+            83
+          ]
+        },
+        {
+          "text": "Sullivan",
+          "indices": [
+            84,
+            93
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "DragasFacts",
+        "indices": [
+          82,
+          94
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          95,
+          99
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          100,
+          109
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jeffmacarl",
+        "name": "Jeff McLean",
+        "id": 37474390,
+        "id_str": "37474390",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

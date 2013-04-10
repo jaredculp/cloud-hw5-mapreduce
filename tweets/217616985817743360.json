@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 13:55:07 +0000 2012",
+  "id": 217616985817743360,
+  "id_str": "217616985817743360",
+  "text": "Headline about #UVA situation: \"Queen bees?\" Really @petulad?? (Should we be happy at least she didn't say \"catfight?\") http://t.co/Gt9KUsfV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 161086220,
+    "id_str": "161086220",
+    "name": "Name It. Change It.",
+    "screen_name": "nameitchangeit",
+    "location": "",
+    "description": "Fighting sexism in the media against women candidates.",
+    "url": "http://www.nameitchangeit.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nameitchangeit.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3058,
+    "friends_count": 685,
+    "listed_count": 212,
+    "created_at": "Tue Jun 29 23:31:22 +0000 2010",
+    "favourites_count": 5,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1131,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/145709462/NICI_logo_white.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/145709462/NICI_logo_white.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1129618509/nameit_orange_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1129618509/nameit_orange_normal.gif",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          15,
+          19
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Gt9KUsfV",
+        "expanded_url": "http://wapo.st/OmhkLg",
+        "display_url": "wapo.st/OmhkLg",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "petulad",
+        "name": "Petula Dvorak ",
+        "id": 14619947,
+        "id_str": "14619947",
+        "indices": [
+          52,
+          60
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

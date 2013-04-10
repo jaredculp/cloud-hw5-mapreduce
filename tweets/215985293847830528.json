@@ -1,0 +1,144 @@
+{
+  "created_at": "Fri Jun 22 01:51:21 +0000 2012",
+  "id": 215985293847830528,
+  "id_str": "215985293847830528",
+  "text": "West Coast, @TYTonCurrent in 10min! On tonight: @JackiSchechner &amp; @AnaKasparian. Plus, @michaelshure, Prof. Wulf &amp; @PMorici1 on #UVA.",
+  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14173084,
+    "id_str": "14173084",
+    "name": "Current TV",
+    "screen_name": "current",
+    "location": "SF, NY and LA",
+    "description": "Catch live insight & analysis from a progressive point of view on Current TV Mon-Thurs beginning at 6E/3P. ",
+    "url": "http://current.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://current.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 718306,
+    "friends_count": 4752,
+    "listed_count": 5324,
+    "created_at": "Tue Mar 18 22:35:11 +0000 2008",
+    "favourites_count": 249,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 22172,
+    "lang": "en",
+    "contributors_enabled": true,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/775770873/551e34e1be66d40bdb060bc89f4f8bb2.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/775770873/551e34e1be66d40bdb060bc89f4f8bb2.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1362179051/187887_17350698863_4439563_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1362179051/187887_17350698863_4439563_n_normal.jpg",
+    "profile_link_color": "103887",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E6E6E6",
+    "profile_text_color": "292727",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          136,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TYTonCurrent",
+        "name": "TYT on Current TV",
+        "id": 393588826,
+        "id_str": "393588826",
+        "indices": [
+          12,
+          25
+        ]
+      },
+      {
+        "screen_name": "JackiSchechner",
+        "name": "JackiSchechner",
+        "id": 12231932,
+        "id_str": "12231932",
+        "indices": [
+          48,
+          63
+        ]
+      },
+      {
+        "screen_name": "AnaKasparian",
+        "name": "Ana Kasparian",
+        "id": 23865382,
+        "id_str": "23865382",
+        "indices": [
+          70,
+          83
+        ]
+      },
+      {
+        "screen_name": "michaelshure",
+        "name": "Michael Shure",
+        "id": 161752401,
+        "id_str": "161752401",
+        "indices": [
+          91,
+          104
+        ]
+      },
+      {
+        "screen_name": "PMorici1",
+        "name": "Peter Morici",
+        "id": 332817280,
+        "id_str": "332817280",
+        "indices": [
+          123,
+          132
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

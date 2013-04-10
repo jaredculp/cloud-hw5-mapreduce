@@ -1,0 +1,122 @@
+{
+  "created_at": "Fri Jun 29 20:23:38 +0000 2012",
+  "id": 218801923837542401,
+  "id_str": "218801923837542401",
+  "text": "That's ridiculous RT @BoneGirlPhD Not cool. VA Governor McDonnell reappoints Dragas to #UVa BOV - http://t.co/70DltRFH",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 33972693,
+    "id_str": "33972693",
+    "name": "Matt Shipman",
+    "screen_name": "ShipLives",
+    "location": "Raleigh, NC",
+    "description": "I get paid to explain things to people: sci/tech research, food, beer, you name it. More on me:  http://t.co/Jpk48wlw",
+    "url": "http://www.scilogs.com/communication_breakdown/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.scilogs.com/communication_breakdown/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              47
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/Jpk48wlw",
+            "expanded_url": "http://bit.ly/PrkrUw",
+            "display_url": "bit.ly/PrkrUw",
+            "indices": [
+              97,
+              117
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1480,
+    "friends_count": 677,
+    "listed_count": 96,
+    "created_at": "Tue Apr 21 17:29:38 +0000 2009",
+    "favourites_count": 3072,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10871,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/515279772/HomerBkgrd.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/515279772/HomerBkgrd.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2150752487/Shipman_head_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2150752487/Shipman_head_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/33972693/1353293013",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          87,
+          91
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/70DltRFH",
+        "expanded_url": "http://bit.ly/OI27V0",
+        "display_url": "bit.ly/OI27V0",
+        "indices": [
+          98,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BoneGirlPhD",
+        "name": "K Killgrove",
+        "id": 633845041,
+        "id_str": "633845041",
+        "indices": [
+          21,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,101 @@
+{
+  "created_at": "Tue Jun 26 16:18:49 +0000 2012",
+  "id": 217653150318997504,
+  "id_str": "217653150318997504",
+  "text": "RT @chronicle: Sullivan's fate to be decided this afternoon at #UVa Board meeting: here's everything that's happened: http://t.co/Tf7brzU9",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 311001490,
+    "id_str": "311001490",
+    "name": "Lee Gardner",
+    "screen_name": "_lee_g",
+    "location": "Washington, D.C.",
+    "description": "Senior editor at The Chronicle of Higher Education (@Chronicle), covering government and the business of higher ed.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 178,
+    "friends_count": 226,
+    "listed_count": 9,
+    "created_at": "Sat Jun 04 18:37:14 +0000 2011",
+    "favourites_count": 11,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 490,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/462955299/lipsumlet.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/462955299/lipsumlet.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1941711495/glasses_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1941711495/glasses_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          63,
+          67
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Tf7brzU9",
+        "expanded_url": "http://chroni.cl/LgmJ6D",
+        "display_url": "chroni.cl/LgmJ6D",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,96 @@
+{
+  "created_at": "Tue Jun 26 22:19:43 +0000 2012",
+  "id": 217743971710017536,
+  "id_str": "217743971710017536",
+  "text": "Helen Dragas walks into a bar. And… and well that's kinda it.  #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 650883,
+    "id_str": "650883",
+    "name": "Justin D",
+    "screen_name": "JustinD",
+    "location": "Brooklyn, NY",
+    "description": "Director of Operations & Flammable Simians @ Freeverse",
+    "url": "http://jd.io",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://jd.io",
+            "expanded_url": null,
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 551,
+    "friends_count": 166,
+    "listed_count": 12,
+    "created_at": "Wed Jan 17 00:31:06 +0000 2007",
+    "favourites_count": 63,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7505,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "999999",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/145425954/bg1-2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/145425954/bg1-2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3109451254/c3f4171ec3daa7f4eb5d1be7531f6374_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3109451254/c3f4171ec3daa7f4eb5d1be7531f6374_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/650883/1358197620",
+    "profile_link_color": "1C3B50",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "CCD9FF",
+    "profile_text_color": "3A3A3A",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          63,
+          67
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

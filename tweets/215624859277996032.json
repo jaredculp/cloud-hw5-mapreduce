@@ -1,0 +1,111 @@
+{
+  "created_at": "Thu Jun 21 01:59:07 +0000 2012",
+  "id": 215624859277996032,
+  "id_str": "215624859277996032",
+  "text": "Moby and the Dicks rocking The box tonight! https://t.co/G9HZ6gI8 #cville #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 475981659,
+    "id_str": "475981659",
+    "name": "TheBox",
+    "screen_name": "TheBoxCville",
+    "location": "Charlottesville, VA",
+    "description": "https://www.facebook.com/theboxcville",
+    "url": "http://theboxcville.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://theboxcville.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 202,
+    "friends_count": 765,
+    "listed_count": 2,
+    "created_at": "Fri Jan 27 16:59:08 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 78,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/578864814/9jj23c6l9t6spbovropb.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/578864814/9jj23c6l9t6spbovropb.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2307446814/pvg8pq036e71ymkwjqiq_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2307446814/pvg8pq036e71ymkwjqiq_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cville",
+        "indices": [
+          66,
+          73
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          74,
+          78
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/G9HZ6gI8",
+        "expanded_url": "https://www.facebook.com/events/405011779537741/",
+        "display_url": "facebook.com/events/4050117…",
+        "indices": [
+          44,
+          65
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

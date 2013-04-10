@@ -1,0 +1,107 @@
+{
+  "created_at": "Tue Jun 26 20:14:09 +0000 2012",
+  "id": 217712371957891074,
+  "id_str": "217712371957891074",
+  "text": "@techsoc @EricKlinenberg @sivavaid There's an interesting story there that has yet to be told in full.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217711666140422145,
+  "in_reply_to_status_id_str": "217711666140422145",
+  "in_reply_to_user_id": 65375759,
+  "in_reply_to_user_id_str": "65375759",
+  "in_reply_to_screen_name": "techsoc",
+  "user": {
+    "id": 428708272,
+    "id_str": "428708272",
+    "name": "Snapdragon",
+    "screen_name": "dravazed",
+    "location": "Washington State, USA",
+    "description": "Activist (SDS, etc) since 1960s. Disabled. Advocate revolutionary nonviolence. Vegan, pagan, feminist, pro- Wikileaks & Occupy. A snapdragon is a flower.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2394,
+    "friends_count": 2255,
+    "listed_count": 86,
+    "created_at": "Mon Dec 05 02:52:58 +0000 2011",
+    "favourites_count": 2360,
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 62612,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2433786111/247dcf4f-71e2-4e88-b99c-fc7bece98d34_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2433786111/247dcf4f-71e2-4e88-b99c-fc7bece98d34_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/428708272/1359659817",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "techsoc",
+        "name": "Zeynep Tufekci",
+        "id": 65375759,
+        "id_str": "65375759",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "EricKlinenberg",
+        "name": "Eric Klinenberg",
+        "id": 466096296,
+        "id_str": "466096296",
+        "indices": [
+          9,
+          24
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          25,
+          34
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,111 @@
+{
+  "created_at": "Thu Jun 21 03:36:15 +0000 2012",
+  "id": 215649304587681795,
+  "id_str": "215649304587681795",
+  "text": "@riocarmine welcome to my part of Maine #Bangor #Sullivan",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 16626059,
+  "in_reply_to_user_id_str": "16626059",
+  "in_reply_to_screen_name": "riocarmine",
+  "user": {
+    "id": 17477172,
+    "id_str": "17477172",
+    "name": "Angelia Levesque",
+    "screen_name": "Alevesque",
+    "location": "Bangor, Maine",
+    "description": "Mom to @MissBundle, New Politcal Activist, Lover of Food, Fun and Maine. Happy Wife and a Realtor with RE/MAX Advantage lots going on here!",
+    "url": "http://www.angelialevesque.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.angelialevesque.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1763,
+    "friends_count": 1718,
+    "listed_count": 97,
+    "created_at": "Wed Nov 19 01:47:22 +0000 2008",
+    "favourites_count": 143,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 24285,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "939E9F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/189843456/108.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/189843456/108.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1342739626/Alevesque_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1342739626/Alevesque_normal.jpg",
+    "profile_link_color": "1F292D",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "CFD8CA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Bangor",
+        "indices": [
+          40,
+          47
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          48,
+          57
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "riocarmine",
+        "name": "Mario Moretto",
+        "id": 16626059,
+        "id_str": "16626059",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

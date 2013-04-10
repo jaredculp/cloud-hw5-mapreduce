@@ -1,0 +1,124 @@
+{
+  "created_at": "Tue Aug 07 06:18:34 +0000 2012",
+  "id": 232722383339933697,
+  "id_str": "232722383339933697",
+  "text": "Een verse #nano, en weer lekker volle agenda - #omw #uva #crea",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17470533,
+    "id_str": "17470533",
+    "name": "Jasper Tuinema",
+    "screen_name": "jap84",
+    "location": "Wervershoof, Netherlands",
+    "description": "architect | lid nai/stylos/dearchitect/a10/awm/lay-out | jazzgenieter | motorrijder | blogt op http://t.co/XtUIaXLZ  | heeft meestal een gedateerde twitter-bio",
+    "url": "http://www.jtuinema.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jtuinema.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/XtUIaXLZ",
+            "expanded_url": "http://moejlijk.nl/blog",
+            "display_url": "moejlijk.nl/blog",
+            "indices": [
+              95,
+              115
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 254,
+    "friends_count": 296,
+    "listed_count": 5,
+    "created_at": "Tue Nov 18 20:33:20 +0000 2008",
+    "favourites_count": 53,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 24049,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/784235134/e855deaa8d2fa0f388fa537f2d83bf1b.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/784235134/e855deaa8d2fa0f388fa537f2d83bf1b.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2580230567/cn837grys6n47jmhfq3u_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2580230567/cn837grys6n47jmhfq3u_normal.jpeg",
+    "profile_link_color": "999999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "222222",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "nano",
+        "indices": [
+          10,
+          15
+        ]
+      },
+      {
+        "text": "omw",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          52,
+          56
+        ]
+      },
+      {
+        "text": "crea",
+        "indices": [
+          57,
+          62
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

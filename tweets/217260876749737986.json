@@ -1,0 +1,143 @@
+{
+  "created_at": "Mon Jun 25 14:20:04 +0000 2012",
+  "id": 217260876749737986,
+  "id_str": "217260876749737986",
+  "text": "#UVa. Not tragical. RT @accmbb: @MikeScott checks in among @Sam_Amick's five most underrated @NBA draft prospects: http://t.co/8PrvuxX3",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 185385165,
+    "id_str": "185385165",
+    "name": "David Teel",
+    "screen_name": "DavidTeelatDP",
+    "location": "Newport News, Va.",
+    "description": "New dad, veteran scribe, habitual runner. Reporting on ACC, other college sports for Daily Press.",
+    "url": "http://www.dailypress.com/sports/teel-blog/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.dailypress.com/sports/teel-blog/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              43
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5366,
+    "friends_count": 721,
+    "listed_count": 208,
+    "created_at": "Tue Aug 31 21:29:45 +0000 2010",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 15213,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1114801588/obxhalf_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1114801588/obxhalf_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/8PrvuxX3",
+        "expanded_url": "http://bit.ly/L8KhWJ",
+        "display_url": "bit.ly/L8KhWJ",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "accmbb",
+        "name": "ACC Men's Basketball",
+        "id": 84119894,
+        "id_str": "84119894",
+        "indices": [
+          23,
+          30
+        ]
+      },
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          32,
+          42
+        ]
+      },
+      {
+        "screen_name": "sam_amick",
+        "name": "Sam Amick",
+        "id": 19017659,
+        "id_str": "19017659",
+        "indices": [
+          59,
+          69
+        ]
+      },
+      {
+        "screen_name": "NBA",
+        "name": "NBA",
+        "id": 19923144,
+        "id_str": "19923144",
+        "indices": [
+          93,
+          97
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

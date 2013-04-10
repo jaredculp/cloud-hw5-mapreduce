@@ -1,0 +1,102 @@
+{
+  "created_at": "Sun Jul 01 16:05:58 +0000 2012",
+  "id": 219461853942779907,
+  "id_str": "219461853942779907",
+  "text": "RT @johnedwinmason: Crisis at #UVA -- A Visual Diary. From ouster to reinstatement: http://t.co/w1rnEqOm”",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21736132,
+    "id_str": "21736132",
+    "name": "cdouglas",
+    "screen_name": "homotopy",
+    "location": "San Francisco; Oxford; Boston.",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 208,
+    "friends_count": 211,
+    "listed_count": 8,
+    "created_at": "Tue Feb 24 07:01:43 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1669,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1839817495/chris-tahoe-cropped_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1839817495/chris-tahoe-cropped_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/21736132/1358143321",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/w1rnEqOm",
+        "expanded_url": "http://johnedwinmason.typepad.com/john_edwin_mason_photogra/2012/06/uva-sullivan-visual-diary.html",
+        "display_url": "johnedwinmason.typepad.com/john_edwin_mas…",
+        "indices": [
+          84,
+          104
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "johnedwinmason",
+        "name": "John Edwin Mason",
+        "id": 25343700,
+        "id_str": "25343700",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

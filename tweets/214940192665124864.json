@@ -1,0 +1,121 @@
+{
+  "created_at": "Tue Jun 19 04:38:29 +0000 2012",
+  "id": 214940192665124864,
+  "id_str": "214940192665124864",
+  "text": "Thanks to #uva #bov, I get to watch @jimmyfallon and @questlove  on-time instead of DVR'd for once! Up-side!",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17523725,
+    "id_str": "17523725",
+    "name": "Andrea SarateMcNeill",
+    "screen_name": "andreasarate",
+    "location": "Crozet, VA",
+    "description": "Marketing and Development Consultant",
+    "url": "http://www.magnifiremarketing.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.magnifiremarketing.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 315,
+    "friends_count": 303,
+    "listed_count": 21,
+    "created_at": "Thu Nov 20 22:00:22 +0000 2008",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1155,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1242321691/twitscuttle_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1242321691/twitscuttle_normal.jpg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          10,
+          14
+        ]
+      },
+      {
+        "text": "bov",
+        "indices": [
+          15,
+          19
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jimmyfallon",
+        "name": "jimmy fallon",
+        "id": 15485441,
+        "id_str": "15485441",
+        "indices": [
+          36,
+          48
+        ]
+      },
+      {
+        "screen_name": "questlove",
+        "name": "Questo of The Roots",
+        "id": 14939981,
+        "id_str": "14939981",
+        "indices": [
+          53,
+          63
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

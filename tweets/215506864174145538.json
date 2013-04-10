@@ -1,0 +1,108 @@
+{
+  "created_at": "Wed Jun 20 18:10:15 +0000 2012",
+  "id": 215506864174145538,
+  "id_str": "215506864174145538",
+  "text": "The @cavalierdaily deserves serious props for its coverage -- during summer break, no less! Look at what they FOIA-ed: http://t.co/FdI3y9pM.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14888467,
+    "id_str": "14888467",
+    "name": "David Gura",
+    "screen_name": "davidgura",
+    "location": "Washington, DC, USA",
+    "description": "In Washington, I'm David Gura, for @MarketplaceAPM",
+    "url": "http://www.marketplace.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.marketplace.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2254,
+    "friends_count": 1453,
+    "listed_count": 98,
+    "created_at": "Sat May 24 05:07:12 +0000 2008",
+    "favourites_count": 100,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4255,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2902993961/d82f985e225fdf4d28f841e95948d878_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2902993961/d82f985e225fdf4d28f841e95948d878_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14888467/1352929047",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/FdI3y9pM",
+        "expanded_url": "http://bit.ly/LebkV3",
+        "display_url": "bit.ly/LebkV3",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          4,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

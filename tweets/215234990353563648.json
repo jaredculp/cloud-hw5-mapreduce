@@ -1,0 +1,147 @@
+{
+  "created_at": "Wed Jun 20 00:09:55 +0000 2012",
+  "id": 215234990353563648,
+  "id_str": "215234990353563648",
+  "text": "#UVA faces this debacle b/c #Dragas, #BOV suffer from the Dunning Kruger Effect http://t.co/Pl42jPaR @johnedwinmason @amasays @slicksean",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 101123140,
+    "id_str": "101123140",
+    "name": "C'ville Bubble Blog",
+    "screen_name": "CvilleBubble",
+    "location": "Real(i)ty in Central Virginia",
+    "description": "Tracking: burst RE bubble in Charlottesville, VA area. Nationally, the next decade will see fewer individuals become property owners and many become renters.",
+    "url": "http://realcville.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://realcville.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 439,
+    "friends_count": 666,
+    "listed_count": 16,
+    "created_at": "Sat Jan 02 03:19:50 +0000 2010",
+    "favourites_count": 339,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2668,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "42704A",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/604811536/bubble_house_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/604811536/bubble_house_normal.jpg",
+    "profile_link_color": "54805C",
+    "profile_sidebar_border_color": "0F0901",
+    "profile_sidebar_fill_color": "B6DE97",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Dragas",
+        "indices": [
+          28,
+          35
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Pl42jPaR",
+        "expanded_url": "http://tinyurl.com/lf8nuk",
+        "display_url": "tinyurl.com/lf8nuk",
+        "indices": [
+          80,
+          100
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "johnedwinmason",
+        "name": "John Edwin Mason",
+        "id": 25343700,
+        "id_str": "25343700",
+        "indices": [
+          101,
+          116
+        ]
+      },
+      {
+        "screen_name": "amasays",
+        "name": "Anne-Marie Angelo",
+        "id": 17700609,
+        "id_str": "17700609",
+        "indices": [
+          117,
+          125
+        ]
+      },
+      {
+        "screen_name": "slicksean",
+        "name": "Sean M. Kennedy",
+        "id": 19784501,
+        "id_str": "19784501",
+        "indices": [
+          126,
+          136
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

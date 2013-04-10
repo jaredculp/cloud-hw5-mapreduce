@@ -1,0 +1,132 @@
+{
+  "created_at": "Tue Jun 19 20:14:58 +0000 2012",
+  "id": 215175864873259008,
+  "id_str": "215175864873259008",
+  "text": "@marimaschetti te mando de novo pelo face kk",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215169180402597888,
+  "in_reply_to_status_id_str": "215169180402597888",
+  "in_reply_to_user_id": 199476171,
+  "in_reply_to_user_id_str": "199476171",
+  "in_reply_to_screen_name": "marimaschetti",
+  "user": {
+    "id": 126469931,
+    "id_str": "126469931",
+    "name": "mayhrana :*",
+    "screen_name": "maayhrana_",
+    "location": "japurá ",
+    "description": "Pois se for meu, volta. Se não for pra ser, Deus sabe o que faz.\r\n\r\n\r\nmsn: maayhrana_@hotmail.com :*",
+    "url": "http://www.facebook.com/profile.php?id=100002948720790",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/profile.php?id=100002948720790",
+            "expanded_url": null,
+            "indices": [
+              0,
+              54
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 225,
+    "friends_count": 250,
+    "listed_count": 1,
+    "created_at": "Fri Mar 26 00:04:33 +0000 2010",
+    "favourites_count": 7,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 14021,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F00090",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/347968852/3709736013_d226e45897_m.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/347968852/3709736013_d226e45897_m.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3077795389/ba1e3bdbf75efe1653b201dfb41c2e99_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3077795389/ba1e3bdbf75efe1653b201dfb41c2e99_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/126469931/1356897740",
+    "profile_link_color": "FF4CEA",
+    "profile_sidebar_border_color": "EB0790",
+    "profile_sidebar_fill_color": "030303",
+    "profile_text_color": "006EF5",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "fdc94081ae5dabfb",
+    "url": "https://api.twitter.com/1.1/geo/id/fdc94081ae5dabfb.json",
+    "place_type": "city",
+    "name": "Mandaguaçu",
+    "full_name": "Mandaguaçu, Paraná",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -52.176944,
+            -23.417846
+          ],
+          [
+            -51.956713,
+            -23.417846
+          ],
+          [
+            -51.956713,
+            -23.154869
+          ],
+          [
+            -52.176944,
+            -23.154869
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "marimaschetti",
+        "name": "mari maschetti",
+        "id": 199476171,
+        "id_str": "199476171",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

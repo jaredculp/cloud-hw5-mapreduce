@@ -1,0 +1,118 @@
+{
+  "created_at": "Fri Jun 22 16:15:41 +0000 2012",
+  "id": 216202810432294912,
+  "id_str": "216202810432294912",
+  "text": "Passing along @MissOzAtl RT @chronicle: How power dynamics at #UVA will change if #Sullivan is reinstated: http://t.co/clotml7E",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 172979781,
+    "id_str": "172979781",
+    "name": "Mister Chris",
+    "screen_name": "MrChrisSoto",
+    "location": "The Whaling City",
+    "description": "Facilitator of #CollegeAccess, (un) Official Spokesman for #Suavitel, Always #PayingItForward.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 224,
+    "friends_count": 196,
+    "listed_count": 6,
+    "created_at": "Sat Jul 31 03:06:21 +0000 2010",
+    "favourites_count": 77,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5536,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/161704616/BSR_TMP_AD.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/161704616/BSR_TMP_AD.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1310824825/Twitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1310824825/Twitter_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          62,
+          66
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          82,
+          91
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/clotml7E",
+        "expanded_url": "http://chroni.cl/MbZ4DH",
+        "display_url": "chroni.cl/MbZ4DH",
+        "indices": [
+          107,
+          127
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MissOzAtl",
+        "name": "Elizabeth Oswald",
+        "id": 301516019,
+        "id_str": "301516019",
+        "indices": [
+          14,
+          24
+        ]
+      },
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          28,
+          38
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

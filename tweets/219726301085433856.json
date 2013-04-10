@@ -1,0 +1,93 @@
+{
+  "created_at": "Mon Jul 02 09:36:47 +0000 2012",
+  "id": 219726301085433856,
+  "id_str": "219726301085433856",
+  "text": "@RaquelBarberaG jajajaj qe risa #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 219720344607526913,
+  "in_reply_to_status_id_str": "219720344607526913",
+  "in_reply_to_user_id": 413262518,
+  "in_reply_to_user_id_str": "413262518",
+  "in_reply_to_screen_name": "RaquelBarberaG",
+  "user": {
+    "id": 347856186,
+    "id_str": "347856186",
+    "name": "SANDRA. ",
+    "screen_name": "sandraa1397",
+    "location": "AGULLENT :)",
+    "description": "Estudiante de 4º de ESO. Podrán imitarnos, pero igualarnos jamás. Y.O.L.O como forma de vida. Tributo.∞",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 271,
+    "friends_count": 407,
+    "listed_count": 0,
+    "created_at": "Wed Aug 03 13:39:26 +0000 2011",
+    "favourites_count": 73,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10472,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/774756930/9dc8dd41d740cbab1060c456a2aee58c.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/774756930/9dc8dd41d740cbab1060c456a2aee58c.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3064472437/2857388346e5c45cd712b1289ea0a2f9_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3064472437/2857388346e5c45cd712b1289ea0a2f9_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/347856186/1358464934",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "3A9DC4",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          32,
+          36
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RaquelBarberaG",
+        "name": "JBG.",
+        "id": 413262518,
+        "id_str": "413262518",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

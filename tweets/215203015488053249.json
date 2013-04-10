@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 19 22:02:51 +0000 2012",
+  "id": 215203015488053249,
+  "id_str": "215203015488053249",
+  "text": "RT @TJs_Ghost: My hat is off to Prof. Wulf.  A true man of integrity if ever there was.  I wish him all the best.  #UVa",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15504575,
+    "id_str": "15504575",
+    "name": "Peter LaMarca",
+    "screen_name": "PeterLaMarca",
+    "location": "ÜT: 38.297422,-77.515034",
+    "description": "Repeat to yourself - It's just a show, I should really just relax",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 110,
+    "friends_count": 481,
+    "listed_count": 1,
+    "created_at": "Sun Jul 20 18:45:54 +0000 2008",
+    "favourites_count": 26,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 584,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/18509309/Shocker3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/18509309/Shocker3.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/602474989/NPH_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/602474989/NPH_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          115,
+          119
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TJs_Ghost",
+        "name": "Thomas Jefferson",
+        "id": 612765489,
+        "id_str": "612765489",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

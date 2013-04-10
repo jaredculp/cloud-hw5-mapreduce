@@ -1,0 +1,156 @@
+{
+  "created_at": "Mon Aug 27 19:04:41 +0000 2012",
+  "id": 240162941771583488,
+  "id_str": "240162941771583488",
+  "text": "Listen to the local buzz for #Sullivan, #Indiana here! http://t.co/jtCpUl0W",
+  "source": "<a href=\"http://screamradius.com\" rel=\"nofollow\">screamradius</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 284534859,
+    "id_str": "284534859",
+    "name": "Scream Radius",
+    "screen_name": "screamradius",
+    "location": "",
+    "description": "",
+    "url": "http://screamradius.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://screamradius.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1765,
+    "friends_count": 1,
+    "listed_count": 41,
+    "created_at": "Tue Apr 19 13:25:23 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 537784,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1340624492/screamradius_logo_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1340624492/screamradius_logo_normal.gif",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      39.101018,
+      -87.410235
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -87.410235,
+      39.101018
+    ]
+  },
+  "place": {
+    "id": "b0d7cc29eb358470",
+    "url": "https://api.twitter.com/1.1/geo/id/b0d7cc29eb358470.json",
+    "place_type": "city",
+    "name": "Sullivan",
+    "full_name": "Sullivan, IN",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -87.418928,
+            39.081188
+          ],
+          [
+            -87.390707,
+            39.081188
+          ],
+          [
+            -87.390707,
+            39.115738
+          ],
+          [
+            -87.418928,
+            39.115738
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          29,
+          38
+        ]
+      },
+      {
+        "text": "Indiana",
+        "indices": [
+          40,
+          48
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/jtCpUl0W",
+        "expanded_url": "http://bit.ly/odXSOK",
+        "display_url": "bit.ly/odXSOK",
+        "indices": [
+          55,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

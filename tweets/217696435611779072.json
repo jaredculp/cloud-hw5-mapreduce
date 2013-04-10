@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 26 19:10:49 +0000 2012",
+  "id": 217696435611779072,
+  "id_str": "217696435611779072",
+  "text": "Vocês já devem ter ouvido falar que o #óleo de semente de #uva faz bem para a pele, mas sabe o por quê?! http://t.co/f9UsK03I",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 64727564,
+    "id_str": "64727564",
+    "name": "Granado Pharmácias",
+    "screen_name": "granado_oficial",
+    "location": "Rua Primeiro de Março, 14/16",
+    "description": "Botica mais antiga do Brasil, a Granado foi fundada em 1870.",
+    "url": "http://www.granado.com.br",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.granado.com.br",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 13849,
+    "friends_count": 52,
+    "listed_count": 329,
+    "created_at": "Tue Aug 11 14:29:28 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Santiago",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5010,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D6E7B7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/373660015/Nova_Imagem__5_.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/373660015/Nova_Imagem__5_.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2911046375/ae3412d0bccfafe987d562ecc2aa5833_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2911046375/ae3412d0bccfafe987d562ecc2aa5833_normal.png",
+    "profile_link_color": "5D874E",
+    "profile_sidebar_border_color": "5D874E",
+    "profile_sidebar_fill_color": "EBEBEB",
+    "profile_text_color": "073800",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "óleo",
+        "indices": [
+          38,
+          43
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          58,
+          62
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/f9UsK03I",
+        "expanded_url": "http://tinyurl.com/c4yrdt8",
+        "display_url": "tinyurl.com/c4yrdt8",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,106 @@
+{
+  "created_at": "Mon Aug 06 12:59:19 +0000 2012",
+  "id": 232460848487075840,
+  "id_str": "232460848487075840",
+  "text": "@kpalmer419 KP! I met #UVa Olympians last night in London and talked about how awesome you are #smallworld #whitespot",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 44673224,
+  "in_reply_to_user_id_str": "44673224",
+  "in_reply_to_screen_name": "kpalmer419",
+  "user": {
+    "id": 20941860,
+    "id_str": "20941860",
+    "name": "Dave Strumpf",
+    "screen_name": "DaveStrumpf",
+    "location": "Los Angeles, CA",
+    "description": "Videographer/Editor for NFL on FOX. I also like to start slow claps.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 227,
+    "friends_count": 435,
+    "listed_count": 3,
+    "created_at": "Sun Feb 15 22:08:38 +0000 2009",
+    "favourites_count": 133,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 895,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1285657323/photo-4_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1285657323/photo-4_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          22,
+          26
+        ]
+      },
+      {
+        "text": "smallworld",
+        "indices": [
+          95,
+          106
+        ]
+      },
+      {
+        "text": "whitespot",
+        "indices": [
+          107,
+          117
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kpalmer419",
+        "name": "Katharine Palmer",
+        "id": 44673224,
+        "id_str": "44673224",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

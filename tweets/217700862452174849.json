@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 19:28:24 +0000 2012",
+  "id": 217700862452174849,
+  "id_str": "217700862452174849",
+  "text": "RT @TheUVAFool: The #UVA Board of Visitors unanimously votes to reinstate President Sullivan.",
+  "source": "<a href=\"http://www.osfoora.com\" rel=\"nofollow\">Osfoora HD</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 210979398,
+    "id_str": "210979398",
+    "name": "Jon Barber",
+    "screen_name": "hoosjon",
+    "location": "central Virginia",
+    "description": "UVa grad, Middle School teacher, lover of beaches, baseball (Braves), Buffett, and probably a whole bunch of other things that start with B.",
+    "url": "http://hoosjon.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://hoosjon.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 484,
+    "friends_count": 583,
+    "listed_count": 20,
+    "created_at": "Mon Nov 01 23:35:55 +0000 2010",
+    "favourites_count": 23,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7503,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F0F4F5",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/763285824/f336ebfb3247e87a80bf77646d6beb05.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/763285824/f336ebfb3247e87a80bf77646d6beb05.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3100648934/d307baa8fd91243db9c6d26ea3210989_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3100648934/d307baa8fd91243db9c6d26ea3210989_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/210979398/1358031118",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

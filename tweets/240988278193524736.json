@@ -1,0 +1,100 @@
+{
+  "created_at": "Thu Aug 30 01:44:17 +0000 2012",
+  "id": 240988278193524736,
+  "id_str": "240988278193524736",
+  "text": "@swhoustontony I’m gonna have to go  #VATECH or #UVA. Because idk if I like college football! I be jumping on the bandwagon! But I’m from VA",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 240987664516526080,
+  "in_reply_to_status_id_str": "240987664516526080",
+  "in_reply_to_user_id": 451181989,
+  "in_reply_to_user_id_str": "451181989",
+  "in_reply_to_screen_name": "swhoustontony",
+  "user": {
+    "id": 203957378,
+    "id_str": "203957378",
+    "name": "Jaya Randolph",
+    "screen_name": "iheart_jaya",
+    "location": "America ",
+    "description": "Owner of @TRC_1... working on a master plan. Good girl got her mind right. She been raised right...\nIG: @miijess\n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 731,
+    "friends_count": 768,
+    "listed_count": 2,
+    "created_at": "Sun Oct 17 15:55:13 +0000 2010",
+    "favourites_count": 1779,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 18742,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/275598397/bubbly_glass_byob.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/275598397/bubbly_glass_byob.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3165266034/7f76b8436043c5d6b86085c7d45cd943_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3165266034/7f76b8436043c5d6b86085c7d45cd943_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/203957378/1355786611",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "VATECH",
+        "indices": [
+          37,
+          44
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "swhoustontony",
+        "name": "OG Slim Tony",
+        "id": 451181989,
+        "id_str": "451181989",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

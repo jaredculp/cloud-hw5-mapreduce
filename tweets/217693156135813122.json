@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 18:57:47 +0000 2012",
+  "id": 217693156135813122,
+  "id_str": "217693156135813122",
+  "text": "We're watching a live stream of the #UVA meeting (3p ET) to discuss Sullivan's presidency: http://t.co/2PemJKvm",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29476717,
+    "id_str": "29476717",
+    "name": "Virginia Quarterly",
+    "screen_name": "VQR",
+    "location": "Charlottesville, VA, USA",
+    "description": "The Virginia Quarterly Review is an award-winning journal of literature and discussion, established in 1925. Tweets by @JaneFriedman & @wrightallison",
+    "url": "http://www.vqronline.org/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.vqronline.org/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6384,
+    "friends_count": 148,
+    "listed_count": 406,
+    "created_at": "Tue Apr 07 16:00:39 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 891,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2706196148/ddce877120ef83b4a8fe12c71ae672e9_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2706196148/ddce877120ef83b4a8fe12c71ae672e9_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/29476717/1349979845",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          36,
+          40
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/2PemJKvm",
+        "expanded_url": "http://www.virginia.edu/bov/live/",
+        "display_url": "virginia.edu/bov/live/",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

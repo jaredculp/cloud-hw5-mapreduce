@@ -1,0 +1,107 @@
+{
+  "created_at": "Sat Aug 18 01:57:41 +0000 2012",
+  "id": 236642996500713472,
+  "id_str": "236642996500713472",
+  "text": "@mcrsummertime Que no es #manzana, es #uva hahaha... #Quieroirmee",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 236637987117617152,
+  "in_reply_to_status_id_str": "236637987117617152",
+  "in_reply_to_user_id": 512565764,
+  "in_reply_to_user_id_str": "512565764",
+  "in_reply_to_screen_name": "mcrsummertime",
+  "user": {
+    "id": 271599349,
+    "id_str": "271599349",
+    "name": "Natalia Alvear G",
+    "screen_name": "Nalga730",
+    "location": "",
+    "description": "Terca, consentida, celosa y enamorada... Esa soy yo! Fiel a Di♥s... Lovu P.S",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 138,
+    "friends_count": 363,
+    "listed_count": 0,
+    "created_at": "Thu Mar 24 20:52:01 +0000 2011",
+    "favourites_count": 586,
+    "utc_offset": -18000,
+    "time_zone": "Bogota",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3660,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/664636418/680f3243aaebb2a9e666b74fafe6e2f0.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/664636418/680f3243aaebb2a9e666b74fafe6e2f0.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3149301349/bac24252b40864ea6ad33f25c21588e6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3149301349/bac24252b40864ea6ad33f25c21588e6_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/271599349/1358884024",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "manzana",
+        "indices": [
+          25,
+          33
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          38,
+          42
+        ]
+      },
+      {
+        "text": "Quieroirmee",
+        "indices": [
+          53,
+          65
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mcrsummertime",
+        "name": "Camilo",
+        "id": 512565764,
+        "id_str": "512565764",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

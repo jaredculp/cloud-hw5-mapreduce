@@ -1,0 +1,112 @@
+{
+  "created_at": "Tue Jun 26 19:41:30 +0000 2012",
+  "id": 217704156943757312,
+  "id_str": "217704156943757312",
+  "text": "no way! awesome! totally didn't think it would happen. #istandcorrected RT @embolecek SULLIVAN REINSTATED. #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217702049838665730,
+  "in_reply_to_status_id_str": "217702049838665730",
+  "in_reply_to_user_id": 357700679,
+  "in_reply_to_user_id_str": "357700679",
+  "in_reply_to_screen_name": "embolecek",
+  "user": {
+    "id": 511013447,
+    "id_str": "511013447",
+    "name": "Natasha Daly",
+    "screen_name": "hipapercrowns",
+    "location": "Charlottesville, VA",
+    "description": "Graphic designer. Blogger. Animal lover. Toronto native turned Virginia transplant. Typography freak. Permanent wanderlust.",
+    "url": "http://papercrownsblog.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://papercrownsblog.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 354,
+    "friends_count": 145,
+    "listed_count": 4,
+    "created_at": "Thu Mar 01 23:13:23 +0000 2012",
+    "favourites_count": 176,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 886,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/438975332/pink_twitter.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/438975332/pink_twitter.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2703852305/b892380e87fc50bf333ab884972b5b2e_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2703852305/b892380e87fc50bf333ab884972b5b2e_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/511013447/1354042330",
+    "profile_link_color": "F0C0B7",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "istandcorrected",
+        "indices": [
+          55,
+          71
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          107,
+          111
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "embolecek",
+        "name": "Emily Bolecek",
+        "id": 357700679,
+        "id_str": "357700679",
+        "indices": [
+          75,
+          85
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

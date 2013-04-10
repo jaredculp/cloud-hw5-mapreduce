@@ -1,0 +1,93 @@
+{
+  "created_at": "Fri Jun 22 22:18:34 +0000 2012",
+  "id": 216294132564508672,
+  "id_str": "216294132564508672",
+  "text": "@miriamkp Sorry.  Novice tweeter.  in light of events at #UVA, looks like the neoliberalization of higher ed is only gaining pace.",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216274068222128130,
+  "in_reply_to_status_id_str": "216274068222128130",
+  "in_reply_to_user_id": 56812711,
+  "in_reply_to_user_id_str": "56812711",
+  "in_reply_to_screen_name": "miriamkp",
+  "user": {
+    "id": 181389160,
+    "id_str": "181389160",
+    "name": "Jeffrey Cordell",
+    "screen_name": "jcordell",
+    "location": "Ann Arbor and Alma (MI)",
+    "description": "My outpost in the digital hazarai. I teach in the English department at Alma College.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 37,
+    "friends_count": 207,
+    "listed_count": 3,
+    "created_at": "Sun Aug 22 02:21:36 +0000 2010",
+    "favourites_count": 79,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 433,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1672382352/200px-NYP_LOC5_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1672382352/200px-NYP_LOC5_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/181389160/1359655889",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          57,
+          61
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "miriamkp",
+        "name": "Miriam Posner",
+        "id": 56812711,
+        "id_str": "56812711",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

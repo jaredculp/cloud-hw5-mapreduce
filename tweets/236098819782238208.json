@@ -1,0 +1,146 @@
+{
+  "created_at": "Thu Aug 16 13:55:19 +0000 2012",
+  "id": 236098819782238208,
+  "id_str": "236098819782238208",
+  "text": "I love irony like this #UVA h/t @JimDuncan https://t.co/zd6kyQjK",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 9463702,
+    "id_str": "9463702",
+    "name": "Jeremy Hart",
+    "screen_name": "NRVLiving",
+    "location": "Blacksburg, VA",
+    "description": "I'm a human, raised by humans. I'm also a Realtor (http://www.NRVLiving.com) who runs a recycling business (http://www.RecycleNRV.com). But first I'm a human. ",
+    "url": "http://www.NRVLiving.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.NRVLiving.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2709,
+    "friends_count": 447,
+    "listed_count": 156,
+    "created_at": "Mon Oct 15 21:30:24 +0000 2007",
+    "favourites_count": 115,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 26684,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/165192460/NRVLiving_twitter_background2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/165192460/NRVLiving_twitter_background2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1787766827/Jeremy_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1787766827/Jeremy_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "820684853e0f1eb6",
+    "url": "https://api.twitter.com/1.1/geo/id/820684853e0f1eb6.json",
+    "place_type": "city",
+    "name": "Blacksburg",
+    "full_name": "Blacksburg, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -80.480388,
+            37.183976
+          ],
+          [
+            -80.381727,
+            37.183976
+          ],
+          [
+            -80.381727,
+            37.276927
+          ],
+          [
+            -80.480388,
+            37.276927
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          23,
+          27
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/zd6kyQjK",
+        "expanded_url": "https://twitter.com/McDonoughLawVA/statuses/236089340336427008",
+        "display_url": "twitter.com/McDonoughLawVA…",
+        "indices": [
+          43,
+          64
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JimDuncan",
+        "name": "Jim Duncan",
+        "id": 3308171,
+        "id_str": "3308171",
+        "indices": [
+          32,
+          42
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

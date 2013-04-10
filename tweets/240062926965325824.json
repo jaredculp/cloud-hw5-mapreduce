@@ -1,0 +1,119 @@
+{
+  "created_at": "Mon Aug 27 12:27:16 +0000 2012",
+  "id": 240062926965325824,
+  "id_str": "240062926965325824",
+  "text": "Fallece Carlos de Francisco Garrido, exvicerrector de la UVa en una playa de Torreblanca, Castellón http://t.co/FYUaQXzq #cyl #UVa",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 31446649,
+    "id_str": "31446649",
+    "name": "rtvcyl",
+    "screen_name": "rtvcyl",
+    "location": "Castilla y León",
+    "description": "La televisión autonómica de Castilla y León. También en Facebook: http://t.co/GjRI7xSW",
+    "url": "http://www.rtvcyl.es/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.rtvcyl.es/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/GjRI7xSW",
+            "expanded_url": "http://www.facebook.com/rtvcyl",
+            "display_url": "facebook.com/rtvcyl",
+            "indices": [
+              66,
+              86
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7024,
+    "friends_count": 446,
+    "listed_count": 279,
+    "created_at": "Wed Apr 15 16:25:55 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 21533,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FAFAFA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/546876599/paraguas_3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/546876599/paraguas_3.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2199126259/rtvcyl_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2199126259/rtvcyl_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cyl",
+        "indices": [
+          121,
+          125
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          126,
+          130
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/FYUaQXzq",
+        "expanded_url": "http://ht.ly/dfJYe",
+        "display_url": "ht.ly/dfJYe",
+        "indices": [
+          100,
+          120
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

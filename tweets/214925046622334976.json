@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 03:38:18 +0000 2012",
+  "id": 214925046622334976,
+  "id_str": "214925046622334976",
+  "text": "If http://t.co/Hsa4CtI9 #UVA story correct, only 4 voting members defecting from Dargas would put #BOV at 8-7 in favor of  Sullivan.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19355910,
+    "id_str": "19355910",
+    "name": "Douglas Reed",
+    "screen_name": "douglasreed",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 18,
+    "friends_count": 9,
+    "listed_count": 0,
+    "created_at": "Thu Jan 22 19:32:33 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          24,
+          28
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          98,
+          102
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Hsa4CtI9",
+        "expanded_url": "http://nyti.ms/M2E6Hi",
+        "display_url": "nyti.ms/M2E6Hi",
+        "indices": [
+          3,
+          23
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

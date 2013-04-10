@@ -1,0 +1,112 @@
+{
+  "created_at": "Sat Jun 23 16:25:53 +0000 2012",
+  "id": 216567764956102656,
+  "id_str": "216567764956102656",
+  "text": "@Loki4Us @Slate @LarrySabato I've started tracking #JeffBezos and will post daily about this would-be robber baron. Please follow. -jhg",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 214143768054599680,
+  "in_reply_to_status_id_str": "214143768054599680",
+  "in_reply_to_user_id": 59928558,
+  "in_reply_to_user_id_str": "59928558",
+  "in_reply_to_screen_name": "Loki4Us",
+  "user": {
+    "id": 615708722,
+    "id_str": "615708722",
+    "name": "jhg",
+    "screen_name": "TheBezosReport",
+    "location": "nyc",
+    "description": "Let's keep an eye on this guy.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 22,
+    "friends_count": 29,
+    "listed_count": 0,
+    "created_at": "Sat Jun 23 02:00:40 +0000 2012",
+    "favourites_count": 2,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 92,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2332390059/ontc3bkruuxuf0onih6v_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2332390059/ontc3bkruuxuf0onih6v_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "JeffBezos",
+        "indices": [
+          51,
+          61
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Loki4Us",
+        "name": "Kelly",
+        "id": 59928558,
+        "id_str": "59928558",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "Slate",
+        "name": "Slate",
+        "id": 15164565,
+        "id_str": "15164565",
+        "indices": [
+          9,
+          15
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          16,
+          28
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

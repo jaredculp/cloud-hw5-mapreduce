@@ -1,0 +1,194 @@
+{
+  "created_at": "Wed Jun 20 02:10:22 +0000 2012",
+  "id": 215265303570030595,
+  "id_str": "215265303570030595",
+  "text": "RT @vgmac: #UVa Computer Sciences Prof resigns over debacle, says \"University is headed for disaster.\" http://t.co/zydlGYs0",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 63022907,
+    "id_str": "63022907",
+    "name": "Brian Seavey",
+    "screen_name": "brian_cv",
+    "location": "north carolina, usa",
+    "description": "duke. global health. and sometimes, footie.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 119,
+    "friends_count": 466,
+    "listed_count": 6,
+    "created_at": "Wed Aug 05 03:45:54 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 331,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1668504587/290953_10100242385778766_1504552_48403624_1853588827_o_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1668504587/290953_10100242385778766_1504552_48403624_1853588827_o_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 19 20:50:32 +0000 2012",
+    "id": 215184816814030848,
+    "id_str": "215184816814030848",
+    "text": "#UVa Computer Sciences Prof resigns over debacle, says \"University is headed for disaster.\" http://t.co/zydlGYs0",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 60763047,
+      "id_str": "60763047",
+      "name": "Victoria McGrane",
+      "screen_name": "vgmac",
+      "location": "Washington, DC",
+      "description": "WSJ reporter covering the Fed & the economy RTs not meant to endorse. For real. Email me: victoria.mcgrane@wsj.com",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2265,
+      "friends_count": 390,
+      "listed_count": 109,
+      "created_at": "Tue Jul 28 00:50:40 +0000 2009",
+      "favourites_count": 53,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4149,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1430759708/headshot1_big_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1430759708/headshot1_big_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/60763047/1359648538",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 4,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVa",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/zydlGYs0",
+          "expanded_url": "http://bit.ly/NNWbe4",
+          "display_url": "bit.ly/NNWbe4",
+          "indices": [
+            92,
+            112
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          11,
+          15
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zydlGYs0",
+        "expanded_url": "http://bit.ly/NNWbe4",
+        "display_url": "bit.ly/NNWbe4",
+        "indices": [
+          103,
+          123
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "vgmac",
+        "name": "Victoria McGrane",
+        "id": 60763047,
+        "id_str": "60763047",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

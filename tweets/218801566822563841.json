@@ -1,0 +1,109 @@
+{
+  "created_at": "Fri Jun 29 20:22:13 +0000 2012",
+  "id": 218801566822563841,
+  "id_str": "218801566822563841",
+  "text": "Ridiculous RT @amaxsmith: Gov McDonnell reappoints Helen #Dragas to #UVA board of visitors. @WTOP",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16958788,
+    "id_str": "16958788",
+    "name": "Satirical Alexandria",
+    "screen_name": "SatirclAlx",
+    "location": "Alexandria, VA",
+    "description": "Mind your own vagina! #prochoice Opinions are my own.  Dem activist & hellraiser. Proudly blocked for a while by @bobmcdonnell & @notlarrysabato. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1117,
+    "friends_count": 678,
+    "listed_count": 67,
+    "created_at": "Fri Oct 24 23:15:14 +0000 2008",
+    "favourites_count": 143,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 27135,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/715648431/Alexandria_sign_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/715648431/Alexandria_sign_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Dragas",
+        "indices": [
+          57,
+          64
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          68,
+          72
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "amaxsmith",
+        "name": "Max Smith",
+        "id": 44951698,
+        "id_str": "44951698",
+        "indices": [
+          14,
+          24
+        ]
+      },
+      {
+        "screen_name": "WTOP",
+        "name": "WTOP ",
+        "id": 17906632,
+        "id_str": "17906632",
+        "indices": [
+          92,
+          97
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

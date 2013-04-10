@@ -1,0 +1,125 @@
+{
+  "created_at": "Fri Jun 22 02:41:48 +0000 2012",
+  "id": 215997989087477762,
+  "id_str": "215997989087477762",
+  "text": "@TinaTGordon @johnedwinmason @cavalierdaily Seems a poor use of funds for a lady so concerned about the funding of #UVA....",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215996553729556480,
+  "in_reply_to_status_id_str": "215996553729556480",
+  "in_reply_to_user_id": 463111612,
+  "in_reply_to_user_id_str": "463111612",
+  "in_reply_to_screen_name": "TinaTGordon",
+  "user": {
+    "id": 179785566,
+    "id_str": "179785566",
+    "name": "Main Street Muse",
+    "screen_name": "MainStreetMuse",
+    "location": "Main Street, USA",
+    "description": "Observations on the state of the nation, from a location somewhere on Main Street.",
+    "url": "http://wardonwords.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://wardonwords.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 186,
+    "friends_count": 673,
+    "listed_count": 1,
+    "created_at": "Wed Aug 18 03:05:40 +0000 2010",
+    "favourites_count": 10,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4923,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2948972006/f248507d326423561e2df5e89afc7cff_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2948972006/f248507d326423561e2df5e89afc7cff_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/179785566/1354993172",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          115,
+          119
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TinaTGordon",
+        "name": "Tina Gordon",
+        "id": 463111612,
+        "id_str": "463111612",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "johnedwinmason",
+        "name": "John Edwin Mason",
+        "id": 25343700,
+        "id_str": "25343700",
+        "indices": [
+          13,
+          28
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          29,
+          43
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,123 @@
+{
+  "created_at": "Tue Jun 26 16:11:25 +0000 2012",
+  "id": 217651288987545601,
+  "id_str": "217651288987545601",
+  "text": "#UVA RT @EconWhichMBA: The chaos besetting the University of Virginia spreads to its business school @DardenMBA  http://t.co/vQTMdkBI",
+  "source": "<a href=\"http://seesmic.com/\" rel=\"nofollow\">Seesmic</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 111032177,
+    "id_str": "111032177",
+    "name": "Kathryn Garrett",
+    "screen_name": "klg2a",
+    "location": "Washington, DC",
+    "description": "Strategic communications, cultural patrimony, built environment, kitchen experimentation and tasty cocktails. Diehard Redskins fan (@hailftr). ",
+    "url": "http://klg2a.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://klg2a.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 497,
+    "friends_count": 777,
+    "listed_count": 22,
+    "created_at": "Wed Feb 03 15:45:30 +0000 2010",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2494,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B8FA5",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/74470424/x93fe2fdc901cd0c144bf5f97259d02d.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/74470424/x93fe2fdc901cd0c144bf5f97259d02d.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2522809321/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2522809321/image_normal.jpg",
+    "profile_link_color": "9C266A",
+    "profile_sidebar_border_color": "FAF2C4",
+    "profile_sidebar_fill_color": "AED8BB",
+    "profile_text_color": "955283",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/vQTMdkBI",
+        "expanded_url": "http://bit.ly/MVftr9",
+        "display_url": "bit.ly/MVftr9",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "EconWhichMBA",
+        "name": "The Economist",
+        "id": 32362338,
+        "id_str": "32362338",
+        "indices": [
+          8,
+          21
+        ]
+      },
+      {
+        "screen_name": "DardenMBA",
+        "name": "Darden School at UVA",
+        "id": 28177507,
+        "id_str": "28177507",
+        "indices": [
+          101,
+          111
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

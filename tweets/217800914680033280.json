@@ -1,0 +1,99 @@
+{
+  "created_at": "Wed Jun 27 02:05:59 +0000 2012",
+  "id": 217800914680033280,
+  "id_str": "217800914680033280",
+  "text": "@mikescott congrats man, way to rep #cville #757 and good ole #UVA",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217797973332066305,
+  "in_reply_to_status_id_str": "217797973332066305",
+  "in_reply_to_user_id": 150367583,
+  "in_reply_to_user_id_str": "150367583",
+  "in_reply_to_screen_name": "mikescott",
+  "user": {
+    "id": 282886281,
+    "id_str": "282886281",
+    "name": "Andy Argaud",
+    "screen_name": "reppnAsquared",
+    "location": "norfolk",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 82,
+    "friends_count": 108,
+    "listed_count": 1,
+    "created_at": "Sat Apr 16 04:12:57 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 601,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1730659919/LoVO0fq3_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1730659919/LoVO0fq3_normal",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cville",
+        "indices": [
+          36,
+          43
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

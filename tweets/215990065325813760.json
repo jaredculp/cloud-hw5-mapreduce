@@ -1,0 +1,86 @@
+{
+  "created_at": "Fri Jun 22 02:10:19 +0000 2012",
+  "id": 215990065325813760,
+  "id_str": "215990065325813760",
+  "text": "@LarrySabato For those of us not familiar with UVA, why was Teresa Sullivan ousted, and why are people so upset? Or does it take a volume?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215986611983351809,
+  "in_reply_to_status_id_str": "215986611983351809",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 432660423,
+    "id_str": "432660423",
+    "name": "Bruce Pettit",
+    "screen_name": "Brudunpet",
+    "location": "San Francisco",
+    "description": "Religion and politics, the two topics that cause family fights, are my favorite topics.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4,
+    "friends_count": 17,
+    "listed_count": 0,
+    "created_at": "Fri Dec 09 16:56:01 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -32400,
+    "time_zone": "Alaska",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 29,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

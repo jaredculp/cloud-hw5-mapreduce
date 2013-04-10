@@ -1,0 +1,103 @@
+{
+  "created_at": "Tue Jun 19 16:42:34 +0000 2012",
+  "id": 215122411752919040,
+  "id_str": "215122411752919040",
+  "text": "I know nothing about the scandal at #UVA but I'm still irate. #Sullivan.",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 9083222,
+    "id_str": "9083222",
+    "name": "Sam Riegel",
+    "screen_name": "samriegel",
+    "location": "El Ay",
+    "description": "I speak English for a living",
+    "url": "http://www.riegelandblatt.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.riegelandblatt.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2776,
+    "friends_count": 149,
+    "listed_count": 101,
+    "created_at": "Tue Sep 25 02:57:09 +0000 2007",
+    "favourites_count": 52,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4899,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/18285748/DSC00230.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/18285748/DSC00230.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2039987151/AprIJ2PCEAAZdyJ_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2039987151/AprIJ2PCEAAZdyJ_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/9083222/1354219501",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          36,
+          40
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          62,
+          71
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

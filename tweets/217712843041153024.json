@@ -1,0 +1,84 @@
+{
+  "created_at": "Tue Jun 26 20:16:01 +0000 2012",
+  "id": 217712843041153024,
+  "id_str": "217712843041153024",
+  "text": "#uva means grape in spanish",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 48481113,
+    "id_str": "48481113",
+    "name": "Oprah Jr.",
+    "screen_name": "BabyVeeVee",
+    "location": "New York",
+    "description": "not for individual sale",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 156,
+    "friends_count": 112,
+    "listed_count": 1,
+    "created_at": "Thu Jun 18 20:38:01 +0000 2009",
+    "favourites_count": 85,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4370,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/676912391/63cb3bdd48f1a3b4976e05ab27911525.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/676912391/63cb3bdd48f1a3b4976e05ab27911525.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2985492633/aaa6b482457c54c2a22b7f9c524202d4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2985492633/aaa6b482457c54c2a22b7f9c524202d4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/48481113/1349400545",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,127 @@
+{
+  "created_at": "Sat Aug 04 19:45:12 +0000 2012",
+  "id": 231838213449338880,
+  "id_str": "231838213449338880",
+  "text": ".@uvalacrosse .@UVAMensLacrosse needs @MotivePure ! #uva #lacrosse #virginia",
+  "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 66898419,
+    "id_str": "66898419",
+    "name": "UVA Lax Fan",
+    "screen_name": "uvalaxfan",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 161,
+    "friends_count": 308,
+    "listed_count": 6,
+    "created_at": "Wed Aug 19 03:32:01 +0000 2009",
+    "favourites_count": 18,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1875,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/426140575/IMG_0302.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/426140575/IMG_0302.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2946241136/a3107dfb5010cfe3d3acc893b3b473cf_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2946241136/a3107dfb5010cfe3d3acc893b3b473cf_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/66898419/1354939410",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          52,
+          56
+        ]
+      },
+      {
+        "text": "lacrosse",
+        "indices": [
+          57,
+          66
+        ]
+      },
+      {
+        "text": "virginia",
+        "indices": [
+          67,
+          76
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "uvalacrosse",
+        "name": "Fan of UVA Lacrosse",
+        "id": 66900849,
+        "id_str": "66900849",
+        "indices": [
+          1,
+          13
+        ]
+      },
+      {
+        "screen_name": "UVAMensLacrosse",
+        "name": "Virginia Lacrosse",
+        "id": 214466998,
+        "id_str": "214466998",
+        "indices": [
+          15,
+          31
+        ]
+      },
+      {
+        "screen_name": "MotivePure",
+        "name": "Motive Pure",
+        "id": 223842999,
+        "id_str": "223842999",
+        "indices": [
+          38,
+          49
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

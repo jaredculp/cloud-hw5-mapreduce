@@ -1,0 +1,108 @@
+{
+  "created_at": "Tue Jun 26 17:11:17 +0000 2012",
+  "id": 217666355237888001,
+  "id_str": "217666355237888001",
+  "text": "#Sullivan tuning in at 3 pm\"@UVA: More than 200 people are already viewing the empty #UVa board room at http://t.co/3w9ngYSR\"",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19400793,
+    "id_str": "19400793",
+    "name": "LaTonya Sadler",
+    "screen_name": "LaTonyaSadler",
+    "location": "Miami",
+    "description": "ENTJ, connecter, relationship-builder, believes in the power of pull. Forever a Miami Hurricane.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1722,
+    "friends_count": 820,
+    "listed_count": 86,
+    "created_at": "Fri Jan 23 16:26:08 +0000 2009",
+    "favourites_count": 189,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10511,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4CC5AA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/677691000/8391d6c3e8c5138ce4cfc07c276032c1.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/677691000/8391d6c3e8c5138ce4cfc07c276032c1.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1850826458/profile_pic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1850826458/profile_pic_normal.jpg",
+    "profile_link_color": "543D39",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDDDDD",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          85,
+          89
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/3w9ngYSR",
+        "expanded_url": "http://virginia.edu/bov/live",
+        "display_url": "virginia.edu/bov/live",
+        "indices": [
+          104,
+          124
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

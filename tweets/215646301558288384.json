@@ -1,0 +1,111 @@
+{
+  "created_at": "Thu Jun 21 03:24:19 +0000 2012",
+  "id": 215646301558288384,
+  "id_str": "215646301558288384",
+  "text": "@TheLiB Lol, Hey I am from the home of Goth: #Baltimore and #UVa! Besides, I dress in dark colors!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215645109637754882,
+  "in_reply_to_status_id_str": "215645109637754882",
+  "in_reply_to_user_id": 1024691,
+  "in_reply_to_user_id_str": "1024691",
+  "in_reply_to_screen_name": "TheLiB",
+  "user": {
+    "id": 16550178,
+    "id_str": "16550178",
+    "name": "FrMike",
+    "screen_name": "FrMike",
+    "location": "San Diego",
+    "description": "Rector of an Episcopal Church.  Scholar on Richard Hooker.  Bread Baker, Cyclist, Sherlock Holmes fan, Volunteer staff for ComicCon, Comfort food chef.",
+    "url": "http://richardhooker.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://richardhooker.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 283,
+    "friends_count": 103,
+    "listed_count": 15,
+    "created_at": "Wed Oct 01 20:52:35 +0000 2008",
+    "favourites_count": 1,
+    "utc_offset": -32400,
+    "time_zone": "Alaska",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2405,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1217797059/MBR_photo_2010_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1217797059/MBR_photo_2010_normal.jpg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "0C0C0D",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Baltimore",
+        "indices": [
+          45,
+          55
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          60,
+          64
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheLiB",
+        "name": "Sarah Houghton",
+        "id": 1024691,
+        "id_str": "1024691",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

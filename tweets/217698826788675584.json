@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:20:19 +0000 2012",
+  "id": 217698826788675584,
+  "id_str": "217698826788675584",
+  "text": "having a stare-down with a one-eyed dog at the #uva #bov rally.",
+  "source": "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 291645145,
+    "id_str": "291645145",
+    "name": "Jane Mattimoe",
+    "screen_name": "Janiemoe",
+    "location": "Manhattan",
+    "description": "I like making art/comics and embarrassing myself on the internet. Let's be computer pals!",
+    "url": "http://t.co/vS2ndtu9",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/vS2ndtu9",
+            "expanded_url": "http://janiemoe.com",
+            "display_url": "janiemoe.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 100,
+    "friends_count": 136,
+    "listed_count": 0,
+    "created_at": "Mon May 02 11:31:35 +0000 2011",
+    "favourites_count": 563,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2243,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2E0457",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/279224206/n1110107892_30155585_5206169__1_.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/279224206/n1110107892_30155585_5206169__1_.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3088748151/df9f00626d1a577a90b4efcd38232209_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3088748151/df9f00626d1a577a90b4efcd38232209_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/291645145/1358620269",
+    "profile_link_color": "1830E8",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "0092FF",
+    "profile_text_color": "430E99",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "bov",
+        "indices": [
+          52,
+          56
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

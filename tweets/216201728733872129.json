@@ -1,0 +1,99 @@
+{
+  "created_at": "Fri Jun 22 16:11:23 +0000 2012",
+  "id": 216201728733872129,
+  "id_str": "216201728733872129",
+  "text": "@LarrySabato spotted at Sal's DT cville ??",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 18815765,
+    "id_str": "18815765",
+    "name": "collinwagner",
+    "screen_name": "collinwagner",
+    "location": "RVA, MJ, CPH, NYC, PR, DC",
+    "description": "I cook for the smile on the guest's face. On the eternal quest of finding the best thing to eat; next. Food is love.  #chanticleer",
+    "url": "http://CollinCooks.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://CollinCooks.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1182,
+    "friends_count": 700,
+    "listed_count": 39,
+    "created_at": "Fri Jan 09 21:15:49 +0000 2009",
+    "favourites_count": 26,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13422,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/248076905/ramps.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/248076905/ramps.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2279280294/hvwogluvc3rd7y72p5bu_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2279280294/hvwogluvc3rd7y72p5bu_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18815765/1349235783",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "89FA96",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

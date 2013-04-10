@@ -1,0 +1,201 @@
+{
+  "created_at": "Tue Jun 19 03:04:00 +0000 2012",
+  "id": 214916414014898176,
+  "id_str": "214916414014898176",
+  "text": "RT @exteric: this is worse than waiting for the pope / election results. #uva #sullivan",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17700609,
+    "id_str": "17700609",
+    "name": "Anne-Marie Angelo",
+    "screen_name": "amasays",
+    "location": "Durham, NC/Cairo, Egypt",
+    "description": "Filmmaker, historian, Arabic speaker. Serial laugher.",
+    "url": "http://www.annemarieangelo.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.annemarieangelo.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 798,
+    "friends_count": 1700,
+    "listed_count": 36,
+    "created_at": "Fri Nov 28 05:50:59 +0000 2008",
+    "favourites_count": 7,
+    "utc_offset": 7200,
+    "time_zone": "Cairo",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6006,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/137916983/xfa839e55b3ccaf77abd12ec9fc8df39.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/137916983/xfa839e55b3ccaf77abd12ec9fc8df39.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1135397473/IMG_3619_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1135397473/IMG_3619_2_normal.jpg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 19 02:58:40 +0000 2012",
+    "id": 214915070826786816,
+    "id_str": "214915070826786816",
+    "text": "this is worse than waiting for the pope / election results. #uva #sullivan",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 154810624,
+      "id_str": "154810624",
+      "name": "Yatzek",
+      "screen_name": "exteric",
+      "location": "",
+      "description": "A rebel in the name of beauty",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 101,
+      "friends_count": 293,
+      "listed_count": 3,
+      "created_at": "Sat Jun 12 07:36:43 +0000 2010",
+      "favourites_count": 55,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2337,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1683462099/381403_10151031944255624_685145623_22281611_339902828_n_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1683462099/381403_10151031944255624_685145623_22281611_339902828_n_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "uva",
+          "indices": [
+            60,
+            64
+          ]
+        },
+        {
+          "text": "sullivan",
+          "indices": [
+            65,
+            74
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          73,
+          77
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          78,
+          87
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "exteric",
+        "name": "Yatzek",
+        "id": 154810624,
+        "id_str": "154810624",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

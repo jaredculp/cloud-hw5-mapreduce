@@ -1,0 +1,119 @@
+{
+  "created_at": "Tue Jun 19 05:18:16 +0000 2012",
+  "id": 214950201532755968,
+  "id_str": "214950201532755968",
+  "text": "The #reasonsdragasislate supercut http://t.co/gx9KTPvq #UVA #BOV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19724699,
+    "id_str": "19724699",
+    "name": "Darren Kinnaird",
+    "screen_name": "DKinAU",
+    "location": "Jugtown, Alabama",
+    "description": "Hilariously correct.",
+    "url": "http://www.darrenkinnaird.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.darrenkinnaird.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 484,
+    "friends_count": 778,
+    "listed_count": 10,
+    "created_at": "Thu Jan 29 18:23:39 +0000 2009",
+    "favourites_count": 241,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8886,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/227682249/Jordan_Hare_Stadium_North_Endzone.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/227682249/Jordan_Hare_Stadium_North_Endzone.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2907342143/af67d827d89a1d04fe948f4ae19b086c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2907342143/af67d827d89a1d04fe948f4ae19b086c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/19724699/1348083676",
+    "profile_link_color": "01035E",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "D46B15",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "reasonsdragasislate",
+        "indices": [
+          4,
+          24
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          55,
+          59
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          60,
+          64
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/gx9KTPvq",
+        "expanded_url": "http://youtu.be/VuE_jqYNi3c",
+        "display_url": "youtu.be/VuE_jqYNi3c",
+        "indices": [
+          34,
+          54
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

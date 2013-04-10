@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jul 03 15:32:03 +0000 2012",
+  "id": 220178094202421248,
+  "id_str": "220178094202421248",
+  "text": "@miriamlmdesc Guapa! Qué tal???\nQué tal los examenes en la #uva???",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 142766375,
+  "in_reply_to_user_id_str": "142766375",
+  "in_reply_to_screen_name": "miriamlmdesc",
+  "user": {
+    "id": 200869335,
+    "id_str": "200869335",
+    "name": "Antonella D'Andria",
+    "screen_name": "AntonellaDAnd",
+    "location": "Acerenza",
+    "description": "Vorrei scoprire, analizzare, descrivere, indagare, raccontare. Affronto il presente studiando Lingue nella mia Lucania. Continuo a Sognare in Grande.\r\n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 68,
+    "friends_count": 250,
+    "listed_count": 0,
+    "created_at": "Sun Oct 10 14:05:22 +0000 2010",
+    "favourites_count": 67,
+    "utc_offset": 3600,
+    "time_zone": "Rome",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 292,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2840811765/c8b09ef4767f857d1955912aa867838e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2840811765/c8b09ef4767f857d1955912aa867838e_normal.jpeg",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          59,
+          63
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "miriamlmdesc",
+        "name": "Míriam Casares",
+        "id": 142766375,
+        "id_str": "142766375",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

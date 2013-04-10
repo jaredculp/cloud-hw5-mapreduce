@@ -1,0 +1,119 @@
+{
+  "created_at": "Tue Jun 26 19:54:28 +0000 2012",
+  "id": 217707421303447552,
+  "id_str": "217707421303447552",
+  "text": "RT @JennMcClellanVA #Sullivan to crowd on #UVA lawn: \"You have shown me I am not alone.\"",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 77852581,
+    "id_str": "77852581",
+    "name": "Laura Bassett",
+    "screen_name": "LEBassett",
+    "location": "Washington, DC",
+    "description": "HuffPost Politics Reporter, Louisiana-born Saints fan, women's rights enthusiast. email LBassett (at)http://t.co/0QT5ZwXn",
+    "url": "http://www.huffingtonpost.com/laura-bassett",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.huffingtonpost.com/laura-bassett",
+            "expanded_url": null,
+            "indices": [
+              0,
+              43
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/0QT5ZwXn",
+            "expanded_url": "http://HuffingtonPost.com",
+            "display_url": "HuffingtonPost.com",
+            "indices": [
+              101,
+              121
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5331,
+    "friends_count": 808,
+    "listed_count": 212,
+    "created_at": "Sun Sep 27 22:35:52 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3248,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1663155413/262005_10100127384272706_1505944_47017372_4290507_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1663155413/262005_10100127384272706_1505944_47017372_4290507_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          20,
+          29
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JennMcClellanVA",
+        "name": "Jennifer McClellan",
+        "id": 370859141,
+        "id_str": "370859141",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

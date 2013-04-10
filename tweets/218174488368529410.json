@@ -1,0 +1,122 @@
+{
+  "created_at": "Thu Jun 28 02:50:26 +0000 2012",
+  "id": 218174488368529410,
+  "id_str": "218174488368529410",
+  "text": "With the help of pixie dust..... RT @Progress2day RT @txcheesehead: #UVA #wiunion Winning! Trolls losing wah wah wah",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 218174108586881024,
+  "in_reply_to_status_id_str": "218174108586881024",
+  "in_reply_to_user_id": 212808638,
+  "in_reply_to_user_id_str": "212808638",
+  "in_reply_to_screen_name": "Progress2day",
+  "user": {
+    "id": 391897915,
+    "id_str": "391897915",
+    "name": "LizzieFiles",
+    "screen_name": "LizSchmidt3",
+    "location": "Madison, Wisconsin",
+    "description": "The Ramblings of a God Loving, Mid-West, Conservative, Wife, Mom and Bitter Clinger  #TGDN",
+    "url": "http://lizziefiles.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://lizziefiles.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5646,
+    "friends_count": 6009,
+    "listed_count": 113,
+    "created_at": "Sun Oct 16 08:10:11 +0000 2011",
+    "favourites_count": 532,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 29940,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "72646D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/572691427/x2de8f4308f09ae8d5cd009ab619b0bb.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/572691427/x2de8f4308f09ae8d5cd009ab619b0bb.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3158789459/cba6616a27fba7edc281284bd3a4f94f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3158789459/cba6616a27fba7edc281284bd3a4f94f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/391897915/1358461594",
+    "profile_link_color": "FF4467",
+    "profile_sidebar_border_color": "8B6F77",
+    "profile_sidebar_fill_color": "D7CBB7",
+    "profile_text_color": "FF7C8E",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          68,
+          72
+        ]
+      },
+      {
+        "text": "wiunion",
+        "indices": [
+          73,
+          81
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Progress2day",
+        "name": "America United",
+        "id": 212808638,
+        "id_str": "212808638",
+        "indices": [
+          36,
+          49
+        ]
+      },
+      {
+        "screen_name": "txcheesehead",
+        "name": "txcheesehead",
+        "id": 15730824,
+        "id_str": "15730824",
+        "indices": [
+          53,
+          66
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

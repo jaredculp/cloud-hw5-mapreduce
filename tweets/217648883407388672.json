@@ -1,0 +1,101 @@
+{
+  "created_at": "Tue Jun 26 16:01:52 +0000 2012",
+  "id": 217648883407388672,
+  "id_str": "217648883407388672",
+  "text": "Worst part? A WOMAN wrote it RT @rcooper Wow. This WaPo column is sexist, uninformed, and extremely disappointing. #UVA http://t.co/S7k51jxy",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 90645785,
+    "id_str": "90645785",
+    "name": "Elle",
+    "screen_name": "elleinlibrary",
+    "location": "Boston, USA",
+    "description": "Media/Reference Librarian by day. Enjoys: art, techonology, theater, history of medicine.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 219,
+    "friends_count": 280,
+    "listed_count": 24,
+    "created_at": "Tue Nov 17 14:59:11 +0000 2009",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2410,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/531082636/LeslieProPhoto_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/531082636/LeslieProPhoto_normal.jpg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          115,
+          119
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/S7k51jxy",
+        "expanded_url": "http://www.washingtonpost.com/local/the-u-va-president-drama-is-it-the-queen-bee-scenario/2012/06/25/gJQATn6r2V_story.html",
+        "display_url": "washingtonpost.com/local/the-u-va…",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rcooper",
+        "name": "R. Cooper",
+        "id": 5960652,
+        "id_str": "5960652",
+        "indices": [
+          32,
+          40
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

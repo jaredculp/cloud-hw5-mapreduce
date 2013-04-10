@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jun 26 19:37:18 +0000 2012",
+  "id": 217703099173834752,
+  "id_str": "217703099173834752",
+  "text": "Congratulations, Pres. Sullivan. Should've never come to this, but we're glad you're back. #UVA #Sullivan #BOV @UVa_Alumni",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 134277143,
+    "id_str": "134277143",
+    "name": "Mark Riffee",
+    "screen_name": "markriffee",
+    "location": "New York / Washington, D.C.",
+    "description": "Freelance video producer for WIRED and various other publications.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 249,
+    "friends_count": 194,
+    "listed_count": 4,
+    "created_at": "Sun Apr 18 00:04:07 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 45,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/831616528/5280_1162946165141_1572450043_30758199_8192462_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/831616528/5280_1162946165141_1572450043_30758199_8192462_n_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          91,
+          95
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          96,
+          105
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          106,
+          110
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          111,
+          122
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,108 @@
+{
+  "created_at": "Mon Jun 25 16:35:03 +0000 2012",
+  "id": 217294849118978049,
+  "id_str": "217294849118978049",
+  "text": "@LarrySabato @Daily but Nixon did have the musical chops to perform his own theme song - if only... also, thanks for the RT!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217294363099803649,
+  "in_reply_to_status_id_str": "217294363099803649",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 14103884,
+    "id_str": "14103884",
+    "name": "James Kotecki",
+    "screen_name": "JamesKotecki",
+    "location": "Durham, NC",
+    "description": "Writer and video host at the intersection of news and comedy.",
+    "url": "http://JamesKotecki.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://JamesKotecki.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2290,
+    "friends_count": 1585,
+    "listed_count": 142,
+    "created_at": "Sat Mar 08 22:03:14 +0000 2008",
+    "favourites_count": 21,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4716,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3078363442/975577426dc7d52b19f0553f612f86ab_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3078363442/975577426dc7d52b19f0553f612f86ab_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "daily",
+        "name": "The Daily",
+        "id": 213796133,
+        "id_str": "213796133",
+        "indices": [
+          13,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 19 21:57:16 +0000 2012",
+  "id": 215201607674118146,
+  "id_str": "215201607674118146",
+  "text": "I'm disappointed by Professor Wulf's resignation and hopeful that others will demonstrate greater loyalty to #UVa: http://t.co/mP7olbHV.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 601941465,
+    "id_str": "601941465",
+    "name": "Kate Smith",
+    "screen_name": "kateorgillsmith",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 108,
+    "friends_count": 148,
+    "listed_count": 0,
+    "created_at": "Thu Jun 07 13:12:05 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 21,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/588365500/2ul4z0jtino6imcs26rv.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/588365500/2ul4z0jtino6imcs26rv.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2307638573/zn15j1o1592ekzodvyd2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2307638573/zn15j1o1592ekzodvyd2_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          109,
+          113
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/mP7olbHV",
+        "expanded_url": "http://ht.ly/bGBIU",
+        "display_url": "ht.ly/bGBIU",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

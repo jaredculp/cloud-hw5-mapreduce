@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 10:46:11 +0000 2012",
+  "id": 215395114418323456,
+  "id_str": "215395114418323456",
+  "text": "I agree: MT @rcooper: Would be wonderful if @washingtonpost would thank &amp; credit @cavalierdaily obtaining the #UVa emails through FOIA.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 129844636,
+    "id_str": "129844636",
+    "name": "Barbara Smith",
+    "screen_name": "nanaslugdiva",
+    "location": "West Coast",
+    "description": "academic in the social sciences who likes pop culture, technology, funny stuff, and tower defense games",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 102,
+    "friends_count": 255,
+    "listed_count": 1,
+    "created_at": "Mon Apr 05 15:51:31 +0000 2010",
+    "favourites_count": 5560,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9478,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2819278536/32bc6c7776be2e825fd62fc242481343_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2819278536/32bc6c7776be2e825fd62fc242481343_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/129844636/1357090436",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          114,
+          118
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rcooper",
+        "name": "R. Cooper",
+        "id": 5960652,
+        "id_str": "5960652",
+        "indices": [
+          12,
+          20
+        ]
+      },
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          44,
+          59
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          85,
+          99
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

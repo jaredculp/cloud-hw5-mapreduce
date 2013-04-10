@@ -1,0 +1,111 @@
+{
+  "created_at": "Sat Aug 04 02:24:16 +0000 2012",
+  "id": 231576256993452032,
+  "id_str": "231576256993452032",
+  "text": "@steelewick follow back #CavNation #UVA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 351336670,
+  "in_reply_to_user_id_str": "351336670",
+  "in_reply_to_screen_name": "steelewick",
+  "user": {
+    "id": 725229546,
+    "id_str": "725229546",
+    "name": "Chirp Hard Lacrosse",
+    "screen_name": "ChirpHard_",
+    "location": "top ched",
+    "description": "Dangle, Snipe, Celly, Chirp. #MLIB.",
+    "url": "http://baseballsucks.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://baseballsucks.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 167,
+    "friends_count": 58,
+    "listed_count": 0,
+    "created_at": "Mon Jul 30 03:58:24 +0000 2012",
+    "favourites_count": 22,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 782,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/618193100/e5qgl2mkjuprwpbodbe3.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/618193100/e5qgl2mkjuprwpbodbe3.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2447244554/rb3jj9hf2lxxt7ok2m4k_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2447244554/rb3jj9hf2lxxt7ok2m4k_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "CavNation",
+        "indices": [
+          24,
+          34
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          35,
+          39
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "steelewick",
+        "name": "Steele Stanwick",
+        "id": 351336670,
+        "id_str": "351336670",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

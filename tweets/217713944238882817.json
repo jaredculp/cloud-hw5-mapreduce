@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 20:20:23 +0000 2012",
+  "id": 217713944238882817,
+  "id_str": "217713944238882817",
+  "text": "@PamelaScully that's great news for #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217710737517326337,
+  "in_reply_to_status_id_str": "217710737517326337",
+  "in_reply_to_user_id": 54001505,
+  "in_reply_to_user_id_str": "54001505",
+  "in_reply_to_screen_name": "PamelaScully",
+  "user": {
+    "id": 338594583,
+    "id_str": "338594583",
+    "name": "Gina Thinks",
+    "screen_name": "A_ThinkingGirl",
+    "location": "Pittsburgh",
+    "description": "love, justice, mercy, humor, tweeting information on current events. liberal perspective, educator, volunteer http://t.co/vVlFb3Oh",
+    "url": "http://athinkingpersonsbuffet.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://athinkingpersonsbuffet.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              42
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/vVlFb3Oh",
+            "expanded_url": "http://sulia.com/athinkinggirl/",
+            "display_url": "sulia.com/athinkinggirl/",
+            "indices": [
+              110,
+              130
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4553,
+    "friends_count": 3302,
+    "listed_count": 213,
+    "created_at": "Tue Jul 19 20:21:23 +0000 2011",
+    "favourites_count": 1037,
+    "utc_offset": -7200,
+    "time_zone": "Mid-Atlantic",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 54247,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3185524384/09e164f8d843bd47c635a5b3fc7deb06_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3185524384/09e164f8d843bd47c635a5b3fc7deb06_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/338594583/1353070393",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          36,
+          40
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PamelaScully",
+        "name": "Pamela Scully",
+        "id": 54001505,
+        "id_str": "54001505",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

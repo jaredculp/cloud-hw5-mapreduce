@@ -1,0 +1,116 @@
+{
+  "created_at": "Wed Jun 27 02:09:01 +0000 2012",
+  "id": 217801679196782593,
+  "id_str": "217801679196782593",
+  "text": "@acpompelia RT @wpjenna Teresa Sullivan is unanimously reinstated as president of #UVA. The Lawn erupts in cheers.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 228914478,
+  "in_reply_to_user_id_str": "228914478",
+  "in_reply_to_screen_name": "acpompelia",
+  "user": {
+    "id": 167447962,
+    "id_str": "167447962",
+    "name": "the smitten word",
+    "screen_name": "suzannahpaul",
+    "location": "between exile & home, PA",
+    "description": "songs of freedom. whispers of another way.",
+    "url": "http://t.co/ioSy42n3",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/ioSy42n3",
+            "expanded_url": "http://www.somuchshoutingsomuchlaughter.com/p/author-contact.html",
+            "display_url": "somuchshoutingsomuchlaughter.com/p/author-conta…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1840,
+    "friends_count": 768,
+    "listed_count": 70,
+    "created_at": "Fri Jul 16 16:28:44 +0000 2010",
+    "favourites_count": 683,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11221,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/669339603/ceef6f3fb1dda39406bc48b8e0c0a0ca.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/669339603/ceef6f3fb1dda39406bc48b8e0c0a0ca.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3192897286/79bd91f8d3ab09a4b973e678153e7507_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3192897286/79bd91f8d3ab09a4b973e678153e7507_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/167447962/1348615707",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "75C728",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          82,
+          86
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "acpompelia",
+        "name": "Amy Pompelia",
+        "id": 228914478,
+        "id_str": "228914478",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          15,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

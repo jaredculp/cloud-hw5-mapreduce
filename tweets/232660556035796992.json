@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Aug 07 02:12:53 +0000 2012",
+  "id": 232660556035796992,
+  "id_str": "232660556035796992",
+  "text": "Nice day with Sarah and @cindy_who . #UVA",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 543064518,
+    "id_str": "543064518",
+    "name": "Susan Doss",
+    "screen_name": "SusieX03",
+    "location": "",
+    "description": "Mom of 3 of the most awesome people in the world. Professional loser.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 19,
+    "friends_count": 49,
+    "listed_count": 0,
+    "created_at": "Mon Apr 02 00:48:57 +0000 2012",
+    "favourites_count": 54,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1027,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3156081794/66af1f3221fd07a95ac341cab01e804a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3156081794/66af1f3221fd07a95ac341cab01e804a_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cindy_who",
+        "name": "Cindy",
+        "id": 16490950,
+        "id_str": "16490950",
+        "indices": [
+          24,
+          34
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

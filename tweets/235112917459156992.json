@@ -1,0 +1,111 @@
+{
+  "created_at": "Mon Aug 13 20:37:42 +0000 2012",
+  "id": 235112917459156992,
+  "id_str": "235112917459156992",
+  "text": "#Faulkner at #UVA http://t.co/Ml9leqoi  \"His dilemma. . .whatever it is that makes man want to be better than he is...\"",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 482264968,
+    "id_str": "482264968",
+    "name": "Local Patio",
+    "screen_name": "localpatio",
+    "location": "Augusta, Georgia",
+    "description": "Our high quality domestically made metal furniture encourages people to rock and be in community from city lofts to rural docks. ",
+    "url": "http://ow.ly/almKy",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ow.ly/almKy",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 70,
+    "friends_count": 107,
+    "listed_count": 0,
+    "created_at": "Fri Feb 03 18:18:36 +0000 2012",
+    "favourites_count": 1,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 557,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/496755855/bg-page.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/496755855/bg-page.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1876998868/smaller_glide_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1876998868/smaller_glide_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Faulkner",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          13,
+          17
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Ml9leqoi",
+        "expanded_url": "http://ow.ly/cWrw0",
+        "display_url": "ow.ly/cWrw0",
+        "indices": [
+          18,
+          38
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

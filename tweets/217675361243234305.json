@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 17:47:04 +0000 2012",
+  "id": 217675361243234305,
+  "id_str": "217675361243234305",
+  "text": "@michaelpRTD Are you taking advantage of the candy bowls strewn around Rotunda? http://t.co/D3Wf6dDB #UVa",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217673823909187584,
+  "in_reply_to_status_id_str": "217673823909187584",
+  "in_reply_to_user_id": 25730085,
+  "in_reply_to_user_id_str": "25730085",
+  "in_reply_to_screen_name": "michaelpRTD",
+  "user": {
+    "id": 340058408,
+    "id_str": "340058408",
+    "name": "Work It, Richmond",
+    "screen_name": "WorkItRichmond",
+    "location": "Richmond, VA",
+    "description": "Work it, Richmond is a digital solutions center for small/medium businesses in Central Va. We take news & information, then add dash of education & inspiration.",
+    "url": "http://www.workitrichmond.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.workitrichmond.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1458,
+    "friends_count": 849,
+    "listed_count": 40,
+    "created_at": "Fri Jul 22 02:27:01 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 828,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4D4D4D",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1460568416/twitter-logo_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1460568416/twitter-logo_normal.gif",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          101,
+          105
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/D3Wf6dDB",
+        "expanded_url": "http://bit.ly/MYbYQs",
+        "display_url": "bit.ly/MYbYQs",
+        "indices": [
+          80,
+          100
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "michaelpRTD",
+        "name": "michael phillips",
+        "id": 25730085,
+        "id_str": "25730085",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

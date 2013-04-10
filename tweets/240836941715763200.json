@@ -1,0 +1,129 @@
+{
+  "created_at": "Wed Aug 29 15:42:56 +0000 2012",
+  "id": 240836941715763200,
+  "id_str": "240836941715763200",
+  "text": "Sooooo pretty here #uva",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26658985,
+    "id_str": "26658985",
+    "name": "Meaghan",
+    "screen_name": "meaghancorley",
+    "location": "New Jersey",
+    "description": "I have loved the words and I have hated them and I hope I have made them right.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 153,
+    "friends_count": 126,
+    "listed_count": 1,
+    "created_at": "Thu Mar 26 01:52:13 +0000 2009",
+    "favourites_count": 502,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4503,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E2F0EC",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/351774799/Pier.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/351774799/Pier.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3163005722/c039dbfdddfc61cef1ca835b0f815070_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3163005722/c039dbfdddfc61cef1ca835b0f815070_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/26658985/1359171186",
+    "profile_link_color": "BF3939",
+    "profile_sidebar_border_color": "012403",
+    "profile_sidebar_fill_color": "EBF5ED",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.03402607,
+      -78.5059464
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.5059464,
+      38.03402607
+    ]
+  },
+  "place": {
+    "id": "a5aee0034fb1fb02",
+    "url": "https://api.twitter.com/1.1/geo/id/a5aee0034fb1fb02.json",
+    "place_type": "city",
+    "name": "Jack Jouett",
+    "full_name": "Jack Jouett, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.593326,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.143404
+          ],
+          [
+            -78.593326,
+            38.143404
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          19,
+          23
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,109 @@
+{
+  "created_at": "Fri Aug 17 17:37:31 +0000 2012",
+  "id": 236517123780907008,
+  "id_str": "236517123780907008",
+  "text": "Sore Losers. MT @WahooMetrics Fixed RT @TheUVAFool: Recruiting: Wyatt Teller ties record for worst decision ever, chooses #VT over #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 236515886297669632,
+  "in_reply_to_status_id_str": "236515886297669632",
+  "in_reply_to_user_id": 417503387,
+  "in_reply_to_user_id_str": "417503387",
+  "in_reply_to_screen_name": "WahooMetrics",
+  "user": {
+    "id": 18680839,
+    "id_str": "18680839",
+    "name": "Valerie Ore",
+    "screen_name": "VLOHokie",
+    "location": "Winston-Salem NC ",
+    "description": "Commercial Banker, Married, Mother of 2, Part-Time Hilton Head Island Resident, Graduate of Virginia Tech ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 428,
+    "friends_count": 533,
+    "listed_count": 25,
+    "created_at": "Tue Jan 06 15:59:31 +0000 2009",
+    "favourites_count": 247,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 12571,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/180608966/58930_432569452630_668567630_5141708_5735331_n_1_.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/180608966/58930_432569452630_668567630_5141708_5735331_n_1_.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1202113565/b208271c-d9cd-4e1c-bab7-f9e60226e3e1_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1202113565/b208271c-d9cd-4e1c-bab7-f9e60226e3e1_normal.png",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "VT",
+        "indices": [
+          122,
+          125
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          131,
+          135
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WahooMetrics",
+        "name": "Wahoo Metrics",
+        "id": 417503387,
+        "id_str": "417503387",
+        "indices": [
+          16,
+          29
+        ]
+      },
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          39,
+          50
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

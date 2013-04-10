@@ -1,0 +1,92 @@
+{
+  "created_at": "Wed Jun 20 18:08:20 +0000 2012",
+  "id": 215506385327226880,
+  "id_str": "215506385327226880",
+  "text": "great timeline of events put together by @tsfrankenberg http://t.co/eNUjVLjt\n#uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 360343597,
+    "id_str": "360343597",
+    "name": "Jessie Wright",
+    "screen_name": "TheWrightGinge",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 117,
+    "friends_count": 48,
+    "listed_count": 1,
+    "created_at": "Tue Aug 23 02:08:47 +0000 2011",
+    "favourites_count": 14,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 146,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/317684711/450893853rWEXSJ_fs.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/317684711/450893853rWEXSJ_fs.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1509133753/267637_2284319426369_1200360044_32750115_2509264_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1509133753/267637_2284319426369_1200360044_32750115_2509264_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          77,
+          81
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/eNUjVLjt",
+        "expanded_url": "http://hoowantsclarity.wordpress.com/",
+        "display_url": "hoowantsclarity.wordpress.com",
+        "indices": [
+          56,
+          76
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

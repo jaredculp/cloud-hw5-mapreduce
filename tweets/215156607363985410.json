@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 19 18:58:27 +0000 2012",
+  "id": 215156607363985410,
+  "id_str": "215156607363985410",
+  "text": "Wow. University Professor &amp; fmr President National Academy of Engineering William Wulf resigns in protest of #uva #bov http://t.co/pRzSeehc",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14599882,
+    "id_str": "14599882",
+    "name": "Stephen Sweeney",
+    "screen_name": "scsweeney",
+    "location": "Houston, TX",
+    "description": "enterpreneur, general manager, father, husband, deep thinker, Houstonian.",
+    "url": "http://www.partnerit.com/author/stephen-sweeney",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.partnerit.com/author/stephen-sweeney",
+            "expanded_url": null,
+            "indices": [
+              0,
+              47
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 228,
+    "friends_count": 378,
+    "listed_count": 4,
+    "created_at": "Wed Apr 30 13:19:57 +0000 2008",
+    "favourites_count": 1,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 492,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/53541657/Stephen_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/53541657/Stephen_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          113,
+          117
+        ]
+      },
+      {
+        "text": "bov",
+        "indices": [
+          118,
+          122
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/pRzSeehc",
+        "expanded_url": "http://www.cavalierdaily.com/2012/06/19/comp-sci-prof-william-wulfs-resignation-letter/",
+        "display_url": "cavalierdaily.com/2012/06/19/com…",
+        "indices": [
+          123,
+          143
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

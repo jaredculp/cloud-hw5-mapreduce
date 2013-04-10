@@ -1,0 +1,121 @@
+{
+  "created_at": "Tue Jun 26 19:00:43 +0000 2012",
+  "id": 217693894115209216,
+  "id_str": "217693894115209216",
+  "text": "Watching the #UVA BoV meeting http://t.co/dvL4aF1u via @livestream #smalltowndrama",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 460182638,
+    "id_str": "460182638",
+    "name": "Katie Murphy",
+    "screen_name": "KateandtheFinn",
+    "location": "Charlottesville, VA",
+    "description": "lover of design, food, feminism, and crazy cat-lady",
+    "url": "http://kateandthefinn.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://kateandthefinn.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 19,
+    "friends_count": 70,
+    "listed_count": 0,
+    "created_at": "Tue Jan 10 13:41:26 +0000 2012",
+    "favourites_count": 20,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 439,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/398181544/MP900439068.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/398181544/MP900439068.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1745792207/46287_441663266603_691896603_5813679_1514213_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1745792207/46287_441663266603_691896603_5813679_1514213_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/460182638/1357661478",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          13,
+          17
+        ]
+      },
+      {
+        "text": "smalltowndrama",
+        "indices": [
+          67,
+          82
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dvL4aF1u",
+        "expanded_url": "http://livestre.am/9vu1",
+        "display_url": "livestre.am/9vu1",
+        "indices": [
+          30,
+          50
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Livestream",
+        "name": "Livestream",
+        "id": 6375322,
+        "id_str": "6375322",
+        "indices": [
+          55,
+          66
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

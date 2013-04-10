@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 20:26:14 +0000 2012",
+  "id": 217715413860102144,
+  "id_str": "217715413860102144",
+  "text": "The official news release from #UVA http://t.co/FksJU1Mb",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 54021953,
+    "id_str": "54021953",
+    "name": "Anne Ditmeyer",
+    "screen_name": "pretavoyager",
+    "location": "Paris, France",
+    "description": "Connecting creatives across continents. Designer/editor, founder Prêt à Voyager, co-founder @studiopractices, contributing ed D*S, teaching maps on @Skillshare!",
+    "url": "http://www.pret-a-voyager.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.pret-a-voyager.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4422,
+    "friends_count": 1097,
+    "listed_count": 220,
+    "created_at": "Sun Jul 05 22:06:55 +0000 2009",
+    "favourites_count": 384,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 19048,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F7F9FA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/214229959/pretavoyager-twitter.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/214229959/pretavoyager-twitter.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3086606117/7ffd55fc4258adc64883fb4f65874622_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3086606117/7ffd55fc4258adc64883fb4f65874622_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/54021953/1354297004",
+    "profile_link_color": "BF8C15",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "BDA20B",
+    "profile_text_color": "474547",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/FksJU1Mb",
+        "expanded_url": "http://www.virginia.edu/president/news062612.html",
+        "display_url": "virginia.edu/president/news…",
+        "indices": [
+          36,
+          56
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,148 @@
+{
+  "created_at": "Thu Aug 30 21:12:59 +0000 2012",
+  "id": 241282391333797889,
+  "id_str": "241282391333797889",
+  "text": "LT 23 years is not enough. At 43 he gets out. Should have gotten life! #UVA #Yeardley",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 42792209,
+    "id_str": "42792209",
+    "name": "Treevinos",
+    "screen_name": "TreeVinos",
+    "location": "Washington DC Metro Area",
+    "description": "red wine lover, luvs football & women who smokes cigars are sexy. visit my blog www.treevinos.wordpress.com",
+    "url": "http://www.treevinos.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.treevinos.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 227,
+    "friends_count": 87,
+    "listed_count": 2,
+    "created_at": "Wed May 27 02:22:18 +0000 2009",
+    "favourites_count": 384,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 19765,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/370247792/pink_heels_cleats.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/370247792/pink_heels_cleats.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3170817327/b8e59b20f154e0e056bc406737e46cb8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3170817327/b8e59b20f154e0e056bc406737e46cb8_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/42792209/1359307798",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.74944759,
+      -77.44910264
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.44910264,
+      38.74944759
+    ]
+  },
+  "place": {
+    "id": "448cbabae9ab4e64",
+    "url": "https://api.twitter.com/1.1/geo/id/448cbabae9ab4e64.json",
+    "place_type": "city",
+    "name": "Brentsville",
+    "full_name": "Brentsville, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.670178,
+            38.615089
+          ],
+          [
+            -77.377461,
+            38.615089
+          ],
+          [
+            -77.377461,
+            38.803975
+          ],
+          [
+            -77.670178,
+            38.803975
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          71,
+          75
+        ]
+      },
+      {
+        "text": "Yeardley",
+        "indices": [
+          76,
+          85
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

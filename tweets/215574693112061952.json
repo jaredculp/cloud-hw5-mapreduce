@@ -1,0 +1,128 @@
+{
+  "created_at": "Wed Jun 20 22:39:46 +0000 2012",
+  "id": 215574693112061952,
+  "id_str": "215574693112061952",
+  "text": "@Bri_Meese Great tweet! Hope you're well. Thanks for following @CVille Bars &amp; @CVille Food. Spread the love! #RVa #UVa #CVille",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215184157561720832,
+  "in_reply_to_status_id_str": "215184157561720832",
+  "in_reply_to_user_id": 415672801,
+  "in_reply_to_user_id_str": "415672801",
+  "in_reply_to_screen_name": "BYOBri",
+  "user": {
+    "id": 168880865,
+    "id_str": "168880865",
+    "name": "CVille Bars",
+    "screen_name": "CVilleBars",
+    "location": "Charlottesville, Va",
+    "description": "The best Charlottesville and Central Virginia bar specials you can find. Updated DAILY!",
+    "url": "http://www.VMVbrands.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.VMVbrands.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1611,
+    "friends_count": 4,
+    "listed_count": 42,
+    "created_at": "Wed Jul 21 00:54:46 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3227,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1394435173/CVille_Bars_logo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1394435173/CVille_Bars_logo_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RVa",
+        "indices": [
+          113,
+          117
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          118,
+          122
+        ]
+      },
+      {
+        "text": "CVille",
+        "indices": [
+          123,
+          130
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cville",
+        "name": "cville",
+        "id": 13129142,
+        "id_str": "13129142",
+        "indices": [
+          63,
+          70
+        ]
+      },
+      {
+        "screen_name": "cville",
+        "name": "cville",
+        "id": 13129142,
+        "id_str": "13129142",
+        "indices": [
+          82,
+          89
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

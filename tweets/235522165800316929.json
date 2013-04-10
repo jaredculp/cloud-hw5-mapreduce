@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Aug 14 23:43:54 +0000 2012",
+  "id": 235522165800316929,
+  "id_str": "235522165800316929",
+  "text": "http://t.co/n56pgdJ2\n@nbc30rock #UVA #TinaFey",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 28204375,
+  "in_reply_to_user_id_str": "28204375",
+  "in_reply_to_screen_name": "nbc30rock",
+  "user": {
+    "id": 43141576,
+    "id_str": "43141576",
+    "name": "Lamour",
+    "screen_name": "Yiikestv",
+    "location": "New York, NY",
+    "description": "Y!!kesTV Productions\r\nCreator of PossibleDowngrade, the Blog turned TV Series\r\n\r\n",
+    "url": "http://www.possibledowngrade.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.possibledowngrade.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 72,
+    "friends_count": 225,
+    "listed_count": 1,
+    "created_at": "Thu May 28 16:24:25 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 361,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/147409715/Lamour_Jessica_245ret2-FP-1_1_.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/147409715/Lamour_Jessica_245ret2-FP-1_1_.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1121595484/Lamour_Jessica_245ret2-FP-1_1__normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1121595484/Lamour_Jessica_245ret2-FP-1_1__normal.JPG",
+    "profile_link_color": "806F03",
+    "profile_sidebar_border_color": "050505",
+    "profile_sidebar_fill_color": "4A4F47",
+    "profile_text_color": "0A090A",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          32,
+          36
+        ]
+      },
+      {
+        "text": "TinaFey",
+        "indices": [
+          37,
+          45
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/n56pgdJ2",
+        "expanded_url": "http://iris.virginia.edu/2012/01/acting-out-an-interview-with-performer-jessica-lamour/",
+        "display_url": "iris.virginia.edu/2012/01/acting…",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nbc30rock",
+        "name": "30 Rock",
+        "id": 28204375,
+        "id_str": "28204375",
+        "indices": [
+          21,
+          31
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

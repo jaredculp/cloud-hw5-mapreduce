@@ -1,0 +1,110 @@
+{
+  "created_at": "Sun Aug 12 00:29:45 +0000 2012",
+  "id": 234446540331184128,
+  "id_str": "234446540331184128",
+  "text": "To bebendo #leitefermentado do #BOBESPONJA E DE #UVA *-----*",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 136408046,
+    "id_str": "136408046",
+    "name": "~             Carol.",
+    "screen_name": "_Caaaaaaarol",
+    "location": "São Paulo ",
+    "description": "",
+    "url": "http://www.facebook.com/profile.php?id=100000719046211",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/profile.php?id=100000719046211",
+            "expanded_url": null,
+            "indices": [
+              0,
+              54
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 147,
+    "friends_count": 318,
+    "listed_count": 2,
+    "created_at": "Fri Apr 23 21:42:55 +0000 2010",
+    "favourites_count": 3,
+    "utc_offset": -39600,
+    "time_zone": "International Date Line West",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15212,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/778619304/04857c534727bb5c71252a05980ff658.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/778619304/04857c534727bb5c71252a05980ff658.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3189587270/ef5c24f3ecaec834207e94fd2866b769_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3189587270/ef5c24f3ecaec834207e94fd2866b769_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/136408046/1355612660",
+    "profile_link_color": "00BFFF",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "FF00A6",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "leitefermentado",
+        "indices": [
+          11,
+          27
+        ]
+      },
+      {
+        "text": "BOBESPONJA",
+        "indices": [
+          31,
+          42
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

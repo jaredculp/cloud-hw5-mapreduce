@@ -1,0 +1,115 @@
+{
+  "created_at": "Tue Jun 26 09:48:28 +0000 2012",
+  "id": 217554914296070145,
+  "id_str": "217554914296070145",
+  "text": "RT @PMEChief2012Day 2 of #ELS at the #UVa #Darden School of Business.  Great welcome yesterday by @CMSAF16 and G... http://t.co/V7e8G5ao",
+  "source": "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 102085968,
+    "id_str": "102085968",
+    "name": "Darden (UVA) feed",
+    "screen_name": "dardenfeed",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 202,
+    "friends_count": 0,
+    "listed_count": 15,
+    "created_at": "Tue Jan 05 15:18:54 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4103,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/611736183/darden-rotunda_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/611736183/darden-rotunda_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ELS",
+        "indices": [
+          25,
+          29
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          37,
+          41
+        ]
+      },
+      {
+        "text": "Darden",
+        "indices": [
+          42,
+          49
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/V7e8G5ao",
+        "expanded_url": "http://bit.ly/Mq6QaZ",
+        "display_url": "bit.ly/Mq6QaZ",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CMSAF16",
+        "name": "16th CMSAF",
+        "id": 430384361,
+        "id_str": "430384361",
+        "indices": [
+          98,
+          106
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,84 @@
+{
+  "created_at": "Fri Jun 22 14:13:53 +0000 2012",
+  "id": 216172156445396993,
+  "id_str": "216172156445396993",
+  "text": "the amount of care that I have couldn't possibly be any less if I tried #bov",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 362388167,
+    "id_str": "362388167",
+    "name": "Alice Venus",
+    "screen_name": "_AliceVenus",
+    "location": "Newcastle, North East.",
+    "description": "let the good times rolllllll",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 486,
+    "friends_count": 210,
+    "listed_count": 0,
+    "created_at": "Fri Aug 26 09:36:02 +0000 2011",
+    "favourites_count": 1738,
+    "utc_offset": 0,
+    "time_zone": "Casablanca",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10590,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/762992930/6e8513adc0779e424a00acb68d651921.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/762992930/6e8513adc0779e424a00acb68d651921.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3180135299/5bc2844b359fdf1b0fb0809dbfd77838_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3180135299/5bc2844b359fdf1b0fb0809dbfd77838_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/362388167/1358713542",
+    "profile_link_color": "C75495",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "4046BD",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bov",
+        "indices": [
+          72,
+          76
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

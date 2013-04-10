@@ -1,0 +1,115 @@
+{
+  "created_at": "Thu Aug 16 16:59:27 +0000 2012",
+  "id": 236145158444425216,
+  "id_str": "236145158444425216",
+  "text": "\"@UVAMenSoccer: Really great to have #UVa Legend @alecko11 stop by and say hi to the team during dinner!\" Yeah #11 Im in town now let's hang",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 158953263,
+    "id_str": "158953263",
+    "name": "Brett Hughes",
+    "screen_name": "Brett_Hughes",
+    "location": "Los Angeles",
+    "description": "Adventure-preneur, Storyteller, Try anything athlete, Co-Founder @laxthenations & @anotherbestday day to day competitor for the art of life! #LiveLoud",
+    "url": "http://www.lacrossethenations.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.lacrossethenations.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2343,
+    "friends_count": 252,
+    "listed_count": 29,
+    "created_at": "Thu Jun 24 02:36:22 +0000 2010",
+    "favourites_count": 562,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6310,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "82CBF0",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/448100254/W_Full.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/448100254/W_Full.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3091990720/7975da15fdd27dc073cc99bb9da5d963_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3091990720/7975da15fdd27dc073cc99bb9da5d963_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/158953263/1357852437",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "EFFC37",
+    "profile_text_color": "140614",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVAMenSoccer",
+        "name": "UVa Men's Soccer",
+        "id": 50316406,
+        "id_str": "50316406",
+        "indices": [
+          1,
+          14
+        ]
+      },
+      {
+        "screen_name": "alecko11",
+        "name": "Alecko Eskandarian",
+        "id": 61606776,
+        "id_str": "61606776",
+        "indices": [
+          49,
+          58
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

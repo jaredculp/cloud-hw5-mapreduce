@@ -1,0 +1,121 @@
+{
+  "created_at": "Mon Jun 25 17:04:35 +0000 2012",
+  "id": 217302279475306496,
+  "id_str": "217302279475306496",
+  "text": "RT @cavalierdaily Darden Dean @Bob_Bruner responds to @WSJ #UVA editorial http://t.co/3Cm3LdH8",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 50404114,
+    "id_str": "50404114",
+    "name": "Mary Deering",
+    "screen_name": "marydeering",
+    "location": "Washington D.C.",
+    "description": "Well, look who I ran into, crowed Coincidence.  Please, flirted Fate, this was meant to be.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 221,
+    "friends_count": 351,
+    "listed_count": 12,
+    "created_at": "Wed Jun 24 19:18:58 +0000 2009",
+    "favourites_count": 64,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1716,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D3D6BF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/609502583/iepc0ngrtg8fi3r5h72i.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/609502583/iepc0ngrtg8fi3r5h72i.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1178723047/IMG_0260_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1178723047/IMG_0260_normal.JPG",
+    "profile_link_color": "202F7A",
+    "profile_sidebar_border_color": "EDE7CC",
+    "profile_sidebar_fill_color": "CF5773",
+    "profile_text_color": "120F12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          59,
+          63
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/3Cm3LdH8",
+        "expanded_url": "http://blogs.darden.virginia.edu/deansblog/2012/06/to-fight-for-the-truth/",
+        "display_url": "blogs.darden.virginia.edu/deansblog/2012…",
+        "indices": [
+          74,
+          94
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          3,
+          17
+        ]
+      },
+      {
+        "screen_name": "Bob_Bruner",
+        "name": "Bob_Bruner",
+        "id": 15407235,
+        "id_str": "15407235",
+        "indices": [
+          30,
+          41
+        ]
+      },
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          54,
+          58
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

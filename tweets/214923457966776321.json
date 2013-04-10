@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 03:32:00 +0000 2012",
+  "id": 214923457966776321,
+  "id_str": "214923457966776321",
+  "text": "The oft-quoted political analyst @LarrySabato turns his focus inward, at the chaos engulfing the UVA campus.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 65431946,
+    "id_str": "65431946",
+    "name": "Michael Cooper",
+    "screen_name": "coopnytimes",
+    "location": "New York ",
+    "description": "National correspondent for The New York Times, covering urban affairs and the impact of the downturn.",
+    "url": "http://topics.nytimes.com/topics/reference/timestopics/people/c/michael_cooper/index.html",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://topics.nytimes.com/topics/reference/timestopics/people/c/michael_cooper/index.html",
+            "expanded_url": null,
+            "indices": [
+              0,
+              89
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6389,
+    "friends_count": 586,
+    "listed_count": 240,
+    "created_at": "Thu Aug 13 18:34:27 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2464,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/542824754/coitsnapIMG-20120205-00250.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/542824754/coitsnapIMG-20120205-00250.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/360923072/profile_picture_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/360923072/profile_picture_normal.JPG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/65431946/1353354362",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          33,
+          45
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

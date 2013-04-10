@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 19 22:24:51 +0000 2012",
+  "id": 215208549998002177,
+  "id_str": "215208549998002177",
+  "text": "The most out of touch document I have read in a long, long time: Helen Dragas's sister on the #Sullivan firing: http://t.co/g2QOvxPT #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 59012767,
+    "id_str": "59012767",
+    "name": "Jason Coleman",
+    "screen_name": "jgc3h",
+    "location": "Charlottesville via Austin",
+    "description": "Marketing Mgr with Univ of Virginia Press (but opinions my own, especially any tweets concerning helicopters or poison)",
+    "url": "http://timemowingdown.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://timemowingdown.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 252,
+    "friends_count": 343,
+    "listed_count": 2,
+    "created_at": "Wed Jul 22 02:52:57 +0000 2009",
+    "favourites_count": 81,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 645,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "103AAD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/717320767/1cf5f7ba9873da40dd47c9769f1561e4.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/717320767/1cf5f7ba9873da40dd47c9769f1561e4.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1342261633/tusk_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1342261633/tusk_normal.jpg",
+    "profile_link_color": "D40F3D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F7FBFC",
+    "profile_text_color": "3B293B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          94,
+          103
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          133,
+          137
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/g2QOvxPT",
+        "expanded_url": "http://tinyurl.com/c95konh",
+        "display_url": "tinyurl.com/c95konh",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

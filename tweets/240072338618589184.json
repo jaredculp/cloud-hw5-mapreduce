@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon Aug 27 13:04:40 +0000 2012",
+  "id": 240072338618589184,
+  "id_str": "240072338618589184",
+  "text": "Muere ahogado un catedrático de física de la Universidad de Valladolid.http://t.co/mtvbFJVT  #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 129173767,
+    "id_str": "129173767",
+    "name": "Mónica García",
+    "screen_name": "MncaGR",
+    "location": "Castilla y León.",
+    "description": "Profesora, licenciada en Derecho, con ganas de aprender. ",
+    "url": "http://mgrfol.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://mgrfol.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 767,
+    "friends_count": 998,
+    "listed_count": 57,
+    "created_at": "Sat Apr 03 12:10:52 +0000 2010",
+    "favourites_count": 6,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2488,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "A8E67A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/159602788/xcc3b20769b1b2e3d8d1d62312690e7a.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/159602788/xcc3b20769b1b2e3d8d1d62312690e7a.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1547166856/tw_12577045_1316280485_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1547166856/tw_12577045_1316280485_normal.jpg",
+    "profile_link_color": "689BAA",
+    "profile_sidebar_border_color": "87225D",
+    "profile_sidebar_fill_color": "636066",
+    "profile_text_color": "5BC89F",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          93,
+          97
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/mtvbFJVT",
+        "expanded_url": "http://www.elnortedecastilla.es/20120827/local/valladolid/muere-ahogado-vicerrector-carlos-201208271255.html",
+        "display_url": "elnortedecastilla.es/20120827/local…",
+        "indices": [
+          71,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

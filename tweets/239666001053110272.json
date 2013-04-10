@@ -1,0 +1,142 @@
+{
+  "created_at": "Sun Aug 26 10:10:02 +0000 2012",
+  "id": 239666001053110272,
+  "id_str": "239666001053110272",
+  "text": "Local and world news, weather, sports - Right Now on @1070WINA http://t.co/1oCh8WmR Listen Live! #isaac #obama #raub #armstrong #uva",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17914107,
+    "id_str": "17914107",
+    "name": "wendy edwards",
+    "screen_name": "wendytime",
+    "location": "charlottesville, va",
+    "description": "Your Community Voice",
+    "url": "http://wendyedwards.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://wendyedwards.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1414,
+    "friends_count": 1997,
+    "listed_count": 155,
+    "created_at": "Sat Dec 06 02:03:45 +0000 2008",
+    "favourites_count": 123,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 19853,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D62A22",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/542580136/twitterbg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/542580136/twitterbg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2185436265/we-circle_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2185436265/we-circle_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/17914107/1358588570",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "isaac",
+        "indices": [
+          97,
+          103
+        ]
+      },
+      {
+        "text": "obama",
+        "indices": [
+          104,
+          110
+        ]
+      },
+      {
+        "text": "raub",
+        "indices": [
+          111,
+          116
+        ]
+      },
+      {
+        "text": "armstrong",
+        "indices": [
+          117,
+          127
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          128,
+          132
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/1oCh8WmR",
+        "expanded_url": "http://wina.com",
+        "display_url": "wina.com",
+        "indices": [
+          63,
+          83
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "1070WINA",
+        "name": "Newsradio 1070 WINA",
+        "id": 55003292,
+        "id_str": "55003292",
+        "indices": [
+          53,
+          62
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,156 @@
+{
+  "created_at": "Sat Jun 23 21:20:59 +0000 2012",
+  "id": 216642028774236162,
+  "id_str": "216642028774236162",
+  "text": "@edwardsbrian82 RT @HuffPostPol: Virginia Governor Bob McDonnell is threatening to replace the entire UVA board  http://t.co/ouUTXBMW #uva",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 568782090,
+  "in_reply_to_user_id_str": "568782090",
+  "in_reply_to_screen_name": "edwardsbrian82",
+  "user": {
+    "id": 34016235,
+    "id_str": "34016235",
+    "name": "Justin Edwards",
+    "screen_name": "justinhokie",
+    "location": "iPhone: 38.840260,-77.313110",
+    "description": "I am a compassionate and passionate person who loves the Lord and cares for the world.\r\n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 303,
+    "friends_count": 222,
+    "listed_count": 13,
+    "created_at": "Tue Apr 21 19:47:51 +0000 2009",
+    "favourites_count": 29,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9438,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1244886016/161745_15609464_2972840_q_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1244886016/161745_15609464_2972840_q_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.90357208,
+      -77.20600891
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.20600891,
+      38.90357208
+    ]
+  },
+  "place": {
+    "id": "53d8e045be004d97",
+    "url": "https://api.twitter.com/1.1/geo/id/53d8e045be004d97.json",
+    "place_type": "city",
+    "name": "Idylwood",
+    "full_name": "Idylwood, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.221416,
+            38.875012
+          ],
+          [
+            -77.18318,
+            38.875012
+          ],
+          [
+            -77.18318,
+            38.910169
+          ],
+          [
+            -77.221416,
+            38.910169
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          134,
+          138
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ouUTXBMW",
+        "expanded_url": "http://ow.ly/1O7HoZ",
+        "display_url": "ow.ly/1O7HoZ",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "edwardsbrian82",
+        "name": "Brian Edwards",
+        "id": 568782090,
+        "id_str": "568782090",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "HuffPostPol",
+        "name": "HuffPost Politics",
+        "id": 15458694,
+        "id_str": "15458694",
+        "indices": [
+          19,
+          31
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

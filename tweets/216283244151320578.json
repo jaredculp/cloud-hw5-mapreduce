@@ -1,0 +1,121 @@
+{
+  "created_at": "Fri Jun 22 21:35:18 +0000 2012",
+  "id": 216283244151320578,
+  "id_str": "216283244151320578",
+  "text": "thank you for finally DOING something. http://t.co/oRcKKews #UVA #McDonnell via @dcist",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17519548,
+    "id_str": "17519548",
+    "name": "Pear Moraras",
+    "screen_name": "pmoraras",
+    "location": "Seattle, WA",
+    "description": "be (com)passionate | UVA '08 | UW SPH '14",
+    "url": "http://footandfork.tumblr.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://footandfork.tumblr.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 192,
+    "friends_count": 340,
+    "listed_count": 8,
+    "created_at": "Thu Nov 20 19:36:39 +0000 2008",
+    "favourites_count": 193,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2967,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "5A8258",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/662972062/rf2i2l6i4b24n8xjef79.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/662972062/rf2i2l6i4b24n8xjef79.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3101341652/cbfb2d42d49118a66dfadc72a7608831_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3101341652/cbfb2d42d49118a66dfadc72a7608831_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/17519548/1351024534",
+    "profile_link_color": "25B046",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "AEC993",
+    "profile_text_color": "121111",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          60,
+          64
+        ]
+      },
+      {
+        "text": "McDonnell",
+        "indices": [
+          65,
+          75
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/oRcKKews",
+        "expanded_url": "http://bit.ly/L0PXCa",
+        "display_url": "bit.ly/L0PXCa",
+        "indices": [
+          39,
+          59
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dcist",
+        "name": "DCist",
+        "id": 15295015,
+        "id_str": "15295015",
+        "indices": [
+          80,
+          86
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

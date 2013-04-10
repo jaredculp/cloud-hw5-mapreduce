@@ -1,0 +1,106 @@
+{
+  "created_at": "Mon Jun 18 05:01:39 +0000 2012",
+  "id": 214583634655576064,
+  "id_str": "214583634655576064",
+  "text": "http://t.co/o6Ji6yD7  is #DRAGAS selling out to Goldman Sachs? #hoosforsullivan #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 93739841,
+    "id_str": "93739841",
+    "name": "mj young",
+    "screen_name": "xtey92a",
+    "location": "Gotham, near nyc",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 50,
+    "friends_count": 272,
+    "listed_count": 3,
+    "created_at": "Mon Nov 30 23:46:25 +0000 2009",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 663,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1312391239/MJYSmileheadshot_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1312391239/MJYSmileheadshot_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "DRAGAS",
+        "indices": [
+          25,
+          32
+        ]
+      },
+      {
+        "text": "hoosforsullivan",
+        "indices": [
+          63,
+          79
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          80,
+          84
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/o6Ji6yD7",
+        "expanded_url": "http://bit.ly/Ll1e0J",
+        "display_url": "bit.ly/Ll1e0J",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Thu Jun 21 21:13:09 +0000 2012",
+  "id": 215915283326566400,
+  "id_str": "215915283326566400",
+  "text": "RT @dceiver: RT @anitakumar01: The UVA board of visitors will meet Tuesday to reconsider President Sullivan's employment #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14066111,
+    "id_str": "14066111",
+    "name": "Brett Gellman",
+    "screen_name": "brettgellman",
+    "location": "DC",
+    "description": "Computer. Eater. Blogger. Wash. Rinse. Repeat.",
+    "url": "http://www.dmvdining.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.dmvdining.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 309,
+    "friends_count": 249,
+    "listed_count": 18,
+    "created_at": "Sat Mar 01 19:59:10 +0000 2008",
+    "favourites_count": 14,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7373,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/231857143/Pretzels.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/231857143/Pretzels.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1238538079/profile_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1238538079/profile_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          121,
+          125
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dceiver",
+        "name": "Jason Linkins",
+        "id": 14066024,
+        "id_str": "14066024",
+        "indices": [
+          3,
+          11
+        ]
+      },
+      {
+        "screen_name": "anitakumar01",
+        "name": "Anita Kumar",
+        "id": 48581849,
+        "id_str": "48581849",
+        "indices": [
+          16,
+          29
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

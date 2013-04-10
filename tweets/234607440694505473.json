@@ -1,0 +1,93 @@
+{
+  "created_at": "Sun Aug 12 11:09:07 +0000 2012",
+  "id": 234607440694505473,
+  "id_str": "234607440694505473",
+  "text": "@CristinaRMC Jajajaja eres una tontaaa jajaja sii riquisiimo! #uva",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 234607124838232064,
+  "in_reply_to_status_id_str": "234607124838232064",
+  "in_reply_to_user_id": 119271410,
+  "in_reply_to_user_id_str": "119271410",
+  "in_reply_to_screen_name": "CristinaRMC",
+  "user": {
+    "id": 445774689,
+    "id_str": "445774689",
+    "name": "Maria Gutierrez",
+    "screen_name": "mariagtzsalazar",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 265,
+    "friends_count": 257,
+    "listed_count": 0,
+    "created_at": "Sat Dec 24 21:16:23 +0000 2011",
+    "favourites_count": 478,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7979,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/727954807/34e1cec1b48fc39eba6f844b14f7b265.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/727954807/34e1cec1b48fc39eba6f844b14f7b265.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3198534778/8f308bfe3afbd7e5b8743ef47f54d329_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3198534778/8f308bfe3afbd7e5b8743ef47f54d329_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/445774689/1355724029",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CristinaRMC",
+        "name": "Cristina Reynoso",
+        "id": 119271410,
+        "id_str": "119271410",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

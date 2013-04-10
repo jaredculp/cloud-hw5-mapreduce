@@ -1,0 +1,113 @@
+{
+  "created_at": "Sat Jun 30 21:07:43 +0000 2012",
+  "id": 219175405750452224,
+  "id_str": "219175405750452224",
+  "text": "#UVa point guard target Devon Hall tells @WhiteysWorld365 that he may reclassify from the 2014 to the 2013 class http://t.co/tLQrBvPL",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 485195727,
+    "id_str": "485195727",
+    "name": "John Shifflett",
+    "screen_name": "John_Shifflett",
+    "location": "Charlottesville, Virginia",
+    "description": "Sports Editor at The Daily Progress in Charlottesville, Virginia.",
+    "url": "http://www.dailyprogress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.dailyprogress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 157,
+    "friends_count": 595,
+    "listed_count": 7,
+    "created_at": "Mon Feb 06 23:05:15 +0000 2012",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3962,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1809439693/JohnAvi_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1809439693/JohnAvi_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/tLQrBvPL",
+        "expanded_url": "http://www2.cavalierinsider.com/sports/2012/jun/30/uva-point-guard-target-hall-may-be-available-year--ar-2025627/",
+        "display_url": "www2.cavalierinsider.com/sports/2012/ju…",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WhiteysWorld365",
+        "name": "Whitelaw Reid",
+        "id": 365638110,
+        "id_str": "365638110",
+        "indices": [
+          41,
+          57
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,130 @@
+{
+  "created_at": "Tue Jun 26 16:20:59 +0000 2012",
+  "id": 217653696362852353,
+  "id_str": "217653696362852353",
+  "text": "RT @legal_lou: #UVA Accreditor says #Sullivan ouster has raised issues about compliance. @sivavaid http://t.co/pFcm1YAI",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 43117323,
+    "id_str": "43117323",
+    "name": "David J. Toscano",
+    "screen_name": "deltoscano",
+    "location": "Charlottesville, VA",
+    "description": "Representing the 57th District in the Virginia House of Delegates",
+    "url": "http://www.davidtoscano.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.davidtoscano.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1461,
+    "friends_count": 826,
+    "listed_count": 100,
+    "created_at": "Thu May 28 14:18:52 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 751,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/16070650/banner3.09.3.wide.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/16070650/banner3.09.3.wide.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/245058540/Untitled_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/245058540/Untitled_normal.jpg",
+    "profile_link_color": "FF3333",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "1F98C7",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          15,
+          19
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          36,
+          45
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/pFcm1YAI",
+        "expanded_url": "http://chronicle.com/blogs/ticker/uva-s-accreditor-says-sullivan-ouster-has-raised-questions-about-compliance/44813",
+        "display_url": "chronicle.com/blogs/ticker/u…",
+        "indices": [
+          99,
+          119
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "legal_lou",
+        "name": "Tara Casey",
+        "id": 588543835,
+        "id_str": "588543835",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          89,
+          98
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,111 @@
+{
+  "created_at": "Sun Jun 24 11:56:05 +0000 2012",
+  "id": 216862255969607683,
+  "id_str": "216862255969607683",
+  "text": "#UVA peeps must read RT @MarkBrooksVA: @SatirclAlx http://t.co/OSb1HSMt There you go...",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16958788,
+    "id_str": "16958788",
+    "name": "Satirical Alexandria",
+    "screen_name": "SatirclAlx",
+    "location": "Alexandria, VA",
+    "description": "Mind your own vagina! #prochoice Opinions are my own.  Dem activist & hellraiser. Proudly blocked for a while by @bobmcdonnell & @notlarrysabato. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1122,
+    "friends_count": 688,
+    "listed_count": 68,
+    "created_at": "Fri Oct 24 23:15:14 +0000 2008",
+    "favourites_count": 144,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 27165,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/715648431/Alexandria_sign_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/715648431/Alexandria_sign_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/OSb1HSMt",
+        "expanded_url": "http://bit.ly/L1AUbl",
+        "display_url": "bit.ly/L1AUbl",
+        "indices": [
+          51,
+          71
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MarkBrooksVA",
+        "name": "Mark Brooks",
+        "id": 43965412,
+        "id_str": "43965412",
+        "indices": [
+          24,
+          37
+        ]
+      },
+      {
+        "screen_name": "SatirclAlx",
+        "name": "Satirical Alexandria",
+        "id": 16958788,
+        "id_str": "16958788",
+        "indices": [
+          39,
+          50
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

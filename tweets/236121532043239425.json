@@ -1,0 +1,100 @@
+{
+  "created_at": "Thu Aug 16 15:25:34 +0000 2012",
+  "id": 236121532043239425,
+  "id_str": "236121532043239425",
+  "text": "\"@rivalsmike: Wyatt Teller decision coming tomorrow (Friday) between #Hokies and #UVa\" @MattSabilia",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 485090866,
+    "id_str": "485090866",
+    "name": "Troy Gray",
+    "screen_name": "TroyWilliamGray",
+    "location": "",
+    "description": "#sophomore #football #baseball",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 152,
+    "friends_count": 207,
+    "listed_count": 0,
+    "created_at": "Mon Feb 06 20:34:46 +0000 2012",
+    "favourites_count": 849,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1593,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/419914704/biggie_smalls.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/419914704/biggie_smalls.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3104923709/8855b9ccc21d6b6a3db12bc2d7f6a5ef_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3104923709/8855b9ccc21d6b6a3db12bc2d7f6a5ef_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/485090866/1358110807",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Hokies",
+        "indices": [
+          69,
+          76
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          81,
+          85
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rivalsmike",
+        "name": "Mike Farrell",
+        "id": 170021040,
+        "id_str": "170021040",
+        "indices": [
+          1,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

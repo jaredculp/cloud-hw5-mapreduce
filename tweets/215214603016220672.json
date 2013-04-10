@@ -1,0 +1,130 @@
+{
+  "created_at": "Tue Jun 19 22:48:54 +0000 2012",
+  "id": 215214603016220672,
+  "id_str": "215214603016220672",
+  "text": "Have you signed the petition to @GovernorVA @BobMcDonnell asking for Dragas' resignation? http://t.co/M0cpEzyy #UVA #dragasresign",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14519932,
+    "id_str": "14519932",
+    "name": "Jen on the Edge",
+    "screen_name": "jenontheedge",
+    "location": "Charlottesville, Virginia",
+    "description": "Blogging is way cheaper than therapy.",
+    "url": "http://www.jenontheedge.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jenontheedge.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 599,
+    "friends_count": 169,
+    "listed_count": 33,
+    "created_at": "Fri Apr 25 00:10:42 +0000 2008",
+    "favourites_count": 201,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 12962,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2532634009/eayqz5nz45zhu9725m8f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2532634009/eayqz5nz45zhu9725m8f_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          111,
+          115
+        ]
+      },
+      {
+        "text": "dragasresign",
+        "indices": [
+          116,
+          129
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/M0cpEzyy",
+        "expanded_url": "http://chn.ge/Mo3WnD",
+        "display_url": "chn.ge/Mo3WnD",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GovernorVA",
+        "name": "Bob McDonnell",
+        "id": 104198706,
+        "id_str": "104198706",
+        "indices": [
+          32,
+          43
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          44,
+          57
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,123 @@
+{
+  "created_at": "Wed Aug 08 06:36:10 +0000 2012",
+  "id": 233089190496198656,
+  "id_str": "233089190496198656",
+  "text": "#UVA http://t.co/NpuIAGXi",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 323150704,
+    "id_str": "323150704",
+    "name": "Miss Steal Your Girl",
+    "screen_name": "ayeibkirbs",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 301,
+    "friends_count": 314,
+    "listed_count": 1,
+    "created_at": "Fri Jun 24 10:24:10 +0000 2011",
+    "favourites_count": 1269,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10086,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/758794648/63b7d0304be279027e4a359b7cede474.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/758794648/63b7d0304be279027e4a359b7cede474.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3183193092/bbd9f26cf788583ea26d70a017eee342_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3183193092/bbd9f26cf788583ea26d70a017eee342_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/323150704/1357675388",
+    "profile_link_color": "0EEB2F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 233089190500392960,
+        "id_str": "233089190500392960",
+        "indices": [
+          5,
+          25
+        ],
+        "media_url": "http://pbs.twimg.com/media/AzwZYkDCYAAlue5.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AzwZYkDCYAAlue5.jpg",
+        "url": "http://t.co/NpuIAGXi",
+        "display_url": "pic.twitter.com/NpuIAGXi",
+        "expanded_url": "http://twitter.com/ayeibkirbs/status/233089190496198656/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 1365,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 453,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,177 @@
+{
+  "created_at": "Wed Aug 29 08:11:25 +0000 2012",
+  "id": 240723313800921088,
+  "id_str": "240723313800921088",
+  "text": "Campionamento uva #uva #vigneti #vineyards #harvest2012 #vendemmia2012   @ Il Calamaio http://t.co/L6c4ha8j",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 492319610,
+    "id_str": "492319610",
+    "name": "Vini Il Calamaio",
+    "screen_name": "AzAgrIlCalamaio",
+    "location": "Lucca - Tuscany",
+    "description": "Piccola azienda, grande passione (Small business, big passion)",
+    "url": "http://www.ilcalamaiovini.it",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.ilcalamaiovini.it",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 353,
+    "friends_count": 230,
+    "listed_count": 12,
+    "created_at": "Tue Feb 14 15:51:00 +0000 2012",
+    "favourites_count": 40,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2097,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2606197461/z56uwepntkny4hokdw5d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2606197461/z56uwepntkny4hokdw5d_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      43.87303543,
+      10.42832565
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      10.42832565,
+      43.87303543
+    ]
+  },
+  "place": {
+    "id": "48d9a20585cb9535",
+    "url": "https://api.twitter.com/1.1/geo/id/48d9a20585cb9535.json",
+    "place_type": "city",
+    "name": "Lucca",
+    "full_name": "Lucca, Lucca",
+    "country_code": "IT",
+    "country": "Italy",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            10.362817,
+            43.758062
+          ],
+          [
+            10.573703,
+            43.758062
+          ],
+          [
+            10.573703,
+            43.959371
+          ],
+          [
+            10.362817,
+            43.959371
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          18,
+          22
+        ]
+      },
+      {
+        "text": "vigneti",
+        "indices": [
+          23,
+          31
+        ]
+      },
+      {
+        "text": "vineyards",
+        "indices": [
+          32,
+          42
+        ]
+      },
+      {
+        "text": "harvest2012",
+        "indices": [
+          43,
+          55
+        ]
+      },
+      {
+        "text": "vendemmia2012",
+        "indices": [
+          56,
+          70
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/L6c4ha8j",
+        "expanded_url": "http://instagr.am/p/O55-gjQzBz/",
+        "display_url": "instagr.am/p/O55-gjQzBz/",
+        "indices": [
+          87,
+          107
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,124 @@
+{
+  "created_at": "Mon Jun 25 18:35:06 +0000 2012",
+  "id": 217325059101048832,
+  "id_str": "217325059101048832",
+  "text": "A must-read RT @uva: Darden Dean @Bob_Bruner  weighs in on the erroneous WSJ editorial, among other untruths. #uva http://t.co/0P7wjPra",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 108997555,
+    "id_str": "108997555",
+    "name": "Major Events Office",
+    "screen_name": "UVa_Events",
+    "location": "Charlottesville, VA",
+    "description": "Office of Major Events at UVa: We tweet about major events on Grounds (ex. Final Exercises, Founder's Day, etc) & other UVa related events/news\r\n",
+    "url": "http://www.virginia.edu/majorevents/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginia.edu/majorevents/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1181,
+    "friends_count": 1288,
+    "listed_count": 39,
+    "created_at": "Wed Jan 27 17:08:13 +0000 2010",
+    "favourites_count": 51,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1335,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "093852",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/625728741/idbwtaiumc8yw2e0ja2s.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/625728741/idbwtaiumc8yw2e0ja2s.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1232210973/rotunda_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1232210973/rotunda_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/108997555/1349714902",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          110,
+          114
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/0P7wjPra",
+        "expanded_url": "http://bit.ly/LvrQy6",
+        "display_url": "bit.ly/LvrQy6",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          15,
+          19
+        ]
+      },
+      {
+        "screen_name": "Bob_Bruner",
+        "name": "Bob_Bruner",
+        "id": 15407235,
+        "id_str": "15407235",
+        "indices": [
+          33,
+          44
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

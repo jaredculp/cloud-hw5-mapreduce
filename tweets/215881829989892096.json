@@ -1,0 +1,125 @@
+{
+  "created_at": "Thu Jun 21 19:00:13 +0000 2012",
+  "id": 215881829989892096,
+  "id_str": "215881829989892096",
+  "text": "How status anxieties can explain #UVA's current turmoil: http://t.co/w2uODMfI via @tnr by @kevincarey1 #highered #college",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 226234725,
+    "id_str": "226234725",
+    "name": "Armando Diaz",
+    "screen_name": "adiazDC",
+    "location": "Washington, D.C.",
+    "description": "Public Affairs Specialist @GEDTesting, @UCF Alumnus, CrossFitter, and Thai food addict | Tweets are my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 226,
+    "friends_count": 520,
+    "listed_count": 18,
+    "created_at": "Mon Dec 13 17:26:03 +0000 2010",
+    "favourites_count": 4,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1056,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1189728581/Picture_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1189728581/Picture_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          33,
+          37
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          103,
+          112
+        ]
+      },
+      {
+        "text": "college",
+        "indices": [
+          113,
+          121
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/w2uODMfI",
+        "expanded_url": "http://bit.ly/NnKpVp",
+        "display_url": "bit.ly/NnKpVp",
+        "indices": [
+          57,
+          77
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "tnr",
+        "name": "The New Republic",
+        "id": 82689705,
+        "id_str": "82689705",
+        "indices": [
+          82,
+          86
+        ]
+      },
+      {
+        "screen_name": "kevincarey1",
+        "name": "Kevin Carey",
+        "id": 66468564,
+        "id_str": "66468564",
+        "indices": [
+          90,
+          102
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

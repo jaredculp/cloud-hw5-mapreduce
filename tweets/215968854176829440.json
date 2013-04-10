@@ -1,0 +1,141 @@
+{
+  "created_at": "Fri Jun 22 00:46:02 +0000 2012",
+  "id": 215968854176829440,
+  "id_str": "215968854176829440",
+  "text": "@cavalierdaily The comments posted in response to the Rector's statement http://t.co/g4ViAQ6v affirm good news: PR effort is not working!",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215936995250282496,
+  "in_reply_to_status_id_str": "215936995250282496",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 395036837,
+    "id_str": "395036837",
+    "name": "Peter Cronin",
+    "screen_name": "PeterCronin62",
+    "location": "Ithaca, NY",
+    "description": "Husband, Dad, Sometime Photographer, Red Sox Fan, always trying to look at issues from every direction",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 33,
+    "friends_count": 214,
+    "listed_count": 0,
+    "created_at": "Fri Oct 21 01:16:07 +0000 2011",
+    "favourites_count": 24,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 281,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2955381154/437a1064c8a5b025d47faa8dfb79d0fb_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2955381154/437a1064c8a5b025d47faa8dfb79d0fb_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/395036837/1355112069",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      42.40048961,
+      -76.48567311
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -76.48567311,
+      42.40048961
+    ]
+  },
+  "place": {
+    "id": "988d82c27e9587c8",
+    "url": "https://api.twitter.com/1.1/geo/id/988d82c27e9587c8.json",
+    "place_type": "city",
+    "name": "South Hill",
+    "full_name": "South Hill, NY",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -76.524086,
+            42.394541
+          ],
+          [
+            -76.452896,
+            42.394541
+          ],
+          [
+            -76.452896,
+            42.431096
+          ],
+          [
+            -76.524086,
+            42.431096
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/g4ViAQ6v",
+        "expanded_url": "http://www.cavalierdaily.com/2012/06/21/rector-dragas-statement-on-university-challenges-sullivan-resignation/",
+        "display_url": "cavalierdaily.com/2012/06/21/rec…",
+        "indices": [
+          73,
+          93
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

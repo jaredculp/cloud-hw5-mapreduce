@@ -1,0 +1,131 @@
+{
+  "created_at": "Sun Jun 24 19:03:23 +0000 2012",
+  "id": 216969788931575810,
+  "id_str": "216969788931575810",
+  "text": "WO. RT @mattdelsignore: Outside the Rotunda at #uva. RT @CamThompsonWNEW The turnout for Sullivan's support rally - http://t.co/yYQ0KjBA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 28729402,
+    "id_str": "28729402",
+    "name": "Robert Bettmann",
+    "screen_name": "rbett",
+    "location": "Washington, D.C.",
+    "description": "Digital at @taxpayers. Author book Somatic Ecology, Editor book Bourgeon. Blog http://t.co/zviYyMB0 + @theCFReport. Personal account #TFS = things F says.",
+    "url": "http://www.robbettmann.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.robbettmann.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/zviYyMB0",
+            "expanded_url": "http://huff.to/VbtGoU",
+            "display_url": "huff.to/VbtGoU",
+            "indices": [
+              79,
+              99
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 635,
+    "friends_count": 354,
+    "listed_count": 45,
+    "created_at": "Sat Apr 04 03:24:35 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10023,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/94592624/twitter-template-rbett6.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/94592624/twitter-template-rbett6.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1633797424/headshot-RB-small-size_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1633797424/headshot-RB-small-size_normal.jpg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/yYQ0KjBA",
+        "expanded_url": "http://twitter.com/CamThompsonWNEW/status/216957792978870272/photo/1",
+        "display_url": "pic.twitter.com/yYQ0KjBA",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mattdelsignore",
+        "name": "Matt DelSignore WNEW",
+        "id": 101015707,
+        "id_str": "101015707",
+        "indices": [
+          7,
+          22
+        ]
+      },
+      {
+        "screen_name": "CamThompsonWNEW",
+        "name": "Cameron Thompson",
+        "id": 178367632,
+        "id_str": "178367632",
+        "indices": [
+          56,
+          72
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

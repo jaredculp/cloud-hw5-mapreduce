@@ -1,0 +1,101 @@
+{
+  "created_at": "Thu Jun 28 02:19:03 +0000 2012",
+  "id": 218166590099828736,
+  "id_str": "218166590099828736",
+  "text": "RT @nowviskie: #UVa community, please don't forget: we're archiving for posterity! Pics, video, emails, texts, links... http://t.co/k7O3anTb",
+  "source": "<a href=\"http://seesmic.com/\" rel=\"nofollow\">Seesmic</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14307108,
+    "id_str": "14307108",
+    "name": "Shannon",
+    "screen_name": "mazarines",
+    "location": "Los Angeles, CA, USA",
+    "description": "Dilettante/librarian, interested in libraries, archives, art, law, music, bicycles, coffee, food, funny things",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 445,
+    "friends_count": 348,
+    "listed_count": 43,
+    "created_at": "Fri Apr 04 23:25:18 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4557,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/25469127/P9141773_2.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/25469127/P9141773_2.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/325613287/P8190048_2_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/325613287/P8190048_2_normal.JPG",
+    "profile_link_color": "A64C07",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "AAC2AC",
+    "profile_text_color": "254F0F",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          15,
+          19
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/k7O3anTb",
+        "expanded_url": "http://sullivan.lib.virginia.edu/",
+        "display_url": "sullivan.lib.virginia.edu",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nowviskie",
+        "name": "Bethany Nowviskie",
+        "id": 14221013,
+        "id_str": "14221013",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

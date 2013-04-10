@@ -1,0 +1,84 @@
+{
+  "created_at": "Mon Jul 02 13:14:16 +0000 2012",
+  "id": 219781035032973315,
+  "id_str": "219781035032973315",
+  "text": "#uva 7.5",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 598388802,
+    "id_str": "598388802",
+    "name": "† ",
+    "screen_name": "___withem",
+    "location": "neverland",
+    "description": "Federica} «i need you like plankton needs krabby patty secret recipe»",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1284,
+    "friends_count": 886,
+    "listed_count": 0,
+    "created_at": "Sun Jun 03 12:46:46 +0000 2012",
+    "favourites_count": 94,
+    "utc_offset": 7200,
+    "time_zone": "Athens",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6759,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/755569883/3f8df7c50c51e3d860ac530fbf84c596.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/755569883/3f8df7c50c51e3d860ac530fbf84c596.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3066212973/e229106f91969957ba3157180ed4d74a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3066212973/e229106f91969957ba3157180ed4d74a_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/598388802/1356956184",
+    "profile_link_color": "2400B3",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

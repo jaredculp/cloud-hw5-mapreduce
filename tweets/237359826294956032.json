@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon Aug 20 01:26:07 +0000 2012",
+  "id": 237359826294956032,
+  "id_str": "237359826294956032",
+  "text": "@carlos_puyol 3 participantes de #UVA como mínimo.",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 237359333011238912,
+  "in_reply_to_status_id_str": "237359333011238912",
+  "in_reply_to_user_id": 99158286,
+  "in_reply_to_user_id_str": "99158286",
+  "in_reply_to_screen_name": "carlos_puyol",
+  "user": {
+    "id": 364599015,
+    "id_str": "364599015",
+    "name": "Uvalores",
+    "screen_name": "uvalores",
+    "location": "Monterrey N.L.",
+    "description": "UVALORES\r\ntema: De regreso a lo básico. (1940-1950)\r\ncategorías: música, literatura, fotografía, arte gráfico y danza.\r\nPremio: $2,000\r\n¡Empieza a crear!",
+    "url": "http://www.facebook.com/uvalores",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/uvalores",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 22,
+    "friends_count": 5,
+    "listed_count": 0,
+    "created_at": "Tue Aug 30 01:05:51 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 56,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DAF033",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/636651069/cofzdm09kpaad0vqn8xw.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/636651069/cofzdm09kpaad0vqn8xw.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2518333710/xjgkfp7s3d6wvfyiftjr_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2518333710/xjgkfp7s3d6wvfyiftjr_normal.jpeg",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "FC0398",
+    "profile_sidebar_fill_color": "8E2394",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          33,
+          37
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "carlos_puyol",
+        "name": "Carlos Steele",
+        "id": 99158286,
+        "id_str": "99158286",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

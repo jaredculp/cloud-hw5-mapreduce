@@ -1,0 +1,105 @@
+{
+  "created_at": "Mon Aug 06 20:17:37 +0000 2012",
+  "id": 232571148309770240,
+  "id_str": "232571148309770240",
+  "text": "Hey @UVaBatten! We're looking for a #UVA intern to be our Regional Social Media Coordinator. Can U help spread the word? Reply for details.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 59483889,
+    "id_str": "59483889",
+    "name": "Oikocredit USA ",
+    "screen_name": "OikocreditUSA",
+    "location": "",
+    "description": "Investing in People. Oikocredit is one of the world’s largest sources of private funding to the microfinance sector. ",
+    "url": "http://www.oikocreditusa.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.oikocreditusa.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1950,
+    "friends_count": 1774,
+    "listed_count": 108,
+    "created_at": "Thu Jul 23 14:47:35 +0000 2009",
+    "favourites_count": 126,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2787,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FAFAFA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/725648965/9024a9b81adb3c974f3e0a6b739eb210.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/725648965/9024a9b81adb3c974f3e0a6b739eb210.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/974337783/logo_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/974337783/logo_normal.gif",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/59483889/1354303451",
+    "profile_link_color": "2A1E87",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EBE128",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          36,
+          40
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVaBatten",
+        "name": "Frank Batten School",
+        "id": 385001156,
+        "id_str": "385001156",
+        "indices": [
+          4,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

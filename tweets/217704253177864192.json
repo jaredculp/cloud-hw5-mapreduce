@@ -1,0 +1,96 @@
+{
+  "created_at": "Tue Jun 26 19:41:53 +0000 2012",
+  "id": 217704253177864192,
+  "id_str": "217704253177864192",
+  "text": "Quiero comerme una #UVA .",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 70205993,
+    "id_str": "70205993",
+    "name": "Carolina Bolsón.",
+    "screen_name": "CarolinaOcampo",
+    "location": "México. Ahuevo.",
+    "description": "Dios y la música, éso es lo que me guía en la vida.  †\r\nBe a true heart not a follower",
+    "url": "http://unleashthecarolina.tumblr.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://unleashthecarolina.tumblr.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 158,
+    "friends_count": 211,
+    "listed_count": 1,
+    "created_at": "Sun Aug 30 20:26:53 +0000 2009",
+    "favourites_count": 55,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4914,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/622369357/j1x7105nua6a8h75fsj4.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/622369357/j1x7105nua6a8h75fsj4.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2909283406/790a82bf22fdc00f675414acea7cb464_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2909283406/790a82bf22fdc00f675414acea7cb464_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/70205993/1354504088",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "40676C",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          19,
+          23
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

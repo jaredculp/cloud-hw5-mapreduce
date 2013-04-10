@@ -1,0 +1,84 @@
+{
+  "created_at": "Mon Aug 20 23:24:44 +0000 2012",
+  "id": 237691667426189312,
+  "id_str": "237691667426189312",
+  "text": "last night in Dover, smell yuh #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 292401249,
+    "id_str": "292401249",
+    "name": "Julia Downs",
+    "screen_name": "sassafrassxo",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 169,
+    "friends_count": 193,
+    "listed_count": 0,
+    "created_at": "Tue May 03 15:56:33 +0000 2011",
+    "favourites_count": 1087,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 392,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1337408155/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1337408155/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/292401249/1354780532",
+    "profile_link_color": "981DA3",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F5F5F5",
+    "profile_text_color": "158576",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

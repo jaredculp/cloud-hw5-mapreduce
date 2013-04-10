@@ -1,0 +1,132 @@
+{
+  "created_at": "Fri Jun 29 12:24:03 +0000 2012",
+  "id": 218681234941935616,
+  "id_str": "218681234941935616",
+  "text": "Best desc of UVa events I've read! RT @qui_oui: What happened to governance at #UVa? my new post @UVenus http://t.co/7pABD39Q #HigherEd",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 104173962,
+    "id_str": "104173962",
+    "name": "Tanya Noel",
+    "screen_name": "TCNoel",
+    "location": "Windsor, ON, Canada",
+    "description": "Biology prof at the University of Windsor, teaching microbiology, interested in science higher education. Opinions my own. Show me the evidence!!! :-)",
+    "url": "http://t.co/rT9BD112",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/rT9BD112",
+            "expanded_url": "http://arc1.uwindsor.ca/~tnoel/",
+            "display_url": "arc1.uwindsor.ca/~tnoel/",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1066,
+    "friends_count": 1066,
+    "listed_count": 88,
+    "created_at": "Tue Jan 12 14:19:04 +0000 2010",
+    "favourites_count": 91,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8699,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/123821254/crowdedPlateBGD.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/123821254/crowdedPlateBGD.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2848489585/2c4925c236d6d1b840c3efc06e8d6c8e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2848489585/2c4925c236d6d1b840c3efc06e8d6c8e_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/104173962/1353082875",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          79,
+          83
+        ]
+      },
+      {
+        "text": "HigherEd",
+        "indices": [
+          126,
+          135
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/7pABD39Q",
+        "expanded_url": "http://bit.ly/LUtiZd",
+        "display_url": "bit.ly/LUtiZd",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "qui_oui",
+        "name": "Melonie Fullick",
+        "id": 15053275,
+        "id_str": "15053275",
+        "indices": [
+          38,
+          46
+        ]
+      },
+      {
+        "screen_name": "UVenus",
+        "name": "University of Venus",
+        "id": 100986108,
+        "id_str": "100986108",
+        "indices": [
+          97,
+          104
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

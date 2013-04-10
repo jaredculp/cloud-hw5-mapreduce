@@ -1,0 +1,113 @@
+{
+  "created_at": "Fri Jun 22 03:24:10 +0000 2012",
+  "id": 216008652367200256,
+  "id_str": "216008652367200256",
+  "text": "@AJStream here is press on the #UVA story that i mentioned today in the editorial mtg. http://t.co/yDHHY8R4",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 236891946,
+  "in_reply_to_user_id_str": "236891946",
+  "in_reply_to_screen_name": "AJStream",
+  "user": {
+    "id": 143268809,
+    "id_str": "143268809",
+    "name": "Brennan Lowery",
+    "screen_name": "BuckHercules",
+    "location": "New York City",
+    "description": "Brennan Lowery: New School MFA Actor, Office Director for Dylan Ratigan. Buck Hercules: award-winning correspondent for award-deserving NewShow. Both: ticklish.",
+    "url": "http://www.newshowdotcom.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.newshowdotcom.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 188,
+    "friends_count": 293,
+    "listed_count": 3,
+    "created_at": "Thu May 13 01:30:10 +0000 2010",
+    "favourites_count": 90,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2713,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1766737107/booth_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1766737107/booth_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/yDHHY8R4",
+        "expanded_url": "http://www.washingtonpost.com/blogs/answer-sheet/post/u-va-prof-why-governing-board-gets-an-f-for-sullivan-project/2012/06/21/gJQAX9tksV_blog.html",
+        "display_url": "washingtonpost.com/blogs/answer-s…",
+        "indices": [
+          87,
+          107
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AJStream",
+        "name": "The Stream",
+        "id": 236891946,
+        "id_str": "236891946",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

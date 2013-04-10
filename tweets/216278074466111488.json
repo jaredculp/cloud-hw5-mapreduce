@@ -1,0 +1,98 @@
+{
+  "created_at": "Fri Jun 22 21:14:45 +0000 2012",
+  "id": 216278074466111488,
+  "id_str": "216278074466111488",
+  "text": "@cavalierdaily some requirements seem to be same as initial problems: deciding \"w/o regard to any outside\" and appearance of unity.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216276890917404674,
+  "in_reply_to_status_id_str": "216276890917404674",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 397527886,
+    "id_str": "397527886",
+    "name": "Erin Beard",
+    "screen_name": "ErinEBeard",
+    "location": "East Lansing, MI",
+    "description": "Grad student studying Victorian lit.  Lead Grad Researcher in the @DHLCatMSU.  Bike commuter and road bike enthusiast.",
+    "url": "http://erinebeard.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://erinebeard.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 88,
+    "friends_count": 168,
+    "listed_count": 6,
+    "created_at": "Mon Oct 24 20:19:48 +0000 2011",
+    "favourites_count": 22,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 471,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/417013869/IMG_1796.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/417013869/IMG_1796.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1604900386/IMG_1200_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1604900386/IMG_1200_normal.JPG",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

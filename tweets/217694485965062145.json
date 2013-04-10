@@ -1,0 +1,100 @@
+{
+  "created_at": "Tue Jun 26 19:03:04 +0000 2012",
+  "id": 217694485965062145,
+  "id_str": "217694485965062145",
+  "text": "Over 8,000 viewers for the live stream of the #UVA #BOV meeting today. Are you one of them? Check it out here: http://t.co/rwXTUbXj",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 377499918,
+    "id_str": "377499918",
+    "name": "Katelin Cosner",
+    "screen_name": "KCosner15",
+    "location": "",
+    "description": "Welcome to real life. Except with more dancing and shenanigans than originally expected.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 116,
+    "friends_count": 195,
+    "listed_count": 0,
+    "created_at": "Wed Sep 21 17:37:28 +0000 2011",
+    "favourites_count": 145,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1266,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E64EDE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/697204641/1833d8c7a4619be961f1b5d396fd0b79.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/697204641/1833d8c7a4619be961f1b5d396fd0b79.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1553385375/senior_picture_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1553385375/senior_picture_normal",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/377499918/1355773588",
+    "profile_link_color": "172FE6",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "78C0A8",
+    "profile_text_color": "5E412F",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          46,
+          50
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          51,
+          55
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/rwXTUbXj",
+        "expanded_url": "http://www.virginia.edu/bov/live/",
+        "display_url": "virginia.edu/bov/live/",
+        "indices": [
+          111,
+          131
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

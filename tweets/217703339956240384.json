@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 19:38:15 +0000 2012",
+  "id": 217703339956240384,
+  "id_str": "217703339956240384",
+  "text": "#UVA President Sullivan reinstated: https://t.co/rmPGaBXp",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 272823908,
+    "id_str": "272823908",
+    "name": "Mike Wilkerson",
+    "screen_name": "wahoowilky",
+    "location": "USA",
+    "description": "About me: http://t.co/6ls689dp",
+    "url": "http://dottheslash.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://dottheslash.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/6ls689dp",
+            "expanded_url": "http://xkcd.com/353/",
+            "display_url": "xkcd.com/353/",
+            "indices": [
+              10,
+              30
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 105,
+    "friends_count": 261,
+    "listed_count": 6,
+    "created_at": "Sun Mar 27 07:35:31 +0000 2011",
+    "favourites_count": 62,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1865,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "222222",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/737381653/9a6ffa86d8b8837fc49cde455c7fd27d.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/737381653/9a6ffa86d8b8837fc49cde455c7fd27d.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2972036321/885322d8cc6f83741e025add094e6ac3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2972036321/885322d8cc6f83741e025add094e6ac3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/272823908/1355433003",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/rmPGaBXp",
+        "expanded_url": "https://twitter.com/HenryGraff/status/217696633264144384/photo/1/large",
+        "display_url": "twitter.com/HenryGraff/sta…",
+        "indices": [
+          36,
+          57
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

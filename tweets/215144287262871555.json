@@ -1,0 +1,125 @@
+{
+  "created_at": "Tue Jun 19 18:09:29 +0000 2012",
+  "id": 215144287262871555,
+  "id_str": "215144287262871555",
+  "text": "I'll bet not. MT @EdSykes29 RT @HenryGraff: @timkaine would not answer question about #UVA Dragas. He appointed her.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215143583341219841,
+  "in_reply_to_status_id_str": "215143583341219841",
+  "in_reply_to_user_id": 224798518,
+  "in_reply_to_user_id_str": "224798518",
+  "in_reply_to_screen_name": "EdSykes29",
+  "user": {
+    "id": 39143159,
+    "id_str": "39143159",
+    "name": "Haas Policy",
+    "screen_name": "haaspolicy",
+    "location": "Austin, TX",
+    "description": "Education and public policy analysis (also occasionally - politics, sports and sartorial commentary).  Opinions, intelligent or otherwise, are entirely my own.",
+    "url": "http://www.haaspolicy.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.haaspolicy.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 582,
+    "friends_count": 510,
+    "listed_count": 35,
+    "created_at": "Mon May 11 00:17:52 +0000 2009",
+    "favourites_count": 401,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7037,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0810A6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/13494140/haasicon.jpeg.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/13494140/haasicon.jpeg.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/207570352/haasicon-copy_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/207570352/haasicon-copy_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/39143159/1354297557",
+    "profile_link_color": "2563F4",
+    "profile_sidebar_border_color": "C4CFCF",
+    "profile_sidebar_fill_color": "DCE5E4",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          86,
+          90
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "EdSykes29",
+        "name": "Ed Sykes NBC29",
+        "id": 224798518,
+        "id_str": "224798518",
+        "indices": [
+          17,
+          27
+        ]
+      },
+      {
+        "screen_name": "HenryGraff",
+        "name": "Henry Graff",
+        "id": 65287423,
+        "id_str": "65287423",
+        "indices": [
+          31,
+          42
+        ]
+      },
+      {
+        "screen_name": "timkaine",
+        "name": "Senator Tim Kaine",
+        "id": 172858784,
+        "id_str": "172858784",
+        "indices": [
+          44,
+          53
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

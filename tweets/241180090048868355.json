@@ -1,0 +1,110 @@
+{
+  "created_at": "Thu Aug 30 14:26:29 +0000 2012",
+  "id": 241180090048868355,
+  "id_str": "241180090048868355",
+  "text": "Buenos dias #hombreFamoso @pedroinfantesv y bella dama  @uvitajones qe tengan un dia #uva",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 240930454910402560,
+  "in_reply_to_status_id_str": "240930454910402560",
+  "in_reply_to_user_id": 289754767,
+  "in_reply_to_user_id_str": "289754767",
+  "in_reply_to_screen_name": "PedroInfanteSV",
+  "user": {
+    "id": 204020545,
+    "id_str": "204020545",
+    "name": "SoyElMapa",
+    "screen_name": "YoSoyGuanacoSV",
+    "location": "En Una bobeda",
+    "description": "Para que el amor no se acabe hay que darle siempre tema!\r\nSi no solo esperalo pero dale un mapa para que te encuentre!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 894,
+    "friends_count": 911,
+    "listed_count": 2,
+    "created_at": "Sun Oct 17 18:55:41 +0000 2010",
+    "favourites_count": 592,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 17108,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/759832324/7c63b7818c9f97e5d62beda74a9a8ef5.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/759832324/7c63b7818c9f97e5d62beda74a9a8ef5.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2936403196/3a14217b24f11a0c62e5e7c37292b5f8_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2936403196/3a14217b24f11a0c62e5e7c37292b5f8_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/204020545/1352913491",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "110B42",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "hombreFamoso",
+        "indices": [
+          12,
+          25
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          85,
+          89
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PedroInfanteSV",
+        "name": "Pedro Infante Vive",
+        "id": 289754767,
+        "id_str": "289754767",
+        "indices": [
+          26,
+          41
+        ]
+      },
+      {
+        "screen_name": "UvitaJonES",
+        "name": "•Gomita de Uva•",
+        "id": 107533646,
+        "id_str": "107533646",
+        "indices": [
+          56,
+          67
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

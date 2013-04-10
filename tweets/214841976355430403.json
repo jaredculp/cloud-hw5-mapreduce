@@ -1,0 +1,121 @@
+{
+  "created_at": "Mon Jun 18 22:08:13 +0000 2012",
+  "id": 214841976355430403,
+  "id_str": "214841976355430403",
+  "text": "GO HOOS GO!  RT @ss9ug: Wonderful pictures from today's rally. http://t.co/Z6DN1WL0 #sullivan #uva",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19197117,
+    "id_str": "19197117",
+    "name": "Drew Lawrence",
+    "screen_name": "drewlawrence",
+    "location": "Denver, CO 80209",
+    "description": "I value loyalty & honesty above all things. I fight for what I believe in, what is good, & what is important to me. I love life. I live. ",
+    "url": "http://t.co/qiu02GEt",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/qiu02GEt",
+            "expanded_url": "http://www.drew-lawrence.com",
+            "display_url": "drew-lawrence.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1944,
+    "friends_count": 1527,
+    "listed_count": 64,
+    "created_at": "Mon Jan 19 19:21:12 +0000 2009",
+    "favourites_count": 23,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10146,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1290480596/971882d59a021ff92ab348b0957036d2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1290480596/971882d59a021ff92ab348b0957036d2_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sullivan",
+        "indices": [
+          84,
+          93
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          94,
+          98
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Z6DN1WL0",
+        "expanded_url": "http://ow.ly/bF9SL",
+        "display_url": "ow.ly/bF9SL",
+        "indices": [
+          63,
+          83
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ss9ug",
+        "name": "Stacy Smith",
+        "id": 6901462,
+        "id_str": "6901462",
+        "indices": [
+          16,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

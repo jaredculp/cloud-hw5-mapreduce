@@ -1,0 +1,100 @@
+{
+  "created_at": "Tue Jun 19 22:01:23 +0000 2012",
+  "id": 215202646842277889,
+  "id_str": "215202646842277889",
+  "text": "i actually am in #love with @rihanna so much! shes fit! #BOV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 402262923,
+    "id_str": "402262923",
+    "name": "Jemma",
+    "screen_name": "JemmaHale1",
+    "location": "Birstall",
+    "description": "Always be a first-rate version of yourself, instead of a second-rate version of somebody else...",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 297,
+    "friends_count": 366,
+    "listed_count": 0,
+    "created_at": "Mon Oct 31 20:05:26 +0000 2011",
+    "favourites_count": 230,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3085,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FCEBB6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/630516729/x57611224a33063fae4ef1c393836a18.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/630516729/x57611224a33063fae4ef1c393836a18.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3151625358/c3f029d1726a9c9e081d7aac55d15b7c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3151625358/c3f029d1726a9c9e081d7aac55d15b7c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/402262923/1359587129",
+    "profile_link_color": "CE7834",
+    "profile_sidebar_border_color": "F0A830",
+    "profile_sidebar_fill_color": "78C0A8",
+    "profile_text_color": "5E412F",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "love",
+        "indices": [
+          17,
+          22
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          56,
+          60
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rihanna",
+        "name": "Rihanna",
+        "id": 79293791,
+        "id_str": "79293791",
+        "indices": [
+          28,
+          36
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

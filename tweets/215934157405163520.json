@@ -1,0 +1,122 @@
+{
+  "created_at": "Thu Jun 21 22:28:09 +0000 2012",
+  "id": 215934157405163520,
+  "id_str": "215934157405163520",
+  "text": "@rhmuva76 HEY MOM! welcome to Twittah! you should follow @cavalierdaily for more #Sullivan vs. #BoV updates.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 613168002,
+  "in_reply_to_user_id_str": "613168002",
+  "in_reply_to_screen_name": "rhmuva76",
+  "user": {
+    "id": 24084392,
+    "id_str": "24084392",
+    "name": "Catherine",
+    "screen_name": "cattymelt",
+    "location": "Charlottesville, Virginia",
+    "description": "let it always be known that I was who I am",
+    "url": "http://www.cattymelt.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cattymelt.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 95,
+    "friends_count": 270,
+    "listed_count": 2,
+    "created_at": "Fri Mar 13 00:33:36 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 477,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/145586095/2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/145586095/2_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/24084392/1356219132",
+    "profile_link_color": "224718",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          81,
+          90
+        ]
+      },
+      {
+        "text": "BoV",
+        "indices": [
+          95,
+          99
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rhmuva76",
+        "name": "Ruth Haseman Melton",
+        "id": 613168002,
+        "id_str": "613168002",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          57,
+          71
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

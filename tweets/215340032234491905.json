@@ -1,0 +1,122 @@
+{
+  "created_at": "Wed Jun 20 07:07:19 +0000 2012",
+  "id": 215340032234491905,
+  "id_str": "215340032234491905",
+  "text": "@mark_yudof pls recruit #UVa President Teresa Sullivan to lead @cal! she would be great next pres @dartmouth or @calstate chancellor too",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 41644309,
+  "in_reply_to_user_id_str": "41644309",
+  "in_reply_to_screen_name": "mark_yudof",
+  "user": {
+    "id": 31364295,
+    "id_str": "31364295",
+    "name": "Steven",
+    "screen_name": "polysigh",
+    "location": "California",
+    "description": "Life's great story is somewhere in between politics and economics. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 55,
+    "friends_count": 62,
+    "listed_count": 1,
+    "created_at": "Wed Apr 15 07:45:32 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 365,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2966450491/fdef0f55af74b417a166485f584c977b_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2966450491/fdef0f55af74b417a166485f584c977b_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          24,
+          28
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mark_yudof",
+        "name": "Mark G. Yudof",
+        "id": 41644309,
+        "id_str": "41644309",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "Cal",
+        "name": "Cal",
+        "id": 17445752,
+        "id_str": "17445752",
+        "indices": [
+          63,
+          67
+        ]
+      },
+      {
+        "screen_name": "dartmouth",
+        "name": "Dartmouth",
+        "id": 21226678,
+        "id_str": "21226678",
+        "indices": [
+          98,
+          108
+        ]
+      },
+      {
+        "screen_name": "calstate",
+        "name": "The CSU",
+        "id": 15967775,
+        "id_str": "15967775",
+        "indices": [
+          112,
+          121
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

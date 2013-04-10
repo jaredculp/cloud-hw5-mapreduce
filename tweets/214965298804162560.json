@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 19 06:18:15 +0000 2012",
+  "id": 214965298804162560,
+  "id_str": "214965298804162560",
+  "text": "Fish and #visitors stink after 11 hours #hangintherehoos #BOV #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 87884119,
+    "id_str": "87884119",
+    "name": "Chris Dunlap",
+    "screen_name": "iberiaphile",
+    "location": "Chicago",
+    "description": "Grad student, Latin American history; BS Biochemistry. Double Hoo.  Musicophile. Caffeine addict. Permanent wanderlust. 3-year and counting Chicagoan!  ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 36,
+    "friends_count": 74,
+    "listed_count": 1,
+    "created_at": "Fri Nov 06 06:39:35 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 90,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1765768656/cosmichippo_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1765768656/cosmichippo_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "visitors",
+        "indices": [
+          9,
+          18
+        ]
+      },
+      {
+        "text": "hangintherehoos",
+        "indices": [
+          40,
+          56
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          57,
+          61
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

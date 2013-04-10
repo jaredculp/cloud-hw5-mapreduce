@@ -1,0 +1,130 @@
+{
+  "created_at": "Wed Jun 27 13:26:46 +0000 2012",
+  "id": 217972241760129026,
+  "id_str": "217972241760129026",
+  "text": "The high price of outsourcing our lives http://t.co/mh1WFuQT via @Bookforum and @sivavaid #papel_vivo #economia",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 99707590,
+    "id_str": "99707590",
+    "name": "Pedro Mezgravis",
+    "screen_name": "mezgravis",
+    "location": "São Paulo",
+    "description": "Buscando o que tem de melhor para os perfis @redemis e @puc_sp Pesquisador da economia do livro.",
+    "url": "http://mezgravis.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://mezgravis.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 841,
+    "friends_count": 1841,
+    "listed_count": 21,
+    "created_at": "Sun Dec 27 13:26:39 +0000 2009",
+    "favourites_count": 1259,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 21113,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/62231549/gi-joe-logo-cobra2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/62231549/gi-joe-logo-cobra2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3109442351/261e418dae4c6d8f74a5214daa9b6b48_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3109442351/261e418dae4c6d8f74a5214daa9b6b48_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "papel_vivo",
+        "indices": [
+          90,
+          101
+        ]
+      },
+      {
+        "text": "economia",
+        "indices": [
+          102,
+          111
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/mh1WFuQT",
+        "expanded_url": "http://www.bookforum.com/inprint/1902/9488",
+        "display_url": "bookforum.com/inprint/1902/9…",
+        "indices": [
+          40,
+          60
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "bookforum",
+        "name": "Bookforum Magazine",
+        "id": 15306005,
+        "id_str": "15306005",
+        "indices": [
+          65,
+          75
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          80,
+          89
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

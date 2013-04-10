@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 27 15:00:19 +0000 2012",
+  "id": 217995785026023425,
+  "id_str": "217995785026023425",
+  "text": "‘We staked it out and we won.' U-Va. reacts to the the reinstatement of Teresa #Sullivan. http://t.co/2fuWSS80",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14345778,
+    "id_str": "14345778",
+    "name": "Washington PostVideo",
+    "screen_name": "postvideo",
+    "location": "Washington, D.C.",
+    "description": "Breaking news and top video from The Washington Post curated by @jayneore @jasonaldag @pergam @jforsythe23 @NatashaRudnick @echristinalee @jmckellogg @nickidems",
+    "url": "http://www.washingtonpost.com/video",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.washingtonpost.com/video",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1165,
+    "friends_count": 436,
+    "listed_count": 60,
+    "created_at": "Wed Apr 09 21:26:59 +0000 2008",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8731,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/166296092/twitter_bg1.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/166296092/twitter_bg1.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2075183328/WPTwitterIcon-video2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2075183328/WPTwitterIcon-video2_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          79,
+          88
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/2fuWSS80",
+        "expanded_url": "http://wapo.st/LAGTsc",
+        "display_url": "wapo.st/LAGTsc",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

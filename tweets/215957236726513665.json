@@ -1,0 +1,111 @@
+{
+  "created_at": "Thu Jun 21 23:59:52 +0000 2012",
+  "id": 215957236726513665,
+  "id_str": "215957236726513665",
+  "text": "I love @LarrySabato comparison of #Dragas to New Coke marketers. #uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13560922,
+    "id_str": "13560922",
+    "name": "Sherman Dorn",
+    "screen_name": "shermandorn",
+    "location": "Tampa, FL",
+    "description": "",
+    "url": "http://www.shermandorn.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.shermandorn.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1036,
+    "friends_count": 556,
+    "listed_count": 73,
+    "created_at": "Sat Feb 16 18:56:05 +0000 2008",
+    "favourites_count": 26,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8751,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/49515862/Dorn-port1_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/49515862/Dorn-port1_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Dragas",
+        "indices": [
+          34,
+          41
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          65,
+          69
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          7,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

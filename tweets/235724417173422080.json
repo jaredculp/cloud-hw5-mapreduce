@@ -1,0 +1,105 @@
+{
+  "created_at": "Wed Aug 15 13:07:35 +0000 2012",
+  "id": 235724417173422080,
+  "id_str": "235724417173422080",
+  "text": "Today is the last day for the Salvation Army School Supply Drive! To find a #UVa location, visit http://t.co/Ucpr7uRm.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 223535630,
+    "id_str": "223535630",
+    "name": "Community Relations",
+    "screen_name": "uvacommunity",
+    "location": "University of Virginia",
+    "description": "Linking the University and the Community through communication and outreach.",
+    "url": "http://www.virginia.edu/communityrelations",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginia.edu/communityrelations",
+            "expanded_url": null,
+            "indices": [
+              0,
+              42
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 249,
+    "friends_count": 113,
+    "listed_count": 7,
+    "created_at": "Mon Dec 06 17:21:58 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 199,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF7003",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1184046847/CRLogoRotunda2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1184046847/CRLogoRotunda2_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/223535630/1355250234",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          76,
+          80
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Ucpr7uRm",
+        "expanded_url": "http://bit.ly/OIYih8",
+        "display_url": "bit.ly/OIYih8",
+        "indices": [
+          97,
+          117
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

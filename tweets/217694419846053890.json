@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue Jun 26 19:02:48 +0000 2012",
+  "id": 217694419846053890,
+  "id_str": "217694419846053890",
+  "text": "@chris_stover @readthehook How many members of the #BOV are there? Everyone around the table? #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217694013237624833,
+  "in_reply_to_status_id_str": "217694013237624833",
+  "in_reply_to_user_id": 32563011,
+  "in_reply_to_user_id_str": "32563011",
+  "in_reply_to_screen_name": "ChrisStover",
+  "user": {
+    "id": 23023441,
+    "id_str": "23023441",
+    "name": "Liz Palka",
+    "screen_name": "lizpalka",
+    "location": "Virginia Beach",
+    "description": "Reporter @WAVY_News. @ElonUniversity alum. @Nationals fan. Hampton Roads by way of Greensboro, Charlottesville, Elon and Gaithersburg. (Opinions are my own.)",
+    "url": "http://www.facebook.com/LizPalkaWAVY",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/LizPalkaWAVY",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1445,
+    "friends_count": 1345,
+    "listed_count": 68,
+    "created_at": "Fri Mar 06 03:27:03 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4534,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "76B0F9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/222677175/IMG_1797.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/222677175/IMG_1797.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2767402782/b67eec1bbd9dcd9f67221c276f655eb6_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2767402782/b67eec1bbd9dcd9f67221c276f655eb6_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/23023441/1350472664",
+    "profile_link_color": "B938FA",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "464BF6",
+    "profile_text_color": "080901",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          51,
+          55
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          94,
+          98
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Chris_Stover",
+        "name": "Chris Stover",
+        "id": 996326786,
+        "id_str": "996326786",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "readthehook",
+        "name": "The Hook newspaper",
+        "id": 34417310,
+        "id_str": "34417310",
+        "indices": [
+          14,
+          26
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

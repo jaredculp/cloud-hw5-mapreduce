@@ -1,0 +1,125 @@
+{
+  "created_at": "Fri Aug 10 23:40:59 +0000 2012",
+  "id": 234071879290327040,
+  "id_str": "234071879290327040",
+  "text": "#chupa #que #eh #de #uva",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 186677956,
+    "id_str": "186677956",
+    "name": "Larissa",
+    "screen_name": "lrsilva_",
+    "location": "Brazil",
+    "description": "Living young and wild and free. ",
+    "url": "https://t.co/T8hvWsXy",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/T8hvWsXy",
+            "expanded_url": "https://www.facebook.com/laricassilha?ref=tn_tnmn",
+            "display_url": "facebook.com/laricassilha?r…",
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 324,
+    "friends_count": 93,
+    "listed_count": 3,
+    "created_at": "Sat Sep 04 02:46:20 +0000 2010",
+    "favourites_count": 410,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 48939,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E8E8E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/765738666/6182df546fae3a9598b1400d3daaf2e7.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/765738666/6182df546fae3a9598b1400d3daaf2e7.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3218527327/0a311706deab856a16544b3d216c4c14_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3218527327/0a311706deab856a16544b3d216c4c14_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/186677956/1358140709",
+    "profile_link_color": "828282",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "chupa",
+        "indices": [
+          0,
+          6
+        ]
+      },
+      {
+        "text": "que",
+        "indices": [
+          7,
+          11
+        ]
+      },
+      {
+        "text": "eh",
+        "indices": [
+          12,
+          15
+        ]
+      },
+      {
+        "text": "de",
+        "indices": [
+          16,
+          19
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

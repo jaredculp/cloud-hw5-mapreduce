@@ -1,0 +1,127 @@
+{
+  "created_at": "Mon Aug 06 10:35:46 +0000 2012",
+  "id": 232424721155764224,
+  "id_str": "232424721155764224",
+  "text": "ESTUDIANTE, Habitación muy cerca del campus de #Valladolid Todo incluido!! http://t.co/2ZAmnmeu #UVA #UNIVERSITARIO vía @HRamonyCajalVA",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 156323955,
+    "id_str": "156323955",
+    "name": "VIP Vidal Izquierdo ",
+    "screen_name": "vidalizquierdo",
+    "location": "Valladolid, España.",
+    "description": "Montado en una montaña rusa llamada vida. Emprendedor, empresario, inquieto y a veces persona. Visita mi blog y lee, no quisiera confundirte.",
+    "url": "http://www.vidalizquierdo.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.vidalizquierdo.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 898,
+    "friends_count": 2000,
+    "listed_count": 25,
+    "created_at": "Wed Jun 16 16:48:09 +0000 2010",
+    "favourites_count": 108,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 21177,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/245631172/425px-Valladolid_SanPablo.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/245631172/425px-Valladolid_SanPablo.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2898840320/1b2a288b5b3e25e10fc43fbd7220dbb7_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2898840320/1b2a288b5b3e25e10fc43fbd7220dbb7_normal.jpeg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Valladolid",
+        "indices": [
+          47,
+          58
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          96,
+          100
+        ]
+      },
+      {
+        "text": "UNIVERSITARIO",
+        "indices": [
+          101,
+          115
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/2ZAmnmeu",
+        "expanded_url": "http://fb.me/2c4MGSQZr",
+        "display_url": "fb.me/2c4MGSQZr",
+        "indices": [
+          75,
+          95
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HRamonyCajalVA",
+        "name": "Ana Hostal Ramonycaj",
+        "id": 281702229,
+        "id_str": "281702229",
+        "indices": [
+          120,
+          135
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

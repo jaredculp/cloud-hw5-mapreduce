@@ -1,0 +1,119 @@
+{
+  "created_at": "Tue Jul 03 20:56:04 +0000 2012",
+  "id": 220259636295639041,
+  "id_str": "220259636295639041",
+  "text": "RT @rivalsmike Good source told me #Oregon and #FSU are early threats to take Quin Blanding out of state away from #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 220258550734266369,
+  "in_reply_to_status_id_str": "220258550734266369",
+  "in_reply_to_user_id": 170021040,
+  "in_reply_to_user_id_str": "170021040",
+  "in_reply_to_screen_name": "rivalsmike",
+  "user": {
+    "id": 253082466,
+    "id_str": "253082466",
+    "name": "VirginiaTechFan",
+    "screen_name": "VTechFanBlog",
+    "location": "Blacksburg, VA",
+    "description": "",
+    "url": "http://www.virginiatechfan.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginiatechfan.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2100,
+    "friends_count": 1994,
+    "listed_count": 59,
+    "created_at": "Wed Feb 16 14:31:32 +0000 2011",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8374,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/752729203/4169b2de563b978fa6c289a7903af82c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/752729203/4169b2de563b978fa6c289a7903af82c.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1300310134/VTF-1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1300310134/VTF-1_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/253082466/1349372020",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Oregon",
+        "indices": [
+          35,
+          42
+        ]
+      },
+      {
+        "text": "FSU",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          115,
+          119
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rivalsmike",
+        "name": "Mike Farrell",
+        "id": 170021040,
+        "id_str": "170021040",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

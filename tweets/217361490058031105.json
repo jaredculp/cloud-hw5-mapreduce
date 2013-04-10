@@ -1,0 +1,113 @@
+{
+  "created_at": "Mon Jun 25 20:59:52 +0000 2012",
+  "id": 217361490058031105,
+  "id_str": "217361490058031105",
+  "text": "MT @kped13 Maybe our copy editors. \"@Twituva: I think @WSJ should consider hiring some folks from @cavalierdaily #UVA\"",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 127713630,
+    "id_str": "127713630",
+    "name": "Anna Xie",
+    "screen_name": "annameliorate",
+    "location": "Fairfax / Charlottesville",
+    "description": "@mcintireuva student. Former @cavalierdaily CFO. Photographer. Aspiring consultant and IT specialist.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 227,
+    "friends_count": 414,
+    "listed_count": 4,
+    "created_at": "Tue Mar 30 01:29:16 +0000 2010",
+    "favourites_count": 543,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4025,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3186148867/c5617fe04010ac35b6ddd8ba7a813a25_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3186148867/c5617fe04010ac35b6ddd8ba7a813a25_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/127713630/1359596499",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          113,
+          117
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Twituva",
+        "name": "TwitUVA",
+        "id": 361389221,
+        "id_str": "361389221",
+        "indices": [
+          36,
+          44
+        ]
+      },
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          54,
+          58
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          98,
+          112
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

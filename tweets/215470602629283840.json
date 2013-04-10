@@ -1,0 +1,138 @@
+{
+  "created_at": "Wed Jun 20 15:46:09 +0000 2012",
+  "id": 215470602629283840,
+  "id_str": "215470602629283840",
+  "text": "RT @ryanobles: @NBC12: the political fallout from #UVa. How it could impact @TimKaine &amp; @BobMcDonnell: http://t.co/OcJj9r7A #mepolitics",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19376746,
+    "id_str": "19376746",
+    "name": "Lyle ",
+    "screen_name": "Citizensnews",
+    "location": "Danforth, Me",
+    "description": "Citizen",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1678,
+    "friends_count": 1999,
+    "listed_count": 170,
+    "created_at": "Fri Jan 23 02:23:52 +0000 2009",
+    "favourites_count": 14,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 35093,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2165956279/mcs_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2165956279/mcs_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          50,
+          54
+        ]
+      },
+      {
+        "text": "mepolitics",
+        "indices": [
+          128,
+          139
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/OcJj9r7A",
+        "expanded_url": "http://bit.ly/PsS0kZ",
+        "display_url": "bit.ly/PsS0kZ",
+        "indices": [
+          107,
+          127
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ryanobles",
+        "name": "Ryan Nobles",
+        "id": 16625082,
+        "id_str": "16625082",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "NBC12",
+        "name": "NBC12 WWBT Richmond",
+        "id": 19151000,
+        "id_str": "19151000",
+        "indices": [
+          15,
+          21
+        ]
+      },
+      {
+        "screen_name": "timkaine",
+        "name": "Senator Tim Kaine",
+        "id": 172858784,
+        "id_str": "172858784",
+        "indices": [
+          76,
+          85
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          92,
+          105
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

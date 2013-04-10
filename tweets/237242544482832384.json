@@ -1,0 +1,128 @@
+{
+  "created_at": "Sun Aug 19 17:40:05 +0000 2012",
+  "id": 237242544482832384,
+  "id_str": "237242544482832384",
+  "text": "\"@HCabreraR: #uva #progreso #yucatan  @ The Progreso beach http://t.co/3KvEGH6e\"☑",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 242864788,
+    "id_str": "242864788",
+    "name": "José M. Glez Rivero",
+    "screen_name": "josemiguelyuc",
+    "location": "Madrid, España.",
+    "description": "Periodista. Mexicano.\r\n Premio Estatal de Periodismo 2011\r\nDirector de @YUCATANALMINUTO ",
+    "url": "http://yucatanalminuto.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://yucatanalminuto.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1488,
+    "friends_count": 495,
+    "listed_count": 13,
+    "created_at": "Tue Jan 25 19:38:32 +0000 2011",
+    "favourites_count": 41,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 27170,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3055800240/697017899ce0ce677deb1f320a989efa_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3055800240/697017899ce0ce677deb1f320a989efa_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/242864788/1356998447",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          13,
+          17
+        ]
+      },
+      {
+        "text": "progreso",
+        "indices": [
+          18,
+          27
+        ]
+      },
+      {
+        "text": "yucatan",
+        "indices": [
+          28,
+          36
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/3KvEGH6e",
+        "expanded_url": "http://instagr.am/p/OhKjZEPHyX/",
+        "display_url": "instagr.am/p/OhKjZEPHyX/",
+        "indices": [
+          59,
+          79
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HCabreraR",
+        "name": "Héctor Cabrera",
+        "id": 86786679,
+        "id_str": "86786679",
+        "indices": [
+          1,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

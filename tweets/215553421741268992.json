@@ -1,0 +1,122 @@
+{
+  "created_at": "Wed Jun 20 21:15:15 +0000 2012",
+  "id": 215553421741268992,
+  "id_str": "215553421741268992",
+  "text": "#UVa On the lawn in front of rotunda again today at 5. Some signs: \"not over\"... http://t.co/hAJhnDBj",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 130361942,
+    "id_str": "130361942",
+    "name": "Angie Fu",
+    "screen_name": "theangiefu",
+    "location": "Charlottesville, VA",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 28,
+    "friends_count": 92,
+    "listed_count": 1,
+    "created_at": "Wed Apr 07 02:34:13 +0000 2010",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 609,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1204381779/avatar_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1204381779/avatar_normal.jpg",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 215553421745463301,
+        "id_str": "215553421745463301",
+        "indices": [
+          81,
+          101
+        ],
+        "media_url": "http://pbs.twimg.com/media/Av3Mse1CIAUnDlp.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Av3Mse1CIAUnDlp.jpg",
+        "url": "http://t.co/hAJhnDBj",
+        "display_url": "pic.twitter.com/hAJhnDBj",
+        "expanded_url": "http://twitter.com/theangiefu/status/215553421741268992/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 765,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 254,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 448,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

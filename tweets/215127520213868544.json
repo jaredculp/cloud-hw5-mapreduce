@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Jun 19 17:02:52 +0000 2012",
+  "id": 215127520213868544,
+  "id_str": "215127520213868544",
+  "text": "The #UVA PR disaster was self inflicted http://t.co/C6ryELxG #crisis #PR",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 360729430,
+    "id_str": "360729430",
+    "name": "Tuckahoe Strategies",
+    "screen_name": "TuckahoeStrat",
+    "location": "On the Tuckahoe",
+    "description": "Commenting on media winners, losers and best practices.  How would I handle the crisis of the day?  Just ask. Ramsey Poston",
+    "url": "http://www.tuckahoestrategies.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.tuckahoestrategies.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 155,
+    "friends_count": 272,
+    "listed_count": 3,
+    "created_at": "Tue Aug 23 17:34:35 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 643,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2278714219/rwx7rgo3s404d66m50gn_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2278714219/rwx7rgo3s404d66m50gn_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          4,
+          8
+        ]
+      },
+      {
+        "text": "crisis",
+        "indices": [
+          61,
+          68
+        ]
+      },
+      {
+        "text": "PR",
+        "indices": [
+          69,
+          72
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/C6ryELxG",
+        "expanded_url": "http://www.TuckahoeStrategies.com/the-uva-pr-disaster-was-self-inflicted/",
+        "display_url": "TuckahoeStrategies.com/the-uva-pr-dis…",
+        "indices": [
+          40,
+          60
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

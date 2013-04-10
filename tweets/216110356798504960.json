@@ -1,0 +1,120 @@
+{
+  "created_at": "Fri Jun 22 10:08:18 +0000 2012",
+  "id": 216110356798504960,
+  "id_str": "216110356798504960",
+  "text": "Still wow.\nRT @sajego Lovely that the PR firm representing #dragas has had such other high-profile clients. http://t.co/pG3mYpe0 #UVA",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 10923862,
+    "id_str": "10923862",
+    "name": "Sara Gould",
+    "screen_name": "sajego",
+    "location": "Charlottesville, VA",
+    "description": "Guided by whim, imagination, and curiosity. Founder of two companies, but still say I'm an engineer. Happily self-employed.",
+    "url": "http://InAFlashLaser.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://InAFlashLaser.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 998,
+    "friends_count": 703,
+    "listed_count": 84,
+    "created_at": "Fri Dec 07 02:13:29 +0000 2007",
+    "favourites_count": 1084,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 19882,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "371220",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/188637079/x0be66130e3250ae52413519146ae31e.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/188637079/x0be66130e3250ae52413519146ae31e.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1230208056/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1230208056/image_normal.jpg",
+    "profile_link_color": "521E31",
+    "profile_sidebar_border_color": "ECF18C",
+    "profile_sidebar_fill_color": "C0873D",
+    "profile_text_color": "A7B496",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "dragas",
+        "indices": [
+          59,
+          66
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          129,
+          133
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/pG3mYpe0",
+        "expanded_url": "http://en.wikipedia.org/wiki/Hill_%26_Knowlton",
+        "display_url": "en.wikipedia.org/wiki/Hill_%26_…",
+        "indices": [
+          108,
+          128
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sajego",
+        "name": "Sara Gould",
+        "id": 10923862,
+        "id_str": "10923862",
+        "indices": [
+          14,
+          21
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

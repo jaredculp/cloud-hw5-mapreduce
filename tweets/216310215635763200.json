@@ -1,0 +1,120 @@
+{
+  "created_at": "Fri Jun 22 23:22:28 +0000 2012",
+  "id": 216310215635763200,
+  "id_str": "216310215635763200",
+  "text": "RT @cnewf: really good analysis of diff bet #PublicU and business via #UVa fiasco http://t.co/LU2UQjU4",
+  "source": "<a href=\"http://sites.google.com/site/yorufukurou/\" rel=\"nofollow\">YoruFukurou</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 49542261,
+    "id_str": "49542261",
+    "name": "Natalia Cecire",
+    "screen_name": "ncecire",
+    "location": "New Haven, CT",
+    "description": "American modernism, naturalism, experimental lit, history and philosophy of science, gender, childhood, and media studies.",
+    "url": "http://nataliacecire.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://nataliacecire.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1144,
+    "friends_count": 697,
+    "listed_count": 97,
+    "created_at": "Mon Jun 22 05:00:44 +0000 2009",
+    "favourites_count": 733,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14286,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1202821910/IMG_3107_3_3_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1202821910/IMG_3107_3_3_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "PublicU",
+        "indices": [
+          44,
+          52
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          70,
+          74
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/LU2UQjU4",
+        "expanded_url": "http://bit.ly/LmXmjD",
+        "display_url": "bit.ly/LmXmjD",
+        "indices": [
+          82,
+          102
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cnewf",
+        "name": "Christopher Newfield",
+        "id": 86568010,
+        "id_str": "86568010",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

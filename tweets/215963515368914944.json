@@ -1,0 +1,108 @@
+{
+  "created_at": "Fri Jun 22 00:24:49 +0000 2012",
+  "id": 215963515368914944,
+  "id_str": "215963515368914944",
+  "text": "@sivavaid @LarrySabato it could be better. But it's beyond me how sacking the Prez would magically make it so.",
+  "source": "<a href=\"http://carbonwp7.com\" rel=\"nofollow\">Carbon for Windows Phone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215958805937266688,
+  "in_reply_to_status_id_str": "215958805937266688",
+  "in_reply_to_user_id": 20406724,
+  "in_reply_to_user_id_str": "20406724",
+  "in_reply_to_screen_name": "sivavaid",
+  "user": {
+    "id": 17666263,
+    "id_str": "17666263",
+    "name": "Tim Mulholland",
+    "screen_name": "Tim_STL",
+    "location": "Charlottesville, VA",
+    "description": "UVA Alum, St. Maarten Cafe Co-Owner, Streaking the Lawn writer. Software Engineer when the rest allows for it.",
+    "url": "http://www.streakingthelawn.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.streakingthelawn.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 304,
+    "friends_count": 559,
+    "listed_count": 16,
+    "created_at": "Thu Nov 27 01:52:22 +0000 2008",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7152,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1809251344/n1506121_38089774_7753_cropped_stl_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1809251344/n1506121_38089774_7753_cropped_stl_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          10,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed Jun 27 04:42:44 +0000 2012",
+  "id": 217840363354865665,
+  "id_str": "217840363354865665",
+  "text": "Ditto #2 in FL MT @kimboo_york: Ditto in FL MT @funkmelodious: Been silently rooting 4 Sullivan in IA. Happy public opinion triumphed! #UVA",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 201379948,
+    "id_str": "201379948",
+    "name": "Adam Worrall",
+    "screen_name": "adamworrall4",
+    "location": "Tallahassee, FL",
+    "description": "Doctoral Candidate, Information Studies, FSU. Study social informatics, digital libraries, social info behavior, sci. collab., social media, social theory in IS",
+    "url": "http://www.adamworrall.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.adamworrall.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 256,
+    "friends_count": 304,
+    "listed_count": 33,
+    "created_at": "Mon Oct 11 18:33:31 +0000 2010",
+    "favourites_count": 2587,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5114,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1795046801/adam_worrall_512_110510_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1795046801/adam_worrall_512_110510_normal.png",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kimboo_york",
+        "name": "KimBoo York",
+        "id": 271972040,
+        "id_str": "271972040",
+        "indices": [
+          18,
+          30
+        ]
+      },
+      {
+        "screen_name": "funkmelodious",
+        "name": "Melody Dworak",
+        "id": 9925352,
+        "id_str": "9925352",
+        "indices": [
+          47,
+          61
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

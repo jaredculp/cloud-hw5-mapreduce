@@ -1,0 +1,108 @@
+{
+  "created_at": "Tue Jun 26 20:01:52 +0000 2012",
+  "id": 217709283259846656,
+  "id_str": "217709283259846656",
+  "text": "RT @dandrezner: RT @LarrySabato Dragas supports reinstatement of President Sullivan. IT'S OVER! REASON WON!",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 58198180,
+    "id_str": "58198180",
+    "name": "Stephen Saideman",
+    "screen_name": "smsaideman",
+    "location": "Ottawa",
+    "description": "Int'l Relations Prof, focusing on ethnic conflict, civil war, and lately NATO and Afghanistan.  Also rants about Canada and distractions about pop culture.",
+    "url": "http://www.stevesaideman.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.stevesaideman.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2562,
+    "friends_count": 297,
+    "listed_count": 152,
+    "created_at": "Sun Jul 19 13:40:42 +0000 2009",
+    "favourites_count": 148,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 30590,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/166740431/kin_or_country_cover.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/166740431/kin_or_country_cover.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2810826707/af9b7272037d8fc94add9e7b0dab779c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2810826707/af9b7272037d8fc94add9e7b0dab779c_normal.jpeg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dandrezner",
+        "name": "Daniel Drezner",
+        "id": 75797367,
+        "id_str": "75797367",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          19,
+          31
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,125 @@
+{
+  "created_at": "Tue Jun 26 18:12:50 +0000 2012",
+  "id": 217681842797690880,
+  "id_str": "217681842797690880",
+  "text": "@rikam99 Not that I see; everyone just seems to be using #BoV, #UVA, various iterations of #Hoos. #BoVLive? Ur the creative writer--create!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217681071603593217,
+  "in_reply_to_status_id_str": "217681071603593217",
+  "in_reply_to_user_id": 115748075,
+  "in_reply_to_user_id_str": "115748075",
+  "in_reply_to_screen_name": "rikam99",
+  "user": {
+    "id": 59518694,
+    "id_str": "59518694",
+    "name": "Michelle N. Meyer",
+    "screen_name": "MichelleNMeyer",
+    "location": "Cambridge, MA",
+    "description": "Academic Fellow, Petrie-Flom Center for #Health #Law #Policy, #Biotechnology & #Bioethics @Harvard_Law. #ethics #research #philosophy",
+    "url": "http://ssrn.com/author=1338101",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ssrn.com/author=1338101",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 396,
+    "friends_count": 318,
+    "listed_count": 22,
+    "created_at": "Thu Jul 23 16:48:32 +0000 2009",
+    "favourites_count": 862,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2279,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/328462328/MeyerM_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/328462328/MeyerM_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BoV",
+        "indices": [
+          57,
+          61
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          63,
+          67
+        ]
+      },
+      {
+        "text": "Hoos",
+        "indices": [
+          91,
+          96
+        ]
+      },
+      {
+        "text": "BoVLive",
+        "indices": [
+          98,
+          106
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rikam99",
+        "name": "erika meitner",
+        "id": 115748075,
+        "id_str": "115748075",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

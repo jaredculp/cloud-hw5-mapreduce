@@ -1,0 +1,149 @@
+{
+  "created_at": "Thu Jun 21 12:59:56 +0000 2012",
+  "id": 215791161292492800,
+  "id_str": "215791161292492800",
+  "text": "RT @drmelmarshall: Dragas's home paper - #UVA rector should resign | http://t.co/WIWZ5d9P | http://t.co/KrWQHUjT http://t.co/6UL8V993",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25575496,
+    "id_str": "25575496",
+    "name": "Zoe E. Whitten",
+    "screen_name": "Zoe_E_W",
+    "location": "Milan Italy",
+    "description": "A crazy hobby writer. My ebooks can be found on Amazon: http://t.co/ybWEOX8j and on Kobo: http://t.co/bPj7wUTY I like to write weird shit.",
+    "url": "http://zoewhitten.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://zoewhitten.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/ybWEOX8j",
+            "expanded_url": "http://amzn.to/NoRGSz",
+            "display_url": "amzn.to/NoRGSz",
+            "indices": [
+              56,
+              76
+            ]
+          },
+          {
+            "url": "http://t.co/bPj7wUTY",
+            "expanded_url": "http://bit.ly/PcqY2C",
+            "display_url": "bit.ly/PcqY2C",
+            "indices": [
+              90,
+              110
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1455,
+    "friends_count": 488,
+    "listed_count": 135,
+    "created_at": "Fri Mar 20 21:01:49 +0000 2009",
+    "favourites_count": 68,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 151599,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "696465",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/697818841/38f3651a5e5c07d4d99057db41044fbc.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/697818841/38f3651a5e5c07d4d99057db41044fbc.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2616883182/f2kn92ipbpc9bnbwbm20_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2616883182/f2kn92ipbpc9bnbwbm20_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/25575496/1348178708",
+    "profile_link_color": "0D1CE3",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C9C3C4",
+    "profile_text_color": "3B3838",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          41,
+          45
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WIWZ5d9P",
+        "expanded_url": "http://HamptonRoads.com",
+        "display_url": "HamptonRoads.com",
+        "indices": [
+          69,
+          89
+        ]
+      },
+      {
+        "url": "http://t.co/KrWQHUjT",
+        "expanded_url": "http://PilotOnline.com",
+        "display_url": "PilotOnline.com",
+        "indices": [
+          92,
+          112
+        ]
+      },
+      {
+        "url": "http://t.co/6UL8V993",
+        "expanded_url": "http://bit.ly/LhsZew",
+        "display_url": "bit.ly/LhsZew",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "drmelmarshall",
+        "name": "Melanie L. Marshall",
+        "id": 129314214,
+        "id_str": "129314214",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

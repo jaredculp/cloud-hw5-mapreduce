@@ -1,0 +1,102 @@
+{
+  "created_at": "Wed Jun 20 01:29:21 +0000 2012",
+  "id": 215254982012837888,
+  "id_str": "215254982012837888",
+  "text": "@cavalierdaily @kingecon @mediauvagreg Isn't Wahoo 1 the #UVA president's private plane?",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215251584186187777,
+  "in_reply_to_status_id_str": "215251584186187777",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 204555114,
+    "id_str": "204555114",
+    "name": "A Real Virginian",
+    "screen_name": "RealVirginian",
+    "location": "Washington, DC Metro Area",
+    "description": "From the so-called Real Virginia, forced to live in the DC area for work. Views are my own and are rarely worth worrying about.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 113,
+    "friends_count": 557,
+    "listed_count": 2,
+    "created_at": "Mon Oct 18 23:39:02 +0000 2010",
+    "favourites_count": 33,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1464,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/168200199/P1070507_2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/168200199/P1070507_2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3180961297/5069cf939ae421c96f91911fd515b1cc_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3180961297/5069cf939ae421c96f91911fd515b1cc_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          57,
+          61
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "KingEcon",
+        "name": "Kevin King",
+        "id": 584900703,
+        "id_str": "584900703",
+        "indices": [
+          15,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

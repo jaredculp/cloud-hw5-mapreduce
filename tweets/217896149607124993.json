@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 27 08:24:25 +0000 2012",
+  "id": 217896149607124993,
+  "id_str": "217896149607124993",
+  "text": "Real #UVA. story: The 99 percent win http://t.co/2ewZ78uj",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22196539,
+    "id_str": "22196539",
+    "name": "Don Shaw",
+    "screen_name": "don_shaw",
+    "location": "DC Metro Area",
+    "description": "George Mason University Public Policy PhD Student & Political Junkie ---- Follow / RT does not constitute endorsement.",
+    "url": "http://gmuphd.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://gmuphd.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 324,
+    "friends_count": 665,
+    "listed_count": 4,
+    "created_at": "Fri Feb 27 21:59:19 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3648,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1021153193/Scan_3_2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1021153193/Scan_3_2_normal.jpeg",
+    "profile_link_color": "030000",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "327D7B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          5,
+          9
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/2ewZ78uj",
+        "expanded_url": "http://wapo.st/LA0M2u",
+        "display_url": "wapo.st/LA0M2u",
+        "indices": [
+          37,
+          57
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

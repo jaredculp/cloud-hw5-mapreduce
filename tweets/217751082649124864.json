@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jun 26 22:47:58 +0000 2012",
+  "id": 217751082649124864,
+  "id_str": "217751082649124864",
+  "text": "http://t.co/ujFmj98e #UVA undoes it's #backstab, but if you're Sullivan, do you want this job back? Embarrassing. #wahoowa",
+  "source": "<a href=\"http://www.slate.com\" rel=\"nofollow\">Slate iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 36094026,
+    "id_str": "36094026",
+    "name": "David L Brown",
+    "screen_name": "dbrown0708",
+    "location": "Raleigh, NC",
+    "description": "Male | Overweight | No Criminal Record",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 24,
+    "friends_count": 35,
+    "listed_count": 1,
+    "created_at": "Tue Apr 28 15:30:53 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 519,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1360149774/IMAG0233_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1360149774/IMAG0233_normal.jpg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          21,
+          25
+        ]
+      },
+      {
+        "text": "backstab",
+        "indices": [
+          38,
+          47
+        ]
+      },
+      {
+        "text": "wahoowa",
+        "indices": [
+          114,
+          122
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ujFmj98e",
+        "expanded_url": "http://slate.me/LebF5v",
+        "display_url": "slate.me/LebF5v",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,100 @@
+{
+  "created_at": "Tue Jun 26 20:44:04 +0000 2012",
+  "id": 217719902335807488,
+  "id_str": "217719902335807488",
+  "text": "@nicholastift RT: \"Keep calm and Terry on. #Sullivan #UVa\" this",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217700808920276992,
+  "in_reply_to_status_id_str": "217700808920276992",
+  "in_reply_to_user_id": 52193755,
+  "in_reply_to_user_id_str": "52193755",
+  "in_reply_to_screen_name": "nicholastift",
+  "user": {
+    "id": 284891481,
+    "id_str": "284891481",
+    "name": "Shannon Hees",
+    "screen_name": "shannonhees",
+    "location": "",
+    "description": "proverbs 16:24. i want a life full of laughter and popeyes cajun fries.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 136,
+    "friends_count": 186,
+    "listed_count": 0,
+    "created_at": "Wed Apr 20 04:35:17 +0000 2011",
+    "favourites_count": 413,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 705,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9CEDCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3034944261/5ce7074c8cc487fea7a0764b4810110c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3034944261/5ce7074c8cc487fea7a0764b4810110c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/284891481/1353564693",
+    "profile_link_color": "80ABA9",
+    "profile_sidebar_border_color": "B3B3A5",
+    "profile_sidebar_fill_color": "F5F4DC",
+    "profile_text_color": "948D00",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          43,
+          52
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          53,
+          57
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nicholastift",
+        "name": "Nick Hine",
+        "id": 52193755,
+        "id_str": "52193755",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

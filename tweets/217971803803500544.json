@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 27 13:25:02 +0000 2012",
+  "id": 217971803803500544,
+  "id_str": "217971803803500544",
+  "text": "@WashingtonPost asks higher ed experts including SPEA's Les Lenkowsky about long term impact of #UVa uproar: http://t.co/g3E5oVZZ",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 2467791,
+  "in_reply_to_user_id_str": "2467791",
+  "in_reply_to_screen_name": "washingtonpost",
+  "user": {
+    "id": 543632214,
+    "id_str": "543632214",
+    "name": "IU SPEA Bloomington",
+    "screen_name": "SPEAIUB",
+    "location": "Bloomington, Indiana",
+    "description": "The mission of SPEA is to improve the lives of individuals, the impact of organizations and the quality of communities through research and education.",
+    "url": "http://indiana.edu/~spea",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://indiana.edu/~spea",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 684,
+    "friends_count": 302,
+    "listed_count": 21,
+    "created_at": "Mon Apr 02 16:40:04 +0000 2012",
+    "favourites_count": 2,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1148,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2019280230/SPEA_IUB_avatar_250x250_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2019280230/SPEA_IUB_avatar_250x250_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          96,
+          100
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/g3E5oVZZ",
+        "expanded_url": "http://wapo.st/KChubx",
+        "display_url": "wapo.st/KChubx",
+        "indices": [
+          109,
+          129
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

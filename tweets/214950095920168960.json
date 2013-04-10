@@ -1,0 +1,116 @@
+{
+  "created_at": "Tue Jun 19 05:17:51 +0000 2012",
+  "id": 214950095920168960,
+  "id_str": "214950095920168960",
+  "text": "Wow. #OccupyRotunda RT @DeanEramo It's a Rotunda slumber party...still waiting. #Sullivan #UVA http://t.co/0nerDst1",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 127713630,
+    "id_str": "127713630",
+    "name": "Anna Xie",
+    "screen_name": "annameliorate",
+    "location": "Fairfax / Charlottesville",
+    "description": "@mcintireuva student. Former @cavalierdaily CFO. Photographer. Aspiring consultant and IT specialist.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 228,
+    "friends_count": 415,
+    "listed_count": 4,
+    "created_at": "Tue Mar 30 01:29:16 +0000 2010",
+    "favourites_count": 544,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4027,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3186148867/c5617fe04010ac35b6ddd8ba7a813a25_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3186148867/c5617fe04010ac35b6ddd8ba7a813a25_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/127713630/1359596499",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 6,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "OccupyRotunda",
+        "indices": [
+          5,
+          19
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          80,
+          89
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          90,
+          94
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/0nerDst1",
+        "expanded_url": "http://twitter.com/DeanEramo/status/214949565546250245/photo/1",
+        "display_url": "pic.twitter.com/0nerDst1",
+        "indices": [
+          95,
+          115
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DeanEramo",
+        "name": "Nicole Eramo",
+        "id": 438689928,
+        "id_str": "438689928",
+        "indices": [
+          23,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

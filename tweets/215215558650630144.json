@@ -1,0 +1,95 @@
+{
+  "created_at": "Tue Jun 19 22:52:42 +0000 2012",
+  "id": 215215558650630144,
+  "id_str": "215215558650630144",
+  "text": "@derickwaller looking forward to your synopsis! #uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215213349540081664,
+  "in_reply_to_status_id_str": "215213349540081664",
+  "in_reply_to_user_id": 144031017,
+  "in_reply_to_user_id_str": "144031017",
+  "in_reply_to_screen_name": "derickwallerTV",
+  "user": {
+    "id": 24457050,
+    "id_str": "24457050",
+    "name": "Quentin",
+    "screen_name": "AvenueSwank",
+    "location": "Fashion, Politics, Pop Culture",
+    "description": "Tweets from the mind behind Avenue Swank, and Fashion Editor of KENTON Magazine - Always funny. Always fly. Jackets & Shoes are my ammo. #fashion #politics #UVA",
+    "url": "http://www.avenueswank.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.avenueswank.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1578,
+    "friends_count": 1141,
+    "listed_count": 64,
+    "created_at": "Sun Mar 15 00:22:29 +0000 2009",
+    "favourites_count": 13,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 24924,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/18916753/swankavepic.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/18916753/swankavepic.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1824001939/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1824001939/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

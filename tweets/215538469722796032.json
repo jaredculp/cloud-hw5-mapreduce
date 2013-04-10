@@ -1,0 +1,120 @@
+{
+  "created_at": "Wed Jun 20 20:15:50 +0000 2012",
+  "id": 215538469722796032,
+  "id_str": "215538469722796032",
+  "text": "RT @chronicle: Complete coverage of #Uva and #Sullivan, all in one place: http://t.co/cIrM03r9",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 11884102,
+    "id_str": "11884102",
+    "name": "Michael Stratford",
+    "screen_name": "mstratford",
+    "location": "Little Rock, Ark.",
+    "description": "Covering Arkansas state government and politics for the @AP. Previously at The @Chronicle of Higher Ed. @CornellSun alum. ",
+    "url": "http://www.michaeljstratford.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.michaeljstratford.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 415,
+    "friends_count": 572,
+    "listed_count": 19,
+    "created_at": "Sat Jan 05 19:31:33 +0000 2008",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 679,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2326502477/5he7jgzhxv497sg76s1i_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2326502477/5he7jgzhxv497sg76s1i_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          36,
+          40
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          45,
+          54
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/cIrM03r9",
+        "expanded_url": "http://chroni.cl/LgmJ6D",
+        "display_url": "chroni.cl/LgmJ6D",
+        "indices": [
+          74,
+          94
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

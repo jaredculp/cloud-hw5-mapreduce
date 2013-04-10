@@ -1,0 +1,113 @@
+{
+  "created_at": "Sun Jun 24 01:30:14 +0000 2012",
+  "id": 216704753537794048,
+  "id_str": "216704753537794048",
+  "text": "Thomas Jefferson's answer to Rector Dragas. RT @zunguzungu Another question for Thomas Jefferson: http://t.co/JG6nin08 #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216697919481458688,
+  "in_reply_to_status_id_str": "216697919481458688",
+  "in_reply_to_user_id": 47951511,
+  "in_reply_to_user_id_str": "47951511",
+  "in_reply_to_screen_name": "zunguzungu",
+  "user": {
+    "id": 177901107,
+    "id_str": "177901107",
+    "name": "Arsalan Khan",
+    "screen_name": "akkhan81",
+    "location": "Charlottesville/Karachi",
+    "description": "Anthropologist studying Islam in Pakistan. “I'm killing time while I wait for life to shower me with meaning and happiness.” -- Calvin",
+    "url": "http://arsalankkhan.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://arsalankkhan.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 950,
+    "friends_count": 247,
+    "listed_count": 22,
+    "created_at": "Fri Aug 13 10:23:09 +0000 2010",
+    "favourites_count": 736,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7644,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2808156952/b5f8d91825d5d45101bc9dfc90de4448_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2808156952/b5f8d91825d5d45101bc9dfc90de4448_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          119,
+          123
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/JG6nin08",
+        "expanded_url": "http://zunguzungu.wordpress.com/2012/06/23/another-question/",
+        "display_url": "zunguzungu.wordpress.com/2012/06/23/ano…",
+        "indices": [
+          98,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "zunguzungu",
+        "name": "Aaron Bady",
+        "id": 47951511,
+        "id_str": "47951511",
+        "indices": [
+          47,
+          58
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

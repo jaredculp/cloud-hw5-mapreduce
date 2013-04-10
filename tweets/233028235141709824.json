@@ -1,0 +1,175 @@
+{
+  "created_at": "Wed Aug 08 02:33:55 +0000 2012",
+  "id": 233028235141709824,
+  "id_str": "233028235141709824",
+  "text": "#Redskins #Nats, #Caps, #Wizards #Terps #Hoyas #Hokies #UVa #GMU #AU #GW All here @the202sports",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 482505220,
+    "id_str": "482505220",
+    "name": "The202",
+    "screen_name": "The202Sports",
+    "location": "",
+    "description": "Follow everything #DC #Sports here with The 202 part of @kcmsports",
+    "url": "http://kcmsports.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://kcmsports.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 37,
+    "friends_count": 234,
+    "listed_count": 2,
+    "created_at": "Sat Feb 04 00:21:20 +0000 2012",
+    "favourites_count": 14,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1596,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/682444897/3e581fe12f64bdf8de557d23aaadf55e.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/682444897/3e581fe12f64bdf8de557d23aaadf55e.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2707111349/289c3d2f11d7de2f50aff2b5bf26d0ff_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2707111349/289c3d2f11d7de2f50aff2b5bf26d0ff_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/482505220/1350002006",
+    "profile_link_color": "2A0000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Redskins",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "text": "Nats",
+        "indices": [
+          10,
+          15
+        ]
+      },
+      {
+        "text": "Caps",
+        "indices": [
+          17,
+          22
+        ]
+      },
+      {
+        "text": "Wizards",
+        "indices": [
+          24,
+          32
+        ]
+      },
+      {
+        "text": "Terps",
+        "indices": [
+          33,
+          39
+        ]
+      },
+      {
+        "text": "Hoyas",
+        "indices": [
+          40,
+          46
+        ]
+      },
+      {
+        "text": "Hokies",
+        "indices": [
+          47,
+          54
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          55,
+          59
+        ]
+      },
+      {
+        "text": "GMU",
+        "indices": [
+          60,
+          64
+        ]
+      },
+      {
+        "text": "AU",
+        "indices": [
+          65,
+          68
+        ]
+      },
+      {
+        "text": "GW",
+        "indices": [
+          69,
+          72
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "The202Sports",
+        "name": "The202",
+        "id": 482505220,
+        "id_str": "482505220",
+        "indices": [
+          82,
+          95
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

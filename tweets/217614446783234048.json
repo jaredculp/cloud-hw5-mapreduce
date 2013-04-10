@@ -1,0 +1,126 @@
+{
+  "created_at": "Tue Jun 26 13:45:01 +0000 2012",
+  "id": 217614446783234048,
+  "id_str": "217614446783234048",
+  "text": "The uproar, familiar to all of #highered, that's happening at #uva: http://t.co/bT4C6Jd1 #nytimes #edtech",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 72645399,
+    "id_str": "72645399",
+    "name": "Scott Moore",
+    "screen_name": "drsamoore",
+    "location": "Ann Arbor, MI",
+    "description": "Professor at Michigan Ross School of Business; technology for business education; Michigan sports; low carb eating; hot weather & no snow",
+    "url": "http://www.samoore.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.samoore.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 295,
+    "friends_count": 249,
+    "listed_count": 9,
+    "created_at": "Tue Sep 08 19:40:06 +0000 2009",
+    "favourites_count": 34,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 535,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "081F5B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/570294057/x990a29c1ca8cee69c79ca8db288d87c.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/570294057/x990a29c1ca8cee69c79ca8db288d87c.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2567020840/703mtr23720pfehenqku_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2567020840/703mtr23720pfehenqku_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/72645399/1355321439",
+    "profile_link_color": "E8A900",
+    "profile_sidebar_border_color": "DED6CC",
+    "profile_sidebar_fill_color": "A1ADC7",
+    "profile_text_color": "36578C",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "highered",
+        "indices": [
+          31,
+          40
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          62,
+          66
+        ]
+      },
+      {
+        "text": "nytimes",
+        "indices": [
+          89,
+          97
+        ]
+      },
+      {
+        "text": "edtech",
+        "indices": [
+          98,
+          105
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/bT4C6Jd1",
+        "expanded_url": "http://nyti.ms/LxaF15",
+        "display_url": "nyti.ms/LxaF15",
+        "indices": [
+          68,
+          88
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

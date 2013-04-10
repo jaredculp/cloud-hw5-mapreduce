@@ -1,0 +1,171 @@
+{
+  "created_at": "Mon Aug 20 17:47:46 +0000 2012",
+  "id": 237606865968697345,
+  "id_str": "237606865968697345",
+  "text": "Aspecto estupendisimo! RT @Uvasdoce: @alefeldman qué te parece este granizado de #sandía y #uva? http://t.co/p9godHZj",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17841244,
+    "id_str": "17841244",
+    "name": "Alejandra Feldman",
+    "screen_name": "alefeldman",
+    "location": "Madrid",
+    "description": "Apasionada por la Gastronomía y las Redes Sociales  http://t.co/LnQn1YdQ más de 2.800.000 reproducciones. Experta Periodista Gastronómica y Bloguer           ",
+    "url": "http://t.co/lpPqFE0S",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/lpPqFE0S",
+            "expanded_url": "http://about.me/alefeldman",
+            "display_url": "about.me/alefeldman",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/LnQn1YdQ",
+            "expanded_url": "http://www.youtube.com/CocinaConEncanto",
+            "display_url": "youtube.com/CocinaConEncan…",
+            "indices": [
+              52,
+              72
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 10057,
+    "friends_count": 2855,
+    "listed_count": 419,
+    "created_at": "Wed Dec 03 16:59:58 +0000 2008",
+    "favourites_count": 192,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 19217,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "A2C70E",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/488881596/logo-cocinaconencanto_nuevo.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/488881596/logo-cocinaconencanto_nuevo.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1748836164/foto_ale_web_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1748836164/foto_ale_web_normal.jpg",
+    "profile_link_color": "43A6E8",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E5F0C8",
+    "profile_text_color": "20291B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sandía",
+        "indices": [
+          81,
+          88
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Uvasdoce",
+        "name": "Uvasdoce",
+        "id": 318445117,
+        "id_str": "318445117",
+        "indices": [
+          26,
+          35
+        ]
+      },
+      {
+        "screen_name": "alefeldman",
+        "name": "Alejandra Feldman",
+        "id": 17841244,
+        "id_str": "17841244",
+        "indices": [
+          37,
+          48
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 237557952804945920,
+        "id_str": "237557952804945920",
+        "indices": [
+          97,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/media/A0v5sw6CAAA4RnW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A0v5sw6CAAA4RnW.jpg",
+        "url": "http://t.co/p9godHZj",
+        "display_url": "pic.twitter.com/p9godHZj",
+        "expanded_url": "http://twitter.com/Uvasdoce/status/237557952796557313/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 1542,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 512,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 904,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 237557952796557313,
+        "source_status_id_str": "237557952796557313"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

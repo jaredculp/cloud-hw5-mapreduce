@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 20:39:57 +0000 2012",
+  "id": 217718866598572032,
+  "id_str": "217718866598572032",
+  "text": "@wyethwire Been following #UVA story and nice to see the stakeholder constituencies prevail and to see Sullivan reinstated.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217708623609073665,
+  "in_reply_to_status_id_str": "217708623609073665",
+  "in_reply_to_user_id": 21613853,
+  "in_reply_to_user_id_str": "21613853",
+  "in_reply_to_screen_name": "wyethwire",
+  "user": {
+    "id": 14678264,
+    "id_str": "14678264",
+    "name": "selectiveecho",
+    "screen_name": "selectiveecho",
+    "location": "Salt Lake City",
+    "description": "Editor of The Selective Echo blog. Writer, Editor, Critic, Culture Commentator. Contributing Editor, ArtDesignCafe based in Rotterdam",
+    "url": "http://www.selectiveecho.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.selectiveecho.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 568,
+    "friends_count": 373,
+    "listed_count": 17,
+    "created_at": "Tue May 06 20:01:44 +0000 2008",
+    "favourites_count": 163,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13677,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/55010638/bannerforles-1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/55010638/bannerforles-1_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          26,
+          30
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wyethwire",
+        "name": "Wyeth Ruthven",
+        "id": 21613853,
+        "id_str": "21613853",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,156 @@
+{
+  "created_at": "Wed Jun 20 21:27:18 +0000 2012",
+  "id": 215556450729197569,
+  "id_str": "215556450729197569",
+  "text": "sign on the bus #UVA http://t.co/4Vka8QcW",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 24551327,
+    "id_str": "24551327",
+    "name": "Tess Krovetz",
+    "screen_name": "la_belle_t",
+    "location": "Virginia",
+    "description": "c'viliian, working towards my MT in Elem Ed, loves shoes, wine, trashy tv, puppies, baked goods",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 162,
+    "friends_count": 228,
+    "listed_count": 17,
+    "created_at": "Sun Mar 15 17:10:41 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11179,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2718999072/93cdd37ff7ab883795cea294da6d1042_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2718999072/93cdd37ff7ab883795cea294da6d1042_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/24551327/1352770926",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "531a6942bb8056b9",
+    "url": "https://api.twitter.com/1.1/geo/id/531a6942bb8056b9.json",
+    "place_type": "city",
+    "name": "Charlottesville",
+    "full_name": "Charlottesville, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.523637,
+            38.009584
+          ],
+          [
+            -78.446311,
+            38.009584
+          ],
+          [
+            -78.446311,
+            38.070591
+          ],
+          [
+            -78.523637,
+            38.070591
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          16,
+          20
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 215556450733391873,
+        "id_str": "215556450733391873",
+        "indices": [
+          21,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/Av3PcysCAAEpMSC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Av3PcysCAAEpMSC.jpg",
+        "url": "http://t.co/4Vka8QcW",
+        "display_url": "pic.twitter.com/4Vka8QcW",
+        "expanded_url": "http://twitter.com/la_belle_t/status/215556450729197569/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 804,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 456,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 764,
+            "h": 1024,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 19 18:31:18 +0000 2012",
+  "id": 215149775727763456,
+  "id_str": "215149775727763456",
+  "text": "Just tried to strategically dynamic the chipmunk into my hand. He ran off squealing, \"Wahooowaaa\"  Stupid animal. #UVA",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13250642,
+    "id_str": "13250642",
+    "name": "Amanda Bower",
+    "screen_name": "heyprofbow",
+    "location": "",
+    "description": "Professor. Mother. Smart-ass. (Because smart-ass is better than dumb-ass.)\r\n\r\nhttp://t.co/iSWvxBoA\r\n",
+    "url": "http://www.theshinygreenapples.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.theshinygreenapples.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/iSWvxBoA",
+            "expanded_url": "http://www.heyprofbow.com",
+            "display_url": "heyprofbow.com",
+            "indices": [
+              78,
+              98
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2214,
+    "friends_count": 1988,
+    "listed_count": 87,
+    "created_at": "Fri Feb 08 15:14:11 +0000 2008",
+    "favourites_count": 898,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 48240,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/285516172/Books.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/285516172/Books.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2433091349/zdwnwon17wr1hm2zkukk_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2433091349/zdwnwon17wr1hm2zkukk_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/13250642/1356590871",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          114,
+          118
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

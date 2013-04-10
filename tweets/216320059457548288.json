@@ -1,0 +1,161 @@
+{
+  "created_at": "Sat Jun 23 00:01:35 +0000 2012",
+  "id": 216320059457548288,
+  "id_str": "216320059457548288",
+  "text": "@DavidKazzie @cavalierdaily @cnn @bbc @mittromney @planetromney #mcdonnell has shown total lack of leadership. #dragas needs to be fired",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216301037806555136,
+  "in_reply_to_status_id_str": "216301037806555136",
+  "in_reply_to_user_id": 49635504,
+  "in_reply_to_user_id_str": "49635504",
+  "in_reply_to_screen_name": "DavidKazzie",
+  "user": {
+    "id": 190296269,
+    "id_str": "190296269",
+    "name": "Tom Glendening",
+    "screen_name": "e3blue",
+    "location": "NYC, NY",
+    "description": "urban innovation",
+    "url": "http://www.glendening.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.glendening.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 43,
+    "friends_count": 41,
+    "listed_count": 0,
+    "created_at": "Mon Sep 13 16:00:56 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 965,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "mcdonnell",
+        "indices": [
+          64,
+          74
+        ]
+      },
+      {
+        "text": "dragas",
+        "indices": [
+          111,
+          118
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DavidKazzie",
+        "name": "David Kazzie",
+        "id": 49635504,
+        "id_str": "49635504",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          13,
+          27
+        ]
+      },
+      {
+        "screen_name": "CNN",
+        "name": "CNN",
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          28,
+          32
+        ]
+      },
+      {
+        "screen_name": "BBC",
+        "name": "BBC",
+        "id": 19701628,
+        "id_str": "19701628",
+        "indices": [
+          33,
+          37
+        ]
+      },
+      {
+        "screen_name": "MittRomney",
+        "name": "Mitt Romney",
+        "id": 50055701,
+        "id_str": "50055701",
+        "indices": [
+          38,
+          49
+        ]
+      },
+      {
+        "screen_name": "PlanetRomney",
+        "name": "Fridgeagram",
+        "id": 19912372,
+        "id_str": "19912372",
+        "indices": [
+          50,
+          63
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

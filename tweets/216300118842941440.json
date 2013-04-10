@@ -1,0 +1,158 @@
+{
+  "created_at": "Fri Jun 22 22:42:21 +0000 2012",
+  "id": 216300118842941440,
+  "id_str": "216300118842941440",
+  "text": "@ss9ug @cavalierdaily #hubris continues.  @cnn @bbc @nytimes #dragas has damaged university and #mcdonnell ultimately to blame PLS RT",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216297688541564931,
+  "in_reply_to_status_id_str": "216297688541564931",
+  "in_reply_to_user_id": 6901462,
+  "in_reply_to_user_id_str": "6901462",
+  "in_reply_to_screen_name": "ss9ug",
+  "user": {
+    "id": 190296269,
+    "id_str": "190296269",
+    "name": "Tom Glendening",
+    "screen_name": "e3blue",
+    "location": "NYC, NY",
+    "description": "urban innovation",
+    "url": "http://www.glendening.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.glendening.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 43,
+    "friends_count": 41,
+    "listed_count": 0,
+    "created_at": "Mon Sep 13 16:00:56 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 965,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "hubris",
+        "indices": [
+          22,
+          29
+        ]
+      },
+      {
+        "text": "dragas",
+        "indices": [
+          61,
+          68
+        ]
+      },
+      {
+        "text": "mcdonnell",
+        "indices": [
+          96,
+          106
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ss9ug",
+        "name": "Stacy Smith",
+        "id": 6901462,
+        "id_str": "6901462",
+        "indices": [
+          0,
+          6
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          7,
+          21
+        ]
+      },
+      {
+        "screen_name": "CNN",
+        "name": "CNN",
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          42,
+          46
+        ]
+      },
+      {
+        "screen_name": "BBC",
+        "name": "BBC",
+        "id": 19701628,
+        "id_str": "19701628",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "screen_name": "nytimes",
+        "name": "The New York Times",
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          52,
+          60
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:04:51 +0000 2012",
+  "id": 217694932956229632,
+  "id_str": "217694932956229632",
+  "text": "@cavalierdaily is that a hint #Sullivan is returning?",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217694313260392449,
+  "in_reply_to_status_id_str": "217694313260392449",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 16334480,
+    "id_str": "16334480",
+    "name": "Micheline Maynard",
+    "screen_name": "MickiMaynard",
+    "location": "Ann Arbor, MI",
+    "description": "Reynolds Visiting Professor/Business Journalism, CMU. Contributor @forbes @gadling @atlanticcities. @NYTimes alum. (Food/travel writing:  @culinarywoman.)",
+    "url": "http://blogs.forbes.com/michelinemaynard/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://blogs.forbes.com/michelinemaynard/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              41
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 8942,
+    "friends_count": 1912,
+    "listed_count": 473,
+    "created_at": "Wed Sep 17 18:58:51 +0000 2008",
+    "favourites_count": 1013,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 49652,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/772468082/43bf0df93330d46c413b5a5aa736f513.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/772468082/43bf0df93330d46c413b5a5aa736f513.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2843142861/cf999a13ebf4b2fdb0d4db5dddf9dbc8_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2843142861/cf999a13ebf4b2fdb0d4db5dddf9dbc8_normal.png",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F7FF00",
+    "profile_text_color": "0909F0",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          30,
+          39
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

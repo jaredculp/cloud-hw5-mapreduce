@@ -1,0 +1,121 @@
+{
+  "created_at": "Wed Jun 20 16:22:00 +0000 2012",
+  "id": 215479622542962688,
+  "id_str": "215479622542962688",
+  "text": "RT @harvardextended: University of Virginia board emails cite online education concerns:  http://t.co/snoZ5XYq #uva #highered",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215465846611521539,
+  "in_reply_to_status_id_str": "215465846611521539",
+  "in_reply_to_user_id": 138739154,
+  "in_reply_to_user_id_str": "138739154",
+  "in_reply_to_screen_name": "harvardextended",
+  "user": {
+    "id": 7073672,
+    "id_str": "7073672",
+    "name": "Ian Lamont",
+    "screen_name": "ilamont",
+    "location": "Mass.",
+    "description": "Founder. Early adopter. Serial blogger. Closeted rocker. And other things that don't rhyme. In 30 Minutes™ author and publisher. #mit #台灣 #lean #media",
+    "url": "http://t.co/7akM6plQ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/7akM6plQ",
+            "expanded_url": "http://In30Minutes.com",
+            "display_url": "In30Minutes.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1154,
+    "friends_count": 413,
+    "listed_count": 88,
+    "created_at": "Mon Jun 25 18:12:26 +0000 2007",
+    "favourites_count": 10,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5807,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/79043125/sand2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/79043125/sand2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2250556671/ian_lamont_door_may_2012_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2250556671/ian_lamont_door_may_2012_normal.png",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          111,
+          115
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          116,
+          125
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/snoZ5XYq",
+        "expanded_url": "http://ow.ly/bHYqg",
+        "display_url": "ow.ly/bHYqg",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "harvardextended",
+        "name": "Ian Lamont",
+        "id": 138739154,
+        "id_str": "138739154",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

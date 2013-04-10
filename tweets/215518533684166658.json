@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 20 18:56:37 +0000 2012",
+  "id": 215518533684166658,
+  "id_str": "215518533684166658",
+  "text": "\"She has refused to listen when sent US News &amp; World Report article on how technology is transforming education.\" http://t.co/b5ez24F7 #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 36969470,
+    "id_str": "36969470",
+    "name": "Boston Review",
+    "screen_name": "BostonReview",
+    "location": "Cambridge, MA",
+    "description": "A magazine of ideas, independent and nonprofit.",
+    "url": "http://bostonreview.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://bostonreview.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 14553,
+    "friends_count": 2871,
+    "listed_count": 882,
+    "created_at": "Fri May 01 15:42:57 +0000 2009",
+    "favourites_count": 334,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 16905,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1306122029/br_twitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1306122029/br_twitter_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          139,
+          143
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/b5ez24F7",
+        "expanded_url": "http://crookedtimber.org/2012/06/20/the-declaration-of-independence/",
+        "display_url": "crookedtimber.org/2012/06/20/the…",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

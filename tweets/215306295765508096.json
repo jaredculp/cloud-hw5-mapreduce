@@ -1,0 +1,99 @@
+{
+  "created_at": "Wed Jun 20 04:53:15 +0000 2012",
+  "id": 215306295765508096,
+  "id_str": "215306295765508096",
+  "text": "@LarrySabato do you ever take a break?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215304047039758337,
+  "in_reply_to_status_id_str": "215304047039758337",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 17512682,
+    "id_str": "17512682",
+    "name": "Jamie Lockhart",
+    "screen_name": "jlock",
+    "location": "Arlington, VA",
+    "description": "Political for @AneeshChopra. Formerly @OFA_VA. @JMU alum. Chesterfield Co. native. Saints fan. Lover of group fitness classes. #TeamChopra",
+    "url": "http://facebook.com/jamielockhart",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://facebook.com/jamielockhart",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1641,
+    "friends_count": 1119,
+    "listed_count": 89,
+    "created_at": "Thu Nov 20 15:04:43 +0000 2008",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8236,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "150021",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/52072336/nvtheonly_twitter.br.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/52072336/nvtheonly_twitter.br.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2866347987/d5bc3ee5492532618f0f086c30b4e86d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2866347987/d5bc3ee5492532618f0f086c30b4e86d_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/17512682/1353636036",
+    "profile_link_color": "DA0189",
+    "profile_sidebar_border_color": "150021",
+    "profile_sidebar_fill_color": "F07FDE",
+    "profile_text_color": "150021",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

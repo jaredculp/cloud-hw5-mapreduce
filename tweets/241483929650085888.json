@@ -1,0 +1,118 @@
+{
+  "created_at": "Fri Aug 31 10:33:50 +0000 2012",
+  "id": 241483929650085888,
+  "id_str": "241483929650085888",
+  "text": "Gamebased Learning op 7 juni - http://t.co/dTE6oVfI #hva #uva #vu",
+  "source": "<a href=\"http://www.bravenewcode.com/products/wordtwit\" rel=\"nofollow\">WordTwit Plugin</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 209436685,
+    "id_str": "209436685",
+    "name": "Frappstore.nl",
+    "screen_name": "Frappstore",
+    "location": "Amsterdam",
+    "description": "Actuele informatie over studeren en doceren in Amsterdam #hva #uva #vu",
+    "url": "http://www.frappstore.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.frappstore.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 105,
+    "friends_count": 0,
+    "listed_count": 4,
+    "created_at": "Fri Oct 29 05:34:11 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7677,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2619774201/s3hvqsn7u48octn66agg_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2619774201/s3hvqsn7u48octn66agg_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "hva",
+        "indices": [
+          52,
+          56
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          57,
+          61
+        ]
+      },
+      {
+        "text": "vu",
+        "indices": [
+          62,
+          65
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dTE6oVfI",
+        "expanded_url": "http://tinyurl.com/8wrq4uq",
+        "display_url": "tinyurl.com/8wrq4uq",
+        "indices": [
+          31,
+          51
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

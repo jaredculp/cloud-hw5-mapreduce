@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Aug 29 19:29:53 +0000 2012",
+  "id": 240894055448469504,
+  "id_str": "240894055448469504",
+  "text": "@tomim_pollo #uva podre né,HAHAHA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 240893783384936448,
+  "in_reply_to_status_id_str": "240893783384936448",
+  "in_reply_to_user_id": 185051200,
+  "in_reply_to_user_id_str": "185051200",
+  "in_reply_to_screen_name": "tomim_pollo",
+  "user": {
+    "id": 112071510,
+    "id_str": "112071510",
+    "name": "Fraank  ♔ ",
+    "screen_name": "_Fraank",
+    "location": "",
+    "description": "# É ZIK▲ MEMO TIU  ♔ # ",
+    "url": "http://www.facebook.com/profile.php?id=100001607268441",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/profile.php?id=100001607268441",
+            "expanded_url": null,
+            "indices": [
+              0,
+              54
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 783,
+    "friends_count": 217,
+    "listed_count": 6,
+    "created_at": "Sun Feb 07 05:05:06 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7374,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/661951692/uztkm8nrgnoa0jpz8w54.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/661951692/uztkm8nrgnoa0jpz8w54.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2618750940/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2618750940/image_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          13,
+          17
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "tomim_pollo",
+        "name": "Tomim Pollo ∆  ︻╦╤──",
+        "id": 185051200,
+        "id_str": "185051200",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

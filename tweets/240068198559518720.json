@@ -1,0 +1,90 @@
+{
+  "created_at": "Mon Aug 27 12:48:13 +0000 2012",
+  "id": 240068198559518720,
+  "id_str": "240068198559518720",
+  "text": "#UvA zit vol met regelneukende ambtenaren. Ga er alsjeblieft niet studeren!  #studiekeuze",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 93846481,
+    "id_str": "93846481",
+    "name": "Diggarrrrrrr",
+    "screen_name": "Diggerrrrr",
+    "location": "Breda",
+    "description": "Man van extremen. Of niet.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 83,
+    "friends_count": 190,
+    "listed_count": 0,
+    "created_at": "Tue Dec 01 12:10:08 +0000 2009",
+    "favourites_count": 30,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2690,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1613954953/284009_10150260832382631_557477630_7685903_4337672_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1613954953/284009_10150260832382631_557477630_7685903_4337672_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "studiekeuze",
+        "indices": [
+          77,
+          89
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

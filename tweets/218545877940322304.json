@@ -1,0 +1,137 @@
+{
+  "created_at": "Fri Jun 29 03:26:12 +0000 2012",
+  "id": 218545877940322304,
+  "id_str": "218545877940322304",
+  "text": "RT @TheUVAFool: Congratulations to #UVA's Mike Scott, drafted 43rd overall to the Atlanta Hawks!!",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 92789067,
+    "id_str": "92789067",
+    "name": "ACC Basketball News",
+    "screen_name": "accbballnews",
+    "location": "Pittsboro, NC",
+    "description": "Chatham Journal's ACC Baskeball News.",
+    "url": "http://www.accbasketballnews.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.accbasketballnews.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1439,
+    "friends_count": 298,
+    "listed_count": 81,
+    "created_at": "Thu Nov 26 16:44:25 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7532,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/573450964/basketball-graphic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/573450964/basketball-graphic_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "d4440c589ed81ac4",
+    "url": "https://api.twitter.com/1.1/geo/id/d4440c589ed81ac4.json",
+    "place_type": "city",
+    "name": "Pittsboro",
+    "full_name": "Pittsboro, NC",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -79.193802,
+            35.699566
+          ],
+          [
+            -79.142987,
+            35.699566
+          ],
+          [
+            -79.142987,
+            35.767371
+          ],
+          [
+            -79.193802,
+            35.767371
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          35,
+          39
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,102 @@
+{
+  "created_at": "Fri Jun 29 20:55:27 +0000 2012",
+  "id": 218809931875356672,
+  "id_str": "218809931875356672",
+  "text": "RT “@johnedwinmason: Crisis at #UVA: A visual diary. http://t.co/PXjlJZAH”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 138126336,
+    "id_str": "138126336",
+    "name": "History Girl",
+    "screen_name": "AlexNoVaHistory",
+    "location": "DMV 703",
+    "description": "History stuff in Northern Virginia -- and sometimes beyond! Forever student into archaeology, architecture, African American, Appalachian and digital history.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 464,
+    "friends_count": 225,
+    "listed_count": 23,
+    "created_at": "Wed Apr 28 17:59:27 +0000 2010",
+    "favourites_count": 106,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2260,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E3D96B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/183878112/history_art.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/183878112/history_art.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1766245363/history_girl_head_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1766245363/history_girl_head_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/138126336/1349796789",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/PXjlJZAH",
+        "expanded_url": "http://johnedwinmason.typepad.com/john_edwin_mason_photogra/2012/06/uva-sullivan-visual-diary.html",
+        "display_url": "johnedwinmason.typepad.com/john_edwin_mas…",
+        "indices": [
+          53,
+          73
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "johnedwinmason",
+        "name": "John Edwin Mason",
+        "id": 25343700,
+        "id_str": "25343700",
+        "indices": [
+          4,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

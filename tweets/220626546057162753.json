@@ -1,0 +1,154 @@
+{
+  "created_at": "Wed Jul 04 21:14:02 +0000 2012",
+  "id": 220626546057162753,
+  "id_str": "220626546057162753",
+  "text": "#FBI To Shut Down #DNSChanger Servers Monday -- But Should It Cut Off 300k #PCs?: http://t.co/17wBLAYF | #DNS #Sean #Sullivan #authorities",
+  "source": "<a href=\"http://tibidy.com\" rel=\"nofollow\">Tibidy</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 313799444,
+    "id_str": "313799444",
+    "name": "Tibidy",
+    "screen_name": "TibidyUS",
+    "location": "US",
+    "description": "Cross-read the freshest news on politics, technology and culture: Check out our site http://t.co/JJACnYHJ.",
+    "url": "http://tibidy.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://tibidy.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              17
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/JJACnYHJ",
+            "expanded_url": "http://tibidy.com",
+            "display_url": "tibidy.com",
+            "indices": [
+              85,
+              105
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6942,
+    "friends_count": 7637,
+    "listed_count": 96,
+    "created_at": "Thu Jun 09 07:09:21 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 321791,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1458127887/tbd_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1458127887/tbd_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FBI",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "DNSChanger",
+        "indices": [
+          18,
+          29
+        ]
+      },
+      {
+        "text": "PCs",
+        "indices": [
+          75,
+          79
+        ]
+      },
+      {
+        "text": "DNS",
+        "indices": [
+          105,
+          109
+        ]
+      },
+      {
+        "text": "Sean",
+        "indices": [
+          110,
+          115
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          116,
+          125
+        ]
+      },
+      {
+        "text": "authorities",
+        "indices": [
+          126,
+          138
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/17wBLAYF",
+        "expanded_url": "http://bit.ly/MUZk9x",
+        "display_url": "bit.ly/MUZk9x",
+        "indices": [
+          82,
+          102
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

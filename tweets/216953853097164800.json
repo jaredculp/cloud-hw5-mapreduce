@@ -1,0 +1,112 @@
+{
+  "created_at": "Sun Jun 24 18:00:04 +0000 2012",
+  "id": 216953853097164800,
+  "id_str": "216953853097164800",
+  "text": "check out our new #UVA Watch research group: http://t.co/yz94bY9l",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19042141,
+    "id_str": "19042141",
+    "name": "LittleSis",
+    "screen_name": "twittlesis",
+    "location": "",
+    "description": "An involuntary facebook of powerful people.\r\nA project of the Public Accountability Initiative, http://t.co/qbGNzlxS",
+    "url": "http://littlesis.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://littlesis.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/qbGNzlxS",
+            "expanded_url": "http://public-accountability.org",
+            "display_url": "public-accountability.org",
+            "indices": [
+              96,
+              116
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 761,
+    "friends_count": 578,
+    "listed_count": 65,
+    "created_at": "Thu Jan 15 22:19:15 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 997,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "050505",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/743704372/01389860df4e8198b7e72d852c788a69.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/743704372/01389860df4e8198b7e72d852c788a69.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/75418717/twittlesis_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/75418717/twittlesis_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          18,
+          22
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/yz94bY9l",
+        "expanded_url": "http://littlesis.org/group/uva-watch",
+        "display_url": "littlesis.org/group/uva-watch",
+        "indices": [
+          45,
+          65
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

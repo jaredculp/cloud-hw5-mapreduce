@@ -1,0 +1,109 @@
+{
+  "created_at": "Fri Aug 31 01:43:20 +0000 2012",
+  "id": 241350424978919424,
+  "id_str": "241350424978919424",
+  "text": "@SullivanTBS you ruin the Thursday night lineup that is the big bang theory #Sullivan&amp;sonSUCKS @JAChristoff at least bring back #menatwork",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 488801595,
+  "in_reply_to_user_id_str": "488801595",
+  "in_reply_to_screen_name": "SullivanTBS",
+  "user": {
+    "id": 132395141,
+    "id_str": "132395141",
+    "name": "Steven Flockenhaus",
+    "screen_name": "steve_flock",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 127,
+    "friends_count": 242,
+    "listed_count": 5,
+    "created_at": "Tue Apr 13 03:35:43 +0000 2010",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 146,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/998884702/steve_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/998884702/steve_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          76,
+          85
+        ]
+      },
+      {
+        "text": "menatwork",
+        "indices": [
+          132,
+          142
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SullivanTBS",
+        "name": "Sullivan and Son",
+        "id": 488801595,
+        "id_str": "488801595",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "JAChristoff",
+        "name": "Joe Christoff",
+        "id": 325230418,
+        "id_str": "325230418",
+        "indices": [
+          99,
+          111
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

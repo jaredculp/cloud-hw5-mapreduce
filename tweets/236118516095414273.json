@@ -1,0 +1,92 @@
+{
+  "created_at": "Thu Aug 16 15:13:35 +0000 2012",
+  "id": 236118516095414273,
+  "id_str": "236118516095414273",
+  "text": "@rivalsmike want to change your pick from yesterday, or are you sticking with #UVa?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 236117683513462785,
+  "in_reply_to_status_id_str": "236117683513462785",
+  "in_reply_to_user_id": 170021040,
+  "in_reply_to_user_id_str": "170021040",
+  "in_reply_to_screen_name": "rivalsmike",
+  "user": {
+    "id": 302608352,
+    "id_str": "302608352",
+    "name": "Steven Templeton",
+    "screen_name": "stemp_vt",
+    "location": "",
+    "description": "VT grad, future doctor. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 124,
+    "friends_count": 187,
+    "listed_count": 3,
+    "created_at": "Sat May 21 13:27:45 +0000 2011",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6558,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3040090787/059bebb2bd59a06053d8232a6938cc69_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3040090787/059bebb2bd59a06053d8232a6938cc69_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          78,
+          82
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rivalsmike",
+        "name": "Mike Farrell",
+        "id": 170021040,
+        "id_str": "170021040",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

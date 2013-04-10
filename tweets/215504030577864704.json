@@ -1,0 +1,123 @@
+{
+  "created_at": "Wed Jun 20 17:58:59 +0000 2012",
+  "id": 215504030577864704,
+  "id_str": "215504030577864704",
+  "text": "RT @sselisker Devastating. #UVA: \"governance by...op-ed clippings...by rah-rah Powerpoint\" http://t.co/ybcx7sZQ /@janineutell",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 12876812,
+    "id_str": "12876812",
+    "name": "Matt Gold",
+    "screen_name": "mkgold",
+    "location": "New York",
+    "description": "Just trying to work the google on the internet machine.",
+    "url": "http://www.mkgold.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mkgold.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1890,
+    "friends_count": 733,
+    "listed_count": 143,
+    "created_at": "Wed Jan 30 17:01:20 +0000 2008",
+    "favourites_count": 2734,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7306,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/3528181/twitter-back-zither3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/3528181/twitter-back-zither3.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2819228164/d40bca11f63a19c218e897a0ed63a0fc_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2819228164/d40bca11f63a19c218e897a0ed63a0fc_normal.png",
+    "profile_link_color": "0A5D7B",
+    "profile_sidebar_border_color": "021C3A",
+    "profile_sidebar_fill_color": "C9D4FA",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          27,
+          31
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ybcx7sZQ",
+        "expanded_url": "http://huff.to/Mgi93N",
+        "display_url": "huff.to/Mgi93N",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sselisker",
+        "name": "Scott Selisker",
+        "id": 34613879,
+        "id_str": "34613879",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "janineutell",
+        "name": "Janine Utell",
+        "id": 20779605,
+        "id_str": "20779605",
+        "indices": [
+          113,
+          125
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

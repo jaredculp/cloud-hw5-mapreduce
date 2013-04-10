@@ -1,0 +1,111 @@
+{
+  "created_at": "Mon Aug 20 08:47:09 +0000 2012",
+  "id": 237470818186186753,
+  "id_str": "237470818186186753",
+  "text": "Nieuwe interface helpt bij zoeken in digitale #archieven: gebruikersstudie met 40 mediawetenschappers http://t.co/YEoCaWQM? #UvA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 56943499,
+    "id_str": "56943499",
+    "name": "Tekstblad",
+    "screen_name": "Tekstblad",
+    "location": "Nederland",
+    "description": "Voor iedereen die professioneel met #tekst bezig is. Tekstblad geeft kennis over #tekstkwaliteit en zakelijk #schrijven door via het tijdschrift en het web.",
+    "url": "http://www.tekstblad.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.tekstblad.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1341,
+    "friends_count": 270,
+    "listed_count": 58,
+    "created_at": "Wed Jul 15 06:13:32 +0000 2009",
+    "favourites_count": 40,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3527,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "262126",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1560763256/tekstblad_logo_twitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1560763256/tekstblad_logo_twitter_normal.jpg",
+    "profile_link_color": "2116B8",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F7F2F7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "archieven",
+        "indices": [
+          46,
+          56
+        ]
+      },
+      {
+        "text": "UvA",
+        "indices": [
+          124,
+          128
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/YEoCaWQM",
+        "expanded_url": "http://www.uva.nl/actueel/nieuws/nieuws.cfm/2080A63A-F5FE-4197-A8738FAA53065FBB",
+        "display_url": "uva.nl/actueel/nieuws…",
+        "indices": [
+          102,
+          122
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

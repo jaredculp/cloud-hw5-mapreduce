@@ -1,0 +1,127 @@
+{
+  "created_at": "Mon Aug 27 19:12:52 +0000 2012",
+  "id": 240164997815218176,
+  "id_str": "240164997815218176",
+  "text": "#UVA among 10 Universities with Great Brand Cred. Check out article http://t.co/7gre0InT via #universities #branding RT @ronicasays",
+  "source": "<a href=\"http://achleitner.de\" rel=\"nofollow\">Branding And Marketing News</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 403747127,
+    "id_str": "403747127",
+    "name": "soundseller",
+    "screen_name": "brandingchannel",
+    "location": "Berlin, Germany",
+    "description": "Marketing and Branding related news",
+    "url": "http://soundseller.eu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://soundseller.eu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2036,
+    "friends_count": 1,
+    "listed_count": 154,
+    "created_at": "Wed Nov 02 23:09:47 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": 3600,
+    "time_zone": "Berlin",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 49492,
+    "lang": "de",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/442050194/pattern.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/442050194/pattern.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1619540883/soundseller_avatar_black_200x200_reasonably_small_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1619540883/soundseller_avatar_black_200x200_reasonably_small_normal.jpg",
+    "profile_link_color": "666666",
+    "profile_sidebar_border_color": "444444",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "444444",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "universities",
+        "indices": [
+          93,
+          106
+        ]
+      },
+      {
+        "text": "branding",
+        "indices": [
+          107,
+          116
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/7gre0InT",
+        "expanded_url": "http://sqzr.de/Npv",
+        "display_url": "sqzr.de/Npv",
+        "indices": [
+          68,
+          88
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ronicasays",
+        "name": "Ronica Smucker",
+        "id": 389859953,
+        "id_str": "389859953",
+        "indices": [
+          120,
+          131
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

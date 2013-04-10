@@ -1,0 +1,149 @@
+{
+  "created_at": "Tue Jun 26 19:33:23 +0000 2012",
+  "id": 217702114502258690,
+  "id_str": "217702114502258690",
+  "text": "RT @shermandorn: Usually peace and reconciliation is more important than righteousness. Good luck to all at #UVa.",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 231187770,
+    "id_str": "231187770",
+    "name": "Michelle Davison",
+    "screen_name": "subversiveone2",
+    "location": "Tampa, FL",
+    "description": "Software developer by day, history grad student by night.",
+    "url": "http://www.michelledavison.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.michelledavison.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 99,
+    "friends_count": 326,
+    "listed_count": 4,
+    "created_at": "Mon Dec 27 21:11:20 +0000 2010",
+    "favourites_count": 46,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 883,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1226064311/Mewithmacaw_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1226064311/Mewithmacaw_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      28.06281122,
+      -82.53522531
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -82.53522531,
+      28.06281122
+    ]
+  },
+  "place": {
+    "id": "2973a4f5cbb514f4",
+    "url": "https://api.twitter.com/1.1/geo/id/2973a4f5cbb514f4.json",
+    "place_type": "city",
+    "name": "Greater Carrollwood",
+    "full_name": "Greater Carrollwood, FL",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -82.544142,
+            28.033479
+          ],
+          [
+            -82.479579,
+            28.033479
+          ],
+          [
+            -82.479579,
+            28.084672
+          ],
+          [
+            -82.544142,
+            28.084672
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          108,
+          112
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "shermandorn",
+        "name": "Sherman Dorn",
+        "id": 13560922,
+        "id_str": "13560922",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

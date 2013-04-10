@@ -1,0 +1,114 @@
+{
+  "created_at": "Sun Jun 24 12:41:48 +0000 2012",
+  "id": 216873760383442944,
+  "id_str": "216873760383442944",
+  "text": "Needs more slaves. RT: “@washingtonpost: What would Thomas Jefferson think of the #UVA turmoil? http://t.co/HxtnDy8H”",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 726193,
+    "id_str": "726193",
+    "name": "monkeyrotica",
+    "screen_name": "monkeyrotica",
+    "location": "Washington, DC",
+    "description": "(Dr., Dr., Mr. MD)",
+    "url": "http://www.monkeyrotica.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.monkeyrotica.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1089,
+    "friends_count": 891,
+    "listed_count": 78,
+    "created_at": "Mon Jan 29 15:05:25 +0000 2007",
+    "favourites_count": 21,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13917,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/385357052/chimp.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/385357052/chimp.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/431485835/monkeyrotica_6_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/431485835/monkeyrotica_6_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/726193/1353854794",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F08770",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          82,
+          86
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/HxtnDy8H",
+        "expanded_url": "http://wapo.st/L4peo9",
+        "display_url": "wapo.st/L4peo9",
+        "indices": [
+          96,
+          116
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          24,
+          39
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

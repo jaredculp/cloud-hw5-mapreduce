@@ -1,0 +1,96 @@
+{
+  "created_at": "Tue Aug 14 11:27:48 +0000 2012",
+  "id": 235336920799006720,
+  "id_str": "235336920799006720",
+  "text": "@ZachHauk @greg_strine yeah I had football too.",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 235201341557993472,
+  "in_reply_to_status_id_str": "235201341557993472",
+  "in_reply_to_user_id": 542913462,
+  "in_reply_to_user_id_str": "542913462",
+  "in_reply_to_screen_name": "ZachHauk",
+  "user": {
+    "id": 408779441,
+    "id_str": "408779441",
+    "name": "Kyle Jurczak",
+    "screen_name": "kjzk13",
+    "location": "",
+    "description": "The least interesting man in the world.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 107,
+    "friends_count": 197,
+    "listed_count": 0,
+    "created_at": "Wed Nov 09 21:44:34 +0000 2011",
+    "favourites_count": 380,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1348,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/702848123/4e1c8e73f9e98e8cb3388a4e20a48f9e.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/702848123/4e1c8e73f9e98e8cb3388a4e20a48f9e.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3053187761/54a9779388d986c1f1aba4e2f50c548e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3053187761/54a9779388d986c1f1aba4e2f50c548e_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ZachHauk",
+        "name": "Zach Hauk",
+        "id": 542913462,
+        "id_str": "542913462",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "Greg_Strine",
+        "name": "Greg Strine",
+        "id": 390790897,
+        "id_str": "390790897",
+        "indices": [
+          10,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

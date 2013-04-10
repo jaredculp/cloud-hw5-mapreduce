@@ -1,0 +1,113 @@
+{
+  "created_at": "Mon Jun 25 16:38:41 +0000 2012",
+  "id": 217295763217203200,
+  "id_str": "217295763217203200",
+  "text": "Link: Guest Fmr VA @Gov_Gilmore (and #UVA alum) offers his take on the situation in Charlottesville http://t.co/5H6Nxn4s",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14848798,
+    "id_str": "14848798",
+    "name": "The Kojo Nnamdi Show",
+    "screen_name": "kojoshow",
+    "location": "Washington, DC",
+    "description": "The Kojo Nnamdi Show from WAMU 88.5 - American University Radio",
+    "url": "http://thekojonnamdishow.org/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://thekojonnamdishow.org/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 10768,
+    "friends_count": 118,
+    "listed_count": 619,
+    "created_at": "Tue May 20 19:14:24 +0000 2008",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7151,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F78C34",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/186591778/twitter-kns.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/186591778/twitter-kns.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1201878625/kpjo_twitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1201878625/kpjo_twitter_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "CCCCCC",
+    "profile_sidebar_fill_color": "CCCCCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/5H6Nxn4s",
+        "expanded_url": "http://bit.ly/MjU5P3",
+        "display_url": "bit.ly/MjU5P3",
+        "indices": [
+          100,
+          120
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Gov_Gilmore",
+        "name": "Jim Gilmore",
+        "id": 264279467,
+        "id_str": "264279467",
+        "indices": [
+          19,
+          31
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

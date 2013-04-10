@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:26:57 +0000 2012",
+  "id": 217700495412834304,
+  "id_str": "217700495412834304",
+  "text": "RT @uva: #Uva roll call: SULLIVAN REINSTATED 15-0!",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18229042,
+    "id_str": "18229042",
+    "name": "debb",
+    "screen_name": "handpecked",
+    "location": "DC",
+    "description": "Wayne's World+Martha=my life\r\n\r\nI will Polyanna my way through life with a lot of curse words.\r\n",
+    "url": "http://www.handpeckeddesigns.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.handpeckeddesigns.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 333,
+    "friends_count": 230,
+    "listed_count": 18,
+    "created_at": "Thu Dec 18 23:49:49 +0000 2008",
+    "favourites_count": 70,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 12310,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FBEADA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/25160129/twitter.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/25160129/twitter.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1012844987/handpecked_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1012844987/handpecked_normal.png",
+    "profile_link_color": "324D35",
+    "profile_sidebar_border_color": "F0E8DB",
+    "profile_sidebar_fill_color": "F69937",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          9,
+          13
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          3,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

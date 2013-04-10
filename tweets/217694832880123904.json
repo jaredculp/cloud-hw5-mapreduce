@@ -1,0 +1,108 @@
+{
+  "created_at": "Tue Jun 26 19:04:27 +0000 2012",
+  "id": 217694832880123904,
+  "id_str": "217694832880123904",
+  "text": "over 8800 viewing and rising.. via @UVAFacultySen\nLive stream of #UVA #BOV meeting at 3 pm today: http://t.co/DpNkBCOx",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1565981,
+    "id_str": "1565981",
+    "name": "nancy mulrine",
+    "screen_name": "ancym",
+    "location": "crozet & charlottesville",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 460,
+    "friends_count": 741,
+    "listed_count": 29,
+    "created_at": "Tue Mar 20 00:31:05 +0000 2007",
+    "favourites_count": 20,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2561,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9BB1E9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/29920482/birdonbeach.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/29920482/birdonbeach.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/29630742/Picture_006_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/29630742/Picture_006_normal.jpg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          65,
+          69
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          70,
+          74
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/DpNkBCOx",
+        "expanded_url": "http://bit.ly/MTTu3G",
+        "display_url": "bit.ly/MTTu3G",
+        "indices": [
+          98,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVAFacultySen",
+        "name": "UVA Faculty Senate",
+        "id": 613796706,
+        "id_str": "613796706",
+        "indices": [
+          35,
+          49
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

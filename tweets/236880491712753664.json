@@ -1,0 +1,84 @@
+{
+  "created_at": "Sat Aug 18 17:41:24 +0000 2012",
+  "id": 236880491712753664,
+  "id_str": "236880491712753664",
+  "text": "Me encanta dius #Uva",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 550344632,
+    "id_str": "550344632",
+    "name": "Zairin:)",
+    "screen_name": "ZairaIsteria",
+    "location": "",
+    "description": "Busquemos la felicidad allá donde se encuentre, no importa donde ni durante cuanto tiempo tengamos que hacerlo, simplemente encontremosla(:",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 110,
+    "friends_count": 105,
+    "listed_count": 0,
+    "created_at": "Tue Apr 10 18:43:13 +0000 2012",
+    "favourites_count": 12,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2205,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/755027714/94c09c7ec8311eb4e3316c89f3ca00a2.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/755027714/94c09c7ec8311eb4e3316c89f3ca00a2.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3060476860/abf2ea48316e439d517eba7727da9a14_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3060476860/abf2ea48316e439d517eba7727da9a14_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/550344632/1359370088",
+    "profile_link_color": "0EB4F0",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          16,
+          20
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

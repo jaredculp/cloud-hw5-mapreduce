@@ -1,0 +1,117 @@
+{
+  "created_at": "Tue Jun 19 04:43:45 +0000 2012",
+  "id": 214941516068696064,
+  "id_str": "214941516068696064",
+  "text": "Being on twitter for the #UVA #BOV #Sullivan thing is killing my battery #10percentleft",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 156158692,
+    "id_str": "156158692",
+    "name": "Susan Thornton",
+    "screen_name": "thorntonsa",
+    "location": "rva, cville, around the world",
+    "description": "vcu basketball fanatic, vcu engineering, world traveler",
+    "url": "http://facebook.com/thorntonsa",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://facebook.com/thorntonsa",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 334,
+    "friends_count": 1256,
+    "listed_count": 4,
+    "created_at": "Wed Jun 16 04:55:35 +0000 2010",
+    "favourites_count": 298,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 20582,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/154458417/meh.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/154458417/meh.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3098702171/532eb085afa582fb93d81af893960170_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3098702171/532eb085afa582fb93d81af893960170_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/156158692/1349497353",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          25,
+          29
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          30,
+          34
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          35,
+          44
+        ]
+      },
+      {
+        "text": "10percentleft",
+        "indices": [
+          73,
+          87
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

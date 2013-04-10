@@ -1,0 +1,112 @@
+{
+  "created_at": "Tue Jun 26 21:12:23 +0000 2012",
+  "id": 217727027346800641,
+  "id_str": "217727027346800641",
+  "text": "@MargotWinick Between #UVA and #PennState, seems like Board of Trustees have a hard time getting anything right...",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217726500311535616,
+  "in_reply_to_status_id_str": "217726500311535616",
+  "in_reply_to_user_id": 44409917,
+  "in_reply_to_user_id_str": "44409917",
+  "in_reply_to_screen_name": "MargotWinick",
+  "user": {
+    "id": 81750128,
+    "id_str": "81750128",
+    "name": "Jason Ginenthal",
+    "screen_name": "JGinenthal",
+    "location": "Philadelphia, PA",
+    "description": "PR professional, @univmiami alum and news junkie. Views are mine and mine alone.",
+    "url": "http://jason-ginenthal.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://jason-ginenthal.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 451,
+    "friends_count": 649,
+    "listed_count": 10,
+    "created_at": "Mon Oct 12 03:15:17 +0000 2009",
+    "favourites_count": 643,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11847,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/648212971/nvsunspots_twitter.br.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/648212971/nvsunspots_twitter.br.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2005547010/Snapshot_of_me_1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2005547010/Snapshot_of_me_1_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/81750128/1353123318",
+    "profile_link_color": "003F8A",
+    "profile_sidebar_border_color": "003575",
+    "profile_sidebar_fill_color": "A8B9CD",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          22,
+          26
+        ]
+      },
+      {
+        "text": "PennState",
+        "indices": [
+          31,
+          41
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MargotWinick",
+        "name": "Margot Scott Winick",
+        "id": 44409917,
+        "id_str": "44409917",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,92 @@
+{
+  "created_at": "Wed Aug 15 19:02:10 +0000 2012",
+  "id": 235813651192373248,
+  "id_str": "235813651192373248",
+  "text": "Does anyone know what the Fontana Food Center is? http://t.co/1NuiOWuE #uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 39781352,
+    "id_str": "39781352",
+    "name": "Derek Brameyer",
+    "screen_name": "Rockmaninoff",
+    "location": "Virginia, USA",
+    "description": "The evolved form of Courage Wolf.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 117,
+    "friends_count": 151,
+    "listed_count": 9,
+    "created_at": "Wed May 13 16:13:35 +0000 2009",
+    "favourites_count": 19,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5898,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2657069821/b3b36380ce3624c398818d61f3bb87a6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2657069821/b3b36380ce3624c398818d61f3bb87a6_normal.jpeg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          71,
+          75
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/1NuiOWuE",
+        "expanded_url": "http://bit.ly/OYL7Xl",
+        "display_url": "bit.ly/OYL7Xl",
+        "indices": [
+          50,
+          70
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

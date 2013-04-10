@@ -1,0 +1,126 @@
+{
+  "created_at": "Tue Jun 26 19:27:45 +0000 2012",
+  "id": 217700696802328576,
+  "id_str": "217700696802328576",
+  "text": "RT @RTDNEWS: BREAKING: #UVa board reverses decision, brings back #Sullivan #va #rva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25829543,
+    "id_str": "25829543",
+    "name": "KP Richardson",
+    "screen_name": "BrandKP",
+    "location": "RVA",
+    "description": "Brand Transformer. Richmond Tar Heel. Part-time runner and vegan. Growing Christian. Girl power. Opinions here are my own.",
+    "url": "http://www.linkedin.com/in/kprich",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.linkedin.com/in/kprich",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 184,
+    "friends_count": 98,
+    "listed_count": 6,
+    "created_at": "Sun Mar 22 15:21:31 +0000 2009",
+    "favourites_count": 45,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1374,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F50C0C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/421443905/hudson-against-the-grain-music-video.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/421443905/hudson-against-the-grain-music-video.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2907482670/fec37427421c7bd56e21c4e4e1271e86_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2907482670/fec37427421c7bd56e21c4e4e1271e86_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/25829543/1350698410",
+    "profile_link_color": "2618A8",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          23,
+          27
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          65,
+          74
+        ]
+      },
+      {
+        "text": "va",
+        "indices": [
+          75,
+          78
+        ]
+      },
+      {
+        "text": "rva",
+        "indices": [
+          79,
+          83
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RTDNEWS",
+        "name": "Times-Dispatch",
+        "id": 23764675,
+        "id_str": "23764675",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

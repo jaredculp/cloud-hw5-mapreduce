@@ -1,0 +1,103 @@
+{
+  "created_at": "Fri Jun 29 03:15:52 +0000 2012",
+  "id": 218543278340055040,
+  "id_str": "218543278340055040",
+  "text": "#UVA in the house Mike Scott (ranked 51st) taken 43rd by #Hawks...",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 129582892,
+    "id_str": "129582892",
+    "name": "King Motley",
+    "screen_name": "KINGofKCMSports",
+    "location": "Washington, D.C.",
+    "description": "Covering #DC #Sports #Wizards, #Nationals, #Capitals, #Redskins, #Terps, #Hoyas and MORE",
+    "url": "http://t.co/DjbVIbzM",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/DjbVIbzM",
+            "expanded_url": "http://kcmsports.com",
+            "display_url": "kcmsports.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 108,
+    "friends_count": 356,
+    "listed_count": 1,
+    "created_at": "Sun Apr 04 19:52:09 +0000 2010",
+    "favourites_count": 10,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5622,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/633968285/v0at1p4g6wdqho4fa9i4.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/633968285/v0at1p4g6wdqho4fa9i4.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2569382471/g0vxo99n94uyt2qd6lxd_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2569382471/g0vxo99n94uyt2qd6lxd_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Hawks",
+        "indices": [
+          57,
+          63
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,127 @@
+{
+  "created_at": "Tue Jun 26 15:49:53 +0000 2012",
+  "id": 217645870571716609,
+  "id_str": "217645870571716609",
+  "text": "#classic RT @saragoldrickrab: Friends-- Watch this! Just, watch this! You need the laugh on #highered #UVA is amazing! http://t.co/keP098jw",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 609176602,
+    "id_str": "609176602",
+    "name": "Brian A. Sponsler",
+    "screen_name": "BrianSponsler",
+    "location": "Washington, D.C.",
+    "description": "Vice President for Research and Policy, NASPA - Student Affairs Professionals in Higher Education. Opinions are my own; links and retweets are not endorsements.",
+    "url": "http://www.naspa.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.naspa.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 138,
+    "friends_count": 112,
+    "listed_count": 5,
+    "created_at": "Fri Jun 15 15:01:14 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 236,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2655741248/dc2d6e75fa7eb26a00cd8400e379e88d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2655741248/dc2d6e75fa7eb26a00cd8400e379e88d_normal.jpeg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "classic",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          92,
+          101
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          102,
+          106
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/keP098jw",
+        "expanded_url": "http://youtu.be/Kt04qRTib2M",
+        "display_url": "youtu.be/Kt04qRTib2M",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "saragoldrickrab",
+        "name": "Sara Goldrick-Rab",
+        "id": 32608975,
+        "id_str": "32608975",
+        "indices": [
+          12,
+          28
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

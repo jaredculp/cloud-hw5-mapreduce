@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Jun 20 00:17:16 +0000 2012",
+  "id": 215236843124424705,
+  "id_str": "215236843124424705",
+  "text": "THAT'S HOW YOU QUIT A JOB! RT @dandrezner Is it just me, or is this a really damning letter? #UVA https://t.co/PXe1WIvv",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215232771306684417,
+  "in_reply_to_status_id_str": "215232771306684417",
+  "in_reply_to_user_id": 75797367,
+  "in_reply_to_user_id_str": "75797367",
+  "in_reply_to_screen_name": "dandrezner",
+  "user": {
+    "id": 31844052,
+    "id_str": "31844052",
+    "name": "Tony Zupancic",
+    "screen_name": "arzupancic",
+    "location": "Cleveland, OH",
+    "description": "I teach history and from what I'm told, I know a lot about nothing.",
+    "url": "http://t.co/mPz97mqP",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/mPz97mqP",
+            "expanded_url": "http://www.linkedin.com/pub/anthony-zupancic/19/65a/992",
+            "display_url": "linkedin.com/pub/anthony-zu…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 480,
+    "friends_count": 513,
+    "listed_count": 10,
+    "created_at": "Thu Apr 16 14:37:24 +0000 2009",
+    "favourites_count": 32,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 12275,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/74375012/sky2.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/74375012/sky2.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/689535870/travl_ton_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/689535870/travl_ton_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/31844052/1357185649",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          93,
+          97
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/PXe1WIvv",
+        "expanded_url": "https://gist.github.com/2956118",
+        "display_url": "gist.github.com/2956118",
+        "indices": [
+          98,
+          119
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dandrezner",
+        "name": "Daniel Drezner",
+        "id": 75797367,
+        "id_str": "75797367",
+        "indices": [
+          30,
+          41
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

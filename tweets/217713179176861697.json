@@ -1,0 +1,121 @@
+{
+  "created_at": "Tue Jun 26 20:17:21 +0000 2012",
+  "id": 217713179176861697,
+  "id_str": "217713179176861697",
+  "text": "#EMchat RT @insidehighered: BREAKING: U.Va. Board Reinstates Sullivan: http://t.co/dFlI7FoF #UVa",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 53157714,
+    "id_str": "53157714",
+    "name": "Jennielle Strother",
+    "screen_name": "EMjennielle",
+    "location": "Austin, TX",
+    "description": "VP of Enrollment Mgmt @mySSW. Co-founder of #EMchat, M.Ed in EM, #latina. Obsessed w #highered, #SM, #leadership.  Let's connect. EMchat.net/about",
+    "url": "http://www.JennielleStrother.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.JennielleStrother.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1659,
+    "friends_count": 869,
+    "listed_count": 140,
+    "created_at": "Thu Jul 02 19:14:17 +0000 2009",
+    "favourites_count": 1550,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11211,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1884658948/pic_-_small_profile_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1884658948/pic_-_small_profile_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/53157714/1349524393",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "EMchat",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          92,
+          96
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dFlI7FoF",
+        "expanded_url": "http://bit.ly/LzQyPU",
+        "display_url": "bit.ly/LzQyPU",
+        "indices": [
+          71,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "insidehighered",
+        "name": "Inside Higher Ed",
+        "id": 16045268,
+        "id_str": "16045268",
+        "indices": [
+          11,
+          26
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

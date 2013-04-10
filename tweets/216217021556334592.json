@@ -1,0 +1,119 @@
+{
+  "created_at": "Fri Jun 22 17:12:09 +0000 2012",
+  "id": 216217021556334592,
+  "id_str": "216217021556334592",
+  "text": "Oh, c'mon! NOBODY has hashtagged #UVApocalypse or #UVAgeddon yet!?! Slackers- all of you. #Uva #Dragas #Sullivan #BOV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 50682131,
+    "id_str": "50682131",
+    "name": "Randy",
+    "screen_name": "RandyRVA",
+    "location": "Richmond, Virginia",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 252,
+    "friends_count": 291,
+    "listed_count": 12,
+    "created_at": "Thu Jun 25 15:51:48 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1387,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/37789014/IMG_0803_small.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/37789014/IMG_0803_small.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1264273858/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1264273858/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/50682131/1350445000",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVApocalypse",
+        "indices": [
+          33,
+          46
+        ]
+      },
+      {
+        "text": "UVAgeddon",
+        "indices": [
+          50,
+          60
+        ]
+      },
+      {
+        "text": "Uva",
+        "indices": [
+          90,
+          94
+        ]
+      },
+      {
+        "text": "Dragas",
+        "indices": [
+          95,
+          102
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          103,
+          112
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          113,
+          117
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

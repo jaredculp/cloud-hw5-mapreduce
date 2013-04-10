@@ -1,0 +1,181 @@
+{
+  "created_at": "Sat Jun 23 00:55:52 +0000 2012",
+  "id": 216333718581809152,
+  "id_str": "216333718581809152",
+  "text": "@cghfranck @TimKaine @WashingtonPost @CNN @CavalierDaily @DailyProgress @nytimes #dragas damaged #UVa in billions. @mcdonnell okay with that",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216326304583262208,
+  "in_reply_to_status_id_str": "216326304583262208",
+  "in_reply_to_user_id": 44744562,
+  "in_reply_to_user_id_str": "44744562",
+  "in_reply_to_screen_name": "cghfranck",
+  "user": {
+    "id": 190296269,
+    "id_str": "190296269",
+    "name": "Tom Glendening",
+    "screen_name": "e3blue",
+    "location": "NYC, NY",
+    "description": "urban innovation",
+    "url": "http://www.glendening.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.glendening.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 43,
+    "friends_count": 41,
+    "listed_count": 0,
+    "created_at": "Mon Sep 13 16:00:56 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 965,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "dragas",
+        "indices": [
+          81,
+          88
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          97,
+          101
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cghfranck",
+        "name": "Christine G H Franck",
+        "id": 44744562,
+        "id_str": "44744562",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "timkaine",
+        "name": "Senator Tim Kaine",
+        "id": 172858784,
+        "id_str": "172858784",
+        "indices": [
+          11,
+          20
+        ]
+      },
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          21,
+          36
+        ]
+      },
+      {
+        "screen_name": "CNN",
+        "name": "CNN",
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          37,
+          41
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          42,
+          56
+        ]
+      },
+      {
+        "screen_name": "DailyProgress",
+        "name": "The Daily Progress",
+        "id": 17136814,
+        "id_str": "17136814",
+        "indices": [
+          57,
+          71
+        ]
+      },
+      {
+        "screen_name": "nytimes",
+        "name": "The New York Times",
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          72,
+          80
+        ]
+      },
+      {
+        "screen_name": "mcdonnell",
+        "name": "mcdonnell",
+        "id": 16684326,
+        "id_str": "16684326",
+        "indices": [
+          115,
+          125
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

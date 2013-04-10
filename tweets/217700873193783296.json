@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 26 19:28:27 +0000 2012",
+  "id": 217700873193783296,
+  "id_str": "217700873193783296",
+  "text": "Wow!  RT @UVA: #Uva roll call: SULLIVAN REINSTATED 15-0!",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19805230,
+    "id_str": "19805230",
+    "name": "Cristy Zeller",
+    "screen_name": "cristyzeller",
+    "location": "Flagstaff, AZ\n",
+    "description": "you tell me",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 86,
+    "friends_count": 253,
+    "listed_count": 2,
+    "created_at": "Sat Jan 31 04:44:05 +0000 2009",
+    "favourites_count": 87,
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 353,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1636351506/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1636351506/image_normal.jpg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          15,
+          19
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          9,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

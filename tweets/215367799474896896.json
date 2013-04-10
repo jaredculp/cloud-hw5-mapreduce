@@ -1,0 +1,106 @@
+{
+  "created_at": "Wed Jun 20 08:57:39 +0000 2012",
+  "id": 215367799474896896,
+  "id_str": "215367799474896896",
+  "text": "... and the latest on #UVA #BOV resignations and everything with the #Sullivan saga.  See you on TV on @NBC29 !!!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 51099026,
+    "id_str": "51099026",
+    "name": "Dannika Lewis",
+    "screen_name": "DannikaLewis",
+    "location": "Madison, WI",
+    "description": "I'm a reporter for WISC-TV in Madison, and brand new to the midwest.  Shoot me story ideas or just chat about Madison news!  Retweets are not endorsements.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 648,
+    "friends_count": 679,
+    "listed_count": 35,
+    "created_at": "Fri Jun 26 15:26:52 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1686,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1170809763/Bio_Pic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1170809763/Bio_Pic_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          22,
+          26
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          27,
+          31
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          69,
+          78
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          103,
+          109
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

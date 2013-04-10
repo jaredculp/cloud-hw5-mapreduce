@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 05:52:02 +0000 2012",
+  "id": 214958699721146368,
+  "id_str": "214958699721146368",
+  "text": "@LarrySabato Lots of good case studies to come of this whole debacle... Just wishing it didn't hit so close to home. #wahoowa #uva",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 214957611597053953,
+  "in_reply_to_status_id_str": "214957611597053953",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 612303495,
+    "id_str": "612303495",
+    "name": "Chris C.",
+    "screen_name": "LawHooC",
+    "location": "Central Virginia",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3,
+    "friends_count": 25,
+    "listed_count": 0,
+    "created_at": "Tue Jun 19 03:09:11 +0000 2012",
+    "favourites_count": 55,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 76,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2328290121/ul38e7ikldxy3bqgo8pu_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2328290121/ul38e7ikldxy3bqgo8pu_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "wahoowa",
+        "indices": [
+          117,
+          125
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          126,
+          130
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

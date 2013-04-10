@@ -1,0 +1,145 @@
+{
+  "created_at": "Sat Aug 11 07:50:10 +0000 2012",
+  "id": 234194984990015489,
+  "id_str": "234194984990015489",
+  "text": "#Tegueste dedica el mes de septiembre a la #uva... #vinos de #Tenerife - http://t.co/rS8Ch2Bx vía @eldia_gastronom @bodegacontiempo",
+  "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 546228347,
+    "id_str": "546228347",
+    "name": "Tenerife Ocio",
+    "screen_name": "Tenerife_Ocio",
+    "location": "Tenerife ",
+    "description": "Qué ocurre en nuestra Isla, climatología, playas, ocio, senderismo, deporte, moda, eventos y actividades. TODO MENOS POLÍTICA (salvo casos MUY excepcionales)",
+    "url": "http://bit.ly/BlogTOP",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://bit.ly/BlogTOP",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3230,
+    "friends_count": 2616,
+    "listed_count": 50,
+    "created_at": "Thu Apr 05 19:35:37 +0000 2012",
+    "favourites_count": 63,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 12358,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/510069282/golf1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/510069282/golf1.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2292101801/yvlsbgo4g2iz2p7et4mq_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2292101801/yvlsbgo4g2iz2p7et4mq_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/546228347/1356485424",
+    "profile_link_color": "B31B00",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Tegueste",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          43,
+          47
+        ]
+      },
+      {
+        "text": "vinos",
+        "indices": [
+          51,
+          57
+        ]
+      },
+      {
+        "text": "Tenerife",
+        "indices": [
+          61,
+          70
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/rS8Ch2Bx",
+        "expanded_url": "http://bit.ly/OPm2Ox",
+        "display_url": "bit.ly/OPm2Ox",
+        "indices": [
+          73,
+          93
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "eldia_gastronom",
+        "name": "Gastronomía eldia.es",
+        "id": 23960011,
+        "id_str": "23960011",
+        "indices": [
+          98,
+          114
+        ]
+      },
+      {
+        "screen_name": "bodegacontiempo",
+        "name": "Bodega Contiempo",
+        "id": 190785936,
+        "id_str": "190785936",
+        "indices": [
+          115,
+          131
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

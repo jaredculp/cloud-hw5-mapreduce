@@ -1,0 +1,108 @@
+{
+  "created_at": "Thu Jun 21 17:31:52 +0000 2012",
+  "id": 215859595917271042,
+  "id_str": "215859595917271042",
+  "text": "RT @MGoShoe: #UVa's Beta Bridge now. #dragasmustgo http://t.co/U1vXl8Ch",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 7404102,
+    "id_str": "7404102",
+    "name": "Bob Webb",
+    "screen_name": "worldwwebb",
+    "location": "Chicago, Il",
+    "description": "UVa CLAS87",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 231,
+    "friends_count": 367,
+    "listed_count": 4,
+    "created_at": "Wed Jul 11 15:11:58 +0000 2007",
+    "favourites_count": 23,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1444,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/4627591/water.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/4627591/water.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/22303652/IMG_0188_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/22303652/IMG_0188_normal.jpg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          13,
+          17
+        ]
+      },
+      {
+        "text": "dragasmustgo",
+        "indices": [
+          37,
+          50
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/U1vXl8Ch",
+        "expanded_url": "http://twitter.com/MGoShoe/status/215849186921422848/photo/1",
+        "display_url": "pic.twitter.com/U1vXl8Ch",
+        "indices": [
+          51,
+          71
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MGoShoe",
+        "name": "MGoShoe",
+        "id": 24397747,
+        "id_str": "24397747",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

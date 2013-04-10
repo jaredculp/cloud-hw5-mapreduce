@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Jun 26 17:34:43 +0000 2012",
+  "id": 217672252265734144,
+  "id_str": "217672252265734144",
+  "text": "Looks like lots of tears are expected. RT @wpjenna Heres the meeting room where the #UVA board will meet at 3pm: http://t.co/lcQWvVjm",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 53276062,
+    "id_str": "53276062",
+    "name": "Matt Chingos",
+    "screen_name": "chingos",
+    "location": "Washington, DC",
+    "description": "Fellow at the Brookings Institution's Brown Center on Education Policy (@BrookingsEd). Study K-12 and higher ed. Views are my own.",
+    "url": "http://www.brookings.edu/experts/chingosm",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.brookings.edu/experts/chingosm",
+            "expanded_url": null,
+            "indices": [
+              0,
+              41
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 586,
+    "friends_count": 185,
+    "listed_count": 20,
+    "created_at": "Fri Jul 03 03:04:23 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 785,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1320678891/Matt_Chingos_headshot_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1320678891/Matt_Chingos_headshot_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/53276062/1359581052",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          84,
+          88
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/lcQWvVjm",
+        "expanded_url": "http://twitpic.com/a0tmy4",
+        "display_url": "twitpic.com/a0tmy4",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          42,
+          50
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,131 @@
+{
+  "created_at": "Tue Jun 19 22:58:35 +0000 2012",
+  "id": 215217040221417472,
+  "id_str": "215217040221417472",
+  "text": "Is there a vibrant #OccupyUVA + if not... Why not. @suzimcc @ggreeneva @CavalierDaily #UVA",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215213876843778049,
+  "in_reply_to_status_id_str": "215213876843778049",
+  "in_reply_to_user_id": 20621761,
+  "in_reply_to_user_id_str": "20621761",
+  "in_reply_to_screen_name": "suzimcc",
+  "user": {
+    "id": 21704949,
+    "id_str": "21704949",
+    "name": "Jeff Hauser",
+    "screen_name": "jeffhauser",
+    "location": "Washington, DC",
+    "description": "AFL-CIO political media lead's account = *my views alone* on politics, serialized TV, & sports. Unoriginal in disclaimers: tweets = mine alone, RTs that.",
+    "url": "http://www.aflcio.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.aflcio.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1456,
+    "friends_count": 1174,
+    "listed_count": 47,
+    "created_at": "Mon Feb 23 23:03:05 +0000 2009",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 12504,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3087118931/bf068b89f16a303143294838eddad9fb_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3087118931/bf068b89f16a303143294838eddad9fb_normal.jpeg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "OccupyUVA",
+        "indices": [
+          19,
+          29
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          86,
+          90
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "suzimcc",
+        "name": "Suzi McC",
+        "id": 20621761,
+        "id_str": "20621761",
+        "indices": [
+          51,
+          59
+        ]
+      },
+      {
+        "screen_name": "ggreeneva",
+        "name": "Greg Greene",
+        "id": 775142,
+        "id_str": "775142",
+        "indices": [
+          60,
+          70
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          71,
+          85
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

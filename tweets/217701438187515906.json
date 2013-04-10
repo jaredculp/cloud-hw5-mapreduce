@@ -1,0 +1,83 @@
+{
+  "created_at": "Tue Jun 26 19:30:42 +0000 2012",
+  "id": 217701438187515906,
+  "id_str": "217701438187515906",
+  "text": "Sullivan is back! #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 370838128,
+    "id_str": "370838128",
+    "name": "Grace Garcea",
+    "screen_name": "GraceGarcea",
+    "location": "Charlottesville",
+    "description": "Push yourself.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 67,
+    "friends_count": 115,
+    "listed_count": 0,
+    "created_at": "Fri Sep 09 18:28:16 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 42,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/559791044/images-9.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/559791044/images-9.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1536299470/twitterrrr__normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1536299470/twitterrrr__normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          18,
+          22
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

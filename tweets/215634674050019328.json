@@ -1,0 +1,114 @@
+{
+  "created_at": "Thu Jun 21 02:38:07 +0000 2012",
+  "id": 215634674050019328,
+  "id_str": "215634674050019328",
+  "text": ".@UVAFacultySen will meet with interim Pres. Carl Zeithaml tomorrow. Community members submit questions here: #UVA http://t.co/SVbi2aZ1",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 24296023,
+    "id_str": "24296023",
+    "name": "The Cavalier Daily",
+    "screen_name": "cavalierdaily",
+    "location": "Newcomb Hall Basement",
+    "description": "The University of Virginia's student-operated independent newspaper and Charlottesville's oldest daily newspaper.",
+    "url": "http://www.cavalierdaily.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cavalierdaily.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7178,
+    "friends_count": 165,
+    "listed_count": 211,
+    "created_at": "Sat Mar 14 00:55:04 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2960,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1518291353/jefferson_cutout_opinion_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1518291353/jefferson_cutout_opinion_2_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/24296023/1350236225",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 7,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          110,
+          114
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/SVbi2aZ1",
+        "expanded_url": "http://pages.shanti.virginia.edu/Faculty_Senate/2012/06/20/questions4bov/#comment-8",
+        "display_url": "pages.shanti.virginia.edu/Faculty_Senate…",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVAFacultySen",
+        "name": "UVA Faculty Senate",
+        "id": 613796706,
+        "id_str": "613796706",
+        "indices": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,100 @@
+{
+  "created_at": "Wed Aug 29 19:56:02 +0000 2012",
+  "id": 240900636168822784,
+  "id_str": "240900636168822784",
+  "text": "How cool would it be if Obama high-fived @UVADeanGroves ? #UVA #Charlottesville",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 313675364,
+    "id_str": "313675364",
+    "name": "Patrick Piper",
+    "screen_name": "PattySkinz",
+    "location": "",
+    "description": "UVa, '15",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 103,
+    "friends_count": 110,
+    "listed_count": 0,
+    "created_at": "Thu Jun 09 01:29:31 +0000 2011",
+    "favourites_count": 79,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1439,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/422752188/calvinandhobbes.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/422752188/calvinandhobbes.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3077052502/18e13f91edccee48ebfc3d9163a1b40c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3077052502/18e13f91edccee48ebfc3d9163a1b40c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/313675364/1354557322",
+    "profile_link_color": "1A76A1",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          58,
+          62
+        ]
+      },
+      {
+        "text": "Charlottesville",
+        "indices": [
+          63,
+          79
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVADeanGroves",
+        "name": "Allen Groves",
+        "id": 78175148,
+        "id_str": "78175148",
+        "indices": [
+          41,
+          55
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

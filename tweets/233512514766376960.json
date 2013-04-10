@@ -1,0 +1,119 @@
+{
+  "created_at": "Thu Aug 09 10:38:16 +0000 2012",
+  "id": 233512514766376960,
+  "id_str": "233512514766376960",
+  "text": "In maturazione http://t.co/MloeWnw9 #uva #campagna #villastellone",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 256926350,
+    "id_str": "256926350",
+    "name": "Michele Tallone",
+    "screen_name": "michele_tallone",
+    "location": "Villastellone, Torino,  Italy",
+    "description": "Batterista, blogger e amante della fotografia. Pseudo-giornalista per passione, collabora con @NationalCorner",
+    "url": "http://t.co/3BHuN18S",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/3BHuN18S",
+            "expanded_url": "http://tallonemichele.wordpress.com",
+            "display_url": "tallonemichele.wordpress.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 61,
+    "friends_count": 136,
+    "listed_count": 4,
+    "created_at": "Thu Feb 24 10:39:25 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": 3600,
+    "time_zone": "Rome",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 498,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/770644723/72679007cfe0e0359e479089baa8006c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/770644723/72679007cfe0e0359e479089baa8006c.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2237443549/Profilo_02_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2237443549/Profilo_02_normal.jpg",
+    "profile_link_color": "B02121",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "1D130D",
+    "profile_text_color": "AA642E",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          36,
+          40
+        ]
+      },
+      {
+        "text": "campagna",
+        "indices": [
+          41,
+          50
+        ]
+      },
+      {
+        "text": "villastellone",
+        "indices": [
+          51,
+          65
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/MloeWnw9",
+        "expanded_url": "http://instagr.am/p/OGqRruGMSG/",
+        "display_url": "instagr.am/p/OGqRruGMSG/",
+        "indices": [
+          15,
+          35
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

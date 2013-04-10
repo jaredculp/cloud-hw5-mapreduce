@@ -1,0 +1,131 @@
+{
+  "created_at": "Thu Jun 21 17:41:27 +0000 2012",
+  "id": 215862005024829441,
+  "id_str": "215862005024829441",
+  "text": "RT @LonnekevL: Na trans- en inspirerende #storynet workshop #uva, nu zin in morgen; openbare les @ReintJanRenes. En lunchen met @Ankewammes.",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 129856682,
+    "id_str": "129856682",
+    "name": "Reint Jan Renes",
+    "screen_name": "ReintJanRenes",
+    "location": "ÜT: 52.144327,5.389912",
+    "description": "Sociaal Psycholoog (dr.) | Lector Crossmediale Communicatie Hogeschool Utrecht | UHD Gezondheidscommunicatie Wageningen Universiteit | Columnist @Trajectum |",
+    "url": "http://www.publab.hu.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.publab.hu.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1374,
+    "friends_count": 1082,
+    "listed_count": 38,
+    "created_at": "Mon Apr 05 16:34:00 +0000 2010",
+    "favourites_count": 5,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9399,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/175122928/twilk_background_4cee684b1f8ec.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/175122928/twilk_background_4cee684b1f8ec.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3028436379/0415bb64a243945ee35af5bb1c650299_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3028436379/0415bb64a243945ee35af5bb1c650299_normal.jpeg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "storynet",
+        "indices": [
+          41,
+          50
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          60,
+          64
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LonnekevL",
+        "name": "Lonneke van Leeuwen",
+        "id": 210797849,
+        "id_str": "210797849",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "ReintJanRenes",
+        "name": "Reint Jan Renes",
+        "id": 129856682,
+        "id_str": "129856682",
+        "indices": [
+          97,
+          111
+        ]
+      },
+      {
+        "screen_name": "Ankewammes",
+        "name": "Anke Wammes",
+        "id": 20593404,
+        "id_str": "20593404",
+        "indices": [
+          128,
+          139
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

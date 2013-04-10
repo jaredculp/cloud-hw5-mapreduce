@@ -1,0 +1,124 @@
+{
+  "created_at": "Tue Aug 21 17:17:11 +0000 2012",
+  "id": 237961558045630465,
+  "id_str": "237961558045630465",
+  "text": "RT @rivalsmike: #UVa I think has a strong edge @jgregor0408: @rivalsmike anyone got a slight edge for Mizzel?",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21237269,
+    "id_str": "21237269",
+    "name": "ACC Sports",
+    "screen_name": "ACCSports",
+    "location": "Durham, N.C.",
+    "description": "The latest news and analysis on ACC football and basketball from ACCSports.com's Jim Young",
+    "url": "http://www.accsports.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.accsports.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 20920,
+    "friends_count": 1325,
+    "listed_count": 812,
+    "created_at": "Wed Feb 18 20:29:54 +0000 2009",
+    "favourites_count": 380,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 61892,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/79817716/accsportsjournal_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/79817716/accsportsjournal_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          16,
+          20
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rivalsmike",
+        "name": "Mike Farrell",
+        "id": 170021040,
+        "id_str": "170021040",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "Jgregor0408",
+        "name": "Joe Gregor",
+        "id": 277998793,
+        "id_str": "277998793",
+        "indices": [
+          47,
+          59
+        ]
+      },
+      {
+        "screen_name": "rivalsmike",
+        "name": "Mike Farrell",
+        "id": 170021040,
+        "id_str": "170021040",
+        "indices": [
+          61,
+          72
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

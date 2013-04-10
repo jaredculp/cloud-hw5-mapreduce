@@ -1,0 +1,116 @@
+{
+  "created_at": "Tue Jun 19 04:29:22 +0000 2012",
+  "id": 214937894463352832,
+  "id_str": "214937894463352832",
+  "text": "#UVa Pres #Sullivan shd keep job, but shd also turn over evidence on #MichaelMann to @KenCuccinelli &amp; @cavalierdaily .",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 259912941,
+    "id_str": "259912941",
+    "name": "James Plummer",
+    "screen_name": "jasplummer",
+    "location": "New Orleans, usually",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 36,
+    "friends_count": 139,
+    "listed_count": 0,
+    "created_at": "Wed Mar 02 21:12:48 +0000 2011",
+    "favourites_count": 30,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 306,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1740049295/nov13facepic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1740049295/nov13facepic_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          10,
+          19
+        ]
+      },
+      {
+        "text": "MichaelMann",
+        "indices": [
+          69,
+          81
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "KenCuccinelli",
+        "name": "Ken Cuccinelli",
+        "id": 26007752,
+        "id_str": "26007752",
+        "indices": [
+          85,
+          99
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          106,
+          120
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

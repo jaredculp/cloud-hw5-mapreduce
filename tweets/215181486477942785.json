@@ -1,0 +1,109 @@
+{
+  "created_at": "Tue Jun 19 20:37:18 +0000 2012",
+  "id": 215181486477942785,
+  "id_str": "215181486477942785",
+  "text": "@dailyprogress (currently just the PDF of Kington's letter to McDonnell): Kington resigns from #UVA BOV http://t.co/WnoXI3cR #sullygate",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 17136814,
+  "in_reply_to_user_id_str": "17136814",
+  "in_reply_to_screen_name": "DailyProgress",
+  "user": {
+    "id": 42554828,
+    "id_str": "42554828",
+    "name": "Jostlin'",
+    "screen_name": "kickitamor203",
+    "location": "charlottesville, va",
+    "description": "be good or be good at it.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 74,
+    "friends_count": 196,
+    "listed_count": 1,
+    "created_at": "Tue May 26 03:30:16 +0000 2009",
+    "favourites_count": 676,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2972,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "272432",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/753056068/eecfadec312b7ab0205ecefb08b771c0.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/753056068/eecfadec312b7ab0205ecefb08b771c0.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1821691024/GoodThingsComeToThoseWhoFrat_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1821691024/GoodThingsComeToThoseWhoFrat_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/42554828/1356156481",
+    "profile_link_color": "D9015D",
+    "profile_sidebar_border_color": "A9C8B2",
+    "profile_sidebar_fill_color": "9FC436",
+    "profile_text_color": "E6741D",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          95,
+          99
+        ]
+      },
+      {
+        "text": "sullygate",
+        "indices": [
+          125,
+          135
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WnoXI3cR",
+        "expanded_url": "http://bit.ly/NfAEZc",
+        "display_url": "bit.ly/NfAEZc",
+        "indices": [
+          104,
+          124
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DailyProgress",
+        "name": "The Daily Progress",
+        "id": 17136814,
+        "id_str": "17136814",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

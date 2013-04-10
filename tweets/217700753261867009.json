@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jun 26 19:27:58 +0000 2012",
+  "id": 217700753261867009,
+  "id_str": "217700753261867009",
+  "text": "GOOD RT @cavalierdaily: BREAKING: Sullivan returns to #UVA. Victory for Jefferson, says one member",
+  "source": "<a href=\"http://seesmic.com/\" rel=\"nofollow\">Seesmic</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15919864,
+    "id_str": "15919864",
+    "name": "Melody",
+    "screen_name": "melodymuses",
+    "location": "washington, dc ",
+    "description": "news, politics, photography, pop culture • it's easier to believe than to think • retweets are almost always endorsements ",
+    "url": "http://t.co/p1vPNa4G",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/p1vPNa4G",
+            "expanded_url": "http://instagram.com/melodymuses",
+            "display_url": "instagram.com/melodymuses",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1419,
+    "friends_count": 1359,
+    "listed_count": 85,
+    "created_at": "Wed Aug 20 16:59:50 +0000 2008",
+    "favourites_count": 2305,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 34649,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/770598535/747a58c5996648003cf2f78234c2fa88.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/770598535/747a58c5996648003cf2f78234c2fa88.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3168883123/5539253dc10b7baa438db3009b75a3b9_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3168883123/5539253dc10b7baa438db3009b75a3b9_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/15919864/1358889374",
+    "profile_link_color": "914A4A",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          54,
+          58
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          8,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

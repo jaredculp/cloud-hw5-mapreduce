@@ -1,0 +1,125 @@
+{
+  "created_at": "Sun Jul 01 05:59:23 +0000 2012",
+  "id": 219309205893558273,
+  "id_str": "219309205893558273",
+  "text": "Awry is right @UChicagoAlumni RT @washingtonpost 18 days that shook Charlottesville: power play gone wildly awry @ #UVA http://t.co/G9VTvwKN",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18163032,
+    "id_str": "18163032",
+    "name": "Charles Webster, MD",
+    "screen_name": "EHRworkflow",
+    "location": "Washington DC",
+    "description": "One-Man Trade Association for Electronic Health Records, Business Process Management & Natural Language Processing #BPM #NLProc #Mobile #Cloud #Social #BigData",
+    "url": "http://t.co/zAegUqaW",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/zAegUqaW",
+            "expanded_url": "http://chuckwebster.com",
+            "display_url": "chuckwebster.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1990,
+    "friends_count": 402,
+    "listed_count": 107,
+    "created_at": "Tue Dec 16 14:33:23 +0000 2008",
+    "favourites_count": 2013,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 15111,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3099909886/6b43257e4d113342e44762bb8f1b23c1_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3099909886/6b43257e4d113342e44762bb8f1b23c1_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18163032/1357066912",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          115,
+          119
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/G9VTvwKN",
+        "expanded_url": "http://wapo.st/Nio9Ys",
+        "display_url": "wapo.st/Nio9Ys",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UChicagoAlumni",
+        "name": "UChicago Alumni",
+        "id": 39541743,
+        "id_str": "39541743",
+        "indices": [
+          14,
+          29
+        ]
+      },
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          33,
+          48
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

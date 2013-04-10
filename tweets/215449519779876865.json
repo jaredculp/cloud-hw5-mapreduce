@@ -1,0 +1,118 @@
+{
+  "created_at": "Wed Jun 20 14:22:23 +0000 2012",
+  "id": 215449519779876865,
+  "id_str": "215449519779876865",
+  "text": "my old professor @sivavaid breaks down all the bullshit happening at @uva http://t.co/sm32YFEn",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21636794,
+    "id_str": "21636794",
+    "name": "John Laudisio",
+    "screen_name": "johnlaudisio",
+    "location": "Charlottesville, VA",
+    "description": "Creative powerhouse, glutton",
+    "url": "http://www.johnnycheeseburger.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.johnnycheeseburger.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 306,
+    "friends_count": 244,
+    "listed_count": 8,
+    "created_at": "Mon Feb 23 06:44:25 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2432,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1034239794/Photo_55_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1034239794/Photo_55_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/21636794/1356550950",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/sm32YFEn",
+        "expanded_url": "http://www.youtube.com/watch?v=IDDENKTksOg&feature=youtu.be",
+        "display_url": "youtube.com/watch?v=IDDENK…",
+        "indices": [
+          74,
+          94
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          17,
+          26
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          69,
+          73
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

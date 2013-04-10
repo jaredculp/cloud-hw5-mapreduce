@@ -1,0 +1,87 @@
+{
+  "created_at": "Thu Aug 09 02:54:02 +0000 2012",
+  "id": 233395686442422272,
+  "id_str": "233395686442422272",
+  "text": "@Greg_Strine we should be bestfreinds",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 233389492436877312,
+  "in_reply_to_status_id_str": "233389492436877312",
+  "in_reply_to_user_id": 390790897,
+  "in_reply_to_user_id_str": "390790897",
+  "in_reply_to_screen_name": "Greg_Strine",
+  "user": {
+    "id": 582024287,
+    "id_str": "582024287",
+    "name": "Kyle Gold Everything",
+    "screen_name": "grakyl13",
+    "location": "",
+    "description": "Train hard, Win easy.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 62,
+    "friends_count": 83,
+    "listed_count": 0,
+    "created_at": "Wed May 16 17:43:12 +0000 2012",
+    "favourites_count": 244,
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1656,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3218608866/b0ee436f0b6992c6811bcbc4b2703d9b_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3218608866/b0ee436f0b6992c6811bcbc4b2703d9b_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/582024287/1360205607",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Greg_Strine",
+        "name": "Greg Strine",
+        "id": 390790897,
+        "id_str": "390790897",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

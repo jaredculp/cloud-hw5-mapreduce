@@ -1,0 +1,109 @@
+{
+  "created_at": "Tue Jun 26 20:10:44 +0000 2012",
+  "id": 217711515497795586,
+  "id_str": "217711515497795586",
+  "text": "good plan for post-Nov 6 MT @Yellownova @LarrySabato:UVa prez reinstated. 3 rules:No gloating.No recriminations. Reunify quickly.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 45916440,
+    "id_str": "45916440",
+    "name": "Tucker Eskew",
+    "screen_name": "tuckereskew",
+    "location": "Alexandria, VA",
+    "description": "White House svc w/Reagan & GWBush.Worked at @Number10gov. Campaign vet from SC. At @VianovoLP I counsel CEOs, tech startups & great causes.",
+    "url": "http://www.vianovo.com/our-team/tucker-eskew",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.vianovo.com/our-team/tucker-eskew",
+            "expanded_url": null,
+            "indices": [
+              0,
+              44
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 654,
+    "friends_count": 398,
+    "listed_count": 16,
+    "created_at": "Tue Jun 09 19:19:47 +0000 2009",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 720,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/524414973/Kiawah_sunset_March_2012.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/524414973/Kiawah_sunset_March_2012.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2456381442/maefhyw85kqoh2h8pw8t_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2456381442/maefhyw85kqoh2h8pw8t_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/45916440/1348112296",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Yellownova",
+        "name": "Yellow nova",
+        "id": 148661545,
+        "id_str": "148661545",
+        "indices": [
+          28,
+          39
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          40,
+          52
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

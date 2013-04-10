@@ -1,0 +1,131 @@
+{
+  "created_at": "Mon Aug 06 15:41:20 +0000 2012",
+  "id": 232501621173669890,
+  "id_str": "232501621173669890",
+  "text": "Fuck off with your sofa units and strine green stripe patterns, I say never be complete, I say stop (cont) http://t.co/RGBDSVfy",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 152190811,
+    "id_str": "152190811",
+    "name": "Garrett Lawrence",
+    "screen_name": "UglyxSweatshirt",
+    "location": "Rapid City SD",
+    "description": "living life after colony 195",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 101,
+    "friends_count": 23,
+    "listed_count": 0,
+    "created_at": "Sat Jun 05 09:08:44 +0000 2010",
+    "favourites_count": 19,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7942,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3080885448/3a2c60ea4c49f268c031efd2d65d11d7_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3080885448/3a2c60ea4c49f268c031efd2d65d11d7_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      44.1053974,
+      -103.2039703
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -103.2039703,
+      44.1053974
+    ]
+  },
+  "place": {
+    "id": "4dcfc855e2614f09",
+    "url": "https://api.twitter.com/1.1/geo/id/4dcfc855e2614f09.json",
+    "place_type": "city",
+    "name": "Rapid City",
+    "full_name": "Rapid City, SD",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -103.32575,
+            44.012949
+          ],
+          [
+            -103.039016,
+            44.012949
+          ],
+          [
+            -103.039016,
+            44.135518
+          ],
+          [
+            -103.32575,
+            44.135518
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/RGBDSVfy",
+        "expanded_url": "http://tl.gd/in3h9s",
+        "display_url": "tl.gd/in3h9s",
+        "indices": [
+          107,
+          127
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

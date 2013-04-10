@@ -1,0 +1,93 @@
+{
+  "created_at": "Thu Jun 21 15:35:45 +0000 2012",
+  "id": 215830371722473473,
+  "id_str": "215830371722473473",
+  "text": "@michaelpRTD in your opinion which way do you think they rule? #UVA",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215822613514174464,
+  "in_reply_to_status_id_str": "215822613514174464",
+  "in_reply_to_user_id": 25730085,
+  "in_reply_to_user_id_str": "25730085",
+  "in_reply_to_screen_name": "michaelpRTD",
+  "user": {
+    "id": 139443617,
+    "id_str": "139443617",
+    "name": "Ryan Chisholm",
+    "screen_name": "ryanchisholm3",
+    "location": "Richmond, VA",
+    "description": " life hero  #Hoos #VCU #RVA",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 101,
+    "friends_count": 402,
+    "listed_count": 0,
+    "created_at": "Sun May 02 16:41:36 +0000 2010",
+    "favourites_count": 25,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 669,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2993418286/f912ad823e9fdee55e00edc1f8abea19_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2993418286/f912ad823e9fdee55e00edc1f8abea19_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/139443617/1355889392",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          63,
+          67
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "michaelpRTD",
+        "name": "michael phillips",
+        "id": 25730085,
+        "id_str": "25730085",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

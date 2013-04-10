@@ -1,0 +1,100 @@
+{
+  "created_at": "Wed Jul 04 17:09:16 +0000 2012",
+  "id": 220564949259399168,
+  "id_str": "220564949259399168",
+  "text": "#WAHOOWA RT: “@UVa_Alumni: Happy Independence Day to all the #UVa wahoos out there!”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 42761880,
+    "id_str": "42761880",
+    "name": "Randall Pierce",
+    "screen_name": "RPierceII",
+    "location": "",
+    "description": "Daddy of the Month, according to Elliana Grace",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 111,
+    "friends_count": 199,
+    "listed_count": 0,
+    "created_at": "Wed May 27 00:00:36 +0000 2009",
+    "favourites_count": 487,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1702,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/630921837/mpyx4j7mgw6yfd6kik1z.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/630921837/mpyx4j7mgw6yfd6kik1z.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2773686184/673728d7e8c3788fd7e018e7b16a74bf_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2773686184/673728d7e8c3788fd7e018e7b16a74bf_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/42761880/1348535104",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "WAHOOWA",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          14,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

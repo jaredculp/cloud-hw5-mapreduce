@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 26 13:37:50 +0000 2012",
+  "id": 217612639315042305,
+  "id_str": "217612639315042305",
+  "text": "tuesday's here. RT “@LarrySabato: \"It is more honorable to repair a wrong than to persist in it.\" ~Th Jefferson”",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 28934419,
+    "id_str": "28934419",
+    "name": "citizenlow",
+    "screen_name": "citizenlow",
+    "location": "seattle, nyc, etc.",
+    "description": "Clutter is the corpse of Noise",
+    "url": "http://www.rebelmouse.com/citizenlow",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.rebelmouse.com/citizenlow",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 136,
+    "friends_count": 299,
+    "listed_count": 0,
+    "created_at": "Sun Apr 05 03:44:40 +0000 2009",
+    "favourites_count": 364,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2303,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2339562235/380aqzj4dteljzjyhmle_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2339562235/380aqzj4dteljzjyhmle_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/28934419/1351901024",
+    "profile_link_color": "45200D",
+    "profile_sidebar_border_color": "A5A8A4",
+    "profile_sidebar_fill_color": "F7F8F7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          20,
+          32
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

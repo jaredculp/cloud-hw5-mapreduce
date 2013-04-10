@@ -1,0 +1,90 @@
+{
+  "created_at": "Tue Aug 28 15:43:41 +0000 2012",
+  "id": 240474744598716416,
+  "id_str": "240474744598716416",
+  "text": "We want Zoyya in the middile... #uva #slpl",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 190988285,
+    "id_str": "190988285",
+    "name": "Charmcaster",
+    "screen_name": "chama617",
+    "location": "Mars",
+    "description": "Im the only crack in this castle of glass...",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 211,
+    "friends_count": 231,
+    "listed_count": 4,
+    "created_at": "Wed Sep 15 10:15:57 +0000 2010",
+    "favourites_count": 414,
+    "utc_offset": -36000,
+    "time_zone": "Hawaii",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 21384,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/645965058/l65u30996k902noq8ikc.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/645965058/l65u30996k902noq8ikc.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1578241378/Game_Over_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1578241378/Game_Over_normal.jpg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E0D6DC",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          32,
+          36
+        ]
+      },
+      {
+        "text": "slpl",
+        "indices": [
+          37,
+          42
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

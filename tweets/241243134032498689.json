@@ -1,0 +1,102 @@
+{
+  "created_at": "Thu Aug 30 18:36:59 +0000 2012",
+  "id": 241243134032498689,
+  "id_str": "241243134032498689",
+  "text": "cc: @nih_nhlbi MT @ARamspacher ... also Tim Cwalina, has been medically dqed due to a cardiac condition. He'll stay @ #UVa for school",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 241205028973600768,
+  "in_reply_to_status_id_str": "241205028973600768",
+  "in_reply_to_user_id": 309921232,
+  "in_reply_to_user_id_str": "309921232",
+  "in_reply_to_screen_name": "ARamspacher",
+  "user": {
+    "id": 118082516,
+    "id_str": "118082516",
+    "name": "Jamie Jones",
+    "screen_name": "jbjonesjr",
+    "location": "Arlington, Va",
+    "description": "An alter-ego of @capitalweather.  I talk about technology, sports, personal things, things I won't (or shouldn't) say over there...",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 147,
+    "friends_count": 210,
+    "listed_count": 5,
+    "created_at": "Sat Feb 27 14:59:04 +0000 2010",
+    "favourites_count": 96,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3286,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/894921923/foxfield_bowtie_undone_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/894921923/foxfield_bowtie_undone_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          118,
+          122
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nih_nhlbi",
+        "name": "NIH NHLBI",
+        "id": 68987936,
+        "id_str": "68987936",
+        "indices": [
+          4,
+          14
+        ]
+      },
+      {
+        "screen_name": "ARamspacher",
+        "name": "Andrew Ramspacher",
+        "id": 309921232,
+        "id_str": "309921232",
+        "indices": [
+          18,
+          30
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

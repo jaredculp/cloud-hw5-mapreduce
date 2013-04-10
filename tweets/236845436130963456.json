@@ -1,0 +1,120 @@
+{
+  "created_at": "Sat Aug 18 15:22:07 +0000 2012",
+  "id": 236845436130963456,
+  "id_str": "236845436130963456",
+  "text": "RT @ARamspacher: No votes for #UVa in AP Top 25. However, one tally for Sept. 29 opponent, La Tech. #DontSleepOnTheDogs",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22975330,
+    "id_str": "22975330",
+    "name": "BleedTechBlue.com",
+    "screen_name": "BleedTechBlue",
+    "location": "Ruston, LA",
+    "description": "The authority on #LATech sports, member of the @Rivals network & home of BleedTechBlue Radio. \r\nPublisher - @theJFord \r\nhttp://t.co/zIHQbDPr",
+    "url": "http://BleedTechBlue.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://BleedTechBlue.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/zIHQbDPr",
+            "expanded_url": "http://Instagram.com/BleedTechBlue",
+            "display_url": "Instagram.com/BleedTechBlue",
+            "indices": [
+              120,
+              140
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3127,
+    "friends_count": 485,
+    "listed_count": 46,
+    "created_at": "Thu Mar 05 20:41:41 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7668,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3062561706/425d5122d387f624af019b48a8ba7c30_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3062561706/425d5122d387f624af019b48a8ba7c30_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/22975330/1352351465",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          30,
+          34
+        ]
+      },
+      {
+        "text": "DontSleepOnTheDogs",
+        "indices": [
+          100,
+          119
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ARamspacher",
+        "name": "Andrew Ramspacher",
+        "id": 309921232,
+        "id_str": "309921232",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

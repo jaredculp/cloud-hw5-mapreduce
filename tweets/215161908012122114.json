@@ -1,0 +1,95 @@
+{
+  "created_at": "Tue Jun 19 19:19:31 +0000 2012",
+  "id": 215161908012122114,
+  "id_str": "215161908012122114",
+  "text": "Why would anyone trust a person who agrees to take over as interim prez after all this nonsense? #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2884931,
+    "id_str": "2884931",
+    "name": "Mary Conger",
+    "screen_name": "maryconger",
+    "location": "Bangkok, Thailand via",
+    "description": "Asking questions. Making decisions. ",
+    "url": "http://cookmn.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://cookmn.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              17
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 877,
+    "friends_count": 1390,
+    "listed_count": 34,
+    "created_at": "Thu Mar 29 19:52:11 +0000 2007",
+    "favourites_count": 200,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9139,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/154502486/IMG_4444.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/154502486/IMG_4444.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1858542271/IMG_8376_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1858542271/IMG_8376_normal.jpg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          97,
+          101
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

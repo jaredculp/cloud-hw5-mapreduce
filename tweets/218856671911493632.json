@@ -1,0 +1,126 @@
+{
+  "created_at": "Sat Jun 30 00:01:11 +0000 2012",
+  "id": 218856671911493632,
+  "id_str": "218856671911493632",
+  "text": "upset about #dragas? instead, give $$$$ to the #CavDaily for their amazing coverage of #uva! @redrowfarm @cvillenewscom http://t.co/h7Jwn6ud",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 218845159616548865,
+  "in_reply_to_status_id_str": "218845159616548865",
+  "in_reply_to_user_id": 175754771,
+  "in_reply_to_user_id_str": "175754771",
+  "in_reply_to_screen_name": "redrowfarm",
+  "user": {
+    "id": 143494528,
+    "id_str": "143494528",
+    "name": "essselle",
+    "screen_name": "essselle",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 272,
+    "friends_count": 493,
+    "listed_count": 3,
+    "created_at": "Thu May 13 16:33:45 +0000 2010",
+    "favourites_count": 143,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1562,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFA012",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/101223532/linedraw3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/101223532/linedraw3.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3155176511/6a411a757a7b3d98668f485d50af777c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3155176511/6a411a757a7b3d98668f485d50af777c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/143494528/1351907837",
+    "profile_link_color": "058AFF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "84F06E",
+    "profile_text_color": "093B13",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "dragas",
+        "indices": [
+          12,
+          19
+        ]
+      },
+      {
+        "text": "CavDaily",
+        "indices": [
+          47,
+          56
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          87,
+          91
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/h7Jwn6ud",
+        "expanded_url": "http://bit.ly/KIMzKC",
+        "display_url": "bit.ly/KIMzKC",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "redrowfarm",
+        "name": "Lisa Richey",
+        "id": 175754771,
+        "id_str": "175754771",
+        "indices": [
+          93,
+          104
+        ]
+      },
+      {
+        "screen_name": "cvillenewscom",
+        "name": "cvillenews.com",
+        "id": 52553230,
+        "id_str": "52553230",
+        "indices": [
+          105,
+          119
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

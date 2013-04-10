@@ -1,0 +1,164 @@
+{
+  "created_at": "Wed Jun 20 18:55:18 +0000 2012",
+  "id": 215518203516948482,
+  "id_str": "215518203516948482",
+  "text": "@cavalierdaily @sivavaid @larrysabato @haaspolicy @HenryGraff @WUVAOnline PLEASE RT to your followers to tweet to @katiecouric about #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 132633456,
+    "id_str": "132633456",
+    "name": "Thomas Jefferson",
+    "screen_name": "MrJefferson_UVa",
+    "location": "Charlottesville, VA",
+    "description": "Author of the Declaration of American Independence, of the Statute of Virginia for Religious Freedom, and Father of The University of Virginia",
+    "url": "http://www.virginia.edu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginia.edu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1455,
+    "friends_count": 1004,
+    "listed_count": 30,
+    "created_at": "Tue Apr 13 19:35:00 +0000 2010",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 310,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/91845184/lawn.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/91845184/lawn.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/820562331/thomas_jefferson_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/820562331/thomas_jefferson_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 9,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          133,
+          137
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          15,
+          24
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          25,
+          37
+        ]
+      },
+      {
+        "screen_name": "haaspolicy",
+        "name": "Haas Policy",
+        "id": 39143159,
+        "id_str": "39143159",
+        "indices": [
+          38,
+          49
+        ]
+      },
+      {
+        "screen_name": "HenryGraff",
+        "name": "Henry Graff",
+        "id": 65287423,
+        "id_str": "65287423",
+        "indices": [
+          50,
+          61
+        ]
+      },
+      {
+        "screen_name": "WUVAonline",
+        "name": "WUVA Online",
+        "id": 204324915,
+        "id_str": "204324915",
+        "indices": [
+          62,
+          73
+        ]
+      },
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          114,
+          126
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

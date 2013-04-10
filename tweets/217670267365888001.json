@@ -1,0 +1,101 @@
+{
+  "created_at": "Tue Jun 26 17:26:50 +0000 2012",
+  "id": 217670267365888001,
+  "id_str": "217670267365888001",
+  "text": "What a waste of wood! \"About 220 “virtual attendees” from around the world being staked into #UVa lawn.\" http://t.co/v72TU5A9 @michaelpRTD",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 611934146,
+    "id_str": "611934146",
+    "name": "David Bolick",
+    "screen_name": "smushandrocky",
+    "location": "",
+    "description": "Senior Laboratory Technician at UVA...exciting, eh?",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3,
+    "friends_count": 11,
+    "listed_count": 0,
+    "created_at": "Mon Jun 18 19:34:12 +0000 2012",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 146,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2320153165/IMG_0098_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2320153165/IMG_0098_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          93,
+          97
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/v72TU5A9",
+        "expanded_url": "http://twitter.com/michaelpRTD/status/217667173018124288/photo/1",
+        "display_url": "pic.twitter.com/v72TU5A9",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "michaelpRTD",
+        "name": "michael phillips",
+        "id": 25730085,
+        "id_str": "25730085",
+        "indices": [
+          126,
+          138
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

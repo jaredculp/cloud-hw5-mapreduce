@@ -1,0 +1,229 @@
+{
+  "created_at": "Tue Jun 26 20:18:16 +0000 2012",
+  "id": 217713410484342784,
+  "id_str": "217713410484342784",
+  "text": "RT @MrJefferson_UVa: Meet me at The Virginian, #OpenBar for President #Sullivan on me. #UVA #WAHOOWA!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 485977692,
+    "id_str": "485977692",
+    "name": "Matthew J. Marcus",
+    "screen_name": "MatthewJMarcus",
+    "location": "",
+    "description": "I am a sapient carbon-based life form. All opinions opined herein are attributed to their originators.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 50,
+    "friends_count": 157,
+    "listed_count": 0,
+    "created_at": "Tue Feb 07 19:49:20 +0000 2012",
+    "favourites_count": 34,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 799,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1811370325/Mugshot_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1811370325/Mugshot_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 26 20:06:06 +0000 2012",
+    "id": 217710347711299584,
+    "id_str": "217710347711299584",
+    "text": "Meet me at The Virginian, #OpenBar for President #Sullivan on me. #UVA #WAHOOWA!",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 132633456,
+      "id_str": "132633456",
+      "name": "Thomas Jefferson",
+      "screen_name": "MrJefferson_UVa",
+      "location": "Charlottesville, VA",
+      "description": "Author of the Declaration of American Independence, of the Statute of Virginia for Religious Freedom, and Father of The University of Virginia",
+      "url": "http://www.virginia.edu",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.virginia.edu",
+              "expanded_url": null,
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1456,
+      "friends_count": 1004,
+      "listed_count": 30,
+      "created_at": "Tue Apr 13 19:35:00 +0000 2010",
+      "favourites_count": 7,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 310,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/91845184/lawn.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/91845184/lawn.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/820562331/thomas_jefferson_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/820562331/thomas_jefferson_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 111,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "OpenBar",
+          "indices": [
+            26,
+            34
+          ]
+        },
+        {
+          "text": "Sullivan",
+          "indices": [
+            49,
+            58
+          ]
+        },
+        {
+          "text": "UVA",
+          "indices": [
+            66,
+            70
+          ]
+        },
+        {
+          "text": "WAHOOWA",
+          "indices": [
+            71,
+            79
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 111,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "OpenBar",
+        "indices": [
+          47,
+          55
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          70,
+          79
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          87,
+          91
+        ]
+      },
+      {
+        "text": "WAHOOWA",
+        "indices": [
+          92,
+          100
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MrJefferson_UVa",
+        "name": "Thomas Jefferson",
+        "id": 132633456,
+        "id_str": "132633456",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

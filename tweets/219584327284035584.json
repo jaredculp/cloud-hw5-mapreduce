@@ -1,0 +1,194 @@
+{
+  "created_at": "Mon Jul 02 00:12:38 +0000 2012",
+  "id": 219584327284035584,
+  "id_str": "219584327284035584",
+  "text": "a shot of the #UVA rotunda i took this weekend, designed by #ThomasJefferson. #Iphoneography http://t.co/bHqmGqRl",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21466538,
+    "id_str": "21466538",
+    "name": "Brian Bowden",
+    "screen_name": "Slim_In_81",
+    "location": "the island.",
+    "description": "i live for walkers and the smoke monster. sports will be the death of me.",
+    "url": "http://slimin81.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://slimin81.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 383,
+    "friends_count": 427,
+    "listed_count": 3,
+    "created_at": "Sat Feb 21 05:44:23 +0000 2009",
+    "favourites_count": 125,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 26542,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BF1238",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/543676302/Food.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/543676302/Food.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1437740473/Lost_Numbers_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1437740473/Lost_Numbers_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/21466538/1360037363",
+    "profile_link_color": "BF1238",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      36.78163429,
+      -75.99709245
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -75.99709245,
+      36.78163429
+    ]
+  },
+  "place": {
+    "id": "84229b03659050aa",
+    "url": "https://api.twitter.com/1.1/geo/id/84229b03659050aa.json",
+    "place_type": "city",
+    "name": "Virginia Beach",
+    "full_name": "Virginia Beach, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -76.22776,
+            36.550453
+          ],
+          [
+            -75.797497,
+            36.550453
+          ],
+          [
+            -75.797497,
+            37.040886
+          ],
+          [
+            -76.22776,
+            37.040886
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          14,
+          18
+        ]
+      },
+      {
+        "text": "ThomasJefferson",
+        "indices": [
+          60,
+          76
+        ]
+      },
+      {
+        "text": "Iphoneography",
+        "indices": [
+          78,
+          92
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 219584327288229889,
+        "id_str": "219584327288229889",
+        "indices": [
+          93,
+          113
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwweyEJCEAEclfr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwweyEJCEAEclfr.jpg",
+        "url": "http://t.co/bHqmGqRl",
+        "display_url": "pic.twitter.com/bHqmGqRl",
+        "expanded_url": "http://twitter.com/Slim_In_81/status/219584327284035584/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 765,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 254,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 448,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

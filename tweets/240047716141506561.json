@@ -1,0 +1,102 @@
+{
+  "created_at": "Mon Aug 27 11:26:50 +0000 2012",
+  "id": 240047716141506561,
+  "id_str": "240047716141506561",
+  "text": "En 2012 se espera una cosecha más floja por la sequía y las heladas en octubre, la #DORUEDA confía en alcanzar 70 millones de kgs de #uva.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 592832580,
+    "id_str": "592832580",
+    "name": "Alvarezydiez",
+    "screen_name": "Alvarezydiez",
+    "location": "Nava del Rey (Valladolid)",
+    "description": "Elaboramos vinos blancos de la Denominación de Origen Rueda y tintos de la DO Toro",
+    "url": "http://www.alvarezydiez.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.alvarezydiez.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 28,
+    "friends_count": 18,
+    "listed_count": 4,
+    "created_at": "Mon May 28 14:01:36 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 86,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/564903600/vinedos.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/564903600/vinedos.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2257785404/logo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2257785404/logo_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "DORUEDA",
+        "indices": [
+          83,
+          91
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          133,
+          137
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

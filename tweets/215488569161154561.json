@@ -1,0 +1,95 @@
+{
+  "created_at": "Wed Jun 20 16:57:33 +0000 2012",
+  "id": 215488569161154561,
+  "id_str": "215488569161154561",
+  "text": "For here we are not afraid to follow truth wherever it may lead, nor to tolerate any error so long as reason is left free to combat it. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 241530372,
+    "id_str": "241530372",
+    "name": "Mary Ellen",
+    "screen_name": "pateachew",
+    "location": "New York, NY",
+    "description": "Food Blogger, Fashion Lover, and Occasional Lawyer",
+    "url": "http://www.pateachew.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.pateachew.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 187,
+    "friends_count": 295,
+    "listed_count": 5,
+    "created_at": "Sat Jan 22 13:51:58 +0000 2011",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 829,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/411361027/DSC_0016_2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/411361027/DSC_0016_2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1222688459/pateachew_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1222688459/pateachew_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          136,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

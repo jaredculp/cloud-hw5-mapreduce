@@ -1,0 +1,121 @@
+{
+  "created_at": "Fri Jun 22 13:47:18 +0000 2012",
+  "id": 216165470561255426,
+  "id_str": "216165470561255426",
+  "text": "@HelenDragas You've been quoted in my #Storify story \"The Most Hilarious UVA Tweets Speculating #WhatTheBOVisDoing\" http://t.co/1pwph8ku",
+  "source": "<a href=\"http://storify.com\" rel=\"nofollow\">Storify</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 612252466,
+  "in_reply_to_user_id_str": "612252466",
+  "in_reply_to_screen_name": "HelenDragas",
+  "user": {
+    "id": 239530989,
+    "id_str": "239530989",
+    "name": "Molly Greenberg",
+    "screen_name": "mollygreenberg",
+    "location": "Washington, DC",
+    "description": "Professional coffee drinker and laugh machine extraordinaire. Boston sports always come first. @AmericanU alum. Edu beat. Staff Writer for @InTheCapital",
+    "url": "http://inthecapital.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://inthecapital.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 633,
+    "friends_count": 944,
+    "listed_count": 16,
+    "created_at": "Mon Jan 17 20:59:22 +0000 2011",
+    "favourites_count": 11,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2849,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/555478833/Picture_66.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/555478833/Picture_66.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1823862604/378750_2315326522916_1242030233_32340870_1504344901_n_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1823862604/378750_2315326522916_1242030233_32340870_1504344901_n_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/239530989/1359311628",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Storify",
+        "indices": [
+          38,
+          46
+        ]
+      },
+      {
+        "text": "WhatTheBOVisDoing",
+        "indices": [
+          96,
+          114
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/1pwph8ku",
+        "expanded_url": "http://goo.gl/Qs09G",
+        "display_url": "goo.gl/Qs09G",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HelenDragas",
+        "name": "Helen Dragas",
+        "id": 612252466,
+        "id_str": "612252466",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

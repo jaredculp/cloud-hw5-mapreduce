@@ -1,0 +1,141 @@
+{
+  "created_at": "Thu Aug 16 16:56:41 +0000 2012",
+  "id": 236144462374518785,
+  "id_str": "236144462374518785",
+  "text": "Just did an awesome interview with a #UVa pediatrician on \"back to school\" health!",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 45290188,
+    "id_str": "45290188",
+    "name": "Jennifer Anyaegbunam",
+    "screen_name": "JenniferAdaeze",
+    "location": "Charlottesville, VA",
+    "description": "medical journalist & doctor-in-training. UVA MD '15 You can never be overdressed or overeducated.",
+    "url": "http://www.jenniferadaeze.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jenniferadaeze.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 845,
+    "friends_count": 418,
+    "listed_count": 59,
+    "created_at": "Sun Jun 07 05:24:09 +0000 2009",
+    "favourites_count": 35,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6558,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/539396425/hsmb1.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/539396425/hsmb1.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2173008211/hsmb3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2173008211/hsmb3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/45290188/1351779591",
+    "profile_link_color": "FA082C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "0A0A0A",
+    "profile_text_color": "C728A7",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.05169652,
+      -78.54887104
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.54887104,
+      38.05169652
+    ]
+  },
+  "place": {
+    "id": "84a054a9dfe0dcf1",
+    "url": "https://api.twitter.com/1.1/geo/id/84a054a9dfe0dcf1.json",
+    "place_type": "city",
+    "name": "Samuel Miller",
+    "full_name": "Samuel Miller, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.806576,
+            37.907229
+          ],
+          [
+            -78.514126,
+            37.907229
+          ],
+          [
+            -78.514126,
+            38.104528
+          ],
+          [
+            -78.806576,
+            38.104528
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

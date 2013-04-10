@@ -1,0 +1,96 @@
+{
+  "created_at": "Sun Aug 12 04:40:39 +0000 2012",
+  "id": 234509680234352640,
+  "id_str": "234509680234352640",
+  "text": "@Greg_Strine this reminds me a lot of you for some reason. http://t.co/C2sZx2s1",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 234509391720759296,
+  "in_reply_to_status_id_str": "234509391720759296",
+  "in_reply_to_user_id": 390790897,
+  "in_reply_to_user_id_str": "390790897",
+  "in_reply_to_screen_name": "Greg_Strine",
+  "user": {
+    "id": 228492514,
+    "id_str": "228492514",
+    "name": "Sammy Roush✌",
+    "screen_name": "S_Roush07",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 474,
+    "friends_count": 429,
+    "listed_count": 0,
+    "created_at": "Sun Dec 19 21:55:38 +0000 2010",
+    "favourites_count": 1659,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6880,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/660775819/2nonwni65qw69gn0p2kw.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/660775819/2nonwni65qw69gn0p2kw.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3122981363/ccb2a75ba8f1db0b2f6bb585861b17e8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3122981363/ccb2a75ba8f1db0b2f6bb585861b17e8_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/228492514/1350439446",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/C2sZx2s1",
+        "expanded_url": "http://www.youtube.com/watch?v=stG2wTvvbw0&feature=g-logo-xit",
+        "display_url": "youtube.com/watch?v=stG2wT…",
+        "indices": [
+          59,
+          79
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Greg_Strine",
+        "name": "Greg Strine",
+        "id": 390790897,
+        "id_str": "390790897",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

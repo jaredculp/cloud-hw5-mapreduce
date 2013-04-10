@@ -1,0 +1,150 @@
+{
+  "created_at": "Tue Jun 26 14:17:40 +0000 2012",
+  "id": 217622664028758016,
+  "id_str": "217622664028758016",
+  "text": "@TheUVAFool it just had the \" must go\" from the original \"dragas must go!\" So this wonderful lady was painting #Dragas back.",
+  "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217622053057069056,
+  "in_reply_to_status_id_str": "217622053057069056",
+  "in_reply_to_user_id": 42156117,
+  "in_reply_to_user_id_str": "42156117",
+  "in_reply_to_screen_name": "TheUVAFool",
+  "user": {
+    "id": 60258809,
+    "id_str": "60258809",
+    "name": "M. Joel Voss",
+    "screen_name": "mjoelvoss",
+    "location": "Charlottesville, VA",
+    "description": "PhD candidate at the University of Virginia where I study human rights, the UN HRC, international law, and foreign affairs. \r\n",
+    "url": "http://www.mjoelvoss.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mjoelvoss.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 165,
+    "friends_count": 464,
+    "listed_count": 0,
+    "created_at": "Sun Jul 26 07:35:14 +0000 2009",
+    "favourites_count": 163,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2239,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2552997035/xs0nwi2dtmhgy5fxzass_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2552997035/xs0nwi2dtmhgy5fxzass_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/60258809/1353772512",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.039035,
+      -78.50209
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.50209,
+      38.039035
+    ]
+  },
+  "place": {
+    "id": "a5aee0034fb1fb02",
+    "url": "https://api.twitter.com/1.1/geo/id/a5aee0034fb1fb02.json",
+    "place_type": "city",
+    "name": "Jack Jouett",
+    "full_name": "Jack Jouett, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.593326,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.143404
+          ],
+          [
+            -78.593326,
+            38.143404
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Dragas",
+        "indices": [
+          111,
+          118
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

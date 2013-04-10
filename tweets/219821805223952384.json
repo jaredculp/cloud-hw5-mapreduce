@@ -1,0 +1,112 @@
+{
+  "created_at": "Mon Jul 02 15:56:17 +0000 2012",
+  "id": 219821805223952384,
+  "id_str": "219821805223952384",
+  "text": "NPF President &amp; COO Bob Meyers gives his take on the #UVA #BOV situation in his latest blog. http://t.co/MapqhADG",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18220630,
+    "id_str": "18220630",
+    "name": "National Press Fndn",
+    "screen_name": "NatPress",
+    "location": "Washington, D.C.",
+    "description": "We educate journalists in the U.S. and around the world through fellowships and other programs. We recognize journalistic excellence through awards. ",
+    "url": "http://www.nationalpress.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nationalpress.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2200,
+    "friends_count": 1611,
+    "listed_count": 140,
+    "created_at": "Thu Dec 18 18:09:13 +0000 2008",
+    "favourites_count": 127,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2805,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "293D66",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/149800071/background.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/149800071/background.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1125158294/npfsmedia_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1125158294/npfsmedia_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18220630/1347986800",
+    "profile_link_color": "D93716",
+    "profile_sidebar_border_color": "C2D2F2",
+    "profile_sidebar_fill_color": "E6EAF2",
+    "profile_text_color": "676B73",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          57,
+          61
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/MapqhADG",
+        "expanded_url": "http://natpr.es/M1c24E",
+        "display_url": "natpr.es/M1c24E",
+        "indices": [
+          97,
+          117
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

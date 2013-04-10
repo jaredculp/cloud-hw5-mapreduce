@@ -1,0 +1,112 @@
+{
+  "created_at": "Thu Jun 28 08:31:42 +0000 2012",
+  "id": 218260374250733568,
+  "id_str": "218260374250733568",
+  "text": "@radiomortale Mochten jullie talent tegenkomen dat aan #HvA of #UvA studeert: ook bij Folia Radio zijn ze van harte welkom.",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217690823100346369,
+  "in_reply_to_status_id_str": "217690823100346369",
+  "in_reply_to_user_id": 124421622,
+  "in_reply_to_user_id_str": "124421622",
+  "in_reply_to_screen_name": "radiomortale",
+  "user": {
+    "id": 7500422,
+    "id_str": "7500422",
+    "name": "Wim de Jong",
+    "screen_name": "wimdejong",
+    "location": "Amsterdam",
+    "description": "Eindredacteur @FoliaWeb, nieuws en meer over UvA en HvA",
+    "url": "http://www.foliaweb.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.foliaweb.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 797,
+    "friends_count": 998,
+    "listed_count": 20,
+    "created_at": "Mon Jul 16 07:33:24 +0000 2007",
+    "favourites_count": 20,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2763,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F4E724",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1448407474/263704_10150226909469141_650894140_7432072_4251155_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1448407474/263704_10150226909469141_650894140_7432072_4251155_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/7500422/1359193562",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HvA",
+        "indices": [
+          55,
+          59
+        ]
+      },
+      {
+        "text": "UvA",
+        "indices": [
+          63,
+          67
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "radiomortale",
+        "name": "Radio Mortale",
+        "id": 124421622,
+        "id_str": "124421622",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,130 @@
+{
+  "created_at": "Tue Jun 26 19:36:37 +0000 2012",
+  "id": 217702927031222273,
+  "id_str": "217702927031222273",
+  "text": "RT @chronicle: Teresa Sullivan is reinstated at #UVa: http://t.co/z5Ial60r Complete coverage: http://t.co/qWHwnhj1",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 792659,
+    "id_str": "792659",
+    "name": "William Patrick Wend",
+    "screen_name": "wpwend42",
+    "location": "",
+    "description": "I teach Grammar + English Literature at Burlington County College. Last seen @ Dunkin Donuts. http://t.co/qEM0Wtvj February 02, 2013 at 09:28AM",
+    "url": "http://www.wpwend.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wpwend.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/qEM0Wtvj",
+            "expanded_url": "http://bit.ly/Ubul7Y",
+            "display_url": "bit.ly/Ubul7Y",
+            "indices": [
+              94,
+              114
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 579,
+    "friends_count": 228,
+    "listed_count": 38,
+    "created_at": "Sat Feb 24 17:56:58 +0000 2007",
+    "favourites_count": 46,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 23653,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/340322779/madmen_icon_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/340322779/madmen_icon_normal.jpg",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/z5Ial60r",
+        "expanded_url": "http://chroni.cl/QdqIiN",
+        "display_url": "chroni.cl/QdqIiN",
+        "indices": [
+          54,
+          74
+        ]
+      },
+      {
+        "url": "http://t.co/qWHwnhj1",
+        "expanded_url": "http://chroni.cl/Mwk9Y8",
+        "display_url": "chroni.cl/Mwk9Y8",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

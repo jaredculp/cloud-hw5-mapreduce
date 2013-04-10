@@ -1,0 +1,96 @@
+{
+  "created_at": "Tue Jun 26 20:08:51 +0000 2012",
+  "id": 217711041142984705,
+  "id_str": "217711041142984705",
+  "text": "@chucktodd @LarrySabato Yes, the Duke lacrosse players know a bit about that.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217700187613831170,
+  "in_reply_to_status_id_str": "217700187613831170",
+  "in_reply_to_user_id": 50325797,
+  "in_reply_to_user_id_str": "50325797",
+  "in_reply_to_screen_name": "chucktodd",
+  "user": {
+    "id": 565423176,
+    "id_str": "565423176",
+    "name": "mpiii",
+    "screen_name": "mpiii1",
+    "location": "Central Florida",
+    "description": "Pro-life, anti-war, Paleo-Conservative/Libertarian/Constitutionalist;   Native Floridian.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 252,
+    "friends_count": 387,
+    "listed_count": 2,
+    "created_at": "Sat Apr 28 10:36:22 +0000 2012",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2617,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3147446739/4afdcc589a796d95263371a4973226c8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3147446739/4afdcc589a796d95263371a4973226c8_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chucktodd",
+        "name": "Chuck Todd",
+        "id": 50325797,
+        "id_str": "50325797",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          11,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

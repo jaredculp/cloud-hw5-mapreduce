@@ -1,0 +1,95 @@
+{
+  "created_at": "Fri Jun 22 21:54:08 +0000 2012",
+  "id": 216287985568718849,
+  "id_str": "216287985568718849",
+  "text": "It's times like these I have to miss #UVa",
+  "source": "<a href=\"http://ping.fm/\" rel=\"nofollow\">Ping.fm</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18182681,
+    "id_str": "18182681",
+    "name": "David Homyk",
+    "screen_name": "davidhomyk",
+    "location": "NYC and Charlottesville",
+    "description": "I'm a singer, writer, guitarist, pianist, record producer and sound engineer. I get compared to Maroon 5, James Blunt, Jason Mraz and Gavin DeGraw. ",
+    "url": "http://www.davidhomyk.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.davidhomyk.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1224,
+    "friends_count": 138,
+    "listed_count": 43,
+    "created_at": "Wed Dec 17 04:57:45 +0000 2008",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 696,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/19673763/twitter2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/19673763/twitter2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/261563163/twitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/261563163/twitter_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "969696",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

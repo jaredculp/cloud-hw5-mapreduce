@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jul 03 14:05:21 +0000 2012",
+  "id": 220156277794410496,
+  "id_str": "220156277794410496",
+  "text": "@princessglammy Oh, I'm a sunscreen junkie! #SPF #UVA #UVB",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 220151032972447744,
+  "in_reply_to_status_id_str": "220151032972447744",
+  "in_reply_to_user_id": 18515319,
+  "in_reply_to_user_id_str": "18515319",
+  "in_reply_to_screen_name": "princessglammy",
+  "user": {
+    "id": 57110186,
+    "id_str": "57110186",
+    "name": "Amy Crews Ouellette",
+    "screen_name": "QueenAmy13",
+    "location": "Hollywood Beach, Florida",
+    "description": "Big Brother 3 Houseguest now living it up in hot sunny South Florida... ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2794,
+    "friends_count": 184,
+    "listed_count": 185,
+    "created_at": "Wed Jul 15 19:25:11 +0000 2009",
+    "favourites_count": 620,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2471,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/315350870/New_y_1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/315350870/New_y_1_normal.jpg",
+    "profile_link_color": "E320BC",
+    "profile_sidebar_border_color": "E8339A",
+    "profile_sidebar_fill_color": "CCF1FF",
+    "profile_text_color": "0B1E99",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SPF",
+        "indices": [
+          44,
+          48
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          49,
+          53
+        ]
+      },
+      {
+        "text": "UVB",
+        "indices": [
+          54,
+          58
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "princessglammy",
+        "name": "Princess Glammy",
+        "id": 18515319,
+        "id_str": "18515319",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

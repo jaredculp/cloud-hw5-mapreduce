@@ -1,0 +1,141 @@
+{
+  "created_at": "Wed Jun 27 10:19:41 +0000 2012",
+  "id": 217925158197936130,
+  "id_str": "217925158197936130",
+  "text": "Skolkovo and the #UvA signing the agreement #SkolkovoRoadshow http://t.co/W4hUL5xM",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 473134719,
+    "id_str": "473134719",
+    "name": "Skolkovo Foundation",
+    "screen_name": "sk_en",
+    "location": "Moscow",
+    "description": "The Skolkovo Foundation aims to turn cutting-edge research into world-class products, by creating a multibillion-dollar unique global hub and innovation centre.",
+    "url": "http://sk.ru/en/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://sk.ru/en/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 879,
+    "friends_count": 569,
+    "listed_count": 14,
+    "created_at": "Tue Jan 24 17:35:45 +0000 2012",
+    "favourites_count": 19,
+    "utc_offset": 14400,
+    "time_zone": "Moscow",
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 1121,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/635544620/2tk1bsw52m7zy7isxrkr.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/635544620/2tk1bsw52m7zy7isxrkr.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1827188297/SK_general_1__normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1827188297/SK_general_1__normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          17,
+          21
+        ]
+      },
+      {
+        "text": "SkolkovoRoadshow",
+        "indices": [
+          44,
+          61
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 217925158202130432,
+        "id_str": "217925158202130432",
+        "indices": [
+          62,
+          82
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwY5xtpCQAADWzu.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwY5xtpCQAADWzu.jpg",
+        "url": "http://t.co/W4hUL5xM",
+        "display_url": "pic.twitter.com/W4hUL5xM",
+        "expanded_url": "http://twitter.com/sk_en/status/217925158197936130/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 450,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 255,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 480,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 18:52:14 +0000 2012",
+  "id": 215155042498510848,
+  "id_str": "215155042498510848",
+  "text": "@sivavaid Wondering if you plan to resign so I can find a class to replace your #UVA Media Policy in my Fall schedule. DM me! #planningahead",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 20406724,
+  "in_reply_to_user_id_str": "20406724",
+  "in_reply_to_screen_name": "sivavaid",
+  "user": {
+    "id": 138132346,
+    "id_str": "138132346",
+    "name": "Alie",
+    "screen_name": "UVAlison",
+    "location": "Charlottesville, VA",
+    "description": "U.Va. '13 | I am a voice of a generation.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 161,
+    "friends_count": 219,
+    "listed_count": 2,
+    "created_at": "Wed Apr 28 18:19:47 +0000 2010",
+    "favourites_count": 203,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 923,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/96605907/breezetry4.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/96605907/breezetry4.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3076528398/668aec9f5acd7e363bda6046f3991cb9_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3076528398/668aec9f5acd7e363bda6046f3991cb9_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          80,
+          84
+        ]
+      },
+      {
+        "text": "planningahead",
+        "indices": [
+          126,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

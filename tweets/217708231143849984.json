@@ -1,0 +1,93 @@
+{
+  "created_at": "Tue Jun 26 19:57:41 +0000 2012",
+  "id": 217708231143849984,
+  "id_str": "217708231143849984",
+  "text": "@lauraaimone Where is the live tweeting from #UVA?!?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 30219442,
+  "in_reply_to_user_id_str": "30219442",
+  "in_reply_to_screen_name": "lauraaimone",
+  "user": {
+    "id": 275561631,
+    "id_str": "275561631",
+    "name": "Katie Aimone",
+    "screen_name": "katieaimone",
+    "location": "Virginia",
+    "description": "love all things Washington Nationals, Higher Education and pumpkin flavored! ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 83,
+    "friends_count": 184,
+    "listed_count": 0,
+    "created_at": "Fri Apr 01 14:42:39 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 535,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/266378371/leo_print.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/266378371/leo_print.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1319764198/30480_585742395950_56902724_33927322_8276106_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1319764198/30480_585742395950_56902724_33927322_8276106_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/275561631/1352737167",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          45,
+          49
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "lauraaimone",
+        "name": "laura aimone",
+        "id": 30219442,
+        "id_str": "30219442",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

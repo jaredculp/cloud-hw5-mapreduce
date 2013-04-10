@@ -1,0 +1,100 @@
+{
+  "created_at": "Sun Aug 26 15:18:56 +0000 2012",
+  "id": 239743741261402112,
+  "id_str": "239743741261402112",
+  "text": "@Henadryl AP Physics tomorrow #UVA #MIT senior",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 110311355,
+  "in_reply_to_user_id_str": "110311355",
+  "in_reply_to_screen_name": "Henadryl",
+  "user": {
+    "id": 475355702,
+    "id_str": "475355702",
+    "name": "George Parkhurst",
+    "screen_name": "GCANNONP",
+    "location": "",
+    "description": "It go Halle Berry or Hellelujah",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 258,
+    "friends_count": 168,
+    "listed_count": 0,
+    "created_at": "Thu Jan 26 23:47:11 +0000 2012",
+    "favourites_count": 318,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1344,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2782523076/35c45f37db4281efcaacbbf8fdccd49e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2782523076/35c45f37db4281efcaacbbf8fdccd49e_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/475355702/1359737348",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          30,
+          34
+        ]
+      },
+      {
+        "text": "MIT",
+        "indices": [
+          35,
+          39
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Henadryl",
+        "name": "Henry ",
+        "id": 110311355,
+        "id_str": "110311355",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

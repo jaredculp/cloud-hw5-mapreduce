@@ -1,0 +1,99 @@
+{
+  "created_at": "Sun Aug 26 13:33:46 +0000 2012",
+  "id": 239717274913755136,
+  "id_str": "239717274913755136",
+  "text": ". @BarackObama Our university has a dump nearby that you can speak at. I hear it smells as bad as your economic policies. #UVA #Obama",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 319828578,
+    "id_str": "319828578",
+    "name": "C_forCam",
+    "screen_name": "C_forCam",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 29,
+    "friends_count": 63,
+    "listed_count": 1,
+    "created_at": "Sat Jun 18 20:28:00 +0000 2011",
+    "favourites_count": 248,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5239,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/325760106/republicanparty03.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/325760106/republicanparty03.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2892880979/b99b7501c95b78530f7d94e7e533fc48_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2892880979/b99b7501c95b78530f7d94e7e533fc48_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          122,
+          126
+        ]
+      },
+      {
+        "text": "Obama",
+        "indices": [
+          127,
+          133
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BarackObama",
+        "name": "Barack Obama",
+        "id": 813286,
+        "id_str": "813286",
+        "indices": [
+          2,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

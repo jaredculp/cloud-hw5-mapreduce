@@ -1,0 +1,136 @@
+{
+  "created_at": "Sun Jun 24 23:25:31 +0000 2012",
+  "id": 217035754768039936,
+  "id_str": "217035754768039936",
+  "text": "#UVA #Rally4Honor #Sullivan http://t.co/4nx1INis",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Photos on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 613079901,
+    "id_str": "613079901",
+    "name": "Gabriel Walters",
+    "screen_name": "gzwalters",
+    "location": "",
+    "description": "Animal rights lawyer, UVa Law grad, ACLU member, music snob, vinyl aficionado ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 16,
+    "friends_count": 64,
+    "listed_count": 1,
+    "created_at": "Wed Jun 20 00:55:20 +0000 2012",
+    "favourites_count": 36,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 240,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2325719676/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2325719676/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Rally4Honor",
+        "indices": [
+          5,
+          17
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          18,
+          27
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 217035754772234241,
+        "id_str": "217035754772234241",
+        "indices": [
+          28,
+          48
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwMQ3nrCAAE9OSm.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwMQ3nrCAAE9OSm.jpg",
+        "url": "http://t.co/4nx1INis",
+        "display_url": "pic.twitter.com/4nx1INis",
+        "expanded_url": "http://twitter.com/gzwalters/status/217035754768039936/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 648,
+            "h": 484,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 254,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 448,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,102 @@
+{
+  "created_at": "Tue Jun 19 20:37:42 +0000 2012",
+  "id": 215181584402366464,
+  "id_str": "215181584402366464",
+  "text": "Former #Sullivan &amp; Cromwell partner suspended @ReutersLegal http://t.co/xU3DkhLZ",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17574329,
+    "id_str": "17574329",
+    "name": "Nate Raymond",
+    "screen_name": "nateraymond",
+    "location": "New York",
+    "description": "Legal journalist at Reuters covering the U.S. District Court in Manhattan and the 2nd Circuit. Retweets ≠ endorsements",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1098,
+    "friends_count": 647,
+    "listed_count": 50,
+    "created_at": "Sun Nov 23 16:12:12 +0000 2008",
+    "favourites_count": 16,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2798,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1431626296/me_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1431626296/me_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/17574329/1354967862",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          7,
+          16
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xU3DkhLZ",
+        "expanded_url": "http://newsandinsight.thomsonreuters.com/Legal/News/2012/06_-_June/Former_Sullivan___Cromwell_partner_suspended_after_tax_conviction/",
+        "display_url": "newsandinsight.thomsonreuters.com/Legal/News/201…",
+        "indices": [
+          64,
+          84
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ReutersLegal",
+        "name": "Reuters Legal ",
+        "id": 334944709,
+        "id_str": "334944709",
+        "indices": [
+          50,
+          63
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

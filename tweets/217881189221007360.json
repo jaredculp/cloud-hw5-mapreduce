@@ -1,0 +1,90 @@
+{
+  "created_at": "Wed Jun 27 07:24:58 +0000 2012",
+  "id": 217881189221007360,
+  "id_str": "217881189221007360",
+  "text": "Op bezoek bij #UvA voor gesprek #masterclass",
+  "source": "<a href=\"http://www.microsoft.com/\" rel=\"nofollow\">Microsoft</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 257582057,
+    "id_str": "257582057",
+    "name": "Almando Coutinho",
+    "screen_name": "AlmandoCoutinho",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 103,
+    "friends_count": 237,
+    "listed_count": 1,
+    "created_at": "Fri Feb 25 18:52:37 +0000 2011",
+    "favourites_count": 2,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1158,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2505154521/1djc1vp4bj3tvaccz7z0_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2505154521/1djc1vp4bj3tvaccz7z0_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          14,
+          18
+        ]
+      },
+      {
+        "text": "masterclass",
+        "indices": [
+          32,
+          44
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,184 @@
+{
+  "created_at": "Fri Jun 22 20:28:01 +0000 2012",
+  "id": 216266311033036800,
+  "id_str": "216266311033036800",
+  "text": "All the boys are back #theclub #ucla #UVA #baylorschool #GSquad #gridironacademy   @ Gridiron Academy http://t.co/XeYoMVPE",
+  "source": "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 111709502,
+    "id_str": "111709502",
+    "name": "Victor Tedondo",
+    "screen_name": "GridironCamp",
+    "location": "Ottawa",
+    "description": "",
+    "url": "http://www.gridironacademy.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.gridironacademy.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 114,
+    "friends_count": 191,
+    "listed_count": 3,
+    "created_at": "Fri Feb 05 22:17:24 +0000 2010",
+    "favourites_count": 4,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 643,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/74450595/blog1_pic-2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/74450595/blog1_pic-2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2204489971/FacebookHomescreenImage_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2204489971/FacebookHomescreenImage_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      45.4421189,
+      -75.5728034
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -75.5728034,
+      45.4421189
+    ]
+  },
+  "place": {
+    "id": "06183ca2a30a18e8",
+    "url": "https://api.twitter.com/1.1/geo/id/06183ca2a30a18e8.json",
+    "place_type": "city",
+    "name": "Ottawa",
+    "full_name": "Ottawa, Ontario",
+    "country_code": "CA",
+    "country": "Canada",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -76.353876,
+            44.961937
+          ],
+          [
+            -75.246407,
+            44.961937
+          ],
+          [
+            -75.246407,
+            45.534511
+          ],
+          [
+            -76.353876,
+            45.534511
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "theclub",
+        "indices": [
+          22,
+          30
+        ]
+      },
+      {
+        "text": "ucla",
+        "indices": [
+          31,
+          36
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          37,
+          41
+        ]
+      },
+      {
+        "text": "baylorschool",
+        "indices": [
+          42,
+          55
+        ]
+      },
+      {
+        "text": "GSquad",
+        "indices": [
+          56,
+          63
+        ]
+      },
+      {
+        "text": "gridironacademy",
+        "indices": [
+          64,
+          80
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/XeYoMVPE",
+        "expanded_url": "http://instagr.am/p/MMIEVIssMG/",
+        "display_url": "instagr.am/p/MMIEVIssMG/",
+        "indices": [
+          102,
+          122
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

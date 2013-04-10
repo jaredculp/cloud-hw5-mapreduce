@@ -1,0 +1,123 @@
+{
+  "created_at": "Wed Jun 27 19:28:51 +0000 2012",
+  "id": 218063363043893250,
+  "id_str": "218063363043893250",
+  "text": "RT @Greene_DM: @sivavaid's barnstormer on *gasp* non-market systems for creating value in liberal democracies #uva http://t.co/bTMTplxk",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 12876812,
+    "id_str": "12876812",
+    "name": "Matt Gold",
+    "screen_name": "mkgold",
+    "location": "New York",
+    "description": "Just trying to work the google on the internet machine.",
+    "url": "http://www.mkgold.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mkgold.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1880,
+    "friends_count": 726,
+    "listed_count": 141,
+    "created_at": "Wed Jan 30 17:01:20 +0000 2008",
+    "favourites_count": 2725,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7293,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/3528181/twitter-back-zither3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/3528181/twitter-back-zither3.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2819228164/d40bca11f63a19c218e897a0ed63a0fc_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2819228164/d40bca11f63a19c218e897a0ed63a0fc_normal.png",
+    "profile_link_color": "0A5D7B",
+    "profile_sidebar_border_color": "021C3A",
+    "profile_sidebar_fill_color": "C9D4FA",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          110,
+          114
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/bTMTplxk",
+        "expanded_url": "http://slate.me/MxerVe",
+        "display_url": "slate.me/MxerVe",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Greene_DM",
+        "name": "Daniel Greene",
+        "id": 204054046,
+        "id_str": "204054046",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          15,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

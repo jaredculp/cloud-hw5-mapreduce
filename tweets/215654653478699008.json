@@ -1,0 +1,110 @@
+{
+  "created_at": "Thu Jun 21 03:57:30 +0000 2012",
+  "id": 215654653478699008,
+  "id_str": "215654653478699008",
+  "text": "@SpeakingofJulia two #UVA links more in the opinion/essay direction: http://t.co/Kc3kt4AQ, http://t.co/R4MrsP8g (last two posts)",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215629969399877633,
+  "in_reply_to_status_id_str": "215629969399877633",
+  "in_reply_to_user_id": 14807418,
+  "in_reply_to_user_id_str": "14807418",
+  "in_reply_to_screen_name": "SpeakingofJulia",
+  "user": {
+    "id": 58531667,
+    "id_str": "58531667",
+    "name": "Colin Schatz",
+    "screen_name": "colinized",
+    "location": "Oakland",
+    "description": "Recovering grad student, computer science instructor, father of Dora Aficionado and Inveterate Furniture Climber",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 37,
+    "friends_count": 128,
+    "listed_count": 2,
+    "created_at": "Mon Jul 20 17:25:27 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1066,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2700971285/6fffa96c7eccade591265d67408240dc_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2700971285/6fffa96c7eccade591265d67408240dc_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          21,
+          25
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Kc3kt4AQ",
+        "expanded_url": "http://huff.to/Mgi93N",
+        "display_url": "huff.to/Mgi93N",
+        "indices": [
+          69,
+          89
+        ]
+      },
+      {
+        "url": "http://t.co/R4MrsP8g",
+        "expanded_url": "http://bit.ly/M7va11",
+        "display_url": "bit.ly/M7va11",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SpeakingofJulia",
+        "name": "SpeakingofJulia",
+        "id": 14807418,
+        "id_str": "14807418",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,122 @@
+{
+  "created_at": "Wed Jun 27 05:56:41 +0000 2012",
+  "id": 217858971669762048,
+  "id_str": "217858971669762048",
+  "text": "RT @washingtonpost: The real #UVA story: The 99 percent win http://t.co/UhuTclxO",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 57842498,
+    "id_str": "57842498",
+    "name": "PoliticalJones",
+    "screen_name": "PoliticalJones",
+    "location": "Washington, D.C.",
+    "description": "Host of The @PoliticalJones Show (Nationally Syndicated Radio). Read: @EBONYMag [INTERVIEW] @PoliticalJones Life Is a Song for his Mama: http://t.co/gNMTjrLm",
+    "url": "http://www.politicaljones.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.politicaljones.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/gNMTjrLm",
+            "expanded_url": "http://bit.ly/KNn0NK",
+            "display_url": "bit.ly/KNn0NK",
+            "indices": [
+              137,
+              157
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3098,
+    "friends_count": 860,
+    "listed_count": 168,
+    "created_at": "Sat Jul 18 03:30:39 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 141696,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/756120884/f66f7f7559fb628f0878e5d0f08bb432.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/756120884/f66f7f7559fb628f0878e5d0f08bb432.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3072441710/cd76319d6df4ae2a91431b8cb4d1eb98_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3072441710/cd76319d6df4ae2a91431b8cb4d1eb98_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/57842498/1357462920",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          29,
+          33
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UhuTclxO",
+        "expanded_url": "http://wapo.st/OsJ566",
+        "display_url": "wapo.st/OsJ566",
+        "indices": [
+          60,
+          80
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,133 @@
+{
+  "created_at": "Mon Jun 25 18:46:21 +0000 2012",
+  "id": 217327892105936897,
+  "id_str": "217327892105936897",
+  "text": "@lessig @kdneville @jrjones33 Here's one way to pledge $ contingent upon Sullivan's reinstatement - https://t.co/JpVrrZ0l! #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216910436333924353,
+  "in_reply_to_status_id_str": "216910436333924353",
+  "in_reply_to_user_id": 11388132,
+  "in_reply_to_user_id_str": "11388132",
+  "in_reply_to_screen_name": "lessig",
+  "user": {
+    "id": 23584962,
+    "id_str": "23584962",
+    "name": "Vanessa Hurst",
+    "screen_name": "DBNess",
+    "location": "New York, NY",
+    "description": "technologist, girl scout, teacher. building @CodeMontage. founder @devsforgood & @girldevelopit, scout @mozwebfwd, advisor @ohours. open tech + culture FTW.",
+    "url": "http://vanessahurst.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://vanessahurst.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1811,
+    "friends_count": 625,
+    "listed_count": 125,
+    "created_at": "Tue Mar 10 12:19:58 +0000 2009",
+    "favourites_count": 398,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4047,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1769344457/vanessa_eng_head_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1769344457/vanessa_eng_head_normal.jpg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          123,
+          127
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/JpVrrZ0l",
+        "expanded_url": "https://www.facebook.com/groups/396297147073185",
+        "display_url": "facebook.com/groups/3962971…",
+        "indices": [
+          100,
+          121
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "lessig",
+        "name": "Lessig",
+        "id": 11388132,
+        "id_str": "11388132",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "screen_name": "kdneville",
+        "name": "Katie Neville",
+        "id": 14227466,
+        "id_str": "14227466",
+        "indices": [
+          8,
+          18
+        ]
+      },
+      {
+        "screen_name": "jrjones33",
+        "name": "Rob Jones",
+        "id": 453275238,
+        "id_str": "453275238",
+        "indices": [
+          19,
+          29
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

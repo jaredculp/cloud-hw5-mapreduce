@@ -1,0 +1,96 @@
+{
+  "created_at": "Fri Jun 22 02:13:24 +0000 2012",
+  "id": 215990841712451585,
+  "id_str": "215990841712451585",
+  "text": "@mmoran0226 @LarrySabato 100% agree. Class act",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215975787076124672,
+  "in_reply_to_status_id_str": "215975787076124672",
+  "in_reply_to_user_id": 25491897,
+  "in_reply_to_user_id_str": "25491897",
+  "in_reply_to_screen_name": "mmoran0226",
+  "user": {
+    "id": 216355502,
+    "id_str": "216355502",
+    "name": "Erik Rison",
+    "screen_name": "erikrison",
+    "location": "Salem, VA",
+    "description": "Legislative and Political Assistant, recent University of Virginia graduate and sports fan",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 178,
+    "friends_count": 427,
+    "listed_count": 2,
+    "created_at": "Tue Nov 16 13:51:53 +0000 2010",
+    "favourites_count": 216,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 436,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/172323278/UVa.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/172323278/UVa.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2167466116/twit_pic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2167466116/twit_pic_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mmoran0226",
+        "name": "Matthew Moran",
+        "id": 25491897,
+        "id_str": "25491897",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          12,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

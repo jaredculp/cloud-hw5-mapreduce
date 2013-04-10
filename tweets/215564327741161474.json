@@ -1,0 +1,108 @@
+{
+  "created_at": "Wed Jun 20 21:58:35 +0000 2012",
+  "id": 215564327741161474,
+  "id_str": "215564327741161474",
+  "text": "Follow @cavalierdaily http://t.co/DL3nxC9N",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 11696512,
+    "id_str": "11696512",
+    "name": "Andrew Hart",
+    "screen_name": "hartpandrew",
+    "location": "",
+    "description": "Associate Producer @newsbreaker @OraTV. hartpandew(at)gmail(dot)com m: (315) 834-2780",
+    "url": "http://www.peterandrewhart.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.peterandrewhart.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 860,
+    "friends_count": 89,
+    "listed_count": 34,
+    "created_at": "Mon Dec 31 19:13:30 +0000 2007",
+    "favourites_count": 4476,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 38376,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C4C9CA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/677703630/317ab6060bb17d9ec6ef1400df5e23d9.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/677703630/317ab6060bb17d9ec6ef1400df5e23d9.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3097650369/6cceae8c317ca1bfb20c3b3e8c63606e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3097650369/6cceae8c317ca1bfb20c3b3e8c63606e_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/11696512/1357509453",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "7E8181",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/DL3nxC9N",
+        "expanded_url": "http://jimromenesko.com/2012/06/20/follow-cavalierdaily/",
+        "display_url": "jimromenesko.com/2012/06/20/fol…",
+        "indices": [
+          22,
+          42
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          7,
+          21
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

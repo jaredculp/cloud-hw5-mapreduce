@@ -1,0 +1,124 @@
+{
+  "created_at": "Thu Jun 21 15:50:20 +0000 2012",
+  "id": 215834044074692608,
+  "id_str": "215834044074692608",
+  "text": "@wmchamberlain @jonbecker @cavalierdaily I've been following it all through #uva search on twitter.  Fascinating stuff.",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215833891880181760,
+  "in_reply_to_status_id_str": "215833891880181760",
+  "in_reply_to_user_id": 10314482,
+  "in_reply_to_user_id_str": "10314482",
+  "in_reply_to_screen_name": "wmchamberlain",
+  "user": {
+    "id": 16185878,
+    "id_str": "16185878",
+    "name": "Carey Pohanka",
+    "screen_name": "capohanka",
+    "location": "Richmond, VA",
+    "description": "Upper School Academic Instructional Technologist at St. Christopher's School in Richmond/Univ of Florida MEd/ mother of 2 amazing boys",
+    "url": "http://blogs.stchristophers.com/onestudent/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://blogs.stchristophers.com/onestudent/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              43
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1919,
+    "friends_count": 1494,
+    "listed_count": 169,
+    "created_at": "Mon Sep 08 15:29:19 +0000 2008",
+    "favourites_count": 220,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 18739,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2397337614/n0m2zjtgy5q1gdjg31jk_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2397337614/n0m2zjtgy5q1gdjg31jk_normal.jpeg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          76,
+          80
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wmchamberlain",
+        "name": "William Chamberlain",
+        "id": 10314482,
+        "id_str": "10314482",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "jonbecker",
+        "name": "Jonathan Becker",
+        "id": 12363792,
+        "id_str": "12363792",
+        "indices": [
+          15,
+          25
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          26,
+          40
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,122 @@
+{
+  "created_at": "Mon Jun 18 19:41:03 +0000 2012",
+  "id": 214804919868334083,
+  "id_str": "214804919868334083",
+  "text": "#hoosforsullivan http://t.co/kWqyQZoW",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Camera on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 6901462,
+    "id_str": "6901462",
+    "name": "Stacy Smith",
+    "screen_name": "ss9ug",
+    "location": "Charlottesville, VA",
+    "description": "Born and raised in Virginia Beach; JMU alum ('02 and '04); Lover of The Office, baseball, the beach, yoga, and jazz hands; Now live in Cville and work for UVa",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 643,
+    "friends_count": 733,
+    "listed_count": 39,
+    "created_at": "Mon Jun 18 22:59:17 +0000 2007",
+    "favourites_count": 1113,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4122,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000505",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/638586581/3qcamo86lssc5doghi5l.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/638586581/3qcamo86lssc5doghi5l.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/776116902/profile_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/776116902/profile_normal.jpg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "9B94FF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "hoosforsullivan",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 214804919872528385,
+        "id_str": "214804919872528385",
+        "indices": [
+          17,
+          37
+        ],
+        "media_url": "http://pbs.twimg.com/media/Avsj78ECIAEoso0.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Avsj78ECIAEoso0.jpg",
+        "url": "http://t.co/kWqyQZoW",
+        "display_url": "pic.twitter.com/kWqyQZoW",
+        "expanded_url": "http://twitter.com/ss9ug/status/214804919868334083/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 648,
+            "h": 484,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 254,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 448,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

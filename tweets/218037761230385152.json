@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jun 27 17:47:07 +0000 2012",
+  "id": 218037761230385152,
+  "id_str": "218037761230385152",
+  "text": "Totally--in more than one way. #UVA RT @ladycrumpet: Rector Dragas sounds like a character in The Crucible.",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19784501,
+    "id_str": "19784501",
+    "name": "Sean M. Kennedy",
+    "screen_name": "slicksean",
+    "location": "East Village and the world",
+    "description": "Writer, critical inquirer, PhD student in English @CUNYGradCenter. Former journo. UVA undergrad, Rutgers MFA. My research Tumblr: http://t.co/a3ffL9sf",
+    "url": "http://www.sean-kennedy.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.sean-kennedy.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/a3ffL9sf",
+            "expanded_url": "http://bit.ly/P9zmNR",
+            "display_url": "bit.ly/P9zmNR",
+            "indices": [
+              130,
+              150
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1381,
+    "friends_count": 418,
+    "listed_count": 122,
+    "created_at": "Fri Jan 30 19:49:49 +0000 2009",
+    "favourites_count": 100,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 27295,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/70907895/Twitter.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/70907895/Twitter.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1693628082/IMG_9502_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1693628082/IMG_9502_normal.jpg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ladycrumpet",
+        "name": "ladycrumpet",
+        "id": 761443,
+        "id_str": "761443",
+        "indices": [
+          39,
+          51
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

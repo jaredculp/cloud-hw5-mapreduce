@@ -1,0 +1,151 @@
+{
+  "created_at": "Tue Jun 19 07:48:20 +0000 2012",
+  "id": 214987968748855296,
+  "id_str": "214987968748855296",
+  "text": "@UVa making #HigherEd news with new interim president, ouster of #Sullivan official. http://t.co/JYnKkTlB @nytimes @WSJ @GovernorVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 204324915,
+    "id_str": "204324915",
+    "name": "WUVA Online",
+    "screen_name": "WUVAonline",
+    "location": "Charlottesville, VA",
+    "description": "A Multimedia news site for the #UVa community. Completely student run site, the newest branch of WUVA Media. Check us out NOW!",
+    "url": "http://www.wuvaonline.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wuvaonline.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 504,
+    "friends_count": 652,
+    "listed_count": 21,
+    "created_at": "Mon Oct 18 13:07:49 +0000 2010",
+    "favourites_count": 24,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1803,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FD9B32",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/166134002/x17935018a13d0f0e054f8cf06d1345c.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/166134002/x17935018a13d0f0e054f8cf06d1345c.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2913417399/8068660e3a21ee6907b2944b883ecd76_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2913417399/8068660e3a21ee6907b2944b883ecd76_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/204324915/1354250695",
+    "profile_link_color": "C79049",
+    "profile_sidebar_border_color": "543823",
+    "profile_sidebar_fill_color": "031A61",
+    "profile_text_color": "F77A0D",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HigherEd",
+        "indices": [
+          12,
+          21
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          65,
+          74
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/JYnKkTlB",
+        "expanded_url": "http://bit.ly/MonYg6",
+        "display_url": "bit.ly/MonYg6",
+        "indices": [
+          85,
+          105
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "screen_name": "nytimes",
+        "name": "The New York Times",
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          106,
+          114
+        ]
+      },
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          115,
+          119
+        ]
+      },
+      {
+        "screen_name": "GovernorVA",
+        "name": "Bob McDonnell",
+        "id": 104198706,
+        "id_str": "104198706",
+        "indices": [
+          120,
+          131
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

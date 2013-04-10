@@ -1,0 +1,92 @@
+{
+  "created_at": "Fri Jun 22 15:46:49 +0000 2012",
+  "id": 216195546417868801,
+  "id_str": "216195546417868801",
+  "text": "@LarrySabato Was really hoping the Rector's email would be \"I resign.\"  No luck.  #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 15209845,
+    "id_str": "15209845",
+    "name": "MarkCathey",
+    "screen_name": "MarkCathey",
+    "location": "Roanoke VA",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 41,
+    "friends_count": 108,
+    "listed_count": 0,
+    "created_at": "Mon Jun 23 18:13:26 +0000 2008",
+    "favourites_count": 168,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1187,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/132143829/cherry_blossoms.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/132143829/cherry_blossoms.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1778048704/sartoris_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1778048704/sartoris_normal.gif",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          82,
+          86
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,110 @@
+{
+  "created_at": "Sat Jun 30 17:00:19 +0000 2012",
+  "id": 219113145715798018,
+  "id_str": "219113145715798018",
+  "text": "U of Va fiasco great example of a failure of governance, lack of transparency.  Looks like few have learned from it though. #governance #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21594786,
+    "id_str": "21594786",
+    "name": "George Franks",
+    "screen_name": "georgeffranks3",
+    "location": "Virtual USA",
+    "description": "Management Consultant. Career and Leadership Coach. http://t.co/830iSCof\r\nfranksconsultinggroup@gmail.com",
+    "url": "http://franksconsultinggroup.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://franksconsultinggroup.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/830iSCof",
+            "expanded_url": "http://www.franksconsultinggroup.com",
+            "display_url": "franksconsultinggroup.com",
+            "indices": [
+              52,
+              72
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 815,
+    "friends_count": 1997,
+    "listed_count": 7,
+    "created_at": "Sun Feb 22 20:24:52 +0000 2009",
+    "favourites_count": 530,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4106,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3095717926/87d2d38938daf025583998b25db479ff_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3095717926/87d2d38938daf025583998b25db479ff_normal.jpeg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "governance",
+        "indices": [
+          124,
+          135
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          136,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

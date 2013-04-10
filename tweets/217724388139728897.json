@@ -1,0 +1,112 @@
+{
+  "created_at": "Tue Jun 26 21:01:53 +0000 2012",
+  "id": 217724388139728897,
+  "id_str": "217724388139728897",
+  "text": "MT @dstarmer: Amazing what a little sunshine will do to those in power.  #UVA  #BOV",
+  "source": "<a href=\"http://sites.google.com/site/yorufukurou/\" rel=\"nofollow\">YoruFukurou</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22919204,
+    "id_str": "22919204",
+    "name": "jason inofuentes",
+    "screen_name": "tnofuentes",
+    "location": "Philadelphia",
+    "description": "@TheDadlands, I write for AnandTech\r\n\r\nHoliday badge courtesy @darth",
+    "url": "http://www.anandtech.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.anandtech.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 245,
+    "friends_count": 309,
+    "listed_count": 9,
+    "created_at": "Thu Mar 05 13:41:47 +0000 2009",
+    "favourites_count": 2827,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9627,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3035156562/9e0b1e240df44d9f23e09f99b0339f8d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3035156562/9e0b1e240df44d9f23e09f99b0339f8d_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/22919204/1356743181",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          73,
+          77
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          79,
+          83
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dstarmer",
+        "name": "David Starmer ",
+        "id": 12894322,
+        "id_str": "12894322",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

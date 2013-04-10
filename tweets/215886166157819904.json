@@ -1,0 +1,112 @@
+{
+  "created_at": "Thu Jun 21 19:17:27 +0000 2012",
+  "id": 215886166157819904,
+  "id_str": "215886166157819904",
+  "text": "Help #UVa archivist Gretchen Gueguen keep track of all of the #BOV hubbub http://t.co/hcI1m2jR",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17001409,
+    "id_str": "17001409",
+    "name": "Joe Kraus",
+    "screen_name": "jokrausdu",
+    "location": "Littleton, CO",
+    "description": "Academic librarian in Colorado, USA. Thoughts and opinions my own, maybe not of MPOW. #openaccess #OA #science #libraries #beer",
+    "url": "http://libraryjoe.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://libraryjoe.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1131,
+    "friends_count": 1648,
+    "listed_count": 155,
+    "created_at": "Mon Oct 27 16:24:49 +0000 2008",
+    "favourites_count": 970,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8774,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/712441570/28cf9e1fd006ede375a404bd4dcc0f33.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/712441570/28cf9e1fd006ede375a404bd4dcc0f33.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1863442577/joe-professional-photo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1863442577/joe-professional-photo_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/17001409/1359606138",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          5,
+          9
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/hcI1m2jR",
+        "expanded_url": "http://bit.ly/NcNeVv",
+        "display_url": "bit.ly/NcNeVv",
+        "indices": [
+          74,
+          94
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

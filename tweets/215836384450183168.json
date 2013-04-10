@@ -1,0 +1,120 @@
+{
+  "created_at": "Thu Jun 21 15:59:38 +0000 2012",
+  "id": 215836384450183168,
+  "id_str": "215836384450183168",
+  "text": "\"Strategic Mumblespeak\" http://t.co/qFOTK16R Slate piece worth reading by @sivavaid, looking at broader implications of the #UVA mess #fb",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20738917,
+    "id_str": "20738917",
+    "name": "Marc Parry",
+    "screen_name": "marcparry",
+    "location": "Washington, D.C.",
+    "description": "Reporter @Chronicle of Higher Ed | Cover tech, humanities, social sciences | Blog @wiredcampus | Send news tips to marc(dot)parry(at)chronicle(dot)com",
+    "url": "http://www.marcparry.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.marcparry.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5078,
+    "friends_count": 704,
+    "listed_count": 454,
+    "created_at": "Fri Feb 13 01:38:08 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3777,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1383448593/IMG_3258_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1383448593/IMG_3258_normal.JPG",
+    "profile_link_color": "990910",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          124,
+          128
+        ]
+      },
+      {
+        "text": "fb",
+        "indices": [
+          134,
+          137
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/qFOTK16R",
+        "expanded_url": "http://slate.me/MZLfHs",
+        "display_url": "slate.me/MZLfHs",
+        "indices": [
+          24,
+          44
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          74,
+          83
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

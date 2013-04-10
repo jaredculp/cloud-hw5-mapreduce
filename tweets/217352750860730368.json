@@ -1,0 +1,102 @@
+{
+  "created_at": "Mon Jun 25 20:25:08 +0000 2012",
+  "id": 217352750860730368,
+  "id_str": "217352750860730368",
+  "text": "@Bob_Bruner proves you don't get to be dean by being a wuss, and you don't get be be a dean at #UVa being a toady. http://t.co/lDJgRbuP",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 15407235,
+  "in_reply_to_user_id_str": "15407235",
+  "in_reply_to_screen_name": "Bob_Bruner",
+  "user": {
+    "id": 80949164,
+    "id_str": "80949164",
+    "name": "Herding Bats",
+    "screen_name": "herdingbats",
+    "location": "",
+    "description": "Things I wouldn't say in front of my mother. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 44,
+    "friends_count": 149,
+    "listed_count": 2,
+    "created_at": "Thu Oct 08 21:32:51 +0000 2009",
+    "favourites_count": 128,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1681,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/778560855/f8b40ecb5fb91bf3b5b3f465a8e2f428.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/778560855/f8b40ecb5fb91bf3b5b3f465a8e2f428.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1820323909/Dog_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1820323909/Dog_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/80949164/1357700728",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          95,
+          99
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/lDJgRbuP",
+        "expanded_url": "http://blogs.darden.virginia.edu/deansblog/2012/06/to-fight-for-the-truth/",
+        "display_url": "blogs.darden.virginia.edu/deansblog/2012…",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Bob_Bruner",
+        "name": "Bob_Bruner",
+        "id": 15407235,
+        "id_str": "15407235",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

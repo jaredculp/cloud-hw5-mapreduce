@@ -1,0 +1,93 @@
+{
+  "created_at": "Wed Aug 29 08:00:02 +0000 2012",
+  "id": 240720452706783232,
+  "id_str": "240720452706783232",
+  "text": "@amywalsterr aww... #bov",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 240719663342964736,
+  "in_reply_to_status_id_str": "240719663342964736",
+  "in_reply_to_user_id": 523611960,
+  "in_reply_to_user_id_str": "523611960",
+  "in_reply_to_screen_name": "amywalsterr",
+  "user": {
+    "id": 388348538,
+    "id_str": "388348538",
+    "name": "Alex Bithrey",
+    "screen_name": "biffers97",
+    "location": "",
+    "description": "Put on earth to be a Champion...\n\nBedfordshire",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 252,
+    "friends_count": 170,
+    "listed_count": 0,
+    "created_at": "Mon Oct 10 16:07:12 +0000 2011",
+    "favourites_count": 315,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3873,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3132601106/200a39ba4aeca253e3bcb21e0da896c4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3132601106/200a39ba4aeca253e3bcb21e0da896c4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/388348538/1354808072",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bov",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "amywalsterr",
+        "name": "Amy Walsterr",
+        "id": 523611960,
+        "id_str": "523611960",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,148 @@
+{
+  "created_at": "Thu Aug 30 01:52:10 +0000 2012",
+  "id": 240990262636183553,
+  "id_str": "240990262636183553",
+  "text": "Após comer no #moraes com @alexdario @Renatomarquesm @eduperachini @elias_et demos inicio a #reunião da #UVA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 88949754,
+    "id_str": "88949754",
+    "name": "Rubens Corrêa",
+    "screen_name": "rubaozl",
+    "location": "Ermelino Matarazzo - SP",
+    "description": "Sou CORINTHIANO desde 1980. Contador e Membro do Diretório Municipal do PMDB de São Paulo.",
+    "url": "http://www.gabrielchalita.com.br",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.gabrielchalita.com.br",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 277,
+    "friends_count": 440,
+    "listed_count": 3,
+    "created_at": "Tue Nov 10 15:25:20 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6934,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/280998060/de.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/280998060/de.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3101418265/60ec53dcedc94dbe0c962af47b039dea_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3101418265/60ec53dcedc94dbe0c962af47b039dea_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "moraes",
+        "indices": [
+          14,
+          21
+        ]
+      },
+      {
+        "text": "reunião",
+        "indices": [
+          92,
+          100
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          104,
+          108
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "alexdario",
+        "name": "Alex Dário",
+        "id": 47668755,
+        "id_str": "47668755",
+        "indices": [
+          26,
+          36
+        ]
+      },
+      {
+        "screen_name": "Renatomarquesm",
+        "name": "Renato Marques ",
+        "id": 486942877,
+        "id_str": "486942877",
+        "indices": [
+          37,
+          52
+        ]
+      },
+      {
+        "screen_name": "eduperachini",
+        "name": "Eduardo Siqueira",
+        "id": 55385710,
+        "id_str": "55385710",
+        "indices": [
+          53,
+          66
+        ]
+      },
+      {
+        "screen_name": "elias_et",
+        "name": "Elias Tavares",
+        "id": 105464934,
+        "id_str": "105464934",
+        "indices": [
+          67,
+          76
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

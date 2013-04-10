@@ -1,0 +1,129 @@
+{
+  "created_at": "Tue Jun 26 00:57:58 +0000 2012",
+  "id": 217421411323625472,
+  "id_str": "217421411323625472",
+  "text": "#UVA now up to #17 in Rivals 2013 rankings and 13 on 247sports, Not bad considering their top 2 targets are still on the board",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 33341327,
+    "id_str": "33341327",
+    "name": "Justin Ferber",
+    "screen_name": "Justin_Ferber",
+    "location": "",
+    "description": "Contributor to the best damn #UVa site on the web",
+    "url": "http://www.streakingthelawn.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.streakingthelawn.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 345,
+    "friends_count": 488,
+    "listed_count": 16,
+    "created_at": "Sun Apr 19 23:31:44 +0000 2009",
+    "favourites_count": 30,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9392,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3158075279/7dbbfab65a6a78f40550e4e493e03288_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3158075279/7dbbfab65a6a78f40550e4e493e03288_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/33341327/1359301357",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "a5aee0034fb1fb02",
+    "url": "https://api.twitter.com/1.1/geo/id/a5aee0034fb1fb02.json",
+    "place_type": "city",
+    "name": "Jack Jouett",
+    "full_name": "Jack Jouett, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.593326,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.143404
+          ],
+          [
+            -78.593326,
+            38.143404
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

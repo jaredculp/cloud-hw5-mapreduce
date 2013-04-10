@@ -1,0 +1,124 @@
+{
+  "created_at": "Wed Jun 20 00:38:20 +0000 2012",
+  "id": 215242142535254016,
+  "id_str": "215242142535254016",
+  "text": "@amandafrench Just checked the @cavalierdaily website and didn't see any other information about the emails. #UVA cc @cavalierdaily",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215238788761395200,
+  "in_reply_to_status_id_str": "215238788761395200",
+  "in_reply_to_user_id": 6361722,
+  "in_reply_to_user_id_str": "6361722",
+  "in_reply_to_screen_name": "amandafrench",
+  "user": {
+    "id": 49489995,
+    "id_str": "49489995",
+    "name": "Kari Kraus",
+    "screen_name": "karikraus",
+    "location": "college park, MD",
+    "description": "Assistant Prof, iSchool & Dept. of English, UMD.  Digital humanities, digital preservation, game studies, textual scholarship & the transmission of information.",
+    "url": "http://www.karikraus.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.karikraus.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1696,
+    "friends_count": 732,
+    "listed_count": 136,
+    "created_at": "Mon Jun 22 01:15:02 +0000 2009",
+    "favourites_count": 1419,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4820,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2785236588/f1843df63313784e3189d8b6b016c7ea_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2785236588/f1843df63313784e3189d8b6b016c7ea_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          109,
+          113
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "amandafrench",
+        "name": "Amanda French",
+        "id": 6361722,
+        "id_str": "6361722",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          31,
+          45
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          117,
+          131
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,117 @@
+{
+  "created_at": "Tue Jun 19 16:00:58 +0000 2012",
+  "id": 215111943105679360,
+  "id_str": "215111943105679360",
+  "text": "@LarrySabato would you consider a position on the BoV as @BobMcDonnell faces personnel changes? #youalreadyhaveinsiders #sullygate #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 42554828,
+    "id_str": "42554828",
+    "name": "Jostlin'",
+    "screen_name": "kickitamor203",
+    "location": "charlottesville, va",
+    "description": "be good or be good at it.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 74,
+    "friends_count": 195,
+    "listed_count": 1,
+    "created_at": "Tue May 26 03:30:16 +0000 2009",
+    "favourites_count": 654,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2933,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "272432",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/753056068/eecfadec312b7ab0205ecefb08b771c0.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/753056068/eecfadec312b7ab0205ecefb08b771c0.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1821691024/GoodThingsComeToThoseWhoFrat_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1821691024/GoodThingsComeToThoseWhoFrat_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/42554828/1356156481",
+    "profile_link_color": "D9015D",
+    "profile_sidebar_border_color": "A9C8B2",
+    "profile_sidebar_fill_color": "9FC436",
+    "profile_text_color": "E6741D",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "youalreadyhaveinsiders",
+        "indices": [
+          96,
+          119
+        ]
+      },
+      {
+        "text": "sullygate",
+        "indices": [
+          120,
+          130
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          131,
+          135
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          57,
+          70
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

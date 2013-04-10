@@ -1,0 +1,112 @@
+{
+  "created_at": "Mon Aug 20 17:50:14 +0000 2012",
+  "id": 237607490324398080,
+  "id_str": "237607490324398080",
+  "text": "@UVA: Here are the modified bus routes at #UVa to accommodate weight restriction on McCormick Rd. bridge. http://t.co/B05v1Y8D @eeshaandjea",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 307213916,
+    "id_str": "307213916",
+    "name": "Isabella Artiles ",
+    "screen_name": "isartiles",
+    "location": "",
+    "description": "Guatemalan,ΣΔT, UVa Rowing, BeyondCoal, FCBARCELONA ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 170,
+    "friends_count": 265,
+    "listed_count": 1,
+    "created_at": "Sun May 29 06:58:30 +0000 2011",
+    "favourites_count": 54,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1180,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "30AFA5",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/354666936/asdfasdf.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/354666936/asdfasdf.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1865022630/18734_477238140603_537050603_11332287_3465453_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1865022630/18734_477238140603_537050603_11332287_3465453_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/307213916/1355500379",
+    "profile_link_color": "73B510",
+    "profile_sidebar_border_color": "AEF5FA",
+    "profile_sidebar_fill_color": "2CDDCA",
+    "profile_text_color": "3F5051",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/B05v1Y8D",
+        "expanded_url": "http://bit.ly/Sf73CF",
+        "display_url": "bit.ly/Sf73CF",
+        "indices": [
+          106,
+          126
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "screen_name": "eeshaandjea",
+        "name": "Eeshaan Sachatheva",
+        "id": 486343435,
+        "id_str": "486343435",
+        "indices": [
+          127,
+          139
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

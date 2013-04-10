@@ -1,0 +1,132 @@
+{
+  "created_at": "Wed Jun 27 23:08:43 +0000 2012",
+  "id": 218118693673111552,
+  "id_str": "218118693673111552",
+  "text": "RT @washingtonpost: Gov. @BobMcDonnell: Firing threat helped end #UVA crisis: http://t.co/ph7swiwo #NewsClub",
+  "source": "<a href=\"http://kalvis.com\" rel=\"nofollow\">Linux Command</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 96580730,
+    "id_str": "96580730",
+    "name": "Hitchin England",
+    "screen_name": "HitchinEngland",
+    "location": "Hitchin, UK",
+    "description": "Interested in local issues in the Hitchin, Hertfordshire, area.",
+    "url": "http://t.co/2PpkVI10",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/2PpkVI10",
+            "expanded_url": "http://www.archlinux.org/",
+            "display_url": "archlinux.org",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 11604,
+    "friends_count": 4835,
+    "listed_count": 127,
+    "created_at": "Sun Dec 13 16:42:15 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 34898,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2951287771/68c6f95c01412beac486f386e7108ce7_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2951287771/68c6f95c01412beac486f386e7108ce7_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/96580730/1353935688",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          65,
+          69
+        ]
+      },
+      {
+        "text": "NewsClub",
+        "indices": [
+          99,
+          108
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ph7swiwo",
+        "expanded_url": "http://wapo.st/OyFJPh",
+        "display_url": "wapo.st/OyFJPh",
+        "indices": [
+          78,
+          98
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          25,
+          38
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

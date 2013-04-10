@@ -1,0 +1,111 @@
+{
+  "created_at": "Wed Jun 20 01:39:26 +0000 2012",
+  "id": 215257520074276865,
+  "id_str": "215257520074276865",
+  "text": "@lisagsch BTW, who resigns via cav daily? #UVA #resignations",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215162897142251520,
+  "in_reply_to_status_id_str": "215162897142251520",
+  "in_reply_to_user_id": 19384502,
+  "in_reply_to_user_id_str": "19384502",
+  "in_reply_to_screen_name": "lisagsch",
+  "user": {
+    "id": 17498476,
+    "id_str": "17498476",
+    "name": "Larissa Gschwandtner",
+    "screen_name": "larissagsch",
+    "location": "San Francisco, CA",
+    "description": "VP at Selling Power and Sales 2.0 Conference. Passionate about improving effectiveness of sales professionals and marketing campaigns. ",
+    "url": "http://www.sellingpower.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.sellingpower.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 685,
+    "friends_count": 352,
+    "listed_count": 26,
+    "created_at": "Wed Nov 19 23:07:20 +0000 2008",
+    "favourites_count": 71,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3791,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2808654033/5ef5a389c04f8e47207025e9c8ca03ed_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2808654033/5ef5a389c04f8e47207025e9c8ca03ed_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          42,
+          46
+        ]
+      },
+      {
+        "text": "resignations",
+        "indices": [
+          47,
+          60
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "lisagsch",
+        "name": "Lisa Gschwandtner",
+        "id": 19384502,
+        "id_str": "19384502",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,96 @@
+{
+  "created_at": "Mon Aug 27 15:00:54 +0000 2012",
+  "id": 240101590080577540,
+  "id_str": "240101590080577540",
+  "text": "Charlottesville bound today #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 354039473,
+    "id_str": "354039473",
+    "name": "Rachel Gaffin ",
+    "screen_name": "rachieeegaf",
+    "location": "",
+    "description": "it's such a fine line between stupid & clever.",
+    "url": "http://skippingsoundtrack.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://skippingsoundtrack.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 163,
+    "friends_count": 236,
+    "listed_count": 0,
+    "created_at": "Sat Aug 13 01:35:09 +0000 2011",
+    "favourites_count": 414,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8030,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "141638",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/752248535/2503fbb334599cf4a7ad54c9d65c5571.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/752248535/2503fbb334599cf4a7ad54c9d65c5571.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2949913959/7b45d626e08ce998ba903eeb5992c5e9_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2949913959/7b45d626e08ce998ba903eeb5992c5e9_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/354039473/1355187570",
+    "profile_link_color": "31C257",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "D29E9E",
+    "profile_text_color": "3F5249",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,102 @@
+{
+  "created_at": "Sat Jun 23 21:48:02 +0000 2012",
+  "id": 216648836834275328,
+  "id_str": "216648836834275328",
+  "text": "RT @timkaine: This week, I called for President Sullivan to be reinstated at #UVA. Read my thoughts on the matter here: http://t.co/nll0beye",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 775142,
+    "id_str": "775142",
+    "name": "Greg Greene",
+    "screen_name": "ggreeneva",
+    "location": "Washington, D.C.",
+    "description": "Digital comms alum of @TheDemocrats (+ @ObamaInaugural). Likes food, indie music & snark. Views my own; RTs & faves ≠ endorsements.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3750,
+    "friends_count": 988,
+    "listed_count": 197,
+    "created_at": "Fri Feb 16 06:11:52 +0000 2007",
+    "favourites_count": 5914,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 23347,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2825600352/f9d951060a5823e15d94a7360bd9c8de_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2825600352/f9d951060a5823e15d94a7360bd9c8de_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/775142/1352665800",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          77,
+          81
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/nll0beye",
+        "expanded_url": "http://bit.ly/MQK7SA",
+        "display_url": "bit.ly/MQK7SA",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "timkaine",
+        "name": "Senator Tim Kaine",
+        "id": 172858784,
+        "id_str": "172858784",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

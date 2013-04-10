@@ -1,0 +1,124 @@
+{
+  "created_at": "Fri Jun 22 23:40:25 +0000 2012",
+  "id": 216314730564956160,
+  "id_str": "216314730564956160",
+  "text": "RT @wpjenna: PDF of letter from @bobmcdonnell to #UVA Board of Visitors: http://t.co/fp1LgMr6",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 30662585,
+    "id_str": "30662585",
+    "name": "Corey Alderdice",
+    "screen_name": "alderdice",
+    "location": "Hot Springs, AR",
+    "description": "Director at @ARMathSciArts. Technophile, nerd enthusiast, education administrator, social media junkie, STEM advocate, adoring husband, and proud father.",
+    "url": "http://coreyalderdice.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://coreyalderdice.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 584,
+    "friends_count": 576,
+    "listed_count": 26,
+    "created_at": "Sun Apr 12 15:06:24 +0000 2009",
+    "favourites_count": 842,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6413,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/208293986/chillaxtwitter-template-01.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/208293986/chillaxtwitter-template-01.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1537437615/IMG_9499_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1537437615/IMG_9499_normal.JPG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/30662585/1347975783",
+    "profile_link_color": "F15B24",
+    "profile_sidebar_border_color": "F15B24",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          49,
+          53
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/fp1LgMr6",
+        "expanded_url": "http://1.usa.gov/LGFpZR",
+        "display_url": "1.usa.gov/LGFpZR",
+        "indices": [
+          73,
+          93
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          3,
+          11
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          32,
+          45
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

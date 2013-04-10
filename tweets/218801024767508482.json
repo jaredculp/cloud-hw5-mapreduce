@@ -1,0 +1,111 @@
+{
+  "created_at": "Fri Jun 29 20:20:04 +0000 2012",
+  "id": 218801024767508482,
+  "id_str": "218801024767508482",
+  "text": "Virginia&gt; #Gov. McDonnell reappoints Dragas to #UVA board http://t.co/clQlvaGT",
+  "source": "<a href=\"http://usa-now.com\" rel=\"nofollow\">USA-Now.com</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 566654989,
+    "id_str": "566654989",
+    "name": "Usa-Now",
+    "screen_name": "UsaNowWeb",
+    "location": "",
+    "description": "Latest breaking news from several hundred local news sources updated and tweeted frequently. ",
+    "url": "http://Usa-Now.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://Usa-Now.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1284,
+    "friends_count": 1227,
+    "listed_count": 3,
+    "created_at": "Sun Apr 29 20:34:32 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 36368,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2208598293/United-States-as-Flag2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2208598293/United-States-as-Flag2_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Gov",
+        "indices": [
+          13,
+          17
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          50,
+          54
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/clQlvaGT",
+        "expanded_url": "http://Usa-Now.com/news/detail.php?fid=57119",
+        "display_url": "Usa-Now.com/news/detail.ph…",
+        "indices": [
+          61,
+          81
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

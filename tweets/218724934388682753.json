@@ -1,0 +1,120 @@
+{
+  "created_at": "Fri Jun 29 15:17:42 +0000 2012",
+  "id": 218724934388682753,
+  "id_str": "218724934388682753",
+  "text": "#Chupa q É  de #Uvá  papai kkk RT @LinekerXavier1 @Carllynhusss VTNC . Abre o olho não confia ele não é seu amigo ' kk _|_ @JacksonRamalho1",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 400911744,
+    "id_str": "400911744",
+    "name": "Jackson Ramalho",
+    "screen_name": "JacksonRamalho1",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 440,
+    "friends_count": 337,
+    "listed_count": 0,
+    "created_at": "Sat Oct 29 19:22:42 +0000 2011",
+    "favourites_count": 6,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1796,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3175827351/01f5b435204543094ac558291b8ece28_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3175827351/01f5b435204543094ac558291b8ece28_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/400911744/1359398312",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Chupa",
+        "indices": [
+          0,
+          6
+        ]
+      },
+      {
+        "text": "Uvá",
+        "indices": [
+          15,
+          19
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LinekerXavier1",
+        "name": "Lineker Xavier",
+        "id": 357478980,
+        "id_str": "357478980",
+        "indices": [
+          34,
+          49
+        ]
+      },
+      {
+        "screen_name": "Carllynhusss",
+        "name": "Carllynhus'",
+        "id": 77075926,
+        "id_str": "77075926",
+        "indices": [
+          50,
+          63
+        ]
+      },
+      {
+        "screen_name": "JacksonRamalho1",
+        "name": "Jackson Ramalho",
+        "id": 400911744,
+        "id_str": "400911744",
+        "indices": [
+          124,
+          140
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

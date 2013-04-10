@@ -1,0 +1,131 @@
+{
+  "created_at": "Thu Jun 21 03:31:27 +0000 2012",
+  "id": 215648097261461504,
+  "id_str": "215648097261461504",
+  "text": "“@washingtonpost: Attention, @UVA grads: Here's a breakdown of who's on your board and how they voted: http://t.co/C4Q6o2i5” #uva #bov",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18057537,
+    "id_str": "18057537",
+    "name": "Eddie Gehman Kohan",
+    "screen_name": "ObamaFoodorama",
+    "location": "Washington, DC",
+    "description": "Executive Editor, the official site of record & archive of White House food initiatives",
+    "url": "http://obamafoodorama.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://obamafoodorama.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 20676,
+    "friends_count": 7429,
+    "listed_count": 1318,
+    "created_at": "Thu Dec 11 19:27:28 +0000 2008",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 15498,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "132C6B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/651920779/c9vkwiyt51k51porxf1j.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/651920779/c9vkwiyt51k51porxf1j.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2580281230/rgoakwvd9831b5d45obz_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2580281230/rgoakwvd9831b5d45obz_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18057537/1349635254",
+    "profile_link_color": "293FCC",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "A4B8EB",
+    "profile_text_color": "1A0505",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          125,
+          129
+        ]
+      },
+      {
+        "text": "bov",
+        "indices": [
+          130,
+          134
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/C4Q6o2i5",
+        "expanded_url": "http://wapo.st/NTNVZX",
+        "display_url": "wapo.st/NTNVZX",
+        "indices": [
+          103,
+          123
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          1,
+          16
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          29,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

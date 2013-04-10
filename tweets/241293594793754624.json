@@ -1,0 +1,122 @@
+{
+  "created_at": "Thu Aug 30 21:57:30 +0000 2012",
+  "id": 241293594793754624,
+  "id_str": "241293594793754624",
+  "text": "Former #UVA athlete gets 23 years for slaying ex-girlfriend http://t.co/rq7uMw1N (via @AP) #crimlaw",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 422021830,
+    "id_str": "422021830",
+    "name": "Legal Newsance",
+    "screen_name": "LegalNewsance",
+    "location": "",
+    "description": "Mobile #app that delivers essential #legalnews, practice tools, event and #CLE info, and #job listings. Tweets and RTs ≠ endorsements. We just report it. ",
+    "url": "http://t.co/GhHtyrCe",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/GhHtyrCe",
+            "expanded_url": "http://www.legalnewsance.com",
+            "display_url": "legalnewsance.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 427,
+    "friends_count": 384,
+    "listed_count": 6,
+    "created_at": "Sat Nov 26 18:06:45 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4961,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1780810079/JudgeButton_Flag2_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1780810079/JudgeButton_Flag2_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/422021830/1348577905",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          7,
+          11
+        ]
+      },
+      {
+        "text": "crimlaw",
+        "indices": [
+          91,
+          99
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/rq7uMw1N",
+        "expanded_url": "http://apne.ws/S330dD",
+        "display_url": "apne.ws/S330dD",
+        "indices": [
+          60,
+          80
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AP",
+        "name": "The Associated Press",
+        "id": 51241574,
+        "id_str": "51241574",
+        "indices": [
+          86,
+          89
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

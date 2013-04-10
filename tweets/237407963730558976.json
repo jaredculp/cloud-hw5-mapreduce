@@ -1,0 +1,92 @@
+{
+  "created_at": "Mon Aug 20 04:37:24 +0000 2012",
+  "id": 237407963730558976,
+  "id_str": "237407963730558976",
+  "text": "Shoutout to my boy @deflilSteve. Good luck #UVA gonna miss you man.",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 702449222,
+    "id_str": "702449222",
+    "name": "Jordan Shippee",
+    "screen_name": "shippwrecked17",
+    "location": "All over the place",
+    "description": "It's a great day for hockey.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 60,
+    "friends_count": 109,
+    "listed_count": 0,
+    "created_at": "Wed Jul 18 05:44:17 +0000 2012",
+    "favourites_count": 94,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 435,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/607278103/ryrmhx43uxbymqozpwl7.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/607278103/ryrmhx43uxbymqozpwl7.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2408162018/prof_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2408162018/prof_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          43,
+          47
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "deflilSteve",
+        "name": "Steven Russo",
+        "id": 377697412,
+        "id_str": "377697412",
+        "indices": [
+          19,
+          31
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,99 @@
+{
+  "created_at": "Wed Jun 20 01:49:53 +0000 2012",
+  "id": 215260147503730688,
+  "id_str": "215260147503730688",
+  "text": "As #UVA vice rector resigns, what's the next casualty in a controversy that's not over yet? http://t.co/0NFh1vsR #nbc12",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 51605822,
+    "id_str": "51605822",
+    "name": "Andy Jenks",
+    "screen_name": "AndyJenksTBA",
+    "location": "Richmond, VA",
+    "description": "The official Twitter account of a guy who used to have a relevant Twitter account.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3465,
+    "friends_count": 527,
+    "listed_count": 179,
+    "created_at": "Sun Jun 28 00:46:53 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6110,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2891369792/5a14b2fd7214cb02d57546c4ab31a7de_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2891369792/5a14b2fd7214cb02d57546c4ab31a7de_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          3,
+          7
+        ]
+      },
+      {
+        "text": "nbc12",
+        "indices": [
+          113,
+          119
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/0NFh1vsR",
+        "expanded_url": "http://www.nbc12.com/story/18828944/as-vice-rector-resigns-whats-next-for-uva",
+        "display_url": "nbc12.com/story/18828944…",
+        "indices": [
+          92,
+          112
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

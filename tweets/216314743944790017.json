@@ -1,0 +1,105 @@
+{
+  "created_at": "Fri Jun 22 23:40:28 +0000 2012",
+  "id": 216314743944790017,
+  "id_str": "216314743944790017",
+  "text": "#FF shouts @LarrySabato",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216311472756760576,
+  "in_reply_to_status_id_str": "216311472756760576",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 19517144,
+    "id_str": "19517144",
+    "name": "Scott Lara",
+    "screen_name": "scottlara1961",
+    "location": "Jacksonville, Fl",
+    "description": "Love cruising, politics and coffee . Be sure to follow   @GanoFlorida and @Welcmhomecare  #winning",
+    "url": "http://www.scottlara1961.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.scottlara1961.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1639,
+    "friends_count": 1990,
+    "listed_count": 39,
+    "created_at": "Mon Jan 26 02:42:48 +0000 2009",
+    "favourites_count": 191,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 21706,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DAE0E7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/403750414/soctt1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/403750414/soctt1.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1383214134/Scott_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1383214134/Scott_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/19517144/1354225030",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "ADB5DB",
+    "profile_text_color": "290A29",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FF",
+        "indices": [
+          0,
+          3
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          11,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

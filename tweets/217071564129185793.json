@@ -1,0 +1,95 @@
+{
+  "created_at": "Mon Jun 25 01:47:48 +0000 2012",
+  "id": 217071564129185793,
+  "id_str": "217071564129185793",
+  "text": "@cavalierdaily http://t.co/iV0x7aaZ",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 18849779,
+    "id_str": "18849779",
+    "name": "Zenman1550",
+    "screen_name": "Zenman1550",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 391,
+    "friends_count": 2001,
+    "listed_count": 11,
+    "created_at": "Sat Jan 10 23:04:06 +0000 2009",
+    "favourites_count": 7,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 48783,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1497868422/yinYang_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1497868422/yinYang_normal.gif",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/iV0x7aaZ",
+        "expanded_url": "http://bildungblog.blogspot.com/2012/06/warm-scuzzies-303-helen-dragas.html",
+        "display_url": "bildungblog.blogspot.com/2012/06/warm-s…",
+        "indices": [
+          15,
+          35
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

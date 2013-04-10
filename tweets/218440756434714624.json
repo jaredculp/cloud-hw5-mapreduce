@@ -1,0 +1,109 @@
+{
+  "created_at": "Thu Jun 28 20:28:29 +0000 2012",
+  "id": 218440756434714624,
+  "id_str": "218440756434714624",
+  "text": "Productos con precios a la baja: principalmente las frutas, como #uva, con una reducción de 9.55%; el #chile serrano 8.46% y #sandía, 8.18%",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 132295091,
+    "id_str": "132295091",
+    "name": "RevistaHortiCultivos",
+    "screen_name": "HortiCultivos",
+    "location": "México, D.F.",
+    "description": "Revista Especializada en la producción de Hortalizas, Frutas y Flores en campo abierto y bajo invernadero. Agricultura protegida.\r\n",
+    "url": "http://www.horticultivos.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.horticultivos.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 565,
+    "friends_count": 375,
+    "listed_count": 6,
+    "created_at": "Mon Apr 12 21:09:40 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 447,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/448257316/logohcoknew.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/448257316/logohcoknew.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1879695702/logotwitterhc_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1879695702/logotwitterhc_normal.png",
+    "profile_link_color": "73A822",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          65,
+          69
+        ]
+      },
+      {
+        "text": "chile",
+        "indices": [
+          102,
+          108
+        ]
+      },
+      {
+        "text": "sandía",
+        "indices": [
+          125,
+          132
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

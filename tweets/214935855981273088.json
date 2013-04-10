@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue Jun 19 04:21:16 +0000 2012",
+  "id": 214935855981273088,
+  "id_str": "214935855981273088",
+  "text": "@anitakumar01 @washingtonpost does the paper down in Bristol run on central time? If so, can public assume they wait it out also? #UVA #BOV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 214935226705653760,
+  "in_reply_to_status_id_str": "214935226705653760",
+  "in_reply_to_user_id": 48581849,
+  "in_reply_to_user_id_str": "48581849",
+  "in_reply_to_screen_name": "anitakumar01",
+  "user": {
+    "id": 19724699,
+    "id_str": "19724699",
+    "name": "Darren Kinnaird",
+    "screen_name": "DKinAU",
+    "location": "Jugtown, Alabama",
+    "description": "Hilariously correct.",
+    "url": "http://www.darrenkinnaird.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.darrenkinnaird.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 484,
+    "friends_count": 778,
+    "listed_count": 10,
+    "created_at": "Thu Jan 29 18:23:39 +0000 2009",
+    "favourites_count": 241,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8886,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/227682249/Jordan_Hare_Stadium_North_Endzone.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/227682249/Jordan_Hare_Stadium_North_Endzone.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2907342143/af67d827d89a1d04fe948f4ae19b086c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2907342143/af67d827d89a1d04fe948f4ae19b086c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/19724699/1348083676",
+    "profile_link_color": "01035E",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "D46B15",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          130,
+          134
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "anitakumar01",
+        "name": "Anita Kumar",
+        "id": 48581849,
+        "id_str": "48581849",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          14,
+          29
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,105 @@
+{
+  "created_at": "Fri Jun 29 01:10:54 +0000 2012",
+  "id": 218511827301171200,
+  "id_str": "218511827301171200",
+  "text": "Could not be prouder of @LoPerdue, who I'm sure has a million mentions on Twitter right now, because, well, she is an Olympian. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 44673224,
+    "id_str": "44673224",
+    "name": "Katharine Palmer",
+    "screen_name": "kpalmer419",
+    "location": "Charlottesville, Va.",
+    "description": "You can never pay back, but you can always pay forward",
+    "url": "http://www.virginiasports.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginiasports.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 410,
+    "friends_count": 500,
+    "listed_count": 11,
+    "created_at": "Thu Jun 04 17:51:15 +0000 2009",
+    "favourites_count": 25,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4404,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "381E7F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/772932127/4afc430c2472fdc17c8da6ed63689d4e.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/772932127/4afc430c2472fdc17c8da6ed63689d4e.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/249843277/4431_83511884829_518069829_1825164_358741_s_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/249843277/4431_83511884829_518069829_1825164_358741_s_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/44673224/1350568399",
+    "profile_link_color": "4FB178",
+    "profile_sidebar_border_color": "7B0A40",
+    "profile_sidebar_fill_color": "57B3C2",
+    "profile_text_color": "FFDE03",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          128,
+          132
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LoPerdue",
+        "name": "Lauren Perdue",
+        "id": 240926221,
+        "id_str": "240926221",
+        "indices": [
+          24,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,127 @@
+{
+  "created_at": "Tue Jun 19 19:01:10 +0000 2012",
+  "id": 215157290309922816,
+  "id_str": "215157290309922816",
+  "text": "Boom. RT @sramsay Just re-posted Bill Wulf's resignation to a paste bin: https://t.co/nj4EXlvV #UVA #BoV #Sullivan",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14817347,
+    "id_str": "14817347",
+    "name": "maniraptor",
+    "screen_name": "maniraptor",
+    "location": "Athens, GA",
+    "description": "",
+    "url": "http://www.maniraptor.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.maniraptor.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 107,
+    "friends_count": 109,
+    "listed_count": 3,
+    "created_at": "Sun May 18 03:23:54 +0000 2008",
+    "favourites_count": 11,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3278,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FAF9EB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/180325142/columnTexture_4_copy.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/180325142/columnTexture_4_copy.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/54339839/skirrelAvatar_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/54339839/skirrelAvatar_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "F0E8D6",
+    "profile_text_color": "5D6A85",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          95,
+          99
+        ]
+      },
+      {
+        "text": "BoV",
+        "indices": [
+          100,
+          104
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          105,
+          114
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/nj4EXlvV",
+        "expanded_url": "https://gist.github.com/2955870",
+        "display_url": "gist.github.com/2955870",
+        "indices": [
+          73,
+          94
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sramsay",
+        "name": "Stephen Ramsay",
+        "id": 15107513,
+        "id_str": "15107513",
+        "indices": [
+          9,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

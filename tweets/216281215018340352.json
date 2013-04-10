@@ -1,0 +1,84 @@
+{
+  "created_at": "Fri Jun 22 21:27:14 +0000 2012",
+  "id": 216281215018340352,
+  "id_str": "216281215018340352",
+  "text": "#bov",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 442225539,
+    "id_str": "442225539",
+    "name": "Lily Powell",
+    "screen_name": "_LilyPowell",
+    "location": "Somerset",
+    "description": "What's the story Morning Glory?",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 305,
+    "friends_count": 241,
+    "listed_count": 0,
+    "created_at": "Tue Dec 20 22:00:56 +0000 2011",
+    "favourites_count": 122,
+    "utc_offset": 0,
+    "time_zone": "Casablanca",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3541,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/664913942/39477754871637f6a08d14fccd2c2dae.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/664913942/39477754871637f6a08d14fccd2c2dae.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3149990489/6732ee979d34e8aae7b7622bd31e464f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3149990489/6732ee979d34e8aae7b7622bd31e464f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/442225539/1359671717",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bov",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

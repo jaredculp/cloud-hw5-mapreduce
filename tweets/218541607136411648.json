@@ -1,0 +1,102 @@
+{
+  "created_at": "Fri Jun 29 03:09:14 +0000 2012",
+  "id": 218541607136411648,
+  "id_str": "218541607136411648",
+  "text": "#UVA represent #NBAdraft",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 144625558,
+    "id_str": "144625558",
+    "name": "N Wilson / Canari",
+    "screen_name": "canaribird83",
+    "location": "InBtwnTheClouds",
+    "description": "#Superwoman:BizOwner/Sing/Write/Dance/#TeamSagittarius/#Team1stClass/#TeamNaturale",
+    "url": "http://www.shopcanari.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.shopcanari.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 649,
+    "friends_count": 868,
+    "listed_count": 5,
+    "created_at": "Sun May 16 21:25:30 +0000 2010",
+    "favourites_count": 57,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 16222,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/121318000/CanariLogo.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/121318000/CanariLogo.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3199233046/41d06cd12c2b3160268604d9fbec1c33_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3199233046/41d06cd12c2b3160268604d9fbec1c33_normal.jpeg",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "NBAdraft",
+        "indices": [
+          15,
+          24
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

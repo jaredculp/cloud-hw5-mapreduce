@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 19 17:34:49 +0000 2012",
+  "id": 215135562011656192,
+  "id_str": "215135562011656192",
+  "text": "RT @uva: Carl Zeithaml, named #UVa interim president, was recently reappointed as McIntire dean for 4th term. Q&amp;A: http://t.co/zuurtXT9",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15665199,
+    "id_str": "15665199",
+    "name": "tweetmeet",
+    "screen_name": "tweetmeet",
+    "location": "Springfield, VA",
+    "description": "I've been enjoying learning about social media so I can help small business owners, entrepreneurs and nonprofits use social media more effectively.",
+    "url": "http://cbponline.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://cbponline.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 76,
+    "friends_count": 180,
+    "listed_count": 5,
+    "created_at": "Wed Jul 30 19:57:53 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 333,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/324795644/sunsetsmall.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/324795644/sunsetsmall.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1609427473/danglasses3_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1609427473/danglasses3_normal.jpg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zuurtXT9",
+        "expanded_url": "http://bit.ly/NdZ1Xg",
+        "display_url": "bit.ly/NdZ1Xg",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          3,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

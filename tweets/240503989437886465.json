@@ -1,0 +1,95 @@
+{
+  "created_at": "Tue Aug 28 17:39:54 +0000 2012",
+  "id": 240503989437886465,
+  "id_str": "240503989437886465",
+  "text": "Happy first day of classes #UVA ! Already lots of diligent students in Alderman.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 55295077,
+    "id_str": "55295077",
+    "name": "UVaLibrary",
+    "screen_name": "UVaLibrary",
+    "location": "Charlottesville, Virginia",
+    "description": "Thomas Jefferson based the Library in the Rotunda in 1819. Now the @UVA Library has 13 facilities, 5.1 million books, and even more rare and digital riches.",
+    "url": "http://www.lib.virginia.edu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.lib.virginia.edu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 567,
+    "friends_count": 96,
+    "listed_count": 31,
+    "created_at": "Thu Jul 09 17:10:06 +0000 2009",
+    "favourites_count": 16,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 667,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "97D2D6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/349968677/librarytwitterbackground_designarmy.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/349968677/librarytwitterbackground_designarmy.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1800180209/UVALIB_Twit_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1800180209/UVALIB_Twit_normal.jpg",
+    "profile_link_color": "6F8D2F",
+    "profile_sidebar_border_color": "FFD47D",
+    "profile_sidebar_fill_color": "E2E4E3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          27,
+          31
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

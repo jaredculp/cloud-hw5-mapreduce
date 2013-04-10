@@ -1,0 +1,140 @@
+{
+  "created_at": "Mon Jun 25 21:26:30 +0000 2012",
+  "id": 217368191863750657,
+  "id_str": "217368191863750657",
+  "text": ".@SLAMonline Pre-Draft Tour: @MikeScott workout at IMPACT with video: http://t.co/ph3ped9O (by @rodgerbohn) #NBADraft #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 31671602,
+    "id_str": "31671602",
+    "name": "Impact Basketball",
+    "screen_name": "impactbball",
+    "location": "Las Vegas + LA",
+    "description": "The premiere destination for basketball teams, pro players & student players looking to improve their athleticism, strength & basketball skills & get noticed.",
+    "url": "http://www.impactbball.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.impactbball.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5138,
+    "friends_count": 877,
+    "listed_count": 61,
+    "created_at": "Thu Apr 16 06:26:25 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2101,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/278968133/Impact_Logo.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/278968133/Impact_Logo.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/670671781/ImpactTweet_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/670671781/ImpactTweet_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "NBADraft",
+        "indices": [
+          108,
+          117
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          118,
+          122
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ph3ped9O",
+        "expanded_url": "http://bit.ly/Mog3Aw",
+        "display_url": "bit.ly/Mog3Aw",
+        "indices": [
+          70,
+          90
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SLAMonline",
+        "name": "SLAM Magazine",
+        "id": 15537451,
+        "id_str": "15537451",
+        "indices": [
+          1,
+          12
+        ]
+      },
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          29,
+          39
+        ]
+      },
+      {
+        "screen_name": "rodgerbohn",
+        "name": "Rodger Bohn",
+        "id": 38625443,
+        "id_str": "38625443",
+        "indices": [
+          95,
+          106
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

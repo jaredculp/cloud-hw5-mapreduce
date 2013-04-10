@@ -1,0 +1,139 @@
+{
+  "created_at": "Fri Aug 31 02:30:25 +0000 2012",
+  "id": 241362273740939265,
+  "id_str": "241362273740939265",
+  "text": "what a gem #bov #yeahtonka @bovinator3000 http://t.co/q8pSDOzM",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Photos on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 258115453,
+    "id_str": "258115453",
+    "name": "Madison Dick",
+    "screen_name": "maddick24",
+    "location": "",
+    "description": "On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux. - Le Petit Prince",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 218,
+    "friends_count": 155,
+    "listed_count": 0,
+    "created_at": "Sun Feb 27 00:38:53 +0000 2011",
+    "favourites_count": 353,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 885,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2846918796/92779570dfd1b77dd7528e1e4ce5403e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2846918796/92779570dfd1b77dd7528e1e4ce5403e_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/258115453/1358982447",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bov",
+        "indices": [
+          11,
+          15
+        ]
+      },
+      {
+        "text": "yeahtonka",
+        "indices": [
+          16,
+          26
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "bovinator3000",
+        "name": "Tay Bovee ",
+        "id": 232776814,
+        "id_str": "232776814",
+        "indices": [
+          27,
+          41
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 241362273745133569,
+        "id_str": "241362273745133569",
+        "indices": [
+          42,
+          62
+        ],
+        "media_url": "http://pbs.twimg.com/media/A1l9tYzCYAEThJT.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A1l9tYzCYAEThJT.jpg",
+        "url": "http://t.co/q8pSDOzM",
+        "display_url": "pic.twitter.com/q8pSDOzM",
+        "expanded_url": "http://twitter.com/maddick24/status/241362273740939265/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 455,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 484,
+            "h": 648,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 484,
+            "h": 648,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

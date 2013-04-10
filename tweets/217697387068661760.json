@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 26 19:14:36 +0000 2012",
+  "id": 217697387068661760,
+  "id_str": "217697387068661760",
+  "text": "@LarrySabato Reading things like this make me so proud!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217696852533981184,
+  "in_reply_to_status_id_str": "217696852533981184",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 23171723,
+    "id_str": "23171723",
+    "name": "Jess",
+    "screen_name": "JessOfRVA",
+    "location": "Richmond, VA",
+    "description": "Self confessed coffee addict geek seeks enlightenment and amusement. Enjoys wine and pop culture references. Fluent in snark.",
+    "url": "http://suckoutallthemarrow.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://suckoutallthemarrow.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1101,
+    "friends_count": 973,
+    "listed_count": 59,
+    "created_at": "Sat Mar 07 06:17:28 +0000 2009",
+    "favourites_count": 624,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 42809,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "091304",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/735436616/af744a309136edf7dc88f7e557ff0869.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/735436616/af744a309136edf7dc88f7e557ff0869.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2999933348/a45b2a7a388a79b8692acbec08145ee9_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2999933348/a45b2a7a388a79b8692acbec08145ee9_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/23171723/1354982629",
+    "profile_link_color": "696545",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "262626",
+    "profile_text_color": "7D7D7D",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

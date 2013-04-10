@@ -1,0 +1,93 @@
+{
+  "created_at": "Wed Aug 15 19:10:30 +0000 2012",
+  "id": 235815747463573505,
+  "id_str": "235815747463573505",
+  "text": "@WyattTeller #UVA fans would love to see you playing in Scott Stadium in orange and blue.",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 235761853962276864,
+  "in_reply_to_status_id_str": "235761853962276864",
+  "in_reply_to_user_id": 450671734,
+  "in_reply_to_user_id_str": "450671734",
+  "in_reply_to_screen_name": "WyattTeller",
+  "user": {
+    "id": 48196197,
+    "id_str": "48196197",
+    "name": "Todd Carlisle",
+    "screen_name": "Uvafan15",
+    "location": "Va",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 94,
+    "friends_count": 347,
+    "listed_count": 0,
+    "created_at": "Thu Jun 18 01:30:27 +0000 2009",
+    "favourites_count": 9,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1376,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1561788566/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1561788566/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/48196197/1349632935",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          13,
+          17
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WyattTeller",
+        "name": "Wyatt Teller",
+        "id": 450671734,
+        "id_str": "450671734",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

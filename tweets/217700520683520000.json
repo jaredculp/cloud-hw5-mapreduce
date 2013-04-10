@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Jun 26 19:27:03 +0000 2012",
+  "id": 217700520683520000,
+  "id_str": "217700520683520000",
+  "text": "RT @cavalierdaily: BREAKING: DRAGAS SUPPORTS #SULLIVAN #UVA URGES #BOV TO JOIN HER",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 28970155,
+    "id_str": "28970155",
+    "name": "Jenna Truong",
+    "screen_name": "jennanotjenny_",
+    "location": "703 to 434",
+    "description": "UVA. History. @CavalierDaily Photography Editor. Sports Fanatic. Get at me.\r\nBuy film, not megapixels.",
+    "url": "http://t.co/KKwvTikL",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/KKwvTikL",
+            "expanded_url": "http://jtru.4ormat.com",
+            "display_url": "jtru.4ormat.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 109,
+    "friends_count": 268,
+    "listed_count": 0,
+    "created_at": "Sun Apr 05 10:42:19 +0000 2009",
+    "favourites_count": 203,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3491,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F0F0D8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/621441010/19.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/621441010/19.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2532006366/vtjgpxs67blipv7qbsxv_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2532006366/vtjgpxs67blipv7qbsxv_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/28970155/1353861293",
+    "profile_link_color": "FFC0C0",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "D8A8A8",
+    "profile_text_color": "F0D8C0",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SULLIVAN",
+        "indices": [
+          45,
+          54
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          55,
+          59
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          66,
+          70
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,134 @@
+{
+  "created_at": "Tue Jun 19 17:03:03 +0000 2012",
+  "id": 215127566149890048,
+  "id_str": "215127566149890048",
+  "text": "@joshuadpick @masnKerr will have all your #nats news; .@bkerr32 will have exclusive #gwbb, #broncos, #UVa and hot rocking chili recipes",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215127165212168192,
+  "in_reply_to_status_id_str": "215127165212168192",
+  "in_reply_to_user_id": 268049617,
+  "in_reply_to_user_id_str": "268049617",
+  "in_reply_to_screen_name": "joshuadpick",
+  "user": {
+    "id": 19220115,
+    "id_str": "19220115",
+    "name": "Byron Kerr",
+    "screen_name": "bkerr32",
+    "location": "Washington, D.C.",
+    "description": "Voice of @GW_MBB; ESPN, MASN, heard on WJFK/WNEW; root for #Broncos, #Nuggets; #UVa grad; For #Nats baseball check out @masnKerr",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1685,
+    "friends_count": 1994,
+    "listed_count": 121,
+    "created_at": "Tue Jan 20 04:39:37 +0000 2009",
+    "favourites_count": 94,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7074,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F7410A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/69975417/Handsome_GW_Radio_Head_.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/69975417/Handsome_GW_Radio_Head_.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2748916233/90c7ad85d35b15028421a91f4af0bf90_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2748916233/90c7ad85d35b15028421a91f4af0bf90_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/19220115/1354843150",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "D96868",
+    "profile_sidebar_fill_color": "87ED7C",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "nats",
+        "indices": [
+          42,
+          47
+        ]
+      },
+      {
+        "text": "gwbb",
+        "indices": [
+          84,
+          89
+        ]
+      },
+      {
+        "text": "broncos",
+        "indices": [
+          91,
+          99
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          101,
+          105
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "joshuadpick",
+        "name": "Josh Pick",
+        "id": 268049617,
+        "id_str": "268049617",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "masnKerr",
+        "name": "Byron Kerr",
+        "id": 612680101,
+        "id_str": "612680101",
+        "indices": [
+          13,
+          22
+        ]
+      },
+      {
+        "screen_name": "bkerr32",
+        "name": "Byron Kerr",
+        "id": 19220115,
+        "id_str": "19220115",
+        "indices": [
+          55,
+          63
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

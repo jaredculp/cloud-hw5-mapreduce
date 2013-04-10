@@ -1,0 +1,108 @@
+{
+  "created_at": "Thu Jun 21 01:19:39 +0000 2012",
+  "id": 215614930328633345,
+  "id_str": "215614930328633345",
+  "text": "!! RT @nowviskie: \"Reality Bytes,\" my #RBMS12 keynote, hastily (passionately) re-written to reflect the #UVa situation. http://t.co/Uq3v2SDk",
+  "source": "<a href=\"http://seesmic.com/\" rel=\"nofollow\">Seesmic</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14307108,
+    "id_str": "14307108",
+    "name": "Shannon",
+    "screen_name": "mazarines",
+    "location": "Los Angeles, CA, USA",
+    "description": "Dilettante/librarian, interested in libraries, archives, art, law, music, bicycles, coffee, food, funny things",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 444,
+    "friends_count": 350,
+    "listed_count": 44,
+    "created_at": "Fri Apr 04 23:25:18 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4563,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/25469127/P9141773_2.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/25469127/P9141773_2.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/325613287/P8190048_2_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/325613287/P8190048_2_normal.JPG",
+    "profile_link_color": "A64C07",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "AAC2AC",
+    "profile_text_color": "254F0F",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RBMS12",
+        "indices": [
+          38,
+          45
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          104,
+          108
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Uq3v2SDk",
+        "expanded_url": "http://is.gd/RsmiPM",
+        "display_url": "is.gd/RsmiPM",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nowviskie",
+        "name": "Bethany Nowviskie",
+        "id": 14221013,
+        "id_str": "14221013",
+        "indices": [
+          6,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

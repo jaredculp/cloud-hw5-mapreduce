@@ -1,0 +1,117 @@
+{
+  "created_at": "Sun Aug 05 17:18:44 +0000 2012",
+  "id": 232163744430579712,
+  "id_str": "232163744430579712",
+  "text": "Estou comendo, #frango, e bebendo #suco de #uva! kk Olha que já passou a hora do #almoço, só que estou comendo denovo! HUASHUASSAHUUHSAH! ;)",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 272654289,
+    "id_str": "272654289",
+    "name": "Leeeh",
+    "screen_name": "LeticiaSpears",
+    "location": "Los Angeles, CA",
+    "description": "Não sou fofa, não sou meiga odeio frescurinha e \r\nminha cor favorita não é rosa.",
+    "url": "http://www.orkut.com.br/Main#Profile?uid=9640876672525366826",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.orkut.com.br/Main#Profile?uid=9640876672525366826",
+            "expanded_url": null,
+            "indices": [
+              0,
+              60
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 174,
+    "friends_count": 168,
+    "listed_count": 12,
+    "created_at": "Sat Mar 26 22:41:33 +0000 2011",
+    "favourites_count": 12,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5473,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3203140476/207319482b042f4d58704d74d7653d71_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3203140476/207319482b042f4d58704d74d7653d71_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/272654289/1356357234",
+    "profile_link_color": "D918B2",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "frango",
+        "indices": [
+          15,
+          22
+        ]
+      },
+      {
+        "text": "suco",
+        "indices": [
+          34,
+          39
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          43,
+          47
+        ]
+      },
+      {
+        "text": "almoço",
+        "indices": [
+          81,
+          88
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

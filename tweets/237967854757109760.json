@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Aug 21 17:42:12 +0000 2012",
+  "id": 237967854757109760,
+  "id_str": "237967854757109760",
+  "text": "Interessant! RT @isjamooi Bezoek 3 september minicolleges van oa Louise Fresco in 'Glazen Huis van de Wetenschap' #UvA: http://t.co/YRRowyuu",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 539199869,
+    "id_str": "539199869",
+    "name": "Annemieke vd Dool",
+    "screen_name": "SinoEnvironMiek",
+    "location": "Den Haag, NL - Östersund, SE",
+    "description": "Interdisciplinary multilingual environmentalist & sinologist learning about safe, fair, healthy, sustainable food. Researches China, food safety, law, politics.",
+    "url": "http://www.linkedin.com/in/annemiekevandendool",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.linkedin.com/in/annemiekevandendool",
+            "expanded_url": null,
+            "indices": [
+              0,
+              46
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 169,
+    "friends_count": 337,
+    "listed_count": 16,
+    "created_at": "Wed Mar 28 16:53:55 +0000 2012",
+    "favourites_count": 2,
+    "utc_offset": 3600,
+    "time_zone": "Stockholm",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 891,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C7C7C7",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme17/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme17/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1992310362/Miek_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1992310362/Miek_normal.jpg",
+    "profile_link_color": "CC3366",
+    "profile_sidebar_border_color": "DBE9ED",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          114,
+          118
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/YRRowyuu",
+        "expanded_url": "http://www.uva.nl/lustrum/hetglazenhuis.cfm",
+        "display_url": "uva.nl/lustrum/hetgla…",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "isjamooi",
+        "name": "Manoek Los",
+        "id": 265262631,
+        "id_str": "265262631",
+        "indices": [
+          16,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

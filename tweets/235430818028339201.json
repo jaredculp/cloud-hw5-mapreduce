@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Aug 14 17:40:55 +0000 2012",
+  "id": 235430818028339201,
+  "id_str": "235430818028339201",
+  "text": "@Greg_Strine You'd better act fast - supplies are limited. #puppies",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 234860490571018240,
+  "in_reply_to_status_id_str": "234860490571018240",
+  "in_reply_to_user_id": 390790897,
+  "in_reply_to_user_id_str": "390790897",
+  "in_reply_to_screen_name": "Greg_Strine",
+  "user": {
+    "id": 159533022,
+    "id_str": "159533022",
+    "name": "21st Century",
+    "screen_name": "21stCenturyAuto",
+    "location": "Wilmington, DE",
+    "description": "Official 21st Century Auto tweets about insurance, customer service, car tips, travel advice and saving money.  The Same Great Coverage for Less.",
+    "url": "http://www.21st.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.21st.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 566,
+    "friends_count": 174,
+    "listed_count": 14,
+    "created_at": "Fri Jun 25 17:04:34 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 550,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D8D8D8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/170594492/21st-Twitter-Template_2b.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/170594492/21st-Twitter-Template_2b.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1128321992/21st_YouTube_Logo_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1128321992/21st_YouTube_Logo_normal.png",
+    "profile_link_color": "1B6894",
+    "profile_sidebar_border_color": "D8D8D8",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "puppies",
+        "indices": [
+          59,
+          67
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Greg_Strine",
+        "name": "Greg Strine",
+        "id": 390790897,
+        "id_str": "390790897",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

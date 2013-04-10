@@ -1,0 +1,143 @@
+{
+  "created_at": "Thu Aug 16 21:47:01 +0000 2012",
+  "id": 236217524847538176,
+  "id_str": "236217524847538176",
+  "text": "#NYPL: @IronBirds Branden Kline makes pro debut tonight @LowellSpinners. #UVa product picked in 2nd round of '12 #MLBDraft. #MiLB #Orioles",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 357598386,
+    "id_str": "357598386",
+    "name": "BSU18 Baseball",
+    "screen_name": "BSU18Baseball",
+    "location": "New England",
+    "description": "@BostonSportsU18 brings you New England baseball from the Futures to the Majors and all in between. If you prefer the Freedom Trail over Fenway, don't read on.",
+    "url": "http://bostonsportsu18.com/?category_name=baseball-2",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://bostonsportsu18.com/?category_name=baseball-2",
+            "expanded_url": null,
+            "indices": [
+              0,
+              52
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 216,
+    "friends_count": 306,
+    "listed_count": 4,
+    "created_at": "Thu Aug 18 16:27:54 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8343,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/489181650/Baseball_FINAL.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/489181650/Baseball_FINAL.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2200090871/485859_3205911625869_1208506282_2380488_1171231749_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2200090871/485859_3205911625869_1208506282_2380488_1171231749_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/357598386/1355689996",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "NYPL",
+        "indices": [
+          0,
+          5
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          73,
+          77
+        ]
+      },
+      {
+        "text": "MLBDraft",
+        "indices": [
+          113,
+          122
+        ]
+      },
+      {
+        "text": "MiLB",
+        "indices": [
+          124,
+          129
+        ]
+      },
+      {
+        "text": "Orioles",
+        "indices": [
+          130,
+          138
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "IronBirds",
+        "name": "Aberdeen IronBirds",
+        "id": 37973346,
+        "id_str": "37973346",
+        "indices": [
+          7,
+          17
+        ]
+      },
+      {
+        "screen_name": "LowellSpinners",
+        "name": "Lowell Spinners",
+        "id": 20620447,
+        "id_str": "20620447",
+        "indices": [
+          56,
+          71
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

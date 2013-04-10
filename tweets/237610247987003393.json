@@ -1,0 +1,122 @@
+{
+  "created_at": "Mon Aug 20 18:01:12 +0000 2012",
+  "id": 237610247987003393,
+  "id_str": "237610247987003393",
+  "text": "@alefeldman @Uvasdoce creo que con eso me puedo atrever aunque la cocina y yo no seamos muy amigas #sandía #uva",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 237608766462361600,
+  "in_reply_to_status_id_str": "237608766462361600",
+  "in_reply_to_user_id": 17841244,
+  "in_reply_to_user_id_str": "17841244",
+  "in_reply_to_screen_name": "alefeldman",
+  "user": {
+    "id": 407051247,
+    "id_str": "407051247",
+    "name": "Exquisitec.es",
+    "screen_name": "EsExquisitec",
+    "location": "Poio (Pontevedra)",
+    "description": "Seleccionamos el mejor marisco gallego para ti , te lo llevamos a casa y te ayudamos a prepararlo.También conservas delicatessen y vinos.Tienda online. ",
+    "url": "http://www.exquisitec.es",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.exquisitec.es",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1949,
+    "friends_count": 1804,
+    "listed_count": 52,
+    "created_at": "Mon Nov 07 15:28:05 +0000 2011",
+    "favourites_count": 133,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 12140,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "A7BCC7",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1694510290/Logo1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1694510290/Logo1_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/407051247/1355860156",
+    "profile_link_color": "389CBD",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "7598A8",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sandía",
+        "indices": [
+          99,
+          106
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          107,
+          111
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "alefeldman",
+        "name": "Alejandra Feldman",
+        "id": 17841244,
+        "id_str": "17841244",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "Uvasdoce",
+        "name": "Uvasdoce",
+        "id": 318445117,
+        "id_str": "318445117",
+        "indices": [
+          12,
+          21
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

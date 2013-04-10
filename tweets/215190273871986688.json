@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 19 21:12:13 +0000 2012",
+  "id": 215190273871986688,
+  "id_str": "215190273871986688",
+  "text": "#UVa professor resigns, says he wants \"no part of this ongoing fiasco\" http://t.co/5oMdTBPs",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 88574375,
+    "id_str": "88574375",
+    "name": "Jordan Fifer",
+    "screen_name": "JordanFifer",
+    "location": "Roanoke and Wise, VA",
+    "description": "Multimedia journalist. Editor at @HighlandCav. Reoccurring @roanoketimes reporter. Loves a good pen. Everything I tweet is endorsed by everyone, everywhere.",
+    "url": "http://www.jordanfifer.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jordanfifer.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 826,
+    "friends_count": 479,
+    "listed_count": 43,
+    "created_at": "Mon Nov 09 02:46:05 +0000 2009",
+    "favourites_count": 331,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 14046,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1502497514/39832_825201757582_68128937_43954951_8331315_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1502497514/39832_825201757582_68128937_43954951_8331315_n_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/5oMdTBPs",
+        "expanded_url": "http://www.nbc29.com/story/18826919/sullivan-ouster-fallout-felt-on-grounds",
+        "display_url": "nbc29.com/story/18826919…",
+        "indices": [
+          71,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

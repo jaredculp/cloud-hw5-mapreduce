@@ -1,0 +1,102 @@
+{
+  "created_at": "Fri Jun 22 18:06:27 +0000 2012",
+  "id": 216230687253073921,
+  "id_str": "216230687253073921",
+  "text": "Wow. RT @uva_alumni: Printout of the nearly 5500 alumni comments going to BOV today (also emailing file to BOV) #UVA http://t.co/ugcislCD",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21825293,
+    "id_str": "21825293",
+    "name": "Austin Mitchell",
+    "screen_name": "armitchell88",
+    "location": "Huddleston, VA",
+    "description": "Graduated from UVA in May 2009. Now trying to put that degree to use and not doing a good job at it.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 90,
+    "friends_count": 164,
+    "listed_count": 1,
+    "created_at": "Wed Feb 25 02:19:40 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1444,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/739486985/5d9e4ae3992e6e28ed31df82243d1817.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/739486985/5d9e4ae3992e6e28ed31df82243d1817.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2326308173/48mgfaejmxce5q7vu63m_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2326308173/48mgfaejmxce5q7vu63m_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/21825293/1349575494",
+    "profile_link_color": "140367",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F35500",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          112,
+          116
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ugcislCD",
+        "expanded_url": "http://ow.ly/i/IsYg",
+        "display_url": "ow.ly/i/IsYg",
+        "indices": [
+          117,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          8,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

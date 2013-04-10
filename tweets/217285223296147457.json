@@ -1,0 +1,205 @@
+{
+  "created_at": "Mon Jun 25 15:56:48 +0000 2012",
+  "id": 217285223296147457,
+  "id_str": "217285223296147457",
+  "text": "RT @sivavaid: Virginia spends $8,600 per in-state #UVa student. UNC gets $26,000/student. UMD gets $18,000/year. http://t.co/SiQhy34i",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 612303495,
+    "id_str": "612303495",
+    "name": "Chris C.",
+    "screen_name": "LawHooC",
+    "location": "Central Virginia",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2,
+    "friends_count": 25,
+    "listed_count": 0,
+    "created_at": "Tue Jun 19 03:09:11 +0000 2012",
+    "favourites_count": 55,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 76,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2328290121/ul38e7ikldxy3bqgo8pu_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2328290121/ul38e7ikldxy3bqgo8pu_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Jun 25 12:42:22 +0000 2012",
+    "id": 217236292755394560,
+    "id_str": "217236292755394560",
+    "text": "Virginia spends $8,600 per in-state #UVa student. UNC gets $26,000/student. UMD gets $18,000/year. http://t.co/SiQhy34i",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20406724,
+      "id_str": "20406724",
+      "name": "Siva Vaidhyanathan",
+      "screen_name": "sivavaid",
+      "location": "Charlottesville, VA",
+      "description": "Author of The Googlization of Everything (2011), The Anarchist in the Library (2004), and Copyrights and Copywrongs (2001).",
+      "url": "http://www.googlizationofeverything.com/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.googlizationofeverything.com/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                40
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 7744,
+      "friends_count": 1546,
+      "listed_count": 529,
+      "created_at": "Mon Feb 09 01:29:24 +0000 2009",
+      "favourites_count": 2705,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 26305,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/234287703/Googlizationcoverlight.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/234287703/Googlizationcoverlight.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2539653916/jj41921r6yzhruyxh8e7_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2539653916/jj41921r6yzhruyxh8e7_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 20,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVa",
+          "indices": [
+            36,
+            40
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/SiQhy34i",
+          "expanded_url": "http://www.washingtonpost.com/local/question-in-u-va-tumult-what-should-premier-public-universities-be/2012/06/23/gJQA1o6qxV_story.html",
+          "display_url": "washingtonpost.com/local/question…",
+          "indices": [
+            99,
+            119
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  "retweet_count": 20,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          50,
+          54
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/SiQhy34i",
+        "expanded_url": "http://www.washingtonpost.com/local/question-in-u-va-tumult-what-should-premier-public-universities-be/2012/06/23/gJQA1o6qxV_story.html",
+        "display_url": "washingtonpost.com/local/question…",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

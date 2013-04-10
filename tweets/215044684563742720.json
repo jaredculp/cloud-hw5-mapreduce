@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Jun 19 11:33:42 +0000 2012",
+  "id": 215044684563742720,
+  "id_str": "215044684563742720",
+  "text": "The #BOV got the weak leader they wanted RT @cavalierdaily Full letter from Zeithaml to McIntire School community: http://t.co/WndI18kL",
+  "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 24453899,
+    "id_str": "24453899",
+    "name": "Peter Carey",
+    "screen_name": "santospopsicles",
+    "location": "Earth",
+    "description": "The inspiration for this blog came from the photo that was taken at Chimayo, New Mexico in front of a shop.",
+    "url": "http://santospopsicles.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://santospopsicles.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 354,
+    "friends_count": 714,
+    "listed_count": 10,
+    "created_at": "Sat Mar 14 23:58:56 +0000 2009",
+    "favourites_count": 27,
+    "utc_offset": 12600,
+    "time_zone": "Tehran",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1401,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D59E67",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/704766665/feecd31d7b4269f46a3650ebc553cf17.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/704766665/feecd31d7b4269f46a3650ebc553cf17.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2816997485/630141905615576159978c328fcef2c3_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2816997485/630141905615576159978c328fcef2c3_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/24453899/1352263620",
+    "profile_link_color": "050505",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          4,
+          8
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WndI18kL",
+        "expanded_url": "http://www.facebook.com/permalink.php?id=148758441876781&story_fbid=321215561297734",
+        "display_url": "facebook.com/permalink.php?…",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          44,
+          58
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

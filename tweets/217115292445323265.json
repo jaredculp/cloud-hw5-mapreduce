@@ -1,0 +1,140 @@
+{
+  "created_at": "Mon Jun 25 04:41:34 +0000 2012",
+  "id": 217115292445323265,
+  "id_str": "217115292445323265",
+  "text": "@WSJ RT @GlobalHigherEd: \"@Bob_Bruner My latest blog posting: \"Deans' Message: Reinstate Terry Sullivan\" http://t.co/eS8bfjUz\" #UVa #BoV",
+  "source": "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 3108351,
+  "in_reply_to_user_id_str": "3108351",
+  "in_reply_to_screen_name": "WSJ",
+  "user": {
+    "id": 525955238,
+    "id_str": "525955238",
+    "name": "Matt Hedstrom",
+    "screen_name": "HedstromMatt",
+    "location": "Charlottesville, VA",
+    "description": "Assistant Professor of American Studies and Religious Studies at the University of Virginia",
+    "url": "http://www.matthedstrom.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.matthedstrom.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 376,
+    "friends_count": 726,
+    "listed_count": 9,
+    "created_at": "Fri Mar 16 02:26:58 +0000 2012",
+    "favourites_count": 14,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1249,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2285657996/DFF7C4BF-94AD-484C-A2EF-6BC6A434E155_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2285657996/DFF7C4BF-94AD-484C-A2EF-6BC6A434E155_normal",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          127,
+          131
+        ]
+      },
+      {
+        "text": "BoV",
+        "indices": [
+          132,
+          136
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/eS8bfjUz",
+        "expanded_url": "http://blogs.darden.virginia.edu/deansblog/2012/06/deans-message-reinstate-terry-sullivan/",
+        "display_url": "blogs.darden.virginia.edu/deansblog/2012…",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "screen_name": "GlobalHigherEd",
+        "name": "GlobalHigherEd",
+        "id": 20961822,
+        "id_str": "20961822",
+        "indices": [
+          8,
+          23
+        ]
+      },
+      {
+        "screen_name": "Bob_Bruner",
+        "name": "Bob_Bruner",
+        "id": 15407235,
+        "id_str": "15407235",
+        "indices": [
+          26,
+          37
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

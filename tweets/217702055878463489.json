@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:33:09 +0000 2012",
+  "id": 217702055878463489,
+  "id_str": "217702055878463489",
+  "text": "@kswans @cavalierdaily Sanity prevails!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217701734942916608,
+  "in_reply_to_status_id_str": "217701734942916608",
+  "in_reply_to_user_id": 29563383,
+  "in_reply_to_user_id_str": "29563383",
+  "in_reply_to_screen_name": "kswans",
+  "user": {
+    "id": 540814895,
+    "id_str": "540814895",
+    "name": "Kim Clarke",
+    "screen_name": "kd_clarke",
+    "location": "Ypsilanti, MI",
+    "description": "UMich writer and history buff. \r\nhttp://t.co/KH0O0Dv2",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/KH0O0Dv2",
+            "expanded_url": "http://heritage.umich.edu/",
+            "display_url": "heritage.umich.edu",
+            "indices": [
+              33,
+              53
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 153,
+    "friends_count": 178,
+    "listed_count": 11,
+    "created_at": "Fri Mar 30 13:24:34 +0000 2012",
+    "favourites_count": 259,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 414,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/625001577/lvnh3xryld37qqlwi5gu.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/625001577/lvnh3xryld37qqlwi5gu.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3179676491/23510b05b817568ecee49f42e95bf836_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3179676491/23510b05b817568ecee49f42e95bf836_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kswans",
+        "name": "Kyle Swanson",
+        "id": 29563383,
+        "id_str": "29563383",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          8,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

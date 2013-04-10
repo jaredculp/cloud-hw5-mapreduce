@@ -1,0 +1,142 @@
+{
+  "created_at": "Tue Jun 26 20:08:33 +0000 2012",
+  "id": 217710965628735488,
+  "id_str": "217710965628735488",
+  "text": "RT @WTOP: #UVa governing board reinstates Teresa Sullivan, who was ousted without a vote earlier this month - http://t.co/vE25EUL6 #VA",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 360201349,
+    "id_str": "360201349",
+    "name": "Marti Reed",
+    "screen_name": "homegypsy",
+    "location": "Albuquerque NM",
+    "description": "Constantly re-inventing myself, currently photographing, actively dkosing, 4th gen anglo native newmexican, will update.....  and I also follow #libya",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 649,
+    "friends_count": 1459,
+    "listed_count": 47,
+    "created_at": "Mon Aug 22 21:10:18 +0000 2011",
+    "favourites_count": 4010,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 41930,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2523517740/d95cdc24-8b2b-4290-a6f3-50b7284b1689_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2523517740/d95cdc24-8b2b-4290-a6f3-50b7284b1689_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/360201349/1355954347",
+    "profile_link_color": "4CC4AC",
+    "profile_sidebar_border_color": "77D6DB",
+    "profile_sidebar_fill_color": "729294",
+    "profile_text_color": "111212",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "813a485b26b8dae2",
+    "url": "https://api.twitter.com/1.1/geo/id/813a485b26b8dae2.json",
+    "place_type": "city",
+    "name": "Albuquerque",
+    "full_name": "Albuquerque, NM",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -106.881796,
+            34.946766
+          ],
+          [
+            -106.473833,
+            34.946766
+          ],
+          [
+            -106.473833,
+            35.218054
+          ],
+          [
+            -106.881796,
+            35.218054
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          10,
+          14
+        ]
+      },
+      {
+        "text": "VA",
+        "indices": [
+          131,
+          134
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/vE25EUL6",
+        "expanded_url": "http://bit.ly/QdrlJc",
+        "display_url": "bit.ly/QdrlJc",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WTOP",
+        "name": "WTOP ",
+        "id": 17906632,
+        "id_str": "17906632",
+        "indices": [
+          3,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

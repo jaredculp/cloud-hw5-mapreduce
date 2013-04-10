@@ -1,0 +1,123 @@
+{
+  "created_at": "Fri Jun 22 19:47:19 +0000 2012",
+  "id": 216256068513304578,
+  "id_str": "216256068513304578",
+  "text": "RT @UVA: @UVa_Alumni Assn has delivered 5,500 responses from #UVa alums to BOV office. Tied up with a bow.  http://t.co/fsRAovHw",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 43965412,
+    "id_str": "43965412",
+    "name": "Mark Brooks",
+    "screen_name": "MarkBrooksVA",
+    "location": "Virginia",
+    "description": "Retired Land Surveyor, part-time farmer, USN veteran, political & a Democrat. Truth teller, soothsayer. Live in your own soap opera, I already have one.",
+    "url": "http://blog.vivianpaige.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://blog.vivianpaige.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1062,
+    "friends_count": 646,
+    "listed_count": 82,
+    "created_at": "Mon Jun 01 20:31:50 +0000 2009",
+    "favourites_count": 52,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 46045,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2440386979/ylz2obmwbvzhgxe9sfbl_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2440386979/ylz2obmwbvzhgxe9sfbl_normal.jpeg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/fsRAovHw",
+        "expanded_url": "http://yfrog.com/oeejuloj",
+        "display_url": "yfrog.com/oeejuloj",
+        "indices": [
+          108,
+          128
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          3,
+          7
+        ]
+      },
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          9,
+          20
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

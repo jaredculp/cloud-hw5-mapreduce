@@ -1,0 +1,95 @@
+{
+  "created_at": "Tue Jun 26 22:12:16 +0000 2012",
+  "id": 217742100060581888,
+  "id_str": "217742100060581888",
+  "text": "Welcome back, President Sullivan. #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 50019061,
+    "id_str": "50019061",
+    "name": "Brian Hight",
+    "screen_name": "Brian_Hight",
+    "location": "Metro Milwaukee",
+    "description": "Virginia-born and raised, UVa grad, WI Military Program Manager,  Wisconsin Professional Civil Engineer, sports fan, history buff, and news geek.",
+    "url": "http://linkedin.com/brianmhight",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://linkedin.com/brianmhight",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 106,
+    "friends_count": 342,
+    "listed_count": 1,
+    "created_at": "Tue Jun 23 16:14:24 +0000 2009",
+    "favourites_count": 89,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 555,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "07090B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/295103577/x3a8cda55d8f4b987db53c654357129c.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/295103577/x3a8cda55d8f4b987db53c654357129c.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1124079488/Image2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1124079488/Image2_normal.jpg",
+    "profile_link_color": "C34242",
+    "profile_sidebar_border_color": "BFBFBF",
+    "profile_sidebar_fill_color": "C9C9C9",
+    "profile_text_color": "1C1F23",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

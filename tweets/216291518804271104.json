@@ -1,0 +1,123 @@
+{
+  "created_at": "Fri Jun 22 22:08:11 +0000 2012",
+  "id": 216291518804271104,
+  "id_str": "216291518804271104",
+  "text": "RT @PilotOpinion: Columnist Candy Hatcher: A show of character in 140 characters http://t.co/KHlCl50Z @cavalierdaily #uva",
+  "source": "<a href=\"http://seesmic.com/\" rel=\"nofollow\">Seesmic</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17481121,
+    "id_str": "17481121",
+    "name": "Shawn Day",
+    "screen_name": "slday29",
+    "location": "Hampton Roads, VA",
+    "description": "Editorial writer, columnist at The Virginian-Pilot (@PilotOpinion). ",
+    "url": "http://hamptonroads.com/shawnday",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://hamptonroads.com/shawnday",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 266,
+    "friends_count": 264,
+    "listed_count": 18,
+    "created_at": "Wed Nov 19 05:55:48 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1555,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1464459380/shawn_mug_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1464459380/shawn_mug_normal.jpg",
+    "profile_link_color": "0056B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          117,
+          121
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/KHlCl50Z",
+        "expanded_url": "http://ow.ly/1O7dLr",
+        "display_url": "ow.ly/1O7dLr",
+        "indices": [
+          81,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PilotOpinion",
+        "name": "Pilot Opinion",
+        "id": 195783230,
+        "id_str": "195783230",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          102,
+          116
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

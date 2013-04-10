@@ -1,0 +1,141 @@
+{
+  "created_at": "Sun Jun 24 22:03:45 +0000 2012",
+  "id": 217015177118363648,
+  "id_str": "217015177118363648",
+  "text": "Great looking Scottie dog! I had one just like him when I was at #uva #bestinshow http://t.co/hhJkTYV4",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Photos on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 33105026,
+    "id_str": "33105026",
+    "name": "Jessie Chapman",
+    "screen_name": "jessiechapman",
+    "location": "Charlottesville",
+    "description": "Architect, tennis fan. \r\nCurrently an agitated alumna of #UVA",
+    "url": "http://sketchwelldesign.com/blog/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://sketchwelldesign.com/blog/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 45,
+    "friends_count": 163,
+    "listed_count": 1,
+    "created_at": "Sun Apr 19 02:48:53 +0000 2009",
+    "favourites_count": 97,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 861,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2596375943/q1ne2y29pivl22jss8fx_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2596375943/q1ne2y29pivl22jss8fx_normal.jpeg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          65,
+          69
+        ]
+      },
+      {
+        "text": "bestinshow",
+        "indices": [
+          70,
+          81
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 217015177122557953,
+        "id_str": "217015177122557953",
+        "indices": [
+          82,
+          102
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwL-J19CMAEniq7.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwL-J19CMAEniq7.jpg",
+        "url": "http://t.co/hhJkTYV4",
+        "display_url": "pic.twitter.com/hhJkTYV4",
+        "expanded_url": "http://twitter.com/jessiechapman/status/217015177118363648/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 367,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 537,
+            "h": 579,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 537,
+            "h": 579,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

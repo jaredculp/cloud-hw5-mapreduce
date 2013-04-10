@@ -1,0 +1,100 @@
+{
+  "created_at": "Fri Jun 29 20:13:52 +0000 2012",
+  "id": 218799467430821888,
+  "id_str": "218799467430821888",
+  "text": "@ryanobles And JMU President Linwood Rose, a VaTech alum, is appointed to #UVA #BOV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 16625082,
+  "in_reply_to_user_id_str": "16625082",
+  "in_reply_to_screen_name": "ryanobles",
+  "user": {
+    "id": 18781882,
+    "id_str": "18781882",
+    "name": "Fill keiper",
+    "screen_name": "phillkeiper",
+    "location": "Richmond, VA",
+    "description": "Dad, Husband, Copywriter who will one day live 2,875 mi to the west   ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 197,
+    "friends_count": 214,
+    "listed_count": 8,
+    "created_at": "Thu Jan 08 22:14:42 +0000 2009",
+    "favourites_count": 1828,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1674,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2875197959/75eb2181d084ef0c5afaffa6d0231c1b_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2875197959/75eb2181d084ef0c5afaffa6d0231c1b_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18781882/1353532879",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          74,
+          78
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          79,
+          83
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ryanobles",
+        "name": "Ryan Nobles",
+        "id": 16625082,
+        "id_str": "16625082",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

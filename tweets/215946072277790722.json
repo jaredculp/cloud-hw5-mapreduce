@@ -1,0 +1,107 @@
+{
+  "created_at": "Thu Jun 21 23:15:30 +0000 2012",
+  "id": 215946072277790722,
+  "id_str": "215946072277790722",
+  "text": "In a refreshing change tonight, @WTOP news being dominated by the chaos in Charlottesville. #PSUinDC thanks you, Hoos. #UVA #Sandusky",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 7692442,
+    "id_str": "7692442",
+    "name": "Mark P.",
+    "screen_name": "map408psu",
+    "location": "Oakton, VA",
+    "description": "Penn State alum. Infosec professional. NoVA resident. Craft beer enthusiast. Space travel dreamer. Tweeting about all of the above and more.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 964,
+    "friends_count": 821,
+    "listed_count": 61,
+    "created_at": "Tue Jul 24 19:19:12 +0000 2007",
+    "favourites_count": 206,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 32926,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1857653502/spring_career_days04-2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1857653502/spring_career_days04-2_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/7692442/1353702881",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "PSUinDC",
+        "indices": [
+          92,
+          100
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          119,
+          123
+        ]
+      },
+      {
+        "text": "Sandusky",
+        "indices": [
+          124,
+          133
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WTOP",
+        "name": "WTOP ",
+        "id": 17906632,
+        "id_str": "17906632",
+        "indices": [
+          32,
+          37
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

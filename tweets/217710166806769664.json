@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 26 20:05:23 +0000 2012",
+  "id": 217710166806769664,
+  "id_str": "217710166806769664",
+  "text": "“@washingtonpost: The Lawn at #UVA erupts in cheers as Teresa Sullivan is reinstated, says @WPJenna: http://t.co/FJ6OUOgj” I'm thrilled!!!",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 33823353,
+    "id_str": "33823353",
+    "name": "Jay Losey",
+    "screen_name": "JBLosey",
+    "location": "Waco, TX",
+    "description": "I teach English language and literature at Baylor U. And love NASCAR.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 128,
+    "friends_count": 277,
+    "listed_count": 3,
+    "created_at": "Tue Apr 21 05:25:36 +0000 2009",
+    "favourites_count": 515,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1147,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2323441610/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2323441610/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/FJ6OUOgj",
+        "expanded_url": "http://wapo.st/Le1lKO",
+        "display_url": "wapo.st/Le1lKO",
+        "indices": [
+          101,
+          121
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          1,
+          16
+        ]
+      },
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          91,
+          99
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,118 @@
+{
+  "created_at": "Sat Jun 30 03:04:12 +0000 2012",
+  "id": 218902731723771905,
+  "id_str": "218902731723771905",
+  "text": "Um, wtf?? http://t.co/7A0GZ5DY #dragas #Uva #WhatIsWrongWithYouPeople",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19044256,
+    "id_str": "19044256",
+    "name": "Jonathan D. Sousa",
+    "screen_name": "jonathansousa",
+    "location": "San Francisco, CA",
+    "description": "Web developer, thinker, builder.",
+    "url": "http://jonathansousa.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://jonathansousa.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 118,
+    "friends_count": 160,
+    "listed_count": 6,
+    "created_at": "Thu Jan 15 23:07:48 +0000 2009",
+    "favourites_count": 453,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2177,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2915206779/b381f07c31d52120cf26afa41cd88c5c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2915206779/b381f07c31d52120cf26afa41cd88c5c_normal.jpeg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "dragas",
+        "indices": [
+          31,
+          38
+        ]
+      },
+      {
+        "text": "Uva",
+        "indices": [
+          39,
+          43
+        ]
+      },
+      {
+        "text": "WhatIsWrongWithYouPeople",
+        "indices": [
+          44,
+          69
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/7A0GZ5DY",
+        "expanded_url": "http://www.washingtonpost.com/local/dc-politics/mcdonnell-re-appoints-dragas-to-u-va-board/2012/06/29/gJQAD6u6BW_story.html",
+        "display_url": "washingtonpost.com/local/dc-polit…",
+        "indices": [
+          10,
+          30
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

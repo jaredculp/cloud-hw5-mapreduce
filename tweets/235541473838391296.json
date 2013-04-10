@@ -1,0 +1,100 @@
+{
+  "created_at": "Wed Aug 15 01:00:38 +0000 2012",
+  "id": 235541473838391296,
+  "id_str": "235541473838391296",
+  "text": "@h_strine dude, next summer is going to be fucking insane",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 401142126,
+  "in_reply_to_user_id_str": "401142126",
+  "in_reply_to_screen_name": "h_strine",
+  "user": {
+    "id": 371039524,
+    "id_str": "371039524",
+    "name": "Space_Bat_Killer",
+    "screen_name": "Andrew_Zephir",
+    "location": "Wherever the ocean takes me. ",
+    "description": "17 years old. Single. Maryland. Surfing. Skating. Snowboarding. Soccer. Yewwww. The Journey Is The Reward",
+    "url": "http://t.co/dW1KC9RU",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/dW1KC9RU",
+            "expanded_url": "http://www.modernwaveapparel.com",
+            "display_url": "modernwaveapparel.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 785,
+    "friends_count": 564,
+    "listed_count": 2,
+    "created_at": "Sat Sep 10 02:51:11 +0000 2011",
+    "favourites_count": 896,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5901,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/495251694/bbb.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/495251694/bbb.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3199859497/52c354def444bf9e972f3a2e015d82c6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3199859497/52c354def444bf9e972f3a2e015d82c6_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/371039524/1360200902",
+    "profile_link_color": "5106C2",
+    "profile_sidebar_border_color": "00FFEA",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "F200FF",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "h_strine",
+        "name": "Hunter Strine",
+        "id": 401142126,
+        "id_str": "401142126",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

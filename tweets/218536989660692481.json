@@ -1,0 +1,100 @@
+{
+  "created_at": "Fri Jun 29 02:50:53 +0000 2012",
+  "id": 218536989660692481,
+  "id_str": "218536989660692481",
+  "text": "@ESPNAndyKatz Except for stepping on Joe Harris's face. #UVA #keepitclassy",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 218536250313932800,
+  "in_reply_to_status_id_str": "218536250313932800",
+  "in_reply_to_user_id": 85961526,
+  "in_reply_to_user_id_str": "85961526",
+  "in_reply_to_screen_name": "ESPNAndyKatz",
+  "user": {
+    "id": 521666867,
+    "id_str": "521666867",
+    "name": "Joseph Dennie",
+    "screen_name": "JosephDennie",
+    "location": "Murrica",
+    "description": "Your FatBooth photo is an improvement. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 15,
+    "friends_count": 68,
+    "listed_count": 0,
+    "created_at": "Sun Mar 11 20:50:38 +0000 2012",
+    "favourites_count": 7,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 107,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/542979028/ASHRUTE.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/542979028/ASHRUTE.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2825300046/4ca4975744b3f60b0d13060bc6d68d19_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2825300046/4ca4975744b3f60b0d13060bc6d68d19_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/521666867/1352428507",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          56,
+          60
+        ]
+      },
+      {
+        "text": "keepitclassy",
+        "indices": [
+          61,
+          74
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ESPNAndyKatz",
+        "name": "Andy Katz",
+        "id": 85961526,
+        "id_str": "85961526",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

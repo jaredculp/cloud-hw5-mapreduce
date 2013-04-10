@@ -1,0 +1,102 @@
+{
+  "created_at": "Thu Jun 21 22:53:31 +0000 2012",
+  "id": 215940538938048513,
+  "id_str": "215940538938048513",
+  "text": "Q for @PMorici1 - how much would you charge for an article describing how easy it is to buy your opinion? Thanks @sivavaid for bg info #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 284460803,
+    "id_str": "284460803",
+    "name": "John McGlothlin",
+    "screen_name": "Vicerealist",
+    "location": "D.C. ",
+    "description": "Freelance writer, former paratrooper, future law student",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 37,
+    "friends_count": 16,
+    "listed_count": 0,
+    "created_at": "Tue Apr 19 09:49:49 +0000 2011",
+    "favourites_count": 37,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 119,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1317046277/Rez_crop_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1317046277/Rez_crop_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PMorici1",
+        "name": "Peter Morici",
+        "id": 332817280,
+        "id_str": "332817280",
+        "indices": [
+          6,
+          15
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          113,
+          122
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

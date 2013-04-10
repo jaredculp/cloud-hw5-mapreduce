@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Jun 26 19:21:36 +0000 2012",
+  "id": 217699149074796546,
+  "id_str": "217699149074796546",
+  "text": ".@UVA and @Cavalierdaily are doing an amazing job with live tweets. Follow them if you can't watch the live stream http://t.co/JMJMUld6",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 239530989,
+    "id_str": "239530989",
+    "name": "Molly Greenberg",
+    "screen_name": "mollygreenberg",
+    "location": "Washington, DC",
+    "description": "Professional coffee drinker and laugh machine extraordinaire. Boston sports always come first. @AmericanU alum. Edu beat. Staff Writer for @InTheCapital",
+    "url": "http://inthecapital.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://inthecapital.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 631,
+    "friends_count": 944,
+    "listed_count": 16,
+    "created_at": "Mon Jan 17 20:59:22 +0000 2011",
+    "favourites_count": 11,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2849,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/555478833/Picture_66.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/555478833/Picture_66.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1823862604/378750_2315326522916_1242030233_32340870_1504344901_n_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1823862604/378750_2315326522916_1242030233_32340870_1504344901_n_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/239530989/1359311628",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/JMJMUld6",
+        "expanded_url": "http://goo.gl/2UNB7",
+        "display_url": "goo.gl/2UNB7",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          1,
+          5
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          10,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

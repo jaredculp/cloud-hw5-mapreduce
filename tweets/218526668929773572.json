@@ -1,0 +1,114 @@
+{
+  "created_at": "Fri Jun 29 02:09:52 +0000 2012",
+  "id": 218526668929773572,
+  "id_str": "218526668929773572",
+  "text": "RT @UVA: Alton Lane offering \"Sullivan tie\" in honor of #UVa pres; proceeds benefit her Fund for Excellence. http://t.co/qJUsOZmO",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 5618162,
+    "id_str": "5618162",
+    "name": "P. F. Anderson",
+    "screen_name": "pfanderson",
+    "location": "Ann Arbor, Michigan",
+    "description": "single mom, emerg-tech librn, ehealth, informatics, ebhc, searchengines, web2.0, MODERATE, ♫, quilts/yarn/origami, food, iaido. SL: Perplexity Peccable",
+    "url": "http://etechlib.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://etechlib.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 8760,
+    "friends_count": 9630,
+    "listed_count": 810,
+    "created_at": "Sun Apr 29 00:54:37 +0000 2007",
+    "favourites_count": 26657,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 98409,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/405274316/knalij-hcsm-all-small.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/405274316/knalij-hcsm-all-small.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1768529314/Picture_146_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1768529314/Picture_146_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/5618162/1348870463",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          56,
+          60
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/qJUsOZmO",
+        "expanded_url": "http://bit.ly/MVVUSX",
+        "display_url": "bit.ly/MVVUSX",
+        "indices": [
+          109,
+          129
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          3,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

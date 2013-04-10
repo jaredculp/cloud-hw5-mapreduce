@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 19 20:52:06 +0000 2012",
+  "id": 215185208767545345,
+  "id_str": "215185208767545345",
+  "text": "@jenontheedge Did you see that #UVA lost its first professor this afternoon?",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 14519932,
+  "in_reply_to_user_id_str": "14519932",
+  "in_reply_to_screen_name": "jenontheedge",
+  "user": {
+    "id": 182414162,
+    "id_str": "182414162",
+    "name": "Ms. Espo",
+    "screen_name": "msespowalker",
+    "location": "Charlottesville, VA",
+    "description": "Geek, teacher, gifted specialist, language arts, history, figuring out how to leverage technology in my classroom.",
+    "url": "http://msespo.edublogs.org/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://msespo.edublogs.org/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 57,
+    "friends_count": 97,
+    "listed_count": 2,
+    "created_at": "Tue Aug 24 14:59:24 +0000 2010",
+    "favourites_count": 7,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 250,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1488508376/Espo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1488508376/Espo_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/182414162/1354416116",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jenontheedge",
+        "name": "Jen on the Edge",
+        "id": 14519932,
+        "id_str": "14519932",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

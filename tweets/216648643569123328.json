@@ -1,0 +1,130 @@
+{
+  "created_at": "Sat Jun 23 21:47:16 +0000 2012",
+  "id": 216648643569123328,
+  "id_str": "216648643569123328",
+  "text": "Where is @delrobbell? @NBC29: Toscano &amp; 7 GA colleagues, who are #UVA alumni, are calling 4 #Sullivan's reinstatement. http://t.co/UrqmxWcc”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18059134,
+    "id_str": "18059134",
+    "name": "Karen Torgersen",
+    "screen_name": "vtktorg",
+    "location": "USA",
+    "description": "A Hokie who lives in Raleigh & loves life. I lean forward & to the left.  ",
+    "url": "http://www.twitter.com/vtktorg",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.twitter.com/vtktorg",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 409,
+    "friends_count": 685,
+    "listed_count": 14,
+    "created_at": "Thu Dec 11 20:23:19 +0000 2008",
+    "favourites_count": 32,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8365,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/319261725/DSC00636.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/319261725/DSC00636.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3125088393/ea61a70d1b229e4a77ad05f18e27fc56_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3125088393/ea61a70d1b229e4a77ad05f18e27fc56_normal.jpeg",
+    "profile_link_color": "770303",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "E95616",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          69,
+          73
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          96,
+          105
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UrqmxWcc",
+        "expanded_url": "http://ht.ly/bMwNM",
+        "display_url": "ht.ly/bMwNM",
+        "indices": [
+          123,
+          143
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "delrobbell",
+        "name": "Rob Bell",
+        "id": 273475760,
+        "id_str": "273475760",
+        "indices": [
+          9,
+          20
+        ]
+      },
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          22,
+          28
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

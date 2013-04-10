@@ -1,0 +1,100 @@
+{
+  "created_at": "Wed Jun 20 23:38:24 +0000 2012",
+  "id": 215589447343947777,
+  "id_str": "215589447343947777",
+  "text": "@katiecouric the #BOV has violated #UVA sacred \"community of trust\" that which sets UVA apart from other institutions of higher learning",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215569785201754113,
+  "in_reply_to_status_id_str": "215569785201754113",
+  "in_reply_to_user_id": 18812301,
+  "in_reply_to_user_id_str": "18812301",
+  "in_reply_to_screen_name": "katiecouric",
+  "user": {
+    "id": 400044245,
+    "id_str": "400044245",
+    "name": "Melissa Jensen",
+    "screen_name": "jensenmama",
+    "location": "",
+    "description": "Bio mom of 2, Mama J to many, JMU Alum, Double UVA Mom, called by God",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 28,
+    "friends_count": 96,
+    "listed_count": 0,
+    "created_at": "Fri Oct 28 12:31:19 +0000 2011",
+    "favourites_count": 69,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 317,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1610627833/307240_2236483162600_1563600773_32370054_647306385_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1610627833/307240_2236483162600_1563600773_32370054_647306385_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/400044245/1354122840",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          17,
+          21
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          35,
+          39
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

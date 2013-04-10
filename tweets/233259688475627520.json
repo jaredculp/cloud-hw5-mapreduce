@@ -1,0 +1,126 @@
+{
+  "created_at": "Wed Aug 08 17:53:38 +0000 2012",
+  "id": 233259688475627520,
+  "id_str": "233259688475627520",
+  "text": "@bpbroe RT @CoachMikeLondon: 31 UVA Football Players Honored for the Academic Honor Roll http://t.co/vvAAD6ol #ACC #UVA #GoHoos",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 76452163,
+  "in_reply_to_user_id_str": "76452163",
+  "in_reply_to_screen_name": "bpbroe",
+  "user": {
+    "id": 233843930,
+    "id_str": "233843930",
+    "name": "Jamaal Hawkins",
+    "screen_name": "jhawkss12",
+    "location": "Marietta Georgia",
+    "description": "Just Finished playing a little pro ball\nNow a student at KSU \n#yellowjacketnation\n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 394,
+    "friends_count": 521,
+    "listed_count": 11,
+    "created_at": "Tue Jan 04 07:15:59 +0000 2011",
+    "favourites_count": 580,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10314,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2850711405/b5deffd2e5034353b0b5f79eb7d9e19e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2850711405/b5deffd2e5034353b0b5f79eb7d9e19e_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/233843930/1349536224",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ACC",
+        "indices": [
+          110,
+          114
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          115,
+          119
+        ]
+      },
+      {
+        "text": "GoHoos",
+        "indices": [
+          120,
+          127
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/vvAAD6ol",
+        "expanded_url": "http://www.theacc.com/genrel/080812aaa.html",
+        "display_url": "theacc.com/genrel/080812a…",
+        "indices": [
+          89,
+          109
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "bpbroe",
+        "name": "Brian B",
+        "id": 76452163,
+        "id_str": "76452163",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "screen_name": "CoachMikeLondon",
+        "name": "Mike London",
+        "id": 175767720,
+        "id_str": "175767720",
+        "indices": [
+          11,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

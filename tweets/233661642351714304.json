@@ -1,0 +1,91 @@
+{
+  "created_at": "Thu Aug 09 20:30:51 +0000 2012",
+  "id": 233661642351714304,
+  "id_str": "233661642351714304",
+  "text": "This can't be happening #happyaf #uva",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 429972128,
+    "id_str": "429972128",
+    "name": "Juan Fajardo ",
+    "screen_name": "juanes117",
+    "location": "",
+    "description": "A path with no obstacles probably does not lead anywhere",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 320,
+    "friends_count": 149,
+    "listed_count": 0,
+    "created_at": "Tue Dec 06 16:24:19 +0000 2011",
+    "favourites_count": 1240,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6444,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2746777652/60c0a716866711f981dc768283fc0204_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2746777652/60c0a716866711f981dc768283fc0204_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/429972128/1350841841",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "happyaf",
+        "indices": [
+          24,
+          32
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          33,
+          37
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

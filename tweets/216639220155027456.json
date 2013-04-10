@@ -1,0 +1,137 @@
+{
+  "created_at": "Sat Jun 23 21:09:49 +0000 2012",
+  "id": 216639220155027456,
+  "id_str": "216639220155027456",
+  "text": "RT @wrightallison: RT @AmStudies: A UT AMS alum! RT @seanmccord: @sivavaid on MSNBC this morning: http://t.co/dpfjgKE6",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15160493,
+    "id_str": "15160493",
+    "name": "Carly Kocurek",
+    "screen_name": "sparklebliss",
+    "location": "Chicago, IL",
+    "description": "Video game historian. PhD in American Studies.\r\nAssistant Prof. of Digital Humanities & Media Studies at Illinois Institute of Technology.",
+    "url": "http://www.sparklebliss.com/blog",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.sparklebliss.com/blog",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 936,
+    "friends_count": 532,
+    "listed_count": 68,
+    "created_at": "Wed Jun 18 17:56:38 +0000 2008",
+    "favourites_count": 9,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5892,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF1AC9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/3339395/Frosting2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/3339395/Frosting2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1714477414/Headshot_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1714477414/Headshot_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "F09DE8",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dpfjgKE6",
+        "expanded_url": "http://on.msnbc.com/MECfqU",
+        "display_url": "on.msnbc.com/MECfqU",
+        "indices": [
+          98,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wrightallison",
+        "name": "Allison Wright",
+        "id": 82142577,
+        "id_str": "82142577",
+        "indices": [
+          3,
+          17
+        ]
+      },
+      {
+        "screen_name": "AmStudies",
+        "name": "UT American Studies",
+        "id": 318015674,
+        "id_str": "318015674",
+        "indices": [
+          22,
+          32
+        ]
+      },
+      {
+        "screen_name": "seanmccord",
+        "name": "Sean McCord",
+        "id": 21422565,
+        "id_str": "21422565",
+        "indices": [
+          52,
+          63
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          65,
+          74
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

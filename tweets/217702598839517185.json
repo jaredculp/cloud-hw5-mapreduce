@@ -1,0 +1,121 @@
+{
+  "created_at": "Tue Jun 26 19:35:18 +0000 2012",
+  "id": 217702598839517185,
+  "id_str": "217702598839517185",
+  "text": "RT @washingtonpost: #BREAKINGNEWS: Sullivan is unanimously reinstated as president of #UVA http://t.co/0jBUhdrJ",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21551281,
+    "id_str": "21551281",
+    "name": "Jamarr Brown",
+    "screen_name": "JamarrBrown",
+    "location": "Washington, DC",
+    "description": "DC implant via SC | #Progressive strategist, activist & trainer | Entrepreneur | Passions: #leadership development, #education & #publicservice | #Clemson Alum",
+    "url": "http://www.linkedin.com/in/jamarrbrown",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.linkedin.com/in/jamarrbrown",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 751,
+    "friends_count": 878,
+    "listed_count": 34,
+    "created_at": "Sun Feb 22 06:50:47 +0000 2009",
+    "favourites_count": 21,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 29279,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/370887564/jtblogo.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/370887564/jtblogo.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3180573073/a9aaa14762791a07f6cd7c9bd8df3b5f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3180573073/a9aaa14762791a07f6cd7c9bd8df3b5f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/21551281/1356535557",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BREAKINGNEWS",
+        "indices": [
+          20,
+          33
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          86,
+          90
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/0jBUhdrJ",
+        "expanded_url": "http://wapo.st/Le1lKO",
+        "display_url": "wapo.st/Le1lKO",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

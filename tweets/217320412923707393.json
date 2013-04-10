@@ -1,0 +1,133 @@
+{
+  "created_at": "Mon Jun 25 18:16:38 +0000 2012",
+  "id": 217320412923707393,
+  "id_str": "217320412923707393",
+  "text": "RT @UVA: Darden Dean @Bob_Bruner  weighs in on erroneous @WSJ editorial, among other untruths. #uva http://t.co/Ac8xljgA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15967675,
+    "id_str": "15967675",
+    "name": "Linda Abraham",
+    "screen_name": "Accepted",
+    "location": "Los Angeles, California",
+    "description": "Accepted.com, premier admissions consulting and application editing since 1994. Free resource for applicants to colleges and MBA, law, med, and grad schools.",
+    "url": "http://www.accepted.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.accepted.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5465,
+    "friends_count": 3808,
+    "listed_count": 245,
+    "created_at": "Sun Aug 24 09:31:51 +0000 2008",
+    "favourites_count": 128,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8991,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/323314996/Accepted_Background.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/323314996/Accepted_Background.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2707859251/fc2b1ef316a770a3a8b87f03ca356662_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2707859251/fc2b1ef316a770a3a8b87f03ca356662_normal.png",
+    "profile_link_color": "134AC2",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          95,
+          99
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Ac8xljgA",
+        "expanded_url": "http://bit.ly/LvrQy6",
+        "display_url": "bit.ly/LvrQy6",
+        "indices": [
+          100,
+          120
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          3,
+          7
+        ]
+      },
+      {
+        "screen_name": "Bob_Bruner",
+        "name": "Bob_Bruner",
+        "id": 15407235,
+        "id_str": "15407235",
+        "indices": [
+          21,
+          32
+        ]
+      },
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          57,
+          61
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

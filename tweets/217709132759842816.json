@@ -1,0 +1,100 @@
+{
+  "created_at": "Tue Jun 26 20:01:16 +0000 2012",
+  "id": 217709132759842816,
+  "id_str": "217709132759842816",
+  "text": "http://t.co/AkfdRhHJ #UVA #Wahoowa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 337332339,
+    "id_str": "337332339",
+    "name": "Lauren",
+    "screen_name": "WardLauren",
+    "location": "",
+    "description": "War Eagle! Jeremiah 29:11 ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 186,
+    "friends_count": 333,
+    "listed_count": 1,
+    "created_at": "Sun Jul 17 21:20:50 +0000 2011",
+    "favourites_count": 491,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2290,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "050505",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/676820617/13ba5693a483a2cce9b3fbc45eb0d709.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/676820617/13ba5693a483a2cce9b3fbc45eb0d709.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1880442488/Jenn_3_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1880442488/Jenn_3_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/337332339/1359733281",
+    "profile_link_color": "D141CC",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "030303",
+    "profile_text_color": "8CBFF2",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          21,
+          25
+        ]
+      },
+      {
+        "text": "Wahoowa",
+        "indices": [
+          26,
+          34
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/AkfdRhHJ",
+        "expanded_url": "http://www.wavy.com/dpp/news/virginia/uva-board-reinstates-ousted-president",
+        "display_url": "wavy.com/dpp/news/virgi…",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

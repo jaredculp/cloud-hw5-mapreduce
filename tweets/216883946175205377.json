@@ -1,0 +1,113 @@
+{
+  "created_at": "Sun Jun 24 13:22:16 +0000 2012",
+  "id": 216883946175205377,
+  "id_str": "216883946175205377",
+  "text": "RT @zachdcarter: First the financial crisis, then Citizens United and now, #UVA : http://t.co/342go9pG",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 7591572,
+    "id_str": "7591572",
+    "name": "Adam Smith",
+    "screen_name": "asmith83",
+    "location": "ÜT: 38.90544,-77.041408",
+    "description": "Politics. Campaign Reform. Gays. Pop Culture. Comm. Director at @publicampaign and @pcactionfund. Texts from Hillary co-creator. Gchat: adamsmith4",
+    "url": "http://www.facebook.com/adamsmith4",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/adamsmith4",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4591,
+    "friends_count": 1176,
+    "listed_count": 176,
+    "created_at": "Thu Jul 19 18:08:40 +0000 2007",
+    "favourites_count": 38,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 23451,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3039524875/4e6bf1f9d90bd59a3582915b10a8f554_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3039524875/4e6bf1f9d90bd59a3582915b10a8f554_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          75,
+          79
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/342go9pG",
+        "expanded_url": "http://huff.to/OerIpJ",
+        "display_url": "huff.to/OerIpJ",
+        "indices": [
+          82,
+          102
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "zachdcarter",
+        "name": "Zach Carter",
+        "id": 17119688,
+        "id_str": "17119688",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

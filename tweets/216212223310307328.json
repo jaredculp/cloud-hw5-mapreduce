@@ -1,0 +1,101 @@
+{
+  "created_at": "Fri Jun 22 16:53:05 +0000 2012",
+  "id": 216212223310307328,
+  "id_str": "216212223310307328",
+  "text": "Really great interview with #uva professor @sivavaid Take the time to listen. http://t.co/m8Fts01n",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16723612,
+    "id_str": "16723612",
+    "name": "jclaireva",
+    "screen_name": "jclaireva",
+    "location": "Charlottesville, VA",
+    "description": "nerdy phd passionate about education",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 53,
+    "friends_count": 125,
+    "listed_count": 3,
+    "created_at": "Mon Oct 13 17:09:50 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 758,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/20014543/IMG_2217.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/20014543/IMG_2217.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1829519000/jur_fall_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1829519000/jur_fall_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/m8Fts01n",
+        "expanded_url": "http://www.wina.com/play_window.php?audioType=Episode&audioId=5906176",
+        "display_url": "wina.com/play_window.ph…",
+        "indices": [
+          78,
+          98
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          43,
+          52
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

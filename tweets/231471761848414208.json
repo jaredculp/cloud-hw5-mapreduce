@@ -1,0 +1,92 @@
+{
+  "created_at": "Fri Aug 03 19:29:03 +0000 2012",
+  "id": 231471761848414208,
+  "id_str": "231471761848414208",
+  "text": "@JPickral More from #UVa QB Michael Rocco: \"I believe it’s my job to lose, and I’m not going to lose it. \" -- David Teel",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 278652968,
+  "in_reply_to_user_id_str": "278652968",
+  "in_reply_to_screen_name": "JPickral",
+  "user": {
+    "id": 185473712,
+    "id_str": "185473712",
+    "name": "Coastal Hokie",
+    "screen_name": "CoastalHokie",
+    "location": "Richmond, VA",
+    "description": "VT Fan",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 46,
+    "friends_count": 490,
+    "listed_count": 0,
+    "created_at": "Wed Sep 01 02:01:17 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 173,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/323503384/wilson.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/323503384/wilson.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1114960950/VT_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1114960950/VT_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JPickral",
+        "name": "James Pickral",
+        "id": 278652968,
+        "id_str": "278652968",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,151 @@
+{
+  "created_at": "Tue Aug 28 12:38:33 +0000 2012",
+  "id": 240428154320216065,
+  "id_str": "240428154320216065",
+  "text": "La volpe e l'uva, a true story. #volpe #uva #esopo   @ in vigna http://t.co/9SkPif0A",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 493288019,
+    "id_str": "493288019",
+    "name": "ginevra vittoria",
+    "screen_name": "gin_vit",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 40,
+    "friends_count": 30,
+    "listed_count": 0,
+    "created_at": "Wed Feb 15 16:58:02 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 166,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2345697297/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2345697297/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      39.52879333,
+      9.13344193
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      9.13344193,
+      39.52879333
+    ]
+  },
+  "place": {
+    "id": "a7bdda952ea3af9e",
+    "url": "https://api.twitter.com/1.1/geo/id/a7bdda952ea3af9e.json",
+    "place_type": "city",
+    "name": "Senorbì",
+    "full_name": "Senorbì, Cagliari",
+    "country_code": "IT",
+    "country": "Italy",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            9.1078,
+            39.48574
+          ],
+          [
+            9.17767,
+            39.48574
+          ],
+          [
+            9.17767,
+            39.582001
+          ],
+          [
+            9.1078,
+            39.582001
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "volpe",
+        "indices": [
+          32,
+          38
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          39,
+          43
+        ]
+      },
+      {
+        "text": "esopo",
+        "indices": [
+          44,
+          50
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/9SkPif0A",
+        "expanded_url": "http://instagr.am/p/O3zw04iPX_/",
+        "display_url": "instagr.am/p/O3zw04iPX_/",
+        "indices": [
+          64,
+          84
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

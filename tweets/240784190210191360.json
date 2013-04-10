@@ -1,0 +1,83 @@
+{
+  "created_at": "Wed Aug 29 12:13:19 +0000 2012",
+  "id": 240784190210191360,
+  "id_str": "240784190210191360",
+  "text": "Day 2 of classes. #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16988503,
+    "id_str": "16988503",
+    "name": "Adam Pearce",
+    "screen_name": "apear319",
+    "location": "Virginia, United States",
+    "description": "Musician. Student. Nerd. Heretic. In a relationship: @elaineeeb. #UVa ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 108,
+    "friends_count": 129,
+    "listed_count": 0,
+    "created_at": "Sun Oct 26 23:59:55 +0000 2008",
+    "favourites_count": 98,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1285,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/67924258/x5eacbcc45f08c450eab4d5fd72e9bb1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/67924258/x5eacbcc45f08c450eab4d5fd72e9bb1.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1667153925/320567_10150291351050139_512055138_7701582_789450_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1667153925/320567_10150291351050139_512055138_7701582_789450_n_normal.jpg",
+    "profile_link_color": "0020BF",
+    "profile_sidebar_border_color": "00AEFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "005EFF",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          18,
+          22
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

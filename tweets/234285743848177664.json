@@ -1,0 +1,87 @@
+{
+  "created_at": "Sat Aug 11 13:50:48 +0000 2012",
+  "id": 234285743848177664,
+  "id_str": "234285743848177664",
+  "text": "@Greg_Strine It's because they are black.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 234104129541251072,
+  "in_reply_to_status_id_str": "234104129541251072",
+  "in_reply_to_user_id": 390790897,
+  "in_reply_to_user_id_str": "390790897",
+  "in_reply_to_screen_name": "Greg_Strine",
+  "user": {
+    "id": 377698196,
+    "id_str": "377698196",
+    "name": "Glen Coco",
+    "screen_name": "hnnhchrstnsn",
+    "location": "Pinckney Michigan",
+    "description": "On a scale of 1 to America, how free are you tonight?",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 176,
+    "friends_count": 77,
+    "listed_count": 0,
+    "created_at": "Thu Sep 22 00:00:52 +0000 2011",
+    "favourites_count": 148,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3209,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4B368F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/426455378/violentlust.tumblr.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/426455378/violentlust.tumblr.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3172900724/54a06a1085b93f4ab6434650a4daf380_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3172900724/54a06a1085b93f4ab6434650a4daf380_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/377698196/1359384873",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "A487A6",
+    "profile_sidebar_fill_color": "C7AAA2",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Greg_Strine",
+        "name": "Greg Strine",
+        "id": 390790897,
+        "id_str": "390790897",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

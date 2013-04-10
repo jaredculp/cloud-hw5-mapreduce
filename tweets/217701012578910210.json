@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 19:29:00 +0000 2012",
+  "id": 217701012578910210,
+  "id_str": "217701012578910210",
+  "text": "Well there u go // RT @wpjenna: Teresa Sullivan is unanimously reinstated as president of #UVA. The Lawn erupts in cheers.",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16930125,
+    "id_str": "16930125",
+    "name": "Ed O'Keefe",
+    "screen_name": "edatpost",
+    "location": "Washington, D.C.",
+    "description": "Congressional reporter with The Washington Post. D.C. resident and Upstate N.Y. native. RTs don't equal endorsements.",
+    "url": "http://t.co/wKcJdI6J",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/wKcJdI6J",
+            "expanded_url": "http://www.washingtonpost.com/blogs/post-politics/",
+            "display_url": "washingtonpost.com/blogs/post-pol…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 9589,
+    "friends_count": 4155,
+    "listed_count": 658,
+    "created_at": "Thu Oct 23 16:47:50 +0000 2008",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13943,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2987542016/48a4f7801051bd7081aaac16b7313aa2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2987542016/48a4f7801051bd7081aaac16b7313aa2_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          90,
+          94
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          22,
+          30
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

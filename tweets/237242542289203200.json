@@ -1,0 +1,128 @@
+{
+  "created_at": "Sun Aug 19 17:40:04 +0000 2012",
+  "id": 237242542289203200,
+  "id_str": "237242542289203200",
+  "text": "RT @HCabreraR: #uva #progreso #yucatan   @ The Progreso beach http://t.co/EC5hYse0",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 152716073,
+    "id_str": "152716073",
+    "name": "Ernesto Martinez",
+    "screen_name": "lnetomartinez",
+    "location": "",
+    "description": "Diputado Local del IX Distrito, Mi compromiso es con ustedes que me dieron su confianza y apoyo. #FraccionParlamentariaPRI",
+    "url": "http://www.facebook.com/martinezordaz",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/martinezordaz",
+            "expanded_url": null,
+            "indices": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1995,
+    "friends_count": 817,
+    "listed_count": 21,
+    "created_at": "Sun Jun 06 17:58:10 +0000 2010",
+    "favourites_count": 8,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8729,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/717618599/a9c17fda436c66344d710e04ed7382db.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/717618599/a9c17fda436c66344d710e04ed7382db.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2878135059/5a31ddd70845ab20a67fc8a4132eac01_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2878135059/5a31ddd70845ab20a67fc8a4132eac01_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/152716073/1353506096",
+    "profile_link_color": "184D0D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          15,
+          19
+        ]
+      },
+      {
+        "text": "progreso",
+        "indices": [
+          20,
+          29
+        ]
+      },
+      {
+        "text": "yucatan",
+        "indices": [
+          30,
+          38
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/EC5hYse0",
+        "expanded_url": "http://instagr.am/p/OhKjZEPHyX/",
+        "display_url": "instagr.am/p/OhKjZEPHyX/",
+        "indices": [
+          62,
+          82
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HCabreraR",
+        "name": "Héctor Cabrera",
+        "id": 86786679,
+        "id_str": "86786679",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 06:35:52 +0000 2012",
+  "id": 214969731189444608,
+  "id_str": "214969731189444608",
+  "text": "@LarrySabato what are you doing at 2:30 eastern standard time in the morning?",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 214969485537456129,
+  "in_reply_to_status_id_str": "214969485537456129",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 142000831,
+    "id_str": "142000831",
+    "name": "Beanie Sigel",
+    "screen_name": "KyleBusboom",
+    "location": "Phoenix, Arizona",
+    "description": "Capitalist Pig, Give me some Private Sector and Husker Football. Enough Said. Tweets are mine not Target Corp.",
+    "url": "http://www.drudgereport.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.drudgereport.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 229,
+    "friends_count": 392,
+    "listed_count": 8,
+    "created_at": "Sun May 09 17:06:29 +0000 2010",
+    "favourites_count": 136,
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9023,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/524966700/2927548.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/524966700/2927548.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3147009623/79d28ff48204a70c190d41ff57a67e4a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3147009623/79d28ff48204a70c190d41ff57a67e4a_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/142000831/1349671782",
+    "profile_link_color": "080000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

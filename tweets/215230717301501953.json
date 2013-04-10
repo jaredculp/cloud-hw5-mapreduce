@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 19 23:52:56 +0000 2012",
+  "id": 215230717301501953,
+  "id_str": "215230717301501953",
+  "text": "@karikraus @dancohen later tweet suggests someone thinks stanford made money on its free courses to non-students? #uva https://t.co/q4pyIWso",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215229785331343360,
+  "in_reply_to_status_id_str": "215229785331343360",
+  "in_reply_to_user_id": 49489995,
+  "in_reply_to_user_id_str": "49489995",
+  "in_reply_to_screen_name": "karikraus",
+  "user": {
+    "id": 29558718,
+    "id_str": "29558718",
+    "name": "Susan Garfinkel",
+    "screen_name": "footnotesrising",
+    "location": "Washington, D.C.",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 766,
+    "friends_count": 568,
+    "listed_count": 90,
+    "created_at": "Tue Apr 07 22:04:49 +0000 2009",
+    "favourites_count": 128,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5959,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/275068451/morderneicon_sm_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/275068451/morderneicon_sm_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "1DEBE1",
+    "profile_sidebar_fill_color": "CCFDFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          114,
+          118
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/q4pyIWso",
+        "expanded_url": "https://twitter.com/cavalierdaily/status/215227378274807808",
+        "display_url": "twitter.com/cavalierdaily/…",
+        "indices": [
+          119,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "karikraus",
+        "name": "Kari Kraus",
+        "id": 49489995,
+        "id_str": "49489995",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "dancohen",
+        "name": "Dan Cohen",
+        "id": 14181097,
+        "id_str": "14181097",
+        "indices": [
+          11,
+          20
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

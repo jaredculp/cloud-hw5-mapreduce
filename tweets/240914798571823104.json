@@ -1,0 +1,158 @@
+{
+  "created_at": "Wed Aug 29 20:52:19 +0000 2012",
+  "id": 240914798571823104,
+  "id_str": "240914798571823104",
+  "text": "We zijn klaar voor de nieuwe lading toeristen #UvA #introweek draaien @Westergas #thegteam http://t.co/OlMy6vfw",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25498463,
+    "id_str": "25498463",
+    "name": "Peter van Vught",
+    "screen_name": "petervanvught",
+    "location": "Amsterdam",
+    "description": "CLUB NYX | MILKSHAKE FESTIVAL | DJ THE G-TEAM",
+    "url": "http://www.clubnyx.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.clubnyx.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 602,
+    "friends_count": 193,
+    "listed_count": 4,
+    "created_at": "Fri Mar 20 12:56:06 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1806,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/670663264/48ab437087fccdcdf2604d40c90ece13.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/670663264/48ab437087fccdcdf2604d40c90ece13.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2661615399/a8bcdeb2bb53639624da91dea023819c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2661615399/a8bcdeb2bb53639624da91dea023819c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/25498463/1351462956",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          46,
+          50
+        ]
+      },
+      {
+        "text": "introweek",
+        "indices": [
+          51,
+          61
+        ]
+      },
+      {
+        "text": "thegteam",
+        "indices": [
+          81,
+          90
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "westergas",
+        "name": "Westergasfabriek",
+        "id": 14496056,
+        "id_str": "14496056",
+        "indices": [
+          70,
+          80
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 240914798576017408,
+        "id_str": "240914798576017408",
+        "indices": [
+          91,
+          111
+        ],
+        "media_url": "http://pbs.twimg.com/media/A1fmu55CIAA9qUl.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A1fmu55CIAA9qUl.jpg",
+        "url": "http://t.co/OlMy6vfw",
+        "display_url": "pic.twitter.com/OlMy6vfw",
+        "expanded_url": "http://twitter.com/petervanvught/status/240914798571823104/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 765,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 254,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 448,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

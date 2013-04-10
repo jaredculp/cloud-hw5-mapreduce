@@ -1,0 +1,104 @@
+{
+  "created_at": "Sat Jun 23 15:14:06 +0000 2012",
+  "id": 216549699908411392,
+  "id_str": "216549699908411392",
+  "text": "For the latest insights about the #UVA situation, follow @LarrySabato. I love how the media are now quoting his Tweets.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18586048,
+    "id_str": "18586048",
+    "name": "Jonathan Rhudy, APR",
+    "screen_name": "jonathan_rhudy",
+    "location": "Richmond, VA",
+    "description": "Jonathan lives with four ladies in burbs of Richmond. When he's not consulting clients for Rhudy and Co. (a PR firm) or chasing after his 3 girls, he's running.",
+    "url": "http://www.rhudy.biz",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.rhudy.biz",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1061,
+    "friends_count": 2002,
+    "listed_count": 39,
+    "created_at": "Sat Jan 03 20:20:07 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4229,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1611033850/Twitter_-_Jonathan_Rhudy_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1611033850/Twitter_-_Jonathan_Rhudy_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          57,
+          69
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

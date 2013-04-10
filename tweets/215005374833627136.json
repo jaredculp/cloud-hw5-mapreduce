@@ -1,0 +1,138 @@
+{
+  "created_at": "Tue Jun 19 08:57:30 +0000 2012",
+  "id": 215005374833627136,
+  "id_str": "215005374833627136",
+  "text": "For more in-depth &amp; personal coverage of the UVA drama: @cavalierdaily @MrJefferson_UVa @LarrySabato @sivavaid @Barber_Tiki @readthehook",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 23024029,
+    "id_str": "23024029",
+    "name": "Taurus Education",
+    "screen_name": "tauruseducation",
+    "location": "Shanghai",
+    "description": "A fast-growing education startup in China",
+    "url": "http://www.tauruseducation.com/home.htm",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.tauruseducation.com/home.htm",
+            "expanded_url": null,
+            "indices": [
+              0,
+              39
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 276,
+    "friends_count": 144,
+    "listed_count": 4,
+    "created_at": "Fri Mar 06 03:33:06 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": 28800,
+    "time_zone": "Beijing",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 245,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BBBDFC",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/14076563/Taurus_Twitter2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/14076563/Taurus_Twitter2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/88903226/Taurus_Logo_T_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/88903226/Taurus_Logo_T_normal.JPG",
+    "profile_link_color": "16CFF8",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EEEDED",
+    "profile_text_color": "000E70",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          60,
+          74
+        ]
+      },
+      {
+        "screen_name": "MrJefferson_UVa",
+        "name": "Thomas Jefferson",
+        "id": 132633456,
+        "id_str": "132633456",
+        "indices": [
+          75,
+          91
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          92,
+          104
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          105,
+          114
+        ]
+      },
+      {
+        "screen_name": "readthehook",
+        "name": "The Hook newspaper",
+        "id": 34417310,
+        "id_str": "34417310",
+        "indices": [
+          128,
+          140
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

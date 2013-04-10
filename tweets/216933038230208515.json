@@ -1,0 +1,115 @@
+{
+  "created_at": "Sun Jun 24 16:37:21 +0000 2012",
+  "id": 216933038230208515,
+  "id_str": "216933038230208515",
+  "text": "Even @CatFoodBreath just smiled! MT @amandafrench: I was going to #Rally4Honor today, but I'm going to pick up 2 kittens to foster instead.”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15918195,
+    "id_str": "15918195",
+    "name": "Rosemary G. Feal",
+    "screen_name": "rgfeal",
+    "location": "New York",
+    "description": "I am the executive director of the Modern Language Association. Follow @MLAconvention for meeting information and @MLAnews for association updates.",
+    "url": "http://www.mla.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mla.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1494,
+    "friends_count": 410,
+    "listed_count": 57,
+    "created_at": "Wed Aug 20 14:45:38 +0000 2008",
+    "favourites_count": 533,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14903,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1884889567/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1884889567/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/15918195/1354422241",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Rally4Honor",
+        "indices": [
+          66,
+          78
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CatFoodBreath",
+        "name": "Cat Food Breath",
+        "id": 183854047,
+        "id_str": "183854047",
+        "indices": [
+          5,
+          19
+        ]
+      },
+      {
+        "screen_name": "amandafrench",
+        "name": "Amanda French",
+        "id": 6361722,
+        "id_str": "6361722",
+        "indices": [
+          36,
+          49
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

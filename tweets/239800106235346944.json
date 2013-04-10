@@ -1,0 +1,102 @@
+{
+  "created_at": "Sun Aug 26 19:02:55 +0000 2012",
+  "id": 239800106235346944,
+  "id_str": "239800106235346944",
+  "text": "oh. how did i miss this? RT @UVA: What went into #UVa decision to decline Obama campaign request? Full statement here: http://t.co/Jrxd8RpY",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26689324,
+    "id_str": "26689324",
+    "name": "dk",
+    "screen_name": "ohheyitsdk",
+    "location": "san francisco, apparently",
+    "description": "new to sf by way of dc, saying yes to everything. enjoys posing as a music fiend, art aficionado, foodie, style fanatic, pop culture guru. is none of the above.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 218,
+    "friends_count": 164,
+    "listed_count": 8,
+    "created_at": "Thu Mar 26 04:35:04 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2542,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EF5283",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/32687265/dk2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/32687265/dk2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2530509120/07nbqd4b7px06swz1mwr_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2530509120/07nbqd4b7px06swz1mwr_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/26689324/1350570519",
+    "profile_link_color": "1F6DB1",
+    "profile_sidebar_border_color": "25C237",
+    "profile_sidebar_fill_color": "F279D6",
+    "profile_text_color": "66615E",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          49,
+          53
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Jrxd8RpY",
+        "expanded_url": "http://bit.ly/OjpjF7",
+        "display_url": "bit.ly/OjpjF7",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

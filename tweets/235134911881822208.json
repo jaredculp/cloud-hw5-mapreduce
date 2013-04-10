@@ -1,0 +1,134 @@
+{
+  "created_at": "Mon Aug 13 22:05:06 +0000 2012",
+  "id": 235134911881822208,
+  "id_str": "235134911881822208",
+  "text": "#UVA athletes kicked ass in the #Olympics as part of Team #USA. And 10 golds for #Standford! Wow! @TheUVAFool http://t.co/t4YfLKNT",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15518881,
+    "id_str": "15518881",
+    "name": "Brett",
+    "screen_name": "Slobberchops",
+    "location": "Ohio",
+    "description": "Symbolic analyst, military veteran, Dad, occasional triathlete, homebrewer. I'm just a simple man, trying to make my way in the universe.",
+    "url": "http://homebrewedtriathlete.tumblr.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://homebrewedtriathlete.tumblr.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              39
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 183,
+    "friends_count": 466,
+    "listed_count": 4,
+    "created_at": "Mon Jul 21 18:40:19 +0000 2008",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1278,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/26424061/westvleteren_glasses.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/26424061/westvleteren_glasses.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1356677856/beer_bottling_avatar_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1356677856/beer_bottling_avatar_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Olympics",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "USA",
+        "indices": [
+          58,
+          62
+        ]
+      },
+      {
+        "text": "Standford",
+        "indices": [
+          81,
+          91
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/t4YfLKNT",
+        "expanded_url": "http://ow.ly/cVKNi",
+        "display_url": "ow.ly/cVKNi",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          98,
+          109
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

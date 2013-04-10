@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Aug 08 17:12:45 +0000 2012",
+  "id": 233249401429180418,
+  "id_str": "233249401429180418",
+  "text": "RT @dp_citybeat: Man convicted of rape at 1989 #UVa graduation found not guilty of stalking after recent parole release http://t.co/xvdImBw8",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 525557646,
+    "id_str": "525557646",
+    "name": "Samantha Koon",
+    "screen_name": "DailyProgSam",
+    "location": "Charlottesville, Virginia",
+    "description": "@DailyProgress reporter covering the justice system.",
+    "url": "http://dailyprogress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://dailyprogress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 115,
+    "friends_count": 205,
+    "listed_count": 11,
+    "created_at": "Thu Mar 15 17:12:33 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 116,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3117920519/a75b862a2f5b94b99df5934a79da4cb1_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3117920519/a75b862a2f5b94b99df5934a79da4cb1_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xvdImBw8",
+        "expanded_url": "http://bit.ly/OMbAaD",
+        "display_url": "bit.ly/OMbAaD",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

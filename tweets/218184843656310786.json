@@ -1,0 +1,197 @@
+{
+  "created_at": "Thu Jun 28 03:31:35 +0000 2012",
+  "id": 218184843656310786,
+  "id_str": "218184843656310786",
+  "text": "RT @troxideux: http://t.co/mAjrkDR8 Steele Stanwick #UVA",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13924482,
+    "id_str": "13924482",
+    "name": "Steinar Knutsen",
+    "screen_name": "steinarknutsen",
+    "location": "Charlottesville, VA",
+    "description": "Digital Media",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2686,
+    "friends_count": 1227,
+    "listed_count": 122,
+    "created_at": "Mon Feb 25 02:34:40 +0000 2008",
+    "favourites_count": 620,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 12244,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3159573697/c261f79a0c24d76a268327cd4dec42c8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3159573697/c261f79a0c24d76a268327cd4dec42c8_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sat Jun 23 17:26:53 +0000 2012",
+    "id": 216583117996179456,
+    "id_str": "216583117996179456",
+    "text": "http://t.co/mAjrkDR8 Steele Stanwick #UVA",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 245813543,
+      "id_str": "245813543",
+      "name": "Travis Ward",
+      "screen_name": "wallstreetward",
+      "location": "Washington, DC",
+      "description": "I am always thinking one step ahead, like a carpenter, that makes stairs. #FERDA",
+      "url": "http://www.youtube.com/watch?v=kg-TfjIfqjo",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.youtube.com/watch?v=kg-TfjIfqjo",
+              "expanded_url": null,
+              "indices": [
+                0,
+                42
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 311,
+      "friends_count": 305,
+      "listed_count": 1,
+      "created_at": "Tue Feb 01 14:45:12 +0000 2011",
+      "favourites_count": 1809,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12289,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/729190614/e392e79b8719e0774a0bccf2298a09a9.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/729190614/e392e79b8719e0774a0bccf2298a09a9.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3171689851/25f0eb8f00a245ce662123d3a5ffb8f7_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3171689851/25f0eb8f00a245ce662123d3a5ffb8f7_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/245813543/1359321585",
+      "profile_link_color": "E00000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVA",
+          "indices": [
+            37,
+            41
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/mAjrkDR8",
+          "expanded_url": "http://instagr.am/p/MOVLdHL5q_/",
+          "display_url": "instagr.am/p/MOVLdHL5q_/",
+          "indices": [
+            0,
+            20
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          52,
+          56
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/mAjrkDR8",
+        "expanded_url": "http://instagr.am/p/MOVLdHL5q_/",
+        "display_url": "instagr.am/p/MOVLdHL5q_/",
+        "indices": [
+          15,
+          35
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

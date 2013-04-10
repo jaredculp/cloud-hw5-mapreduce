@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 19 17:28:53 +0000 2012",
+  "id": 215134066503204865,
+  "id_str": "215134066503204865",
+  "text": "@amasays Agreed. Believe strongly that the corporate way of doing things is dangerous in non-corporate spheres. Hope #UVa can make a stand.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215132116692901888,
+  "in_reply_to_status_id_str": "215132116692901888",
+  "in_reply_to_user_id": 17700609,
+  "in_reply_to_user_id_str": "17700609",
+  "in_reply_to_screen_name": "amasays",
+  "user": {
+    "id": 18107153,
+    "id_str": "18107153",
+    "name": "Cole Sletten",
+    "screen_name": "colesletten",
+    "location": "Denver, CO, USA, Earth",
+    "description": "Experienced designer working where interactive and branding overlap. Friend, maven and (European) football obsessive—usually in that order.",
+    "url": "http://www.colesletten.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.colesletten.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 141,
+    "friends_count": 417,
+    "listed_count": 6,
+    "created_at": "Sat Dec 13 23:33:17 +0000 2008",
+    "favourites_count": 35,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 292,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2680094860/0ead811edb5bb4556c5c5a50b3c90e4d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2680094860/0ead811edb5bb4556c5c5a50b3c90e4d_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          117,
+          121
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "amasays",
+        "name": "Anne-Marie Angelo",
+        "id": 17700609,
+        "id_str": "17700609",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

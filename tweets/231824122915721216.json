@@ -1,0 +1,103 @@
+{
+  "created_at": "Sat Aug 04 18:49:12 +0000 2012",
+  "id": 231824122915721216,
+  "id_str": "231824122915721216",
+  "text": "welcome back #uva! eloise summer sale is now 75% off! and there's a restocked $20 bin too. come do a little saturday shopping, #cville!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 44726985,
+    "id_str": "44726985",
+    "name": "eloise",
+    "screen_name": "shopeloise",
+    "location": "Charlottesville, VA",
+    "description": "A store that appreciates the fun of fashion.  Come play dress up.",
+    "url": "http://shopeloise.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://shopeloise.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 276,
+    "friends_count": 306,
+    "listed_count": 9,
+    "created_at": "Thu Jun 04 21:19:04 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 324,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/16771946/IMG_1532.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/16771946/IMG_1532.JPG",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2489742839/address-trio_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2489742839/address-trio_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/44726985/1356030809",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          13,
+          17
+        ]
+      },
+      {
+        "text": "cville",
+        "indices": [
+          127,
+          134
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

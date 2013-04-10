@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jun 26 19:27:20 +0000 2012",
+  "id": 217700592229941248,
+  "id_str": "217700592229941248",
+  "text": "@KrystalBall1 UVA decision on Pres. Sullivan due this afternoon during #TheCycle. #BOV #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 21862217,
+  "in_reply_to_user_id_str": "21862217",
+  "in_reply_to_screen_name": "KrystalBall1",
+  "user": {
+    "id": 15963922,
+    "id_str": "15963922",
+    "name": "divalicias",
+    "screen_name": "divalicias",
+    "location": "Washington DC",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 172,
+    "friends_count": 552,
+    "listed_count": 5,
+    "created_at": "Sun Aug 24 02:14:27 +0000 2008",
+    "favourites_count": 45,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1297,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/4764203/phone_0072.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/4764203/phone_0072.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/343056210/madmen_icon_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/343056210/madmen_icon_normal.jpg",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "TheCycle",
+        "indices": [
+          71,
+          80
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          82,
+          86
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          87,
+          91
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "KrystalBall1",
+        "name": "Krystal Ball",
+        "id": 21862217,
+        "id_str": "21862217",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

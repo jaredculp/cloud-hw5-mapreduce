@@ -1,0 +1,117 @@
+{
+  "created_at": "Mon Jul 02 16:49:47 +0000 2012",
+  "id": 219835270118383617,
+  "id_str": "219835270118383617",
+  "text": "Expect more situations like #UVA? http://t.co/kLzyFTaw @baltimoresun finds lessons for public #highered in USM approach http://t.co/YXNr7DNE",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 355561715,
+    "id_str": "355561715",
+    "name": "Elyse Ashburn",
+    "screen_name": "elyseashburn",
+    "location": "",
+    "description": "Director of communications at UMBC and former senior editor at The Chronicle of Higher Education. Tweets are my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 103,
+    "friends_count": 55,
+    "listed_count": 6,
+    "created_at": "Mon Aug 15 15:08:09 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 127,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1683439130/ea_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1683439130/ea_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          28,
+          32
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          94,
+          103
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/kLzyFTaw",
+        "expanded_url": "http://bit.ly/KWl0T1",
+        "display_url": "bit.ly/KWl0T1",
+        "indices": [
+          34,
+          54
+        ]
+      },
+      {
+        "url": "http://t.co/YXNr7DNE",
+        "expanded_url": "http://bsun.md/MOfZZB",
+        "display_url": "bsun.md/MOfZZB",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "baltimoresun",
+        "name": "The Baltimore Sun",
+        "id": 8861752,
+        "id_str": "8861752",
+        "indices": [
+          55,
+          68
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

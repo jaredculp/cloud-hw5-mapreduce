@@ -1,0 +1,215 @@
+{
+  "created_at": "Tue Jun 19 04:07:01 +0000 2012",
+  "id": 214932270195294209,
+  "id_str": "214932270195294209",
+  "text": "RT @WhizChem: #BOV: It's 12:01. Voldemort declined interim presidency. #HoosforSullivan #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 6139402,
+    "id_str": "6139402",
+    "name": "Anand Rao",
+    "screen_name": "AnandRao",
+    "location": "Fredericksburg, VA",
+    "description": "New wave and Old school - at the same time.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 372,
+    "friends_count": 290,
+    "listed_count": 5,
+    "created_at": "Fri May 18 14:49:38 +0000 2007",
+    "favourites_count": 9,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1282,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/4652562/FreeTwitterDesigner.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/4652562/FreeTwitterDesigner.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2030311977/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2030311977/image_normal.jpg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 19 04:04:22 +0000 2012",
+    "id": 214931603825242112,
+    "id_str": "214931603825242112",
+    "text": "#BOV: It's 12:01. Voldemort declined interim presidency. #HoosforSullivan #UVa",
+    "source": "<a href=\"http://seesmic.com/\" rel=\"nofollow\">Seesmic</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 49633388,
+      "id_str": "49633388",
+      "name": "Old Alchemist",
+      "screen_name": "WhizChem",
+      "location": "North Carolina",
+      "description": "Chemist, editor, writer, journalist, webmaster, apprentice fashionista, and humorist. Proud ACLU Guardian of Liberty. Opinions mine alone.",
+      "url": "http://quantum0zen.wordpress.com/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://quantum0zen.wordpress.com/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                33
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4182,
+      "friends_count": 4596,
+      "listed_count": 181,
+      "created_at": "Mon Jun 22 13:51:47 +0000 2009",
+      "favourites_count": 364,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 88389,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/222792674/x2dbd190b87bfb9861f98f3c9b74e097.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/222792674/x2dbd190b87bfb9861f98f3c9b74e097.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1313785699/332b0d19-1eba-4c88-8bbf-1d5d6b197d73_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1313785699/332b0d19-1eba-4c88-8bbf-1d5d6b197d73_normal.png",
+      "profile_link_color": "FA0202",
+      "profile_sidebar_border_color": "FFF501",
+      "profile_sidebar_fill_color": "E0F7FF",
+      "profile_text_color": "0A0C3A",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BOV",
+          "indices": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "HoosforSullivan",
+          "indices": [
+            57,
+            73
+          ]
+        },
+        {
+          "text": "UVa",
+          "indices": [
+            74,
+            78
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          14,
+          18
+        ]
+      },
+      {
+        "text": "HoosforSullivan",
+        "indices": [
+          71,
+          87
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          88,
+          92
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WhizChem",
+        "name": "Old Alchemist",
+        "id": 49633388,
+        "id_str": "49633388",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

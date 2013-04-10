@@ -1,0 +1,121 @@
+{
+  "created_at": "Thu Jun 21 18:38:07 +0000 2012",
+  "id": 215876266459541507,
+  "id_str": "215876266459541507",
+  "text": "Well written and well argued RT @LeftCoastRyan A great @TNR piece by @KevinCarey1 on the #UVA debacle: http://t.co/HtbamjvV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 27224962,
+    "id_str": "27224962",
+    "name": "Melissa Silverman",
+    "screen_name": "melissasilv",
+    "location": "Washington, D.C. ",
+    "description": "All views expressed are solely my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 68,
+    "friends_count": 127,
+    "listed_count": 0,
+    "created_at": "Sat Mar 28 13:11:01 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 191,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1788529206/shoesedit_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1788529206/shoesedit_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          89,
+          93
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/HtbamjvV",
+        "expanded_url": "http://bit.ly/LmgOez",
+        "display_url": "bit.ly/LmgOez",
+        "indices": [
+          103,
+          123
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LeftCoastRyan",
+        "name": "Ryan Hughes",
+        "id": 15847053,
+        "id_str": "15847053",
+        "indices": [
+          32,
+          46
+        ]
+      },
+      {
+        "screen_name": "tnr",
+        "name": "The New Republic",
+        "id": 82689705,
+        "id_str": "82689705",
+        "indices": [
+          55,
+          59
+        ]
+      },
+      {
+        "screen_name": "kevincarey1",
+        "name": "Kevin Carey",
+        "id": 66468564,
+        "id_str": "66468564",
+        "indices": [
+          69,
+          81
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

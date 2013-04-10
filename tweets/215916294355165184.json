@@ -1,0 +1,122 @@
+{
+  "created_at": "Thu Jun 21 21:17:10 +0000 2012",
+  "id": 215916294355165184,
+  "id_str": "215916294355165184",
+  "text": "This. 10,000x this. RT @chronicle The worrisome ascendance of business in #highered: http://t.co/IC2sNnEH #UVA #Sullivan #fb",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 237563463,
+    "id_str": "237563463",
+    "name": "Michael Spires",
+    "screen_name": "historianmjs",
+    "location": "",
+    "description": "Born to be an anomaly, working in research administration. Want to get back to my history Ph.D. when I have time. My personal Twitter = only my opinions here.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 242,
+    "friends_count": 419,
+    "listed_count": 8,
+    "created_at": "Thu Jan 13 03:29:31 +0000 2011",
+    "favourites_count": 404,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 20271,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/521195028/DSC_6716w.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/521195028/DSC_6716w.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1245834420/musing85camera_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1245834420/musing85camera_normal.jpg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "highered",
+        "indices": [
+          74,
+          83
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          106,
+          110
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          111,
+          120
+        ]
+      },
+      {
+        "text": "fb",
+        "indices": [
+          121,
+          124
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/IC2sNnEH",
+        "expanded_url": "http://chroni.cl/L94Znp",
+        "display_url": "chroni.cl/L94Znp",
+        "indices": [
+          85,
+          105
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          23,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

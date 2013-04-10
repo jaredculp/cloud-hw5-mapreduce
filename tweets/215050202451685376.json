@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 19 11:55:38 +0000 2012",
+  "id": 215050202451685376,
+  "id_str": "215050202451685376",
+  "text": "@governorva Bob McDonnell, please request the resignation of #bov UVA Rector Dragas.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 104198706,
+  "in_reply_to_user_id_str": "104198706",
+  "in_reply_to_screen_name": "GovernorVA",
+  "user": {
+    "id": 17837980,
+    "id_str": "17837980",
+    "name": "Duane Gran",
+    "screen_name": "duanegran",
+    "location": "Charlottesville, VA",
+    "description": "Software Developer (php on symfony) in Virginia.  I tweet about technology and Christian faith.  Occasionally I do so with wit.",
+    "url": "http://duanegran.com/blog/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://duanegran.com/blog/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 143,
+    "friends_count": 107,
+    "listed_count": 17,
+    "created_at": "Wed Dec 03 14:58:06 +0000 2008",
+    "favourites_count": 51,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1051,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/341314420/twitterProfilePhoto_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/341314420/twitterProfilePhoto_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bov",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GovernorVA",
+        "name": "Bob McDonnell",
+        "id": 104198706,
+        "id_str": "104198706",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

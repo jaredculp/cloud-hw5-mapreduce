@@ -1,0 +1,100 @@
+{
+  "created_at": "Thu Jun 21 23:12:24 +0000 2012",
+  "id": 215945292850270211,
+  "id_str": "215945292850270211",
+  "text": "MT @cavalierdaily Dragas' new statement does not contain her resignation #UVA #Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 6609992,
+    "id_str": "6609992",
+    "name": "Rich Mathieson",
+    "screen_name": "rmathieson",
+    "location": "Roanoke, Va.",
+    "description": "Words, music, dogs. Steelers. Nittany Lions. Hokies.   \r\n(Not necessarily in that order.)",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 288,
+    "friends_count": 452,
+    "listed_count": 12,
+    "created_at": "Wed Jun 06 04:18:11 +0000 2007",
+    "favourites_count": 250,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2765,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/268755458/mountains_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/268755458/mountains_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/6609992/1355502067",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          73,
+          77
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          78,
+          87
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,106 @@
+{
+  "created_at": "Thu Jun 21 20:49:56 +0000 2012",
+  "id": 215909441067941888,
+  "id_str": "215909441067941888",
+  "text": "#UVA alumni association is collecting feedback to present to Board tomorrow. Today's the last day - please comment. http://t.co/veXQ6xrt",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Safari on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 12332572,
+    "id_str": "12332572",
+    "name": "Eric Johnson",
+    "screen_name": "elstudio",
+    "location": "Alexandria, VA, USA",
+    "description": "Runner. Talker. Human, I think.",
+    "url": "http://t.co/CrkdF7q7",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/CrkdF7q7",
+            "expanded_url": "http://elstudio.us",
+            "display_url": "elstudio.us",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 828,
+    "friends_count": 768,
+    "listed_count": 74,
+    "created_at": "Wed Jan 16 21:06:17 +0000 2008",
+    "favourites_count": 1327,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2298,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "707682",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/52192339/P1010075l.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/52192339/P1010075l.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/191697937/elstudio-avatar_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/191697937/elstudio-avatar_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/12332572/1347994152",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDF0EB",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/veXQ6xrt",
+        "expanded_url": "http://alumni.virginia.edu/contact/alumni-feedback/",
+        "display_url": "alumni.virginia.edu/contact/alumni…",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,108 @@
+{
+  "created_at": "Tue Jun 19 12:44:38 +0000 2012",
+  "id": 215062535987138560,
+  "id_str": "215062535987138560",
+  "text": "Essay from another university president:\nPresidential Politics (College Edition) http://t.co/gDPmdR3D via @HuffPostDC\n#UVa #Sullivan",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16570775,
+    "id_str": "16570775",
+    "name": "Jill Williams",
+    "screen_name": "jwill101",
+    "location": "Charlottesville, VA",
+    "description": "Forcing the kids to use Twitter.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 41,
+    "friends_count": 94,
+    "listed_count": 2,
+    "created_at": "Fri Oct 03 01:16:19 +0000 2008",
+    "favourites_count": 13,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 225,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1787825364/IMG_1181_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1787825364/IMG_1181_normal.JPG",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          118,
+          122
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          123,
+          132
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/gDPmdR3D",
+        "expanded_url": "http://huff.to/M5fQU7",
+        "display_url": "huff.to/M5fQU7",
+        "indices": [
+          81,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HuffPostDC",
+        "name": "HuffPost DC",
+        "id": 195897926,
+        "id_str": "195897926",
+        "indices": [
+          106,
+          117
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Jun 19 14:38:41 +0000 2012",
+  "id": 215091236317577217,
+  "id_str": "215091236317577217",
+  "text": "@swarthmoreburke In other words, what the #BOV wanted to do with tech is NOT what #DH wants to do with tech. #UVA",
+  "source": "<a href=\"http://sites.google.com/site/yorufukurou/\" rel=\"nofollow\">YoruFukurou</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215090403655946241,
+  "in_reply_to_status_id_str": "215090403655946241",
+  "in_reply_to_user_id": 185413913,
+  "in_reply_to_user_id_str": "185413913",
+  "in_reply_to_screen_name": "swarthmoreburke",
+  "user": {
+    "id": 6361722,
+    "id_str": "6361722",
+    "name": "Amanda French",
+    "screen_name": "amandafrench",
+    "location": "Washington, DC",
+    "description": "PhD in English lit, singer-songwriter, tech fan.",
+    "url": "http://amandafrench.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://amandafrench.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5944,
+    "friends_count": 467,
+    "listed_count": 501,
+    "created_at": "Sun May 27 13:15:33 +0000 2007",
+    "favourites_count": 1382,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 26698,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/101214862/rothko_h1co_3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/101214862/rothko_h1co_3.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1082170000/amanda_short_hair_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1082170000/amanda_short_hair_normal.jpg",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          42,
+          46
+        ]
+      },
+      {
+        "text": "DH",
+        "indices": [
+          82,
+          85
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          109,
+          113
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "swarthmoreburke",
+        "name": "Timothy Burke",
+        "id": 185413913,
+        "id_str": "185413913",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

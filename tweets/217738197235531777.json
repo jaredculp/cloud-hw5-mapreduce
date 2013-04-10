@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Jun 26 21:56:46 +0000 2012",
+  "id": 217738197235531777,
+  "id_str": "217738197235531777",
+  "text": "RT @insidehighered: BREAKING: U.Va. Board Reinstates Sullivan: http://t.co/3Hoi0F30 - #uva hopes to move on &amp; move forward",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 54585175,
+    "id_str": "54585175",
+    "name": "Tim Dunning",
+    "screen_name": "timdunning",
+    "location": "Burke, VA",
+    "description": "#Highered prof., sr. product support analyst, #edtech enthusiast, father, husband, golfer. #CommonApp Tech team member. #EMchat contributor.   Views are mine.",
+    "url": "http://about.me/timdunning",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://about.me/timdunning",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 608,
+    "friends_count": 658,
+    "listed_count": 50,
+    "created_at": "Tue Jul 07 15:50:09 +0000 2009",
+    "favourites_count": 19,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3892,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "3C2C22",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/280355768/x610035fa0b65bd5a5120f49d60699ea.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/280355768/x610035fa0b65bd5a5120f49d60699ea.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2562478319/qwibymsisf3yc0s0nyeb_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2562478319/qwibymsisf3yc0s0nyeb_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/54585175/1354105257",
+    "profile_link_color": "7A5C45",
+    "profile_sidebar_border_color": "7A5C45",
+    "profile_sidebar_fill_color": "281E17",
+    "profile_text_color": "54493E",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          86,
+          90
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/3Hoi0F30",
+        "expanded_url": "http://bit.ly/LzQyPU",
+        "display_url": "bit.ly/LzQyPU",
+        "indices": [
+          63,
+          83
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "insidehighered",
+        "name": "Inside Higher Ed",
+        "id": 16045268,
+        "id_str": "16045268",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,134 @@
+{
+  "created_at": "Tue Jul 03 02:54:15 +0000 2012",
+  "id": 219987378083864576,
+  "id_str": "219987378083864576",
+  "text": "it was was a good day #uva http://t.co/MxVJZSKz",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 160464605,
+    "id_str": "160464605",
+    "name": "Elyse Kelly",
+    "screen_name": "elysekelly",
+    "location": "",
+    "description": "designer/director/animator",
+    "url": "http://elysekelly.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://elysekelly.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 51,
+    "friends_count": 175,
+    "listed_count": 0,
+    "created_at": "Mon Jun 28 07:08:43 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 368,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/698018372/df7c9f52cd84464f5a44b0527b648a30.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/698018372/df7c9f52cd84464f5a44b0527b648a30.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1179003250/DSC_4476-small_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1179003250/DSC_4476-small_normal.jpg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          22,
+          26
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 219987378083864577,
+        "id_str": "219987378083864577",
+        "indices": [
+          27,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/media/Aw2NWtXCIAEhHZh.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Aw2NWtXCIAEhHZh.jpg",
+        "url": "http://t.co/MxVJZSKz",
+        "display_url": "pic.twitter.com/MxVJZSKz",
+        "expanded_url": "http://twitter.com/elysekelly/status/219987378083864576/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 772,
+            "h": 772,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 340,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

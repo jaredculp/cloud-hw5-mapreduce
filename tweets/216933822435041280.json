@@ -1,0 +1,99 @@
+{
+  "created_at": "Sun Jun 24 16:40:28 +0000 2012",
+  "id": 216933822435041280,
+  "id_str": "216933822435041280",
+  "text": "@laxmiddi42 my skin's adjusted to the #UVA next time I see you ill look #nativeamerican",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216932558498312194,
+  "in_reply_to_status_id_str": "216932558498312194",
+  "in_reply_to_user_id": 96889786,
+  "in_reply_to_user_id_str": "96889786",
+  "in_reply_to_screen_name": "laxmiddi42",
+  "user": {
+    "id": 340058294,
+    "id_str": "340058294",
+    "name": "Liz",
+    "screen_name": "LizzyArm",
+    "location": "Philadelphia",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 106,
+    "friends_count": 114,
+    "listed_count": 0,
+    "created_at": "Fri Jul 22 02:26:45 +0000 2011",
+    "favourites_count": 114,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1418,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2963999862/c8154c07272bfa64d208af43b9578a58_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2963999862/c8154c07272bfa64d208af43b9578a58_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          38,
+          42
+        ]
+      },
+      {
+        "text": "nativeamerican",
+        "indices": [
+          72,
+          87
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "laxmiddi42",
+        "name": "  freddy ",
+        "id": 96889786,
+        "id_str": "96889786",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

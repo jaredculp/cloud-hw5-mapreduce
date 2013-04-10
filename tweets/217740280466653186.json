@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 22:05:02 +0000 2012",
+  "id": 217740280466653186,
+  "id_str": "217740280466653186",
+  "text": "WaHooWOW! Sullivan reinstated http://t.co/eSVgD1gM #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 237830152,
+    "id_str": "237830152",
+    "name": "Jay Miles",
+    "screen_name": "JMilesTV",
+    "location": "Earth",
+    "description": "Jay Miles has worked in media for many years, and has taught at the college and high school levels for several years. His 1st book is called Conquering YouTube.",
+    "url": "http://jmilestv.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://jmilestv.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2387,
+    "friends_count": 903,
+    "listed_count": 49,
+    "created_at": "Thu Jan 13 18:48:34 +0000 2011",
+    "favourites_count": 347,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3604,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/192323565/dvx_smllr.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/192323565/dvx_smllr.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1297701124/CLEAN_zen_CROP_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1297701124/CLEAN_zen_CROP_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          51,
+          55
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/eSVgD1gM",
+        "expanded_url": "http://www.washingtonpost.com/local/education/u-va-president-speaks-after-being-reinstated/2012/06/26/gJQA0xwx4V_video.html",
+        "display_url": "washingtonpost.com/local/educatio…",
+        "indices": [
+          30,
+          50
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

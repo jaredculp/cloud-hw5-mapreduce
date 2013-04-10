@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jul 03 19:15:55 +0000 2012",
+  "id": 220234435327569921,
+  "id_str": "220234435327569921",
+  "text": "Don't miss the reunion of a 70's Cville classic, Hammond Eggs on Sat. 7/14! Tickets on sale. Tell your friends! http://t.co/nSUqQaYW #uva",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 555113086,
+    "id_str": "555113086",
+    "name": "The Southern Cville",
+    "screen_name": "southern_cville",
+    "location": "Charlottesville, VA",
+    "description": "Charlottesville, VA venue featuring local, regional, & national artists. Live music lives on the Downtown Mall!",
+    "url": "http://www.thesoutherncville.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.thesoutherncville.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 411,
+    "friends_count": 577,
+    "listed_count": 6,
+    "created_at": "Mon Apr 16 13:08:55 +0000 2012",
+    "favourites_count": 52,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 488,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBD7C1",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/524414199/2012-03-26-11-00-37.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/524414199/2012-03-26-11-00-37.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2135619555/TheSoutherlogo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2135619555/TheSoutherlogo_normal.jpg",
+    "profile_link_color": "B38000",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          133,
+          137
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/nSUqQaYW",
+        "expanded_url": "http://ow.ly/bZOgX",
+        "display_url": "ow.ly/bZOgX",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

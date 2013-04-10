@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 04:09:43 +0000 2012",
+  "id": 214932953170591744,
+  "id_str": "214932953170591744",
+  "text": "@LarrySabato Now that's constructive. Thank you sir!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 214931355639877632,
+  "in_reply_to_status_id_str": "214931355639877632",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 42486763,
+    "id_str": "42486763",
+    "name": "Russ Mirmelstein",
+    "screen_name": "Hoosit",
+    "location": "The Colonial Capital!",
+    "description": "To be completely honest with oneself is the best effort a human being can make!",
+    "url": "http://twitter.com/Hoosit",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://twitter.com/Hoosit",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 48,
+    "friends_count": 290,
+    "listed_count": 0,
+    "created_at": "Mon May 25 21:02:57 +0000 2009",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1088,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E36B1C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/719811983/a133ad663671e6c7e82b7fb55db8de80.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/719811983/a133ad663671e6c7e82b7fb55db8de80.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/298988274/Hoosit_Dominica_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/298988274/Hoosit_Dominica_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/42486763/1353728660",
+    "profile_link_color": "E36B1C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "D6C228",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

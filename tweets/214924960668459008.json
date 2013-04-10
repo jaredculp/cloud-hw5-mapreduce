@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 19 03:37:58 +0000 2012",
+  "id": 214924960668459008,
+  "id_str": "214924960668459008",
+  "text": "RT @cavalierdaily: UVA spokesperson Carol Wood says the wait for the BOV is \"exhausting\" #UVA #Sullivan",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14904627,
+    "id_str": "14904627",
+    "name": "John Flowers",
+    "screen_name": "MrJohnFlowers",
+    "location": "Greenpoint, Brooklyn",
+    "description": "Writer, philosopher, people's champion. Ex-Time, Dow Jones, CNBC, NBC. Now: MSNBC producer, Martin Bashir. UVA '99. Opinions are mine & always correct",
+    "url": "http://www.mcsweeneys.net/authors/john-flowers",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mcsweeneys.net/authors/john-flowers",
+            "expanded_url": null,
+            "indices": [
+              0,
+              46
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 614,
+    "friends_count": 728,
+    "listed_count": 10,
+    "created_at": "Mon May 26 03:14:06 +0000 2008",
+    "favourites_count": 263,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8494,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/137168823/benny.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/137168823/benny.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1116076986/resized_nixon_1960_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1116076986/resized_nixon_1960_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "FF0F0F",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          89,
+          93
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          94,
+          103
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

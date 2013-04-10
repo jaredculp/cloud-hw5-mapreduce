@@ -1,0 +1,137 @@
+{
+  "created_at": "Tue Jun 19 20:27:01 +0000 2012",
+  "id": 215178896197431297,
+  "id_str": "215178896197431297",
+  "text": "#UVA Vice Rector Mark Kington is resigning from BoV\nhttp://t.co/kYZQbK5o",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 31286542,
+    "id_str": "31286542",
+    "name": "Greg Hsu",
+    "screen_name": "SuperHsu",
+    "location": "Charlottesville, VA",
+    "description": "Andover 06, Duke 2010, InterVarsity staff working w/ Asian Americans @ UVA.",
+    "url": "http://www.hsuva.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.hsuva.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 319,
+    "friends_count": 281,
+    "listed_count": 12,
+    "created_at": "Wed Apr 15 00:52:55 +0000 2009",
+    "favourites_count": 2799,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4748,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2323115596/6eeyczmc69fjzh666yk7_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2323115596/6eeyczmc69fjzh666yk7_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "531a6942bb8056b9",
+    "url": "https://api.twitter.com/1.1/geo/id/531a6942bb8056b9.json",
+    "place_type": "city",
+    "name": "Charlottesville",
+    "full_name": "Charlottesville, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.523637,
+            38.009584
+          ],
+          [
+            -78.446311,
+            38.009584
+          ],
+          [
+            -78.446311,
+            38.070591
+          ],
+          [
+            -78.523637,
+            38.070591
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/kYZQbK5o",
+        "expanded_url": "http://www.nbc29.com/story/18827775/uva-vice-rector-mark-kington-resigns",
+        "display_url": "nbc29.com/story/18827775…",
+        "indices": [
+          52,
+          72
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

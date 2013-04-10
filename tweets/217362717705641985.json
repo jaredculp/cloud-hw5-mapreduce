@@ -1,0 +1,119 @@
+{
+  "created_at": "Mon Jun 25 21:04:44 +0000 2012",
+  "id": 217362717705641985,
+  "id_str": "217362717705641985",
+  "text": "For all my fine #UVA friends: RT @JuliaMcKetchum RT @ClickForFitness \nAre you #stressed out? http://t.co/5MqqMBRK",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 33290830,
+    "id_str": "33290830",
+    "name": "Warren Bingham",
+    "screen_name": "WarrenBingham",
+    "location": "Raleigh, NC; Blowing Rock, NC",
+    "description": "Spkr, writer, sales pro. UNC & Hollins alum. Interest in G Washington's travels; NC & Southern history. Loves wife, dogs, bowties, trivia, sports, architecture.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1167,
+    "friends_count": 914,
+    "listed_count": 42,
+    "created_at": "Sun Apr 19 19:39:29 +0000 2009",
+    "favourites_count": 77,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8598,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/750697638/260c7d5772878f1c93f052a8cd9aaf56.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/750697638/260c7d5772878f1c93f052a8cd9aaf56.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1985036226/WB_in_bowtie_with_a_half-pint_in_England._normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1985036226/WB_in_bowtie_with_a_half-pint_in_England._normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/33290830/1356817762",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          16,
+          20
+        ]
+      },
+      {
+        "text": "stressed",
+        "indices": [
+          78,
+          87
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/5MqqMBRK",
+        "expanded_url": "http://bit.ly/Je6vVJ",
+        "display_url": "bit.ly/Je6vVJ",
+        "indices": [
+          93,
+          113
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JuliaMcKetchum",
+        "name": "Julia McKetchum",
+        "id": 306957972,
+        "id_str": "306957972",
+        "indices": [
+          33,
+          48
+        ]
+      },
+      {
+        "screen_name": "ClickForFitness",
+        "name": "Click For Fitness",
+        "id": 230556314,
+        "id_str": "230556314",
+        "indices": [
+          52,
+          68
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

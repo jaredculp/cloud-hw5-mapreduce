@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 16:33:00 +0000 2012",
+  "id": 215482390561292288,
+  "id_str": "215482390561292288",
+  "text": "Finally read this. Great piece on #UVA debacle, if you've missed any part of it (like I had): http://t.co/4S7NPWMe (h/t @higheredprof)",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 375903428,
+    "id_str": "375903428",
+    "name": "Mandy Zatynski",
+    "screen_name": "MandyZatynski",
+    "location": "Washington, D.C.",
+    "description": "Former education reporter and ESL teacher abroad; now a writer for @EducationSector, a nonprofit, nonpartisan policy think tank. Opinions are my own.",
+    "url": "http://www.quickanded.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.quickanded.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 716,
+    "friends_count": 854,
+    "listed_count": 34,
+    "created_at": "Sun Sep 18 23:18:37 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2838,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2552442017/xc3nmw20i0mob0a8axhg_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2552442017/xc3nmw20i0mob0a8axhg_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/4S7NPWMe",
+        "expanded_url": "http://www.slate.com/articles/news_and_politics/hey_wait_a_minute/2012/06/teresa_sullivan_fired_from_uva_what_happens_when_universities_are_run_by_robber_barons_.single.html",
+        "display_url": "slate.com/articles/news_…",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "higheredprof",
+        "name": "Jake Gross",
+        "id": 20770476,
+        "id_str": "20770476",
+        "indices": [
+          120,
+          133
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

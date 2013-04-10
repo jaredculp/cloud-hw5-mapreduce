@@ -1,0 +1,108 @@
+{
+  "created_at": "Fri Jun 22 13:28:18 +0000 2012",
+  "id": 216160686001238018,
+  "id_str": "216160686001238018",
+  "text": "Since when is painting Beta Bridge considered vandalism? RT @cmcampbell6: More pro-#Sullivan vandalism at #UVA: http://t.co/e0wSAmnD",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 23475647,
+    "id_str": "23475647",
+    "name": "Catherine Pomeroy",
+    "screen_name": "Wintercsp",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 21,
+    "friends_count": 54,
+    "listed_count": 0,
+    "created_at": "Mon Mar 09 18:28:09 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 36,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/100301173/IMG_01741_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/100301173/IMG_01741_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          83,
+          92
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          106,
+          110
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/e0wSAmnD",
+        "expanded_url": "http://po.st/P8sjT4",
+        "display_url": "po.st/P8sjT4",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cmcampbell6",
+        "name": "Colin Campbell",
+        "id": 116820849,
+        "id_str": "116820849",
+        "indices": [
+          60,
+          72
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

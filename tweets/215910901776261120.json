@@ -1,0 +1,103 @@
+{
+  "created_at": "Thu Jun 21 20:55:45 +0000 2012",
+  "id": 215910901776261120,
+  "id_str": "215910901776261120",
+  "text": "In 2011 gebruikten 15% van de studenten Twitter, in 2012 al 30%, waarvan 13% het account dagelijks checkt! #UvAICTO #UvA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 53015080,
+    "id_str": "53015080",
+    "name": "Nynke Bos",
+    "screen_name": "NynkeBos",
+    "location": "Amsterdam",
+    "description": "Ik houd van leren| Vooral met ICT| E-learning heet dat|\r\nIk heb een kat| En een gourmetstel| Universiteit van Amsterdam| Faculteit der Geesteswetenschappen☝",
+    "url": "http://www.linkedin.com/in/nynkebos",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.linkedin.com/in/nynkebos",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 155,
+    "friends_count": 147,
+    "listed_count": 7,
+    "created_at": "Thu Jul 02 09:04:53 +0000 2009",
+    "favourites_count": 11,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 76,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/737267610/d9c5810a034a31f2bd810db5739ae27f.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/737267610/d9c5810a034a31f2bd810db5739ae27f.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1679256471/Nynke03_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1679256471/Nynke03_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/53015080/1355424117",
+    "profile_link_color": "F5A9F2",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E8FFD1",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvAICTO",
+        "indices": [
+          107,
+          115
+        ]
+      },
+      {
+        "text": "UvA",
+        "indices": [
+          116,
+          120
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

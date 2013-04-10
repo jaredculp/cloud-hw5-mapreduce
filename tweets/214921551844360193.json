@@ -1,0 +1,226 @@
+{
+  "created_at": "Tue Jun 19 03:24:25 +0000 2012",
+  "id": 214921551844360193,
+  "id_str": "214921551844360193",
+  "text": "RT @cmichaelcarlson: At last!  @NYTimes has covered the #Sullivan protest at #UVA.  http://t.co/ceZV5Ev0",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15961449,
+    "id_str": "15961449",
+    "name": "dowzerw",
+    "screen_name": "dowzerw",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 123,
+    "friends_count": 864,
+    "listed_count": 0,
+    "created_at": "Sat Aug 23 21:44:37 +0000 2008",
+    "favourites_count": 18,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 649,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/952995852/beach_scene_by_josephine_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/952995852/beach_scene_by_josephine_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 19 03:21:27 +0000 2012",
+    "id": 214920804637487104,
+    "id_str": "214920804637487104",
+    "text": "At last!  @NYTimes has covered the #Sullivan protest at #UVA.  http://t.co/ceZV5Ev0",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 36659926,
+      "id_str": "36659926",
+      "name": "Michael Carlson",
+      "screen_name": "cmichaelcarlson",
+      "location": "NYC",
+      "description": "sometime lawyer",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 31,
+      "friends_count": 84,
+      "listed_count": 0,
+      "created_at": "Thu Apr 30 13:22:20 +0000 2009",
+      "favourites_count": 2,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 622,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1815271059/image_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1815271059/image_normal.jpg",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 6,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Sullivan",
+          "indices": [
+            35,
+            44
+          ]
+        },
+        {
+          "text": "UVA",
+          "indices": [
+            56,
+            60
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/ceZV5Ev0",
+          "expanded_url": "http://www.nytimes.com/2012/06/19/us/university-of-virginia-board-considers-sullivan-replacement.html?_r=1",
+          "display_url": "nytimes.com/2012/06/19/us/…",
+          "indices": [
+            63,
+            83
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nytimes",
+          "name": "The New York Times",
+          "id": 807095,
+          "id_str": "807095",
+          "indices": [
+            10,
+            18
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  "retweet_count": 6,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          56,
+          65
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          77,
+          81
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ceZV5Ev0",
+        "expanded_url": "http://www.nytimes.com/2012/06/19/us/university-of-virginia-board-considers-sullivan-replacement.html?_r=1",
+        "display_url": "nytimes.com/2012/06/19/us/…",
+        "indices": [
+          84,
+          104
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cmichaelcarlson",
+        "name": "Michael Carlson",
+        "id": 36659926,
+        "id_str": "36659926",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "nytimes",
+        "name": "The New York Times",
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          31,
+          39
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 20:32:45 +0000 2012",
+  "id": 217717053296095232,
+  "id_str": "217717053296095232",
+  "text": "So @timkaine and @LarrySabato called the #UVA prez decision right. Where you at, @georgeallenva?",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 324095750,
+    "id_str": "324095750",
+    "name": "David Grant",
+    "screen_name": "DW_Grant",
+    "location": "Washington, D.C.",
+    "description": "@CSMonitor's Hill correspondent; learning at the knee of @RussellChaddock. My crossover is solid.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 450,
+    "friends_count": 1610,
+    "listed_count": 22,
+    "created_at": "Sun Jun 26 00:31:30 +0000 2011",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3420,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657859138/7eezphcc8rpufrtuzbzk.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657859138/7eezphcc8rpufrtuzbzk.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1691779748/David_Grant_head_shot_opt_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1691779748/David_Grant_head_shot_opt_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/324095750/1353344924",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          41,
+          45
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "timkaine",
+        "name": "Senator Tim Kaine",
+        "id": 172858784,
+        "id_str": "172858784",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          17,
+          29
+        ]
+      },
+      {
+        "screen_name": "georgeallenva",
+        "name": "George Allen",
+        "id": 136389258,
+        "id_str": "136389258",
+        "indices": [
+          81,
+          95
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,101 @@
+{
+  "created_at": "Thu Jun 21 21:38:53 +0000 2012",
+  "id": 215921759638138882,
+  "id_str": "215921759638138882",
+  "text": "Too late? RT @NBC12: BREAKING: #UVA to consider reinstating ousted president\nhttp://t.co/MVftBWjz",
+  "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 377033020,
+    "id_str": "377033020",
+    "name": "T'ana M. Johnson",
+    "screen_name": "Tana_Johnson",
+    "location": "Wilmington, DE",
+    "description": "Richmond, VA native, Hampton alum, Immediate Past @MWULYP President. Helping to Empower the Community & Change Lives one day at a time.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 154,
+    "friends_count": 195,
+    "listed_count": 2,
+    "created_at": "Tue Sep 20 22:20:07 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1518,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3091488921/3adf2a21594c3c54cb108d78c7a753e8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3091488921/3adf2a21594c3c54cb108d78c7a753e8_normal.jpeg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/MVftBWjz",
+        "expanded_url": "http://po.st/kBWyaI",
+        "display_url": "po.st/kBWyaI",
+        "indices": [
+          77,
+          97
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC12",
+        "name": "NBC12 WWBT Richmond",
+        "id": 19151000,
+        "id_str": "19151000",
+        "indices": [
+          13,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

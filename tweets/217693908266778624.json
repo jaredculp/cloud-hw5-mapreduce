@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Jun 26 19:00:46 +0000 2012",
+  "id": 217693908266778624,
+  "id_str": "217693908266778624",
+  "text": "The #s are climbing... #UVa Board of Visitors mtg to discuss @UVA Pres... More than 7k watching live stream at http://t.co/tiSR5XiR",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 121890592,
+    "id_str": "121890592",
+    "name": "Velvet Hall",
+    "screen_name": "Velvet_Hall",
+    "location": "Roanoke, Virginia",
+    "description": "RVMN Reporter on WFIR & TJMS Anchor on The VIBE! Tweets are my own & not views of Wheeler Broadcasting.",
+    "url": "http://facebook.com/TheVelvetHall",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://facebook.com/TheVelvetHall",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 190,
+    "friends_count": 580,
+    "listed_count": 4,
+    "created_at": "Wed Mar 10 23:12:28 +0000 2010",
+    "favourites_count": 29,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3260,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/199909611/xd2398a887bc754f87a03662325a3593.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/199909611/xd2398a887bc754f87a03662325a3593.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2217509044/545625_10100432909548148_55714581_45400664_1751527210_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2217509044/545625_10100432909548148_55714581_45400664_1751527210_n_normal.jpg",
+    "profile_link_color": "FB840E",
+    "profile_sidebar_border_color": "373737",
+    "profile_sidebar_fill_color": "373737",
+    "profile_text_color": "FDB31C",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "s",
+        "indices": [
+          4,
+          6
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          23,
+          27
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/tiSR5XiR",
+        "expanded_url": "http://www.virginia.edu/bov/live",
+        "display_url": "virginia.edu/bov/live",
+        "indices": [
+          111,
+          131
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

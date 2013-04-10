@@ -1,0 +1,111 @@
+{
+  "created_at": "Fri Aug 31 08:55:37 +0000 2012",
+  "id": 241459213585494016,
+  "id_str": "241459213585494016",
+  "text": "La #vendimia se inica con casi la mitad de #uva, leído en El Periódico Extremadura http://t.co/yRdfx2eq",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 574374214,
+    "id_str": "574374214",
+    "name": "SmartVineyard",
+    "screen_name": "SmartVineyard",
+    "location": "Budapest, Hungary",
+    "description": "Wireless sensor network which can help minimizing the use of chemicals in viticulture. Red de sensores Wireless que minimizan el uso de químicos en viticultura",
+    "url": "http://www.smartvineyard.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.smartvineyard.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 279,
+    "friends_count": 798,
+    "listed_count": 4,
+    "created_at": "Tue May 08 10:34:59 +0000 2012",
+    "favourites_count": 2,
+    "utc_offset": 3600,
+    "time_zone": "Budapest",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 409,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/546747678/3094636_l.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/546747678/3094636_l.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2206772451/198934_208682665824941_196037843756090_802986_8175880_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2206772451/198934_208682665824941_196037843756090_802986_8175880_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "vendimia",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          43,
+          47
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/yRdfx2eq",
+        "expanded_url": "http://www.elperiodicoextremadura.com/noticias/temadeldia/la-vendimia-se-inica-con-casi-mitad-de-uva_677583.html",
+        "display_url": "elperiodicoextremadura.com/noticias/temad…",
+        "indices": [
+          83,
+          103
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

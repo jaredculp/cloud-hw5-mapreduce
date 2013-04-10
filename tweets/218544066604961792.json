@@ -1,0 +1,90 @@
+{
+  "created_at": "Fri Jun 29 03:19:00 +0000 2012",
+  "id": 218544066604961792,
+  "id_str": "218544066604961792",
+  "text": "Congratulations Mike Scott #hawks #UVA",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 235729406,
+    "id_str": "235729406",
+    "name": "Jack Hall",
+    "screen_name": "jahall44",
+    "location": "",
+    "description": "NYG",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 130,
+    "friends_count": 124,
+    "listed_count": 0,
+    "created_at": "Sat Jan 08 23:28:59 +0000 2011",
+    "favourites_count": 403,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1133,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/402104056/HakeemHailMary.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/402104056/HakeemHailMary.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2917589710/f9cf3a2d5dbb3096217f90d034116cd7_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2917589710/f9cf3a2d5dbb3096217f90d034116cd7_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "hawks",
+        "indices": [
+          27,
+          33
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

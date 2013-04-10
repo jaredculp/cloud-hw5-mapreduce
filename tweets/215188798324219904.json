@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 19 21:06:22 +0000 2012",
+  "id": 215188798324219904,
+  "id_str": "215188798324219904",
+  "text": "UVa's Dragas should resign if for nothing else than embarrassing the university. And this is brilliant:  http://t.co/TeLYaFyR #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13220112,
+    "id_str": "13220112",
+    "name": "greg_y",
+    "screen_name": "greg_y",
+    "location": "Southern California",
+    "description": "",
+    "url": "http://lifetwo.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://lifetwo.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 34,
+    "friends_count": 95,
+    "listed_count": 0,
+    "created_at": "Thu Feb 07 20:38:25 +0000 2008",
+    "favourites_count": 3,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 172,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/203387990/gy_twitter_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/203387990/gy_twitter_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          126,
+          130
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/TeLYaFyR",
+        "expanded_url": "http://cvillenews.com/2012/06/18/dragas-statement-translated/",
+        "display_url": "cvillenews.com/2012/06/18/dra…",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

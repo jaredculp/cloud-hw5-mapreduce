@@ -1,0 +1,137 @@
+{
+  "created_at": "Fri Jun 22 15:44:30 +0000 2012",
+  "id": 216194962570756096,
+  "id_str": "216194962570756096",
+  "text": "#rva #vagov Talking politics w/ Wayne Farrar @wcve http://t.co/95OCQvDL Topics: #UVa president, @bobmcdonnell, proposed uranium mine, GOP",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 64729812,
+    "id_str": "64729812",
+    "name": "Jeff E. Schapiro",
+    "screen_name": "RTDSchapiro",
+    "location": "Richmond, VA",
+    "description": "Political reporter-columnist, Richmond (VA) Times-Dispatch",
+    "url": "http://www.timesdispatch.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.timesdispatch.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3019,
+    "friends_count": 678,
+    "listed_count": 226,
+    "created_at": "Tue Aug 11 14:38:12 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4311,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/30197920/jstwitbacknew.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/30197920/jstwitbacknew.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/357094736/jeffpix_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/357094736/jeffpix_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "rva",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "vagov",
+        "indices": [
+          5,
+          11
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          80,
+          84
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/95OCQvDL",
+        "expanded_url": "http://bit.ly/NhsiwL",
+        "display_url": "bit.ly/NhsiwL",
+        "indices": [
+          51,
+          71
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wcve",
+        "name": "WCVE TV / FM",
+        "id": 18451925,
+        "id_str": "18451925",
+        "indices": [
+          45,
+          50
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          96,
+          109
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,117 @@
+{
+  "created_at": "Tue Jun 26 21:08:06 +0000 2012",
+  "id": 217725950115319808,
+  "id_str": "217725950115319808",
+  "text": "Wow.  @sivavaid must be rejoicing. RT @SLWorona: UVa Board reinstates president. http://t.co/pn71row7",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18730427,
+    "id_str": "18730427",
+    "name": "Gigi Sohn",
+    "screen_name": "gigibsohn",
+    "location": "Washington, DC",
+    "description": "President of Public Knowledge, a public interest group advocating for an open Internet & balanced copyright. Yossi's mom, food & wine snob, NY sports fanatic",
+    "url": "http://www.publicknowledge.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.publicknowledge.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2741,
+    "friends_count": 641,
+    "listed_count": 200,
+    "created_at": "Wed Jan 07 17:57:18 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7198,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9C9C9C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/78751580/pk-310_bigger.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/78751580/pk-310_bigger.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2183429496/images_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2183429496/images_normal.jpg",
+    "profile_link_color": "F70A0A",
+    "profile_sidebar_border_color": "BABABA",
+    "profile_sidebar_fill_color": "CFCFCF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/pn71row7",
+        "expanded_url": "http://bit.ly/MQJcDl",
+        "display_url": "bit.ly/MQJcDl",
+        "indices": [
+          81,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          6,
+          15
+        ]
+      },
+      {
+        "screen_name": "SLWorona",
+        "name": "Steve Worona",
+        "id": 109585567,
+        "id_str": "109585567",
+        "indices": [
+          38,
+          47
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

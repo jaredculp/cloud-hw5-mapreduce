@@ -1,0 +1,127 @@
+{
+  "created_at": "Wed Jun 20 15:38:50 +0000 2012",
+  "id": 215468762860765184,
+  "id_str": "215468762860765184",
+  "text": "\"@washingtonpost: Emails show #UVA board leaders planning Teresa #Sullivan's exit. http://t.co/P6MgaugT\" #peoplearedumb",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 370677437,
+    "id_str": "370677437",
+    "name": "JAX Place",
+    "screen_name": "j9guttman",
+    "location": "VT VA VOX",
+    "description": "Editor, journo, Web head.  \r\n Pres of www.bossmediacommunications.com",
+    "url": "http://www.bossmediacommunications.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.bossmediacommunications.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 252,
+    "friends_count": 1033,
+    "listed_count": 1,
+    "created_at": "Fri Sep 09 12:55:33 +0000 2011",
+    "favourites_count": 6,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 596,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/574832572/3_Horses.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/574832572/3_Horses.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1537043954/IMG-20110902-00006_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1537043954/IMG-20110902-00006_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          30,
+          34
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          65,
+          74
+        ]
+      },
+      {
+        "text": "peoplearedumb",
+        "indices": [
+          105,
+          119
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/P6MgaugT",
+        "expanded_url": "http://wapo.st/KTEd4j",
+        "display_url": "wapo.st/KTEd4j",
+        "indices": [
+          83,
+          103
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          1,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

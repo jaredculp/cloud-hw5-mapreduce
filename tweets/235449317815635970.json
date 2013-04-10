@@ -1,0 +1,103 @@
+{
+  "created_at": "Tue Aug 14 18:54:26 +0000 2012",
+  "id": 235449317815635970,
+  "id_str": "235449317815635970",
+  "text": "#água para tapar as #uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 24936391,
+    "id_str": "24936391",
+    "name": "ambaggio",
+    "screen_name": "ambaggio",
+    "location": "Curitiba",
+    "description": "Não sou dono da pizzaria, nem da construtora e também não sou parente do cara que perdeu o pênalti na copa de 94",
+    "url": "http://be.net/ambaggio",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://be.net/ambaggio",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 548,
+    "friends_count": 386,
+    "listed_count": 25,
+    "created_at": "Tue Mar 17 19:24:07 +0000 2009",
+    "favourites_count": 1680,
+    "utc_offset": -7200,
+    "time_zone": "Mid-Atlantic",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 20554,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/770820925/c409efea015fb3eaa4b76a58aee934b9.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/770820925/c409efea015fb3eaa4b76a58aee934b9.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3038016582/165f3f60a3596cc5039aed1af7853c2f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3038016582/165f3f60a3596cc5039aed1af7853c2f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/24936391/1349746343",
+    "profile_link_color": "DB5F00",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "água",
+        "indices": [
+          0,
+          5
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

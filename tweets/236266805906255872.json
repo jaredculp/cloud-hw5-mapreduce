@@ -1,0 +1,120 @@
+{
+  "created_at": "Fri Aug 17 01:02:50 +0000 2012",
+  "id": 236266805906255872,
+  "id_str": "236266805906255872",
+  "text": "\"@mwalkVT: Wyatts famous! RT @rivalsmike: Wyatt Teller decision coming tomorrow (Friday) between #Hokies and #UVa\"\" @WyattTeller",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 362574919,
+    "id_str": "362574919",
+    "name": "Sarah Pfeiffer",
+    "screen_name": "pfeifflife",
+    "location": "",
+    "description": "music, love and laughter. that's all you need",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 0,
+    "friends_count": 0,
+    "listed_count": 0,
+    "created_at": "Fri Aug 26 16:38:47 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 0,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/325158670/Sunset-on-the-Pier-Wallpaper-1280x800.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/325158670/Sunset-on-the-Pier-Wallpaper-1280x800.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3089229022/3081886794e2e80311c7702857b8b27c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3089229022/3081886794e2e80311c7702857b8b27c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/362574919/1357790814",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Hokies",
+        "indices": [
+          97,
+          104
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          109,
+          113
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mwalkVT",
+        "name": "Matt Walker",
+        "id": 19750140,
+        "id_str": "19750140",
+        "indices": [
+          1,
+          9
+        ]
+      },
+      {
+        "screen_name": "rivalsmike",
+        "name": "Mike Farrell",
+        "id": 170021040,
+        "id_str": "170021040",
+        "indices": [
+          29,
+          40
+        ]
+      },
+      {
+        "screen_name": "WyattTeller",
+        "name": "Wyatt Teller",
+        "id": 450671734,
+        "id_str": "450671734",
+        "indices": [
+          116,
+          128
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

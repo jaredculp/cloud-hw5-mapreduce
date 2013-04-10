@@ -1,0 +1,101 @@
+{
+  "created_at": "Wed Jun 27 13:30:03 +0000 2012",
+  "id": 217973067257872385,
+  "id_str": "217973067257872385",
+  "text": "UVa Board Reverses Itself, Reinstates President http://t.co/HeFnyMgN Most objective news coverage of #UVa yet @NPRNews",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22873691,
+    "id_str": "22873691",
+    "name": "Geoffrey Cromarty",
+    "screen_name": "cromartyg",
+    "location": "Lambertville NJ Philadelphia",
+    "description": "Higher Ed, Rowing, humor in daily life",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 79,
+    "friends_count": 116,
+    "listed_count": 1,
+    "created_at": "Thu Mar 05 03:33:08 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 979,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2701992765/8d8fb8d6e6d04b95c6388a1be64e8f0a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2701992765/8d8fb8d6e6d04b95c6388a1be64e8f0a_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          101,
+          105
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/HeFnyMgN",
+        "expanded_url": "http://n.pr/LOelpR",
+        "display_url": "n.pr/LOelpR",
+        "indices": [
+          48,
+          68
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nprnews",
+        "name": "NPR News",
+        "id": 5392522,
+        "id_str": "5392522",
+        "indices": [
+          110,
+          118
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

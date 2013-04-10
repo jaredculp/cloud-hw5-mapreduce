@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon Aug 27 20:44:18 +0000 2012",
+  "id": 240188008018620416,
+  "id_str": "240188008018620416",
+  "text": "@michaelpRTD Noted. Tuning in now. Assume #UVa QB will not be hot topic?",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 240187797074485249,
+  "in_reply_to_status_id_str": "240187797074485249",
+  "in_reply_to_user_id": 25730085,
+  "in_reply_to_user_id_str": "25730085",
+  "in_reply_to_screen_name": "michaelpRTD",
+  "user": {
+    "id": 108416687,
+    "id_str": "108416687",
+    "name": "Jacob Geiger",
+    "screen_name": "jhdgeiger",
+    "location": "Richmond, Virginia",
+    "description": "Editor/director of @WorkItRichmond, a small-business newsletter. that's part of the Richmond Times-Dispatch (@rtdnews). Also a husband, dog owner and runner. ",
+    "url": "http://www.workitrichmond.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.workitrichmond.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 236,
+    "friends_count": 34,
+    "listed_count": 11,
+    "created_at": "Mon Jan 25 21:51:23 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 665,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/655191125/mountaintop_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/655191125/mountaintop_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "michaelpRTD",
+        "name": "michael phillips",
+        "id": 25730085,
+        "id_str": "25730085",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

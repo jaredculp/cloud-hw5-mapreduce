@@ -1,0 +1,102 @@
+{
+  "created_at": "Tue Jun 26 14:34:11 +0000 2012",
+  "id": 217626817249550336,
+  "id_str": "217626817249550336",
+  "text": "I'm on the edge of my seat. It's a big day for #UVA.  #Hoos4Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 28642349,
+    "id_str": "28642349",
+    "name": "Rachel Turner",
+    "screen_name": "rae410",
+    "location": "Arlington, VA",
+    "description": "Speechwriter, volunteer, music lover, avid reader & infrequent tweeter. ",
+    "url": "https://www.facebook.com/rae410",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://www.facebook.com/rae410",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 83,
+    "friends_count": 355,
+    "listed_count": 3,
+    "created_at": "Fri Apr 03 20:13:01 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 310,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "141519",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/592085932/xfcb5888eebece4b571371be94de9b4c.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/592085932/xfcb5888eebece4b571371be94de9b4c.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/791773614/rachel3_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/791773614/rachel3_normal.JPG",
+    "profile_link_color": "F12001",
+    "profile_sidebar_border_color": "EBF0EC",
+    "profile_sidebar_fill_color": "85B190",
+    "profile_text_color": "C3963B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "Hoos4Sullivan",
+        "indices": [
+          54,
+          68
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

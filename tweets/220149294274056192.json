@@ -1,0 +1,142 @@
+{
+  "created_at": "Tue Jul 03 13:37:37 +0000 2012",
+  "id": 220149294274056192,
+  "id_str": "220149294274056192",
+  "text": "Sports Illustrated posted this iconic photo today. Shot in in NY in 1986 w/ @RalphSampson50 &amp; Hakeem #UVA @lazenby http://t.co/lsezkMLb",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 542577660,
+    "id_str": "542577660",
+    "name": "Mike Stevens",
+    "screen_name": "oldschoolMike61",
+    "location": "Roanoke Valley",
+    "description": "Former TV Sports Broadcaster now Communicating in Salem City Government...Always Doing it for the People.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 315,
+    "friends_count": 99,
+    "listed_count": 4,
+    "created_at": "Sun Apr 01 12:04:05 +0000 2012",
+    "favourites_count": 61,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 999,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/601780622/1n9vy44m04h066x7romf.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/601780622/1n9vy44m04h066x7romf.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3188557609/bc11192f0da695a7896388b4005b3b56_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3188557609/bc11192f0da695a7896388b4005b3b56_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/542577660/1349314059",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          105,
+          109
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RalphSampson50",
+        "name": "Ralph Sampson",
+        "id": 357068443,
+        "id_str": "357068443",
+        "indices": [
+          76,
+          91
+        ]
+      },
+      {
+        "screen_name": "lazenby",
+        "name": "Roland Lazenby",
+        "id": 2903261,
+        "id_str": "2903261",
+        "indices": [
+          110,
+          118
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 220149294282444800,
+        "id_str": "220149294282444800",
+        "indices": [
+          119,
+          139
+        ],
+        "media_url": "http://pbs.twimg.com/media/Aw4gneNCEAA3qGG.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Aw4gneNCEAA3qGG.jpg",
+        "url": "http://t.co/lsezkMLb",
+        "display_url": "pic.twitter.com/lsezkMLb",
+        "expanded_url": "http://twitter.com/oldschoolMike61/status/220149294274056192/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 655,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 641,
+            "h": 700,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 371,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

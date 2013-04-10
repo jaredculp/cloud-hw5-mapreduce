@@ -1,0 +1,109 @@
+{
+  "created_at": "Sun Aug 26 15:42:53 +0000 2012",
+  "id": 239749766471352321,
+  "id_str": "239749766471352321",
+  "text": "Ten minutes away from another top ten showdown. #PSU vs. #UVA #fieldhockey",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 57413413,
+    "id_str": "57413413",
+    "name": "PSU Field Hockey",
+    "screen_name": "PennStateFH",
+    "location": "University Park, Pa.",
+    "description": "The Official Twitter Page Of Penn State Field Hockey",
+    "url": "http://www.gopsusports.com/sports/w-fieldh/psu-w-fieldh-body.html",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.gopsusports.com/sports/w-fieldh/psu-w-fieldh-body.html",
+            "expanded_url": null,
+            "indices": [
+              0,
+              65
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2041,
+    "friends_count": 72,
+    "listed_count": 54,
+    "created_at": "Thu Jul 16 18:55:52 +0000 2009",
+    "favourites_count": 60,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2117,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/703636474/1413bbce7466410366442953a70cced9.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/703636474/1413bbce7466410366442953a70cced9.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1105896565/FH_Team_Pic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1105896565/FH_Team_Pic_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "PSU",
+        "indices": [
+          48,
+          52
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          57,
+          61
+        ]
+      },
+      {
+        "text": "fieldhockey",
+        "indices": [
+          62,
+          74
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,121 @@
+{
+  "created_at": "Wed Aug 15 17:24:13 +0000 2012",
+  "id": 235789000449863680,
+  "id_str": "235789000449863680",
+  "text": "On my way to @CliftonInn in #Charlottesville ! Interesting reading @washingtonpost this morning about former #UVA presidents Teresa Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 27899777,
+    "id_str": "27899777",
+    "name": "Simone Rathle",
+    "screen_name": "simoneink",
+    "location": "Washington, DC",
+    "description": "The PR Team in the know + luxury hotels and top restaurants + a strong nod to the South.",
+    "url": "http://www.simonesez.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.simonesez.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 993,
+    "friends_count": 1547,
+    "listed_count": 43,
+    "created_at": "Tue Mar 31 16:04:07 +0000 2009",
+    "favourites_count": 16,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1448,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "990033",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1629327739/Simoneink_Logo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1629327739/Simoneink_Logo_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "423B3B",
+    "profile_sidebar_fill_color": "BFB8B8",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Charlottesville",
+        "indices": [
+          28,
+          44
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          109,
+          113
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CliftonInn",
+        "name": "Clifton Inn",
+        "id": 76033499,
+        "id_str": "76033499",
+        "indices": [
+          13,
+          24
+        ]
+      },
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          67,
+          82
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,90 @@
+{
+  "created_at": "Fri Jun 22 00:54:30 +0000 2012",
+  "id": 215970986808459264,
+  "id_str": "215970986808459264",
+  "text": "Comendo #uva ,  VAMOS PRA #MELANCIA !  !",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 79878602,
+    "id_str": "79878602",
+    "name": "Hugo Dantas",
+    "screen_name": "hugoformiga",
+    "location": "",
+    "description": "Se é loucura então , melhor nem tem razão (8",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 117,
+    "friends_count": 107,
+    "listed_count": 0,
+    "created_at": "Mon Oct 05 01:08:12 +0000 2009",
+    "favourites_count": 7,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2417,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/584356368/02i98y2jedge8zr8jjb4.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/584356368/02i98y2jedge8zr8jjb4.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2786781074/f6524ac17036b19b03845ff1f409cace_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2786781074/f6524ac17036b19b03845ff1f409cace_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          8,
+          12
+        ]
+      },
+      {
+        "text": "MELANCIA",
+        "indices": [
+          26,
+          35
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

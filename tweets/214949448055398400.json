@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 19 05:15:16 +0000 2012",
+  "id": 214949448055398400,
+  "id_str": "214949448055398400",
+  "text": "@LarrySabato Perhaps they ran out to get their sleeping bags while the crowd was distracted with Pres. Sullivan's arrival? #smokeandmirrors",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 214947942312853504,
+  "in_reply_to_status_id_str": "214947942312853504",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 492823694,
+    "id_str": "492823694",
+    "name": "Sarah Williamson",
+    "screen_name": "williamson_sb",
+    "location": "Cville/VB/DC",
+    "description": "My name is Sarah Williamson and I approved this message.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 18,
+    "friends_count": 30,
+    "listed_count": 0,
+    "created_at": "Wed Feb 15 04:58:44 +0000 2012",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 43,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/555567751/blueridge.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/555567751/blueridge.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2174121192/546194_10150912551702564_586102563_13009176_990339449_n_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2174121192/546194_10150912551702564_586102563_13009176_990339449_n_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "smokeandmirrors",
+        "indices": [
+          123,
+          139
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

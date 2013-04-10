@@ -1,0 +1,123 @@
+{
+  "created_at": "Sun Jun 24 13:39:11 +0000 2012",
+  "id": 216888203578314752,
+  "id_str": "216888203578314752",
+  "text": "@jrjones33 @lessig  My alum $$$ will depend on what happens on Tues when #uva #bov meets.  $$$ will depend on #sullivan stays, #dragas goes",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216887451732541440,
+  "in_reply_to_status_id_str": "216887451732541440",
+  "in_reply_to_user_id": 453275238,
+  "in_reply_to_user_id_str": "453275238",
+  "in_reply_to_screen_name": "jrjones33",
+  "user": {
+    "id": 14227466,
+    "id_str": "14227466",
+    "name": "Katie Neville",
+    "screen_name": "kdneville",
+    "location": "Northern Virginia",
+    "description": "Mom, wife, teacher, grandmom, sister, friend, iTRT, bibliophile,  Cradle Episcopalian, Democrat, dog lover, Redskins fan, Apple Evangelist, vegetarian.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 340,
+    "friends_count": 684,
+    "listed_count": 10,
+    "created_at": "Wed Mar 26 16:54:31 +0000 2008",
+    "favourites_count": 11,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2508,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/737905000/fa297f845a156aeb3e81555478968c3d.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/737905000/fa297f845a156aeb3e81555478968c3d.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/631633572/twitterProfilePhoto_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/631633572/twitterProfilePhoto_normal.jpg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          73,
+          77
+        ]
+      },
+      {
+        "text": "bov",
+        "indices": [
+          78,
+          82
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          110,
+          119
+        ]
+      },
+      {
+        "text": "dragas",
+        "indices": [
+          127,
+          134
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jrjones33",
+        "name": "Rob Jones",
+        "id": 453275238,
+        "id_str": "453275238",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "lessig",
+        "name": "Lessig",
+        "id": 11388132,
+        "id_str": "11388132",
+        "indices": [
+          11,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

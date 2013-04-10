@@ -1,0 +1,117 @@
+{
+  "created_at": "Thu Jun 21 18:24:37 +0000 2012",
+  "id": 215872868519653376,
+  "id_str": "215872868519653376",
+  "text": "hj ta tdo uma #Uva ta loko, #twitter trava #Face tbm, #Not o teclado ta uma merda, ta loko",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 203209236,
+    "id_str": "203209236",
+    "name": " MulekeDoido",
+    "screen_name": "JorgeMaiconOp",
+    "location": "Florianópolis Sc,Palhoça",
+    "description": ".....Curta a vida ......... \r\nPisciano 18 anos, Simples, OUSADO, ENGRAÇADO, Baladeiro, COMPLICADO, gente boa ... Faz por merecer, Que eu faço valer a pena..",
+    "url": "http://www.facebook.com/JorgeMaiconOp",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/JorgeMaiconOp",
+            "expanded_url": null,
+            "indices": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 279,
+    "friends_count": 137,
+    "listed_count": 2,
+    "created_at": "Fri Oct 15 19:36:38 +0000 2010",
+    "favourites_count": 91,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11500,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C7BFC7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/759400284/d00dcde50b4c0d557a6b86e726b68cb5.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/759400284/d00dcde50b4c0d557a6b86e726b68cb5.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3088445068/f571f63a1547dba090bb046483f358ed_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3088445068/f571f63a1547dba090bb046483f358ed_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/203209236/1357736991",
+    "profile_link_color": "138F23",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "0E3B22",
+    "profile_text_color": "5EF016",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          14,
+          18
+        ]
+      },
+      {
+        "text": "twitter",
+        "indices": [
+          28,
+          36
+        ]
+      },
+      {
+        "text": "Face",
+        "indices": [
+          43,
+          48
+        ]
+      },
+      {
+        "text": "Not",
+        "indices": [
+          54,
+          58
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

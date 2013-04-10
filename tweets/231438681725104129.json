@@ -1,0 +1,143 @@
+{
+  "created_at": "Fri Aug 03 17:17:36 +0000 2012",
+  "id": 231438681725104129,
+  "id_str": "231438681725104129",
+  "text": "Go #UVA! http://t.co/TVOAyr2o",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Photos on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 90971924,
+    "id_str": "90971924",
+    "name": "Chris†oph Mac",
+    "screen_name": "ChristophMac",
+    "location": "UVa, Instagram - @ChristophMac",
+    "description": "5'18'' 50% Norwegian.  #littlemonster #mudblood http://t.co/ouHuiy9W",
+    "url": "http://ChristophMac.tumblr.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ChristophMac.tumblr.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/ouHuiy9W",
+            "expanded_url": "http://instagr.am/p/K6W5p6I2qG/",
+            "display_url": "instagr.am/p/K6W5p6I2qG/",
+            "indices": [
+              48,
+              68
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 356,
+    "friends_count": 630,
+    "listed_count": 1,
+    "created_at": "Wed Nov 18 22:17:47 +0000 2009",
+    "favourites_count": 1190,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6109,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/479323632/IMG_2684.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/479323632/IMG_2684.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2241147624/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2241147624/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/90971924/1348072234",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          3,
+          7
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 231438681729298432,
+        "id_str": "231438681729298432",
+        "indices": [
+          9,
+          29
+        ],
+        "media_url": "http://pbs.twimg.com/media/AzY8QTvCcAAo9xs.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AzY8QTvCcAAo9xs.jpg",
+        "url": "http://t.co/TVOAyr2o",
+        "display_url": "pic.twitter.com/TVOAyr2o",
+        "expanded_url": "http://twitter.com/ChristophMac/status/231438681725104129/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 640,
+            "h": 460,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 431,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 244,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,109 @@
+{
+  "created_at": "Tue Jun 26 19:42:04 +0000 2012",
+  "id": 217704297918504960,
+  "id_str": "217704297918504960",
+  "text": "Guess hoos back! #TSULLY #UVA #victorydance",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 63253013,
+    "id_str": "63253013",
+    "name": "Jenna Schilstra",
+    "screen_name": "jennamayezing",
+    "location": "",
+    "description": "No, I don't speak Belgianese... ",
+    "url": "http://www.youtube.com/user/jennamaye23",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.youtube.com/user/jennamaye23",
+            "expanded_url": null,
+            "indices": [
+              0,
+              39
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 186,
+    "friends_count": 211,
+    "listed_count": 3,
+    "created_at": "Wed Aug 05 20:51:41 +0000 2009",
+    "favourites_count": 63,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 482,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FAC3E9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/405340109/lillyspinkdeltazeta_swatch.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/405340109/lillyspinkdeltazeta_swatch.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1395828990/DSC07332_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1395828990/DSC07332_normal.jpg",
+    "profile_link_color": "40A66C",
+    "profile_sidebar_border_color": "9C5E9C",
+    "profile_sidebar_fill_color": "F5F2F5",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "TSULLY",
+        "indices": [
+          17,
+          24
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          25,
+          29
+        ]
+      },
+      {
+        "text": "victorydance",
+        "indices": [
+          30,
+          43
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

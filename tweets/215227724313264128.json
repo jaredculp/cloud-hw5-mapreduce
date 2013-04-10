@@ -1,0 +1,92 @@
+{
+  "created_at": "Tue Jun 19 23:41:02 +0000 2012",
+  "id": 215227724313264128,
+  "id_str": "215227724313264128",
+  "text": "#UVA Wasn't it only yesterday we were young and carefree and talking about chaos muppets?  Ubi sunt, @Dahlialithwick?  Ubi sunt, Grover?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 492738979,
+    "id_str": "492738979",
+    "name": "Dave Lucas",
+    "screen_name": "DWL929",
+    "location": "Cleveland, Ohio",
+    "description": "Teacher, poet, sometime scholar, full time Cleveland evangelist.  Author of WEATHER (Georgia, 2011), a book of poems.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 43,
+    "friends_count": 86,
+    "listed_count": 1,
+    "created_at": "Wed Feb 15 02:18:23 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 31,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1840059843/250772_604807843461_39001528_33335028_8064756_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1840059843/250772_604807843461_39001528_33335028_8064756_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Dahlialithwick",
+        "name": "Dahlia Lithwick",
+        "id": 135897307,
+        "id_str": "135897307",
+        "indices": [
+          101,
+          116
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

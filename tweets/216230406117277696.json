@@ -1,0 +1,91 @@
+{
+  "created_at": "Fri Jun 22 18:05:20 +0000 2012",
+  "id": 216230406117277696,
+  "id_str": "216230406117277696",
+  "text": "helen dragas to #uva : #sorryimnotsorry",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 251818133,
+    "id_str": "251818133",
+    "name": "Francesca Ernst",
+    "screen_name": "FrancescaErnst",
+    "location": "Washington",
+    "description": "Speeches, social media & sun make me happy.  PreK-12 at Widmeyer, UVA alum & AU grad. Titles are many, opinions all mine.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 191,
+    "friends_count": 478,
+    "listed_count": 5,
+    "created_at": "Sun Feb 13 22:35:05 +0000 2011",
+    "favourites_count": 43,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1149,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3162888878/1f31226aad09e1f4be5d52fdfeb73064_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3162888878/1f31226aad09e1f4be5d52fdfeb73064_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/251818133/1359156771",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          16,
+          20
+        ]
+      },
+      {
+        "text": "sorryimnotsorry",
+        "indices": [
+          23,
+          39
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

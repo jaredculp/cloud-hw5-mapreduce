@@ -1,0 +1,149 @@
+{
+  "created_at": "Wed Aug 29 09:14:35 +0000 2012",
+  "id": 240739211274244096,
+  "id_str": "240739211274244096",
+  "text": "Its 5am and i am up...must be #uva football season! #tailgating #gohoos #cantsleep",
+  "source": "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18979015,
+    "id_str": "18979015",
+    "name": "Jason Cavanaugh",
+    "screen_name": "UVA_LF_Heckler",
+    "location": "Palmyra, VA",
+    "description": "Commenting and followingall #UVA sports.  Caps, Nats, O's fan as well.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 85,
+    "friends_count": 126,
+    "listed_count": 5,
+    "created_at": "Wed Jan 14 15:09:00 +0000 2009",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2554,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/414553082/SBZDJGNYMIZMQDB_20100613010410.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/414553082/SBZDJGNYMIZMQDB_20100613010410.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/422325284/camp_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/422325284/camp_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      37.9288079,
+      -78.346882
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.346882,
+      37.9288079
+    ]
+  },
+  "place": {
+    "id": "7e0ea54869e67f64",
+    "url": "https://api.twitter.com/1.1/geo/id/7e0ea54869e67f64.json",
+    "place_type": "city",
+    "name": "Lake Monticello",
+    "full_name": "Lake Monticello, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.366615,
+            37.88433
+          ],
+          [
+            -78.287692,
+            37.88433
+          ],
+          [
+            -78.287692,
+            37.955882
+          ],
+          [
+            -78.366615,
+            37.955882
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          30,
+          34
+        ]
+      },
+      {
+        "text": "tailgating",
+        "indices": [
+          52,
+          63
+        ]
+      },
+      {
+        "text": "gohoos",
+        "indices": [
+          64,
+          71
+        ]
+      },
+      {
+        "text": "cantsleep",
+        "indices": [
+          72,
+          82
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

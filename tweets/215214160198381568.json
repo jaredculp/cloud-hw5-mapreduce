@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 19 22:47:08 +0000 2012",
+  "id": 215214160198381568,
+  "id_str": "215214160198381568",
+  "text": "The @cavalierdaily is tweeting FOIA'd emails and unveiling crucial points in story of how #Sullivan was ousted at #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17194085,
+    "id_str": "17194085",
+    "name": "seantubbs",
+    "screen_name": "seantubbs",
+    "location": "Charlottesville, Virginia",
+    "description": "Charlottesville Tomorrow reporter interested in public policy discussions about infrastructure, Virginia politics and more.",
+    "url": "http://www.cvilletomorrow.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cvilletomorrow.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 927,
+    "friends_count": 899,
+    "listed_count": 66,
+    "created_at": "Wed Nov 05 18:16:53 +0000 2008",
+    "favourites_count": 5,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5847,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1222976387/captain-sean-tweet_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1222976387/captain-sean-tweet_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 5,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          90,
+          99
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          114,
+          118
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          4,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 19:57:03 +0000 2012",
+  "id": 217708072578203649,
+  "id_str": "217708072578203649",
+  "text": "THE REAL VICTORY RT @UVA: #UVa trending!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 199072293,
+    "id_str": "199072293",
+    "name": "Hilary!",
+    "screen_name": "hilgridz",
+    "location": "",
+    "description": "nothing is better than you",
+    "url": "http://allthingsgomusic.com/author/hilary",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://allthingsgomusic.com/author/hilary",
+            "expanded_url": null,
+            "indices": [
+              0,
+              41
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 236,
+    "friends_count": 172,
+    "listed_count": 4,
+    "created_at": "Tue Oct 05 23:43:28 +0000 2010",
+    "favourites_count": 338,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1123,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "002E47",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/232469295/brightcow.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/232469295/brightcow.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2967131784/d8064d20ed335fa4ea7ef324bb6db9ec_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2967131784/d8064d20ed335fa4ea7ef324bb6db9ec_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/199072293/1355540794",
+    "profile_link_color": "4B68FA",
+    "profile_sidebar_border_color": "D6F558",
+    "profile_sidebar_fill_color": "89F5A3",
+    "profile_text_color": "29237D",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          26,
+          30
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

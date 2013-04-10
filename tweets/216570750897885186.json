@@ -1,0 +1,141 @@
+{
+  "created_at": "Sat Jun 23 16:37:45 +0000 2012",
+  "id": 216570750897885186,
+  "id_str": "216570750897885186",
+  "text": "Great vid @United4Honor Keep fighting 4 dear ol' #UVA http://t.co/EzSrKXwm @katiecouric @margbrennan @michaelvitez @Barber_Tiki @RonSuskind",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20408667,
+    "id_str": "20408667",
+    "name": "Matt Paco",
+    "screen_name": "Pacorazzi",
+    "location": "NYC",
+    "description": "MTV Producer & Pop Culture Junkie w/ a strong interest in new music, travel & education as well as politics, pets & polo.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 302,
+    "friends_count": 279,
+    "listed_count": 3,
+    "created_at": "Mon Feb 09 02:15:04 +0000 2009",
+    "favourites_count": 52,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1146,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2277660334/nwpoa2cubrph2bdv1uxb_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2277660334/nwpoa2cubrph2bdv1uxb_normal.jpeg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          49,
+          53
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/EzSrKXwm",
+        "expanded_url": "http://bit.ly/Lpr6uf",
+        "display_url": "bit.ly/Lpr6uf",
+        "indices": [
+          54,
+          74
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "United4Honor",
+        "name": "United4Honor",
+        "id": 616148101,
+        "id_str": "616148101",
+        "indices": [
+          10,
+          23
+        ]
+      },
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          75,
+          87
+        ]
+      },
+      {
+        "screen_name": "margbrennan",
+        "name": "margaret brennan",
+        "id": 50011708,
+        "id_str": "50011708",
+        "indices": [
+          88,
+          100
+        ]
+      },
+      {
+        "screen_name": "michaelvitez",
+        "name": "michael vitez",
+        "id": 323329846,
+        "id_str": "323329846",
+        "indices": [
+          101,
+          114
+        ]
+      },
+      {
+        "screen_name": "RonSuskind",
+        "name": "Ron Suskind",
+        "id": 248459764,
+        "id_str": "248459764",
+        "indices": [
+          128,
+          139
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

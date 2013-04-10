@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 26 19:42:56 +0000 2012",
+  "id": 217704518287228928,
+  "id_str": "217704518287228928",
+  "text": "RT @gzwalters: Dragas spoke of “middle ground” that allows #UVA to move forward. I dunno, looks like total win for #Sullivan to me.",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 59002693,
+    "id_str": "59002693",
+    "name": "Sandy Beach",
+    "screen_name": "Shhh527",
+    "location": "NOYB",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 909,
+    "friends_count": 431,
+    "listed_count": 82,
+    "created_at": "Wed Jul 22 02:12:33 +0000 2009",
+    "favourites_count": 48,
+    "utc_offset": 12600,
+    "time_zone": "Tehran",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 52114,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2679173127/6a0ebc7cf24637787a4f2bc568a7133c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2679173127/6a0ebc7cf24637787a4f2bc568a7133c_normal.jpeg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "1B4214",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          59,
+          63
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          115,
+          124
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "gzwalters",
+        "name": "Gabriel Walters",
+        "id": 613079901,
+        "id_str": "613079901",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,101 @@
+{
+  "created_at": "Thu Jun 21 18:39:13 +0000 2012",
+  "id": 215876544424460288,
+  "id_str": "215876544424460288",
+  "text": "RT @washingtonpost: \"I've never seen one person have such a negative impact on a large institution like this.\" http://t.co/kfxGENpq #UVA",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 163127104,
+    "id_str": "163127104",
+    "name": "Yulia Putri Aslami",
+    "screen_name": "didinsebin",
+    "location": "ÜT: -6.2915443,106.7398257",
+    "description": "@BellyBagus girl's. IR studies 2010 UIN of Jakarta. Part of DAAD Germany student 2012. Feminist. Photography.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 355,
+    "friends_count": 461,
+    "listed_count": 1,
+    "created_at": "Mon Jul 05 16:28:24 +0000 2010",
+    "favourites_count": 20,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 19120,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B8A474",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/684680415/b8545d2ed395113b4089f262cdac2b53.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/684680415/b8545d2ed395113b4089f262cdac2b53.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2717815931/21e469948a372003303f7ac432b570b2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2717815931/21e469948a372003303f7ac432b570b2_normal.jpeg",
+    "profile_link_color": "E04343",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "30161B",
+    "profile_text_color": "B1D8FA",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          132,
+          136
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/kfxGENpq",
+        "expanded_url": "http://wapo.st/NZvKSH",
+        "display_url": "wapo.st/NZvKSH",
+        "indices": [
+          111,
+          131
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

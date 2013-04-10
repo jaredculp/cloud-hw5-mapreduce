@@ -1,0 +1,114 @@
+{
+  "created_at": "Mon Jun 25 21:41:55 +0000 2012",
+  "id": 217372073549500417,
+  "id_str": "217372073549500417",
+  "text": "@emmi1966 @ThisAmerLife @sivavaid Sadly, this whole saga would probably make an incredible episode of This American Life #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217366827284705280,
+  "in_reply_to_status_id_str": "217366827284705280",
+  "in_reply_to_user_id": 15891845,
+  "in_reply_to_user_id_str": "15891845",
+  "in_reply_to_screen_name": "EmmiNats540",
+  "user": {
+    "id": 18353044,
+    "id_str": "18353044",
+    "name": "Matt Motyl",
+    "screen_name": "MattMotyl",
+    "location": "Charlottesville, VA, USA",
+    "description": "I am a doctoral candidate studying political psychology at the University of Virginia.",
+    "url": "http://people.virginia.edu/~msm6sw/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://people.virginia.edu/~msm6sw/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 87,
+    "friends_count": 240,
+    "listed_count": 0,
+    "created_at": "Wed Dec 24 06:51:02 +0000 2008",
+    "favourites_count": 40,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 931,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0000FF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/583400093/h56y86u7wzqp2tymy1hc.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/583400093/h56y86u7wzqp2tymy1hc.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2328171657/wg9l0ht9rq8uhyqkneqf_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2328171657/wg9l0ht9rq8uhyqkneqf_normal.jpeg",
+    "profile_link_color": "FFA500",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          121,
+          125
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ThisAmerLife",
+        "name": "This American Life",
+        "id": 149180925,
+        "id_str": "149180925",
+        "indices": [
+          10,
+          23
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          24,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

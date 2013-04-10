@@ -1,0 +1,95 @@
+{
+  "created_at": "Tue Jun 26 19:35:57 +0000 2012",
+  "id": 217702758969638912,
+  "id_str": "217702758969638912",
+  "text": "\"...everything will be just like it was before all this happened. And no one will ever mention it again under penalty of torture.\" #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18920826,
+    "id_str": "18920826",
+    "name": "Benjamin L. Carp",
+    "screen_name": "bencarp",
+    "location": "Somerville, MA; New York, NY",
+    "description": "Associate Professor of Early American History, Tufts University, author of Rebels Rising (2007) and Defiance of the Patriots (2010), on the American Revolution",
+    "url": "http://ase.tufts.edu/history/faculty/carp.asp",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ase.tufts.edu/history/faculty/carp.asp",
+            "expanded_url": null,
+            "indices": [
+              0,
+              45
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 562,
+    "friends_count": 407,
+    "listed_count": 46,
+    "created_at": "Mon Jan 12 23:48:50 +0000 2009",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 508,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "999FB8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/130050689/IMG_2093.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/130050689/IMG_2093.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1111512858/Carpauthorphoto_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1111512858/Carpauthorphoto_normal.jpg",
+    "profile_link_color": "8EBECC",
+    "profile_sidebar_border_color": "6B7282",
+    "profile_sidebar_fill_color": "70534E",
+    "profile_text_color": "120D12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          131,
+          135
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

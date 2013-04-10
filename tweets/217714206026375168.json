@@ -1,0 +1,101 @@
+{
+  "created_at": "Tue Jun 26 20:21:26 +0000 2012",
+  "id": 217714206026375168,
+  "id_str": "217714206026375168",
+  "text": "Nice! RT @sbrydge: Nice day to experience a little #UVA history. http://t.co/LCzcBm5w",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13453512,
+    "id_str": "13453512",
+    "name": "bragg",
+    "screen_name": "bragg",
+    "location": "New York, NY",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 55,
+    "friends_count": 327,
+    "listed_count": 1,
+    "created_at": "Wed Feb 13 23:58:59 +0000 2008",
+    "favourites_count": 18,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 936,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1263800506/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1263800506/image_normal.jpg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          51,
+          55
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/LCzcBm5w",
+        "expanded_url": "http://twitter.com/sbrydge/status/217710675542278144/photo/1",
+        "display_url": "pic.twitter.com/LCzcBm5w",
+        "indices": [
+          65,
+          85
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sbrydge",
+        "name": "Shawn Brydge",
+        "id": 252169141,
+        "id_str": "252169141",
+        "indices": [
+          9,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

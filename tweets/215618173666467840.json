@@ -1,0 +1,127 @@
+{
+  "created_at": "Thu Jun 21 01:32:33 +0000 2012",
+  "id": 215618173666467840,
+  "id_str": "215618173666467840",
+  "text": "The Wes angle: \"sustainability.\" MT @cavalierdaily: Dragas sent @insidehighered article about @wesleyan_u in email http://t.co/wrfWABop",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3287471,
+    "id_str": "3287471",
+    "name": "Peter Zingg",
+    "screen_name": "pzingg",
+    "location": "Dewitt, California",
+    "description": "k12 education x architecture x programming x film - background courtesy Antonio Gaudi",
+    "url": "http://bipedsmonitor.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://bipedsmonitor.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 246,
+    "friends_count": 406,
+    "listed_count": 14,
+    "created_at": "Tue Apr 03 05:01:45 +0000 2007",
+    "favourites_count": 467,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3952,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C7AA75",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/49484583/guell_tile.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/49484583/guell_tile.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/556209419/sol_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/556209419/sol_normal.jpg",
+    "profile_link_color": "992913",
+    "profile_sidebar_border_color": "0C4982",
+    "profile_sidebar_fill_color": "F2E59E",
+    "profile_text_color": "2B5750",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/wrfWABop",
+        "expanded_url": "http://www.insidehighered.com/news/2012/06/01/wesleyan-shifts-away-need-blind-policy-citing-financial-and-ethical-concerns",
+        "display_url": "insidehighered.com/news/2012/06/0…",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          36,
+          50
+        ]
+      },
+      {
+        "screen_name": "insidehighered",
+        "name": "Inside Higher Ed",
+        "id": 16045268,
+        "id_str": "16045268",
+        "indices": [
+          64,
+          79
+        ]
+      },
+      {
+        "screen_name": "wesleyan_u",
+        "name": "Wesleyan University",
+        "id": 26759755,
+        "id_str": "26759755",
+        "indices": [
+          94,
+          105
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,159 @@
+{
+  "created_at": "Thu Jun 21 11:44:20 +0000 2012",
+  "id": 215772136118296576,
+  "id_str": "215772136118296576",
+  "text": "Isn't 1st time for issues @ #UVA http://t.co/8fJHuCv1 MT @nytjim: Supporters of President Sullivan plotting to get votes to reinstate her",
+  "source": "<a href=\"http://www.handmark.com\" rel=\"nofollow\">TweetCaster for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 44494276,
+    "id_str": "44494276",
+    "name": "Rob Lalka",
+    "screen_name": "RobLalka",
+    "location": "On The Road",
+    "description": "Assisting clients on #impinv/#philanthropy, including Howard G Buffett Foundation, 5 Stone Green Capital, and a variety of #socent startups.",
+    "url": "http://www.commonwealthadvisors.org/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.commonwealthadvisors.org/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3924,
+    "friends_count": 1946,
+    "listed_count": 245,
+    "created_at": "Wed Jun 03 23:56:57 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5218,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/76701460/FINAL_FINAL_FINAL3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/76701460/FINAL_FINAL_FINAL3.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2109737964/Profile_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2109737964/Profile_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/44494276/1359565732",
+    "profile_link_color": "547CB8",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "F0F9FF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.80724,
+      -77.059569
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.059569,
+      38.80724
+    ]
+  },
+  "place": {
+    "id": "d6819fe60643ebc1",
+    "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
+    "place_type": "city",
+    "name": "Alexandria",
+    "full_name": "Alexandria, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.144359,
+            38.785216
+          ],
+          [
+            -77.037288,
+            38.785216
+          ],
+          [
+            -77.037288,
+            38.845011
+          ],
+          [
+            -77.144359,
+            38.845011
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/8fJHuCv1",
+        "expanded_url": "http://bit.ly/KmTYPw",
+        "display_url": "bit.ly/KmTYPw",
+        "indices": [
+          33,
+          53
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nytjim",
+        "name": "nytjim",
+        "id": 1131868777,
+        "id_str": "1131868777",
+        "indices": [
+          57,
+          64
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

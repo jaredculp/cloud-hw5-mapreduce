@@ -1,0 +1,93 @@
+{
+  "created_at": "Sun Jun 24 02:00:22 +0000 2012",
+  "id": 216712339246948353,
+  "id_str": "216712339246948353",
+  "text": "@Danii_pas solo porque tengo cara de #Uva me discriminas waaaaaa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216712066919170049,
+  "in_reply_to_status_id_str": "216712066919170049",
+  "in_reply_to_user_id": 187288937,
+  "in_reply_to_user_id_str": "187288937",
+  "in_reply_to_screen_name": "Danii_pas",
+  "user": {
+    "id": 467877808,
+    "id_str": "467877808",
+    "name": "Soy chaparrita ",
+    "screen_name": "pienso_yowaja",
+    "location": "",
+    "description": "Solo trato de hacer la vida mas divertida wajjaja romper la rutina sin importar lo que digan :3 ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 283,
+    "friends_count": 253,
+    "listed_count": 1,
+    "created_at": "Wed Jan 18 23:08:49 +0000 2012",
+    "favourites_count": 136,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 16805,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "10298F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/768331122/7361f187f358978385ac5bda44c7cec3.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/768331122/7361f187f358978385ac5bda44c7cec3.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3195161658/0c8d25e6f7b650f35c364bdebe2a3599_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3195161658/0c8d25e6f7b650f35c364bdebe2a3599_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/467877808/1356062812",
+    "profile_link_color": "C012EB",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Danii_pas",
+        "name": "NoseQuePoner --'",
+        "id": 187288937,
+        "id_str": "187288937",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

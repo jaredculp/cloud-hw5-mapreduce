@@ -1,0 +1,90 @@
+{
+  "created_at": "Tue Jul 03 14:18:03 +0000 2012",
+  "id": 220159472977461248,
+  "id_str": "220159472977461248",
+  "text": "Can't wait for the weekend! #Midsummer #UVa",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 339230453,
+    "id_str": "339230453",
+    "name": "Tracy Rhee",
+    "screen_name": "xtrheeee",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 62,
+    "friends_count": 51,
+    "listed_count": 0,
+    "created_at": "Wed Jul 20 19:46:50 +0000 2011",
+    "favourites_count": 207,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1947,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FAAFAF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/294032136/tumblr_lkqqjq7Fd01qb7ptd.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/294032136/tumblr_lkqqjq7Fd01qb7ptd.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1451827344/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1451827344/image_normal.jpg",
+    "profile_link_color": "FAAFAF",
+    "profile_sidebar_border_color": "FAAFAF",
+    "profile_sidebar_fill_color": "F5F5F5",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Midsummer",
+        "indices": [
+          28,
+          38
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          39,
+          43
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

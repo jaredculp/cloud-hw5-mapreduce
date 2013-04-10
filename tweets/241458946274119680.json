@@ -1,0 +1,104 @@
+{
+  "created_at": "Fri Aug 31 08:54:33 +0000 2012",
+  "id": 241458946274119680,
+  "id_str": "241458946274119680",
+  "text": "@Fahsaizz ก็ดำได้บ้างนะ ดำบ้างอะไรบ้าง #UVA+UVB",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 241458609387610112,
+  "in_reply_to_status_id_str": "241458609387610112",
+  "in_reply_to_user_id": 276331391,
+  "in_reply_to_user_id_str": "276331391",
+  "in_reply_to_screen_name": "Fahsaizz",
+  "user": {
+    "id": 554897189,
+    "id_str": "554897189",
+    "name": "Ateam",
+    "screen_name": "ateamshow",
+    "location": "",
+    "description": "ดนตรีนั้นคือชีวิต จังหวะคอยลิขิตให้ชีวิตก้าวไป!",
+    "url": "http://www.facebook.com/Ateams.AK",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/Ateams.AK",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 35,
+    "friends_count": 126,
+    "listed_count": 0,
+    "created_at": "Mon Apr 16 05:57:21 +0000 2012",
+    "favourites_count": 1,
+    "utc_offset": 25200,
+    "time_zone": "Bangkok",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 844,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2554999072/9gfd0vxnyhgme9gcq3zn_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2554999072/9gfd0vxnyhgme9gcq3zn_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          39,
+          43
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Fahsaizz",
+        "name": "Napatcharada",
+        "id": 276331391,
+        "id_str": "276331391",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

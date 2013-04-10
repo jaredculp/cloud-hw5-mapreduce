@@ -1,0 +1,148 @@
+{
+  "created_at": "Thu Jun 21 17:18:50 +0000 2012",
+  "id": 215856314524516352,
+  "id_str": "215856314524516352",
+  "text": "Sullivan resignation spotlights long-running debate about online education #highered @cavalierdaily http://t.co/QQU0Q0um",
+  "source": "<a href=\"http://bitly.com\" rel=\"nofollow\">bitly</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 10221362,
+    "id_str": "10221362",
+    "name": "Sean Gallagher",
+    "screen_name": "SeanGallagherLA",
+    "location": "London",
+    "description": "What I'm reading and stuff. Where I am: London. Where I've been: CMN, http://t.co/PniIK5TH, http://t.co/n98LiqGw, http://t.co/AbxUDyde, http://t.co/M9iD4MuJ",
+    "url": "http://twitter.com/SeanGallagherLA",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://twitter.com/SeanGallagherLA",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/PniIK5TH",
+            "expanded_url": "http://latimes.com",
+            "display_url": "latimes.com",
+            "indices": [
+              70,
+              90
+            ]
+          },
+          {
+            "url": "http://t.co/n98LiqGw",
+            "expanded_url": "http://sddt.com",
+            "display_url": "sddt.com",
+            "indices": [
+              92,
+              112
+            ]
+          },
+          {
+            "url": "http://t.co/AbxUDyde",
+            "expanded_url": "http://nytimes.com",
+            "display_url": "nytimes.com",
+            "indices": [
+              114,
+              134
+            ]
+          },
+          {
+            "url": "http://t.co/M9iD4MuJ",
+            "expanded_url": "http://aol.com",
+            "display_url": "aol.com",
+            "indices": [
+              136,
+              156
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 933,
+    "friends_count": 549,
+    "listed_count": 57,
+    "created_at": "Tue Nov 13 18:08:44 +0000 2007",
+    "favourites_count": 25,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5687,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2884135290/88e9f74ff2b2a1348fd6eafe5f37ca54_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2884135290/88e9f74ff2b2a1348fd6eafe5f37ca54_normal.jpeg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "highered",
+        "indices": [
+          75,
+          84
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/QQU0Q0um",
+        "expanded_url": "http://bit.ly/M9O5bM",
+        "display_url": "bit.ly/M9O5bM",
+        "indices": [
+          100,
+          120
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          85,
+          99
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

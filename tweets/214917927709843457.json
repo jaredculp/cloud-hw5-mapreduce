@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Jun 19 03:10:01 +0000 2012",
+  "id": 214917927709843457,
+  "id_str": "214917927709843457",
+  "text": "RT @cmichaelcarlson: Facebook page to support #Sullivan at #uva is only 8 friends short of 8,000.  https://t.co/HCej2aPx",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 75153477,
+    "id_str": "75153477",
+    "name": "Micki Maynard",
+    "screen_name": "CulinaryWoman",
+    "location": "Ann Arbor and on the road",
+    "description": "For people who want to eat well when they travel. Tweets from @MickiMaynard of @Forbes @Gadling @AtlanticCities. @NYTimes alum, @awesomefood Trustee. ",
+    "url": "http://www.culinarywoman.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.culinarywoman.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 567,
+    "friends_count": 366,
+    "listed_count": 14,
+    "created_at": "Fri Sep 18 00:11:41 +0000 2009",
+    "favourites_count": 81,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2369,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/37748443/K3SXfa.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/37748443/K3SXfa.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/437814199/K4lSlL_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/437814199/K4lSlL_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          46,
+          55
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          59,
+          63
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/HCej2aPx",
+        "expanded_url": "https://www.facebook.com/groups/332890806789033/",
+        "display_url": "facebook.com/groups/3328908…",
+        "indices": [
+          99,
+          120
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cmichaelcarlson",
+        "name": "Michael Carlson",
+        "id": 36659926,
+        "id_str": "36659926",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

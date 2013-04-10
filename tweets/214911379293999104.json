@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 19 02:44:00 +0000 2012",
+  "id": 214911379293999104,
+  "id_str": "214911379293999104",
+  "text": "President #Sullivan making her way to the Rotunda to speak to the BOV #UVA https://t.co/7D8nfQ1v",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 313676266,
+    "id_str": "313676266",
+    "name": "The Academic Wino",
+    "screen_name": "TheAcademicWino",
+    "location": "",
+    "description": "The Academic Wino is a blog dedicated to dissecting current research in enology, viticulture, and more, while adding in a little fun into the mix!",
+    "url": "http://www.academicwino.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.academicwino.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2042,
+    "friends_count": 1897,
+    "listed_count": 95,
+    "created_at": "Thu Jun 09 01:31:38 +0000 2011",
+    "favourites_count": 4,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3684,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2525710056/ca2mpl4z950has3avaok_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2525710056/ca2mpl4z950has3avaok_normal.jpeg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          10,
+          19
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          70,
+          74
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/7D8nfQ1v",
+        "expanded_url": "https://www.facebook.com/photo.php?fbid=10150893725440924&set=a.10150239431945924.321388.727995923&type=1&theater",
+        "display_url": "facebook.com/photo.php?fbid…",
+        "indices": [
+          75,
+          96
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

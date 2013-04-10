@@ -1,0 +1,102 @@
+{
+  "created_at": "Tue Jun 26 21:53:24 +0000 2012",
+  "id": 217737351110213632,
+  "id_str": "217737351110213632",
+  "text": "@petedominick Twitter rocks!Just learned on twitter #UVA Pres Teresa Sullivan has been unanimously reinstated. From @Dahlialithwick",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 15466988,
+  "in_reply_to_user_id_str": "15466988",
+  "in_reply_to_screen_name": "PeteDominick",
+  "user": {
+    "id": 254287052,
+    "id_str": "254287052",
+    "name": "Tina Winsett",
+    "screen_name": "tmwinsett",
+    "location": "The Edge of Sanity",
+    "description": "Mom:2girls,youngest w/autism;Caterer;former Social Worker;UF Alum;Breast cancer surv;Lover of life;Hate dementia(taking mom)",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 631,
+    "friends_count": 1098,
+    "listed_count": 16,
+    "created_at": "Sat Feb 19 00:40:43 +0000 2011",
+    "favourites_count": 1976,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 39565,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2819958991/f08bb046379bc73d3da031f870866c44_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2819958991/f08bb046379bc73d3da031f870866c44_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          52,
+          56
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PeteDominick",
+        "name": "Pete Dominick",
+        "id": 15466988,
+        "id_str": "15466988",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "Dahlialithwick",
+        "name": "Dahlia Lithwick",
+        "id": 135897307,
+        "id_str": "135897307",
+        "indices": [
+          116,
+          131
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,128 @@
+{
+  "created_at": "Fri Aug 10 16:27:11 +0000 2012",
+  "id": 233962711464148992,
+  "id_str": "233962711464148992",
+  "text": "RT @suzimcc: New petition to support the August 8th Open Letter to the BOV by 14 UVA alums #BOVReform #UVA #Sullivan http://t.co/m7OzDZGY",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 164530478,
+    "id_str": "164530478",
+    "name": "Coy Barefoot",
+    "screen_name": "coybarefoot",
+    "location": "Charlottesville, VA",
+    "description": "Host of Charlottesville—Right Now!, best-selling author, historian, adjunct faculty at UVA, and Ironman triathlete.",
+    "url": "http://t.co/jcnDw5aQ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/jcnDw5aQ",
+            "expanded_url": "http://www.coybarefoot.com",
+            "display_url": "coybarefoot.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1000,
+    "friends_count": 591,
+    "listed_count": 47,
+    "created_at": "Fri Jul 09 02:58:37 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5181,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/121784068/composite3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/121784068/composite3.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2556297747/ps1qahqwn1nhenwyuabg_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2556297747/ps1qahqwn1nhenwyuabg_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOVReform",
+        "indices": [
+          91,
+          101
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          102,
+          106
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          107,
+          116
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/m7OzDZGY",
+        "expanded_url": "http://chn.ge/NnMwad",
+        "display_url": "chn.ge/NnMwad",
+        "indices": [
+          117,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "suzimcc",
+        "name": "Suzi McC",
+        "id": 20621761,
+        "id_str": "20621761",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

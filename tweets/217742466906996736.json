@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue Jun 26 22:13:44 +0000 2012",
+  "id": 217742466906996736,
+  "id_str": "217742466906996736",
+  "text": "#UVA's president has been reinstated. @MichaelShure @SivaVaid &amp; Julian Bond break down the news &amp; the future of public education. 7et/4pt",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393588826,
+    "id_str": "393588826",
+    "name": "TYT on Current TV",
+    "screen_name": "TYTonCurrent",
+    "location": "Los Angeles",
+    "description": "The Young Turks with Cenk Uygur airs MON-THURS at 7E/4P on Current TV. Go to http://t.co/oc4pv0BH for channel info.",
+    "url": "http://current.com/theyoungturks",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://current.com/theyoungturks",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/oc4pv0BH",
+            "expanded_url": "http://current.com/GetTYT",
+            "display_url": "current.com/GetTYT",
+            "indices": [
+              77,
+              97
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 13947,
+    "friends_count": 1728,
+    "listed_count": 434,
+    "created_at": "Tue Oct 18 19:26:33 +0000 2011",
+    "favourites_count": 196,
+    "utc_offset": -32400,
+    "time_zone": "Alaska",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11260,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/776102502/6fc48168bca373c70aa5d42b20b3ded2.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/776102502/6fc48168bca373c70aa5d42b20b3ded2.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1676328441/TYT_twittericon7_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1676328441/TYT_twittericon7_normal.jpg",
+    "profile_link_color": "A00404",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 5,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "michaelshure",
+        "name": "Michael Shure",
+        "id": 161752401,
+        "id_str": "161752401",
+        "indices": [
+          38,
+          51
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          52,
+          61
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

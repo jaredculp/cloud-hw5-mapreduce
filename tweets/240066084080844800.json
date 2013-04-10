@@ -1,0 +1,179 @@
+{
+  "created_at": "Mon Aug 27 12:39:50 +0000 2012",
+  "id": 240066084080844800,
+  "id_str": "240066084080844800",
+  "text": "The future's so bright...Welcome to McIntire! #UVA http://t.co/yAvMG3KG",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21306259,
+    "id_str": "21306259",
+    "name": "Allison Teweles",
+    "screen_name": "allisonteweles",
+    "location": "Charlottesville, VA",
+    "description": "Connecting companies to students and faculty of the McIntire School of Commerce at UVA.",
+    "url": "http://commerce.virginia.edu/info/corporate/relations/Pages/CorporateFoundationRelations.aspx",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://commerce.virginia.edu/info/corporate/relations/Pages/CorporateFoundationRelations.aspx",
+            "expanded_url": null,
+            "indices": [
+              0,
+              93
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 226,
+    "friends_count": 407,
+    "listed_count": 6,
+    "created_at": "Thu Feb 19 15:15:07 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 453,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/8649263/vfiles11436.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/8649263/vfiles11436.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1139440351/UVAM96_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1139440351/UVAM96_normal.JPG",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.03302478,
+      -78.50417219
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.50417219,
+      38.03302478
+    ]
+  },
+  "place": {
+    "id": "a5aee0034fb1fb02",
+    "url": "https://api.twitter.com/1.1/geo/id/a5aee0034fb1fb02.json",
+    "place_type": "city",
+    "name": "Jack Jouett",
+    "full_name": "Jack Jouett, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.593326,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.143404
+          ],
+          [
+            -78.593326,
+            38.143404
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          46,
+          50
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 240066084089233408,
+        "id_str": "240066084089233408",
+        "indices": [
+          51,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/media/A1Ti1ODCAAAkCX2.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A1Ti1ODCAAAkCX2.jpg",
+        "url": "http://t.co/yAvMG3KG",
+        "display_url": "pic.twitter.com/yAvMG3KG",
+        "expanded_url": "http://twitter.com/allisonteweles/status/240066084080844800/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 450,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 768,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 255,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

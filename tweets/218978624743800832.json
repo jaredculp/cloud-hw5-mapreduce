@@ -1,0 +1,111 @@
+{
+  "created_at": "Sat Jun 30 08:05:47 +0000 2012",
+  "id": 218978624743800832,
+  "id_str": "218978624743800832",
+  "text": "@ilsevH succes met leren! Tentamen #strategy &amp; CA? #uva",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 218977408123019265,
+  "in_reply_to_status_id_str": "218977408123019265",
+  "in_reply_to_user_id": 101200072,
+  "in_reply_to_user_id_str": "101200072",
+  "in_reply_to_screen_name": "ilsevH",
+  "user": {
+    "id": 166674350,
+    "id_str": "166674350",
+    "name": "Marco van der Hut",
+    "screen_name": "MarcovanderHut",
+    "location": "Gouda, Nederland",
+    "description": "#Annabelle #ASR #Online #Marketing #NieuweWereld #UvA #BusinessSchool #neXus #Ambitie!",
+    "url": "http://nl.linkedin.com/in/marcovanderhut",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://nl.linkedin.com/in/marcovanderhut",
+            "expanded_url": null,
+            "indices": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 124,
+    "friends_count": 175,
+    "listed_count": 4,
+    "created_at": "Wed Jul 14 18:56:04 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 456,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/632756270/twilk_background_5029f31d50383.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/632756270/twilk_background_5029f31d50383.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2992198308/60f929f22e65e5bf8ce55a771d078b31_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2992198308/60f929f22e65e5bf8ce55a771d078b31_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "strategy",
+        "indices": [
+          35,
+          44
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          55,
+          59
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ilsevH",
+        "name": "Ilse Phielix",
+        "id": 101200072,
+        "id_str": "101200072",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

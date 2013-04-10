@@ -1,0 +1,198 @@
+{
+  "created_at": "Sun Aug 19 17:31:07 +0000 2012",
+  "id": 237240289134247936,
+  "id_str": "237240289134247936",
+  "text": "Wine tasting... Tasting of life #wine #food #li #longisland #tasting #puglia #uva #ny   @ Pugliese Vineyards http://t.co/hWd9B54q",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13521752,
+    "id_str": "13521752",
+    "name": "Gabo",
+    "screen_name": "geekdude",
+    "location": "NYC",
+    "description": "Computers + Internet + Wine + Food + Photography = Cycling = My life ",
+    "url": "http://www.flickr.com/photos/mcximus/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.flickr.com/photos/mcximus/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 230,
+    "friends_count": 635,
+    "listed_count": 3,
+    "created_at": "Fri Feb 15 17:02:31 +0000 2008",
+    "favourites_count": 15,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 633,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/326955459/DSC_1216.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/326955459/DSC_1216.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2876084740/99b10016436c0f33d29728f314ba1bdc_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2876084740/99b10016436c0f33d29728f314ba1bdc_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      41.02652468,
+      -72.474294
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -72.474294,
+      41.02652468
+    ]
+  },
+  "place": {
+    "id": "8a8d78ea20de004a",
+    "url": "https://api.twitter.com/1.1/geo/id/8a8d78ea20de004a.json",
+    "place_type": "city",
+    "name": "Cutchogue",
+    "full_name": "Cutchogue, NY",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.528742,
+            40.985253
+          ],
+          [
+            -72.433688,
+            40.985253
+          ],
+          [
+            -72.433688,
+            41.041665
+          ],
+          [
+            -72.528742,
+            41.041665
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "wine",
+        "indices": [
+          32,
+          37
+        ]
+      },
+      {
+        "text": "food",
+        "indices": [
+          38,
+          43
+        ]
+      },
+      {
+        "text": "li",
+        "indices": [
+          44,
+          47
+        ]
+      },
+      {
+        "text": "longisland",
+        "indices": [
+          48,
+          59
+        ]
+      },
+      {
+        "text": "tasting",
+        "indices": [
+          60,
+          68
+        ]
+      },
+      {
+        "text": "puglia",
+        "indices": [
+          69,
+          76
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          77,
+          81
+        ]
+      },
+      {
+        "text": "ny",
+        "indices": [
+          82,
+          85
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/hWd9B54q",
+        "expanded_url": "http://instagr.am/p/OhJr8GJszp/",
+        "display_url": "instagr.am/p/OhJr8GJszp/",
+        "indices": [
+          109,
+          129
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

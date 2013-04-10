@@ -1,0 +1,111 @@
+{
+  "created_at": "Wed Jul 04 01:19:39 +0000 2012",
+  "id": 220325972006801408,
+  "id_str": "220325972006801408",
+  "text": "HAPPY BIRTHDAY #TOD\t#SULLIVAN http://t.co/DhntnDFh",
+  "source": "<a href=\"http://pinterest.com\" rel=\"nofollow\">Pinterest</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 136389711,
+    "id_str": "136389711",
+    "name": "SW KIA Rockwall",
+    "screen_name": "rockwallkia",
+    "location": "Rockwall, TX",
+    "description": "Our family is proud to serve Rockwall Kia customers! We've joined Twitter to meet our goal of 100% customer satisfaction!",
+    "url": "http://www.southwestkia-rockwall.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.southwestkia-rockwall.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 464,
+    "friends_count": 1370,
+    "listed_count": 3,
+    "created_at": "Fri Apr 23 20:27:36 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2366,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FAE6C3",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/344773161/Twitter_SWKia_Rockwall.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/344773161/Twitter_SWKia_Rockwall.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1583883938/Twitter-PI_Rockwall_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1583883938/Twitter-PI_Rockwall_normal.png",
+    "profile_link_color": "B30018",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "5C584D",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "TOD",
+        "indices": [
+          15,
+          19
+        ]
+      },
+      {
+        "text": "SULLIVAN",
+        "indices": [
+          20,
+          29
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/DhntnDFh",
+        "expanded_url": "http://pinterest.com/pin/191473421627981980/",
+        "display_url": "pinterest.com/pin/1914734216…",
+        "indices": [
+          30,
+          50
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

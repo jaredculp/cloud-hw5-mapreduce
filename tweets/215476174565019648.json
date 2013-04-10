@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Jun 20 16:08:18 +0000 2012",
+  "id": 215476174565019648,
+  "id_str": "215476174565019648",
+  "text": "Do like RT @mattbfarwell Great shirt in the #uva creative writing lounge. \"careful, or you'll end up in my novel\" @MattGallagher83",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 110474012,
+    "id_str": "110474012",
+    "name": "Matt Gallagher",
+    "screen_name": "MattGallagher83",
+    "location": "Brooklyn ",
+    "description": "Former Army officer turned writer/MFA student. Likes include Wake Forest bball and hippie buses. Once dropped the F-bomb on C-SPAN2. ",
+    "url": "http://t.co/PBT8gfXD",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/PBT8gfXD",
+            "expanded_url": "http://www.FireAndForgetBook.com",
+            "display_url": "FireAndForgetBook.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1534,
+    "friends_count": 212,
+    "listed_count": 74,
+    "created_at": "Mon Feb 01 17:37:50 +0000 2010",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4206,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "53545C",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2331027449/fki2zx2z1pbixgig1efp_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2331027449/fki2zx2z1pbixgig1efp_normal.jpeg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          44,
+          48
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mattbfarwell",
+        "name": "Matt Farwell",
+        "id": 25077028,
+        "id_str": "25077028",
+        "indices": [
+          11,
+          24
+        ]
+      },
+      {
+        "screen_name": "MattGallagher83",
+        "name": "Matt Gallagher",
+        "id": 110474012,
+        "id_str": "110474012",
+        "indices": [
+          114,
+          130
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

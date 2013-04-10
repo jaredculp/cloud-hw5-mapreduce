@@ -1,0 +1,111 @@
+{
+  "created_at": "Fri Jun 22 20:44:14 +0000 2012",
+  "id": 216270393160376320,
+  "id_str": "216270393160376320",
+  "text": "@dangerscarf \"@UVa_Alumni Association has delivered 5,500 responses from #UVa alums to BOV office. Tied up with a bow. http://t.co/g8qiC5La\"",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216224365153492992,
+  "in_reply_to_status_id_str": "216224365153492992",
+  "in_reply_to_user_id": 15921550,
+  "in_reply_to_user_id_str": "15921550",
+  "in_reply_to_screen_name": "dangerscarf",
+  "user": {
+    "id": 177120316,
+    "id_str": "177120316",
+    "name": "Victoria Long",
+    "screen_name": "victorialong",
+    "location": "Central Virginia",
+    "description": "@pca_arts Communications Director //\r\n@newcityarts Artist-in-Residence at The Haven // @cvillesoup Facilitator",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 99,
+    "friends_count": 99,
+    "listed_count": 1,
+    "created_at": "Wed Aug 11 08:44:32 +0000 2010",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 883,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2255552842/twitterphoto_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2255552842/twitterphoto_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          73,
+          77
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/g8qiC5La",
+        "expanded_url": "http://yfrog.com/oeejuloj",
+        "display_url": "yfrog.com/oeejuloj",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dangerscarf",
+        "name": "j soma",
+        "id": 15921550,
+        "id_str": "15921550",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          14,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

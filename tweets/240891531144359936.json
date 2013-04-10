@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Aug 29 19:19:51 +0000 2012",
+  "id": 240891531144359936,
+  "id_str": "240891531144359936",
+  "text": "The last two paragraphs are a tragic reminder for increased disclosure #uva http://t.co/7B4De6kt",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Safari on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 299859858,
+    "id_str": "299859858",
+    "name": "CandidateCheck",
+    "screen_name": "CandidateCheck",
+    "location": "Seattle, WA",
+    "description": "Trust is the currency of every campaign.",
+    "url": "https://candidatecheck.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://candidatecheck.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 138,
+    "friends_count": 474,
+    "listed_count": 2,
+    "created_at": "Mon May 16 20:02:35 +0000 2011",
+    "favourites_count": 9,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 239,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1632784561/logo-candidatecheck_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1632784561/logo-candidatecheck_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          71,
+          75
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/7B4De6kt",
+        "expanded_url": "http://m.washingtonpost.com/local/crime/george-huguely-sentencing-set-in-yeardley-love-murder/2012/08/29/ecfc2d6a-f127-11e1-adc6-87dfa8eff430_story.html",
+        "display_url": "m.washingtonpost.com/local/crime/ge…",
+        "indices": [
+          76,
+          96
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

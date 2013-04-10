@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Aug 21 16:36:51 +0000 2012",
+  "id": 237951410862428160,
+  "id_str": "237951410862428160",
+  "text": "http://t.co/wBx21ApI #Smoke #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 735365454,
+    "id_str": "735365454",
+    "name": "Hoos Inc.",
+    "screen_name": "Hoos_Inc",
+    "location": "RVA to FUMA to the world.",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 44,
+    "friends_count": 157,
+    "listed_count": 1,
+    "created_at": "Fri Aug 03 18:55:54 +0000 2012",
+    "favourites_count": 29,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 277,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2477503147/jt1x7lguoeac2ebxb8dt_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2477503147/jt1x7lguoeac2ebxb8dt_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Smoke",
+        "indices": [
+          21,
+          27
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/wBx21ApI",
+        "expanded_url": "http://www.youtube.com/watch?v=2HCdRk0o5yk",
+        "display_url": "youtube.com/watch?v=2HCdRk…",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

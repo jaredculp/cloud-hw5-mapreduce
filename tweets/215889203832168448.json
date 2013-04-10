@@ -1,0 +1,108 @@
+{
+  "created_at": "Thu Jun 21 19:29:31 +0000 2012",
+  "id": 215889203832168448,
+  "id_str": "215889203832168448",
+  "text": "Always a good analysis // RT @larrysabato: Pawlenty up, Rubio down -- see our updated Crystal Ball VP ratings here: http://t.co/1EGvCCMT",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 36732143,
+    "id_str": "36732143",
+    "name": "270toWin",
+    "screen_name": "270toWin",
+    "location": "",
+    "description": "Create and share your 2012 presidential election forecast with our interactive map; review election polls.",
+    "url": "http://www.270towin.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.270towin.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2399,
+    "friends_count": 182,
+    "listed_count": 64,
+    "created_at": "Thu Apr 30 18:21:05 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 855,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "707080",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/423120141/swing.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/423120141/swing.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1792132967/logo_capture_for_twitter_normal.PNG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1792132967/logo_capture_for_twitter_normal.PNG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/36732143/1350409027",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/1EGvCCMT",
+        "expanded_url": "http://bit.ly/NUS286",
+        "display_url": "bit.ly/NUS286",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          29,
+          41
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

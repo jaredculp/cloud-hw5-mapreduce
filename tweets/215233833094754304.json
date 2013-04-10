@@ -1,0 +1,99 @@
+{
+  "created_at": "Wed Jun 20 00:05:19 +0000 2012",
+  "id": 215233833094754304,
+  "id_str": "215233833094754304",
+  "text": "@dandrezner I'm so proud of my alma mater this week #notreally #UVA",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215232771306684417,
+  "in_reply_to_status_id_str": "215232771306684417",
+  "in_reply_to_user_id": 75797367,
+  "in_reply_to_user_id_str": "75797367",
+  "in_reply_to_screen_name": "dandrezner",
+  "user": {
+    "id": 39587020,
+    "id_str": "39587020",
+    "name": "Eric Cox",
+    "screen_name": "ewctcu",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 65,
+    "friends_count": 149,
+    "listed_count": 2,
+    "created_at": "Tue May 12 20:25:39 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1286,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1237079690/twit_profile_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1237079690/twit_profile_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "notreally",
+        "indices": [
+          52,
+          62
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          63,
+          67
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dandrezner",
+        "name": "Daniel Drezner",
+        "id": 75797367,
+        "id_str": "75797367",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

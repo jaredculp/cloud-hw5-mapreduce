@@ -1,0 +1,118 @@
+{
+  "created_at": "Wed Aug 15 13:52:53 +0000 2012",
+  "id": 235735819376287746,
+  "id_str": "235735819376287746",
+  "text": "@cavalierdaily what about students making behaviour changes? Could #UVa find more #climateaction through behavioural #conservation methods?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 235726184988684289,
+  "in_reply_to_status_id_str": "235726184988684289",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 14235784,
+    "id_str": "14235784",
+    "name": "Zerofootprint",
+    "screen_name": "zerofootprint",
+    "location": "Toronto",
+    "description": "Zerofootprint shows energy in ways that help people understand it—and once that light goes on for people, they start to think about turning one off. ",
+    "url": "http://zerofootprint.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://zerofootprint.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6228,
+    "friends_count": 3552,
+    "listed_count": 418,
+    "created_at": "Thu Mar 27 14:59:56 +0000 2008",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2478,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/393941383/Slide1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/393941383/Slide1.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2403717239/aowa8yhlzphedp1tvrld_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2403717239/aowa8yhlzphedp1tvrld_normal.png",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          67,
+          71
+        ]
+      },
+      {
+        "text": "climateaction",
+        "indices": [
+          82,
+          96
+        ]
+      },
+      {
+        "text": "conservation",
+        "indices": [
+          117,
+          130
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

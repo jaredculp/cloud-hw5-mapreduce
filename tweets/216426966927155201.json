@@ -1,0 +1,124 @@
+{
+  "created_at": "Sat Jun 23 07:06:24 +0000 2012",
+  "id": 216426966927155201,
+  "id_str": "216426966927155201",
+  "text": "RT @s_t_e_v_e_jones: \"facebook apple seeking to be life operating systems @sivavaid\" #websci12 #socialcomputing #empowerment or #serfdom ?",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 37388206,
+    "id_str": "37388206",
+    "name": "Mogens H. Sørensen",
+    "screen_name": "mhsorens",
+    "location": "Copenhagen, DK",
+    "description": "Access, please ... I like information architectured, networks analysed, data visualised, meaning mapped, heritage, science, government and business opened.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 601,
+    "friends_count": 1981,
+    "listed_count": 30,
+    "created_at": "Sun May 03 08:20:24 +0000 2009",
+    "favourites_count": 152,
+    "utc_offset": 3600,
+    "time_zone": "Copenhagen",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2391,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1770550801/twitter_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1770550801/twitter_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/37388206/1353170678",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "websci12",
+        "indices": [
+          85,
+          94
+        ]
+      },
+      {
+        "text": "socialcomputing",
+        "indices": [
+          95,
+          111
+        ]
+      },
+      {
+        "text": "empowerment",
+        "indices": [
+          112,
+          124
+        ]
+      },
+      {
+        "text": "serfdom",
+        "indices": [
+          128,
+          136
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "s_t_e_v_e_jones",
+        "name": "steve jones",
+        "id": 14660532,
+        "id_str": "14660532",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          74,
+          83
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

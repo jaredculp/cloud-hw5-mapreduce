@@ -1,0 +1,100 @@
+{
+  "created_at": "Thu Aug 30 12:38:57 +0000 2012",
+  "id": 241153028747558912,
+  "id_str": "241153028747558912",
+  "text": "@FilhoDoDelegado 2 hs e não 14, gosto da noite,o dia é para dormi muito #uva e #uvb minha cuts não gosta.",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 241152371542081536,
+  "in_reply_to_status_id_str": "241152371542081536",
+  "in_reply_to_user_id": 109597841,
+  "in_reply_to_user_id_str": "109597841",
+  "in_reply_to_screen_name": "FilhoDoDelegado",
+  "user": {
+    "id": 100975390,
+    "id_str": "100975390",
+    "name": "LEONARDO ARRUDA",
+    "screen_name": "ArrudaCaraubas",
+    "location": "CARAUBAS #RN",
+    "description": "CARAUBENSENATO,SOLDADO PMRN ATUALMENTE TRABALHANDO NO PRESÍDIO MANOEL ALVES PESSOA NETO.CARAUBAS/RN.CASADO",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 903,
+    "friends_count": 1853,
+    "listed_count": 0,
+    "created_at": "Fri Jan 01 13:27:49 +0000 2010",
+    "favourites_count": 57,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 18727,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "6FF708",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/386888165/deus.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/386888165/deus.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3079940069/ff4d8f8c50fbbc20371f5192a17b13b8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3079940069/ff4d8f8c50fbbc20371f5192a17b13b8_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/100975390/1351623711",
+    "profile_link_color": "0D56D6",
+    "profile_sidebar_border_color": "090A0A",
+    "profile_sidebar_fill_color": "F7AA05",
+    "profile_text_color": "6E8BFF",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          72,
+          76
+        ]
+      },
+      {
+        "text": "uvb",
+        "indices": [
+          79,
+          83
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "FilhoDoDelegado",
+        "name": "Victor Nixon",
+        "id": 109597841,
+        "id_str": "109597841",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

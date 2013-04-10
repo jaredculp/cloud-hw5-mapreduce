@@ -1,0 +1,124 @@
+{
+  "created_at": "Thu Jun 21 15:16:23 +0000 2012",
+  "id": 215825498910101505,
+  "id_str": "215825498910101505",
+  "text": "RT @dancohen Beautiful talk by @nowviskie on the situation at #UVA, the ballast of libraries, and digital humanities: http://t.co/pxz9Aeba",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 138813955,
+    "id_str": "138813955",
+    "name": "Elton Barker",
+    "screen_name": "eltonteb",
+    "location": "Oxford/MK: Open University",
+    "description": "Classicist, agonist, slowly becoming a digital humanist",
+    "url": "http://www.open.ac.uk/Arts/classical-studies/barker.shtml",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.open.ac.uk/Arts/classical-studies/barker.shtml",
+            "expanded_url": null,
+            "indices": [
+              0,
+              57
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 482,
+    "friends_count": 319,
+    "listed_count": 30,
+    "created_at": "Fri Apr 30 17:36:28 +0000 2010",
+    "favourites_count": 140,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3297,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1266663737/me2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1266663737/me2_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/138813955/1354034136",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/pxz9Aeba",
+        "expanded_url": "http://nowviskie.org/2012/reality-bytes/",
+        "display_url": "nowviskie.org/2012/reality-b…",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dancohen",
+        "name": "Dan Cohen",
+        "id": 14181097,
+        "id_str": "14181097",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "nowviskie",
+        "name": "Bethany Nowviskie",
+        "id": 14221013,
+        "id_str": "14221013",
+        "indices": [
+          31,
+          41
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,96 @@
+{
+  "created_at": "Mon Jun 25 16:31:20 +0000 2012",
+  "id": 217293912879009795,
+  "id_str": "217293912879009795",
+  "text": "@maggiepolitico @LarrySabato Playing not to lose has never won a pres election.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 93069110,
+  "in_reply_to_user_id_str": "93069110",
+  "in_reply_to_screen_name": "maggiepolitico",
+  "user": {
+    "id": 81164801,
+    "id_str": "81164801",
+    "name": "M Period",
+    "screen_name": "MPeriod",
+    "location": "Chicago, IL",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 116,
+    "friends_count": 546,
+    "listed_count": 2,
+    "created_at": "Fri Oct 09 17:56:53 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2372,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/136670422/mperiodbasic.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/136670422/mperiodbasic.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1105232641/twittermp_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1105232641/twittermp_normal.jpg",
+    "profile_link_color": "0009FF",
+    "profile_sidebar_border_color": "A68787",
+    "profile_sidebar_fill_color": "E0DFEB",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "maggiepolitico",
+        "name": "maggie haberman",
+        "id": 93069110,
+        "id_str": "93069110",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          16,
+          28
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

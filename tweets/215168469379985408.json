@@ -1,0 +1,102 @@
+{
+  "created_at": "Tue Jun 19 19:45:35 +0000 2012",
+  "id": 215168469379985408,
+  "id_str": "215168469379985408",
+  "text": "“@cavalierdaily: Full text of #UVA Prof. Wulf's resignation letter: http://t.co/V69YvvH9” Everyone should read this",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 356969522,
+    "id_str": "356969522",
+    "name": "Mai-Vi",
+    "screen_name": "mainamesvi",
+    "location": "DC/Charlottesville",
+    "description": "sup",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 189,
+    "friends_count": 170,
+    "listed_count": 2,
+    "created_at": "Wed Aug 17 16:59:03 +0000 2011",
+    "favourites_count": 136,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3921,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/781611771/09227617dff1ecb9ec49006a04e19619.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/781611771/09227617dff1ecb9ec49006a04e19619.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2398587737/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2398587737/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/356969522/1359948944",
+    "profile_link_color": "EB176C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "940909",
+    "profile_text_color": "F7F7F7",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/V69YvvH9",
+        "expanded_url": "http://www.cavalierdaily.com/2012/06/19/comp-sci-prof-william-wulfs-resignation-letter/",
+        "display_url": "cavalierdaily.com/2012/06/19/com…",
+        "indices": [
+          68,
+          88
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

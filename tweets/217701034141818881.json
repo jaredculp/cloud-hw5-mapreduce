@@ -1,0 +1,229 @@
+{
+  "created_at": "Tue Jun 26 19:29:05 +0000 2012",
+  "id": 217701034141818881,
+  "id_str": "217701034141818881",
+  "text": "RT @RTDNEWS: BREAKING: #UVa board reverses decision, brings back #Sullivan #va #rva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 30006431,
+    "id_str": "30006431",
+    "name": "Olympia Meola",
+    "screen_name": "omeola",
+    "location": "Richmond, VA",
+    "description": "I cover politics for the Richmond Times-Dispatch. E-mail me at omeola@timesdispatch.com",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 693,
+    "friends_count": 463,
+    "listed_count": 41,
+    "created_at": "Thu Apr 09 15:40:41 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 346,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1525672385/SHOTFORTWITTER_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1525672385/SHOTFORTWITTER_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 26 19:27:05 +0000 2012",
+    "id": 217700527344066560,
+    "id_str": "217700527344066560",
+    "text": "BREAKING: #UVa board reverses decision, brings back #Sullivan #va #rva",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23764675,
+      "id_str": "23764675",
+      "name": "Times-Dispatch",
+      "screen_name": "RTDNEWS",
+      "location": "Richmond, VA",
+      "description": "The Richmond Times-Dispatch: The daily newspaper serving the Richmond region and Virginia since 1850. ",
+      "url": "http://timesdispatch.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://timesdispatch.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                24
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 12640,
+      "friends_count": 386,
+      "listed_count": 681,
+      "created_at": "Wed Mar 11 13:49:05 +0000 2009",
+      "favourites_count": 3,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12405,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2927604884/82172a835f367336f72985cc90ae6369_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2927604884/82172a835f367336f72985cc90ae6369_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 18,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UVa",
+          "indices": [
+            10,
+            14
+          ]
+        },
+        {
+          "text": "Sullivan",
+          "indices": [
+            52,
+            61
+          ]
+        },
+        {
+          "text": "va",
+          "indices": [
+            62,
+            65
+          ]
+        },
+        {
+          "text": "rva",
+          "indices": [
+            66,
+            70
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 18,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          23,
+          27
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          65,
+          74
+        ]
+      },
+      {
+        "text": "va",
+        "indices": [
+          75,
+          78
+        ]
+      },
+      {
+        "text": "rva",
+        "indices": [
+          79,
+          83
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RTDNEWS",
+        "name": "Times-Dispatch",
+        "id": 23764675,
+        "id_str": "23764675",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

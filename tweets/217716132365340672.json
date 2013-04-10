@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 20:29:05 +0000 2012",
+  "id": 217716132365340672,
+  "id_str": "217716132365340672",
+  "text": "hoo d'etat over.  RT @MrJefferson_UVa Meet me at The Virginian, #OpenBar for President #Sullivan on me. #UVA #WAHOOWA!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 569337535,
+    "id_str": "569337535",
+    "name": "Crystal ",
+    "screen_name": "CrstlMclrth",
+    "location": "",
+    "description": "full of wonder",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 23,
+    "friends_count": 35,
+    "listed_count": 0,
+    "created_at": "Wed May 02 18:56:53 +0000 2012",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 267,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/545125764/christmas2010.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/545125764/christmas2010.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2190972491/1z3bSmkK_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2190972491/1z3bSmkK_normal",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "OpenBar",
+        "indices": [
+          64,
+          72
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          87,
+          96
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          104,
+          108
+        ]
+      },
+      {
+        "text": "WAHOOWA",
+        "indices": [
+          109,
+          117
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MrJefferson_UVa",
+        "name": "Thomas Jefferson",
+        "id": 132633456,
+        "id_str": "132633456",
+        "indices": [
+          21,
+          37
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,112 @@
+{
+  "created_at": "Mon Jun 25 03:13:11 +0000 2012",
+  "id": 217093050739073024,
+  "id_str": "217093050739073024",
+  "text": "Based on its many glaring factual errors, the author of this @WSJ piece on #UVA must have gone to VaTech. http://t.co/O5pAcgpR (via @awoo_)",
+  "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15692737,
+    "id_str": "15692737",
+    "name": "Julia Pizzi",
+    "screen_name": "jpizzi",
+    "location": "New York, NY",
+    "description": "Enjoys cheese of both the literal and figurative varieties. Opinions are my own.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 974,
+    "friends_count": 373,
+    "listed_count": 24,
+    "created_at": "Fri Aug 01 18:44:28 +0000 2008",
+    "favourites_count": 322,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7092,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/316423178/Julia_Pizzi_Photo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/316423178/Julia_Pizzi_Photo_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/15692737/1354576003",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          75,
+          79
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/O5pAcgpR",
+        "expanded_url": "http://on.wsj.com/MSszWc",
+        "display_url": "on.wsj.com/MSszWc",
+        "indices": [
+          106,
+          126
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          61,
+          65
+        ]
+      },
+      {
+        "screen_name": "awoo_",
+        "name": "Amy Woolard",
+        "id": 194245430,
+        "id_str": "194245430",
+        "indices": [
+          132,
+          138
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

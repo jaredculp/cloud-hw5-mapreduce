@@ -1,0 +1,128 @@
+{
+  "created_at": "Thu Jun 21 21:17:40 +0000 2012",
+  "id": 215916417562836992,
+  "id_str": "215916417562836992",
+  "text": "RT @chronicle: The worrisome ascendance of business in #highered: http://t.co/AXqR9BlB #UVA #Sullivan",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19211612,
+    "id_str": "19211612",
+    "name": "Jason M Kelly",
+    "screen_name": "Jason_M_Kelly",
+    "location": "Indianapolis, IN",
+    "description": "Historian, teacher, engaged citizen.\n\n",
+    "url": "http://www.jasonmkelly.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jasonmkelly.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1558,
+    "friends_count": 1909,
+    "listed_count": 89,
+    "created_at": "Tue Jan 20 00:47:33 +0000 2009",
+    "favourites_count": 65,
+    "utc_offset": -18000,
+    "time_zone": "Indiana (East)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2819,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "707B96",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/600420014/quzh0qc8ryn5zv5tp9qb.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/600420014/quzh0qc8ryn5zv5tp9qb.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3099815872/aa58a7f69292ddfc5dbed982ac03d441_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3099815872/aa58a7f69292ddfc5dbed982ac03d441_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/19211612/1358015130",
+    "profile_link_color": "824209",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "949494",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "highered",
+        "indices": [
+          55,
+          64
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          87,
+          91
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          92,
+          101
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/AXqR9BlB",
+        "expanded_url": "http://chroni.cl/L94Znp",
+        "display_url": "chroni.cl/L94Znp",
+        "indices": [
+          66,
+          86
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

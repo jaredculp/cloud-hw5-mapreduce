@@ -1,0 +1,93 @@
+{
+  "created_at": "Wed Jul 04 16:44:40 +0000 2012",
+  "id": 220558760471568384,
+  "id_str": "220558760471568384",
+  "text": "RT @UVa_Alumni: Happy Independence Day to all the #UVa wahoos out there!",
+  "source": "<a href=\"http://www.handmark.com\" rel=\"nofollow\">TweetCaster for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19286001,
+    "id_str": "19286001",
+    "name": "Lela Graham",
+    "screen_name": "huachick",
+    "location": " Charlottesville or Jackson",
+    "description": "Development Director @indyrockgroup. Sports Fan, Army Veteran, UVA Alum, Montana Native.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 815,
+    "friends_count": 1959,
+    "listed_count": 32,
+    "created_at": "Wed Jan 21 12:48:58 +0000 2009",
+    "favourites_count": 64,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7324,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/142199442/logo.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/142199442/logo.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2305574080/030nzp23vm27hu6wyim2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2305574080/030nzp23vm27hu6wyim2_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/19286001/1357151164",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          50,
+          54
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

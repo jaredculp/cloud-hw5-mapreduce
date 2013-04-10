@@ -1,0 +1,122 @@
+{
+  "created_at": "Wed Jun 20 15:59:36 +0000 2012",
+  "id": 215473985473884160,
+  "id_str": "215473985473884160",
+  "text": "Love libraries! RT @john_overholt: Hell yes! @nowviskie: Existential threats don't scare us, we're librarians. #UVA #rbms12",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 7480352,
+    "id_str": "7480352",
+    "name": "dawne",
+    "screen_name": "dawne",
+    "location": "Chicago, IL",
+    "description": "Follower of Kant, Camus, Gladwell ... and you.",
+    "url": "http://www.bellcow.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.bellcow.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 91,
+    "friends_count": 145,
+    "listed_count": 5,
+    "created_at": "Sun Jul 15 02:25:00 +0000 2007",
+    "favourites_count": 1,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 723,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1522206075/DishcrawlProfile_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1522206075/DishcrawlProfile_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/7480352/1348142975",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          111,
+          115
+        ]
+      },
+      {
+        "text": "rbms12",
+        "indices": [
+          116,
+          123
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "john_overholt",
+        "name": "John Overholt",
+        "id": 89477148,
+        "id_str": "89477148",
+        "indices": [
+          19,
+          33
+        ]
+      },
+      {
+        "screen_name": "nowviskie",
+        "name": "Bethany Nowviskie",
+        "id": 14221013,
+        "id_str": "14221013",
+        "indices": [
+          45,
+          55
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,133 @@
+{
+  "created_at": "Wed Jun 20 15:28:08 +0000 2012",
+  "id": 215466068146257921,
+  "id_str": "215466068146257921",
+  "text": "La #UVA asumirá el mantenimiento y rehabilitación del Museo de Ciencias Naturales http://t.co/MsFjOb0D @UVa_es @AyuntamientoVLL @turisvall",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 226909192,
+    "id_str": "226909192",
+    "name": "Noticias CyL",
+    "screen_name": "noticiascyl",
+    "location": "Valladolid",
+    "description": "Diario regional independiente. #Noticias sobre #CastillayLeón, #Ávila, #Burgos, #León, #Palencia, #Salamanca, #Segovia, #Soria, #Valladolid y #Zamora",
+    "url": "http://www.noticiascastillayleon.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.noticiascastillayleon.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3396,
+    "friends_count": 416,
+    "listed_count": 105,
+    "created_at": "Wed Dec 15 11:47:45 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 19111,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0A0001",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/447935951/ncyl.cuadr.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/447935951/ncyl.cuadr.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1666243559/ncyl.cuadr_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1666243559/ncyl.cuadr_normal.jpg",
+    "profile_link_color": "690606",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          3,
+          7
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/MsFjOb0D",
+        "expanded_url": "http://goo.gl/LzpSE",
+        "display_url": "goo.gl/LzpSE",
+        "indices": [
+          82,
+          102
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_es",
+        "name": "Univ. de Valladolid",
+        "id": 385843469,
+        "id_str": "385843469",
+        "indices": [
+          103,
+          110
+        ]
+      },
+      {
+        "screen_name": "AyuntamientoVLL",
+        "name": "Ayto. Valladolid",
+        "id": 194517733,
+        "id_str": "194517733",
+        "indices": [
+          111,
+          127
+        ]
+      },
+      {
+        "screen_name": "turisvall",
+        "name": "Turismo Valladolid",
+        "id": 56744316,
+        "id_str": "56744316",
+        "indices": [
+          128,
+          138
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

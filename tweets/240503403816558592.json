@@ -1,0 +1,103 @@
+{
+  "created_at": "Tue Aug 28 17:37:34 +0000 2012",
+  "id": 240503403816558592,
+  "id_str": "240503403816558592",
+  "text": "\"@SweetLickKing: @toine2484 yea I'm up #uva\" you got the job son?",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 245331173,
+    "id_str": "245331173",
+    "name": "Wett Flexington",
+    "screen_name": "toine2484",
+    "location": "The DMV",
+    "description": "From the 301 and reside in the 540! #TeamIPhone #DMV #TeamThunder #TeamKnicks #TeamRedskins #TeamSweetlick",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 674,
+    "friends_count": 599,
+    "listed_count": 4,
+    "created_at": "Mon Jan 31 12:53:55 +0000 2011",
+    "favourites_count": 24,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 37897,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3203129123/30fe45f384ec796212c802af81d7700d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3203129123/30fe45f384ec796212c802af81d7700d_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/245331173/1360144415",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          39,
+          43
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SweetLickKing",
+        "name": "Da Voice of Cville ",
+        "id": 133809036,
+        "id_str": "133809036",
+        "indices": [
+          1,
+          15
+        ]
+      },
+      {
+        "screen_name": "toine2484",
+        "name": "Wett Flexington",
+        "id": 245331173,
+        "id_str": "245331173",
+        "indices": [
+          17,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

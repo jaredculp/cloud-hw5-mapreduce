@@ -1,0 +1,122 @@
+{
+  "created_at": "Fri Aug 10 03:06:53 +0000 2012",
+  "id": 233761308934299648,
+  "id_str": "233761308934299648",
+  "text": "@ckosko At least your enjoying yourself :)",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 233760767474794497,
+  "in_reply_to_status_id_str": "233760767474794497",
+  "in_reply_to_user_id": 344919064,
+  "in_reply_to_user_id_str": "344919064",
+  "in_reply_to_screen_name": "Corindahouse",
+  "user": {
+    "id": 401142126,
+    "id_str": "401142126",
+    "name": "Hunter Strine",
+    "screen_name": "h_strine",
+    "location": "Ocean City",
+    "description": "Livin the chill life\r\nOld Twitter - @hdawggyswag",
+    "url": "http://hunterstrine.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://hunterstrine.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 175,
+    "friends_count": 233,
+    "listed_count": 0,
+    "created_at": "Sun Oct 30 03:42:03 +0000 2011",
+    "favourites_count": 45,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 110,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2482989860/4cydp8meh0dauznm7zlu_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2482989860/4cydp8meh0dauznm7zlu_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "c0b8e8dc81930292",
+    "url": "https://api.twitter.com/1.1/geo/id/c0b8e8dc81930292.json",
+    "place_type": "city",
+    "name": "Baltimore",
+    "full_name": "Baltimore, MD",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -76.711519,
+            39.197207
+          ],
+          [
+            -76.529453,
+            39.197207
+          ],
+          [
+            -76.529453,
+            39.372206
+          ],
+          [
+            -76.711519,
+            39.372206
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

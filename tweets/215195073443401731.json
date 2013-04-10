@@ -1,0 +1,100 @@
+{
+  "created_at": "Tue Jun 19 21:31:18 +0000 2012",
+  "id": 215195073443401731,
+  "id_str": "215195073443401731",
+  "text": "http://t.co/nKgw81Mo Funny article, by a local writer. #uva #topical",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 260650703,
+    "id_str": "260650703",
+    "name": "Javier Raudales",
+    "screen_name": "ThetrueJavi",
+    "location": "illville",
+    "description": "Movin Like Berney, potvaliant, #UVa",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 85,
+    "friends_count": 164,
+    "listed_count": 0,
+    "created_at": "Fri Mar 04 09:08:10 +0000 2011",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2149,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/256603776/o142671.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/256603776/o142671.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2048500428/424057_10151386242830246_647050245_23211999_257658588_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2048500428/424057_10151386242830246_647050245_23211999_257658588_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/260650703/1353561172",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          55,
+          59
+        ]
+      },
+      {
+        "text": "topical",
+        "indices": [
+          60,
+          68
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/nKgw81Mo",
+        "expanded_url": "http://www.common-place.org/pasley/?p=2576",
+        "display_url": "common-place.org/pasley/?p=2576",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

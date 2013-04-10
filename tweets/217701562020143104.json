@@ -1,0 +1,84 @@
+{
+  "created_at": "Tue Jun 26 19:31:11 +0000 2012",
+  "id": 217701562020143104,
+  "id_str": "217701562020143104",
+  "text": "#UVA X3 ♥",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 273683430,
+    "id_str": "273683430",
+    "name": "Elizabeth Horan",
+    "screen_name": "Liz_Ramirez03",
+    "location": "",
+    "description": "=)",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 693,
+    "friends_count": 1304,
+    "listed_count": 1,
+    "created_at": "Mon Mar 28 23:48:40 +0000 2011",
+    "favourites_count": 1027,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6019,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FC0526",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/727655561/3e59d1fa5e60b41b593a60aacbbd4276.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/727655561/3e59d1fa5e60b41b593a60aacbbd4276.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3176745967/7a695ef091e0727b43ce80fe53357a49_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3176745967/7a695ef091e0727b43ce80fe53357a49_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/273683430/1359413642",
+    "profile_link_color": "AD57E6",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "D4B1F5",
+    "profile_text_color": "C71488",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

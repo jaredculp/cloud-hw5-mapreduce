@@ -1,0 +1,112 @@
+{
+  "created_at": "Fri Jun 22 21:26:01 +0000 2012",
+  "id": 216280907621994496,
+  "id_str": "216280907621994496",
+  "text": "MT @cavalierdaily: McDonnell to #BOV: \"I will ask for the resignation of the entire Board on Wed.\" if #UVA situation is not resolved Tues",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 23133258,
+    "id_str": "23133258",
+    "name": "jane s. kim",
+    "screen_name": "janesuekim",
+    "location": "arlington, virginia",
+    "description": "wifey | civil engineer | urban planner | good food eater | real book reader | blog lover | first time homeowner | volunteer | always hungry | wahoo",
+    "url": "http://t.co/qTPlojSW",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/qTPlojSW",
+            "expanded_url": "http://twothirtyate.com/",
+            "display_url": "twothirtyate.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 228,
+    "friends_count": 315,
+    "listed_count": 4,
+    "created_at": "Fri Mar 06 23:07:47 +0000 2009",
+    "favourites_count": 17,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4752,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "AAAFB0",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/533934129/Chevron_3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/533934129/Chevron_3.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1779545785/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1779545785/image_normal.jpg",
+    "profile_link_color": "4B848F",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          32,
+          36
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          102,
+          106
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

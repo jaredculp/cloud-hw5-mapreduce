@@ -1,0 +1,83 @@
+{
+  "created_at": "Tue Jun 26 19:30:46 +0000 2012",
+  "id": 217701458211110914,
+  "id_str": "217701458211110914",
+  "text": "SULLIVAN FTW #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 609108869,
+    "id_str": "609108869",
+    "name": "Maria Meriwether",
+    "screen_name": "mcube",
+    "location": "Washington DC",
+    "description": "I'm a diplobrat and a videographer. I love exploring new places and watching action movies. My biggest pet peeve is when people replace c's with k's on signs.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 10,
+    "friends_count": 30,
+    "listed_count": 0,
+    "created_at": "Fri Jun 15 13:42:00 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/579687268/dd1i3mptstph4jll1f6r.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/579687268/dd1i3mptstph4jll1f6r.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2310407294/falling__cropped__normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2310407294/falling__cropped__normal.JPG",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          13,
+          17
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

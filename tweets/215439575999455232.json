@@ -1,0 +1,139 @@
+{
+  "created_at": "Wed Jun 20 13:42:52 +0000 2012",
+  "id": 215439575999455232,
+  "id_str": "215439575999455232",
+  "text": "#BOV attending? RT @UVA: @UVaCurry is live tweeting from school #bullying conference going on today at #UVa. @Youth_Nex",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 7480352,
+    "id_str": "7480352",
+    "name": "dawne",
+    "screen_name": "dawne",
+    "location": "Chicago, IL",
+    "description": "Follower of Kant, Camus, Gladwell ... and you.",
+    "url": "http://www.bellcow.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.bellcow.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 91,
+    "friends_count": 145,
+    "listed_count": 5,
+    "created_at": "Sun Jul 15 02:25:00 +0000 2007",
+    "favourites_count": 1,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 723,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1522206075/DishcrawlProfile_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1522206075/DishcrawlProfile_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/7480352/1348142975",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "bullying",
+        "indices": [
+          64,
+          73
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          103,
+          107
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          19,
+          23
+        ]
+      },
+      {
+        "screen_name": "UVaCurry",
+        "name": "UVA School of Ed",
+        "id": 41896641,
+        "id_str": "41896641",
+        "indices": [
+          25,
+          34
+        ]
+      },
+      {
+        "screen_name": "Youth_Nex",
+        "name": "Youth-Nex",
+        "id": 250785087,
+        "id_str": "250785087",
+        "indices": [
+          109,
+          119
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

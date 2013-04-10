@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 19 22:22:22 +0000 2012",
+  "id": 215207925734572033,
+  "id_str": "215207925734572033",
+  "text": "\"@NBC29: #UVA released the amendto #Sullivan's contract-states she will enter a 12 month sabbatical starting Aug. 15 at $485,000\" hush money",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 87365151,
+    "id_str": "87365151",
+    "name": "Kimmy T",
+    "screen_name": "K1MMYT",
+    "location": "VA",
+    "description": "Business manager. MBA. Way Cooler than your average chick",
+    "url": "http://t.co/7YQJVnju",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/7YQJVnju",
+            "expanded_url": "http://messagesonthemirror.tumblr.com",
+            "display_url": "messagesonthemirror.tumblr.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 167,
+    "friends_count": 295,
+    "listed_count": 4,
+    "created_at": "Wed Nov 04 04:41:31 +0000 2009",
+    "favourites_count": 11,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13522,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2C3CF2",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/52893483/DSC03248-1.JPG",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/52893483/DSC03248-1.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3075513371/75a1e189be46b6129636e6d044684a5e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3075513371/75a1e189be46b6129636e6d044684a5e_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/87365151/1353461745",
+    "profile_link_color": "F013BC",
+    "profile_sidebar_border_color": "2D16DE",
+    "profile_sidebar_fill_color": "F09527",
+    "profile_text_color": "260526",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          9,
+          13
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          35,
+          44
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          1,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

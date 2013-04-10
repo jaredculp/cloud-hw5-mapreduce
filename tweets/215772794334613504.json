@@ -1,0 +1,93 @@
+{
+  "created_at": "Thu Jun 21 11:46:57 +0000 2012",
+  "id": 215772794334613504,
+  "id_str": "215772794334613504",
+  "text": "I haven't tried to go on @cavalierdaily before today, but I'm getting a Malicious Website report. Anyone else having this problem? #norton",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 186546478,
+    "id_str": "186546478",
+    "name": "Bryan Kessler",
+    "screen_name": "kesslerbs",
+    "location": "Birmingham, AL",
+    "description": "Research Fellow in Office of University Historian, Samford U. BA from Samford, MA from VCU, Ph.D. on deck. Interested in contemporary US religious history.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 218,
+    "friends_count": 512,
+    "listed_count": 2,
+    "created_at": "Fri Sep 03 19:05:48 +0000 2010",
+    "favourites_count": 302,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3973,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0B99D1",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/612757345/bqql16zaaqpmn3uc19lq.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/612757345/bqql16zaaqpmn3uc19lq.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2903485228/2f4989c96c16c4020d1150b3fc52640c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2903485228/2f4989c96c16c4020d1150b3fc52640c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/186546478/1354043599",
+    "profile_link_color": "438DA8",
+    "profile_sidebar_border_color": "0E1112",
+    "profile_sidebar_fill_color": "031F2B",
+    "profile_text_color": "C3C7F0",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "norton",
+        "indices": [
+          131,
+          138
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          25,
+          39
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

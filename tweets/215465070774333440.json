@@ -1,0 +1,99 @@
+{
+  "created_at": "Wed Jun 20 15:24:10 +0000 2012",
+  "id": 215465070774333440,
+  "id_str": "215465070774333440",
+  "text": "Located video of the most recent UVa BOV meeting #UVA #sullivan: http://t.co/3nu54B39",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 379241868,
+    "id_str": "379241868",
+    "name": "Grant Dunwoody",
+    "screen_name": "tremlo3",
+    "location": "",
+    "description": "Dad, Husband, Lawyer, Houstonian, and former UVa swimmer (a few pounds ago). Political junkie. Wahoo.  Houston sports fan. Aggie by marriage.  Carlton FC fan.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 26,
+    "friends_count": 452,
+    "listed_count": 0,
+    "created_at": "Sat Sep 24 16:23:06 +0000 2011",
+    "favourites_count": 442,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 484,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1777121500/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1777121500/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          49,
+          53
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          54,
+          63
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/3nu54B39",
+        "expanded_url": "http://www.youtube.com/watch?v=zDAmPIq29ro",
+        "display_url": "youtube.com/watch?v=zDAmPI…",
+        "indices": [
+          65,
+          85
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

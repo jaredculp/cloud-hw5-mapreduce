@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jun 20 14:36:38 +0000 2012",
+  "id": 215453108199899136,
+  "id_str": "215453108199899136",
+  "text": "WaPo on the #UVA e-mails leading up to #Sullivan ouster. Good timeline. http://t.co/1Jyca6ln",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16578403,
+    "id_str": "16578403",
+    "name": "Madwoman w/ Laptop",
+    "screen_name": "ProfM_Lindemann",
+    "location": "Takoma Park, MD",
+    "description": "English prof, blogger, queer, feminist, non-geek fascinated by social media, making life up as it goes along. Play on.",
+    "url": "http://madwomanwithalaptop.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://madwomanwithalaptop.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 264,
+    "friends_count": 116,
+    "listed_count": 14,
+    "created_at": "Fri Oct 03 14:39:14 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1327,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2409572716/k4ec5c9tikm9b8o70766_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2409572716/k4ec5c9tikm9b8o70766_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/16578403/1354159896",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          12,
+          16
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          39,
+          48
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/1Jyca6ln",
+        "expanded_url": "http://www.washingtonpost.com/blogs/college-inc/post/e-mails-show-u-va-board-leaders-planning-teresa-sullivans-exit/2012/06/19/gJQAAytGpV_blog.html?hpid=z2",
+        "display_url": "washingtonpost.com/blogs/college-…",
+        "indices": [
+          72,
+          92
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

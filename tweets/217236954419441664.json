@@ -1,0 +1,114 @@
+{
+  "created_at": "Mon Jun 25 12:45:00 +0000 2012",
+  "id": 217236954419441664,
+  "id_str": "217236954419441664",
+  "text": "RT @dougledihe On eve of #UVa showdown look at how a senior Virginia administrator may be caught in uncomfortable bind: http://t.co/UrBuePV8",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17123109,
+    "id_str": "17123109",
+    "name": "nancyrubin",
+    "screen_name": "nancyrubin",
+    "location": "New York, NY",
+    "description": "Interdisciplinary Ph.D. ★ Twitterholic ★ Compulsive Sharer About Social Media and Learning ★ All views my own ★ #TChat ambassador @nancyrubin",
+    "url": "http://nancy-rubin.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://nancy-rubin.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6677,
+    "friends_count": 2629,
+    "listed_count": 652,
+    "created_at": "Mon Nov 03 01:08:00 +0000 2008",
+    "favourites_count": 13,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 39383,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "3F5646",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/712600561/9ee43f3f58fa22cac9fec32792a01c02.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/712600561/9ee43f3f58fa22cac9fec32792a01c02.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2853994501/d92790027551f9a13fca3b567f820ae2_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2853994501/d92790027551f9a13fca3b567f820ae2_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/17123109/1353175601",
+    "profile_link_color": "E16CA3",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "0BCAF4",
+    "profile_text_color": "F0F98C",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          25,
+          29
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/UrBuePV8",
+        "expanded_url": "http://bit.ly/Nrnyoo",
+        "display_url": "bit.ly/Nrnyoo",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dougledIHE",
+        "name": "Doug Lederman",
+        "id": 16046535,
+        "id_str": "16046535",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

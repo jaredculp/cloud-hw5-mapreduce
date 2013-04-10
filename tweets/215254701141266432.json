@@ -1,0 +1,83 @@
+{
+  "created_at": "Wed Jun 20 01:28:14 +0000 2012",
+  "id": 215254701141266432,
+  "id_str": "215254701141266432",
+  "text": "#UVa, you are making me cringe. I love you. Pull it together!",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 502990650,
+    "id_str": "502990650",
+    "name": "Bethany Watson",
+    "screen_name": "Watson0314",
+    "location": "Gun Wavin' New Haven, CT",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 18,
+    "friends_count": 133,
+    "listed_count": 0,
+    "created_at": "Sat Feb 25 13:08:57 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 48,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/577320693/7imaqtis3is4q2un38jp.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/577320693/7imaqtis3is4q2un38jp.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2283709044/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2283709044/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

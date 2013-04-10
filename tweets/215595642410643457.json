@@ -1,0 +1,117 @@
+{
+  "created_at": "Thu Jun 21 00:03:01 +0000 2012",
+  "id": 215595642410643457,
+  "id_str": "215595642410643457",
+  "text": "@astromel and @jennygardiner I think someone more along the lines of gollum. #complexevil #uva #boa",
+  "source": "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 36270821,
+  "in_reply_to_user_id_str": "36270821",
+  "in_reply_to_screen_name": "astromel",
+  "user": {
+    "id": 28414306,
+    "id_str": "28414306",
+    "name": "Myrna E. Morales",
+    "screen_name": "SeerGenius",
+    "location": "Cambridge, MA",
+    "description": "a rolling stone of a rican that gathers lotsa dirt, but no moss. Librotraficante",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 743,
+    "friends_count": 660,
+    "listed_count": 59,
+    "created_at": "Thu Apr 02 20:36:25 +0000 2009",
+    "favourites_count": 373,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11926,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0E3573",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/98686114/Photo_232.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/98686114/Photo_232.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2994793640/326b49c9d9636f261705e96a8bb903b1_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2994793640/326b49c9d9636f261705e96a8bb903b1_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/28414306/1358463645",
+    "profile_link_color": "1B617A",
+    "profile_sidebar_border_color": "13181A",
+    "profile_sidebar_fill_color": "1E98CC",
+    "profile_text_color": "120A03",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "complexevil",
+        "indices": [
+          77,
+          89
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          90,
+          94
+        ]
+      },
+      {
+        "text": "boa",
+        "indices": [
+          95,
+          99
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "astromel",
+        "name": "Melissa McGrath",
+        "id": 36270821,
+        "id_str": "36270821",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "jennygardiner",
+        "name": "jenny gardiner",
+        "id": 17786454,
+        "id_str": "17786454",
+        "indices": [
+          14,
+          28
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

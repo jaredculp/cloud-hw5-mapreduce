@@ -1,0 +1,125 @@
+{
+  "created_at": "Tue Jun 26 18:33:53 +0000 2012",
+  "id": 217687139083763713,
+  "id_str": "217687139083763713",
+  "text": "RT @washingtonpost: Listen up, #UVA-ers: @WPJenna is live-blogging the board's meeting http://t.co/97GDdQ3p",
+  "source": "<a href=\"http://seesmic.com/\" rel=\"nofollow\">Seesmic</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15919864,
+    "id_str": "15919864",
+    "name": "Melody",
+    "screen_name": "melodymuses",
+    "location": "washington, dc ",
+    "description": "news, politics, photography, pop culture • it's easier to believe than to think • retweets are almost always endorsements ",
+    "url": "http://t.co/p1vPNa4G",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/p1vPNa4G",
+            "expanded_url": "http://instagram.com/melodymuses",
+            "display_url": "instagram.com/melodymuses",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1420,
+    "friends_count": 1359,
+    "listed_count": 85,
+    "created_at": "Wed Aug 20 16:59:50 +0000 2008",
+    "favourites_count": 2305,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 34645,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/770598535/747a58c5996648003cf2f78234c2fa88.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/770598535/747a58c5996648003cf2f78234c2fa88.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3168883123/5539253dc10b7baa438db3009b75a3b9_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3168883123/5539253dc10b7baa438db3009b75a3b9_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/15919864/1358889374",
+    "profile_link_color": "914A4A",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/97GDdQ3p",
+        "expanded_url": "http://wapo.st/LdRXXH",
+        "display_url": "wapo.st/LdRXXH",
+        "indices": [
+          87,
+          107
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          41,
+          49
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

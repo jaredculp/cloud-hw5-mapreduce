@@ -1,0 +1,120 @@
+{
+  "created_at": "Fri Jun 22 10:26:30 +0000 2012",
+  "id": 216114937150455808,
+  "id_str": "216114937150455808",
+  "text": "More #UVa craziness, as prez seems poised (perhaps) to return: @kkiley continues to lay it out masterfully: http://t.co/G2DmoTMp #highered",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16046535,
+    "id_str": "16046535",
+    "name": "Doug Lederman",
+    "screen_name": "dougledIHE",
+    "location": "Washington, D.C.",
+    "description": "Doug Lederman is editor of Inside Higher Ed",
+    "url": "http://insidehighered.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://insidehighered.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7229,
+    "friends_count": 576,
+    "listed_count": 401,
+    "created_at": "Fri Aug 29 19:51:39 +0000 2008",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1296,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/547754042/holy_crossGJH_2638.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/547754042/holy_crossGJH_2638.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/734750793/ihelogo-73_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/734750793/ihelogo-73_normal.gif",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 5,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          5,
+          9
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          129,
+          138
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/G2DmoTMp",
+        "expanded_url": "http://bit.ly/LkWmMQ",
+        "display_url": "bit.ly/LkWmMQ",
+        "indices": [
+          108,
+          128
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kkiley",
+        "name": "Kevin Kiley",
+        "id": 16177254,
+        "id_str": "16177254",
+        "indices": [
+          63,
+          70
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

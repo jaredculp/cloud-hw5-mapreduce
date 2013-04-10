@@ -1,0 +1,108 @@
+{
+  "created_at": "Tue Jun 19 23:50:09 +0000 2012",
+  "id": 215230018199093248,
+  "id_str": "215230018199093248",
+  "text": "@DrLabRatOry You know you've truly arrived when that's how you announce your departure. https://t.co/yPMlAgFM #uva #wulf",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215229138418671616,
+  "in_reply_to_status_id_str": "215229138418671616",
+  "in_reply_to_user_id": 12285052,
+  "in_reply_to_user_id_str": "12285052",
+  "in_reply_to_screen_name": "DrLabRatOry",
+  "user": {
+    "id": 113129441,
+    "id_str": "113129441",
+    "name": "Jon Malesic",
+    "screen_name": "JonMalesic",
+    "location": "Williamstown, MA",
+    "description": "Fascinations: American Christianity, teaching the liberal arts while we still can, and typically bizarre local news stories.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 38,
+    "friends_count": 41,
+    "listed_count": 2,
+    "created_at": "Wed Feb 10 20:14:47 +0000 2010",
+    "favourites_count": 9,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 228,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/688552585/Pensive_Jon_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/688552585/Pensive_Jon_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          110,
+          114
+        ]
+      },
+      {
+        "text": "wulf",
+        "indices": [
+          115,
+          120
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/yPMlAgFM",
+        "expanded_url": "https://gist.github.com/2955870",
+        "display_url": "gist.github.com/2955870",
+        "indices": [
+          88,
+          109
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DrLabRatOry",
+        "name": "Jeramia Ory",
+        "id": 12285052,
+        "id_str": "12285052",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

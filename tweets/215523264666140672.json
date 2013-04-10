@@ -1,0 +1,173 @@
+{
+  "created_at": "Wed Jun 20 19:15:25 +0000 2012",
+  "id": 215523264666140672,
+  "id_str": "215523264666140672",
+  "text": "@RTDSchapiro: #rva #vagov Another slant on Sullivan scandal: Would #UVa push into online learning threaten honor code? http://t.co/Luz0yCVv",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 64729812,
+  "in_reply_to_user_id_str": "64729812",
+  "in_reply_to_screen_name": "RTDSchapiro",
+  "user": {
+    "id": 101034789,
+    "id_str": "101034789",
+    "name": "Thomas Brewster",
+    "screen_name": "edubrew",
+    "location": "37.2748, -81.3037",
+    "description": "Superintendent for Pulaski County Public Schools. Former teacher, principal, VA BOE member, and university professor. \n",
+    "url": "http://www.thomasbrewster.org/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.thomasbrewster.org/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 854,
+    "friends_count": 712,
+    "listed_count": 31,
+    "created_at": "Fri Jan 01 18:53:20 +0000 2010",
+    "favourites_count": 43,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4157,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "141112",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2258813934/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2258813934/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/101034789/1353213615",
+    "profile_link_color": "993600",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      37.27488105,
+      -81.30384838
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -81.30384838,
+      37.27488105
+    ]
+  },
+  "place": {
+    "id": "bb5d161526d9604a",
+    "url": "https://api.twitter.com/1.1/geo/id/bb5d161526d9604a.json",
+    "place_type": "city",
+    "name": "Northern",
+    "full_name": "Northern, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.668713,
+            37.129578
+          ],
+          [
+            -81.285153,
+            37.129578
+          ],
+          [
+            -81.285153,
+            37.338099
+          ],
+          [
+            -81.668713,
+            37.338099
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "rva",
+        "indices": [
+          14,
+          18
+        ]
+      },
+      {
+        "text": "vagov",
+        "indices": [
+          19,
+          25
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Luz0yCVv",
+        "expanded_url": "http://huff.to/NjMSQF",
+        "display_url": "huff.to/NjMSQF",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RTDSchapiro",
+        "name": "Jeff E. Schapiro",
+        "id": 64729812,
+        "id_str": "64729812",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

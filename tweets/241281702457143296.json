@@ -1,0 +1,105 @@
+{
+  "created_at": "Thu Aug 30 21:10:15 +0000 2012",
+  "id": 241281702457143296,
+  "id_str": "241281702457143296",
+  "text": "RT @KevinGArmstrong: Former #UVA lacrosse player George Huguely sentenced to 23 years for murder of Yeardley Love.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14527393,
+    "id_str": "14527393",
+    "name": "Daily Press",
+    "screen_name": "Daily_Press",
+    "location": "Newport News, Virginia",
+    "description": "Daily Press news from Southeast Virginia: Hampton, Newport News, York, Poquoson, Williamsburg, Gloucester, Isle of Wight. We follow #hrva, #seva, #HR, #757.",
+    "url": "http://www.dailypress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.dailypress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7807,
+    "friends_count": 3883,
+    "listed_count": 409,
+    "created_at": "Fri Apr 25 14:58:34 +0000 2008",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 18737,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/279721050/New_twitter.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/279721050/New_twitter.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2907363924/ffbf6b0b635acc55ef602f8b841408b7_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2907363924/ffbf6b0b635acc55ef602f8b841408b7_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14527393/1354122393",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          28,
+          32
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "KevinGArmstrong",
+        "name": "Kevin Armstrong",
+        "id": 49968865,
+        "id_str": "49968865",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

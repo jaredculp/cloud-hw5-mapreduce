@@ -1,0 +1,127 @@
+{
+  "created_at": "Wed Jun 20 03:26:02 +0000 2012",
+  "id": 215284344003108864,
+  "id_str": "215284344003108864",
+  "text": "Between this awesome @mariabustillos piece and #UVa I may yet become a radical socialist anarchist http://t.co/qJ0MqZev #nocapital #nobosses",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15678875,
+    "id_str": "15678875",
+    "name": "Daniel Ginsberg",
+    "screen_name": "NemaVeze",
+    "location": "Our Nation's Capital",
+    "description": "Linguist, socialist, cyclist, feminist, idealist, completist. At home I sometimes pretend to be a guitarist.",
+    "url": "http://schoolforlinguists.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://schoolforlinguists.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              39
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 404,
+    "friends_count": 420,
+    "listed_count": 37,
+    "created_at": "Thu Jul 31 19:00:21 +0000 2008",
+    "favourites_count": 137,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4763,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/2816128/68362.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/2816128/68362.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/304078746/profiler_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/304078746/profiler_normal.JPG",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "nocapital",
+        "indices": [
+          120,
+          130
+        ]
+      },
+      {
+        "text": "nobosses",
+        "indices": [
+          131,
+          140
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/qJ0MqZev",
+        "expanded_url": "http://bit.ly/L5kKQL",
+        "display_url": "bit.ly/L5kKQL",
+        "indices": [
+          99,
+          119
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mariabustillos",
+        "name": "Maria Bustillos",
+        "id": 15882323,
+        "id_str": "15882323",
+        "indices": [
+          21,
+          36
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,108 @@
+{
+  "created_at": "Mon Aug 27 01:53:33 +0000 2012",
+  "id": 239903446503931904,
+  "id_str": "239903446503931904",
+  "text": "Nossa a @afeiadanay não recebeu nenhuma fruta =( a #adm aqui daria #uva !",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 515683803,
+    "id_str": "515683803",
+    "name": "Fred Rico™",
+    "screen_name": "Fredv888",
+    "location": "",
+    "description": "Tentando ficar rico com a internet contrariando as expectativas da minha mãe, fiz um papel em malhação em 2008 ahhhh contato:http://t.co/vKgeSkIE",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/vKgeSkIE",
+            "expanded_url": "http://www.facebook.com/HumorOwned",
+            "display_url": "facebook.com/HumorOwned",
+            "indices": [
+              125,
+              145
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 32533,
+    "friends_count": 168,
+    "listed_count": 17,
+    "created_at": "Mon Mar 05 17:35:47 +0000 2012",
+    "favourites_count": 6,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14222,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "252926",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/771564082/0f172d87025252503b8ecbc450d67cab.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/771564082/0f172d87025252503b8ecbc450d67cab.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3153482412/5adbe024bcd21a624fd23c51ffb24566_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3153482412/5adbe024bcd21a624fd23c51ffb24566_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/515683803/1359559635",
+    "profile_link_color": "F00E0E",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "adm",
+        "indices": [
+          51,
+          55
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AFeiaDaNay",
+        "name": "Nayara Silva",
+        "id": 996183528,
+        "id_str": "996183528",
+        "indices": [
+          8,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Jun 20 05:12:05 +0000 2012",
+  "id": 215311034578247681,
+  "id_str": "215311034578247681",
+  "text": "RT @FunkAndBeans RT @sarahrlnrd Read @sivavaid on UVA ouster ... http://t.co/fOBqfGNB",
+  "source": "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 406750586,
+    "id_str": "406750586",
+    "name": "Psych Geek",
+    "screen_name": "bothandother",
+    "location": "Milano",
+    "description": "I'm a hoodie-wearing activist, psychologist, runner, blogger, gamer, vegetarian, dog parent. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 116,
+    "friends_count": 162,
+    "listed_count": 7,
+    "created_at": "Mon Nov 07 04:17:23 +0000 2011",
+    "favourites_count": 224,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13844,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2760802490/2196552b3248792db9e6e13fef7bc12d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2760802490/2196552b3248792db9e6e13fef7bc12d_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/fOBqfGNB",
+        "expanded_url": "http://tmi.me/rYTwM",
+        "display_url": "tmi.me/rYTwM",
+        "indices": [
+          65,
+          85
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "FunkAndBeans",
+        "name": "FunkNBeans",
+        "id": 247555252,
+        "id_str": "247555252",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "sarahrlnrd",
+        "name": "Sarah Leonard",
+        "id": 15723653,
+        "id_str": "15723653",
+        "indices": [
+          20,
+          31
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          37,
+          46
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

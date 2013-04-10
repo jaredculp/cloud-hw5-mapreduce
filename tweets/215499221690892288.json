@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 20 17:39:52 +0000 2012",
+  "id": 215499221690892288,
+  "id_str": "215499221690892288",
+  "text": "@DanSWright you got it, brother! #UVa",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215495842042351618,
+  "in_reply_to_status_id_str": "215495842042351618",
+  "in_reply_to_user_id": 147092180,
+  "in_reply_to_user_id_str": "147092180",
+  "in_reply_to_screen_name": "DanSWright",
+  "user": {
+    "id": 613554701,
+    "id_str": "613554701",
+    "name": "Strategy Dynamo",
+    "screen_name": "strategydynamo",
+    "location": "",
+    "description": "Dynamic strategery for your institution of higher learning. ",
+    "url": "http://www.virginia.edu/bov/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginia.edu/bov/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3,
+    "friends_count": 0,
+    "listed_count": 0,
+    "created_at": "Wed Jun 20 16:13:08 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2325690354/40xp9lx0vv8tsc5omqz5_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2325690354/40xp9lx0vv8tsc5omqz5_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          33,
+          37
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DanSWright",
+        "name": "Daniel Wright",
+        "id": 147092180,
+        "id_str": "147092180",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,134 @@
+{
+  "created_at": "Tue Jun 26 19:18:40 +0000 2012",
+  "id": 217698409195380736,
+  "id_str": "217698409195380736",
+  "text": "Fralin offers resolution. See pic #UVA http://t.co/RH1qr9Fo",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 34417310,
+    "id_str": "34417310",
+    "name": "The Hook newspaper",
+    "screen_name": "readthehook",
+    "location": "Charlottesville, VA",
+    "description": "Charlottesville's award-winning weekly newspaper offers around-the-clock news updates here on Twitter--- and a few random musings from editor Hawes Spencer.",
+    "url": "http://www.readthehook.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.readthehook.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3826,
+    "friends_count": 52,
+    "listed_count": 187,
+    "created_at": "Wed Apr 22 22:08:05 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2732,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/168624263/rainyMall-m.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/168624263/rainyMall-m.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/212976509/hook-logo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/212976509/hook-logo_normal.jpg",
+    "profile_link_color": "4846AB",
+    "profile_sidebar_border_color": "F50541",
+    "profile_sidebar_fill_color": "D47D6A",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 217698409199575040,
+        "id_str": "217698409199575040",
+        "indices": [
+          39,
+          59
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwVrjLyCIAAYlDD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwVrjLyCIAAYlDD.jpg",
+        "url": "http://t.co/RH1qr9Fo",
+        "display_url": "pic.twitter.com/RH1qr9Fo",
+        "expanded_url": "http://twitter.com/readthehook/status/217698409195380736/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 453,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 768,
+            "h": 1024,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,106 @@
+{
+  "created_at": "Wed Aug 08 02:48:05 +0000 2012",
+  "id": 233031799310270466,
+  "id_str": "233031799310270466",
+  "text": "@Swerveboiii @mark_strine @pmcclane11 he was focused!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 233031606741381121,
+  "in_reply_to_status_id_str": "233031606741381121",
+  "in_reply_to_user_id": 370284221,
+  "in_reply_to_user_id_str": "370284221",
+  "in_reply_to_screen_name": "JoeNahh",
+  "user": {
+    "id": 370297667,
+    "id_str": "370297667",
+    "name": "Emmanuel McDowell",
+    "screen_name": "BlackIrishKid",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 286,
+    "friends_count": 193,
+    "listed_count": 0,
+    "created_at": "Thu Sep 08 19:50:39 +0000 2011",
+    "favourites_count": 90,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 802,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/380384302/The_Heat.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/380384302/The_Heat.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2213530023/0507122221_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2213530023/0507122221_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "swerveboiii",
+        "name": "Vinny Lo",
+        "id": 1113316946,
+        "id_str": "1113316946",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "mark_strine",
+        "name": "Mark Strine1⃣3⃣",
+        "id": 187653797,
+        "id_str": "187653797",
+        "indices": [
+          13,
+          25
+        ]
+      },
+      {
+        "screen_name": "PMcClane11",
+        "name": "PJ McClane",
+        "id": 71104041,
+        "id_str": "71104041",
+        "indices": [
+          26,
+          37
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

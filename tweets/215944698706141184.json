@@ -1,0 +1,96 @@
+{
+  "created_at": "Thu Jun 21 23:10:02 +0000 2012",
+  "id": 215944698706141184,
+  "id_str": "215944698706141184",
+  "text": "@katiecouric “@LarrySabato: Wahoos: Don't assume anything. Nothing decided for sure. This is a 2nd CHANCE to make things right--that's all.”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 18812301,
+  "in_reply_to_user_id_str": "18812301",
+  "in_reply_to_screen_name": "katiecouric",
+  "user": {
+    "id": 314350845,
+    "id_str": "314350845",
+    "name": "Andrew Benner",
+    "screen_name": "Stayoffmyyard",
+    "location": "Charlotte, NC",
+    "description": "I won't let my own dog pee in my front yard, so what makes you think yours can.    ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 44,
+    "friends_count": 222,
+    "listed_count": 0,
+    "created_at": "Fri Jun 10 03:28:40 +0000 2011",
+    "favourites_count": 27,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2648,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/716750695/b13b74c272a6d3492c8dd77e4d3ceb06.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/716750695/b13b74c272a6d3492c8dd77e4d3ceb06.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1623988172/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1623988172/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          14,
+          26
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

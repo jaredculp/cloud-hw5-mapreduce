@@ -1,0 +1,127 @@
+{
+  "created_at": "Wed Jun 20 21:03:04 +0000 2012",
+  "id": 215550355939930112,
+  "id_str": "215550355939930112",
+  "text": "That's awesome RT @RTDNEWS BREAKING: Interim #UVA president doesn't support decision to oust Teresa Sullivan. http://t.co/Co5e3Z50 #va #rva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 104684717,
+    "id_str": "104684717",
+    "name": "John Pyper",
+    "screen_name": "johnpyper",
+    "location": "Bostonish",
+    "description": "Create, Exhibit, Rinse, Repeat.",
+    "url": "http://rootaround.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://rootaround.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 658,
+    "friends_count": 693,
+    "listed_count": 47,
+    "created_at": "Thu Jan 14 02:30:21 +0000 2010",
+    "favourites_count": 20,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7883,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D8DADB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/69236945/twit.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/69236945/twit.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2591481127/5rb38co2avy9dkjrzya7_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2591481127/5rb38co2avy9dkjrzya7_normal.jpeg",
+    "profile_link_color": "3827CF",
+    "profile_sidebar_border_color": "3AB7FA",
+    "profile_sidebar_fill_color": "BAB6BA",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          45,
+          49
+        ]
+      },
+      {
+        "text": "va",
+        "indices": [
+          131,
+          134
+        ]
+      },
+      {
+        "text": "rva",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Co5e3Z50",
+        "expanded_url": "http://bit.ly/LBYUTc",
+        "display_url": "bit.ly/LBYUTc",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RTDNEWS",
+        "name": "Times-Dispatch",
+        "id": 23764675,
+        "id_str": "23764675",
+        "indices": [
+          18,
+          26
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,175 @@
+{
+  "created_at": "Tue Jun 26 19:52:43 +0000 2012",
+  "id": 217706978187812865,
+  "id_str": "217706978187812865",
+  "text": "RT @npysno: Congratulations to Teresa Sullivan, the second female President in the history of the University of Virginia. #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 613237563,
+    "id_str": "613237563",
+    "name": "Allison Moore",
+    "screen_name": "Allison25311949",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 13,
+    "friends_count": 37,
+    "listed_count": 0,
+    "created_at": "Wed Jun 20 05:21:22 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 67,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2606199496/shooekkp9ywv4088gzob_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2606199496/shooekkp9ywv4088gzob_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 26 19:50:55 +0000 2012",
+    "id": 217706525345587205,
+    "id_str": "217706525345587205",
+    "text": "Congratulations to Teresa Sullivan, the second female President in the history of the University of Virginia. #uva",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 105017097,
+      "id_str": "105017097",
+      "name": "NP",
+      "screen_name": "npysno",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 39,
+      "friends_count": 132,
+      "listed_count": 0,
+      "created_at": "Fri Jan 15 02:55:57 +0000 2010",
+      "favourites_count": 55,
+      "utc_offset": -21600,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 616,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1728201496/photo_normal.JPG",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1728201496/photo_normal.JPG",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 4,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "uva",
+          "indices": [
+            110,
+            114
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          122,
+          126
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "npysno",
+        "name": "NP",
+        "id": 105017097,
+        "id_str": "105017097",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

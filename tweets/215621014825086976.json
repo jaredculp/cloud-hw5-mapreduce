@@ -1,0 +1,113 @@
+{
+  "created_at": "Thu Jun 21 01:43:50 +0000 2012",
+  "id": 215621014825086976,
+  "id_str": "215621014825086976",
+  "text": "MT \"@erniesfo: Hey Aggies, if u want a glimse of your educational future, checkout what's happening at #UVa: http://t.co/HVx6nmVe &gt; resist!\"",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 389072771,
+    "id_str": "389072771",
+    "name": "Occupy Davis",
+    "screen_name": "OccupyDavis",
+    "location": "",
+    "description": "Born on October 15, 2011. General Assembly Meetings on Wednesdays at 6pm in CentralPark, Davis CA",
+    "url": "http://www.occupydavis.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.occupydavis.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3969,
+    "friends_count": 3569,
+    "listed_count": 243,
+    "created_at": "Tue Oct 11 20:20:37 +0000 2011",
+    "favourites_count": 1088,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 26431,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1585021275/occupytogether_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1585021275/occupytogether_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          103,
+          107
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/HVx6nmVe",
+        "expanded_url": "http://www.washingtonpost.com/blogs/college-inc/post/e-mails-show-u-va-board-leaders-planning-teresa-sullivans-exit/2012/06/19/gJQAAytGpV_blog.html",
+        "display_url": "washingtonpost.com/blogs/college-…",
+        "indices": [
+          109,
+          129
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "erniesfo",
+        "name": "erniesfo",
+        "id": 16316116,
+        "id_str": "16316116",
+        "indices": [
+          4,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

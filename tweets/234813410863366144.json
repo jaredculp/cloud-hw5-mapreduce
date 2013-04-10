@@ -1,0 +1,122 @@
+{
+  "created_at": "Mon Aug 13 00:47:34 +0000 2012",
+  "id": 234813410863366144,
+  "id_str": "234813410863366144",
+  "text": "@TheUVAFool You and @hokieguru are my most favorite commenters on Twitter. I joke on occasion, but I have a genuine love for #UVA &amp; #Tech",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 234812868636311552,
+  "in_reply_to_status_id_str": "234812868636311552",
+  "in_reply_to_user_id": 42156117,
+  "in_reply_to_user_id_str": "42156117",
+  "in_reply_to_screen_name": "TheUVAFool",
+  "user": {
+    "id": 5728612,
+    "id_str": "5728612",
+    "name": "David Wilson",
+    "screen_name": "dmwilsonh",
+    "location": "Northern Virginia",
+    "description": "I'm an ole boy from Virginia by way of North Carolina.  I love sweet tea, Beach Music, Apple products, front porches, ACC sports, GC, OYC, dogs and the Hokies!",
+    "url": "http://dmwilsonh.tumblr.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://dmwilsonh.tumblr.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 747,
+    "friends_count": 874,
+    "listed_count": 36,
+    "created_at": "Thu May 03 01:49:26 +0000 2007",
+    "favourites_count": 15,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6218,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/2462588/00633_oceanhope_1920x1200.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/2462588/00633_oceanhope_1920x1200.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/191924199/DaveProfile_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/191924199/DaveProfile_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/5728612/1348012346",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          125,
+          129
+        ]
+      },
+      {
+        "text": "Tech",
+        "indices": [
+          136,
+          141
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheUVAFool",
+        "name": "Streaking the Lawn",
+        "id": 42156117,
+        "id_str": "42156117",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "hokieguru",
+        "name": "Matthew",
+        "id": 16538491,
+        "id_str": "16538491",
+        "indices": [
+          20,
+          30
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

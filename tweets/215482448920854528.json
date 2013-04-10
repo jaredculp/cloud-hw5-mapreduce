@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 20 16:33:13 +0000 2012",
+  "id": 215482448920854528,
+  "id_str": "215482448920854528",
+  "text": "@UVAlison now THAT'S some dynamic strategizing. Send me your resume ASAP! #UVa",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215481981692153856,
+  "in_reply_to_status_id_str": "215481981692153856",
+  "in_reply_to_user_id": 138132346,
+  "in_reply_to_user_id_str": "138132346",
+  "in_reply_to_screen_name": "UVAlison",
+  "user": {
+    "id": 613554701,
+    "id_str": "613554701",
+    "name": "Strategy Dynamo",
+    "screen_name": "strategydynamo",
+    "location": "",
+    "description": "Dynamic strategery for your institution of higher learning. ",
+    "url": "http://www.virginia.edu/bov/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginia.edu/bov/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3,
+    "friends_count": 0,
+    "listed_count": 0,
+    "created_at": "Wed Jun 20 16:13:08 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2325690354/40xp9lx0vv8tsc5omqz5_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2325690354/40xp9lx0vv8tsc5omqz5_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          74,
+          78
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVAlison",
+        "name": "Alie",
+        "id": 138132346,
+        "id_str": "138132346",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

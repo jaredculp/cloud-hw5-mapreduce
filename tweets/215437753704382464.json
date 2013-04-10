@@ -1,0 +1,92 @@
+{
+  "created_at": "Wed Jun 20 13:35:37 +0000 2012",
+  "id": 215437753704382464,
+  "id_str": "215437753704382464",
+  "text": "University response following the ouster of #UVa president Teresa Sullivan: http://t.co/aSPJIVCh",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 466948586,
+    "id_str": "466948586",
+    "name": "Frances Vigna",
+    "screen_name": "fcvigna",
+    "location": "Astoria, New York",
+    "description": "Interested in art, literature, film, fashion, science, architecture and design.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 20,
+    "friends_count": 131,
+    "listed_count": 0,
+    "created_at": "Tue Jan 17 23:42:10 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 259,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/632256983/emr7ihb5n25oam564yqx.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/632256983/emr7ihb5n25oam564yqx.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1765574213/photobootha_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1765574213/photobootha_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          44,
+          48
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/aSPJIVCh",
+        "expanded_url": "http://www.washingtonpost.com/local/dc-politics/u-va-board-appoints-interim-leader-mcdonnell-to-talk-with-reporters/2012/06/19/gJQAHAJ3nV_story.html?hpid=z2",
+        "display_url": "washingtonpost.com/local/dc-polit…",
+        "indices": [
+          76,
+          96
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

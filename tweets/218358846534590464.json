@@ -1,0 +1,117 @@
+{
+  "created_at": "Thu Jun 28 15:03:00 +0000 2012",
+  "id": 218358846534590464,
+  "id_str": "218358846534590464",
+  "text": "\"I know I belong in the first round.\" Good luck to @MikeScott tonight! #NBADraft #UVA http://t.co/naLx841E",
+  "source": "<a href=\"http://seesmic.com/\" rel=\"nofollow\">Seesmic</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 65493880,
+    "id_str": "65493880",
+    "name": "Taylor Miller",
+    "screen_name": "taylortsm",
+    "location": "Charlottesville, VA",
+    "description": "University of Virginia '13, Media Studies\r\nhttps://t.co/5sXeG9It",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/5sXeG9It",
+            "expanded_url": "https://www.facebook.com/taylortsm",
+            "display_url": "facebook.com/taylortsm",
+            "indices": [
+              43,
+              64
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 664,
+    "friends_count": 458,
+    "listed_count": 6,
+    "created_at": "Thu Aug 13 23:00:01 +0000 2009",
+    "favourites_count": 200,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1076,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/625010530/mj15ns3fi8ejvnuyutau.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/625010530/mj15ns3fi8ejvnuyutau.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3044301954/ffd67e10d3919ecb437f2a9f5f4c9db6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3044301954/ffd67e10d3919ecb437f2a9f5f4c9db6_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/65493880/1356908337",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "NBADraft",
+        "indices": [
+          71,
+          80
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          81,
+          85
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/naLx841E",
+        "expanded_url": "http://www.washingtonpost.com/blogs/cavaliers-journal/post/virginias-mike-scott-on-the-nba-draft-i-know-i-belong-in-the-first-round/2012/06/26/gJQArAtQ4V_blog.html",
+        "display_url": "washingtonpost.com/blogs/cavalier…",
+        "indices": [
+          86,
+          106
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          51,
+          61
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,102 @@
+{
+  "created_at": "Thu Jun 21 19:53:58 +0000 2012",
+  "id": 215895355508789249,
+  "id_str": "215895355508789249",
+  "text": "#Sullivan: \"...Carl Zeithaml has been an exemplary member of the #UVA community, and he and his family in no way deserve abusive language.\"",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15009049,
+    "id_str": "15009049",
+    "name": "NBC29",
+    "screen_name": "NBC29",
+    "location": "Charlottesville, Va",
+    "description": "Breaking news and top stories from the NBC29 Newsroom. Throughout the day.",
+    "url": "http://www.nbc29.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nbc29.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 12627,
+    "friends_count": 3882,
+    "listed_count": 434,
+    "created_at": "Wed Jun 04 19:18:08 +0000 2008",
+    "favourites_count": 13,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 49319,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/38213905/Background-001P.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/38213905/Background-001P.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/56651611/TwitterNBC29Logo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/56651611/TwitterNBC29Logo_normal.jpg",
+    "profile_link_color": "122746",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "67A7E8",
+    "profile_text_color": "122746",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          65,
+          69
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

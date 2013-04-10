@@ -1,0 +1,119 @@
+{
+  "created_at": "Sat Jun 23 17:17:35 +0000 2012",
+  "id": 216580774663696384,
+  "id_str": "216580774663696384",
+  "text": "@United4Honor you should put a '.' before the @gradcouncil, otherwise only ppl who follow both you and @gradcouncil will see the tweet",
+  "source": "<a href=\"http://www.floodgap.com/software/ttytter/\" rel=\"nofollow\">TTYtter (PrivonG)</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216579635381678080,
+  "in_reply_to_status_id_str": "216579635381678080",
+  "in_reply_to_user_id": 616148101,
+  "in_reply_to_user_id_str": "616148101",
+  "in_reply_to_screen_name": "United4Honor",
+  "user": {
+    "id": 23177321,
+    "id_str": "23177321",
+    "name": "George Privon",
+    "screen_name": "PrivonG",
+    "location": "SoCal",
+    "description": "[astronomer | mountain climber | cyclist | photographer] - i do everything i rap about",
+    "url": "http://privon.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://privon.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              17
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 847,
+    "friends_count": 463,
+    "listed_count": 99,
+    "created_at": "Sat Mar 07 08:13:49 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 34005,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/57064953/bkgnd.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/57064953/bkgnd.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2594877310/08p3u5rqo5jwqywl9xj0_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2594877310/08p3u5rqo5jwqywl9xj0_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/23177321/1350407931",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "United4Honor",
+        "name": "United4Honor",
+        "id": 616148101,
+        "id_str": "616148101",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "GradCouncil",
+        "name": "Grad Council",
+        "id": 69928153,
+        "id_str": "69928153",
+        "indices": [
+          46,
+          58
+        ]
+      },
+      {
+        "screen_name": "GradCouncil",
+        "name": "Grad Council",
+        "id": 69928153,
+        "id_str": "69928153",
+        "indices": [
+          103,
+          115
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

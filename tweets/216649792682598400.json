@@ -1,0 +1,118 @@
+{
+  "created_at": "Sat Jun 23 21:51:50 +0000 2012",
+  "id": 216649792682598400,
+  "id_str": "216649792682598400",
+  "text": "Grassroots support for #UVA Pres #Sullivan goes viral &amp; GA members call on Rector Dragas to reinstate #Sullivan. Details next @NBC29 at 6",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 288785542,
+    "id_str": "288785542",
+    "name": "Matt Talhelm",
+    "screen_name": "MattTalhelm",
+    "location": "Charlottesville, VA",
+    "description": "Anchor/Reporter at NBC29",
+    "url": "http://www.nbc29.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nbc29.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 340,
+    "friends_count": 325,
+    "listed_count": 16,
+    "created_at": "Wed Apr 27 13:32:26 +0000 2011",
+    "favourites_count": 39,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1705,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2232321890/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2232321890/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          23,
+          27
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          33,
+          42
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          106,
+          115
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          130,
+          136
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 20 19:15:25 +0000 2012",
+  "id": 215523267300163584,
+  "id_str": "215523267300163584",
+  "text": "@BryanAlexander yeah I don't quite get it. How does a 'pedestrian' response to MOOC get one fired? #UVA",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215521136417579010,
+  "in_reply_to_status_id_str": "215521136417579010",
+  "in_reply_to_user_id": 755991,
+  "in_reply_to_user_id_str": "755991",
+  "in_reply_to_screen_name": "BryanAlexander",
+  "user": {
+    "id": 10116502,
+    "id_str": "10116502",
+    "name": "Adeline Koh",
+    "screen_name": "adelinekoh",
+    "location": "Philadelphia, PA",
+    "description": "visiting fac fellow, duke university. asst prof @stockton_edu. digital humanities, race, postcolonialism, brit, african & se asian lit. also a @profhacker",
+    "url": "http://adelinekoh.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://adelinekoh.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2066,
+    "friends_count": 1969,
+    "listed_count": 139,
+    "created_at": "Sat Nov 10 02:13:05 +0000 2007",
+    "favourites_count": 2325,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 25784,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2842307180/24dd7b6bb9fd9be3351ae6aacc7acd4d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2842307180/24dd7b6bb9fd9be3351ae6aacc7acd4d_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          99,
+          103
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BryanAlexander",
+        "name": "Bryan Alexander",
+        "id": 755991,
+        "id_str": "755991",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

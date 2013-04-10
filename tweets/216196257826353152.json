@@ -1,0 +1,104 @@
+{
+  "created_at": "Fri Jun 22 15:49:39 +0000 2012",
+  "id": 216196257826353152,
+  "id_str": "216196257826353152",
+  "text": "Just read another broadcast email from #Dragas - rich in sailing prose, but not anchored in reality. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22399127,
+    "id_str": "22399127",
+    "name": "Nat Burgwyn",
+    "screen_name": "burgwyn",
+    "location": "Washington, DC",
+    "description": "Web developer, beer drinker and baseball fan",
+    "url": "http://t.co/w7pf3eMH",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/w7pf3eMH",
+            "expanded_url": "http://www.natburgwyn.com/",
+            "display_url": "natburgwyn.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 153,
+    "friends_count": 153,
+    "listed_count": 4,
+    "created_at": "Sun Mar 01 19:56:05 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1352,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "06076A",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/125137107/stache_pipe_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/125137107/stache_pipe_normal.JPG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/22399127/1348686305",
+    "profile_link_color": "06076A",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EF8E34",
+    "profile_text_color": "06076A",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Dragas",
+        "indices": [
+          39,
+          46
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          101,
+          105
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

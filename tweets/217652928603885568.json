@@ -1,0 +1,128 @@
+{
+  "created_at": "Tue Jun 26 16:17:56 +0000 2012",
+  "id": 217652928603885568,
+  "id_str": "217652928603885568",
+  "text": "@jwijmenga @albertjanschol ben benieuwd wat universiteit v Amsterdam #UvA vindt van dit staaltje #datamassage van dr.Melching #wetenschap ??",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217647187956465664,
+  "in_reply_to_status_id_str": "217647187956465664",
+  "in_reply_to_user_id": 207975763,
+  "in_reply_to_user_id_str": "207975763",
+  "in_reply_to_screen_name": "jwijmenga",
+  "user": {
+    "id": 167506363,
+    "id_str": "167506363",
+    "name": "Paulus Jansen",
+    "screen_name": "PaulusJansenSP",
+    "location": "Utrecht",
+    "description": "Tweede-Kamerlid SP; woordvoerder wonen en energie",
+    "url": "http://paulusjansen.sp.nl/weblog/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://paulusjansen.sp.nl/weblog/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4228,
+    "friends_count": 164,
+    "listed_count": 290,
+    "created_at": "Fri Jul 16 19:27:34 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5200,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/659165384/avy6o6o6e60cz45s7j2h.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/659165384/avy6o6o6e60cz45s7j2h.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2609260056/o935olhpsw9u5c30vfnk_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2609260056/o935olhpsw9u5c30vfnk_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          69,
+          73
+        ]
+      },
+      {
+        "text": "datamassage",
+        "indices": [
+          97,
+          109
+        ]
+      },
+      {
+        "text": "wetenschap",
+        "indices": [
+          126,
+          137
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jwijmenga",
+        "name": "Jan Wijmenga",
+        "id": 207975763,
+        "id_str": "207975763",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "albertjanschol",
+        "name": "Albert-Jan Schol",
+        "id": 43672890,
+        "id_str": "43672890",
+        "indices": [
+          11,
+          26
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

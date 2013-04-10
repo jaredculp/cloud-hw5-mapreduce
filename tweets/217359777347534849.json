@@ -1,0 +1,120 @@
+{
+  "created_at": "Mon Jun 25 20:53:03 +0000 2012",
+  "id": 217359777347534849,
+  "id_str": "217359777347534849",
+  "text": "#UVA and @mikescott fans have to watch this great video of Mike proving what he can do for NBA teams.. #PICKTHISMAN http://t.co/zofHckto",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 153142558,
+    "id_str": "153142558",
+    "name": "MC Pittman",
+    "screen_name": "WahooBasketball",
+    "location": "Richmond, Virginia",
+    "description": "supporting the rise of the University of Virginia mens basketball team..",
+    "url": "http://wahoobasketball.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://wahoobasketball.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 633,
+    "friends_count": 338,
+    "listed_count": 22,
+    "created_at": "Mon Jun 07 20:04:49 +0000 2010",
+    "favourites_count": 6,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2887,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/216663512/harris_sene_harrell",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/216663512/harris_sene_harrell",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1270218093/uvahoops_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1270218093/uvahoops_normal",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "PICKTHISMAN",
+        "indices": [
+          103,
+          115
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zofHckto",
+        "expanded_url": "http://www.slamonline.com/online/nba/2012/06/nba-pre-draft-tour-mike-scott-workout/",
+        "display_url": "slamonline.com/online/nba/201…",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "mikescott",
+        "name": "Mike Scott",
+        "id": 150367583,
+        "id_str": "150367583",
+        "indices": [
+          9,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

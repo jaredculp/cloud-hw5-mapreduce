@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Jun 26 12:18:26 +0000 2012",
+  "id": 217592657839529984,
+  "id_str": "217592657839529984",
+  "text": "@jonathan_rhudy @larrysabato on morning run, I ran through live shot at the Lawn. Going to be a big news day in #CVille!",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217592474347114496,
+  "in_reply_to_status_id_str": "217592474347114496",
+  "in_reply_to_user_id": 18586048,
+  "in_reply_to_user_id_str": "18586048",
+  "in_reply_to_screen_name": "jonathan_rhudy",
+  "user": {
+    "id": 1644991,
+    "id_str": "1644991",
+    "name": "Nick Dawson",
+    "screen_name": "nickdawson",
+    "location": "Richmond, VA",
+    "description": "Former hospital admin. Now focused on patient and staff experience. Believes in patient designed care. Eats plants not pigs. Skis backwards. Golden Gopher. ENFP",
+    "url": "http://www.nickdawson.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nickdawson.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4525,
+    "friends_count": 1358,
+    "listed_count": 363,
+    "created_at": "Tue Mar 20 16:31:09 +0000 2007",
+    "favourites_count": 366,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 33062,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/1223382/IMG_3919.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/1223382/IMG_3919.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1604688875/NPD_Profile_50_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1604688875/NPD_Profile_50_normal.jpg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "CVille",
+        "indices": [
+          112,
+          119
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jonathan_rhudy",
+        "name": "Jonathan Rhudy, APR",
+        "id": 18586048,
+        "id_str": "18586048",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          16,
+          28
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

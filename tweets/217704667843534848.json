@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 19:43:32 +0000 2012",
+  "id": 217704667843534848,
+  "id_str": "217704667843534848",
+  "text": "Mike London celebrates Sullivan's reinstatement: http://t.co/axFcmWKF #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 35750406,
+    "id_str": "35750406",
+    "name": "Adam Abramson",
+    "screen_name": "AdamAbramson",
+    "location": "Brooklyn",
+    "description": "Web producer for @LateNightJimmy, @nbc30Rock & @nbcsnl. Butt of @LPrangley jokes. Hokie. College football nut. These are my views.",
+    "url": "http://www.adamabramson.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.adamabramson.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1112,
+    "friends_count": 200,
+    "listed_count": 50,
+    "created_at": "Mon Apr 27 14:13:07 +0000 2009",
+    "favourites_count": 406,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6302,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/676689986/13db8385fbbb312afa909a99789889ec.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/676689986/13db8385fbbb312afa909a99789889ec.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2649482711/eedf2d7cb185c95c41520336cca9c37f_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2649482711/eedf2d7cb185c95c41520336cca9c37f_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/35750406/1349384001",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          70,
+          74
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/axFcmWKF",
+        "expanded_url": "http://espn.go.com/photo/2010/1031/ncf_u_london_600.jpg",
+        "display_url": "espn.go.com/photo/2010/103…",
+        "indices": [
+          49,
+          69
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

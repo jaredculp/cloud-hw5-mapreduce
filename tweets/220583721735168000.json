@@ -1,0 +1,148 @@
+{
+  "created_at": "Wed Jul 04 18:23:52 +0000 2012",
+  "id": 220583721735168000,
+  "id_str": "220583721735168000",
+  "text": "Looking forward 2 seeing @WRoberts25 pitch tonight as the @CarolinaMudcats take on my hometown @SalemRedsox in Zebulon #4thofJuly #UVA #MiLB",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 47284797,
+    "id_str": "47284797",
+    "name": "Carl Young",
+    "screen_name": "carl_young",
+    "location": "Raleigh, NC",
+    "description": "English Ed NC State; researcher, writer, http://t.co/WF5zVAVP editor, NLI Team; UVA grad; fan of college radio, film, baseball, & desserts--work in progress.",
+    "url": "http://t.co/OC4SH0uR",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/OC4SH0uR",
+            "expanded_url": "http://ced.ncsu.edu/user/carl_young",
+            "display_url": "ced.ncsu.edu/user/carl_young",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/WF5zVAVP",
+            "expanded_url": "http://citejournal.org",
+            "display_url": "citejournal.org",
+            "indices": [
+              41,
+              61
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 649,
+    "friends_count": 793,
+    "listed_count": 41,
+    "created_at": "Mon Jun 15 07:31:10 +0000 2009",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3471,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "01171F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/37806320/Man_on_Sticks_1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/37806320/Man_on_Sticks_1.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/625878572/CAY_headshot_red3_F08_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/625878572/CAY_headshot_red3_F08_normal.JPG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/47284797/1353969052",
+    "profile_link_color": "B8BFBF",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "B8161C",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "4thofJuly",
+        "indices": [
+          119,
+          129
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          130,
+          134
+        ]
+      },
+      {
+        "text": "MiLB",
+        "indices": [
+          135,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WRoberts25",
+        "name": "Will Roberts",
+        "id": 100604427,
+        "id_str": "100604427",
+        "indices": [
+          25,
+          36
+        ]
+      },
+      {
+        "screen_name": "CarolinaMudcats",
+        "name": "Carolina Mudcats",
+        "id": 29107380,
+        "id_str": "29107380",
+        "indices": [
+          58,
+          74
+        ]
+      },
+      {
+        "screen_name": "salemredsox",
+        "name": "Salem Red Sox",
+        "id": 42500897,
+        "id_str": "42500897",
+        "indices": [
+          95,
+          107
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

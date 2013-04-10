@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Aug 08 17:59:11 +0000 2012",
+  "id": 233261088119074816,
+  "id_str": "233261088119074816",
+  "text": "RT @JerryRatcliffe New #UVa recruit Zach Bradshaw was impressive in yesterday's practice. The Penn State decommit is in UVa's 2013 class.",
+  "source": "<a href=\"http://www.nibirutech.com\" rel=\"nofollow\">TwitBird</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25239746,
+    "id_str": "25239746",
+    "name": "Bryan E. Tiller",
+    "screen_name": "hoosncubs",
+    "location": "VA",
+    "description": "",
+    "url": "http://apps.facebook.com/theblog/view/user/1430992089/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://apps.facebook.com/theblog/view/user/1430992089/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              54
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 18,
+    "friends_count": 258,
+    "listed_count": 1,
+    "created_at": "Thu Mar 19 04:45:00 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1217,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1282313197/Bobby_and_me_UVA_Game_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1282313197/Bobby_and_me_UVA_Game_normal.jpg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          23,
+          27
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JerryRatcliffe",
+        "name": "Jerry Ratcliffe",
+        "id": 483970346,
+        "id_str": "483970346",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

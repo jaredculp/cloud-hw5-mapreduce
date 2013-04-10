@@ -1,0 +1,97 @@
+{
+  "created_at": "Tue Jun 26 18:58:49 +0000 2012",
+  "id": 217693416392359936,
+  "id_str": "217693416392359936",
+  "text": "At 6700+ streams, I think networking in Charlottesville has improved--or maybe I don't understand how LiveStream works. #UVa",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15007784,
+    "id_str": "15007784",
+    "name": "Wally Grotophorst",
+    "screen_name": "grotophorst",
+    "location": "Fairfax, Virginia",
+    "description": "AUL, Digital Programs and Systems, University Libraries, George Mason University.\n\nGrowing with fire on flaming roads using ideas as our maps\n",
+    "url": "http://t.co/HsbN1l8d",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/HsbN1l8d",
+            "expanded_url": "http://timesync.gmu.edu/wordpress",
+            "display_url": "timesync.gmu.edu/wordpress",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 229,
+    "friends_count": 163,
+    "listed_count": 23,
+    "created_at": "Wed Jun 04 17:39:27 +0000 2008",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1272,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/94991987/cowz.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/94991987/cowz.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1267429210/waldo-1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1267429210/waldo-1_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/15007784/1354988970",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          120,
+          124
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

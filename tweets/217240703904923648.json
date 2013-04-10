@@ -1,0 +1,101 @@
+{
+  "created_at": "Mon Jun 25 12:59:54 +0000 2012",
+  "id": 217240703904923648,
+  "id_str": "217240703904923648",
+  "text": "Ugh: poorly argued, poorly researched, lazy \"analysis\" of the #UVa story -- The Virginia Fracas - http://t.co/u8kjajDy via @WSJ",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 49631695,
+    "id_str": "49631695",
+    "name": "A.J. Frey",
+    "screen_name": "avalonjfrey",
+    "location": "Manhattan, NY",
+    "description": "Gentleman, scholar, mayonnaise-fancier",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 187,
+    "friends_count": 557,
+    "listed_count": 3,
+    "created_at": "Mon Jun 22 13:45:15 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1547,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1784057468/IMG_0150_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1784057468/IMG_0150_normal.jpg",
+    "profile_link_color": "00B32A",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "262126",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/u8kjajDy",
+        "expanded_url": "http://on.wsj.com/NAjplm",
+        "display_url": "on.wsj.com/NAjplm",
+        "indices": [
+          98,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          123,
+          127
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

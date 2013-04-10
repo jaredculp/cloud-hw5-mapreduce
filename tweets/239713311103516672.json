@@ -1,0 +1,114 @@
+{
+  "created_at": "Sun Aug 26 13:18:01 +0000 2012",
+  "id": 239713311103516672,
+  "id_str": "239713311103516672",
+  "text": "Om in de stemming te komen voor de @Intreeweek, die morgen begint, hier nog even ons videoverslag van vorig jaar http://t.co/sHiju8fA #UvA",
+  "source": "<a href=\"http://www.crowdbooster.com\" rel=\"nofollow\">Crowdbooster</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 324834016,
+    "id_str": "324834016",
+    "name": "Folia Web",
+    "screen_name": "FoliaWeb",
+    "location": "Amsterdam, Netherlands",
+    "description": "Folia is het platform voor hoger opgeleid Amsterdam. Online en op papier brengen we nieuws en achtergronden over #UvA en #HvA.",
+    "url": "http://www.foliaweb.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.foliaweb.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2187,
+    "friends_count": 2393,
+    "listed_count": 60,
+    "created_at": "Mon Jun 27 08:53:06 +0000 2011",
+    "favourites_count": 703,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5671,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D02515",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1604209206/Folia_logo_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1604209206/Folia_logo_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/324834016/1360227379",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          134,
+          138
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/sHiju8fA",
+        "expanded_url": "http://bit.ly/PGg3MK",
+        "display_url": "bit.ly/PGg3MK",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Intreeweek",
+        "name": "Intreeweek",
+        "id": 501769824,
+        "id_str": "501769824",
+        "indices": [
+          35,
+          46
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Sat Jun 23 13:45:07 +0000 2012",
+  "id": 216527306255106051,
+  "id_str": "216527306255106051",
+  "text": "@dandrezner @sivavaid The university environment is special, and part of the experience. We have $ for prisons, why not dorms? #uppers",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216526375841054723,
+  "in_reply_to_status_id_str": "216526375841054723",
+  "in_reply_to_user_id": 75797367,
+  "in_reply_to_user_id_str": "75797367",
+  "in_reply_to_screen_name": "dandrezner",
+  "user": {
+    "id": 363214118,
+    "id_str": "363214118",
+    "name": "Frank Lynch",
+    "screen_name": "FrankLynchBkln",
+    "location": "Brooklyn, NY",
+    "description": "I do marketing research, with 30 years experience. The car is an old electric Citicar, parked off Flatbush Avenue.",
+    "url": "http://www.samueljohnson.com/blog/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.samueljohnson.com/blog/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 194,
+    "friends_count": 538,
+    "listed_count": 7,
+    "created_at": "Sat Aug 27 18:30:19 +0000 2011",
+    "favourites_count": 299,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10663,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/438171130/lil_2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/438171130/lil_2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1863569384/lil_1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1863569384/lil_1_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uppers",
+        "indices": [
+          127,
+          134
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dandrezner",
+        "name": "Daniel Drezner",
+        "id": 75797367,
+        "id_str": "75797367",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          12,
+          21
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

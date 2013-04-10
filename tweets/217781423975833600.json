@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 27 00:48:32 +0000 2012",
+  "id": 217781423975833600,
+  "id_str": "217781423975833600",
+  "text": "I am so proud of my school. RT @wpjenna: The story of how #UVA got its president back (live blog style): http://t.co/E7iSpUNc",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25000148,
+    "id_str": "25000148",
+    "name": "Jennifer Morgan Gray",
+    "screen_name": "jmorgangray",
+    "location": "DC metro area, USA",
+    "description": "Long Island native who lost the accent. Proud UVA alum. Working mom. A poet trapped in an editor's brain. I won't give up the serial comma, even for Twitter.",
+    "url": "http://thegraydays.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://thegraydays.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 194,
+    "friends_count": 523,
+    "listed_count": 4,
+    "created_at": "Wed Mar 18 01:26:27 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2147,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "07090B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/402818318/x82dfd33ab7cf5732c3e2e6bcdeae8ec.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/402818318/x82dfd33ab7cf5732c3e2e6bcdeae8ec.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1760576580/Twitterpic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1760576580/Twitterpic_normal.jpg",
+    "profile_link_color": "C34242",
+    "profile_sidebar_border_color": "BFBFBF",
+    "profile_sidebar_fill_color": "C9C9C9",
+    "profile_text_color": "1C1F23",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          58,
+          62
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/E7iSpUNc",
+        "expanded_url": "http://bit.ly/KBBM4U",
+        "display_url": "bit.ly/KBBM4U",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          31,
+          39
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,92 @@
+{
+  "created_at": "Sun Jun 24 17:29:25 +0000 2012",
+  "id": 216946143412760578,
+  "id_str": "216946143412760578",
+  "text": "Live from the lawn: http://t.co/Hg2Cbi1v  #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1565981,
+    "id_str": "1565981",
+    "name": "nancy mulrine",
+    "screen_name": "ancym",
+    "location": "crozet & charlottesville",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 462,
+    "friends_count": 748,
+    "listed_count": 29,
+    "created_at": "Tue Mar 20 00:31:05 +0000 2007",
+    "favourites_count": 20,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2565,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9BB1E9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/29920482/birdonbeach.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/29920482/birdonbeach.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/29630742/Picture_006_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/29630742/Picture_006_normal.jpg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Hg2Cbi1v",
+        "expanded_url": "http://www.ustream.tv/channel/sunday-on-the-lawn#utm_source=TheUVAFool",
+        "display_url": "ustream.tv/channel/sunday…",
+        "indices": [
+          20,
+          40
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,105 @@
+{
+  "created_at": "Fri Jun 22 01:36:26 +0000 2012",
+  "id": 215981540415504384,
+  "id_str": "215981540415504384",
+  "text": "@mediaUVAgreg @cavalierdaily @wuvaonline Of course, see Sullivan's May statement: http://t.co/j6K63tp1",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215979098609172480,
+  "in_reply_to_status_id_str": "215979098609172480",
+  "in_reply_to_user_id": 450385865,
+  "in_reply_to_user_id_str": "450385865",
+  "in_reply_to_screen_name": "greglewis_5",
+  "user": {
+    "id": 612589878,
+    "id_str": "612589878",
+    "name": "Emily Fenichel",
+    "screen_name": "EmilyFenichel",
+    "location": "",
+    "description": "The arts...define who we are as a people and provide an account of our history for the next generation. - Michelle Obama",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 11,
+    "friends_count": 70,
+    "listed_count": 2,
+    "created_at": "Tue Jun 19 12:18:02 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 178,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2322242843/bruges_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2322242843/bruges_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/j6K63tp1",
+        "expanded_url": "http://www.cavalierdaily.com/2012/06/14/president-sullivans-strategic-plan-to-the-board-of-visitors/",
+        "display_url": "cavalierdaily.com/2012/06/14/pre…",
+        "indices": [
+          82,
+          102
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          14,
+          28
+        ]
+      },
+      {
+        "screen_name": "WUVAonline",
+        "name": "WUVA Online",
+        "id": 204324915,
+        "id_str": "204324915",
+        "indices": [
+          29,
+          40
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,111 @@
+{
+  "created_at": "Mon Jun 25 10:18:57 +0000 2012",
+  "id": 217200198756208640,
+  "id_str": "217200198756208640",
+  "text": "Informatie voor #UvA #fdr studenten die het bacheloressay niet af kunnen ronden binnen dit collegejaar &gt; http://t.co/tJ0bevyR",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 327459246,
+    "id_str": "327459246",
+    "name": "UvA_Student_Rechten",
+    "screen_name": "UvA_Rechten",
+    "location": "Amsterdam",
+    "description": "The Amsterdam Law is one of the largest law schools in the Netherlands. Research is focused on International, Private, Environmental, Labour and Information Law",
+    "url": "http://www.uva.nl/start.cfm",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.uva.nl/start.cfm",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 76,
+    "friends_count": 8,
+    "listed_count": 3,
+    "created_at": "Fri Jul 01 16:09:40 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 36,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1427239135/FB-UvA-ALS3_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1427239135/FB-UvA-ALS3_normal.gif",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          16,
+          20
+        ]
+      },
+      {
+        "text": "fdr",
+        "indices": [
+          21,
+          25
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/tJ0bevyR",
+        "expanded_url": "http://www.student.uva.nl/8-8-4-fdr/home.cfm/CE60AD01-B163-4326-805C39950F411684",
+        "display_url": "student.uva.nl/8-8-4-fdr/home…",
+        "indices": [
+          108,
+          128
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Thu Jun 21 14:17:33 +0000 2012",
+  "id": 215810693272829955,
+  "id_str": "215810693272829955",
+  "text": "@_annenicolle Oi! Você sabia que a #UVA oferece bolsas de até 100% de desconto? Conheça a nossa Universidade! http://t.co/z29xrgnf",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 428907770,
+  "in_reply_to_user_id_str": "428907770",
+  "in_reply_to_screen_name": "_annenicolle",
+  "user": {
+    "id": 64500444,
+    "id_str": "64500444",
+    "name": "Veiga de Almeida",
+    "screen_name": "UVA_Veiga",
+    "location": "Rio de Janeiro | Brazil",
+    "description": "Twitter oficial da Universidade Veiga de Almeida – Uma das Melhores Universidades Privadas do País com qualidade comprovada pelo MEC e membro da Rede Ilumno.",
+    "url": "http://www.uva.br/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.uva.br/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6136,
+    "friends_count": 204,
+    "listed_count": 121,
+    "created_at": "Mon Aug 10 20:10:02 +0000 2009",
+    "favourites_count": 12,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10282,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "00337F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/686997752/e021c375cf72ed87c2984ea6d313f176.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/686997752/e021c375cf72ed87c2984ea6d313f176.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2730051973/39eb0d8171dcd008a1e00e2541d4e9a1_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2730051973/39eb0d8171dcd008a1e00e2541d4e9a1_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/64500444/1350496443",
+    "profile_link_color": "0085C2",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C6C9CC",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          35,
+          39
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/z29xrgnf",
+        "expanded_url": "http://www.uva.br/vestibular/",
+        "display_url": "uva.br/vestibular/",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "_annenicolle",
+        "name": "Nick",
+        "id": 428907770,
+        "id_str": "428907770",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

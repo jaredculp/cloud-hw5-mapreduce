@@ -1,0 +1,96 @@
+{
+  "created_at": "Mon Jun 25 21:13:58 +0000 2012",
+  "id": 217365041207455746,
+  "id_str": "217365041207455746",
+  "text": "@NathanWurtzel @LarrySabato These ethnic polls often give impression that \"Hispanic\" is monolithic - hint. Puerto Rican is not Mexican",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217357495629393921,
+  "in_reply_to_status_id_str": "217357495629393921",
+  "in_reply_to_user_id": 18723501,
+  "in_reply_to_user_id_str": "18723501",
+  "in_reply_to_screen_name": "NathanWurtzel",
+  "user": {
+    "id": 80845534,
+    "id_str": "80845534",
+    "name": "Art Fougner",
+    "screen_name": "sonodoc99",
+    "location": "",
+    "description": "Recovering Obstetrician - Speaking As An Individual",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1156,
+    "friends_count": 1395,
+    "listed_count": 50,
+    "created_at": "Thu Oct 08 13:14:30 +0000 2009",
+    "favourites_count": 43,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 25800,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2605259823/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2605259823/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NathanWurtzel",
+        "name": "Nathan Wurtzel",
+        "id": 18723501,
+        "id_str": "18723501",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          15,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

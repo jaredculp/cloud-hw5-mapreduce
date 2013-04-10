@@ -1,0 +1,131 @@
+{
+  "created_at": "Thu Jun 21 17:28:13 +0000 2012",
+  "id": 215858676022517760,
+  "id_str": "215858676022517760",
+  "text": "@cavalierdaily I'm not sure how \"inside\" he is, but for what it's worth this doesn't read like someone who thinks Sully is to be reinstated.",
+  "source": "<a href=\"http://www.handmark.com\" rel=\"nofollow\">TweetCaster for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215854715148308480,
+  "in_reply_to_status_id_str": "215854715148308480",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 64255490,
+    "id_str": "64255490",
+    "name": "David Chamowitz",
+    "screen_name": "dchamowitz",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 140,
+    "friends_count": 426,
+    "listed_count": 5,
+    "created_at": "Sun Aug 09 21:12:32 +0000 2009",
+    "favourites_count": 93,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 904,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1438764188/me_at_Ricks_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1438764188/me_at_Ricks_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.805268,
+      -77.043452
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.043452,
+      38.805268
+    ]
+  },
+  "place": {
+    "id": "d6819fe60643ebc1",
+    "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
+    "place_type": "city",
+    "name": "Alexandria",
+    "full_name": "Alexandria, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.144359,
+            38.785216
+          ],
+          [
+            -77.037288,
+            38.785216
+          ],
+          [
+            -77.037288,
+            38.845011
+          ],
+          [
+            -77.144359,
+            38.845011
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

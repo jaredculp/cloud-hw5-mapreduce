@@ -1,0 +1,120 @@
+{
+  "created_at": "Thu Aug 16 00:16:26 +0000 2012",
+  "id": 235892738153906176,
+  "id_str": "235892738153906176",
+  "text": "Photo: #misturinha #uva #limão http://t.co/Zldg4d2f",
+  "source": "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 50166899,
+    "id_str": "50166899",
+    "name": "Uma tal de Isabella",
+    "screen_name": "_pfvr_Isabella",
+    "location": "Um lugar aí",
+    "description": "",
+    "url": "http://t.co/Mww99XGM",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/Mww99XGM",
+            "expanded_url": "http://iisabellaandrade.blogspot.com",
+            "display_url": "iisabellaandrade.blogspot.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 249,
+    "friends_count": 110,
+    "listed_count": 4,
+    "created_at": "Wed Jun 24 01:18:14 +0000 2009",
+    "favourites_count": 64,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15233,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/762246518/a22cccb404befe6ba0e92b5d0f79af97.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/762246518/a22cccb404befe6ba0e92b5d0f79af97.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3221275705/07daf5ac25a50bca551158da47bf57f5_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3221275705/07daf5ac25a50bca551158da47bf57f5_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/50166899/1358009024",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "misturinha",
+        "indices": [
+          7,
+          18
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          19,
+          23
+        ]
+      },
+      {
+        "text": "limão",
+        "indices": [
+          24,
+          30
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Zldg4d2f",
+        "expanded_url": "http://tmblr.co/Zog1HvRVG8e9",
+        "display_url": "tmblr.co/Zog1HvRVG8e9",
+        "indices": [
+          31,
+          51
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

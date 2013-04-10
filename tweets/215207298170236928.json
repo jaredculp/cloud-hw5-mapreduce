@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 19 22:19:52 +0000 2012",
+  "id": 215207298170236928,
+  "id_str": "215207298170236928",
+  "text": "RT @jayrosen_nyu: Resignation letter from a star computer science prof at #UVa http://t.co/i31mTTzZ \"I want no part of this ongoing fiasco\"",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20115839,
+    "id_str": "20115839",
+    "name": "Graham Leicester 雷思达",
+    "screen_name": "graham_iff",
+    "location": "Scotland",
+    "description": "International Futures Forum: practical hope. wise initiative. effective action in conceptual emergencies.",
+    "url": "http://www.internationalfuturesforum.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.internationalfuturesforum.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1626,
+    "friends_count": 1895,
+    "listed_count": 69,
+    "created_at": "Thu Feb 05 02:44:05 +0000 2009",
+    "favourites_count": 5032,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1747,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/6202600/twitter_bg2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/6202600/twitter_bg2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/77056475/gl_photo_eardley_crop_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/77056475/gl_photo_eardley_crop_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "2E3A87",
+    "profile_sidebar_fill_color": "FCFC92",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          74,
+          78
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/i31mTTzZ",
+        "expanded_url": "http://bit.ly/MKO4YV",
+        "display_url": "bit.ly/MKO4YV",
+        "indices": [
+          79,
+          99
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jayrosen_nyu",
+        "name": "Jay Rosen ",
+        "id": 14834340,
+        "id_str": "14834340",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

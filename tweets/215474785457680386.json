@@ -1,0 +1,121 @@
+{
+  "created_at": "Wed Jun 20 16:02:46 +0000 2012",
+  "id": 215474785457680386,
+  "id_str": "215474785457680386",
+  "text": "Brilliant. RT @kjhealy: The BoV Declaration of Independence: http://t.co/v0eD6LpY #UVa",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 65375759,
+    "id_str": "65375759",
+    "name": "Zeynep Tufekci",
+    "screen_name": "techsoc",
+    "location": "",
+    "description": "Thinking about our tools, ourselves. Sociology, Princeton CITP fellow, assistant prof at UNC, Harvard Berkman faculty associate. Blog: http://t.co/WrSTX3Lr. ",
+    "url": "http://www.technosociology.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.technosociology.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/WrSTX3Lr",
+            "expanded_url": "http://www.technosociology.org",
+            "display_url": "technosociology.org",
+            "indices": [
+              135,
+              155
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 12703,
+    "friends_count": 1049,
+    "listed_count": 988,
+    "created_at": "Thu Aug 13 14:32:22 +0000 2009",
+    "favourites_count": 3359,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 18688,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/600965177/twitter_01_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/600965177/twitter_01_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          82,
+          86
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/v0eD6LpY",
+        "expanded_url": "http://bit.ly/KTGool",
+        "display_url": "bit.ly/KTGool",
+        "indices": [
+          61,
+          81
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kjhealy",
+        "name": "Kieran Healy",
+        "id": 782325,
+        "id_str": "782325",
+        "indices": [
+          14,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

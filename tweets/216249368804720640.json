@@ -1,0 +1,113 @@
+{
+  "created_at": "Fri Jun 22 19:20:41 +0000 2012",
+  "id": 216249368804720640,
+  "id_str": "216249368804720640",
+  "text": "@UVa_Alumni Haha love the Jefferson Cup as a frame of reference for how tall this stack is #UVA http://t.co/8owfmNOq",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216229830226739201,
+  "in_reply_to_status_id_str": "216229830226739201",
+  "in_reply_to_user_id": 17592789,
+  "in_reply_to_user_id_str": "17592789",
+  "in_reply_to_screen_name": "UVa_Alumni",
+  "user": {
+    "id": 196019025,
+    "id_str": "196019025",
+    "name": "Vinu Ilakkuvan",
+    "screen_name": "pursuitofPH",
+    "location": "",
+    "description": "A public health enthusiast interested in health communications (esp. in the digital age), social determinants of health, community engagement, & social change.",
+    "url": "http://pursuitofpublichealth.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://pursuitofpublichealth.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 190,
+    "friends_count": 276,
+    "listed_count": 10,
+    "created_at": "Tue Sep 28 03:31:19 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 353,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/154904633/twitterbground.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/154904633/twitterbground.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1132852836/greenearthands_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1132852836/greenearthands_normal.jpg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/8owfmNOq",
+        "expanded_url": "http://ow.ly/i/IsYg",
+        "display_url": "ow.ly/i/IsYg",
+        "indices": [
+          96,
+          116
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

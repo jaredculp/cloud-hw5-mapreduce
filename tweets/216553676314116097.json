@@ -1,0 +1,164 @@
+{
+  "created_at": "Sat Jun 23 15:29:54 +0000 2012",
+  "id": 216553676314116097,
+  "id_str": "216553676314116097",
+  "text": "@GlobalHigherEd @katiecouric @UVa @UVa_Alumni @cnn @bbc @wsj fire #dragas",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216553264303452160,
+  "in_reply_to_status_id_str": "216553264303452160",
+  "in_reply_to_user_id": 20961822,
+  "in_reply_to_user_id_str": "20961822",
+  "in_reply_to_screen_name": "GlobalHigherEd",
+  "user": {
+    "id": 61632775,
+    "id_str": "61632775",
+    "name": "Team E3NYC",
+    "screen_name": "E3NYC",
+    "location": "New York",
+    "description": "Cleantech innovation is of little value if it is not implemented.  E3NYC is a catalyst for large scale cleantech implementation.",
+    "url": "http://www.e3blue.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.e3blue.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 111,
+    "friends_count": 111,
+    "listed_count": 5,
+    "created_at": "Thu Jul 30 23:38:02 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1513,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "5B527F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409329266/E3NYC_MAP_2016-1000.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409329266/E3NYC_MAP_2016-1000.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1781575994/e3nyc-logo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1781575994/e3nyc-logo_normal.jpg",
+    "profile_link_color": "550873",
+    "profile_sidebar_border_color": "99BBAD",
+    "profile_sidebar_fill_color": "EDEAE4",
+    "profile_text_color": "9A8194",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "dragas",
+        "indices": [
+          66,
+          73
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GlobalHigherEd",
+        "name": "GlobalHigherEd",
+        "id": 20961822,
+        "id_str": "20961822",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          16,
+          28
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          29,
+          33
+        ]
+      },
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          34,
+          45
+        ]
+      },
+      {
+        "screen_name": "CNN",
+        "name": "CNN",
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          46,
+          50
+        ]
+      },
+      {
+        "screen_name": "BBC",
+        "name": "BBC",
+        "id": 19701628,
+        "id_str": "19701628",
+        "indices": [
+          51,
+          55
+        ]
+      },
+      {
+        "screen_name": "WSJ",
+        "name": "Wall Street Journal",
+        "id": 3108351,
+        "id_str": "3108351",
+        "indices": [
+          56,
+          60
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

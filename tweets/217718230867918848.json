@@ -1,0 +1,158 @@
+{
+  "created_at": "Tue Jun 26 20:37:25 +0000 2012",
+  "id": 217718230867918848,
+  "id_str": "217718230867918848",
+  "text": "“@UVa_Alumni: #UVa BOV votes to reinstate Sullivan http://t.co/qMOxfWUN” yay; the people win",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16819340,
+    "id_str": "16819340",
+    "name": "Frank Leone",
+    "screen_name": "DemRulz",
+    "location": "Arlington VA",
+    "description": "Attorney, Virginia DNC member, Beagle owner",
+    "url": "http://demrulz.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://demrulz.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 646,
+    "friends_count": 1240,
+    "listed_count": 34,
+    "created_at": "Fri Oct 17 03:11:23 +0000 2008",
+    "favourites_count": 9,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1540,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "3E668C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/740131293/c59e599306ad9b2b58142d75409a13db.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/740131293/c59e599306ad9b2b58142d75409a13db.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2984086846/6e93af84e6752d2fbdb62d7403550f5e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2984086846/6e93af84e6752d2fbdb62d7403550f5e_normal.jpeg",
+    "profile_link_color": "85CEFF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "5E7837",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.90148455,
+      -77.03178203
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.03178203,
+      38.90148455
+    ]
+  },
+  "place": {
+    "id": "01fbe706f872cb32",
+    "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+    "place_type": "city",
+    "name": "Washington",
+    "full_name": "Washington, DC",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.119759,
+            38.791645
+          ],
+          [
+            -76.909393,
+            38.791645
+          ],
+          [
+            -76.909393,
+            38.995548
+          ],
+          [
+            -77.119759,
+            38.995548
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          14,
+          18
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/qMOxfWUN",
+        "expanded_url": "http://ow.ly/bQnOw",
+        "display_url": "ow.ly/bQnOw",
+        "indices": [
+          51,
+          71
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          1,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

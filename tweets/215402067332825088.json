@@ -1,0 +1,108 @@
+{
+  "created_at": "Wed Jun 20 11:13:49 +0000 2012",
+  "id": 215402067332825088,
+  "id_str": "215402067332825088",
+  "text": "RT @cavalierdaily: #UVA Pres #Sullivan: \"At the end of the day that’s the most important thing: that the  (...) http://t.co/6iqANagM",
+  "source": "<a href=\"http://bottlenose.com/\" rel=\"nofollow\">Bottlenose</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13349192,
+    "id_str": "13349192",
+    "name": "Don",
+    "screen_name": "HimalayanSage",
+    "location": "Richmond, VA",
+    "description": "IBM Consultant, UVA MBA on a Harley and a  Yoga and meditation teacher.  They are all related. How?",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 86,
+    "friends_count": 218,
+    "listed_count": 7,
+    "created_at": "Mon Feb 11 15:13:20 +0000 2008",
+    "favourites_count": 9,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 344,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0E1C61",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1826930657/Don3_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1826930657/Don3_normal.jpg",
+    "profile_link_color": "F01118",
+    "profile_sidebar_border_color": "147011",
+    "profile_sidebar_fill_color": "1D9972",
+    "profile_text_color": "0A0100",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          19,
+          23
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          29,
+          38
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/6iqANagM",
+        "expanded_url": "http://bo.tt/6qx80",
+        "display_url": "bo.tt/6qx80",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

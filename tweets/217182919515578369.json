@@ -1,0 +1,127 @@
+{
+  "created_at": "Mon Jun 25 09:10:17 +0000 2012",
+  "id": 217182919515578369,
+  "id_str": "217182919515578369",
+  "text": "Me encanta!! RT @winetastelovers: Bonita foto del pisado de la #uva, de Estanis Nuñez. #Rioja #vino http://t.co/y0GTczVc",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 335351467,
+    "id_str": "335351467",
+    "name": "Bodegas Luis Alegre",
+    "screen_name": "LuisAlegreWines",
+    "location": "Laguardia (Alava)",
+    "description": "Innovación, tradición y calidad en el corazón de La Rioja Alavesa. Queremos que conozcas el mundo del vino desde otra perspectiva. . Tfn: +34 945 600 089",
+    "url": "http://luisalegre.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://luisalegre.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1597,
+    "friends_count": 487,
+    "listed_count": 102,
+    "created_at": "Thu Jul 14 15:10:09 +0000 2011",
+    "favourites_count": 22,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5585,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "916E4D",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1442299726/logo_luis_alegre_web_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1442299726/logo_luis_alegre_web_normal.jpg",
+    "profile_link_color": "914B06",
+    "profile_sidebar_border_color": "F7E8CF",
+    "profile_sidebar_fill_color": "F7E8CF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          63,
+          67
+        ]
+      },
+      {
+        "text": "Rioja",
+        "indices": [
+          87,
+          93
+        ]
+      },
+      {
+        "text": "vino",
+        "indices": [
+          94,
+          99
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/y0GTczVc",
+        "expanded_url": "http://fb.me/1auj4eXH6",
+        "display_url": "fb.me/1auj4eXH6",
+        "indices": [
+          100,
+          120
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "WineTasteLovers",
+        "name": "Wine Taste Lovers",
+        "id": 100764381,
+        "id_str": "100764381",
+        "indices": [
+          16,
+          32
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

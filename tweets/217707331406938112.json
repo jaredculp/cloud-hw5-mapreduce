@@ -1,0 +1,101 @@
+{
+  "created_at": "Tue Jun 26 19:54:07 +0000 2012",
+  "id": 217707331406938112,
+  "id_str": "217707331406938112",
+  "text": "sounded great too RT: @NBC29: Crowd infront of #UVA rotunda joins and  sings \"Good Old Song\" http://t.co/itL62CKE",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 12697962,
+    "id_str": "12697962",
+    "name": "morgan",
+    "screen_name": "msaxby",
+    "location": "Virginia",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 97,
+    "friends_count": 88,
+    "listed_count": 2,
+    "created_at": "Fri Jan 25 21:24:49 +0000 2008",
+    "favourites_count": 24,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 950,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/3380115/alf05.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/3380115/alf05.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/543585972/goya_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/543585972/goya_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/itL62CKE",
+        "expanded_url": "http://ht.ly/bQkW5",
+        "display_url": "ht.ly/bQkW5",
+        "indices": [
+          93,
+          113
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          22,
+          28
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

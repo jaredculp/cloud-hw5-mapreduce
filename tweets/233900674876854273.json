@@ -1,0 +1,119 @@
+{
+  "created_at": "Fri Aug 10 12:20:41 +0000 2012",
+  "id": 233900674876854273,
+  "id_str": "233900674876854273",
+  "text": "Grafico interesante: evolucion aromatica de la #uva en situacion equilibrada. #enologia #vino http://t.co/kuLJ0hQe",
+  "source": "<a href=\"http://bitly.com\" rel=\"nofollow\">bitly</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 100764381,
+    "id_str": "100764381",
+    "name": "Wine Taste Lovers",
+    "screen_name": "WineTasteLovers",
+    "location": "La Rioja",
+    "description": "Wine tourism company in La Rioja (Spain). Enoturismo en Rioja",
+    "url": "http://www.winetastelovers.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.winetastelovers.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1938,
+    "friends_count": 1436,
+    "listed_count": 114,
+    "created_at": "Thu Dec 31 13:14:08 +0000 2009",
+    "favourites_count": 130,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5621,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2E2727",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/695429319/77ac67dfbf447d85dececd9864ea4144.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/695429319/77ac67dfbf447d85dececd9864ea4144.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1135695095/facebook_club_1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1135695095/facebook_club_1_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/100764381/1353164520",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "enologia",
+        "indices": [
+          78,
+          87
+        ]
+      },
+      {
+        "text": "vino",
+        "indices": [
+          88,
+          93
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/kuLJ0hQe",
+        "expanded_url": "http://on.fb.me/TnoVcC",
+        "display_url": "on.fb.me/TnoVcC",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

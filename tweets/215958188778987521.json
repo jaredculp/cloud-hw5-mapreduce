@@ -1,0 +1,98 @@
+{
+  "created_at": "Fri Jun 22 00:03:39 +0000 2012",
+  "id": 215958188778987521,
+  "id_str": "215958188778987521",
+  "text": "@LarrySabato Rector Dragon must fall on her sword",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215956762157793281,
+  "in_reply_to_status_id_str": "215956762157793281",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 18117814,
+    "id_str": "18117814",
+    "name": "Philip",
+    "screen_name": "balister",
+    "location": "ÜT: 37.225885,-80.412882",
+    "description": "",
+    "url": "http://www.opensdr.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.opensdr.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 322,
+    "friends_count": 357,
+    "listed_count": 14,
+    "created_at": "Sun Dec 14 15:48:08 +0000 2008",
+    "favourites_count": 36,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9526,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/67402803/picofme_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/67402803/picofme_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

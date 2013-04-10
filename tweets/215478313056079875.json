@@ -1,0 +1,101 @@
+{
+  "created_at": "Wed Jun 20 16:16:47 +0000 2012",
+  "id": 215478313056079875,
+  "id_str": "215478313056079875",
+  "text": "Good story from @insidehighered looking at #UVa Board of Visitors emails http://t.co/47r3hv79",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 85370557,
+    "id_str": "85370557",
+    "name": "Laura Diamond",
+    "screen_name": "ajccolleges",
+    "location": "Atlanta, GA",
+    "description": "I write about colleges for the Atlanta Journal-Constitution. I'm addicted to coffee and dark chocolate and seem unable to lose my New York accent.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1294,
+    "friends_count": 470,
+    "listed_count": 77,
+    "created_at": "Mon Oct 26 17:45:11 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2187,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/726795896/morehouse.0519.3_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/726795896/morehouse.0519.3_normal.jpg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          43,
+          47
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/47r3hv79",
+        "expanded_url": "http://bit.ly/MELQh6",
+        "display_url": "bit.ly/MELQh6",
+        "indices": [
+          73,
+          93
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "insidehighered",
+        "name": "Inside Higher Ed",
+        "id": 16045268,
+        "id_str": "16045268",
+        "indices": [
+          16,
+          31
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

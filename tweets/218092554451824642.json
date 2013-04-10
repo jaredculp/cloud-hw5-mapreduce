@@ -1,0 +1,93 @@
+{
+  "created_at": "Wed Jun 27 21:24:51 +0000 2012",
+  "id": 218092554451824642,
+  "id_str": "218092554451824642",
+  "text": "@wbaustin \"25 years ago this would have been called a catfight.\" That's a ridiculous characterization. #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 218088283438190592,
+  "in_reply_to_status_id_str": "218088283438190592",
+  "in_reply_to_user_id": 804455,
+  "in_reply_to_user_id_str": "804455",
+  "in_reply_to_screen_name": "wbaustin",
+  "user": {
+    "id": 21427861,
+    "id_str": "21427861",
+    "name": "Carolyn Gatto",
+    "screen_name": "CG_NY_CC",
+    "location": "",
+    "description": "Marketing and business development consultant for Cape Cod hotels, resorts and vacation rentals. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2284,
+    "friends_count": 1598,
+    "listed_count": 101,
+    "created_at": "Fri Feb 20 20:02:46 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2354,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/148149083/Twitter3.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/148149083/Twitter3.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/82900426/TwitterPic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/82900426/TwitterPic_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/21427861/1358373225",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          103,
+          107
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wbaustin",
+        "name": "Bill Austin",
+        "id": 804455,
+        "id_str": "804455",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

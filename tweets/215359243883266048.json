@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 08:23:39 +0000 2012",
+  "id": 215359243883266048,
+  "id_str": "215359243883266048",
+  "text": "MT @dancohen 'Isn't the point of university boards to prevent rash reactions &amp; untested shiny new things like MOOCs?' #UVA - Apparently not.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 503612646,
+    "id_str": "503612646",
+    "name": "Jason Berg",
+    "screen_name": "Jason_R_Berg",
+    "location": "Leeds, UK",
+    "description": "I'm a PhD student in Medieval History at Leeds University. Interests inc. Higher Education, early middle ages, monsters and geography. http://t.co/wg07dAzm",
+    "url": "http://themonstrousmiddleages.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://themonstrousmiddleages.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              43
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/wg07dAzm",
+            "expanded_url": "http://www.jasonberg.org",
+            "display_url": "jasonberg.org",
+            "indices": [
+              135,
+              155
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 354,
+    "friends_count": 418,
+    "listed_count": 13,
+    "created_at": "Sat Feb 25 22:03:34 +0000 2012",
+    "favourites_count": 54,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2350,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/634099606/dge2q6qti74xowfpibmn.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/634099606/dge2q6qti74xowfpibmn.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2508363767/yd4iu1y3tnp5pvch2c70_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2508363767/yd4iu1y3tnp5pvch2c70_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/503612646/1358113013",
+    "profile_link_color": "B37700",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          122,
+          126
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dancohen",
+        "name": "Dan Cohen",
+        "id": 14181097,
+        "id_str": "14181097",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

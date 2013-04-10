@@ -1,0 +1,95 @@
+{
+  "created_at": "Mon Jun 25 03:53:02 +0000 2012",
+  "id": 217103078866944000,
+  "id_str": "217103078866944000",
+  "text": "The more I think about it the more I realize I mostly dislike the Dragas faction for its aesthetics. No real opinion on substance. #UVA",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 720863,
+    "id_str": "720863",
+    "name": "Tom Lee",
+    "screen_name": "tjl",
+    "location": "Washington, DC",
+    "description": "Director of Sunlight Labs. One time I named a panda.",
+    "url": "http://www.sunlightlabs.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.sunlightlabs.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2157,
+    "friends_count": 701,
+    "listed_count": 148,
+    "created_at": "Sun Jan 28 18:49:19 +0000 2007",
+    "favourites_count": 239,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 15256,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/285566570/magnetism_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/285566570/magnetism_normal.png",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          131,
+          135
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

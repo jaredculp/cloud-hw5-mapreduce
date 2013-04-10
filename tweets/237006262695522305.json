@@ -1,0 +1,112 @@
+{
+  "created_at": "Sun Aug 19 02:01:11 +0000 2012",
+  "id": 237006262695522305,
+  "id_str": "237006262695522305",
+  "text": "Going to #UVA tomorrow to see my cuzo @_LightsOut31 #goHoos",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 298786290,
+    "id_str": "298786290",
+    "name": "Chase Womack",
+    "screen_name": "MR_RealEstateVA",
+    "location": "Hampton Roads",
+    "description": "I am a top producing full time REALTOR in Virginia  My specialty is new construction and first time home buyers KEYS OPEN DOORS... LET ME UNLOCK YOUR DREAMS",
+    "url": "http://www.KeysOpenDoorsVA.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.KeysOpenDoorsVA.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 335,
+    "friends_count": 311,
+    "listed_count": 2,
+    "created_at": "Sat May 14 23:05:44 +0000 2011",
+    "favourites_count": 9,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4412,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/288718333/bently_3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/288718333/bently_3.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1371367567/IMG00109-20110527-1558_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1371367567/IMG00109-20110527-1558_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/298786290/1355797016",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          9,
+          13
+        ]
+      },
+      {
+        "text": "goHoos",
+        "indices": [
+          52,
+          59
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "_LightsOut31",
+        "name": "Rell Lat",
+        "id": 104667089,
+        "id_str": "104667089",
+        "indices": [
+          38,
+          51
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

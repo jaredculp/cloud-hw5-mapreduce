@@ -1,0 +1,116 @@
+{
+  "created_at": "Fri Jun 22 19:20:54 +0000 2012",
+  "id": 216249422873497600,
+  "id_str": "216249422873497600",
+  "text": "@UVA Check out @HolacracyOne - it's a 21st century governance system that works far better than strategic planning. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216221645092814848,
+  "in_reply_to_status_id_str": "216221645092814848",
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 25549480,
+    "id_str": "25549480",
+    "name": "Julie Gabrielli",
+    "screen_name": "juliegabrielli",
+    "location": "Baltimore, Maryland, USA",
+    "description": "Architect, writer, creator, humbled and awed by the beauty, diversity,and paradox of the natural world. Inspired by the earth’s design brilliance.",
+    "url": "http://t.co/iLGhlAA8",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/iLGhlAA8",
+            "expanded_url": "http://www.gabriellidesign.com",
+            "display_url": "gabriellidesign.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1379,
+    "friends_count": 1463,
+    "listed_count": 63,
+    "created_at": "Fri Mar 20 18:27:34 +0000 2009",
+    "favourites_count": 77,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1138,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FAF7F7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/161919394/x037ce29357c09217abe8587f0ba1331.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/161919394/x037ce29357c09217abe8587f0ba1331.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/485907106/twitterProfilePhoto_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/485907106/twitterProfilePhoto_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/25549480/1358993613",
+    "profile_link_color": "9BBD3D",
+    "profile_sidebar_border_color": "63131D",
+    "profile_sidebar_fill_color": "F7FAF7",
+    "profile_text_color": "151266",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          116,
+          120
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "screen_name": "HolacracyOne",
+        "name": "H1 Reserved",
+        "id": 478138654,
+        "id_str": "478138654",
+        "indices": [
+          15,
+          28
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

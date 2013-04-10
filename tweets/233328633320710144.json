@@ -1,0 +1,107 @@
+{
+  "created_at": "Wed Aug 08 22:27:35 +0000 2012",
+  "id": 233328633320710144,
+  "id_str": "233328633320710144",
+  "text": "Strine 1st period is for cool kids only @Gabbyflagler @Hunterfusco @ethanwoodard7 @loganlindy and rawg",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 380002046,
+    "id_str": "380002046",
+    "name": "Nick Gularte",
+    "screen_name": "nickgularte1",
+    "location": "Johns Creek ",
+    "description": "You're already stalking me.. So just follow me ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 461,
+    "friends_count": 279,
+    "listed_count": 0,
+    "created_at": "Sun Sep 25 22:33:02 +0000 2011",
+    "favourites_count": 1816,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6053,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3016064746/f35d20e230f60463aae435715c8a7e81_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3016064746/f35d20e230f60463aae435715c8a7e81_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/380002046/1357148246",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Hunterfusco",
+        "name": "Hunter Fusco",
+        "id": 413294434,
+        "id_str": "413294434",
+        "indices": [
+          54,
+          66
+        ]
+      },
+      {
+        "screen_name": "ethanwoodard7",
+        "name": "ethanwoodard",
+        "id": 381138123,
+        "id_str": "381138123",
+        "indices": [
+          67,
+          81
+        ]
+      },
+      {
+        "screen_name": "loganlindy",
+        "name": "logan lindy",
+        "id": 55706956,
+        "id_str": "55706956",
+        "indices": [
+          82,
+          93
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

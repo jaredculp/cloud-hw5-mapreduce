@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 21:46:39 +0000 2012",
+  "id": 215198938649735169,
+  "id_str": "215198938649735169",
+  "text": "@NBC29 #Sullivan contract non-disclosure unenforceable since #Dragas discussed Sullivan w/ non-BOV members &amp; her sister who wrote op-ed?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215195831492558849,
+  "in_reply_to_status_id_str": "215195831492558849",
+  "in_reply_to_user_id": 15009049,
+  "in_reply_to_user_id_str": "15009049",
+  "in_reply_to_screen_name": "NBC29",
+  "user": {
+    "id": 612949512,
+    "id_str": "612949512",
+    "name": "Melissa Smith",
+    "screen_name": "missyvabeach",
+    "location": "",
+    "description": "San Diego is the most amazing place on earth!   \r\n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5,
+    "friends_count": 22,
+    "listed_count": 0,
+    "created_at": "Tue Jun 19 21:19:15 +0000 2012",
+    "favourites_count": 139,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 102,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2331411088/wcumhvnziltcjnzg0735_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2331411088/wcumhvnziltcjnzg0735_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          7,
+          16
+        ]
+      },
+      {
+        "text": "Dragas",
+        "indices": [
+          61,
+          68
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          0,
+          6
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

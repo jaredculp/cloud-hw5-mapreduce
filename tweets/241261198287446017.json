@@ -1,0 +1,83 @@
+{
+  "created_at": "Thu Aug 30 19:48:46 +0000 2012",
+  "id": 241261198287446017,
+  "id_str": "241261198287446017",
+  "text": "Ima be at #UVA for the weekend",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 619143248,
+    "id_str": "619143248",
+    "name": "Gary Boone",
+    "screen_name": "GCBII",
+    "location": "",
+    "description": "friendly, caring and loving.  I play ball and am in college. I enjoy life with friends and family.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 119,
+    "friends_count": 188,
+    "listed_count": 0,
+    "created_at": "Tue Jun 26 14:52:38 +0000 2012",
+    "favourites_count": 143,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1352,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/589051310/6g6ap3170sl3zwt5fxy7.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/589051310/6g6ap3170sl3zwt5fxy7.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2343065817/ikcxk88shrtan88e1gju_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2343065817/ikcxk88shrtan88e1gju_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          10,
+          14
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

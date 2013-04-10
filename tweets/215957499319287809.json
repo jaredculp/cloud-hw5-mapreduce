@@ -1,0 +1,99 @@
+{
+  "created_at": "Fri Jun 22 00:00:54 +0000 2012",
+  "id": 215957499319287809,
+  "id_str": "215957499319287809",
+  "text": "Leadership coup @ #UVA by a governing board w/ profound financial means &amp; limited prof. educational experience. Et tu #Purdue? @MitchDaniels",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 207589835,
+    "id_str": "207589835",
+    "name": "cheerio grrrl",
+    "screen_name": "cheeriogrrrl",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3011,
+    "friends_count": 2182,
+    "listed_count": 144,
+    "created_at": "Mon Oct 25 16:38:40 +0000 2010",
+    "favourites_count": 589,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 30911,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1160670025/Greg_s_Phone_Pictures_1072_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1160670025/Greg_s_Phone_Pictures_1072_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          18,
+          22
+        ]
+      },
+      {
+        "text": "Purdue",
+        "indices": [
+          122,
+          129
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MitchDaniels",
+        "name": "MitchDaniels",
+        "id": 18905747,
+        "id_str": "18905747",
+        "indices": [
+          131,
+          144
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,103 @@
+{
+  "created_at": "Tue Jun 26 19:29:04 +0000 2012",
+  "id": 217701028517265408,
+  "id_str": "217701028517265408",
+  "text": "Sullivan at #UVA getting sworn back in with Mambo No. 5 playing #Lousday",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 117193693,
+    "id_str": "117193693",
+    "name": "Robert Iver",
+    "screen_name": "killakow",
+    "location": "London, UK",
+    "description": "A man. A plan. A canal. Perpetually taking the Piccadilly line to Cockfosters. Major player in the cowboy scene.",
+    "url": "http://www.onwardstate.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.onwardstate.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 563,
+    "friends_count": 636,
+    "listed_count": 24,
+    "created_at": "Wed Feb 24 21:00:46 +0000 2010",
+    "favourites_count": 671,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 15528,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/323214992/Flying-Lotus-Cosmogramma.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/323214992/Flying-Lotus-Cosmogramma.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2428898365/t3ctlmp82ux4wb1gz4yn_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2428898365/t3ctlmp82ux4wb1gz4yn_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/117193693/1355572413",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          12,
+          16
+        ]
+      },
+      {
+        "text": "Lousday",
+        "indices": [
+          64,
+          72
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

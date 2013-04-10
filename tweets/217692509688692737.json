@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Jun 26 18:55:13 +0000 2012",
+  "id": 217692509688692737,
+  "id_str": "217692509688692737",
+  "text": "@wpjenna is live-blogging the #UVA meeting regarding Teresa Sullivan - check it out here: http://t.co/nuV66qnG",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 15893354,
+  "in_reply_to_user_id_str": "15893354",
+  "in_reply_to_screen_name": "wpjenna",
+  "user": {
+    "id": 18640208,
+    "id_str": "18640208",
+    "name": "RateMyProfessors",
+    "screen_name": "ratemyprofessor",
+    "location": "",
+    "description": "More than 15 million student-generated comments & ratings of over 1.7 million professors at over 8,000 schools. RMP is now on your iPhone too!",
+    "url": "http://www.ratemyprofessors.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.ratemyprofessors.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2988,
+    "friends_count": 1225,
+    "listed_count": 108,
+    "created_at": "Mon Jan 05 18:39:45 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2648,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/645860356/1w5fz2mdk1jq38eck880.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/645860356/1w5fz2mdk1jq38eck880.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1604611036/rate-my-professors_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1604611036/rate-my-professors_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18640208/1355522103",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/nuV66qnG",
+        "expanded_url": "http://ow.ly/bQe4N",
+        "display_url": "ow.ly/bQe4N",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

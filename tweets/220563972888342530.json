@@ -1,0 +1,139 @@
+{
+  "created_at": "Wed Jul 04 17:05:23 +0000 2012",
+  "id": 220563972888342530,
+  "id_str": "220563972888342530",
+  "text": "Big #NHL news today! #Sullivan signs a one year deal with #Coyotes. Oh yea, and that #Parise / #Suter with #Minnesota thing too...",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 91872228,
+    "id_str": "91872228",
+    "name": "Steve Boudreau",
+    "screen_name": "SBoudreau",
+    "location": "Montreal",
+    "description": "I sports journalize and play around with video professionally.\r\nTop blogueur RDS http://t.co/6erQIReV also: tv, movies and the 'occasional' scotch.",
+    "url": "http://steveboudreau.ca",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://steveboudreau.ca",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/6erQIReV",
+            "expanded_url": "http://shrvl.com/7q940",
+            "display_url": "shrvl.com/7q940",
+            "indices": [
+              81,
+              101
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 129,
+    "friends_count": 407,
+    "listed_count": 9,
+    "created_at": "Sun Nov 22 21:29:32 +0000 2009",
+    "favourites_count": 58,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 906,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/335134970/Los-Angeles-Kings.br.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/335134970/Los-Angeles-Kings.br.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2154079550/mg_700_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2154079550/mg_700_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/91872228/1359261874",
+    "profile_link_color": "1F31A8",
+    "profile_sidebar_border_color": "23318A",
+    "profile_sidebar_fill_color": "8E8D92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "NHL",
+        "indices": [
+          4,
+          8
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          21,
+          30
+        ]
+      },
+      {
+        "text": "Coyotes",
+        "indices": [
+          58,
+          66
+        ]
+      },
+      {
+        "text": "Parise",
+        "indices": [
+          85,
+          92
+        ]
+      },
+      {
+        "text": "Suter",
+        "indices": [
+          95,
+          101
+        ]
+      },
+      {
+        "text": "Minnesota",
+        "indices": [
+          107,
+          117
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

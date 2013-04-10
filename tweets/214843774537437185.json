@@ -1,0 +1,93 @@
+{
+  "created_at": "Mon Jun 18 22:15:22 +0000 2012",
+  "id": 214843774537437185,
+  "id_str": "214843774537437185",
+  "text": "@UVA Was around for the #Sullivan address and the following speeches. Around for history in the happening.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 260650703,
+    "id_str": "260650703",
+    "name": "Javier Raudales",
+    "screen_name": "ThetrueJavi",
+    "location": "illville",
+    "description": "Movin Like Berney, potvaliant, #UVa",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 85,
+    "friends_count": 165,
+    "listed_count": 0,
+    "created_at": "Fri Mar 04 09:08:10 +0000 2011",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2148,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/256603776/o142671.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/256603776/o142671.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2048500428/424057_10151386242830246_647050245_23211999_257658588_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2048500428/424057_10151386242830246_647050245_23211999_257658588_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/260650703/1353561172",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          24,
+          33
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

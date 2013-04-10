@@ -1,0 +1,119 @@
+{
+  "created_at": "Thu Jun 21 08:42:52 +0000 2012",
+  "id": 215726468838326272,
+  "id_str": "215726468838326272",
+  "text": "RT @wilbanks \"Existential threats don’t scare us. We’re librarians.\" - corker of a keynote on #UVA mess by @nowviskie. http://t.co/dRHPsbvX",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 437591452,
+    "id_str": "437591452",
+    "name": "Iryna Kuchma",
+    "screen_name": "irynakuchma",
+    "location": "",
+    "description": "EIFL Open Access Programme Manager\r\nhttp://t.co/Hwkae73W",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/Hwkae73W",
+            "expanded_url": "http://www.eifl.net/openaccess",
+            "display_url": "eifl.net/openaccess",
+            "indices": [
+              36,
+              56
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 678,
+    "friends_count": 1305,
+    "listed_count": 34,
+    "created_at": "Thu Dec 15 16:05:16 +0000 2011",
+    "favourites_count": 108,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1147,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1694872224/irynak_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1694872224/irynak_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          94,
+          98
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dRHPsbvX",
+        "expanded_url": "http://bit.ly/KA7Jz8",
+        "display_url": "bit.ly/KA7Jz8",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wilbanks",
+        "name": "John Wilbanks",
+        "id": 14245811,
+        "id_str": "14245811",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "nowviskie",
+        "name": "Bethany Nowviskie",
+        "id": 14221013,
+        "id_str": "14221013",
+        "indices": [
+          107,
+          117
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

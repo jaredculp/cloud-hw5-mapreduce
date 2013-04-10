@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 20:05:17 +0000 2012",
+  "id": 217710143570321409,
+  "id_str": "217710143570321409",
+  "text": "#UVA Score! Thoughtful university management- 1, feckless corporate thugs in academia- 0, http://t.co/Ur3kL45U",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 49331131,
+    "id_str": "49331131",
+    "name": "Patrick J. Lynch",
+    "screen_name": "patrlynch",
+    "location": "New Haven, Connecticut, USA",
+    "description": "Author, artist, designer, photographer. \r\nDataviz, communications, and the coastal New England environment, from Yale University. #yale #nhv #dataviz",
+    "url": "http://patricklynch.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://patricklynch.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 568,
+    "friends_count": 420,
+    "listed_count": 40,
+    "created_at": "Sun Jun 21 14:48:46 +0000 2009",
+    "favourites_count": 6,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2142,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D7D7D9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/448229178/lynch-twitter-bg.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/448229178/lynch-twitter-bg.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1180436765/lynch-avatar_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1180436765/lynch-avatar_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/49331131/1349098352",
+    "profile_link_color": "613B0D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "B9BABE",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Ur3kL45U",
+        "expanded_url": "http://nyti.ms/LzT4FA",
+        "display_url": "nyti.ms/LzT4FA",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

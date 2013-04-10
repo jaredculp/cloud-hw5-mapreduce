@@ -1,0 +1,128 @@
+{
+  "created_at": "Thu Jun 21 03:26:44 +0000 2012",
+  "id": 215646909270999042,
+  "id_str": "215646909270999042",
+  "text": "Posted on G+: Emails suggest that #UVa #BoV may have been motivated by @DavidBrooksNYT and #MOOCs.  http://t.co/ZyuWDnJk",
+  "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 769099,
+    "id_str": "769099",
+    "name": "Christopher Long",
+    "screen_name": "cplong",
+    "location": "State College, PA",
+    "description": "Husband, Father of two daughters, Professor of Philosophy and Classics at Penn State and Associate Dean of Undergraduate Studies.",
+    "url": "http://www.personal.psu.edu/cpl2/blogs/TheLongRoad/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.personal.psu.edu/cpl2/blogs/TheLongRoad/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              51
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1130,
+    "friends_count": 965,
+    "listed_count": 97,
+    "created_at": "Tue Feb 13 04:32:02 +0000 2007",
+    "favourites_count": 314,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6595,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3114967783/9105e81d5c2b908164e27583ce7ff37c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3114967783/9105e81d5c2b908164e27583ce7ff37c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/769099/1348624398",
+    "profile_link_color": "005799",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          34,
+          38
+        ]
+      },
+      {
+        "text": "BoV",
+        "indices": [
+          39,
+          43
+        ]
+      },
+      {
+        "text": "MOOCs",
+        "indices": [
+          91,
+          97
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ZyuWDnJk",
+        "expanded_url": "http://bit.ly/MiDoCc",
+        "display_url": "bit.ly/MiDoCc",
+        "indices": [
+          100,
+          120
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DavidBrooksNYT",
+        "name": "David Brooks",
+        "id": 342672909,
+        "id_str": "342672909",
+        "indices": [
+          71,
+          86
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

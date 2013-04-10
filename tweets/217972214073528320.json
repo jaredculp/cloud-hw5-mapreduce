@@ -1,0 +1,135 @@
+{
+  "created_at": "Wed Jun 27 13:26:40 +0000 2012",
+  "id": 217972214073528320,
+  "id_str": "217972214073528320",
+  "text": "[@nprnews] #UVa Fires, Rehires, President // #Trustees unclear of their own roles, unable to provide #leadership #in http://t.co/T9Tkw7fu",
+  "source": "<a href=\"http://itunes.apple.com/us/app/npr-news/id324906251?mt=8&uo=4\" rel=\"nofollow\">NPR News on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16320796,
+    "id_str": "16320796",
+    "name": "Thomas Gary",
+    "screen_name": "thomasgary",
+    "location": "Chicago, USA",
+    "description": "Father, Vet, Sitting on both ends of the Human Centipede known as Higher Ed",
+    "url": "http://www.thomasgary.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.thomasgary.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 265,
+    "friends_count": 500,
+    "listed_count": 10,
+    "created_at": "Wed Sep 17 00:45:14 +0000 2008",
+    "favourites_count": 23,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5308,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "080F29",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/71506428/Blue_TG_on_Ice.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/71506428/Blue_TG_on_Ice.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1840800992/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1840800992/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/16320796/1353772855",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          11,
+          15
+        ]
+      },
+      {
+        "text": "Trustees",
+        "indices": [
+          45,
+          54
+        ]
+      },
+      {
+        "text": "leadership",
+        "indices": [
+          101,
+          112
+        ]
+      },
+      {
+        "text": "in",
+        "indices": [
+          113,
+          116
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/T9Tkw7fu",
+        "expanded_url": "http://n.pr/Le4LgP",
+        "display_url": "n.pr/Le4LgP",
+        "indices": [
+          117,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nprnews",
+        "name": "NPR News",
+        "id": 5392522,
+        "id_str": "5392522",
+        "indices": [
+          1,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,123 @@
+{
+  "created_at": "Mon Jul 02 20:02:45 +0000 2012",
+  "id": 219883831476502531,
+  "id_str": "219883831476502531",
+  "text": "RT @UVA: Thanks to @UVaDeanJ, a Virginia weather report. (Just when you thought it couldn't get any worse.) http://t.co/leM3fpNr #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 417993131,
+    "id_str": "417993131",
+    "name": "UVA FSL",
+    "screen_name": "UVAGreekLife",
+    "location": "Mr. Jefferson's Grounds",
+    "description": "University of Virginia Office of Fraternity & Sorority Life serving IFC, ISC, MGC, & NPHC Organizations. Exceptional Leadership. #GreatToBeGreek #UVAGreeks ",
+    "url": "http://www.virginia.edu/fsl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.virginia.edu/fsl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 306,
+    "friends_count": 151,
+    "listed_count": 9,
+    "created_at": "Mon Nov 21 16:25:13 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 439,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/367863919/Rotunda.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/367863919/Rotunda.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1650484220/uvafsllogo_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1650484220/uvafsllogo_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          129,
+          133
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/leM3fpNr",
+        "expanded_url": "http://youtu.be/t1fUmFVmOjw",
+        "display_url": "youtu.be/t1fUmFVmOjw",
+        "indices": [
+          108,
+          128
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          3,
+          7
+        ]
+      },
+      {
+        "screen_name": "UVaDeanJ",
+        "name": "DeanJ @ UVaAdmission",
+        "id": 18243294,
+        "id_str": "18243294",
+        "indices": [
+          19,
+          28
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

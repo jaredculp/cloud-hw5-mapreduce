@@ -1,0 +1,84 @@
+{
+  "created_at": "Fri Jun 29 03:09:30 +0000 2012",
+  "id": 218541676216594433,
+  "id_str": "218541676216594433",
+  "text": "Mike Scott! #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 390916643,
+    "id_str": "390916643",
+    "name": "Gustavo Pena",
+    "screen_name": "PG_Gustavo21",
+    "location": "",
+    "description": "#BallIsLife\r\n#Eagles\r\n#Knicks\r\n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 430,
+    "friends_count": 445,
+    "listed_count": 0,
+    "created_at": "Fri Oct 14 19:10:50 +0000 2011",
+    "favourites_count": 440,
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8575,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3067828783/7d6b5ba0d7b06a9edb773c57d642b58d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3067828783/7d6b5ba0d7b06a9edb773c57d642b58d_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/390916643/1357459107",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          12,
+          16
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

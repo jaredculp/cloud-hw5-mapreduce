@@ -1,0 +1,229 @@
+{
+  "created_at": "Tue Jun 19 04:03:35 +0000 2012",
+  "id": 214931409792548864,
+  "id_str": "214931409792548864",
+  "text": "RT @elisabethseng: Hey #BOV - it's only 9pm here on the West Coast, and we're watching. Can't wait us out too. #sullivan #UVA #nbc29",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 288785542,
+    "id_str": "288785542",
+    "name": "Matt Talhelm",
+    "screen_name": "MattTalhelm",
+    "location": "Charlottesville, VA",
+    "description": "Anchor/Reporter at NBC29",
+    "url": "http://www.nbc29.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nbc29.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 343,
+    "friends_count": 328,
+    "listed_count": 16,
+    "created_at": "Wed Apr 27 13:32:26 +0000 2011",
+    "favourites_count": 47,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1772,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3199260484/5cc55c423d60e8375d0610a0d697d55e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3199260484/5cc55c423d60e8375d0610a0d697d55e_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 19 03:56:38 +0000 2012",
+    "id": 214929659522056193,
+    "id_str": "214929659522056193",
+    "text": "Hey #BOV - it's only 9pm here on the West Coast, and we're watching. Can't wait us out too. #sullivan #UVA #nbc29",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 18584272,
+      "id_str": "18584272",
+      "name": "elisabethseng",
+      "screen_name": "elisabethseng",
+      "location": "Oakland, CA",
+      "description": "Writer. Loves food, tech, sunshine, nerdiness, and can't shut up. ",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 430,
+      "friends_count": 509,
+      "listed_count": 18,
+      "created_at": "Sat Jan 03 18:50:54 +0000 2009",
+      "favourites_count": 289,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFF04D",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1772271161/me_twitter_2_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1772271161/me_twitter_2_normal.jpg",
+      "profile_link_color": "0099CC",
+      "profile_sidebar_border_color": "FFF8AD",
+      "profile_sidebar_fill_color": "F6FFD1",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 5,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BOV",
+          "indices": [
+            4,
+            8
+          ]
+        },
+        {
+          "text": "sullivan",
+          "indices": [
+            92,
+            101
+          ]
+        },
+        {
+          "text": "UVA",
+          "indices": [
+            102,
+            106
+          ]
+        },
+        {
+          "text": "nbc29",
+          "indices": [
+            107,
+            113
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 5,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          23,
+          27
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          111,
+          120
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          121,
+          125
+        ]
+      },
+      {
+        "text": "nbc29",
+        "indices": [
+          126,
+          132
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "elisabethseng",
+        "name": "elisabethseng",
+        "id": 18584272,
+        "id_str": "18584272",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,93 @@
+{
+  "created_at": "Fri Jun 29 13:11:45 +0000 2012",
+  "id": 218693236305305601,
+  "id_str": "218693236305305601",
+  "text": "@qui_oui  Excellent article on situation at #UVa",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 218682753942700032,
+  "in_reply_to_status_id_str": "218682753942700032",
+  "in_reply_to_user_id": 15053275,
+  "in_reply_to_user_id_str": "15053275",
+  "in_reply_to_screen_name": "qui_oui",
+  "user": {
+    "id": 254371948,
+    "id_str": "254371948",
+    "name": "Tamara Kelly",
+    "screen_name": "TLJKelly",
+    "location": "Toronto, ON, Canada",
+    "description": "Biology lecturer (York University) & geology nerd interested in science and higher education. Former CWSEI-ite, I try to Wiemanize all things educational.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 223,
+    "friends_count": 503,
+    "listed_count": 21,
+    "created_at": "Sat Feb 19 04:21:57 +0000 2011",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1123,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/703858038/a3b3fbefb6c6ef0535eca58b646d6669.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/703858038/a3b3fbefb6c6ef0535eca58b646d6669.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2882743986/b2ba33e3a19c13b902ee69abd6ac3924_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2882743986/b2ba33e3a19c13b902ee69abd6ac3924_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/254371948/1353450391",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "D7F0A6",
+    "profile_text_color": "2B3009",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          44,
+          48
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "qui_oui",
+        "name": "Melonie Fullick",
+        "id": 15053275,
+        "id_str": "15053275",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

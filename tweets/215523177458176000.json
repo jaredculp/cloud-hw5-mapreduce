@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jun 20 19:15:04 +0000 2012",
+  "id": 215523177458176000,
+  "id_str": "215523177458176000",
+  "text": "@jgeezy27 RT @johnmwhittle: Spoke to 2014 SS Jack Gerstenmaier earlier - he committed to #UVA today. Second big ... http://t.co/PrqRS1so",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 231590165,
+  "in_reply_to_user_id_str": "231590165",
+  "in_reply_to_screen_name": "jgeezy27",
+  "user": {
+    "id": 58336100,
+    "id_str": "58336100",
+    "name": "Trey",
+    "screen_name": "TreyinVA",
+    "location": "RVA",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 384,
+    "friends_count": 480,
+    "listed_count": 2,
+    "created_at": "Mon Jul 20 00:26:48 +0000 2009",
+    "favourites_count": 180,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5147,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/34298039/basketball_hoop.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/34298039/basketball_hoop.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2933688951/df65711b28e2ad9ae0f0796490283689_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2933688951/df65711b28e2ad9ae0f0796490283689_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/58336100/1354133601",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          89,
+          93
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/PrqRS1so",
+        "expanded_url": "http://tmi.me/s1fAm",
+        "display_url": "tmi.me/s1fAm",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jgeezy27",
+        "name": "Jack Gerstenmaier",
+        "id": 231590165,
+        "id_str": "231590165",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "johnmwhittle",
+        "name": "John Whittle",
+        "id": 73194543,
+        "id_str": "73194543",
+        "indices": [
+          13,
+          26
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,107 @@
+{
+  "created_at": "Fri Jun 22 17:22:28 +0000 2012",
+  "id": 216219615032913920,
+  "id_str": "216219615032913920",
+  "text": "Haven't been here since they renovated. It looks awesome! Ready for @larrysabato panel on 2012 ... http://t.co/Rp6xTzlt",
+  "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15689503,
+    "id_str": "15689503",
+    "name": "Christina Bellantoni",
+    "screen_name": "cbellantoni",
+    "location": "Washington D.C.",
+    "description": "Politics Editor for @newshour who loves engaging on the Twitter. 49er fan, @rollcall & @tpm alum. I'm more than my job but lucky I love what I do.",
+    "url": "http://www.pbs.org/newshour/topic/politics/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.pbs.org/newshour/topic/politics/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              43
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 27566,
+    "friends_count": 2094,
+    "listed_count": 1535,
+    "created_at": "Fri Aug 01 14:24:55 +0000 2008",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11386,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1434668461/bellantoni001_101810_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1434668461/bellantoni001_101810_normal.jpg",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Rp6xTzlt",
+        "expanded_url": "http://lockerz.com/s/219159309",
+        "display_url": "lockerz.com/s/219159309",
+        "indices": [
+          99,
+          119
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          68,
+          80
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

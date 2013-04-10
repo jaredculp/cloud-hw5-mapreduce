@@ -1,0 +1,128 @@
+{
+  "created_at": "Tue Jun 19 17:11:51 +0000 2012",
+  "id": 215129782051028993,
+  "id_str": "215129782051028993",
+  "text": "Exclusive VIDEO interview with Siva Vaidhyanathan @sivavaid on #BOV actions, #Sullivan and the future of #UVA http://t.co/b1gjPFNi",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 204324915,
+    "id_str": "204324915",
+    "name": "WUVA Online",
+    "screen_name": "WUVAonline",
+    "location": "Charlottesville, VA",
+    "description": "A Multimedia news site for the #UVa community. Completely student run site, the newest branch of WUVA Media. Check us out NOW!",
+    "url": "http://www.wuvaonline.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wuvaonline.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 501,
+    "friends_count": 651,
+    "listed_count": 21,
+    "created_at": "Mon Oct 18 13:07:49 +0000 2010",
+    "favourites_count": 24,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1788,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FD9B32",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/166134002/x17935018a13d0f0e054f8cf06d1345c.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/166134002/x17935018a13d0f0e054f8cf06d1345c.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2913417399/8068660e3a21ee6907b2944b883ecd76_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2913417399/8068660e3a21ee6907b2944b883ecd76_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/204324915/1354250695",
+    "profile_link_color": "C79049",
+    "profile_sidebar_border_color": "543823",
+    "profile_sidebar_fill_color": "031A61",
+    "profile_text_color": "F77A0D",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          63,
+          67
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          77,
+          86
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          105,
+          109
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/b1gjPFNi",
+        "expanded_url": "http://wuvaonline.com/video-siva-vaidhyanathan-interview-regarding-bovs-actions/",
+        "display_url": "wuvaonline.com/video-siva-vai…",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          50,
+          59
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,101 @@
+{
+  "created_at": "Fri Jun 22 15:49:27 +0000 2012",
+  "id": 216196207515668480,
+  "id_str": "216196207515668480",
+  "text": "Dragas statement written by... not Dragas?  http://t.co/rGTd6LTQ @UVa #Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 539272764,
+    "id_str": "539272764",
+    "name": "Jay Doodah",
+    "screen_name": "jaydoodah",
+    "location": "",
+    "description": "Knowing what I do now, I could have been a pioneer a decade ago.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 14,
+    "friends_count": 36,
+    "listed_count": 0,
+    "created_at": "Wed Mar 28 16:37:36 +0000 2012",
+    "favourites_count": 5,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 422,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3083375387/d63e154bed2340ad6093210313d322e9_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3083375387/d63e154bed2340ad6093210313d322e9_normal.png",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          70,
+          79
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/rGTd6LTQ",
+        "expanded_url": "http://i.imgur.com/6b7EE.png",
+        "display_url": "i.imgur.com/6b7EE.png",
+        "indices": [
+          44,
+          64
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          65,
+          69
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

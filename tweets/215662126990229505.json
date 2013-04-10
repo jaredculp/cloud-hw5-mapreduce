@@ -1,0 +1,93 @@
+{
+  "created_at": "Thu Jun 21 04:27:12 +0000 2012",
+  "id": 215662126990229505,
+  "id_str": "215662126990229505",
+  "text": "to the #UVA class of 2016 http://t.co/iLhmD4zK",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 119574534,
+    "id_str": "119574534",
+    "name": "Kerrie Anne",
+    "screen_name": "bacibaci12",
+    "location": "",
+    "description": "Today's the first day of the rest of my life, and I'm alive and well.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 188,
+    "friends_count": 330,
+    "listed_count": 5,
+    "created_at": "Thu Mar 04 01:47:59 +0000 2010",
+    "favourites_count": 149,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3780,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "171517",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/441545276/tobacco_caye_sunrise.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/441545276/tobacco_caye_sunrise.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3080147491/076aa56dd370ccd2c4100eca63d534b3_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3080147491/076aa56dd370ccd2c4100eca63d534b3_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/119574534/1355589136",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          7,
+          11
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/iLhmD4zK",
+        "expanded_url": "http://www.thediagnonsense.com/",
+        "display_url": "thediagnonsense.com",
+        "indices": [
+          26,
+          46
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

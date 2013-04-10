@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 26 19:33:05 +0000 2012",
+  "id": 217702037331259393,
+  "id_str": "217702037331259393",
+  "text": "Watch the message from Sullivan on the Lawn http://t.co/mzWYTZaH #uva #sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 72220010,
+    "id_str": "72220010",
+    "name": "Stevie Chancellor",
+    "screen_name": "snchancellor",
+    "location": "Northern VA",
+    "description": "Doing MA @ @GeorgetownCCT. Missing @UVa already. Interested in intellectual property, privacy online. Front end developer on the side",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 103,
+    "friends_count": 295,
+    "listed_count": 0,
+    "created_at": "Mon Sep 07 06:09:01 +0000 2009",
+    "favourites_count": 9,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 684,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4D4D4D",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/402527344/me_cropped_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/402527344/me_cropped_normal.jpg",
+    "profile_link_color": "341FD1",
+    "profile_sidebar_border_color": "67A0A3",
+    "profile_sidebar_fill_color": "9BDDE0",
+    "profile_text_color": "424242",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          65,
+          69
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          70,
+          79
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/mzWYTZaH",
+        "expanded_url": "http://www.streakingthelawn.com/pages/uva-board-of-visitors-live-streams-regarding-the-reinstatement-of",
+        "display_url": "streakingthelawn.com/pages/uva-boar…",
+        "indices": [
+          44,
+          64
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

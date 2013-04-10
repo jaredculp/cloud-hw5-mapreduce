@@ -1,0 +1,120 @@
+{
+  "created_at": "Fri Jun 22 23:07:14 +0000 2012",
+  "id": 216306379189784576,
+  "id_str": "216306379189784576",
+  "text": "#UVA creates a digital archive of the BOV Protest--tweets, signs, blogs http://t.co/Q07Z09CX @chronicle / #UVa models digital scholarship",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19243544,
+    "id_str": "19243544",
+    "name": "Wendy Hsu",
+    "screen_name": "wendyfhsu",
+    "location": "Los Angeles / Taipei",
+    "description": "Music Ethnographer; Digital Humanist; Musician @dzianband",
+    "url": "http://beingwendyhsu.info",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://beingwendyhsu.info",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1049,
+    "friends_count": 461,
+    "listed_count": 71,
+    "created_at": "Tue Jan 20 16:30:57 +0000 2009",
+    "favourites_count": 185,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5851,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B50412",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/65186588/Mao_streetart_taipei.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/65186588/Mao_streetart_taipei.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1290347805/WH_TheBridgeDrawing_sm_cl_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1290347805/WH_TheBridgeDrawing_sm_cl_normal.jpg",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          106,
+          110
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Q07Z09CX",
+        "expanded_url": "http://chroni.cl/O64npY",
+        "display_url": "chroni.cl/O64npY",
+        "indices": [
+          72,
+          92
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          93,
+          103
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

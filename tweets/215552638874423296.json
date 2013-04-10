@@ -1,0 +1,103 @@
+{
+  "created_at": "Wed Jun 20 21:12:08 +0000 2012",
+  "id": 215552638874423296,
+  "id_str": "215552638874423296",
+  "text": "@GovernorVA @BobMcDonnell: Call for an investigation of the #UVa BoV &amp; the resignation of Rector Dragas",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 104198706,
+  "in_reply_to_user_id_str": "104198706",
+  "in_reply_to_screen_name": "GovernorVA",
+  "user": {
+    "id": 117554462,
+    "id_str": "117554462",
+    "name": "Meredith",
+    "screen_name": "MeredithS757",
+    "location": "Charlottesville, VA",
+    "description": "757 native, UVA alum, CVL resident",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 92,
+    "friends_count": 295,
+    "listed_count": 2,
+    "created_at": "Thu Feb 25 22:34:16 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 180,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/730384284/Meredith_4_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/730384284/Meredith_4_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/117554462/1355343291",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          60,
+          64
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GovernorVA",
+        "name": "Bob McDonnell",
+        "id": 104198706,
+        "id_str": "104198706",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          12,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

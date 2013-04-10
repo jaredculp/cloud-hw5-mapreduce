@@ -1,0 +1,98 @@
+{
+  "created_at": "Wed Jun 20 14:31:38 +0000 2012",
+  "id": 215451849237594112,
+  "id_str": "215451849237594112",
+  "text": "Where is the Twitter mute button for when @LarrySabato prattles on about UVA campus politics?",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 348738070,
+    "id_str": "348738070",
+    "name": "GOPHotline",
+    "screen_name": "GOPHotline",
+    "location": "RIght of you",
+    "description": "Christian first, American second and Conservative Republican third. America is exceptional & the Constitution means what it says. Guitar of choice: Telecaster.",
+    "url": "http://www.reagan.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.reagan.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 211,
+    "friends_count": 314,
+    "listed_count": 6,
+    "created_at": "Thu Aug 04 22:42:34 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2098,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1478253604/Ronald_Reagan3_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1478253604/Ronald_Reagan3_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          42,
+          54
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,111 @@
+{
+  "created_at": "Thu Jun 21 14:25:49 +0000 2012",
+  "id": 215812772024434689,
+  "id_str": "215812772024434689",
+  "text": "also via everyone MT @dancohen: Beautiful talk by @nowviskie on the situation at #UVA, the ballast of libraries, and DH http://t.co/xhPDBSqU",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29558718,
+    "id_str": "29558718",
+    "name": "Susan Garfinkel",
+    "screen_name": "footnotesrising",
+    "location": "Washington, D.C.",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 766,
+    "friends_count": 568,
+    "listed_count": 90,
+    "created_at": "Tue Apr 07 22:04:49 +0000 2009",
+    "favourites_count": 129,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5964,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/275068451/morderneicon_sm_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/275068451/morderneicon_sm_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "1DEBE1",
+    "profile_sidebar_fill_color": "CCFDFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          81,
+          85
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xhPDBSqU",
+        "expanded_url": "http://bit.ly/L7OxDQ",
+        "display_url": "bit.ly/L7OxDQ",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dancohen",
+        "name": "Dan Cohen",
+        "id": 14181097,
+        "id_str": "14181097",
+        "indices": [
+          21,
+          30
+        ]
+      },
+      {
+        "screen_name": "nowviskie",
+        "name": "Bethany Nowviskie",
+        "id": 14221013,
+        "id_str": "14221013",
+        "indices": [
+          50,
+          60
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

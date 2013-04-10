@@ -1,0 +1,221 @@
+{
+  "created_at": "Tue Jun 26 19:30:33 +0000 2012",
+  "id": 217701401508331522,
+  "id_str": "217701401508331522",
+  "text": "RT @washingtonpost: #BREAKINGNEWS: Sullivan is unanimously reinstated as president of #UVA http://t.co/uNa01mIR",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16066590,
+    "id_str": "16066590",
+    "name": "Bruce Ansley",
+    "screen_name": "bruceansley",
+    "location": "Baltimore, Maryland",
+    "description": "Man of many appetites, sometimes overindulges",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 137,
+    "friends_count": 958,
+    "listed_count": 1,
+    "created_at": "Sun Aug 31 13:58:44 +0000 2008",
+    "favourites_count": 332,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2139,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2340676614/eq4iuoxjykjf6vwo34ez_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2340676614/eq4iuoxjykjf6vwo34ez_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/16066590/1352208625",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "65B0DA",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 26 19:29:22 +0000 2012",
+    "id": 217701103578529792,
+    "id_str": "217701103578529792",
+    "text": "#BREAKINGNEWS: Sullivan is unanimously reinstated as president of #UVA http://t.co/uNa01mIR",
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2467791,
+      "id_str": "2467791",
+      "name": "The Washington Post",
+      "screen_name": "washingtonpost",
+      "location": "Washington, D.C. ",
+      "description": "One of many ways The Washington Post gets social. Send your tips and tweets to @washingtonpost.",
+      "url": "http://www.washingtonpost.com/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.washingtonpost.com/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                30
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1417621,
+      "friends_count": 734,
+      "listed_count": 40411,
+      "created_at": "Tue Mar 27 11:19:39 +0000 2007",
+      "favourites_count": 903,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 77328,
+      "lang": "en",
+      "contributors_enabled": true,
+      "is_translator": false,
+      "profile_background_color": "333333",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/464437503/wp-capitol.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/464437503/wp-capitol.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1946293623/WPTwitterIcon-512x512_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1946293623/WPTwitterIcon-512x512_normal.png",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/2467791/1348076832",
+      "profile_link_color": "0057EC",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DBDBDB",
+      "profile_text_color": "323232",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 117,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BREAKINGNEWS",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "UVA",
+          "indices": [
+            66,
+            70
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/uNa01mIR",
+          "expanded_url": "http://wapo.st/Le1lKO",
+          "display_url": "wapo.st/Le1lKO",
+          "indices": [
+            71,
+            91
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  "retweet_count": 117,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BREAKINGNEWS",
+        "indices": [
+          20,
+          33
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          86,
+          90
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/uNa01mIR",
+        "expanded_url": "http://wapo.st/Le1lKO",
+        "display_url": "wapo.st/Le1lKO",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

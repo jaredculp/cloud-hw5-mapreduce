@@ -1,0 +1,134 @@
+{
+  "created_at": "Thu Aug 16 12:20:08 +0000 2012",
+  "id": 236074848923832322,
+  "id_str": "236074848923832322",
+  "text": "#UVa BOV ready for second day of retreat. Talk today will focus on executing long-term plan for UVa. http://t.co/ThhRPj1s",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15009049,
+    "id_str": "15009049",
+    "name": "NBC29",
+    "screen_name": "NBC29",
+    "location": "Charlottesville, Va",
+    "description": "Breaking news and top stories from the NBC29 Newsroom. Throughout the day.",
+    "url": "http://www.nbc29.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.nbc29.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 12639,
+    "friends_count": 3884,
+    "listed_count": 436,
+    "created_at": "Wed Jun 04 19:18:08 +0000 2008",
+    "favourites_count": 13,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 49384,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/38213905/Background-001P.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/38213905/Background-001P.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/56651611/TwitterNBC29Logo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/56651611/TwitterNBC29Logo_normal.jpg",
+    "profile_link_color": "122746",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "67A7E8",
+    "profile_text_color": "122746",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 236074849947242496,
+        "id_str": "236074849947242496",
+        "indices": [
+          101,
+          121
+        ],
+        "media_url": "http://pbs.twimg.com/media/A0a000OCUAAUV2Q.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A0a000OCUAAUV2Q.jpg",
+        "url": "http://t.co/ThhRPj1s",
+        "display_url": "pic.twitter.com/ThhRPj1s",
+        "expanded_url": "http://twitter.com/NBC29/status/236074848923832322/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 450,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 768,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 255,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 20 01:04:23 +0000 2012",
+  "id": 215248698832195584,
+  "id_str": "215248698832195584",
+  "text": "Dear twitterverse: is there a #UVA Storify I can refer to? Because I think I need some serious catch-up on this esp. as a @UCLA student Thx",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13358392,
+    "id_str": "13358392",
+    "name": "P.J. Emery",
+    "screen_name": "Peejster",
+    "location": "LA, CA",
+    "description": "PhD student researching automobility in early-C20 American Lit. Senior ITC @ the Center for Digital Humanities @UCLA. Also a #NASCAR fan. Tweets mine alone.",
+    "url": "http://pjemery.wordpress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://pjemery.wordpress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 391,
+    "friends_count": 467,
+    "listed_count": 7,
+    "created_at": "Mon Feb 11 19:18:48 +0000 2008",
+    "favourites_count": 116,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7532,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "AB942B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/568002746/9bhluoz424odugjfvprw.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/568002746/9bhluoz424odugjfvprw.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2832827888/f0f04134ee087234e90a7f13d5f4a998_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2832827888/f0f04134ee087234e90a7f13d5f4a998_normal.jpeg",
+    "profile_link_color": "56939E",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UCLA",
+        "name": "UCLA",
+        "id": 18918483,
+        "id_str": "18918483",
+        "indices": [
+          122,
+          127
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

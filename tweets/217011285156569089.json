@@ -1,0 +1,113 @@
+{
+  "created_at": "Sun Jun 24 21:48:16 +0000 2012",
+  "id": 217011285156569089,
+  "id_str": "217011285156569089",
+  "text": "\"@washingtonpost: The question raised by #UVA: What should premier public universities be? http://t.co/4WvAvIVH\" Excellent article",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 37652127,
+    "id_str": "37652127",
+    "name": "jay blanton",
+    "screen_name": "jayblantonuk",
+    "location": "",
+    "description": "UK PR guy; married to my better half, Carla. Owner of very large, but sweet dog, Charlie",
+    "url": "http://ukjayblanton.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ukjayblanton.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 873,
+    "friends_count": 1133,
+    "listed_count": 22,
+    "created_at": "Mon May 04 12:47:52 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 813,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/731098626/d84718b656a6ecdafa4511df2063722e.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/731098626/d84718b656a6ecdafa4511df2063722e.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2941084514/804f850ca92662539270497cb00731ef_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2941084514/804f850ca92662539270497cb00731ef_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          41,
+          45
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/4WvAvIVH",
+        "expanded_url": "http://wapo.st/L4xBQC",
+        "display_url": "wapo.st/L4xBQC",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          1,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

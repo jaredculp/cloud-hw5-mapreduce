@@ -1,0 +1,104 @@
+{
+  "created_at": "Fri Jun 22 02:42:20 +0000 2012",
+  "id": 215998125935046658,
+  "id_str": "215998125935046658",
+  "text": "My Twitter stream, currently:\n\n#UVA is a mess, and @josh_miller is the emperor of fried chicken.\n\nStay tuned for updates!",
+  "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 252682476,
+    "id_str": "252682476",
+    "name": "Matthew Reidsma",
+    "screen_name": "mreidsma",
+    "location": "Grand Rapids, MI",
+    "description": "I make websites for libraries.",
+    "url": "http://matthewreidsma.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://matthewreidsma.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 747,
+    "friends_count": 97,
+    "listed_count": 74,
+    "created_at": "Tue Feb 15 17:59:13 +0000 2011",
+    "favourites_count": 535,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4062,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1667996930/me_square_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1667996930/me_square_normal.png",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "999999",
+    "profile_sidebar_fill_color": "EEEEEE",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          31,
+          35
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "josh_miller",
+        "name": "josh_miller",
+        "id": 16289694,
+        "id_str": "16289694",
+        "indices": [
+          51,
+          63
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

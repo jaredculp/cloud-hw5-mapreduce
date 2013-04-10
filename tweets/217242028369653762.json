@@ -1,0 +1,111 @@
+{
+  "created_at": "Mon Jun 25 13:05:10 +0000 2012",
+  "id": 217242028369653762,
+  "id_str": "217242028369653762",
+  "text": "#OnThisDay in 1960, the nuclear reactor at #UVa began operation. http://t.co/3GGkZzGs",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 62826292,
+    "id_str": "62826292",
+    "name": "cvillepedia",
+    "screen_name": "cvillepedia",
+    "location": "Charlottesville, VA",
+    "description": "Charlottesville's collaborative community encyclopedia.",
+    "url": "http://www.cvillepedia.org/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cvillepedia.org/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 906,
+    "friends_count": 245,
+    "listed_count": 49,
+    "created_at": "Tue Aug 04 14:06:07 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1871,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/394687827/Twitter_Bground_cvp.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/394687827/Twitter_Bground_cvp.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1732732318/cvillepedia_twitter_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1732732318/cvillepedia_twitter_normal.png",
+    "profile_link_color": "167A9E",
+    "profile_sidebar_border_color": "030303",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "OnThisDay",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          43,
+          47
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/3GGkZzGs",
+        "expanded_url": "http://ow.ly/bhft5",
+        "display_url": "ow.ly/bhft5",
+        "indices": [
+          65,
+          85
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

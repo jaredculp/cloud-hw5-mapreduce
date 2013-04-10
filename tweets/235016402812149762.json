@@ -1,0 +1,100 @@
+{
+  "created_at": "Mon Aug 13 14:14:11 +0000 2012",
+  "id": 235016402812149762,
+  "id_str": "235016402812149762",
+  "text": "#UVA #Nike http://t.co/iOuFi3ig",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 304627624,
+    "id_str": "304627624",
+    "name": "Ryan McLean ⛳",
+    "screen_name": "Making_a_Birdie",
+    "location": "",
+    "description": "Ryan Joel McLean. I'm 20 and I don't play golf for Methodist University.... but I Will!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 372,
+    "friends_count": 357,
+    "listed_count": 2,
+    "created_at": "Tue May 24 20:52:35 +0000 2011",
+    "favourites_count": 379,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3838,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1D913C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/776344735/c7e697eb1b9ca412ee121d55462ff002.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/776344735/c7e697eb1b9ca412ee121d55462ff002.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3178092967/e63e905ed338cba288680b20bb8d1e33_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3178092967/e63e905ed338cba288680b20bb8d1e33_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/304627624/1359439168",
+    "profile_link_color": "48E620",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F5EDED",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Nike",
+        "indices": [
+          5,
+          10
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/iOuFi3ig",
+        "expanded_url": "http://twitpic.com/aiy8p6",
+        "display_url": "twitpic.com/aiy8p6",
+        "indices": [
+          11,
+          31
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

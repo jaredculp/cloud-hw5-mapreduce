@@ -1,0 +1,108 @@
+{
+  "created_at": "Sun Jun 24 13:26:29 +0000 2012",
+  "id": 216885006528815104,
+  "id_str": "216885006528815104",
+  "text": "@wyethwire @cavalierdaily David Brooks rules their world",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216523016375508992,
+  "in_reply_to_status_id_str": "216523016375508992",
+  "in_reply_to_user_id": 21613853,
+  "in_reply_to_user_id_str": "21613853",
+  "in_reply_to_screen_name": "wyethwire",
+  "user": {
+    "id": 19427945,
+    "id_str": "19427945",
+    "name": "driftglass",
+    "screen_name": "Mr_Electrico",
+    "location": "Chicagoland",
+    "description": "I don’t try to describe the future.   I try to prevent it.  You can also join me & Blue Gal at The Professional Left podcast",
+    "url": "http://driftglass.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://driftglass.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1821,
+    "friends_count": 1046,
+    "listed_count": 112,
+    "created_at": "Sat Jan 24 02:11:10 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8027,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0B7479",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/345403197/METEOR_THINKER_med2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/345403197/METEOR_THINKER_med2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3104591383/052231f4552dfebe96e227e29fa1de2b_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3104591383/052231f4552dfebe96e227e29fa1de2b_normal.jpeg",
+    "profile_link_color": "C62A39",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "64DEE8",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wyethwire",
+        "name": "Wyeth Ruthven",
+        "id": 21613853,
+        "id_str": "21613853",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          11,
+          25
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

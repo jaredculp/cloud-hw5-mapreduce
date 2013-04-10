@@ -1,0 +1,178 @@
+{
+  "created_at": "Thu Jun 28 20:39:16 +0000 2012",
+  "id": 218443469302145026,
+  "id_str": "218443469302145026",
+  "text": "Some really tough non-conference schedules: #ULM - @ #Arkansas, @ #Auburn, #Baylor. #LaTech - at #Texas A&amp;M, at #Illinois, at #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 117562143,
+    "id_str": "117562143",
+    "name": "Patrick Woo",
+    "screen_name": "P_Woo",
+    "location": "Eastern Shore, MD/Nashville",
+    "description": "@PSUComRadio Sports Director/College Football Analyst. @NFLDraftShow Producer. @PennStateWLax Manager. Worked for @BillisKing. #MakeAnImpact #WinTheDay",
+    "url": "http://www.collegefootballfocus.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.collegefootballfocus.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 715,
+    "friends_count": 317,
+    "listed_count": 18,
+    "created_at": "Thu Feb 25 23:01:06 +0000 2010",
+    "favourites_count": 737,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 30534,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FAF8F5",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/767359086/857e7fa5e86e81022906602ed72517c4.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/767359086/857e7fa5e86e81022906602ed72517c4.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3004540240/4c2593f2d21709f817176112b6b10e6f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3004540240/4c2593f2d21709f817176112b6b10e6f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/117562143/1357607324",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "67eb74af40bb4766",
+    "url": "https://api.twitter.com/1.1/geo/id/67eb74af40bb4766.json",
+    "place_type": "city",
+    "name": "Nashville",
+    "full_name": "Nashville, TN",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -87.054766,
+            35.967785
+          ],
+          [
+            -86.515588,
+            35.967785
+          ],
+          [
+            -86.515588,
+            36.405496
+          ],
+          [
+            -87.054766,
+            36.405496
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ULM",
+        "indices": [
+          44,
+          48
+        ]
+      },
+      {
+        "text": "Arkansas",
+        "indices": [
+          53,
+          62
+        ]
+      },
+      {
+        "text": "Auburn",
+        "indices": [
+          66,
+          73
+        ]
+      },
+      {
+        "text": "Baylor",
+        "indices": [
+          75,
+          82
+        ]
+      },
+      {
+        "text": "LaTech",
+        "indices": [
+          84,
+          91
+        ]
+      },
+      {
+        "text": "Texas",
+        "indices": [
+          97,
+          103
+        ]
+      },
+      {
+        "text": "Illinois",
+        "indices": [
+          116,
+          125
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          130,
+          134
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

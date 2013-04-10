@@ -1,0 +1,120 @@
+{
+  "created_at": "Wed Jun 27 02:35:28 +0000 2012",
+  "id": 217808334378635266,
+  "id_str": "217808334378635266",
+  "text": "as promised, my column on Dragas and the mess at #UVA: http://t.co/BhY4AJZU. Had to write this bc i'm a @UVa_Alumni #cognitoergosum",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 327169355,
+    "id_str": "327169355",
+    "name": "Amul",
+    "screen_name": "lumanicious",
+    "location": "Washington, DC",
+    "description": "VCU/UVA Alum. Space nerd. Photography enthusiast. Redsox/Nats/Caps/Skins/Hokies fan. Just keepin' it real",
+    "url": "http://www.cognitoergosum.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cognitoergosum.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 131,
+    "friends_count": 184,
+    "listed_count": 3,
+    "created_at": "Fri Jul 01 03:21:36 +0000 2011",
+    "favourites_count": 68,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8456,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/746639608/ba55c95f3e4934dfb7621c8feefc09c2.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/746639608/ba55c95f3e4934dfb7621c8feefc09c2.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2262026900/dc_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2262026900/dc_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          49,
+          53
+        ]
+      },
+      {
+        "text": "cognitoergosum",
+        "indices": [
+          116,
+          131
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/BhY4AJZU",
+        "expanded_url": "http://www.cognitoergosum.net/2012/06/making-sense-out-of-uvas-mess.html",
+        "display_url": "cognitoergosum.net/2012/06/making…",
+        "indices": [
+          55,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          104,
+          115
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

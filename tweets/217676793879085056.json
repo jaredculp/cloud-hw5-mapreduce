@@ -1,0 +1,125 @@
+{
+  "created_at": "Tue Jun 26 17:52:46 +0000 2012",
+  "id": 217676793879085056,
+  "id_str": "217676793879085056",
+  "text": "Allergy season? RT @chingos Looks like lots of tears are expected. MT @wpjenna Meeting rm where #UVA board meets at 3: http://t.co/Z8ZYG8tw",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 310455468,
+    "id_str": "310455468",
+    "name": "Libby Nelson",
+    "screen_name": "libbyanelson",
+    "location": "Washington, DC",
+    "description": "Reporter for @insidehighered covering federal higher ed policy & religious colleges. Francophile. Avid reader. Amateur cook. libby.nelson@insidehighered.com",
+    "url": "http://t.co/Fu317yFt",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/Fu317yFt",
+            "expanded_url": "http://www.insidehighered.com",
+            "display_url": "insidehighered.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1377,
+    "friends_count": 475,
+    "listed_count": 112,
+    "created_at": "Fri Jun 03 19:43:03 +0000 2011",
+    "favourites_count": 125,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2103,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3056374132/c10917e9c6767e0ed742b96ec6295123_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3056374132/c10917e9c6767e0ed742b96ec6295123_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/310455468/1358396695",
+    "profile_link_color": "149FB8",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          96,
+          100
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Z8ZYG8tw",
+        "expanded_url": "http://twitpic.com/a0tmy4",
+        "display_url": "twitpic.com/a0tmy4",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chingos",
+        "name": "Matt Chingos",
+        "id": 53276062,
+        "id_str": "53276062",
+        "indices": [
+          19,
+          27
+        ]
+      },
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          70,
+          78
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

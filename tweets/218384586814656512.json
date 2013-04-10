@@ -1,0 +1,120 @@
+{
+  "created_at": "Thu Jun 28 16:45:17 +0000 2012",
+  "id": 218384586814656512,
+  "id_str": "218384586814656512",
+  "text": "Watching your college implode: http://t.co/x1OD1LkY via @CvlKulow #UVA #PSU",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20961822,
+    "id_str": "20961822",
+    "name": "GlobalHigherEd",
+    "screen_name": "GlobalHigherEd",
+    "location": "Madison, WI/USA",
+    "description": "Kris Olds (co-editor of GlobalHigherEd). Interests: globalization of higher ed & research; global networks; urban studies. Profiling & RTs ≠ endorsement.",
+    "url": "http://krisolds.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://krisolds.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7354,
+    "friends_count": 2590,
+    "listed_count": 486,
+    "created_at": "Mon Feb 16 04:13:31 +0000 2009",
+    "favourites_count": 285,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7867,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/64601593/London.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/64601593/London.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3083037448/6363df97765d89a248dc5b82aac96ded_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3083037448/6363df97765d89a248dc5b82aac96ded_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          66,
+          70
+        ]
+      },
+      {
+        "text": "PSU",
+        "indices": [
+          71,
+          75
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/x1OD1LkY",
+        "expanded_url": "http://wp.me/p1yCIe-CW",
+        "display_url": "wp.me/p1yCIe-CW",
+        "indices": [
+          31,
+          51
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CvlKulow",
+        "name": "Jane B Kulow",
+        "id": 110774004,
+        "id_str": "110774004",
+        "indices": [
+          56,
+          65
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

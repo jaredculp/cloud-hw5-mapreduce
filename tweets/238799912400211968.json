@@ -1,0 +1,123 @@
+{
+  "created_at": "Fri Aug 24 00:48:30 +0000 2012",
+  "id": 238799912400211968,
+  "id_str": "238799912400211968",
+  "text": "#FutzStreet Home of the #MoNMA. #VIBP who moved from the Bonfire of Vanities #BoV into a dark comedy: the Futzing Sparkler of Inanities #FSI",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 268521607,
+    "id_str": "268521607",
+    "name": "Kingsley Jones",
+    "screen_name": "savvyyabby",
+    "location": "Sydney",
+    "description": "Investor, trader & entrepreneur. Warped by time but improved by age. #ElevatorNovel Author.\r\nMy opinions are mine, all mine.",
+    "url": "http://www.krwjones.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.krwjones.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 303,
+    "friends_count": 883,
+    "listed_count": 3,
+    "created_at": "Fri Mar 18 23:24:31 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": 36000,
+    "time_zone": "Sydney",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 727,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1735030495/yabby_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1735030495/yabby_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FutzStreet",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "text": "MoNMA",
+        "indices": [
+          24,
+          30
+        ]
+      },
+      {
+        "text": "VIBP",
+        "indices": [
+          32,
+          37
+        ]
+      },
+      {
+        "text": "BoV",
+        "indices": [
+          77,
+          81
+        ]
+      },
+      {
+        "text": "FSI",
+        "indices": [
+          136,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,111 @@
+{
+  "created_at": "Sun Aug 05 16:44:58 +0000 2012",
+  "id": 232155247055880192,
+  "id_str": "232155247055880192",
+  "text": "#Cavaliers aim to build on breakthrough 2011 season. http://t.co/jj2N06Aq #UVa",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17136814,
+    "id_str": "17136814",
+    "name": "The Daily Progress",
+    "screen_name": "DailyProgress",
+    "location": "Charlottesville, Virginia",
+    "description": "Charlottesville News, Sports & Politics.",
+    "url": "http://www.dailyprogress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.dailyprogress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6570,
+    "friends_count": 1247,
+    "listed_count": 386,
+    "created_at": "Mon Nov 03 18:55:41 +0000 2008",
+    "favourites_count": 1,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 16927,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DDE3E4",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/176867941/dp-twitter-1024x768.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/176867941/dp-twitter-1024x768.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1179478358/DP-BUTTON-P_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1179478358/DP-BUTTON-P_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "CCE6FF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Cavaliers",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          74,
+          78
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/jj2N06Aq",
+        "expanded_url": "http://bit.ly/QrQq4T",
+        "display_url": "bit.ly/QrQq4T",
+        "indices": [
+          53,
+          73
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

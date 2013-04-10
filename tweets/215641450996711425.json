@@ -1,0 +1,113 @@
+{
+  "created_at": "Thu Jun 21 03:05:03 +0000 2012",
+  "id": 215641450996711425,
+  "id_str": "215641450996711425",
+  "text": "Should Helen Dragas resign? http://t.co/mILmrDFK #UVA via @jayrosen_nyu",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 250841535,
+    "id_str": "250841535",
+    "name": "Kathleen Searles",
+    "screen_name": "kesearles",
+    "location": "South Carolina",
+    "description": "Professor of political science.  Easily excited by election returns and happy hours.  Campaigns, media, and pol psych.",
+    "url": "http://kathleensearles.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://kathleensearles.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 173,
+    "friends_count": 397,
+    "listed_count": 8,
+    "created_at": "Fri Feb 11 22:41:36 +0000 2011",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3302,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1731063212/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1731063212/image_normal.jpg",
+    "profile_link_color": "393D3D",
+    "profile_sidebar_border_color": "7A667A",
+    "profile_sidebar_fill_color": "F0C9F0",
+    "profile_text_color": "171517",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          49,
+          53
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/mILmrDFK",
+        "expanded_url": "http://bit.ly/NVreVh",
+        "display_url": "bit.ly/NVreVh",
+        "indices": [
+          28,
+          48
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jayrosen_nyu",
+        "name": "Jay Rosen ",
+        "id": 14834340,
+        "id_str": "14834340",
+        "indices": [
+          58,
+          71
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,111 @@
+{
+  "created_at": "Thu Jun 21 02:28:11 +0000 2012",
+  "id": 215632175725416448,
+  "id_str": "215632175725416448",
+  "text": "Loving this satirical piece #uva. Jefferson: \"I Was Never Much of a UVA Guy\" http://t.co/TXmDFLvY\n#fb",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 29720810,
+    "id_str": "29720810",
+    "name": "Rosalie Morton",
+    "screen_name": "rosaliemo",
+    "location": "ÜT: 34.052821,-118.259144",
+    "description": "PR professional. Social media addict. Dog lover. Horseback rider. Sailor. Eater of delicious food. ",
+    "url": "http://rosaliemo.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://rosaliemo.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 531,
+    "friends_count": 787,
+    "listed_count": 21,
+    "created_at": "Wed Apr 08 14:02:28 +0000 2009",
+    "favourites_count": 37,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1800,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "80ABD9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/8130213/bayville.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/8130213/bayville.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1084612820/VHLVM0NMLOTX0EOT_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1084612820/VHLVM0NMLOTX0EOT_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "57639E",
+    "profile_sidebar_fill_color": "B3E0AA",
+    "profile_text_color": "515C87",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          28,
+          32
+        ]
+      },
+      {
+        "text": "fb",
+        "indices": [
+          98,
+          101
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/TXmDFLvY",
+        "expanded_url": "http://paulbibeau.blogspot.com/2012/06/i-was-never-much-of-uva-guy-by-thomas.html",
+        "display_url": "paulbibeau.blogspot.com/2012/06/i-was-…",
+        "indices": [
+          77,
+          97
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

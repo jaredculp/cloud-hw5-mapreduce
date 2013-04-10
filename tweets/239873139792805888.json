@@ -1,0 +1,102 @@
+{
+  "created_at": "Sun Aug 26 23:53:07 +0000 2012",
+  "id": 239873139792805888,
+  "id_str": "239873139792805888",
+  "text": "La #Uva x Ibiza pre-party @steveaoki !! http://t.co/wUVRkduU",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 201386552,
+    "id_str": "201386552",
+    "name": "Sergio Santos",
+    "screen_name": "Sergito_Santos",
+    "location": "Segovia",
+    "description": "Captador de experencias estudiando publicidad y relaciones publicas.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 655,
+    "friends_count": 595,
+    "listed_count": 11,
+    "created_at": "Mon Oct 11 18:51:23 +0000 2010",
+    "favourites_count": 354,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9700,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/772116260/fe44bab1c7a89eb9536e30f075a4b5df.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/772116260/fe44bab1c7a89eb9536e30f075a4b5df.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2697563105/0a0dc58ef58eb4d79d33cb36f6ecacf6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2697563105/0a0dc58ef58eb4d79d33cb36f6ecacf6_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/201386552/1358240242",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          3,
+          7
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/wUVRkduU",
+        "expanded_url": "http://yfrog.com/g065gisyj",
+        "display_url": "yfrog.com/g065gisyj",
+        "indices": [
+          40,
+          60
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "steveaoki",
+        "name": "Steve Aoki",
+        "id": 17019152,
+        "id_str": "17019152",
+        "indices": [
+          26,
+          36
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

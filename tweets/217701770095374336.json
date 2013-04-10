@@ -1,0 +1,119 @@
+{
+  "created_at": "Tue Jun 26 19:32:01 +0000 2012",
+  "id": 217701770095374336,
+  "id_str": "217701770095374336",
+  "text": "@jmittell Prof @sivavaid already does head the Boss Studies Dept. We just call it @mediastudies at #UVA #wahoowa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217699195568664577,
+  "in_reply_to_status_id_str": "217699195568664577",
+  "in_reply_to_user_id": 35295295,
+  "in_reply_to_user_id_str": "35295295",
+  "in_reply_to_screen_name": "jmittell",
+  "user": {
+    "id": 44721447,
+    "id_str": "44721447",
+    "name": "Denise Linn",
+    "screen_name": "DKLinn",
+    "location": "Washington D.C.",
+    "description": "Media policy nerd / UVA alumna / AmeriCorps alumna",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 227,
+    "friends_count": 282,
+    "listed_count": 17,
+    "created_at": "Thu Jun 04 21:04:16 +0000 2009",
+    "favourites_count": 107,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1427,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "83A7C7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/116028629/twitterbround.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/116028629/twitterbround.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2305892098/3gt23efky4rprixgx5oo_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2305892098/3gt23efky4rprixgx5oo_normal.jpeg",
+    "profile_link_color": "CC3F5B",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "C1DAE8",
+    "profile_text_color": "08166B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          99,
+          103
+        ]
+      },
+      {
+        "text": "wahoowa",
+        "indices": [
+          104,
+          112
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jmittell",
+        "name": "Jason Mittell",
+        "id": 35295295,
+        "id_str": "35295295",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          15,
+          24
+        ]
+      },
+      {
+        "screen_name": "mediastudies",
+        "name": "Media Studies",
+        "id": 35488091,
+        "id_str": "35488091",
+        "indices": [
+          82,
+          95
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

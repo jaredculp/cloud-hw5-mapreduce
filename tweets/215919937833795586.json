@@ -1,0 +1,101 @@
+{
+  "created_at": "Thu Jun 21 21:31:39 +0000 2012",
+  "id": 215919937833795586,
+  "id_str": "215919937833795586",
+  "text": "Yes!RT @washingtonpost: \"I've never seen one person have such a negative impact on a large institution like this.\" http://t.co/jEI69dSy #UVA",
+  "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 235654093,
+    "id_str": "235654093",
+    "name": "Adriana Barillas",
+    "screen_name": "Flaquita_bb",
+    "location": "",
+    "description": "Lover of international politics, book worm, chatter box, traveller, and writer",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 45,
+    "friends_count": 180,
+    "listed_count": 0,
+    "created_at": "Sat Jan 08 19:20:07 +0000 2011",
+    "favourites_count": 17,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 278,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "382E34",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/325200465/x1414dc88a2e455846149734748c0a8a.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/325200465/x1414dc88a2e455846149734748c0a8a.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1527094693/66146_10150265664630037_872555036_15110700_736690_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1527094693/66146_10150265664630037_872555036_15110700_736690_n_normal.jpg",
+    "profile_link_color": "E44829",
+    "profile_sidebar_border_color": "76A089",
+    "profile_sidebar_fill_color": "C9AD39",
+    "profile_text_color": "BD3592",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          136,
+          140
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/jEI69dSy",
+        "expanded_url": "http://wapo.st/NZvKSH",
+        "display_url": "wapo.st/NZvKSH",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          7,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

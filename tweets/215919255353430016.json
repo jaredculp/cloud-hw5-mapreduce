@@ -1,0 +1,134 @@
+{
+  "created_at": "Thu Jun 21 21:28:56 +0000 2012",
+  "id": 215919255353430016,
+  "id_str": "215919255353430016",
+  "text": "RT @rtdnews: #UVA board of visitors to reconsider President Teresa #Sullivan's ouster. http://t.co/zvteuqYL #va #rva",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 72835598,
+    "id_str": "72835598",
+    "name": "Richmond Magazine",
+    "screen_name": "RichmondMag",
+    "location": "Richmond, VA ",
+    "description": "Susan Winiecki, Richmond magazine's editor in chief. Trying to be a good RVA neighbor-in-the-know, passing along news you can use. Magazineaholic. South Sider. ",
+    "url": "http://www.richmondmagazine.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.richmondmagazine.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 9030,
+    "friends_count": 1361,
+    "listed_count": 693,
+    "created_at": "Wed Sep 09 12:01:43 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5235,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/588324562/259cl23g88elvby2fvnq.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/588324562/259cl23g88elvby2fvnq.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/447199618/twitterlogo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/447199618/twitterlogo_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          13,
+          17
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          67,
+          76
+        ]
+      },
+      {
+        "text": "va",
+        "indices": [
+          108,
+          111
+        ]
+      },
+      {
+        "text": "rva",
+        "indices": [
+          112,
+          116
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zvteuqYL",
+        "expanded_url": "http://bit.ly/NelgsB",
+        "display_url": "bit.ly/NelgsB",
+        "indices": [
+          87,
+          107
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RTDNEWS",
+        "name": "Times-Dispatch",
+        "id": 23764675,
+        "id_str": "23764675",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

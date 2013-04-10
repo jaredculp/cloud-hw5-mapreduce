@@ -1,0 +1,102 @@
+{
+  "created_at": "Thu Jun 21 21:52:25 +0000 2012",
+  "id": 215925163781394434,
+  "id_str": "215925163781394434",
+  "text": "@PilotNews: #UVa board to reconsider president's ouster http://t.co/xdzmu6Ey",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 14946895,
+  "in_reply_to_user_id_str": "14946895",
+  "in_reply_to_screen_name": "PilotNews",
+  "user": {
+    "id": 6609992,
+    "id_str": "6609992",
+    "name": "Rich Mathieson",
+    "screen_name": "rmathieson",
+    "location": "Roanoke, Va.",
+    "description": "Words, music, dogs. Steelers. Nittany Lions. Hokies.   \r\n(Not necessarily in that order.)",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 289,
+    "friends_count": 452,
+    "listed_count": 12,
+    "created_at": "Wed Jun 06 04:18:11 +0000 2007",
+    "favourites_count": 250,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2769,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/268755458/mountains_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/268755458/mountains_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/6609992/1355502067",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          12,
+          16
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xdzmu6Ey",
+        "expanded_url": "http://hamptonroads.com/2012/06/uva-board-will-meet-reconsider-presidents-ouster",
+        "display_url": "hamptonroads.com/2012/06/uva-bo…",
+        "indices": [
+          56,
+          76
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PilotNews",
+        "name": "The Virginian-Pilot",
+        "id": 14946895,
+        "id_str": "14946895",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

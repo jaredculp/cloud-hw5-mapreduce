@@ -1,0 +1,127 @@
+{
+  "created_at": "Tue Jun 26 19:33:01 +0000 2012",
+  "id": 217702020818284545,
+  "id_str": "217702020818284545",
+  "text": "Rt @washingtonpost: #BREAKINGNEWS: Sullivan is unanimously reinstated as president of #UVA http://t.co/0SqSSMgI #fb",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 47669528,
+    "id_str": "47669528",
+    "name": "Grace Lee",
+    "screen_name": "glee212",
+    "location": "New York, NY",
+    "description": "Academic law librarian specializing in electronic services, tech and social media geek, culture maven and choral singer (@nychoral).",
+    "url": "http://www.depravedlibrarian.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.depravedlibrarian.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 288,
+    "friends_count": 464,
+    "listed_count": 15,
+    "created_at": "Tue Jun 16 16:36:53 +0000 2009",
+    "favourites_count": 393,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2123,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1650655662/purple_coat_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1650655662/purple_coat_normal.jpg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BREAKINGNEWS",
+        "indices": [
+          20,
+          33
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          86,
+          90
+        ]
+      },
+      {
+        "text": "fb",
+        "indices": [
+          112,
+          115
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/0SqSSMgI",
+        "expanded_url": "http://wapo.st/Le1lKO",
+        "display_url": "wapo.st/Le1lKO",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

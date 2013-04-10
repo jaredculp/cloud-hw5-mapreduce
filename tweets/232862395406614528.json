@@ -1,0 +1,137 @@
+{
+  "created_at": "Tue Aug 07 15:34:56 +0000 2012",
+  "id": 232862395406614528,
+  "id_str": "232862395406614528",
+  "text": "Michael Felder @InTheBleachers breaks down highlights for one of 2014's top recruits @JKamara1 http://t.co/lGwJkqDH #hokies #uva #lsu",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 471278830,
+    "id_str": "471278830",
+    "name": "Full Ride",
+    "screen_name": "BR_FullRide",
+    "location": "New York, NY",
+    "description": "Bleacher Report's new college football recruiting show.  Tweet us any and everything on recruiting!  Watch our Youtube show by clicking the link below:",
+    "url": "http://goo.gl/Gc9Ic",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://goo.gl/Gc9Ic",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1351,
+    "friends_count": 517,
+    "listed_count": 19,
+    "created_at": "Sun Jan 22 17:55:44 +0000 2012",
+    "favourites_count": 4,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1144,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/432715852/FR3D_STACKED_LOGOsmall6.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/432715852/FR3D_STACKED_LOGOsmall6.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1848553091/FR3D_STACKED_LOGOsmall6_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1848553091/FR3D_STACKED_LOGOsmall6_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "hokies",
+        "indices": [
+          116,
+          123
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          124,
+          128
+        ]
+      },
+      {
+        "text": "lsu",
+        "indices": [
+          129,
+          133
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/lGwJkqDH",
+        "expanded_url": "http://www.youtube.com/watch?v=Pmn2yoVakxw",
+        "display_url": "youtube.com/watch?v=Pmn2yo…",
+        "indices": [
+          95,
+          115
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "InTheBleachers",
+        "name": "Michael Felder",
+        "id": 26403610,
+        "id_str": "26403610",
+        "indices": [
+          15,
+          30
+        ]
+      },
+      {
+        "screen_name": "JKamara1",
+        "name": "Jamil Kamara",
+        "id": 290693728,
+        "id_str": "290693728",
+        "indices": [
+          85,
+          94
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

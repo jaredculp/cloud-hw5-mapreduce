@@ -1,0 +1,123 @@
+{
+  "created_at": "Sun Jun 24 14:09:32 +0000 2012",
+  "id": 216895838092394499,
+  "id_str": "216895838092394499",
+  "text": "Excellent post on the use of humor in response to the #UVA hoo d’etat. http://t.co/Tarr9nKK @cavalierdaily @readthehook",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 525955238,
+    "id_str": "525955238",
+    "name": "Matt Hedstrom",
+    "screen_name": "HedstromMatt",
+    "location": "Charlottesville, VA",
+    "description": "Assistant Professor of American Studies and Religious Studies at the University of Virginia",
+    "url": "http://www.matthedstrom.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.matthedstrom.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 376,
+    "friends_count": 726,
+    "listed_count": 9,
+    "created_at": "Fri Mar 16 02:26:58 +0000 2012",
+    "favourites_count": 14,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1249,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2285657996/DFF7C4BF-94AD-484C-A2EF-6BC6A434E155_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2285657996/DFF7C4BF-94AD-484C-A2EF-6BC6A434E155_normal",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          54,
+          58
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Tarr9nKK",
+        "expanded_url": "http://humorinamerica.wordpress.com/2012/06/24/humor-as-ridicule-the-case-of-uva/",
+        "display_url": "humorinamerica.wordpress.com/2012/06/24/hum…",
+        "indices": [
+          71,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          92,
+          106
+        ]
+      },
+      {
+        "screen_name": "readthehook",
+        "name": "The Hook newspaper",
+        "id": 34417310,
+        "id_str": "34417310",
+        "indices": [
+          107,
+          119
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

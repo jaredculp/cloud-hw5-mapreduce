@@ -1,0 +1,96 @@
+{
+  "created_at": "Wed Jun 20 20:19:48 +0000 2012",
+  "id": 215539466780164096,
+  "id_str": "215539466780164096",
+  "text": "Standout work by UVA student journalists at @cavalierdaily. Reminds me of @DailyCollegian reporters at Penn State last November.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 24824450,
+    "id_str": "24824450",
+    "name": "Andrew Katz",
+    "screen_name": "katz",
+    "location": "New York, Philly",
+    "description": "Photojournalist and writer: TIME, Men's Health, Guardian, The Atlantic. Columbia grad. katz1015@gmail.com / +1-610-883-6223",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5826,
+    "friends_count": 440,
+    "listed_count": 350,
+    "created_at": "Tue Mar 17 02:36:26 +0000 2009",
+    "favourites_count": 9637,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 24904,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3051517706/aa003d8f44bfbf6f19ccfe3a1a655313_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3051517706/aa003d8f44bfbf6f19ccfe3a1a655313_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          44,
+          58
+        ]
+      },
+      {
+        "screen_name": "DailyCollegian",
+        "name": "The Daily Collegian",
+        "id": 16084829,
+        "id_str": "16084829",
+        "indices": [
+          74,
+          89
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

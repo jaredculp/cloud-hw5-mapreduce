@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed Jun 27 17:05:37 +0000 2012",
+  "id": 218027316142538752,
+  "id_str": "218027316142538752",
+  "text": "Agreed RT @wpjenna WaPo editorial: #UVA still needs an explanation of why Sullivan was ousted in the first place. http://t.co/T9ahXSyU",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217877093290221568,
+  "in_reply_to_status_id_str": "217877093290221568",
+  "in_reply_to_user_id": 15893354,
+  "in_reply_to_user_id_str": "15893354",
+  "in_reply_to_screen_name": "wpjenna",
+  "user": {
+    "id": 564348552,
+    "id_str": "564348552",
+    "name": "Darby Baham",
+    "screen_name": "darbybaham",
+    "location": "",
+    "description": "I'm a Writer/Editor by profession, but I moonlight as a lover and possible addict of shoes/ Active member of #teamnosleep and #teambrunchclub.",
+    "url": "http://www.darbybaham.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.darbybaham.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 152,
+    "friends_count": 266,
+    "listed_count": 2,
+    "created_at": "Fri Apr 27 03:42:54 +0000 2012",
+    "favourites_count": 42,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1724,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/537632053/red_heels.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/537632053/red_heels.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2171259014/me_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2171259014/me_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/564348552/1354595563",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          35,
+          39
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/T9ahXSyU",
+        "expanded_url": "http://wapo.st/Muhmhi",
+        "display_url": "wapo.st/Muhmhi",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wpjenna",
+        "name": "Jenna Johnson",
+        "id": 15893354,
+        "id_str": "15893354",
+        "indices": [
+          10,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,121 @@
+{
+  "created_at": "Tue Jul 03 17:52:26 +0000 2012",
+  "id": 220213426050441218,
+  "id_str": "220213426050441218",
+  "text": "It's time for the @georgiastraight Best of #Vancouver survey again. Have your say, Foodies! http://t.co/adyBl1LC #BOV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 167191990,
+    "id_str": "167191990",
+    "name": "P.I.C.A.",
+    "screen_name": "picachef",
+    "location": "Vancouver, BC",
+    "description": "We are Pacific Institute of Culinary Arts; Offering culinary, pastry & wine training programs, bistro, bakery (& more) Learn, cook & eat with us! Tweets by PICA",
+    "url": "http://picachef.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://picachef.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1302,
+    "friends_count": 880,
+    "listed_count": 57,
+    "created_at": "Fri Jul 16 00:01:24 +0000 2010",
+    "favourites_count": 17,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4136,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/191562311/background.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/191562311/background.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2670660997/33249d31a00fe93834fbb893957fa42f_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2670660997/33249d31a00fe93834fbb893957fa42f_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/167191990/1349121055",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "E89608",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Vancouver",
+        "indices": [
+          43,
+          53
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          113,
+          117
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/adyBl1LC",
+        "expanded_url": "http://www.straight.com/bov/ballot/2012",
+        "display_url": "straight.com/bov/ballot/2012",
+        "indices": [
+          92,
+          112
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "georgiastraight",
+        "name": "The Georgia Straight",
+        "id": 14604658,
+        "id_str": "14604658",
+        "indices": [
+          18,
+          34
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

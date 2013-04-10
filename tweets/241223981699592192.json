@@ -1,0 +1,117 @@
+{
+  "created_at": "Thu Aug 30 17:20:53 +0000 2012",
+  "id": 241223981699592192,
+  "id_str": "241223981699592192",
+  "text": "Juče sam bio mačorčić a danas sam račić #UVA #UVB",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 122477329,
+    "id_str": "122477329",
+    "name": "Filip",
+    "screen_name": "flopi_disk",
+    "location": "Belgrade,Serbia",
+    "description": "https://t.co/c9PMs4ER  http://t.co/L7vgdusO meh.  http://t.co/WRaFfIFr ž",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/c9PMs4ER",
+            "expanded_url": "https://twitter.com/flopi_disk/status/284701801381498884",
+            "display_url": "twitter.com/flopi_disk/sta…",
+            "indices": [
+              0,
+              21
+            ]
+          },
+          {
+            "url": "http://t.co/L7vgdusO",
+            "expanded_url": "http://25.media.tumblr.com/tumblr_m20kzqRh1r1rt1wndo1_500.png",
+            "display_url": "25.media.tumblr.com/tumblr_m20kzqR…",
+            "indices": [
+              23,
+              43
+            ]
+          },
+          {
+            "url": "http://t.co/WRaFfIFr",
+            "expanded_url": "http://favstar.fm/users/flopi_disk",
+            "display_url": "favstar.fm/users/flopi_di…",
+            "indices": [
+              50,
+              70
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 604,
+    "friends_count": 308,
+    "listed_count": 7,
+    "created_at": "Fri Mar 12 21:16:31 +0000 2010",
+    "favourites_count": 6855,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5487,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/608591204/72d3uc6zhux3fxt5lvfp.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/608591204/72d3uc6zhux3fxt5lvfp.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3096844569/550f19674ccdc68d8fc18a3a823267fe_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3096844569/550f19674ccdc68d8fc18a3a823267fe_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/122477329/1358445540",
+    "profile_link_color": "0F7A0F",
+    "profile_sidebar_border_color": "FAFAFA",
+    "profile_sidebar_fill_color": "202120",
+    "profile_text_color": "808080",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          40,
+          44
+        ]
+      },
+      {
+        "text": "UVB",
+        "indices": [
+          45,
+          49
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

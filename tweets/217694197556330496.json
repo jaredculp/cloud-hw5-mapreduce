@@ -1,0 +1,149 @@
+{
+  "created_at": "Tue Jun 26 19:01:55 +0000 2012",
+  "id": 217694197556330496,
+  "id_str": "217694197556330496",
+  "text": "@LarrySabato It's a bit of stretch to compare #UVA and Kent State. Nobody is dead here.",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 217692631856193537,
+  "in_reply_to_status_id_str": "217692631856193537",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 105941315,
+    "id_str": "105941315",
+    "name": "Andrew Smith",
+    "screen_name": "andrewhistorian",
+    "location": "Coventry, UK",
+    "description": "Historian of Business; University Lecturer",
+    "url": "http://andrewdsmith.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://andrewdsmith.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 176,
+    "friends_count": 327,
+    "listed_count": 15,
+    "created_at": "Mon Jan 18 00:48:49 +0000 2010",
+    "favourites_count": 10,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1520,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      51.89987602,
+      -2.08832928
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -2.08832928,
+      51.89987602
+    ]
+  },
+  "place": {
+    "id": "f320411ace8c6587",
+    "url": "https://api.twitter.com/1.1/geo/id/f320411ace8c6587.json",
+    "place_type": "city",
+    "name": "Cheltenham",
+    "full_name": "Cheltenham, Gloucestershire",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -2.143021,
+            51.858278
+          ],
+          [
+            -2.010228,
+            51.858278
+          ],
+          [
+            -2.010228,
+            51.938877
+          ],
+          [
+            -2.143021,
+            51.938877
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          46,
+          50
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

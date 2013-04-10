@@ -1,0 +1,108 @@
+{
+  "created_at": "Wed Jun 20 16:08:45 +0000 2012",
+  "id": 215476288293584896,
+  "id_str": "215476288293584896",
+  "text": "Lazy Business Sense http://t.co/ZGNK22sC via @HuffPostEdu #UVA #BOV",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 323253600,
+    "id_str": "323253600",
+    "name": "Sandra J Szilasi",
+    "screen_name": "sjszilasi",
+    "location": "",
+    "description": "this space intentionally left blank",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 31,
+    "friends_count": 136,
+    "listed_count": 0,
+    "created_at": "Fri Jun 24 14:32:41 +0000 2011",
+    "favourites_count": 43,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 450,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1412794962/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1412794962/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          58,
+          62
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          63,
+          67
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ZGNK22sC",
+        "expanded_url": "http://huff.to/MhRd6u",
+        "display_url": "huff.to/MhRd6u",
+        "indices": [
+          20,
+          40
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HuffPostEdu",
+        "name": "HuffPostEducation",
+        "id": 185397767,
+        "id_str": "185397767",
+        "indices": [
+          45,
+          57
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

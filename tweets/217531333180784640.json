@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 08:14:46 +0000 2012",
+  "id": 217531333180784640,
+  "id_str": "217531333180784640",
+  "text": "#UVA mess indicates \"low-grade panic now spreading through much of public higher education\" = NYT-speak for \"worry.\" http://t.co/umXZZ0LP",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 76927341,
+    "id_str": "76927341",
+    "name": "World Uni Rankings",
+    "screen_name": "worlduniranking",
+    "location": "London",
+    "description": "Home of the QS World University Rankings",
+    "url": "http://www.topuniversities.com/university-rankings",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.topuniversities.com/university-rankings",
+            "expanded_url": null,
+            "indices": [
+              0,
+              50
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4640,
+    "friends_count": 1113,
+    "listed_count": 208,
+    "created_at": "Thu Sep 24 12:29:23 +0000 2009",
+    "favourites_count": 14,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4505,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/680540930/95b4876621233d712181ea3c3ecc25bd.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/680540930/95b4876621233d712181ea3c3ecc25bd.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1111910201/qs60_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1111910201/qs60_normal.gif",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/76927341/1349790472",
+    "profile_link_color": "160AFF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFB60A",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/umXZZ0LP",
+        "expanded_url": "http://tinyurl.com/c3ebwvn",
+        "display_url": "tinyurl.com/c3ebwvn",
+        "indices": [
+          117,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

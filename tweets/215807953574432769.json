@@ -1,0 +1,123 @@
+{
+  "created_at": "Thu Jun 21 14:06:40 +0000 2012",
+  "id": 215807953574432769,
+  "id_str": "215807953574432769",
+  "text": "RT @dancohen: Beautiful talk by @nowviskie on the situation at #UVA, the ballast of libraries, and digital humanities: http://t.co/IhbMVrJN",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 56812711,
+    "id_str": "56812711",
+    "name": "Miriam Posner",
+    "screen_name": "miriamkp",
+    "location": "Los Angeles, California",
+    "description": "I coordinate and teach in UCLA's Digital Humanities program. Interested in DH (duh), film, American studies, the history of medicine, etc.",
+    "url": "http://www.miriamposner.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.miriamposner.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2997,
+    "friends_count": 1480,
+    "listed_count": 213,
+    "created_at": "Tue Jul 14 20:52:27 +0000 2009",
+    "favourites_count": 876,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 16970,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1059774944/Miriam_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1059774944/Miriam_normal.jpg",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          63,
+          67
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/IhbMVrJN",
+        "expanded_url": "http://bit.ly/L7OxDQ",
+        "display_url": "bit.ly/L7OxDQ",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dancohen",
+        "name": "Dan Cohen",
+        "id": 14181097,
+        "id_str": "14181097",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "nowviskie",
+        "name": "Bethany Nowviskie",
+        "id": 14221013,
+        "id_str": "14221013",
+        "indices": [
+          32,
+          42
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

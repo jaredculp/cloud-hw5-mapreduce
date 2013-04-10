@@ -1,0 +1,92 @@
+{
+  "created_at": "Sat Aug 25 01:56:58 +0000 2012",
+  "id": 239179529678110721,
+  "id_str": "239179529678110721",
+  "text": "o #sullivan nao pôde vir aqui :/",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 325897981,
+    "id_str": "325897981",
+    "name": "bruno ",
+    "screen_name": "_brunoserip",
+    "location": "",
+    "description": "https://t.co/i1nxyRRW",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/i1nxyRRW",
+            "expanded_url": "https://www.facebook.com/bruno.pires.1420?ref=tn_tnmn",
+            "display_url": "facebook.com/bruno.pires.14…",
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 334,
+    "friends_count": 53,
+    "listed_count": 0,
+    "created_at": "Wed Jun 29 01:49:04 +0000 2011",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4311,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/713560723/f0f46a8e77998a9276481cc58a0bedb0.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/713560723/f0f46a8e77998a9276481cc58a0bedb0.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2888089868/38c39bc36c52ab9bc8d74229b794f116_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2888089868/38c39bc36c52ab9bc8d74229b794f116_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/325897981/1353116773",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sullivan",
+        "indices": [
+          2,
+          11
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

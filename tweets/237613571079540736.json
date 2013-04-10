@@ -1,0 +1,123 @@
+{
+  "created_at": "Mon Aug 20 18:14:24 +0000 2012",
+  "id": 237613571079540736,
+  "id_str": "237613571079540736",
+  "text": "RT @uva_alumni: #UVA selected in top 20 for \"The South's Best Tailgate\" by @Southern_Living. Vote to choose the winner! http://t.co/ntcKbHsE",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 89258862,
+    "id_str": "89258862",
+    "name": "VisitCharlottesville",
+    "screen_name": "visitCville",
+    "location": "Charlottesville, Virginia",
+    "description": "An energetic city full of music, film, literature, food, history, festivals and more!  ",
+    "url": "http://www.visitcharlottesville.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.visitcharlottesville.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1337,
+    "friends_count": 449,
+    "listed_count": 54,
+    "created_at": "Wed Nov 11 19:15:42 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1660,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/200930312/free_twitter_designer.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/200930312/free_twitter_designer.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1233767168/org_logo_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1233767168/org_logo_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCD",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          16,
+          20
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ntcKbHsE",
+        "expanded_url": "http://ow.ly/d6bw9",
+        "display_url": "ow.ly/d6bw9",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          3,
+          14
+        ]
+      },
+      {
+        "screen_name": "Southern_Living",
+        "name": "Southern Living",
+        "id": 22515362,
+        "id_str": "22515362",
+        "indices": [
+          75,
+          91
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,106 @@
+{
+  "created_at": "Wed Jun 20 22:43:40 +0000 2012",
+  "id": 215575674595971072,
+  "id_str": "215575674595971072",
+  "text": "@MrJefferson_UVa @katiecouric @sivavaid The Board of Vipers must go!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215516431360602112,
+  "in_reply_to_status_id_str": "215516431360602112",
+  "in_reply_to_user_id": 132633456,
+  "in_reply_to_user_id_str": "132633456",
+  "in_reply_to_screen_name": "MrJefferson_UVa",
+  "user": {
+    "id": 56676214,
+    "id_str": "56676214",
+    "name": "Lynda Harrill",
+    "screen_name": "QuickStartCenVA",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3,
+    "friends_count": 29,
+    "listed_count": 0,
+    "created_at": "Tue Jul 14 12:06:45 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MrJefferson_UVa",
+        "name": "Thomas Jefferson",
+        "id": 132633456,
+        "id_str": "132633456",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          17,
+          29
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          30,
+          39
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

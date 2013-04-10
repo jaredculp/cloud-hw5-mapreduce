@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 27 00:23:46 +0000 2012",
+  "id": 217775191655321600,
+  "id_str": "217775191655321600",
+  "text": "University of Virginia reinstates Teresa Sullivan as president after outcry #uva http://t.co/iG2Bjnk7",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 112284636,
+    "id_str": "112284636",
+    "name": "JennaGreenFoundation",
+    "screen_name": "JGFoundation",
+    "location": "Virginia",
+    "description": "The Jenna Green Foundation's mission is to help students with disabilities by providing them with the necessary resources to succeed.",
+    "url": "http://www.jennagreenfoundation.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jennagreenfoundation.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              35
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 821,
+    "friends_count": 1921,
+    "listed_count": 18,
+    "created_at": "Sun Feb 07 22:56:38 +0000 2010",
+    "favourites_count": 43,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5441,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/416731153/2012-02-04_12-55-46_71.176.33.80.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/416731153/2012-02-04_12-55-46_71.176.33.80.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1668522199/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1668522199/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCD",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          76,
+          80
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/iG2Bjnk7",
+        "expanded_url": "http://www.guardian.co.uk/world/2012/jun/26/university-virginia-reinstates-teresa-sullivan",
+        "display_url": "guardian.co.uk/world/2012/jun…",
+        "indices": [
+          81,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,128 @@
+{
+  "created_at": "Sun Jul 01 02:41:11 +0000 2012",
+  "id": 219259327117148160,
+  "id_str": "219259327117148160",
+  "text": ".@washingtonpost's summary of 18 days of turmoil surrounding #UVA, #Sullivan and the #BOV http://t.co/SsfNI1rI",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 24296023,
+    "id_str": "24296023",
+    "name": "The Cavalier Daily",
+    "screen_name": "cavalierdaily",
+    "location": "Newcomb Hall Basement",
+    "description": "The University of Virginia's student-operated independent newspaper and Charlottesville's oldest daily newspaper.",
+    "url": "http://www.cavalierdaily.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cavalierdaily.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7217,
+    "friends_count": 167,
+    "listed_count": 214,
+    "created_at": "Sat Mar 14 00:55:04 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3048,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/783238473/2922378d28d4d4bf664502133108a871.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/783238473/2922378d28d4d4bf664502133108a871.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1518291353/jefferson_cutout_opinion_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1518291353/jefferson_cutout_opinion_2_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/24296023/1350236225",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          61,
+          65
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          67,
+          76
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          85,
+          89
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/SsfNI1rI",
+        "expanded_url": "http://www.washingtonpost.com/local/education/u-va-upheaval-18-days-of-leadership-crisis/2012/06/30/gJQAVXEgEW_story.html",
+        "display_url": "washingtonpost.com/local/educatio…",
+        "indices": [
+          90,
+          110
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          1,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

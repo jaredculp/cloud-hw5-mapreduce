@@ -1,0 +1,120 @@
+{
+  "created_at": "Thu Jun 28 02:17:35 +0000 2012",
+  "id": 218166220904607744,
+  "id_str": "218166220904607744",
+  "text": "RT @bibliomolly: Submit materials to the #sullivan archive at #uva http://t.co/Gg4hehvO",
+  "source": "<a href=\"http://seesmic.com/\" rel=\"nofollow\">Seesmic</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 105827527,
+    "id_str": "105827527",
+    "name": "RBMS",
+    "screen_name": "RBMSinfo",
+    "location": "United States",
+    "description": "Web Team tweeting for the Rare Books & Manuscripts Section of the Association of College & Research Libraries, a division of the American Library Association",
+    "url": "http://rbms.info/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://rbms.info/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              17
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1108,
+    "friends_count": 465,
+    "listed_count": 100,
+    "created_at": "Sun Jan 17 16:34:09 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4077,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/90089134/RBMS_bground3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/90089134/RBMS_bground3.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/804688864/RBMS_logobl_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/804688864/RBMS_logobl_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sullivan",
+        "indices": [
+          41,
+          50
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          62,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Gg4hehvO",
+        "expanded_url": "http://Sullivan.lib.virginia.edu",
+        "display_url": "Sullivan.lib.virginia.edu",
+        "indices": [
+          67,
+          87
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "bibliomolly",
+        "name": "Molly Schwartzburg",
+        "id": 76730687,
+        "id_str": "76730687",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

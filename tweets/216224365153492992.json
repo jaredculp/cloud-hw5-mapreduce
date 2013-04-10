@@ -1,0 +1,105 @@
+{
+  "created_at": "Fri Jun 22 17:41:20 +0000 2012",
+  "id": 216224365153492992,
+  "id_str": "216224365153492992",
+  "text": "hot damn #uva is eating itself http://t.co/98rYS8Iy",
+  "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">Safari on iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15921550,
+    "id_str": "15921550",
+    "name": "j soma",
+    "screen_name": "dangerscarf",
+    "location": "brooklyn",
+    "description": "data head, ruby kid, co-founder @bkbrains. i will cook anything and probably eat it afterwards.",
+    "url": "http://www.xoxosoma.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.xoxosoma.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 731,
+    "friends_count": 268,
+    "listed_count": 35,
+    "created_at": "Wed Aug 20 19:00:32 +0000 2008",
+    "favourites_count": 24,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2624,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FDFFF5",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2703503138/df5a02a4f3bba40e9e74d53e958a9a94_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2703503138/df5a02a4f3bba40e9e74d53e958a9a94_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/15921550/1349887327",
+    "profile_link_color": "8A314A",
+    "profile_sidebar_border_color": "999999",
+    "profile_sidebar_fill_color": "FDFFF5",
+    "profile_text_color": "323232",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          9,
+          13
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/98rYS8Iy",
+        "expanded_url": "http://www.cavalierdaily.com/2012/06/22/zeithaml-letter-regarding-role-as-future-interim-university-president/",
+        "display_url": "cavalierdaily.com/2012/06/22/zei…",
+        "indices": [
+          31,
+          51
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

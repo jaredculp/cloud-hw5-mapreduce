@@ -1,0 +1,150 @@
+{
+  "created_at": "Tue Aug 07 15:28:53 +0000 2012",
+  "id": 232860876166803456,
+  "id_str": "232860876166803456",
+  "text": "Paul Tudor #Jones and the #UVA president #controversy http://t.co/WmmDGYTO @washingtonpost #resign #donor #Virginia",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 74185959,
+    "id_str": "74185959",
+    "name": "eVestment HedgeNews ",
+    "screen_name": "eVestment_Hedge",
+    "location": "New York City",
+    "description": "Comprehensive Institutional Hedge Fund Data",
+    "url": "http://t.co/S9JsXkXC",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/S9JsXkXC",
+            "expanded_url": "http://www.evestment.com",
+            "display_url": "evestment.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3514,
+    "friends_count": 807,
+    "listed_count": 125,
+    "created_at": "Mon Sep 14 15:46:51 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5538,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/738975849/96885f7bc325cabf058d96ef2691891f.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/738975849/96885f7bc325cabf058d96ef2691891f.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2979064851/0d44712afe1dd8a0b41da485de91a92b_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2979064851/0d44712afe1dd8a0b41da485de91a92b_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/74185959/1355590147",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Jones",
+        "indices": [
+          11,
+          17
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          26,
+          30
+        ]
+      },
+      {
+        "text": "controversy",
+        "indices": [
+          41,
+          53
+        ]
+      },
+      {
+        "text": "resign",
+        "indices": [
+          91,
+          98
+        ]
+      },
+      {
+        "text": "donor",
+        "indices": [
+          99,
+          105
+        ]
+      },
+      {
+        "text": "Virginia",
+        "indices": [
+          106,
+          115
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WmmDGYTO",
+        "expanded_url": "http://bit.ly/RZa8Ch",
+        "display_url": "bit.ly/RZa8Ch",
+        "indices": [
+          54,
+          74
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          75,
+          90
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

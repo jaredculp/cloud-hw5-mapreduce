@@ -1,0 +1,111 @@
+{
+  "created_at": "Sun Aug 12 19:10:08 +0000 2012",
+  "id": 234728492527398912,
+  "id_str": "234728492527398912",
+  "text": "#uva krijgt een lastige 5.2 op #Preferenso.nl http://t.co/nethe0kU",
+  "source": "<a href=\"http://www.preferenso.nl\" rel=\"nofollow\">Preferenso</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 314470563,
+    "id_str": "314470563",
+    "name": "Preferenso Reviews",
+    "screen_name": "Preferenso3",
+    "location": "Amsterdam",
+    "description": "Klant ervaringen geplaatst op Preferenso.nl worden hier automatisch getweet zodat bedrijven, organisaties en professionals weten dat ze zijn beoordeeld.",
+    "url": "http://www.preferenso.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.preferenso.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 439,
+    "friends_count": 475,
+    "listed_count": 0,
+    "created_at": "Fri Jun 10 09:36:17 +0000 2011",
+    "favourites_count": 2,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 22754,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/267423534/Twitter-BG-Template.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/267423534/Twitter-BG-Template.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1389716404/FBicon_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1389716404/FBicon_normal.gif",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Preferenso",
+        "indices": [
+          31,
+          42
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/nethe0kU",
+        "expanded_url": "http://www.preferenso.nl/review/189096",
+        "display_url": "preferenso.nl/review/189096",
+        "indices": [
+          46,
+          66
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

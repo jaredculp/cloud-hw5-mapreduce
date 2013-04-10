@@ -1,0 +1,120 @@
+{
+  "created_at": "Wed Jun 20 13:18:19 +0000 2012",
+  "id": 215433400868282369,
+  "id_str": "215433400868282369",
+  "text": "What Sullivan's departure at #UVa means for #highered http://t.co/ySrApfia via @chronicle",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 76081661,
+    "id_str": "76081661",
+    "name": "James K. Scott, PhD",
+    "screen_name": "jkinneyscott",
+    "location": "Columbia, Missouri USA",
+    "description": "Director of the International Center - University of Missouri",
+    "url": "http://international.missouri.edu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://international.missouri.edu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 495,
+    "friends_count": 429,
+    "listed_count": 31,
+    "created_at": "Mon Sep 21 17:14:57 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1542,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/85362109/cool_cropped_morning.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/85362109/cool_cropped_morning.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/769302765/I_survived_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/769302765/I_survived_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          29,
+          33
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          44,
+          53
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/ySrApfia",
+        "expanded_url": "http://chronicle.com/article/What-Teresa-Sullivans-Ouster/132413/",
+        "display_url": "chronicle.com/article/What-T…",
+        "indices": [
+          54,
+          74
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          79,
+          89
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

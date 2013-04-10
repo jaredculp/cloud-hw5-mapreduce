@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 20:38:31 +0000 2012",
+  "id": 217718506144280579,
+  "id_str": "217718506144280579",
+  "text": "This is remarkable. #UVA President reinstated after firing. http://t.co/zzKQnkGn",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19213330,
+    "id_str": "19213330",
+    "name": "Robbie Griggs",
+    "screen_name": "robbiegriggs",
+    "location": "St. Louis, Missouri, USA",
+    "description": "Husband, dad, friend, and pastor.  Living in Durham, England doing a PhD in New Testament at Durham University.",
+    "url": "http://robbiegriggs.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://robbiegriggs.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 209,
+    "friends_count": 577,
+    "listed_count": 8,
+    "created_at": "Tue Jan 20 01:30:34 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3906,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2631396083/346aebe924039b820fd7b745f1cb3133_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2631396083/346aebe924039b820fd7b745f1cb3133_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/19213330/1353411699",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zzKQnkGn",
+        "expanded_url": "http://chronicle.com/article/Teresa-Sullivan-Resigns-From/132417/",
+        "display_url": "chronicle.com/article/Teresa…",
+        "indices": [
+          60,
+          80
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

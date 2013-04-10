@@ -1,0 +1,84 @@
+{
+  "created_at": "Wed Aug 29 20:34:09 +0000 2012",
+  "id": 240910231847186433,
+  "id_str": "240910231847186433",
+  "text": "Damn the girls here are nice i wanna go here #uva",
+  "source": "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 575940039,
+    "id_str": "575940039",
+    "name": "Michael McDermott",
+    "screen_name": "mctoolboxx",
+    "location": "nova",
+    "description": "pain is temporary, pride is forever",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 218,
+    "friends_count": 228,
+    "listed_count": 0,
+    "created_at": "Thu May 10 02:25:13 +0000 2012",
+    "favourites_count": 616,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1886,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2613115888/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2613115888/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/575940039/1358897945",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          45,
+          49
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

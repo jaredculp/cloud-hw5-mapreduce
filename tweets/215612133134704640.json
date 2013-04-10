@@ -1,0 +1,96 @@
+{
+  "created_at": "Thu Jun 21 01:08:33 +0000 2012",
+  "id": 215612133134704640,
+  "id_str": "215612133134704640",
+  "text": "RT @MrJefferson_UVa: Hello @UVAFacultySen!!! Welcome to Twitter! EVERYONE follow them. GO! GO! GO! Love, Your Founder",
+  "source": "<a href=\"http://seesmic.com/\" rel=\"nofollow\">Seesmic</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16072431,
+    "id_str": "16072431",
+    "name": "stephaniemz",
+    "screen_name": "stephaniemz",
+    "location": "Iowa",
+    "description": "PhD candidate in Education, interested in equity, student affairs, teaching, learning and strengths development. Retweet does not equal endorsement.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 575,
+    "friends_count": 488,
+    "listed_count": 40,
+    "created_at": "Sun Aug 31 23:25:26 +0000 2008",
+    "favourites_count": 166,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13801,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1668050878/Stephanie_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1668050878/Stephanie_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MrJefferson_UVa",
+        "name": "Thomas Jefferson",
+        "id": 132633456,
+        "id_str": "132633456",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "UVAFacultySen",
+        "name": "UVA Faculty Senate",
+        "id": 613796706,
+        "id_str": "613796706",
+        "indices": [
+          27,
+          41
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

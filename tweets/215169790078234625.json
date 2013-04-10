@@ -1,0 +1,128 @@
+{
+  "created_at": "Tue Jun 19 19:50:50 +0000 2012",
+  "id": 215169790078234625,
+  "id_str": "215169790078234625",
+  "text": "#humblebrag? “@jmittell: #UVA University Professor Bill Wulf's resignation letter is quite a statement!: http://t.co/dGRKpa3z”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 7300752,
+    "id_str": "7300752",
+    "name": "Max Dawson",
+    "screen_name": "fymaxwell",
+    "location": "Chicago, IL",
+    "description": "Multiple Emmy Award-winning TV professor. Media consultant. Reality TV connoisseur. The guy who teaches the college class on #Survivor: http://t.co/2eDTL0iC.",
+    "url": "http://maxdawson.tv",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://maxdawson.tv",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/2eDTL0iC",
+            "expanded_url": "http://avc.lu/NfRmr6",
+            "display_url": "avc.lu/NfRmr6",
+            "indices": [
+              136,
+              156
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1193,
+    "friends_count": 238,
+    "listed_count": 52,
+    "created_at": "Fri Jul 06 20:19:55 +0000 2007",
+    "favourites_count": 1535,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11411,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/239052561/tv.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/239052561/tv.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2941721926/5632cdcdaa2658df223e6053221d607e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2941721926/5632cdcdaa2658df223e6053221d607e_normal.jpeg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "humblebrag",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          25,
+          29
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dGRKpa3z",
+        "expanded_url": "http://bit.ly/MtjQJm",
+        "display_url": "bit.ly/MtjQJm",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "jmittell",
+        "name": "Jason Mittell",
+        "id": 35295295,
+        "id_str": "35295295",
+        "indices": [
+          14,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

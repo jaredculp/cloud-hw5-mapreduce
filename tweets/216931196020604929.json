@@ -1,0 +1,102 @@
+{
+  "created_at": "Sun Jun 24 16:30:02 +0000 2012",
+  "id": 216931196020604929,
+  "id_str": "216931196020604929",
+  "text": "On my honor… I am ready to rally. Let's all be civil. #UVA #Rally4Honor.",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 212430018,
+    "id_str": "212430018",
+    "name": "Sherry Lake",
+    "screen_name": "shlakeuva",
+    "location": "Charlottesville, VA",
+    "description": "Metadata Guru spending all her time saving Scientific Data one bit at a time.",
+    "url": "http://www.lib.virginia.edu/brown/data",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.lib.virginia.edu/brown/data",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 247,
+    "friends_count": 306,
+    "listed_count": 17,
+    "created_at": "Sat Nov 06 01:51:09 +0000 2010",
+    "favourites_count": 576,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1560,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8B542B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1734200234/fb-photo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1734200234/fb-photo_normal.jpg",
+    "profile_link_color": "9D582E",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          54,
+          58
+        ]
+      },
+      {
+        "text": "Rally4Honor",
+        "indices": [
+          59,
+          71
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

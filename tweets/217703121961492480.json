@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jun 26 19:37:23 +0000 2012",
+  "id": 217703121961492480,
+  "id_str": "217703121961492480",
+  "text": "Did the ouster last week of now reinstated #UVA prez come down to healthcare? http://t.co/4no54cEC",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 186166586,
+    "id_str": "186166586",
+    "name": "LSMS",
+    "screen_name": "LaMedSoc",
+    "location": "Baton Rouge, La.",
+    "description": "Making Louisiana a better place to practice medicine since 1878.",
+    "url": "http://www.lsms.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.lsms.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 207,
+    "friends_count": 113,
+    "listed_count": 12,
+    "created_at": "Thu Sep 02 19:00:42 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2201,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5CCF5",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/349950320/1302310132-abstract-blue-n-green-31000.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/349950320/1302310132-abstract-blue-n-green-31000.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1116496541/lsms-twitter-avatar_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1116496541/lsms-twitter-avatar_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/186166586/1349462481",
+    "profile_link_color": "0018B3",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "66A30A",
+    "profile_text_color": "050505",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          43,
+          47
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/4no54cEC",
+        "expanded_url": "http://www.time.com/time/nation/article/0,8599,2117938,00.html?xid=fblike",
+        "display_url": "time.com/time/nation/ar…",
+        "indices": [
+          78,
+          98
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,131 @@
+{
+  "created_at": "Sun Jun 24 18:53:03 +0000 2012",
+  "id": 216967187305472000,
+  "id_str": "216967187305472000",
+  "text": "@cvillenewscom scrollable panorama of the #Rally4Honor http://t.co/LdrgN93p",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 216964458990411776,
+  "in_reply_to_status_id_str": "216964458990411776",
+  "in_reply_to_user_id": 52553230,
+  "in_reply_to_user_id_str": "52553230",
+  "in_reply_to_screen_name": "cvillenewscom",
+  "user": {
+    "id": 1021661,
+    "id_str": "1021661",
+    "name": "Brian J. Geiger",
+    "screen_name": "thefoodgeek",
+    "location": "Charlottesville, VA",
+    "description": "Freelance food writer specializing in the science of food at http://t.co/MTN45EBY and http://t.co/GUZ8QCak. Seamonkey. Thyme Lord. Gentleman Roboticist.",
+    "url": "http://thefoodgeek.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://thefoodgeek.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/MTN45EBY",
+            "expanded_url": "http://thefoodgeek.com",
+            "display_url": "thefoodgeek.com",
+            "indices": [
+              61,
+              81
+            ]
+          },
+          {
+            "url": "http://t.co/GUZ8QCak",
+            "expanded_url": "http://finecooking.com",
+            "display_url": "finecooking.com",
+            "indices": [
+              86,
+              106
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6043,
+    "friends_count": 902,
+    "listed_count": 583,
+    "created_at": "Mon Mar 12 16:06:37 +0000 2007",
+    "favourites_count": 222,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 21240,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/37851524/twitter_background.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/37851524/twitter_background.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2792684945/5c72aff044f81a6cdc9693d36b152165_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2792684945/5c72aff044f81a6cdc9693d36b152165_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/1021661/1355352736",
+    "profile_link_color": "F00000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "F9FF9E",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Rally4Honor",
+        "indices": [
+          42,
+          54
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/LdrgN93p",
+        "expanded_url": "http://tfg.im/L7OpGs",
+        "display_url": "tfg.im/L7OpGs",
+        "indices": [
+          55,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cvillenewscom",
+        "name": "cvillenews.com",
+        "id": 52553230,
+        "id_str": "52553230",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

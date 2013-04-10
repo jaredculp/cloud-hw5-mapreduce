@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 20 11:53:12 +0000 2012",
+  "id": 215411979605639170,
+  "id_str": "215411979605639170",
+  "text": "#UVA Rector Should Resign: @PilotOpinion: http://t.co/KoW2TtJE",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 370859141,
+    "id_str": "370859141",
+    "name": "Jennifer McClellan",
+    "screen_name": "JennMcClellanVA",
+    "location": "Richmond, VA",
+    "description": "Member of the Virginia House of Delegates (71st District).  Wife of @davemillsva. Mom of Jack.",
+    "url": "http://www.jennifermcclellan.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.jennifermcclellan.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1320,
+    "friends_count": 642,
+    "listed_count": 64,
+    "created_at": "Fri Sep 09 19:14:57 +0000 2011",
+    "favourites_count": 27,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4861,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1536419204/n810482499_1397134_7818403_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1536419204/n810482499_1397134_7818403_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/KoW2TtJE",
+        "expanded_url": "http://hamptonroads.com/2012/06/uvas-rector-should-resign",
+        "display_url": "hamptonroads.com/2012/06/uvas-r…",
+        "indices": [
+          42,
+          62
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PilotOpinion",
+        "name": "Pilot Opinion",
+        "id": 195783230,
+        "id_str": "195783230",
+        "indices": [
+          27,
+          40
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

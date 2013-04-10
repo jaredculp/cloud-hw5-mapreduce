@@ -1,0 +1,135 @@
+{
+  "created_at": "Tue Jun 26 21:11:25 +0000 2012",
+  "id": 217726784244953088,
+  "id_str": "217726784244953088",
+  "text": "@oh_MG_its_PAULU -It's not a #GoodBye, it's an #IllSeeYouLater! Treasure memories from @UDelaware &amp; make new ones at #UVA! #ItsNotThatFar",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217726058030575619,
+  "in_reply_to_status_id_str": "217726058030575619",
+  "in_reply_to_user_id": 28094119,
+  "in_reply_to_user_id_str": "28094119",
+  "in_reply_to_screen_name": "oh_MG_its_PAULU",
+  "user": {
+    "id": 242368997,
+    "id_str": "242368997",
+    "name": "Zaniah",
+    "screen_name": "EtaVirginis",
+    "location": "Not all who wander are Lost",
+    "description": "This is what an internal monologue looks like. I also have a thing for #tags.",
+    "url": "https://www.facebook.com/pages/The-Adventures-of-Captain-Jack-Harkness/153986247968736",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://www.facebook.com/pages/The-Adventures-of-Captain-Jack-Harkness/153986247968736",
+            "expanded_url": null,
+            "indices": [
+              0,
+              86
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 200,
+    "friends_count": 874,
+    "listed_count": 3,
+    "created_at": "Mon Jan 24 16:36:38 +0000 2011",
+    "favourites_count": 745,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 12304,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2736835990/4076ec22a9df97e0e1f7354f4c33dc67_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2736835990/4076ec22a9df97e0e1f7354f4c33dc67_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "GoodBye",
+        "indices": [
+          29,
+          37
+        ]
+      },
+      {
+        "text": "IllSeeYouLater",
+        "indices": [
+          47,
+          62
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          121,
+          125
+        ]
+      },
+      {
+        "text": "ItsNotThatFar",
+        "indices": [
+          127,
+          141
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "oh_MG_its_PAULU",
+        "name": "Marc Paulo Guzman",
+        "id": 28094119,
+        "id_str": "28094119",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "UDelaware",
+        "name": "Univ. of Delaware",
+        "id": 29447487,
+        "id_str": "29447487",
+        "indices": [
+          87,
+          97
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

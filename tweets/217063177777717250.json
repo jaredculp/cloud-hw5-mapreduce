@@ -1,0 +1,107 @@
+{
+  "created_at": "Mon Jun 25 01:14:29 +0000 2012",
+  "id": 217063177777717250,
+  "id_str": "217063177777717250",
+  "text": "@UVA  27 speakers at #rally4honor 2day? I understand the #BoV made a deplorable decision but it takes 27 diff ppl to iterate that? #overkill",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 191316254,
+    "id_str": "191316254",
+    "name": "Derrick Austin",
+    "screen_name": "ValleyWahoo",
+    "location": "Shenandoah Valley, Virginia",
+    "description": "University of Virginia Class of 2012 Grad #politics #sports #HTTR #fitness #natitude #Jesus #style #books #uva #cooking",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 52,
+    "friends_count": 176,
+    "listed_count": 0,
+    "created_at": "Thu Sep 16 04:02:28 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 167,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/583657057/r3406gscg67l6o3jx845.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/583657057/r3406gscg67l6o3jx845.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2938669878/68848fe5419de8417df0b8e05edf7f7d_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2938669878/68848fe5419de8417df0b8e05edf7f7d_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/191316254/1354782121",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "rally4honor",
+        "indices": [
+          21,
+          33
+        ]
+      },
+      {
+        "text": "BoV",
+        "indices": [
+          57,
+          61
+        ]
+      },
+      {
+        "text": "overkill",
+        "indices": [
+          131,
+          140
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

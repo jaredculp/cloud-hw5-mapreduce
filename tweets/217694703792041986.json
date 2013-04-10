@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 19:03:56 +0000 2012",
+  "id": 217694703792041986,
+  "id_str": "217694703792041986",
+  "text": "Watching University of Virginia Board discuss the Sullivan debacle. #UVA http://t.co/RapwAH5k via @livestream",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3089331,
+    "id_str": "3089331",
+    "name": "Matt Brown",
+    "screen_name": "thehangedman",
+    "location": "Dallas, TX",
+    "description": "Assistant Professor of Philosophy, UT-Dallas\r\nDirector, Center for Values in Medicine, Science, and Technology",
+    "url": "http://about.me/thehangedman",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://about.me/thehangedman",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 496,
+    "friends_count": 225,
+    "listed_count": 52,
+    "created_at": "Sun Apr 01 00:05:42 +0000 2007",
+    "favourites_count": 62,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3798,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1454119601/Photo_on_2010-10-20_at_13.36_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1454119601/Photo_on_2010-10-20_at_13.36_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          68,
+          72
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/RapwAH5k",
+        "expanded_url": "http://livestre.am/9vu1",
+        "display_url": "livestre.am/9vu1",
+        "indices": [
+          73,
+          93
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Livestream",
+        "name": "Livestream",
+        "id": 6375322,
+        "id_str": "6375322",
+        "indices": [
+          98,
+          109
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,112 @@
+{
+  "created_at": "Sun Jun 24 02:32:28 +0000 2012",
+  "id": 216720418189488128,
+  "id_str": "216720418189488128",
+  "text": "LE BISTROT: Hoja de #UVA $3,00 (6 Unidades) - Foto por @yulaicesar -   @Le_Bistrot - CC La Piazza Samborondon http://t.co/PhlIaGXA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 212005903,
+    "id_str": "212005903",
+    "name": "Que hacer hoy?",
+    "screen_name": "quehacer_Hoy",
+    "location": "Guayaquil, Ecuador",
+    "description": "@quehacer_Hoy Es la Primera GUIA DIARIA #RESTAURANTES #BARES #EVENTOS #CULTURA #CINE #DIVERSION y Más!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 64346,
+    "friends_count": 27544,
+    "listed_count": 258,
+    "created_at": "Thu Nov 04 21:49:35 +0000 2010",
+    "favourites_count": 4586,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 49518,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "83946F",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/667068405/c9f9a1b73de63b72c22ecf511f3970c1.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/667068405/c9f9a1b73de63b72c22ecf511f3970c1.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2639846249/8ec90d6115f3e6d635a72374c90021c0_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2639846249/8ec90d6115f3e6d635a72374c90021c0_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/212005903/1348373644",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/PhlIaGXA",
+        "expanded_url": "http://lockerz.com/s/188286350",
+        "display_url": "lockerz.com/s/188286350",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "yulaicesar",
+        "name": "Hipnosapo",
+        "id": 49551910,
+        "id_str": "49551910",
+        "indices": [
+          55,
+          66
+        ]
+      },
+      {
+        "screen_name": "Le_Bistrot",
+        "name": "Le Bistrot Tannouri",
+        "id": 339990840,
+        "id_str": "339990840",
+        "indices": [
+          71,
+          82
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

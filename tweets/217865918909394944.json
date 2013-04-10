@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed Jun 27 06:24:17 +0000 2012",
+  "id": 217865918909394944,
+  "id_str": "217865918909394944",
+  "text": "MT @TheAtlanticTECH: What was Tuesday’s must-see broadcast? A school administrator’s re-hiring http://t.co/j6wMB3RI #UVA",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19678560,
+    "id_str": "19678560",
+    "name": "Lee Durbin",
+    "screen_name": "lddurbin",
+    "location": "Nottingham",
+    "description": "History, politics, and digital culture from the perspective of a vertically-challenged Welshman. See also: @Renaissance_Hub",
+    "url": "http://t.co/KuFrNG6e",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/KuFrNG6e",
+            "expanded_url": "http://treiglad.wordpress.com/",
+            "display_url": "treiglad.wordpress.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 364,
+    "friends_count": 237,
+    "listed_count": 37,
+    "created_at": "Wed Jan 28 21:50:28 +0000 2009",
+    "favourites_count": 6,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5958,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2611043010/85z28grquywh2lmay5ve_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2611043010/85z28grquywh2lmay5ve_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          116,
+          120
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/j6wMB3RI",
+        "expanded_url": "http://is.gd/cLiBT6",
+        "display_url": "is.gd/cLiBT6",
+        "indices": [
+          95,
+          115
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TheAtlanticTECH",
+        "name": "TheAtlanticTech",
+        "id": 141335663,
+        "id_str": "141335663",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

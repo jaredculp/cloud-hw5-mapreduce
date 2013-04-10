@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Aug 28 14:49:21 +0000 2012",
+  "id": 240461069544484864,
+  "id_str": "240461069544484864",
+  "text": "Mijn eerste termijn #langstudeerboete is vandaag afgeschreven... #uva @tanjajad",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 54593068,
+    "id_str": "54593068",
+    "name": "Floris Looijesteijn",
+    "screen_name": "florisje",
+    "location": "Amsterdam, Netherlands",
+    "description": "Men noemt mij ook wel 'Hé, jij daar!'",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 217,
+    "friends_count": 433,
+    "listed_count": 13,
+    "created_at": "Tue Jul 07 16:16:20 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2162,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/108788733/coca-cola.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/108788733/coca-cola.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3064258760/0c620e5edf9a4013211b479df86a62e8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3064258760/0c620e5edf9a4013211b479df86a62e8_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "langstudeerboete",
+        "indices": [
+          20,
+          37
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          65,
+          69
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "tanjajad",
+        "name": "Tanja Jadnanansing",
+        "id": 276991796,
+        "id_str": "276991796",
+        "indices": [
+          70,
+          79
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

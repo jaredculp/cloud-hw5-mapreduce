@@ -1,0 +1,104 @@
+{
+  "created_at": "Fri Jun 22 00:27:20 +0000 2012",
+  "id": 215964151690969090,
+  "id_str": "215964151690969090",
+  "text": "@dankuckuck I hope it works out! She sounds great. #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215955906477834240,
+  "in_reply_to_status_id_str": "215955906477834240",
+  "in_reply_to_user_id": 14683189,
+  "in_reply_to_user_id_str": "14683189",
+  "in_reply_to_screen_name": "dankuckuck",
+  "user": {
+    "id": 15496407,
+    "id_str": "15496407",
+    "name": "Jason H. Moore, Ph.D",
+    "screen_name": "moorejh",
+    "location": "Hanover, NH, USA",
+    "description": "Third Century Professor, Director of iQBS.org at Dartmouth College, Bioinformatics, Genetics, Genomics, Epistasis, Complexity, BigData",
+    "url": "http://www.epistasis.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.epistasis.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3819,
+    "friends_count": 937,
+    "listed_count": 304,
+    "created_at": "Sat Jul 19 23:10:24 +0000 2008",
+    "favourites_count": 165,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 12913,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/289160272/Jason-Science-resized_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/289160272/Jason-Science-resized_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          51,
+          55
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dankuckuck",
+        "name": "Dan Kuckuck",
+        "id": 14683189,
+        "id_str": "14683189",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jun 20 17:56:27 +0000 2012",
+  "id": 215503394834612225,
+  "id_str": "215503394834612225",
+  "text": "Wow! RT @cavalierdaily: #UVA Microbiology Prof. Ian Macara has resigned, according to @HenryGraff at @NBC29",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 316704618,
+    "id_str": "316704618",
+    "name": "Michelle Murphy",
+    "screen_name": "MCMurphy82",
+    "location": "Atlanta, GA",
+    "description": "Middle School science teacher interested in education, food, photography, travel, and observing life around me at a more leisurely pace.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 32,
+    "friends_count": 21,
+    "listed_count": 3,
+    "created_at": "Mon Jun 13 21:02:05 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 109,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/269517163/Inspire.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/269517163/Inspire.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1394676695/Inspire_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1394676695/Inspire_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          24,
+          28
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          8,
+          22
+        ]
+      },
+      {
+        "screen_name": "HenryGraff",
+        "name": "Henry Graff",
+        "id": 65287423,
+        "id_str": "65287423",
+        "indices": [
+          86,
+          97
+        ]
+      },
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          101,
+          107
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

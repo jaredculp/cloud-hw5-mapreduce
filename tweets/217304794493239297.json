@@ -1,0 +1,102 @@
+{
+  "created_at": "Mon Jun 25 17:14:34 +0000 2012",
+  "id": 217304794493239297,
+  "id_str": "217304794493239297",
+  "text": "@hsilverbergwtop @WTOP #UVA divided?  Based upon what evidence?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217304086251442177,
+  "in_reply_to_status_id_str": "217304086251442177",
+  "in_reply_to_user_id": 205360834,
+  "in_reply_to_user_id_str": "205360834",
+  "in_reply_to_screen_name": "hsilverbergwtop",
+  "user": {
+    "id": 25095651,
+    "id_str": "25095651",
+    "name": "Lou Hablas",
+    "screen_name": "LouJH",
+    "location": "Alpharetta, GA",
+    "description": "technology, photography, cycling/fitness, all things UVA, meeting new people, my family, and Jesus Christ...life is good.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 338,
+    "friends_count": 698,
+    "listed_count": 2,
+    "created_at": "Wed Mar 18 15:57:22 +0000 2009",
+    "favourites_count": 10,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 416,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/385148212/twilk_background_4eef8dbdc3606.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/385148212/twilk_background_4eef8dbdc3606.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/396772151/twitterProfilePhoto_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/396772151/twitterProfilePhoto_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          23,
+          27
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "hsilverbergwtop",
+        "name": "Hank Silverberg",
+        "id": 205360834,
+        "id_str": "205360834",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "WTOP",
+        "name": "WTOP ",
+        "id": 17906632,
+        "id_str": "17906632",
+        "indices": [
+          17,
+          22
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,116 @@
+{
+  "created_at": "Wed Jun 27 00:12:14 +0000 2012",
+  "id": 217772289222119424,
+  "id_str": "217772289222119424",
+  "text": "@GabrielKNelson UM alum ey? well i'm (@bernzzi) a #uva grad so got respect for public school products. press release coming later this week.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 400171041,
+  "in_reply_to_user_id_str": "400171041",
+  "in_reply_to_screen_name": "GabrielKNelson",
+  "user": {
+    "id": 351124495,
+    "id_str": "351124495",
+    "name": "Clean Coalition",
+    "screen_name": "Clean_Coalition",
+    "location": "Palo Alto, CA",
+    "description": "Making Clean Local Energy Accessible Now. We accelerate the transition to local energy systems.",
+    "url": "http://t.co/dPbT0R0g",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/dPbT0R0g",
+            "expanded_url": "http://www.clean-coalition.org",
+            "display_url": "clean-coalition.org",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 611,
+    "friends_count": 864,
+    "listed_count": 23,
+    "created_at": "Mon Aug 08 20:37:33 +0000 2011",
+    "favourites_count": 37,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1380,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3144843362/68b800dc6354523c912f1886675b0539_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3144843362/68b800dc6354523c912f1886675b0539_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/351124495/1357942151",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          50,
+          54
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GabrielKNelson",
+        "name": "Gabe Nelson",
+        "id": 400171041,
+        "id_str": "400171041",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "bernzzi",
+        "name": "John Bernhardt",
+        "id": 64028067,
+        "id_str": "64028067",
+        "indices": [
+          38,
+          46
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

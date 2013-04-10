@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 19 17:10:43 +0000 2012",
+  "id": 215129495798161408,
+  "id_str": "215129495798161408",
+  "text": "So #UVa hires as interim president a professor of \"strategic management\".  Classy, #BoV, classy: http://t.co/5g7gvUrR",
+  "source": "<a href=\"http://identi.ca\" rel=\"nofollow\">identica</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 146645515,
+    "id_str": "146645515",
+    "name": "Nicholas Knouf",
+    "screen_name": "zeitkunst",
+    "location": "",
+    "description": "",
+    "url": "http://zeitkunst.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://zeitkunst.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 243,
+    "friends_count": 654,
+    "listed_count": 14,
+    "created_at": "Sat May 22 00:22:56 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1732,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1185333413/n701851_30691150_1741_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1185333413/n701851_30691150_1741_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          3,
+          7
+        ]
+      },
+      {
+        "text": "BoV",
+        "indices": [
+          83,
+          87
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/5g7gvUrR",
+        "expanded_url": "http://is.gd/SfPRPb",
+        "display_url": "is.gd/SfPRPb",
+        "indices": [
+          97,
+          117
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

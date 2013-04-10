@@ -1,0 +1,127 @@
+{
+  "created_at": "Tue Jun 26 02:12:31 +0000 2012",
+  "id": 217440172265058305,
+  "id_str": "217440172265058305",
+  "text": "RT @odpllc: He nailed it again.  Listen to @sivavaid talking with @coybarefoot on WINA.  http://t.co/xEP7rEEz",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22738664,
+    "id_str": "22738664",
+    "name": "Melody Moezzi",
+    "screen_name": "MelodyMoezzi",
+    "location": "Raleigh, NC",
+    "description": "Writer, Speaker, Commentator, Attorney, Author, Activist, Iranian-American Muslimah, Mental Health Advocate, Anarchist Sufi, Avid Hooper...",
+    "url": "http://www.melodymoezzi.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.melodymoezzi.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2007,
+    "friends_count": 98,
+    "listed_count": 176,
+    "created_at": "Wed Mar 04 05:30:45 +0000 2009",
+    "favourites_count": 11,
+    "utc_offset": 12600,
+    "time_zone": "Tehran",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10146,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/63851818/28657.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/63851818/28657.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/398539296/28657__1__normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/398539296/28657__1__normal.jpg",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xEP7rEEz",
+        "expanded_url": "http://www.wina.com/play_window.php?audioType=Episode&audioId=5913287",
+        "display_url": "wina.com/play_window.ph…",
+        "indices": [
+          89,
+          109
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ODPllc",
+        "name": "Gary Α. Κriebel",
+        "id": 12074812,
+        "id_str": "12074812",
+        "indices": [
+          3,
+          10
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          43,
+          52
+        ]
+      },
+      {
+        "screen_name": "coybarefoot",
+        "name": "Coy Barefoot",
+        "id": 164530478,
+        "id_str": "164530478",
+        "indices": [
+          66,
+          78
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

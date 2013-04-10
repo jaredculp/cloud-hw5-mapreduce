@@ -1,0 +1,127 @@
+{
+  "created_at": "Fri Jun 22 21:14:57 +0000 2012",
+  "id": 216278122688024576,
+  "id_str": "216278122688024576",
+  "text": "Pilot online story re: @bobmcdonnell letter to #UVA board: http://t.co/zJRrzcMA\n#va #politics",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18727438,
+    "id_str": "18727438",
+    "name": "PilotOnPolitics",
+    "screen_name": "PilotOnPolitics",
+    "location": "Norfolk, Va.",
+    "description": "Reporter Julian Walker's feed of political and government news from The Virginian-Pilot and Pilot on Politics blog.",
+    "url": "http://hamptonroads.com/blogs/pilot-politics",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://hamptonroads.com/blogs/pilot-politics",
+            "expanded_url": null,
+            "indices": [
+              0,
+              44
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1664,
+    "friends_count": 1000,
+    "listed_count": 107,
+    "created_at": "Wed Jan 07 16:39:30 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2639,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2C4A71",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/3920105/pilotOnPolitics.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/3920105/pilotOnPolitics.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/71315309/pPilot_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/71315309/pPilot_normal.jpg",
+    "profile_link_color": "0008FA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "66C5F4",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          47,
+          51
+        ]
+      },
+      {
+        "text": "va",
+        "indices": [
+          80,
+          83
+        ]
+      },
+      {
+        "text": "politics",
+        "indices": [
+          84,
+          93
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zJRrzcMA",
+        "expanded_url": "http://bit.ly/MAZkuD",
+        "display_url": "bit.ly/MAZkuD",
+        "indices": [
+          59,
+          79
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          23,
+          36
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

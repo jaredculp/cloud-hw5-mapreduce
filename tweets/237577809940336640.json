@@ -1,0 +1,96 @@
+{
+  "created_at": "Mon Aug 20 15:52:18 +0000 2012",
+  "id": 237577809940336640,
+  "id_str": "237577809940336640",
+  "text": "RT if you go to #UVA!",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 53690331,
+    "id_str": "53690331",
+    "name": "Sheree",
+    "screen_name": "ShereeTweets_",
+    "location": "Columbus,OH ",
+    "description": "Just follow me! & get to know the rest of me later.",
+    "url": "http://www.youtube.com/shereeroberson1",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.youtube.com/shereeroberson1",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 497,
+    "friends_count": 478,
+    "listed_count": 1,
+    "created_at": "Sat Jul 04 15:23:47 +0000 2009",
+    "favourites_count": 12,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10141,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/759129077/d26867331a52375701aaab0009753c90.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/759129077/d26867331a52375701aaab0009753c90.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3170583791/961533f692e16a39f6caabad6436b680_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3170583791/961533f692e16a39f6caabad6436b680_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/53690331/1360099742",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E93366",
+    "profile_text_color": "7B7E2F",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          16,
+          20
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,105 @@
+{
+  "created_at": "Fri Jun 22 16:06:19 +0000 2012",
+  "id": 216200451580891137,
+  "id_str": "216200451580891137",
+  "text": "@rortybomb it makes the same mistake everyone's making about #UVA, framing sullivan as external to the corporatization of the university.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216195023035826177,
+  "in_reply_to_status_id_str": "216195023035826177",
+  "in_reply_to_user_id": 48132847,
+  "in_reply_to_user_id_str": "48132847",
+  "in_reply_to_screen_name": "rortybomb",
+  "user": {
+    "id": 82255477,
+    "id_str": "82255477",
+    "name": "reclaim UC",
+    "screen_name": "reclaimuc",
+    "location": "",
+    "description": "whoever tweets as @reclaimuc",
+    "url": "http://reclaimuc.blogspot.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://reclaimuc.blogspot.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2207,
+    "friends_count": 720,
+    "listed_count": 138,
+    "created_at": "Wed Oct 14 02:29:31 +0000 2009",
+    "favourites_count": 1305,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11437,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/544481766/ba-ucprotest_187_0500866644_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/544481766/ba-ucprotest_187_0500866644_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/82255477/1353721562",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          61,
+          65
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rortybomb",
+        "name": "Mike Konczal",
+        "id": 48132847,
+        "id_str": "48132847",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

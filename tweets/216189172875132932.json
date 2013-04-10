@@ -1,0 +1,120 @@
+{
+  "created_at": "Fri Jun 22 15:21:30 +0000 2012",
+  "id": 216189172875132932,
+  "id_str": "216189172875132932",
+  "text": "#UVa is at No. 21 in @247Sports team rankings after Donta Wilkins commit. Top two #Cavs commits from in state http://t.co/rXJcsTl6",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 43468438,
+    "id_str": "43468438",
+    "name": "Chad Carson",
+    "screen_name": "ChadCarson247",
+    "location": "Nashville, Tenn.",
+    "description": "Your team, all the time @247Sports",
+    "url": "http://www.247sports.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.247sports.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 241,
+    "friends_count": 919,
+    "listed_count": 6,
+    "created_at": "Sat May 30 03:05:01 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 480,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2230280717/247_logo200_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2230280717/247_logo200_normal.jpg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Cavs",
+        "indices": [
+          82,
+          87
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/rXJcsTl6",
+        "expanded_url": "http://bit.ly/N86c1F",
+        "display_url": "bit.ly/N86c1F",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "247Sports",
+        "name": "247Sports",
+        "id": 151595281,
+        "id_str": "151595281",
+        "indices": [
+          21,
+          31
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

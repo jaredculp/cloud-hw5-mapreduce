@@ -1,0 +1,112 @@
+{
+  "created_at": "Sun Aug 19 18:26:10 +0000 2012",
+  "id": 237254142064742400,
+  "id_str": "237254142064742400",
+  "text": "@dallascowboys Kevin ogleetree #cowboysnation #UVA",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 237251411925143552,
+  "in_reply_to_status_id_str": "237251411925143552",
+  "in_reply_to_user_id": 8824902,
+  "in_reply_to_user_id_str": "8824902",
+  "in_reply_to_screen_name": "dallascowboys",
+  "user": {
+    "id": 33839552,
+    "id_str": "33839552",
+    "name": "Kev Hoyle",
+    "screen_name": "KevHoyleJr",
+    "location": "USA, Iraq & Kuwait",
+    "description": "Kev, cool, handsome, charming........yea thats me #teamHoyle, #teamnohairdontcare",
+    "url": "http://t.co/f7loa16q",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/f7loa16q",
+            "expanded_url": "http://www.dallascowboys.com",
+            "display_url": "dallascowboys.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 58,
+    "friends_count": 65,
+    "listed_count": 0,
+    "created_at": "Tue Apr 21 07:07:55 +0000 2009",
+    "favourites_count": 56,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4106,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/428111970/sunset.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/428111970/sunset.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2957615691/d5880d77f770b0c03250bb881c14a923_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2957615691/d5880d77f770b0c03250bb881c14a923_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cowboysnation",
+        "indices": [
+          31,
+          45
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          46,
+          50
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dallascowboys",
+        "name": "Dallas Cowboys",
+        "id": 8824902,
+        "id_str": "8824902",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

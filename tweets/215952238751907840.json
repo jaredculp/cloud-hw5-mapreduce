@@ -1,0 +1,110 @@
+{
+  "created_at": "Thu Jun 21 23:40:00 +0000 2012",
+  "id": 215952238751907840,
+  "id_str": "215952238751907840",
+  "text": "Satellite problems prevented #UVA professor William Wulf from joining this segment. #keepingitreal",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 393588826,
+    "id_str": "393588826",
+    "name": "TYT on Current TV",
+    "screen_name": "TYTonCurrent",
+    "location": "Los Angeles",
+    "description": "The Young Turks with Cenk Uygur airs MON-THURS at 7E/4P on Current TV. Go to http://t.co/oc4pv0BH for channel info.",
+    "url": "http://current.com/theyoungturks",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://current.com/theyoungturks",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/oc4pv0BH",
+            "expanded_url": "http://current.com/GetTYT",
+            "display_url": "current.com/GetTYT",
+            "indices": [
+              77,
+              97
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 13958,
+    "friends_count": 1730,
+    "listed_count": 434,
+    "created_at": "Tue Oct 18 19:26:33 +0000 2011",
+    "favourites_count": 196,
+    "utc_offset": -32400,
+    "time_zone": "Alaska",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11290,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/776102502/6fc48168bca373c70aa5d42b20b3ded2.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/776102502/6fc48168bca373c70aa5d42b20b3ded2.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1676328441/TYT_twittericon7_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1676328441/TYT_twittericon7_normal.jpg",
+    "profile_link_color": "A00404",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          29,
+          33
+        ]
+      },
+      {
+        "text": "keepingitreal",
+        "indices": [
+          84,
+          98
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

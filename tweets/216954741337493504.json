@@ -1,0 +1,110 @@
+{
+  "created_at": "Sun Jun 24 18:03:35 +0000 2012",
+  "id": 216954741337493504,
+  "id_str": "216954741337493504",
+  "text": "Yirando por areco team #Uva @joakrobles @lualdicandela #LuTommasi",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 70874358,
+    "id_str": "70874358",
+    "name": "Micaela La Forgia",
+    "screen_name": "laforgiamicaela",
+    "location": "Argentina",
+    "description": "Única en el mundo como el Fernet Branca.. Fiel guindera.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 635,
+    "friends_count": 252,
+    "listed_count": 8,
+    "created_at": "Wed Sep 02 03:46:14 +0000 2009",
+    "favourites_count": 2329,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 20124,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3180550677/5a6d31db23b4a1d5953d5b49ea282226_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3180550677/5a6d31db23b4a1d5953d5b49ea282226_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/70874358/1355978803",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          23,
+          27
+        ]
+      },
+      {
+        "text": "LuTommasi",
+        "indices": [
+          55,
+          65
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "joakrobles",
+        "name": "Cuaki",
+        "id": 212379237,
+        "id_str": "212379237",
+        "indices": [
+          28,
+          39
+        ]
+      },
+      {
+        "screen_name": "lualdicandela",
+        "name": "Candela Lualdi",
+        "id": 186586152,
+        "id_str": "186586152",
+        "indices": [
+          40,
+          54
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

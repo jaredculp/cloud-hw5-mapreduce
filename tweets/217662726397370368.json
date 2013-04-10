@@ -1,0 +1,133 @@
+{
+  "created_at": "Tue Jun 26 16:56:52 +0000 2012",
+  "id": 217662726397370368,
+  "id_str": "217662726397370368",
+  "text": "@imarleneking Are we gonna see again Doctor #Sullivan!? #PLL",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 23807048,
+  "in_reply_to_user_id_str": "23807048",
+  "in_reply_to_screen_name": "imarleneking",
+  "user": {
+    "id": 370110686,
+    "id_str": "370110686",
+    "name": "Claudio Mandelli",
+    "screen_name": "Niklaudio",
+    "location": "",
+    "description": "... And now I cry in the middle of the night for the same damn thing. \r\n[Because of you - Kelly Clarkson] ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 44,
+    "friends_count": 122,
+    "listed_count": 0,
+    "created_at": "Thu Sep 08 13:45:45 +0000 2011",
+    "favourites_count": 11,
+    "utc_offset": 3600,
+    "time_zone": "Rome",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2862,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/690952189/101a1818a1c8a2d043517b45e51d550a.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/690952189/101a1818a1c8a2d043517b45e51d550a.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1834303688/iu_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1834303688/iu_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/370110686/1348269236",
+    "profile_link_color": "2A0FF7",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "fb5c652924583383",
+    "url": "https://api.twitter.com/1.1/geo/id/fb5c652924583383.json",
+    "place_type": "city",
+    "name": "Villasanta",
+    "full_name": "Villasanta, Monza e Brianza",
+    "country_code": "IT",
+    "country": "Italy",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            9.295286,
+            45.592765
+          ],
+          [
+            9.32552,
+            45.592765
+          ],
+          [
+            9.32552,
+            45.621695
+          ],
+          [
+            9.295286,
+            45.621695
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          44,
+          53
+        ]
+      },
+      {
+        "text": "PLL",
+        "indices": [
+          56,
+          60
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "imarleneking",
+        "name": "Marlene King",
+        "id": 23807048,
+        "id_str": "23807048",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

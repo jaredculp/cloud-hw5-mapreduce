@@ -1,0 +1,93 @@
+{
+  "created_at": "Tue Jun 26 19:49:48 +0000 2012",
+  "id": 217706244524343297,
+  "id_str": "217706244524343297",
+  "text": "@uva All the best President Sullivan. Glad to see you're back!! #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 1910771,
+  "in_reply_to_user_id_str": "1910771",
+  "in_reply_to_screen_name": "UVA",
+  "user": {
+    "id": 63236303,
+    "id_str": "63236303",
+    "name": "Chris Kelley",
+    "screen_name": "cmk_1",
+    "location": "Scituate, MA",
+    "description": "Coastal New Englander wouldn't live anywhere else. Husband to Laura, father to Grendel, proud old Wahoo, fair tennis player, hockey fan, prep. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 84,
+    "friends_count": 180,
+    "listed_count": 3,
+    "created_at": "Wed Aug 05 19:53:46 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 249,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/734667690/c196742da968170ebbffd26cdead0ffa.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/734667690/c196742da968170ebbffd26cdead0ffa.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3042975753/3db714ec46921e6f1897775bfa10cbb1_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3042975753/3db714ec46921e6f1897775bfa10cbb1_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/63236303/1355179787",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          64,
+          68
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

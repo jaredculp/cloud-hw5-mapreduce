@@ -1,0 +1,109 @@
+{
+  "created_at": "Tue Jun 19 20:49:51 +0000 2012",
+  "id": 215184644595920896,
+  "id_str": "215184644595920896",
+  "text": "For the latest on #Sullivan and the fallout at #UVa, follow @dp_citybeat, @DailyProgTed and @dp_Albemarle",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 82451567,
+    "id_str": "82451567",
+    "name": "Daily Progress",
+    "screen_name": "cavalierinsider",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2024,
+    "friends_count": 231,
+    "listed_count": 84,
+    "created_at": "Wed Oct 14 20:36:45 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10607,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/511554717/cav_twitter_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/511554717/cav_twitter_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          18,
+          27
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DailyProgTed",
+        "name": "Ted Strong, reporter",
+        "id": 365027838,
+        "id_str": "365027838",
+        "indices": [
+          74,
+          87
+        ]
+      },
+      {
+        "screen_name": "dp_Albemarle",
+        "name": "Aaron Richardson",
+        "id": 469441060,
+        "id_str": "469441060",
+        "indices": [
+          92,
+          105
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

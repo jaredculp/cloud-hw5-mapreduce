@@ -1,0 +1,107 @@
+{
+  "created_at": "Thu Jun 21 03:18:49 +0000 2012",
+  "id": 215644917572186113,
+  "id_str": "215644917572186113",
+  "text": "@NBC29 Got super excited that this was a new twist in the #UVA #sullygate debacle. Alas :( #ineedanewconspiracytheory",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215642902116831235,
+  "in_reply_to_status_id_str": "215642902116831235",
+  "in_reply_to_user_id": 15009049,
+  "in_reply_to_user_id_str": "15009049",
+  "in_reply_to_screen_name": "NBC29",
+  "user": {
+    "id": 42554828,
+    "id_str": "42554828",
+    "name": "Jostlin'",
+    "screen_name": "kickitamor203",
+    "location": "charlottesville, va",
+    "description": "be good or be good at it.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 75,
+    "friends_count": 196,
+    "listed_count": 1,
+    "created_at": "Tue May 26 03:30:16 +0000 2009",
+    "favourites_count": 681,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2977,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "272432",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/753056068/eecfadec312b7ab0205ecefb08b771c0.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/753056068/eecfadec312b7ab0205ecefb08b771c0.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1821691024/GoodThingsComeToThoseWhoFrat_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1821691024/GoodThingsComeToThoseWhoFrat_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/42554828/1356156481",
+    "profile_link_color": "D9015D",
+    "profile_sidebar_border_color": "A9C8B2",
+    "profile_sidebar_fill_color": "9FC436",
+    "profile_text_color": "E6741D",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          58,
+          62
+        ]
+      },
+      {
+        "text": "sullygate",
+        "indices": [
+          63,
+          73
+        ]
+      },
+      {
+        "text": "ineedanewconspiracytheory",
+        "indices": [
+          91,
+          117
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "NBC29",
+        "name": "NBC29",
+        "id": 15009049,
+        "id_str": "15009049",
+        "indices": [
+          0,
+          6
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

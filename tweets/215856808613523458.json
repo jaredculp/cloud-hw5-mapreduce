@@ -1,0 +1,105 @@
+{
+  "created_at": "Thu Jun 21 17:20:48 +0000 2012",
+  "id": 215856808613523458,
+  "id_str": "215856808613523458",
+  "text": "The More or Less Unanimous Declaration of the Board of Visitors http://t.co/enXCmzWl #uva",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 12886812,
+    "id_str": "12886812",
+    "name": "Ben Lopatin",
+    "screen_name": "bennylope",
+    "location": "Arlington, VA",
+    "description": "Principal @wellfire, Djangonaut, climber of rock, cataloger of beer. I leverage synergies.",
+    "url": "http://benlopatin.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://benlopatin.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 314,
+    "friends_count": 354,
+    "listed_count": 19,
+    "created_at": "Wed Jan 30 21:10:19 +0000 2008",
+    "favourites_count": 314,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3867,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FCFDFD",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/383448235/IMGP1222.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/383448235/IMGP1222.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/50565872/profile_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/50565872/profile_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/12886812/1348003135",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "B0B6BC",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          85,
+          89
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/enXCmzWl",
+        "expanded_url": "http://crookedtimber.org/2012/06/20/the-declaration-of-independence/",
+        "display_url": "crookedtimber.org/2012/06/20/the…",
+        "indices": [
+          64,
+          84
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

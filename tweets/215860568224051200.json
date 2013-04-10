@@ -1,0 +1,102 @@
+{
+  "created_at": "Thu Jun 21 17:35:44 +0000 2012",
+  "id": 215860568224051200,
+  "id_str": "215860568224051200",
+  "text": "@fxnopinion @pmorici1 You must be clairvoyant because no justification has ever been given for the forced resignation of #UVA Pres.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215854616288567296,
+  "in_reply_to_status_id_str": "215854616288567296",
+  "in_reply_to_user_id": 107125748,
+  "in_reply_to_user_id_str": "107125748",
+  "in_reply_to_screen_name": "fxnopinion",
+  "user": {
+    "id": 14003992,
+    "id_str": "14003992",
+    "name": "DKUVA",
+    "screen_name": "DKUVA",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 22,
+    "friends_count": 60,
+    "listed_count": 0,
+    "created_at": "Tue Feb 26 14:23:38 +0000 2008",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 28,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1706143637/StarTrek_Xmas_Lights_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1706143637/StarTrek_Xmas_Lights_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          121,
+          125
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "fxnopinion",
+        "name": "Fox News Opinion",
+        "id": 107125748,
+        "id_str": "107125748",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "PMorici1",
+        "name": "Peter Morici",
+        "id": 332817280,
+        "id_str": "332817280",
+        "indices": [
+          12,
+          21
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

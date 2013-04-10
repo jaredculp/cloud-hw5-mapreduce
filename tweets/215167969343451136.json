@@ -1,0 +1,164 @@
+{
+  "created_at": "Tue Jun 19 19:43:36 +0000 2012",
+  "id": 215167969343451136,
+  "id_str": "215167969343451136",
+  "text": "@svkenney @docpurcell The University has faced worse. Despite current mood and @LarrySabato predictions of doom, it'll survive this too.",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 215163137480073217,
+  "in_reply_to_status_id_str": "215163137480073217",
+  "in_reply_to_user_id": 19788181,
+  "in_reply_to_user_id_str": "19788181",
+  "in_reply_to_screen_name": "svkenney",
+  "user": {
+    "id": 20171636,
+    "id_str": "20171636",
+    "name": "John Schick",
+    "screen_name": "JohnSchick",
+    "location": "Louisa, VA",
+    "description": "You want fries with that? Coach, Teacher, Marketing Guy...and no, I'm not a guru.",
+    "url": "http://www.linkedin.com/in/johntschick",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.linkedin.com/in/johntschick",
+            "expanded_url": null,
+            "indices": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 674,
+    "friends_count": 1249,
+    "listed_count": 34,
+    "created_at": "Thu Feb 05 18:24:07 +0000 2009",
+    "favourites_count": 69,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8616,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/140815851/shithouse2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/140815851/shithouse2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2974405523/8213b16d5eeb3d08172eef59a84e8593_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2974405523/8213b16d5eeb3d08172eef59a84e8593_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/20171636/1349049311",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.09835036,
+      -77.95210392
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.95210392,
+      38.09835036
+    ]
+  },
+  "place": {
+    "id": "dea1eac2d7ef8878",
+    "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json",
+    "place_type": "admin",
+    "name": "Maryland",
+    "full_name": "Maryland, US",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -79.487651,
+            37.886605
+          ],
+          [
+            -74.986282,
+            37.886605
+          ],
+          [
+            -74.986282,
+            39.723037
+          ],
+          [
+            -79.487651,
+            39.723037
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "svkenney",
+        "name": "Shaun Kenney",
+        "id": 19788181,
+        "id_str": "19788181",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "docpurcell",
+        "name": "Tammy Purcell",
+        "id": 19917789,
+        "id_str": "19917789",
+        "indices": [
+          10,
+          21
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          79,
+          91
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

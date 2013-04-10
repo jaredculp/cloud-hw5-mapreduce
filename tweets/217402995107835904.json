@@ -1,0 +1,109 @@
+{
+  "created_at": "Mon Jun 25 23:44:47 +0000 2012",
+  "id": 217402995107835904,
+  "id_str": "217402995107835904",
+  "text": "#alladminsarescum RT @reclaimuc: sympathy for the president? sharp piece from marc bousquet on the #UVA debacle: http://t.co/YpzR7X7g",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 48798034,
+    "id_str": "48798034",
+    "name": "leoriot",
+    "screen_name": "riotleo",
+    "location": "oakland, california",
+    "description": "merryandering around. #longlivetheoaklandcommune & #ftp",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 446,
+    "friends_count": 405,
+    "listed_count": 25,
+    "created_at": "Fri Jun 19 19:14:31 +0000 2009",
+    "favourites_count": 562,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3680,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1694158607/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1694158607/image_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/48798034/1350375455",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "alladminsarescum",
+        "indices": [
+          0,
+          17
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          99,
+          103
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/YpzR7X7g",
+        "expanded_url": "http://chronicle.com/blogs/brainstorm/sympathy-for-the-president/48417",
+        "display_url": "chronicle.com/blogs/brainsto…",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "reclaimuc",
+        "name": "reclaim UC",
+        "id": 82255477,
+        "id_str": "82255477",
+        "indices": [
+          21,
+          31
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,150 @@
+{
+  "created_at": "Tue Jun 26 19:54:42 +0000 2012",
+  "id": 217707478757019648,
+  "id_str": "217707478757019648",
+  "text": "Clever banner. This really is a special place. #UVA http://t.co/30HNOUDQ",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 174924999,
+    "id_str": "174924999",
+    "name": "Erin (EJ) Abdelrazaq",
+    "screen_name": "guynamedErin",
+    "location": "Virginia",
+    "description": "...So if you're wondering why I do the things that I do, honestly I don't know what to say.",
+    "url": "http://ehodgepodge.blogspot.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ehodgepodge.blogspot.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 169,
+    "friends_count": 268,
+    "listed_count": 4,
+    "created_at": "Thu Aug 05 04:37:33 +0000 2010",
+    "favourites_count": 224,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1403,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F0F0",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/698794646/0593ab8730487011278b904bb6a2be01.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/698794646/0593ab8730487011278b904bb6a2be01.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2785186777/bd7fbe4485b1cd296139e2111984249e_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2785186777/bd7fbe4485b1cd296139e2111984249e_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/174924999/1351742466",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "AEB8AD",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.03493619,
+      -78.5036552
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -78.5036552,
+      38.03493619
+    ]
+  },
+  "place": {
+    "id": "a5aee0034fb1fb02",
+    "url": "https://api.twitter.com/1.1/geo/id/a5aee0034fb1fb02.json",
+    "place_type": "city",
+    "name": "Jack Jouett",
+    "full_name": "Jack Jouett, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.593326,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.028576
+          ],
+          [
+            -78.485321,
+            38.143404
+          ],
+          [
+            -78.593326,
+            38.143404
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/30HNOUDQ",
+        "expanded_url": "http://twitpic.com/a0uv18",
+        "display_url": "twitpic.com/a0uv18",
+        "indices": [
+          52,
+          72
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

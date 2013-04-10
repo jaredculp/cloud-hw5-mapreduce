@@ -1,0 +1,154 @@
+{
+  "created_at": "Mon Aug 20 19:45:59 +0000 2012",
+  "id": 237636617928572929,
+  "id_str": "237636617928572929",
+  "text": "@Tim_STL @thesabre Fair warning....i heckle for women's #uva basketball also. So i tweet updates alot. #multisportheckler",
+  "source": "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 237635058750599168,
+  "in_reply_to_status_id_str": "237635058750599168",
+  "in_reply_to_user_id": 17666263,
+  "in_reply_to_user_id_str": "17666263",
+  "in_reply_to_screen_name": "Tim_STL",
+  "user": {
+    "id": 18979015,
+    "id_str": "18979015",
+    "name": "Jason Cavanaugh",
+    "screen_name": "UVA_LF_Heckler",
+    "location": "Palmyra, VA",
+    "description": "Commenting and followingall #UVA sports.  Caps, Nats, O's fan as well.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 86,
+    "friends_count": 126,
+    "listed_count": 5,
+    "created_at": "Wed Jan 14 15:09:00 +0000 2009",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2551,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/414553082/SBZDJGNYMIZMQDB_20100613010410.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/414553082/SBZDJGNYMIZMQDB_20100613010410.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/422325284/camp_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/422325284/camp_normal.jpg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      37.6697911,
+      -77.5652851
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.5652851,
+      37.6697911
+    ]
+  },
+  "place": {
+    "id": "1ec2c16a91f3a0c8",
+    "url": "https://api.twitter.com/1.1/geo/id/1ec2c16a91f3a0c8.json",
+    "place_type": "city",
+    "name": "Three Chopt",
+    "full_name": "Three Chopt, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.654911,
+            37.575114
+          ],
+          [
+            -77.493547,
+            37.575114
+          ],
+          [
+            -77.493547,
+            37.710411
+          ],
+          [
+            -77.654911,
+            37.710411
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          56,
+          60
+        ]
+      },
+      {
+        "text": "multisportheckler",
+        "indices": [
+          103,
+          121
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Tim_STL",
+        "name": "Tim Mulholland",
+        "id": 17666263,
+        "id_str": "17666263",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "thesabre",
+        "name": "The Sabre ",
+        "id": 44639793,
+        "id_str": "44639793",
+        "indices": [
+          9,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

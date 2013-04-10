@@ -1,0 +1,93 @@
+{
+  "created_at": "Mon Jun 18 16:06:21 +0000 2012",
+  "id": 214750910402928640,
+  "id_str": "214750910402928640",
+  "text": "Rotunda marred by graffiti, http://t.co/OZExZAQc #HoosforSullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 45934218,
+    "id_str": "45934218",
+    "name": "Erika Maguire",
+    "screen_name": "wahooowah",
+    "location": "",
+    "description": "Current #UVA M.S. in Commerce graduate student seeking employment in digital or broadcast media.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 49,
+    "friends_count": 294,
+    "listed_count": 0,
+    "created_at": "Tue Jun 09 20:24:08 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 116,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/571248753/qwpgr02vm4difwcy8h51.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/571248753/qwpgr02vm4difwcy8h51.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1958062170/photo1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1958062170/photo1_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/45934218/1354155317",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HoosforSullivan",
+        "indices": [
+          49,
+          65
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/OZExZAQc",
+        "expanded_url": "http://bit.ly/M77l7Z",
+        "display_url": "bit.ly/M77l7Z",
+        "indices": [
+          28,
+          48
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

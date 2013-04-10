@@ -1,0 +1,158 @@
+{
+  "created_at": "Tue Jul 03 15:02:54 +0000 2012",
+  "id": 220170759484608512,
+  "id_str": "220170759484608512",
+  "text": "http://t.co/A2Tz6Q5Q updated 2014 top 75 @PDastrup is # 27 #BYU #UVA #ARIZONA #ASU #USU #STANFORD #OHIOST #FLA #OKLAHOMA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 313963874,
+    "id_str": "313963874",
+    "name": "TDAWGCOUG",
+    "screen_name": "TDAWGCOUG",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1577,
+    "friends_count": 405,
+    "listed_count": 70,
+    "created_at": "Thu Jun 09 14:02:41 +0000 2011",
+    "favourites_count": 44,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6040,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "00009B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/566161630/l5z3wg1u8i5k92ctl6x5.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/566161630/l5z3wg1u8i5k92ctl6x5.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2504293073/p2buage9leu9b1am9vfm_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2504293073/p2buage9leu9b1am9vfm_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/313963874/1353366515",
+    "profile_link_color": "0009B3",
+    "profile_sidebar_border_color": "04094A",
+    "profile_sidebar_fill_color": "04094A",
+    "profile_text_color": "F2EDF2",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BYU",
+        "indices": [
+          59,
+          63
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          64,
+          68
+        ]
+      },
+      {
+        "text": "ARIZONA",
+        "indices": [
+          69,
+          77
+        ]
+      },
+      {
+        "text": "ASU",
+        "indices": [
+          78,
+          82
+        ]
+      },
+      {
+        "text": "USU",
+        "indices": [
+          83,
+          87
+        ]
+      },
+      {
+        "text": "STANFORD",
+        "indices": [
+          88,
+          97
+        ]
+      },
+      {
+        "text": "OHIOST",
+        "indices": [
+          98,
+          105
+        ]
+      },
+      {
+        "text": "FLA",
+        "indices": [
+          106,
+          110
+        ]
+      },
+      {
+        "text": "OKLAHOMA",
+        "indices": [
+          111,
+          120
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/A2Tz6Q5Q",
+        "expanded_url": "http://Scout.com",
+        "display_url": "Scout.com",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PDastrup",
+        "name": "Payton Dastrup",
+        "id": 571277375,
+        "id_str": "571277375",
+        "indices": [
+          41,
+          50
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

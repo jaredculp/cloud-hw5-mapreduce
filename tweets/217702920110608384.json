@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 26 19:36:35 +0000 2012",
+  "id": 217702920110608384,
+  "id_str": "217702920110608384",
+  "text": "I would like to thank &amp; congratulate @rcooper and every other member of the #UVA &amp; #HigherEd community who stood up for what they believe in",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 103862228,
+    "id_str": "103862228",
+    "name": "PJ Coleman",
+    "screen_name": "colemanpj",
+    "location": "Charlottesville, VA",
+    "description": "I tweet about beer, museums, and sometimes stuff.  ",
+    "url": "http://www.flickr.com/photos/pjcoleman/sets/72157604264321329/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.flickr.com/photos/pjcoleman/sets/72157604264321329/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              62
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 210,
+    "friends_count": 209,
+    "listed_count": 23,
+    "created_at": "Mon Jan 11 14:06:10 +0000 2010",
+    "favourites_count": 256,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 657,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/89066947/PJ-Twitter-Background-2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/89066947/PJ-Twitter-Background-2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1095446255/MossBeard-crop_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1095446255/MossBeard-crop_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          80,
+          84
+        ]
+      },
+      {
+        "text": "HigherEd",
+        "indices": [
+          91,
+          100
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "rcooper",
+        "name": "R. Cooper",
+        "id": 5960652,
+        "id_str": "5960652",
+        "indices": [
+          41,
+          49
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

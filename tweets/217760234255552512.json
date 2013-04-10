@@ -1,0 +1,97 @@
+{
+  "created_at": "Tue Jun 26 23:24:20 +0000 2012",
+  "id": 217760234255552512,
+  "id_str": "217760234255552512",
+  "text": "Jon is repping #Charlottesville on Jeopardy #doingwork #UVA",
+  "source": "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 366710849,
+    "id_str": "366710849",
+    "name": "Jacob Farrell",
+    "screen_name": "Jacob_Farrell",
+    "location": "Charlottesville, VA",
+    "description": "I wanna know where the gold at",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 74,
+    "friends_count": 114,
+    "listed_count": 1,
+    "created_at": "Fri Sep 02 17:38:06 +0000 2011",
+    "favourites_count": 20,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 205,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1785704809/Me_and_andrew_as_Calvin_and_Hobbes_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1785704809/Me_and_andrew_as_Calvin_and_Hobbes_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Charlottesville",
+        "indices": [
+          15,
+          31
+        ]
+      },
+      {
+        "text": "doingwork",
+        "indices": [
+          44,
+          54
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          55,
+          59
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

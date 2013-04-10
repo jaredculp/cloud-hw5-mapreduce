@@ -1,0 +1,130 @@
+{
+  "created_at": "Wed Aug 08 17:07:24 +0000 2012",
+  "id": 233248050452242433,
+  "id_str": "233248050452242433",
+  "text": "voor iedereen die thuis vanaf de UvA schijf werkt, let op met opslaan! #UvA #Virus http://t.co/ZUw3AbtJ",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 34587825,
+    "id_str": "34587825",
+    "name": "Ramonboersbroek",
+    "screen_name": "ramonboersbroek",
+    "location": "Amsterdam",
+    "description": "Sociale Geografie (MSc) UvA | Planoloog | fractiemedewerker RO,Milieu,Landbouw provinciale Staten N-Brabant -SP- Contactpersoon Amsterdam Nieuw-West",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 565,
+    "friends_count": 796,
+    "listed_count": 32,
+    "created_at": "Thu Apr 23 11:25:15 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6039,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/123161523/achtergrond_twitter_2.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/123161523/achtergrond_twitter_2.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2759566190/3cbe19210df27ef23de445292a1738b8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2759566190/3cbe19210df27ef23de445292a1738b8_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/34587825/1355612840",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          71,
+          75
+        ]
+      },
+      {
+        "text": "Virus",
+        "indices": [
+          76,
+          82
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 233248050460631040,
+        "id_str": "233248050460631040",
+        "indices": [
+          83,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/media/Azyp3bhCIAAQ-B9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Azyp3bhCIAAQ-B9.jpg",
+        "url": "http://t.co/ZUw3AbtJ",
+        "display_url": "pic.twitter.com/ZUw3AbtJ",
+        "expanded_url": "http://twitter.com/ramonboersbroek/status/233248050452242433/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 366,
+            "h": 359,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 333,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 366,
+            "h": 359,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,130 @@
+{
+  "created_at": "Thu Jun 28 16:09:40 +0000 2012",
+  "id": 218375621993181184,
+  "id_str": "218375621993181184",
+  "text": "\"What We Learned at UVa\" by @sivavaid http://t.co/gbz2as54 via @Smithstorian  #HigherEd #UVa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 35016716,
+    "id_str": "35016716",
+    "name": "Emory Maiden",
+    "screen_name": "evmaiden",
+    "location": "North Carolina",
+    "description": "Instructional Developer & Technologist, Moodler & Coffee Enthusiast. Thoughts expressed here are my own. RT does not imply agreement.",
+    "url": "http://evmaiden.posterous.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://evmaiden.posterous.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1399,
+    "friends_count": 602,
+    "listed_count": 124,
+    "created_at": "Fri Apr 24 19:39:17 +0000 2009",
+    "favourites_count": 3529,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9044,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1735434885/twitterpic_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1735434885/twitterpic_normal.JPG",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HigherEd",
+        "indices": [
+          78,
+          87
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          88,
+          92
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/gbz2as54",
+        "expanded_url": "http://bit.ly/LFZovk",
+        "display_url": "bit.ly/LFZovk",
+        "indices": [
+          38,
+          58
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          28,
+          37
+        ]
+      },
+      {
+        "screen_name": "Smithstorian",
+        "name": "Shannon D. Smith",
+        "id": 16787430,
+        "id_str": "16787430",
+        "indices": [
+          63,
+          76
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

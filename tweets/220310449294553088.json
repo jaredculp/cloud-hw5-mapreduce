@@ -1,0 +1,118 @@
+{
+  "created_at": "Wed Jul 04 00:17:58 +0000 2012",
+  "id": 220310449294553088,
+  "id_str": "220310449294553088",
+  "text": "RT @SoccerInsider: Concussions end another career: #MLS veteran forward Adam Cristman #dcu #uva",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 368394378,
+    "id_str": "368394378",
+    "name": "The Best Soccer Show",
+    "screen_name": "BestSoccerShow",
+    "location": "",
+    "description": "The top rated American soccer show hosted by Jason Davis and Jared DuBois. Available Monday and Thursday mornings at http://NASN.tv/Best",
+    "url": "http://nasn.tv/Best",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://nasn.tv/Best",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6064,
+    "friends_count": 5283,
+    "listed_count": 182,
+    "created_at": "Mon Sep 05 15:29:38 +0000 2011",
+    "favourites_count": 45,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3805,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/332423178/outputSimpleRed_1_00000.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/332423178/outputSimpleRed_1_00000.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1549085115/TBSStwitter_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1549085115/TBSStwitter_normal.png",
+    "profile_link_color": "772E21",
+    "profile_sidebar_border_color": "E3D3C0",
+    "profile_sidebar_fill_color": "E3D3C0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MLS",
+        "indices": [
+          51,
+          55
+        ]
+      },
+      {
+        "text": "dcu",
+        "indices": [
+          86,
+          90
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SoccerInsider",
+        "name": "Steven Goff",
+        "id": 16313045,
+        "id_str": "16313045",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

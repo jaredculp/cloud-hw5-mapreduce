@@ -1,0 +1,105 @@
+{
+  "created_at": "Tue Jul 03 23:55:28 +0000 2012",
+  "id": 220304783234433024,
+  "id_str": "220304783234433024",
+  "text": "@DariusMilez21 Best of luck down at #UVA. Do yourself proud!",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 220297990718488576,
+  "in_reply_to_status_id_str": "220297990718488576",
+  "in_reply_to_user_id": 290868610,
+  "in_reply_to_user_id_str": "290868610",
+  "in_reply_to_screen_name": "DariusMilez21",
+  "user": {
+    "id": 194605955,
+    "id_str": "194605955",
+    "name": "YSC Sports",
+    "screen_name": "yscsports",
+    "location": "Philadelphia",
+    "description": "Home of the @PhilaUnion Youth Academy. Elite soccer specific youth development and athlete performance center. ",
+    "url": "http://www.yscsports.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.yscsports.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1428,
+    "friends_count": 963,
+    "listed_count": 29,
+    "created_at": "Fri Sep 24 15:08:56 +0000 2010",
+    "favourites_count": 731,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4362,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/357685311/dartfish-banner__2_.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/357685311/dartfish-banner__2_.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3121703529/40bf23536ce3b377c0ecb609c0038277_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3121703529/40bf23536ce3b377c0ecb609c0038277_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/194605955/1358452891",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          36,
+          40
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DariusMilez21",
+        "name": "darius madison ",
+        "id": 290868610,
+        "id_str": "290868610",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

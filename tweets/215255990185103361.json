@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Jun 20 01:33:21 +0000 2012",
+  "id": 215255990185103361,
+  "id_str": "215255990185103361",
+  "text": "@hoodatbehere @UVA Digital solutions should also have been addressed well before #Sullivan. Something doesn't seem right abt this rationale.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215254476926369792,
+  "in_reply_to_status_id_str": "215254476926369792",
+  "in_reply_to_user_id": 97459531,
+  "in_reply_to_user_id_str": "97459531",
+  "in_reply_to_screen_name": "hoodatbehere",
+  "user": {
+    "id": 204324915,
+    "id_str": "204324915",
+    "name": "WUVA Online",
+    "screen_name": "WUVAonline",
+    "location": "Charlottesville, VA",
+    "description": "A Multimedia news site for the #UVa community. Completely student run site, the newest branch of WUVA Media. Check us out NOW!",
+    "url": "http://www.wuvaonline.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wuvaonline.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 504,
+    "friends_count": 652,
+    "listed_count": 21,
+    "created_at": "Mon Oct 18 13:07:49 +0000 2010",
+    "favourites_count": 24,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1803,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FD9B32",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/166134002/x17935018a13d0f0e054f8cf06d1345c.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/166134002/x17935018a13d0f0e054f8cf06d1345c.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2913417399/8068660e3a21ee6907b2944b883ecd76_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2913417399/8068660e3a21ee6907b2944b883ecd76_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/204324915/1354250695",
+    "profile_link_color": "C79049",
+    "profile_sidebar_border_color": "543823",
+    "profile_sidebar_fill_color": "031A61",
+    "profile_text_color": "F77A0D",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          81,
+          90
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "hoodatbehere",
+        "name": "hoodatbehere",
+        "id": 97459531,
+        "id_str": "97459531",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          14,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

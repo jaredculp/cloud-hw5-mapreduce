@@ -1,0 +1,121 @@
+{
+  "created_at": "Thu Jun 21 17:30:58 +0000 2012",
+  "id": 215859367344488450,
+  "id_str": "215859367344488450",
+  "text": "\"Existential threats don’t scare us. We’re librarians.\" @nowviskie #RBMS12 keynote edited to reflect the #UVa situation http://t.co/tGAljX0s",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 75913,
+    "id_str": "75913",
+    "name": "jessamyn west",
+    "screen_name": "jessamyn",
+    "location": "vermont",
+    "description": "Rural librarian geek. Collector of mosses.",
+    "url": "http://librarian.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://librarian.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 10281,
+    "friends_count": 785,
+    "listed_count": 1080,
+    "created_at": "Sun Dec 17 19:27:43 +0000 2006",
+    "favourites_count": 68,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 7568,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F0F3FA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/665770591/d4d886f4953b3674f4e117cfbb9daae2.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/665770591/d4d886f4953b3674f4e117cfbb9daae2.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1209380568/mlkshk_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1209380568/mlkshk_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/75913/1348256401",
+    "profile_link_color": "88A0DE",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E2F0EA",
+    "profile_text_color": "263663",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RBMS12",
+        "indices": [
+          67,
+          74
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          105,
+          109
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/tGAljX0s",
+        "expanded_url": "http://is.gd/RsmiPM",
+        "display_url": "is.gd/RsmiPM",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nowviskie",
+        "name": "Bethany Nowviskie",
+        "id": 14221013,
+        "id_str": "14221013",
+        "indices": [
+          56,
+          66
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

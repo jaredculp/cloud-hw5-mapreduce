@@ -1,0 +1,198 @@
+{
+  "created_at": "Tue Jun 19 19:23:23 +0000 2012",
+  "id": 215162879794610176,
+  "id_str": "215162879794610176",
+  "text": "#Vintage #Haywood #Sullivan #Boston #Red #Sox 1959 #Topps 416 #Baseball #Card http://t.co/dLuMQ902 http://t.co/lTuSye1L",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 313738496,
+    "id_str": "313738496",
+    "name": "SelfHelpHow2",
+    "screen_name": "SelfHelpHow2",
+    "location": "CA, USA",
+    "description": "SelfHelpHow2.com created to teach basic computer info & help out with simple projects. All is easy to understand & no major technical talk.",
+    "url": "http://www.selfhelphow2.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.selfhelphow2.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1301,
+    "friends_count": 1735,
+    "listed_count": 26,
+    "created_at": "Thu Jun 09 04:07:01 +0000 2011",
+    "favourites_count": 3,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3215,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/275696930/SelfHelpHow2_Twitter_Logo.3.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/275696930/SelfHelpHow2_Twitter_Logo.3.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1420891416/SHH2_Logo_-_square_400x400_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1420891416/SHH2_Logo_-_square_400x400_normal.png",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "2416A8",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Vintage",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "text": "Haywood",
+        "indices": [
+          9,
+          17
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          18,
+          27
+        ]
+      },
+      {
+        "text": "Boston",
+        "indices": [
+          28,
+          35
+        ]
+      },
+      {
+        "text": "Red",
+        "indices": [
+          36,
+          40
+        ]
+      },
+      {
+        "text": "Sox",
+        "indices": [
+          41,
+          45
+        ]
+      },
+      {
+        "text": "Topps",
+        "indices": [
+          51,
+          57
+        ]
+      },
+      {
+        "text": "Baseball",
+        "indices": [
+          62,
+          71
+        ]
+      },
+      {
+        "text": "Card",
+        "indices": [
+          72,
+          77
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dLuMQ902",
+        "expanded_url": "http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=160827676037#ht_2674wt_1056",
+        "display_url": "cgi.ebay.com/ws/eBayISAPI.d…",
+        "indices": [
+          78,
+          98
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 215162879798804483,
+        "id_str": "215162879798804483",
+        "indices": [
+          99,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/media/Avxpf8tCAAM3U8l.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Avxpf8tCAAM3U8l.jpg",
+        "url": "http://t.co/lTuSye1L",
+        "display_url": "pic.twitter.com/lTuSye1L",
+        "expanded_url": "http://twitter.com/SelfHelpHow2/status/215162879794610176/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 853,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 500,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 283,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

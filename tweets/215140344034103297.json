@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Jun 19 17:53:49 +0000 2012",
+  "id": 215140344034103297,
+  "id_str": "215140344034103297",
+  "text": "Founder of @IATH_Virginia if true. MT @cavalierdaily: Computer Science Prof. Bill Wulf has reportedly resigned from the #UVA faculty",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13598262,
+    "id_str": "13598262",
+    "name": "Matthew Kirschenbaum",
+    "screen_name": "mkirschenbaum",
+    "location": "College Park, Maryland",
+    "description": "Associate Professor of English and Associate Director of MITH, University of Maryland. Digital humanities, games, archives, literature. ",
+    "url": "http://www.mkirschenbaum.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.mkirschenbaum.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3989,
+    "friends_count": 530,
+    "listed_count": 332,
+    "created_at": "Sun Feb 17 21:53:45 +0000 2008",
+    "favourites_count": 115,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9532,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "2B6E51",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/2344726/2255509687_2d6f785851_b.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/2344726/2255509687_2d6f785851_b.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/65216114/mgk-avatar1_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/65216114/mgk-avatar1_normal.jpg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          120,
+          124
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "IATH_Virginia",
+        "name": "IATH",
+        "id": 213355704,
+        "id_str": "213355704",
+        "indices": [
+          11,
+          25
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          38,
+          52
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

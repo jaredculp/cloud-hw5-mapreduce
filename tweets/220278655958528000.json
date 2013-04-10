@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jul 03 22:11:38 +0000 2012",
+  "id": 220278655958528000,
+  "id_str": "220278655958528000",
+  "text": "Have you voted?  We are giving away 5 free microdermabrasions to those who vote for us in the Straight's #BOV Details: http://t.co/G8zNBis1",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 65435168,
+    "id_str": "65435168",
+    "name": "Dermal Laser Centres",
+    "screen_name": "DermalLaser",
+    "location": "Vancouver, BC",
+    "description": "For over 14 years, Dermal Laser has delivered the very best results in skin rejuvenation, laser hair removal and physician-directed BOTOX and dermal fillers.",
+    "url": "http://www.dermallaser.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.dermallaser.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 277,
+    "friends_count": 384,
+    "listed_count": 9,
+    "created_at": "Thu Aug 13 18:47:44 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 286,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/65988897/Texture-lowres.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/65988897/Texture-lowres.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1329203018/Beauty-rgb_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1329203018/Beauty-rgb_normal.jpg",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          105,
+          109
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/G8zNBis1",
+        "expanded_url": "http://www.dermallaser.com/about-us/promotions-contests",
+        "display_url": "dermallaser.com/about-us/promo…",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

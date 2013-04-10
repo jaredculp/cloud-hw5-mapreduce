@@ -1,0 +1,200 @@
+{
+  "created_at": "Tue Jun 26 20:26:05 +0000 2012",
+  "id": 217715377801670656,
+  "id_str": "217715377801670656",
+  "text": "RT @vielmetti: phrase of the day: \"Hoo d'etat\" #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25685298,
+    "id_str": "25685298",
+    "name": "Mythili G. Rao",
+    "screen_name": "MythiliRao",
+    "location": "New York, NY",
+    "description": "producer at @WNYC, sometime book critic",
+    "url": "http://mythiligrao.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://mythiligrao.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 642,
+    "friends_count": 698,
+    "listed_count": 19,
+    "created_at": "Sat Mar 21 15:26:08 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1582,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F7FDFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/209408631/Sauces_all.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/209408631/Sauces_all.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1682363863/picture-1_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1682363863/picture-1_normal.png",
+    "profile_link_color": "CC3333",
+    "profile_sidebar_border_color": "919191",
+    "profile_sidebar_fill_color": "DEDEDE",
+    "profile_text_color": "050405",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jun 26 20:24:13 +0000 2012",
+    "id": 217714906957492224,
+    "id_str": "217714906957492224",
+    "text": "phrase of the day: \"Hoo d'etat\" #uva",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 9272,
+      "id_str": "9272",
+      "name": "Edward Vielmetti",
+      "screen_name": "vielmetti",
+      "location": "Ann Arbor, Michigan",
+      "description": "Online since 1985 from #annarbor. See also @arborwiki , #miwx . Interested in systems and why they fail.",
+      "url": "http://vielmetti.typepad.com/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://vielmetti.typepad.com/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                29
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 3384,
+      "friends_count": 510,
+      "listed_count": 204,
+      "created_at": "Tue Oct 17 19:02:18 +0000 2006",
+      "favourites_count": 2833,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 16893,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/133770716/3mmsquare.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/133770716/3mmsquare.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1595695483/edvielmetti_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1595695483/edvielmetti_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/9272/1353295944",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 4,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "uva",
+          "indices": [
+            32,
+            36
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "user_mentions": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "vielmetti",
+        "name": "Edward Vielmetti",
+        "id": 9272,
+        "id_str": "9272",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

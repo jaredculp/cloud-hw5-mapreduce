@@ -1,0 +1,118 @@
+{
+  "created_at": "Thu Aug 16 22:57:06 +0000 2012",
+  "id": 236235163741323264,
+  "id_str": "236235163741323264",
+  "text": "Early Times http://t.co/fvZRyu4j #DavidBermanPavement #JerseyCity #UVA",
+  "source": "<a href=\"http://www.ajaymatharu.com/\" rel=\"nofollow\">Tweet Old Post</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 523314777,
+    "id_str": "523314777",
+    "name": "FindFollowTweet",
+    "screen_name": "FindFollowTweet",
+    "location": "Florida",
+    "description": "Find follow and tweet your favorite topic.",
+    "url": "http://www.findfollowtweet.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.findfollowtweet.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3352,
+    "friends_count": 3448,
+    "listed_count": 20,
+    "created_at": "Tue Mar 13 14:27:27 +0000 2012",
+    "favourites_count": 2,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 117434,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1894589991/findfollowtweet_avatar_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1894589991/findfollowtweet_avatar_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "DavidBermanPavement",
+        "indices": [
+          33,
+          53
+        ]
+      },
+      {
+        "text": "JerseyCity",
+        "indices": [
+          54,
+          65
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          66,
+          70
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/fvZRyu4j",
+        "expanded_url": "http://music.findfollowtweet.com/early-times/",
+        "display_url": "music.findfollowtweet.com/early-times/",
+        "indices": [
+          12,
+          32
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

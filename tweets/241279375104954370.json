@@ -1,0 +1,123 @@
+{
+  "created_at": "Thu Aug 30 21:01:00 +0000 2012",
+  "id": 241279375104954370,
+  "id_str": "241279375104954370",
+  "text": "Hope to see this sign many times this season: #UVa football http://t.co/cbdLOPkB",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 163707905,
+    "id_str": "163707905",
+    "name": "Will Fitzhugh",
+    "screen_name": "WTFitz99",
+    "location": "Richmond, Va",
+    "description": "Father of a son and an autistic daughter. Lawyer. Collaborative practice.  Reproductive rights.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 71,
+    "friends_count": 146,
+    "listed_count": 0,
+    "created_at": "Wed Jul 07 02:36:58 +0000 2010",
+    "favourites_count": 153,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 185,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2675072069/1d2a22c6f798cb7cff6f1c5c8b2f2587_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2675072069/1d2a22c6f798cb7cff6f1c5c8b2f2587_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/163707905/1349228247",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          46,
+          50
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 241279375109148673,
+        "id_str": "241279375109148673",
+        "indices": [
+          60,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/A1kyUDUCUAELJiw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A1kyUDUCUAELJiw.jpg",
+        "url": "http://t.co/cbdLOPkB",
+        "display_url": "pic.twitter.com/cbdLOPkB",
+        "expanded_url": "http://twitter.com/WTFitz99/status/241279375104954370/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1024,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 340,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

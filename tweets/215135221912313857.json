@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 19 17:33:28 +0000 2012",
+  "id": 215135221912313857,
+  "id_str": "215135221912313857",
+  "text": "@BobMcDonell won't say whether he'll reappoint #UVA rector when her term expires July 1. http://t.co/WBlYue6h",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 457873200,
+  "in_reply_to_user_id_str": "457873200",
+  "in_reply_to_screen_name": "BobMcDonell",
+  "user": {
+    "id": 23764675,
+    "id_str": "23764675",
+    "name": "Times-Dispatch",
+    "screen_name": "RTDNEWS",
+    "location": "Richmond, VA",
+    "description": "The Richmond Times-Dispatch: The daily newspaper serving the Richmond region and Virginia since 1850. ",
+    "url": "http://timesdispatch.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://timesdispatch.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 12675,
+    "friends_count": 394,
+    "listed_count": 681,
+    "created_at": "Wed Mar 11 13:49:05 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 12482,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2927604884/82172a835f367336f72985cc90ae6369_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2927604884/82172a835f367336f72985cc90ae6369_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          47,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WBlYue6h",
+        "expanded_url": "http://bit.ly/MDzhCJ",
+        "display_url": "bit.ly/MDzhCJ",
+        "indices": [
+          89,
+          109
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BobMcDonell",
+        "name": "Bob McDonell",
+        "id": 457873200,
+        "id_str": "457873200",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

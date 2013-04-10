@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 26 16:54:33 +0000 2012",
+  "id": 217662144714518528,
+  "id_str": "217662144714518528",
+  "text": "RT@washingtonpost \"You can move fast, or ..move incrementally. But it doesn't matter unless people follow you.\" http://t.co/G5cJKCoI #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16971448,
+    "id_str": "16971448",
+    "name": "Jeremy Albritton",
+    "screen_name": "jer1912",
+    "location": "Ashburn, VA",
+    "description": "I always expect angels to pee in my beer. ~ Henry Miller. \r\nFinance, marketing, entrepreneurship, UVa sports, classic horror.  ",
+    "url": "http://www.facebook.com/home.php#!/jer1912",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/home.php#!/jer1912",
+            "expanded_url": null,
+            "indices": [
+              0,
+              42
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 64,
+    "friends_count": 146,
+    "listed_count": 1,
+    "created_at": "Sat Oct 25 21:06:50 +0000 2008",
+    "favourites_count": 29,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 582,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1241680477/flip2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1241680477/flip2_normal.jpg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          133,
+          137
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/G5cJKCoI",
+        "expanded_url": "http://wapo.st/OqqAPS",
+        "display_url": "wapo.st/OqqAPS",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          2,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

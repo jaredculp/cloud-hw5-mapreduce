@@ -1,0 +1,99 @@
+{
+  "created_at": "Thu Jun 21 02:43:24 +0000 2012",
+  "id": 215636006404239360,
+  "id_str": "215636006404239360",
+  "text": "#uva RT @djgarciapr: Medallita en #Miami http://t.co/i8F5Rwkc",
+  "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 28210197,
+    "id_str": "28210197",
+    "name": "maru nevarez",
+    "screen_name": "marukitas",
+    "location": "Puerto Rico",
+    "description": "Desde el '88 con material pa' repartir. Lo q nose me lo invento.....brega con eso! ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 594,
+    "friends_count": 160,
+    "listed_count": 5,
+    "created_at": "Wed Apr 01 22:12:25 +0000 2009",
+    "favourites_count": 54,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 21159,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F1F57D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/82094465/1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/82094465/1.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2819338288/75136570dc65d9b700f020aa4cc0a206_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2819338288/75136570dc65d9b700f020aa4cc0a206_normal.jpeg",
+    "profile_link_color": "82FA90",
+    "profile_sidebar_border_color": "F7F5F2",
+    "profile_sidebar_fill_color": "E19FEB",
+    "profile_text_color": "E63389",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Miami",
+        "indices": [
+          34,
+          40
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/i8F5Rwkc",
+        "expanded_url": "http://twitter.com/djgarciapr/status/215635364499566593/photo/1",
+        "display_url": "pic.twitter.com/i8F5Rwkc",
+        "indices": [
+          41,
+          61
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

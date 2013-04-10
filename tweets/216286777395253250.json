@@ -1,0 +1,101 @@
+{
+  "created_at": "Fri Jun 22 21:49:20 +0000 2012",
+  "id": 216286777395253250,
+  "id_str": "216286777395253250",
+  "text": "Woah. VA governor issues BOV ultimatum (http://t.co/QDQr5uzo), Zeithaml steps out of role as interim president (http://t.co/1K8cuMxA) #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22024025,
+    "id_str": "22024025",
+    "name": "Jenn Riley",
+    "screen_name": "jenlrile",
+    "location": "Chapel Hill, NC",
+    "description": "digital librarian, trying to still be a musician, centrist, overall curious person",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 847,
+    "friends_count": 730,
+    "listed_count": 71,
+    "created_at": "Thu Feb 26 15:55:10 +0000 2009",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3835,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/115525666/closeup_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/115525666/closeup_normal.png",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          134,
+          138
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/QDQr5uzo",
+        "expanded_url": "http://bit.ly/Nt0GIH",
+        "display_url": "bit.ly/Nt0GIH",
+        "indices": [
+          40,
+          60
+        ]
+      },
+      {
+        "url": "http://t.co/1K8cuMxA",
+        "expanded_url": "http://bit.ly/Nrc0oD",
+        "display_url": "bit.ly/Nrc0oD",
+        "indices": [
+          112,
+          132
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

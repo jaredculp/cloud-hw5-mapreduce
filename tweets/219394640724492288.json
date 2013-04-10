@@ -1,0 +1,97 @@
+{
+  "created_at": "Sun Jul 01 11:38:53 +0000 2012",
+  "id": 219394640724492288,
+  "id_str": "219394640724492288",
+  "text": "Wow, McDonnell reappointed Dragas. Interesting. #UVA",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 234199801,
+    "id_str": "234199801",
+    "name": "Becky Robinson",
+    "screen_name": "rsrinva",
+    "location": "Virginia Beach",
+    "description": "I love to read, but get easily distracted by electronic devices.",
+    "url": "http://t.co/sqNGye7a",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/sqNGye7a",
+            "expanded_url": "http://becksbadinage.tumblr.com",
+            "display_url": "becksbadinage.tumblr.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 94,
+    "friends_count": 144,
+    "listed_count": 5,
+    "created_at": "Wed Jan 05 02:15:42 +0000 2011",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1562,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E6E4CC",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/405592598/xf1642acac32548ac217bb0b4a6b42f9.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/405592598/xf1642acac32548ac217bb0b4a6b42f9.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2217726630/photo_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2217726630/photo_normal.JPG",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/234199801/1357660259",
+    "profile_link_color": "7BB082",
+    "profile_sidebar_border_color": "42445D",
+    "profile_sidebar_fill_color": "57838C",
+    "profile_text_color": "C0CC8B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

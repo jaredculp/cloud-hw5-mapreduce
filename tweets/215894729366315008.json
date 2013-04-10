@@ -1,0 +1,101 @@
+{
+  "created_at": "Thu Jun 21 19:51:29 +0000 2012",
+  "id": 215894729366315008,
+  "id_str": "215894729366315008",
+  "text": "RT fox news somehow they screw up everything//Ouster of UVA president was justified -- | Fox News http://t.co/vgrDlVxM via @fxnopinion #UVA\"",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 573942836,
+    "id_str": "573942836",
+    "name": "melrod",
+    "screen_name": "keperalotus",
+    "location": "",
+    "description": "I may have always known where I was going, but seem to have gotten where I meant.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 13,
+    "friends_count": 29,
+    "listed_count": 1,
+    "created_at": "Mon May 07 20:32:00 +0000 2012",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 145,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2199797611/web_e_0508_normal.JPG",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2199797611/web_e_0508_normal.JPG",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/vgrDlVxM",
+        "expanded_url": "http://fxn.ws/M9JeJH",
+        "display_url": "fxn.ws/M9JeJH",
+        "indices": [
+          98,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "fxnopinion",
+        "name": "Fox News Opinion",
+        "id": 107125748,
+        "id_str": "107125748",
+        "indices": [
+          123,
+          134
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

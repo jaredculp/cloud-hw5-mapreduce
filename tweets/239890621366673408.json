@@ -1,0 +1,137 @@
+{
+  "created_at": "Mon Aug 27 01:02:36 +0000 2012",
+  "id": 239890621366673408,
+  "id_str": "239890621366673408",
+  "text": "Our wall #initials #UVA #sororities http://t.co/vyQVSi0C",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 359025304,
+    "id_str": "359025304",
+    "name": "Emma Greever",
+    "screen_name": "emma_greever",
+    "location": "",
+    "description": "UVA. Alpa Phi. In love with my life.\n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 167,
+    "friends_count": 159,
+    "listed_count": 0,
+    "created_at": "Sat Aug 20 22:16:47 +0000 2011",
+    "favourites_count": 203,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 694,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1670555101/264650_10150227174852205_555832204_7553307_2930200_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1670555101/264650_10150227174852205_555832204_7553307_2930200_n_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/359025304/1357348802",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "initials",
+        "indices": [
+          9,
+          18
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          19,
+          23
+        ]
+      },
+      {
+        "text": "sororities",
+        "indices": [
+          24,
+          35
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 239890621370867712,
+        "id_str": "239890621370867712",
+        "indices": [
+          36,
+          56
+        ],
+        "media_url": "http://pbs.twimg.com/media/A1RDP8fCIAANBQf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A1RDP8fCIAANBQf.jpg",
+        "url": "http://t.co/vyQVSi0C",
+        "display_url": "pic.twitter.com/vyQVSi0C",
+        "expanded_url": "http://twitter.com/emma_greever/status/239890621366673408/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1024,
+            "h": 1024,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 340,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

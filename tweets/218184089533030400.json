@@ -1,0 +1,145 @@
+{
+  "created_at": "Thu Jun 28 03:28:35 +0000 2012",
+  "id": 218184089533030400,
+  "id_str": "218184089533030400",
+  "text": "RT @nelsonlflores: Why Our Universities Are Supposed To Be Terribly Inefficient #highered  http://t.co/Y3JkVRFa #UVA #research",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 171987206,
+    "id_str": "171987206",
+    "name": "Calvin Ho",
+    "screen_name": "calvinhyj",
+    "location": "Pacific Rim",
+    "description": "sociologist · phd student · blogger || immigration · asian diasporas · food || blog: http://t.co/09BKMc2S || photos: http://t.co/qhDSDx4Y",
+    "url": "http://www.calvinho.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.calvinho.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/09BKMc2S",
+            "expanded_url": "http://plaidbag.org",
+            "display_url": "plaidbag.org",
+            "indices": [
+              85,
+              105
+            ]
+          },
+          {
+            "url": "http://t.co/qhDSDx4Y",
+            "expanded_url": "http://migrantography.tumblr.com",
+            "display_url": "migrantography.tumblr.com",
+            "indices": [
+              117,
+              137
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1256,
+    "friends_count": 1126,
+    "listed_count": 98,
+    "created_at": "Wed Jul 28 17:06:05 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15228,
+    "lang": "zh-tw",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "39322A",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/679000805/4ebce690a626c7c92811b413c83ce474.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/679000805/4ebce690a626c7c92811b413c83ce474.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2483096437/2rzqyedga00ruf2umtwm_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2483096437/2rzqyedga00ruf2umtwm_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/171987206/1349632037",
+    "profile_link_color": "6B515C",
+    "profile_sidebar_border_color": "D4CEAA",
+    "profile_sidebar_fill_color": "BECEA1",
+    "profile_text_color": "96B29B",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "highered",
+        "indices": [
+          80,
+          89
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          112,
+          116
+        ]
+      },
+      {
+        "text": "research",
+        "indices": [
+          117,
+          126
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Y3JkVRFa",
+        "expanded_url": "http://www.slate.com/articles/news_and_politics/politics/2012/06/teresa_sullivan_reinstated_as_the_president_of_the_university_of_virginia_.html?tid=sm_tw_button_toolbar",
+        "display_url": "slate.com/articles/news_…",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "nelsonlflores",
+        "name": "Nelson Flores",
+        "id": 248343882,
+        "id_str": "248343882",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

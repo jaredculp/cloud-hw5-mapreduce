@@ -1,0 +1,123 @@
+{
+  "created_at": "Wed Jun 27 17:43:10 +0000 2012",
+  "id": 218036766697984000,
+  "id_str": "218036766697984000",
+  "text": "Following the #UVA debacle? @TransitionVoice contributor &amp; radio host @JenTill takes your ?s from 2:15-3pm ET. http://t.co/vgWoPNbw",
+  "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 165640314,
+    "id_str": "165640314",
+    "name": "Transition Voice",
+    "screen_name": "TransitionVoice",
+    "location": "Staunton, Virginia",
+    "description": "Transition Voice the mag on peak oil, transition community, economy, energy, culture.\r\n",
+    "url": "http://www.transitionvoice.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.transitionvoice.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1693,
+    "friends_count": 170,
+    "listed_count": 131,
+    "created_at": "Mon Jul 12 04:13:55 +0000 2010",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2248,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "382210",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/133291034/tvoice.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/133291034/tvoice.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1144651188/typesatlast_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1144651188/typesatlast_normal.jpeg",
+    "profile_link_color": "C7BB16",
+    "profile_sidebar_border_color": "302915",
+    "profile_sidebar_fill_color": "EB4011",
+    "profile_text_color": "080101",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          14,
+          18
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/vgWoPNbw",
+        "expanded_url": "http://fb.me/1EelImkCT",
+        "display_url": "fb.me/1EelImkCT",
+        "indices": [
+          115,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "TransitionVoice",
+        "name": "Transition Voice",
+        "id": 165640314,
+        "id_str": "165640314",
+        "indices": [
+          28,
+          44
+        ]
+      },
+      {
+        "screen_name": "jentill",
+        "name": "Real Life",
+        "id": 23552532,
+        "id_str": "23552532",
+        "indices": [
+          74,
+          82
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

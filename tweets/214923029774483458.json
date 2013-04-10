@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 03:30:18 +0000 2012",
+  "id": 214923029774483458,
+  "id_str": "214923029774483458",
+  "text": "@awoo_ Someone get a lipreader over to that window. #UVA #BOV",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 214922657358020609,
+  "in_reply_to_status_id_str": "214922657358020609",
+  "in_reply_to_user_id": 194245430,
+  "in_reply_to_user_id_str": "194245430",
+  "in_reply_to_screen_name": "awoo_",
+  "user": {
+    "id": 20696759,
+    "id_str": "20696759",
+    "name": "Sue",
+    "screen_name": "SueVG",
+    "location": "Northern VA",
+    "description": "For fun, change, and community -- not profit.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 552,
+    "friends_count": 752,
+    "listed_count": 31,
+    "created_at": "Thu Feb 12 17:42:13 +0000 2009",
+    "favourites_count": 99,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2494,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1187254158/worldwide_face_crop_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1187254158/worldwide_face_crop_normal.jpg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          52,
+          56
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          57,
+          61
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "awoo_",
+        "name": "Amy Woolard",
+        "id": 194245430,
+        "id_str": "194245430",
+        "indices": [
+          0,
+          6
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

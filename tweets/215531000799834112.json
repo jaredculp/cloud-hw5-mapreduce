@@ -1,0 +1,99 @@
+{
+  "created_at": "Wed Jun 20 19:46:09 +0000 2012",
+  "id": 215531000799834112,
+  "id_str": "215531000799834112",
+  "text": "@cavalierdaily Congrats and deepest thanks for amazing coverage of the events surrounding #Sullivan's ouster. - #UVA alum",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 547263604,
+    "id_str": "547263604",
+    "name": "jenny r hernandez",
+    "screen_name": "jennyrhernandez",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 31,
+    "friends_count": 63,
+    "listed_count": 0,
+    "created_at": "Sat Apr 07 02:42:49 +0000 2012",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 16,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/586116802/7oucbng466dk1fjaftqn.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/586116802/7oucbng466dk1fjaftqn.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2326359856/wq5nx3nbn4b2wmab7qez_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2326359856/wq5nx3nbn4b2wmab7qez_normal.png",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          90,
+          99
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          112,
+          116
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

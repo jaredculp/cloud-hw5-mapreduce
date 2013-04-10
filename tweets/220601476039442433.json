@@ -1,0 +1,100 @@
+{
+  "created_at": "Wed Jul 04 19:34:25 +0000 2012",
+  "id": 220601476039442433,
+  "id_str": "220601476039442433",
+  "text": "@Martamb93 te llaman de la #UAX no has visto el anuncio.. jajajaja! Siento decirte que la #uVA no te quiere jajaja!",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 211551389,
+  "in_reply_to_user_id_str": "211551389",
+  "in_reply_to_screen_name": "martamb93",
+  "user": {
+    "id": 113390373,
+    "id_str": "113390373",
+    "name": "Call me Paty :)",
+    "screen_name": "Patriciapaso19",
+    "location": "Valladolid.",
+    "description": "Estudiante de Comercio en la UVA. Tengo demasiadas cosquillas, y soy de las que se caen cuando todos miran, sufro adicción por las compras y la fiesta.MANCHEGA†",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 435,
+    "friends_count": 538,
+    "listed_count": 4,
+    "created_at": "Thu Feb 11 16:12:48 +0000 2010",
+    "favourites_count": 185,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11826,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/763902286/3c0ab5d889ff1c424ab44978e9eff4c9.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/763902286/3c0ab5d889ff1c424ab44978e9eff4c9.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3109135551/664aa1b42fd07ddc4001c7956e9bc150_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3109135551/664aa1b42fd07ddc4001c7956e9bc150_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/113390373/1358192648",
+    "profile_link_color": "AA00B3",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UAX",
+        "indices": [
+          27,
+          31
+        ]
+      },
+      {
+        "text": "uVA",
+        "indices": [
+          90,
+          94
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "martamb93",
+        "name": "Marta Mulas",
+        "id": 211551389,
+        "id_str": "211551389",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

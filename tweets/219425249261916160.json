@@ -1,0 +1,150 @@
+{
+  "created_at": "Sun Jul 01 13:40:30 +0000 2012",
+  "id": 219425249261916160,
+  "id_str": "219425249261916160",
+  "text": "#uva protect   @ Wet Life http://t.co/dkdI77zF",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 49562697,
+    "id_str": "49562697",
+    "name": "Massimo Nichetti",
+    "screen_name": "Max_Productions",
+    "location": "Italy",
+    "description": "Lavoro nel mondo della comunicazione e marketing digitale dove mi occupo di  Web e Social Media. Sono un fotografo dilettante.",
+    "url": "http://www.massimoproductions.net",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.massimoproductions.net",
+            "expanded_url": null,
+            "indices": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 234,
+    "friends_count": 154,
+    "listed_count": 16,
+    "created_at": "Mon Jun 22 07:08:02 +0000 2009",
+    "favourites_count": 334,
+    "utc_offset": 3600,
+    "time_zone": "Rome",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5182,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/71438383/sfondo01.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/71438383/sfondo01.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2645076663/c69f7712099ee151d3bb86ac7eea7bbe_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2645076663/c69f7712099ee151d3bb86ac7eea7bbe_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/49562697/1355388634",
+    "profile_link_color": "4D00FF",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "05FF86",
+    "profile_text_color": "5CB2CC",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      45.74857483,
+      9.25692714
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      9.25692714,
+      45.74857483
+    ]
+  },
+  "place": {
+    "id": "dd0a14d35f8ac33c",
+    "url": "https://api.twitter.com/1.1/geo/id/dd0a14d35f8ac33c.json",
+    "place_type": "city",
+    "name": "Nibionno",
+    "full_name": "Nibionno, Lecco",
+    "country_code": "IT",
+    "country": "Italy",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            9.247496,
+            45.739878
+          ],
+          [
+            9.276034,
+            45.739878
+          ],
+          [
+            9.276034,
+            45.763113
+          ],
+          [
+            9.247496,
+            45.763113
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dkdI77zF",
+        "expanded_url": "http://instagr.am/p/MikoNimLg7/",
+        "display_url": "instagr.am/p/MikoNimLg7/",
+        "indices": [
+          26,
+          46
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 04:11:09 +0000 2012",
+  "id": 214933310898569217,
+  "id_str": "214933310898569217",
+  "text": "Do you or your students have any advice on which pizza places deliver at this time of night @LarrySabato? I want to send some to the lawn",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19724699,
+    "id_str": "19724699",
+    "name": "Darren Kinnaird",
+    "screen_name": "DKinAU",
+    "location": "Jugtown, Alabama",
+    "description": "Hilariously correct.",
+    "url": "http://www.darrenkinnaird.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.darrenkinnaird.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 479,
+    "friends_count": 777,
+    "listed_count": 10,
+    "created_at": "Thu Jan 29 18:23:39 +0000 2009",
+    "favourites_count": 235,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8786,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/227682249/Jordan_Hare_Stadium_North_Endzone.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/227682249/Jordan_Hare_Stadium_North_Endzone.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2907342143/af67d827d89a1d04fe948f4ae19b086c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2907342143/af67d827d89a1d04fe948f4ae19b086c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/19724699/1348083676",
+    "profile_link_color": "01035E",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "D46B15",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          92,
+          104
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

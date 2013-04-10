@@ -1,0 +1,96 @@
+{
+  "created_at": "Thu Aug 16 14:39:37 +0000 2012",
+  "id": 236109966711349249,
+  "id_str": "236109966711349249",
+  "text": "Al met al prima dag gehad #UvA",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 235525219,
+    "id_str": "235525219",
+    "name": "Lars van Zanten",
+    "screen_name": "LarsFR010",
+    "location": "Soest",
+    "description": "Feyenoord Rotterdam! // #12 // Seizoenkaarthouder Vak W1 // Silvercard // Beheerder @Vak_W1 //",
+    "url": "http://www.fr12.nl",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.fr12.nl",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 153,
+    "friends_count": 84,
+    "listed_count": 0,
+    "created_at": "Sat Jan 08 12:13:10 +0000 2011",
+    "favourites_count": 5,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 20429,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2891231762/35a7921483bd54dfdaa76dcd051a78f8_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2891231762/35a7921483bd54dfdaa76dcd051a78f8_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/235525219/1348065203",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          26,
+          30
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

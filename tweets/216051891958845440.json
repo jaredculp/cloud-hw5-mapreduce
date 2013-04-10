@@ -1,0 +1,115 @@
+{
+  "created_at": "Fri Jun 22 06:15:59 +0000 2012",
+  "id": 216051891958845440,
+  "id_str": "216051891958845440",
+  "text": "All #UVA deans (minus #Zeithaml) &amp; FacSen call for TS reinstatement. #BOV meets Tuesday. Fantastic summary by @Zinie : http://t.co/vTJiIsos",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 613949242,
+    "id_str": "613949242",
+    "name": "Veronica M",
+    "screen_name": "WahooVero",
+    "location": "",
+    "description": "3rd year engineer - hooraray",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 33,
+    "friends_count": 72,
+    "listed_count": 1,
+    "created_at": "Thu Jun 21 02:20:50 +0000 2012",
+    "favourites_count": 10,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 49,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2327011927/twitterIcon_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2327011927/twitterIcon_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          4,
+          8
+        ]
+      },
+      {
+        "text": "Zeithaml",
+        "indices": [
+          22,
+          31
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          73,
+          77
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/vTJiIsos",
+        "expanded_url": "http://huff.to/MmF9B1",
+        "display_url": "huff.to/MmF9B1",
+        "indices": [
+          123,
+          143
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Zinie",
+        "name": "Zinie Chen Sampson",
+        "id": 293686903,
+        "id_str": "293686903",
+        "indices": [
+          114,
+          120
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

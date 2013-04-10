@@ -1,0 +1,98 @@
+{
+  "created_at": "Thu Jun 21 21:26:20 +0000 2012",
+  "id": 215918599016153088,
+  "id_str": "215918599016153088",
+  "text": "@LarrySabato Larry, from your buddy down in Orlando - thanks for being a steady hand thru all this and keeping us informed",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215916679773954051,
+  "in_reply_to_status_id_str": "215916679773954051",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 26524174,
+    "id_str": "26524174",
+    "name": "Thomas Justice",
+    "screen_name": "tomjustice",
+    "location": "Orlando, Florida",
+    "description": "Lawyer, Cook, Forager, Hiker, and Political Junkie",
+    "url": "http://justicelawfirm.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://justicelawfirm.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 20,
+    "friends_count": 21,
+    "listed_count": 0,
+    "created_at": "Wed Mar 25 15:56:16 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/109696168/n1514512_36817463_5885_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/109696168/n1514512_36817463_5885_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

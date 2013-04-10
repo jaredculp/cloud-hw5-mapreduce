@@ -1,0 +1,143 @@
+{
+  "created_at": "Wed Jul 04 14:33:48 +0000 2012",
+  "id": 220525824166727681,
+  "id_str": "220525824166727681",
+  "text": "W/ @poppyismaya @rafikazulani @dvraviza @thania_putri #uva (@ Pondok Jati Resto) http://t.co/4m5XyMQs",
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 108939654,
+    "id_str": "108939654",
+    "name": "Teza Mutia Andri",
+    "screen_name": "tezamutia",
+    "location": "Medan - Indonesia",
+    "description": "It's never too late to be what you might have been | taken by @dennyelfrada ",
+    "url": "http://twitter.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://twitter.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 420,
+    "friends_count": 220,
+    "listed_count": 0,
+    "created_at": "Wed Jan 27 13:39:50 +0000 2010",
+    "favourites_count": 34,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 13649,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3175280953/ef947f58c77c02b1b96e1fd0ee46412f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3175280953/ef947f58c77c02b1b96e1fd0ee46412f_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          54,
+          58
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/4m5XyMQs",
+        "expanded_url": "http://4sq.com/MwOqrP",
+        "display_url": "4sq.com/MwOqrP",
+        "indices": [
+          81,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "poppyismaya",
+        "name": "poppy ismaya",
+        "id": 292247218,
+        "id_str": "292247218",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "rafikazulani",
+        "name": "rafikazulani",
+        "id": 81749245,
+        "id_str": "81749245",
+        "indices": [
+          16,
+          29
+        ]
+      },
+      {
+        "screen_name": "dvraviza",
+        "name": "devi raviza saragih",
+        "id": 119373040,
+        "id_str": "119373040",
+        "indices": [
+          30,
+          39
+        ]
+      },
+      {
+        "screen_name": "Thania_Putri",
+        "name": "Thania Ivangga Putri",
+        "id": 181167868,
+        "id_str": "181167868",
+        "indices": [
+          40,
+          53
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

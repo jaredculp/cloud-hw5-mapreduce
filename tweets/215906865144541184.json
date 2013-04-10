@@ -1,0 +1,99 @@
+{
+  "created_at": "Thu Jun 21 20:39:42 +0000 2012",
+  "id": 215906865144541184,
+  "id_str": "215906865144541184",
+  "text": "@cavalierdaily Who was the 1 dean that didn't?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215906310401703939,
+  "in_reply_to_status_id_str": "215906310401703939",
+  "in_reply_to_user_id": 24296023,
+  "in_reply_to_user_id_str": "24296023",
+  "in_reply_to_screen_name": "cavalierdaily",
+  "user": {
+    "id": 578114935,
+    "id_str": "578114935",
+    "name": "Ryan Comes",
+    "screen_name": "RBComes",
+    "location": "Charlottesville, VA",
+    "description": "Carnegie Mellon alum/baseball veteran, Virginia baseball fan/engineering grad student",
+    "url": "http://www.people.virginia.edu/~rbc2w",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.people.virginia.edu/~rbc2w",
+            "expanded_url": null,
+            "indices": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 25,
+    "friends_count": 177,
+    "listed_count": 0,
+    "created_at": "Sat May 12 14:38:52 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 397,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2762195236/6382adef74f01057b68c7628efa30e8c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2762195236/6382adef74f01057b68c7628efa30e8c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/578114935/1351161674",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

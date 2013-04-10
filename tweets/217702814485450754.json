@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:36:10 +0000 2012",
+  "id": 217702814485450754,
+  "id_str": "217702814485450754",
+  "text": "Congratulations to friends at #uva and a special cheer for @waldojaquith, who covered this event with all the ferocity it deserved.",
+  "source": "<a href=\"http://sites.google.com/site/yorufukurou/\" rel=\"nofollow\">YoruFukurou</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 13145012,
+    "id_str": "13145012",
+    "name": "erin kissane",
+    "screen_name": "kissane",
+    "location": "Brooklyn",
+    "description": "Editor at @Contents & @Source. Wrote The Elements of Content Strategy. Likes coffee, typos, complexity, and the truth. Reads at @erinisreading.",
+    "url": "http://incisive.nu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://incisive.nu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 14879,
+    "friends_count": 977,
+    "listed_count": 1103,
+    "created_at": "Wed Feb 06 06:18:23 +0000 2008",
+    "favourites_count": 12764,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 25917,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/38272287/tekkonkinkreetback_sm.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/38272287/tekkonkinkreetback_sm.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1766406429/erin_small_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1766406429/erin_small_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          30,
+          34
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "waldojaquith",
+        "name": "Waldo Jaquith",
+        "id": 206283535,
+        "id_str": "206283535",
+        "indices": [
+          59,
+          72
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

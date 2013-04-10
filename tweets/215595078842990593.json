@@ -1,0 +1,131 @@
+{
+  "created_at": "Thu Jun 21 00:00:47 +0000 2012",
+  "id": 215595078842990593,
+  "id_str": "215595078842990593",
+  "text": "#Sullivan willing to stay @UVA if Dragas resigns.  @cavalierdaily @sivavaid @matthewccameron http://t.co/qRkN8k2Q",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 388101217,
+    "id_str": "388101217",
+    "name": "Eric McDaniel",
+    "screen_name": "justhysterical",
+    "location": "",
+    "description": "@FakeEricMcDaniel was one character too long.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 95,
+    "friends_count": 91,
+    "listed_count": 0,
+    "created_at": "Mon Oct 10 05:50:56 +0000 2011",
+    "favourites_count": 75,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 246,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1860748818/Campaign_photo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1860748818/Campaign_photo_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 8,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/qRkN8k2Q",
+        "expanded_url": "http://mobile.washingtonpost.com/rss.jsp;jsessionid=C2842BC6DFD7E27F3F59D4005E4441B5?rssid=599&item=http://www.washingtonpost.com/local/dc-politics/interim-u-va-leader-carl-zeithaml-seeks-to-quell-uproar-over-presidents-ouster/2012/06/20/gJQAAsZ1qV_mobile.mobile&cid=-1&spf=1",
+        "display_url": "mobile.washingtonpost.com/rss.jsp;jsessi…",
+        "indices": [
+          93,
+          113
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          26,
+          30
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          51,
+          65
+        ]
+      },
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          66,
+          75
+        ]
+      },
+      {
+        "screen_name": "matthewccameron",
+        "name": "Matthew Cameron",
+        "id": 305369959,
+        "id_str": "305369959",
+        "indices": [
+          76,
+          92
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

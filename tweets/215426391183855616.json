@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed Jun 20 12:50:28 +0000 2012",
+  "id": 215426391183855616,
+  "id_str": "215426391183855616",
+  "text": "! RT @insidehighered The E-Mail Trail at UVa: Records show board leaders wanted major push into online education http://t.co/9imppahK #UVa",
+  "source": "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14727120,
+    "id_str": "14727120",
+    "name": "Jeff Lail",
+    "screen_name": "jefflail",
+    "location": "Greensboro, NC",
+    "description": "Data-driven student activities professional @uncg. Supporter of STEM education. Many tweets about basketball.",
+    "url": "http://jefflail.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://jefflail.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1854,
+    "friends_count": 557,
+    "listed_count": 177,
+    "created_at": "Sat May 10 19:24:22 +0000 2008",
+    "favourites_count": 170,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 53227,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/352330631/blog.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/352330631/blog.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2118905652/IMG_20120413_235346_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2118905652/IMG_20120413_235346_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14727120/1348087025",
+    "profile_link_color": "D10000",
+    "profile_sidebar_border_color": "995B56",
+    "profile_sidebar_fill_color": "ADADAD",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          134,
+          138
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/9imppahK",
+        "expanded_url": "http://bit.ly/MELQh6",
+        "display_url": "bit.ly/MELQh6",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "insidehighered",
+        "name": "Inside Higher Ed",
+        "id": 16045268,
+        "id_str": "16045268",
+        "indices": [
+          5,
+          20
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

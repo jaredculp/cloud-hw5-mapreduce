@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Jun 26 19:29:09 +0000 2012",
+  "id": 217701050117918720,
+  "id_str": "217701050117918720",
+  "text": "RT @dp_Albemarle: #BOV votes unanimously to reinstate #sullivan. #uva",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 525557646,
+    "id_str": "525557646",
+    "name": "Samantha Koon",
+    "screen_name": "DailyProgSam",
+    "location": "Charlottesville, Virginia",
+    "description": "@DailyProgress reporter covering the justice system.",
+    "url": "http://dailyprogress.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://dailyprogress.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 112,
+    "friends_count": 203,
+    "listed_count": 11,
+    "created_at": "Thu Mar 15 17:12:33 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 116,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3117920519/a75b862a2f5b94b99df5934a79da4cb1_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3117920519/a75b862a2f5b94b99df5934a79da4cb1_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          18,
+          22
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          54,
+          63
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          65,
+          69
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "dp_Albemarle",
+        "name": "Aaron Richardson",
+        "id": 469441060,
+        "id_str": "469441060",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

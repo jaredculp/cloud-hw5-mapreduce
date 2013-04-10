@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Jun 26 23:05:02 +0000 2012",
+  "id": 217755377759031296,
+  "id_str": "217755377759031296",
+  "text": "At @CBS19. To debate #UVA reinstatement of #Sullivan. http://t.co/12kaxaKR",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22155110,
+    "id_str": "22155110",
+    "name": "Joe Thomas",
+    "screen_name": "joethomaswchv",
+    "location": "Charlottesville, VA",
+    "description": "Dad, husband, talkshow host. 5-9am on 107.5/1260am WCHV in C'ville/Central VA and 3p-6p on WCHV, 990am WLEE, Richmond and FoxRadio910 WFJX, Roanoke, VA",
+    "url": "http://www.wchv.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.wchv.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 963,
+    "friends_count": 1143,
+    "listed_count": 44,
+    "created_at": "Fri Feb 27 16:11:24 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8241,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2438796985/vs3sg7xq8aq8d5uacf3t_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2438796985/vs3sg7xq8aq8d5uacf3t_normal.jpeg",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          21,
+          25
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          43,
+          52
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/12kaxaKR",
+        "expanded_url": "http://www.newaplex.com",
+        "display_url": "newaplex.com",
+        "indices": [
+          54,
+          74
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CBS19",
+        "name": "WCAV CBS19",
+        "id": 18235216,
+        "id_str": "18235216",
+        "indices": [
+          3,
+          9
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

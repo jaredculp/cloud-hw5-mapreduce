@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 19 23:02:01 +0000 2012",
+  "id": 215217905204334592,
+  "id_str": "215217905204334592",
+  "text": "JSelingo: jselingo: RT @danieldevise: 11:45, still no word from board at #uva. Nine hours of meeting. Eight in... http://t.co/AMFumu6C",
+  "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 80687621,
+    "id_str": "80687621",
+    "name": "Higher Ed Marketing",
+    "screen_name": "HigherEdMktg",
+    "location": "Wheaton, IL",
+    "description": "A resource for professionals in higher education marketing, research and enrollment management from the @CGrantandCo Education Practice.",
+    "url": "http://cgrantandcompany.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://cgrantandcompany.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5744,
+    "friends_count": 5369,
+    "listed_count": 213,
+    "created_at": "Wed Oct 07 21:40:50 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11831,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/828675898/rocketturtle_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/828675898/rocketturtle_normal.jpg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          73,
+          77
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/AMFumu6C",
+        "expanded_url": "http://dlvr.it/1l1gB0",
+        "display_url": "dlvr.it/1l1gB0",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "danieldevise",
+        "name": "Daniel de Vise",
+        "id": 182100138,
+        "id_str": "182100138",
+        "indices": [
+          23,
+          36
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

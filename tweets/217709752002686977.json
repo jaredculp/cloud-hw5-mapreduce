@@ -1,0 +1,83 @@
+{
+  "created_at": "Tue Jun 26 20:03:44 +0000 2012",
+  "id": 217709752002686977,
+  "id_str": "217709752002686977",
+  "text": "What is going on at #UVA? @J_Brist I need a summary, you got 140 characters",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 265573702,
+    "id_str": "265573702",
+    "name": "Matt Gibbons",
+    "screen_name": "mattgibbons89",
+    "location": "Brookline, MA",
+    "description": "Sports fan, musician, digital marketer, and @bostoncollege graduate",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 127,
+    "friends_count": 237,
+    "listed_count": 4,
+    "created_at": "Sun Mar 13 19:57:40 +0000 2011",
+    "favourites_count": 42,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1845,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2446360563/r97qvyi3uaefrxia9v8b_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2446360563/r97qvyi3uaefrxia9v8b_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

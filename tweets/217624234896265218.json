@@ -1,0 +1,119 @@
+{
+  "created_at": "Tue Jun 26 14:23:55 +0000 2012",
+  "id": 217624234896265218,
+  "id_str": "217624234896265218",
+  "text": "#FoodMob at the #UVa bookstore on Friday! Bring in canned food to earn a coupon and free parking! #governorsbowl http://t.co/NmiX6YMM -MW",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 106174125,
+    "id_str": "106174125",
+    "name": "DellU - Virginia",
+    "screen_name": "DellU_VA",
+    "location": "Virginia",
+    "description": "Welcome!  Stay tuned for deals, promotions, contests & offers from Dell.  For more info about Dell products, please call 866-914-6077",
+    "url": "http://bit.ly/66Qujs",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://bit.ly/66Qujs",
+            "expanded_url": null,
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 31535,
+    "friends_count": 32953,
+    "listed_count": 65,
+    "created_at": "Mon Jan 18 18:47:06 +0000 2010",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1367,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0085C3",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/749374276/3b037b1a92b762ec26b3d05d132f30e3.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/749374276/3b037b1a92b762ec26b3d05d132f30e3.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3031815032/a5cd8d1c733946e5c9ca7d9f8f8fb77a_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3031815032/a5cd8d1c733946e5c9ca7d9f8f8fb77a_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/106174125/1356678684",
+    "profile_link_color": "0085C3",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FoodMob",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          16,
+          20
+        ]
+      },
+      {
+        "text": "governorsbowl",
+        "indices": [
+          98,
+          112
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/NmiX6YMM",
+        "expanded_url": "http://www.virginia.edu/uvatoday/newsRelease.php?id=18916",
+        "display_url": "virginia.edu/uvatoday/newsR…",
+        "indices": [
+          113,
+          133
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

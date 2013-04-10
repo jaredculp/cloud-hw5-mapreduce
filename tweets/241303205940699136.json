@@ -1,0 +1,125 @@
+{
+  "created_at": "Thu Aug 30 22:35:42 +0000 2012",
+  "id": 241303205940699136,
+  "id_str": "241303205940699136",
+  "text": "Comedian @stevebyrnelive star of  #Sullivan and Son  #TBS  @KPAM860 Listen AM860 http://t.co/GGM2QckK #pdx",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 479066122,
+    "id_str": "479066122",
+    "name": "Terry Boyd",
+    "screen_name": "TerryBoydsWorld",
+    "location": "Portland, Oregon",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 154,
+    "friends_count": 36,
+    "listed_count": 1,
+    "created_at": "Mon Jan 30 23:59:20 +0000 2012",
+    "favourites_count": 4,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1404,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1793290370/340109_255524587815356_255523494482132_874181_4874780_o_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1793290370/340109_255524587815356_255523494482132_874181_4874780_o_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          34,
+          43
+        ]
+      },
+      {
+        "text": "TBS",
+        "indices": [
+          53,
+          57
+        ]
+      },
+      {
+        "text": "pdx",
+        "indices": [
+          102,
+          106
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/GGM2QckK",
+        "expanded_url": "http://www.kpam.com",
+        "display_url": "kpam.com",
+        "indices": [
+          81,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "stevebyrnelive",
+        "name": "Steve Byrne",
+        "id": 136359277,
+        "id_str": "136359277",
+        "indices": [
+          9,
+          24
+        ]
+      },
+      {
+        "screen_name": "KPAM860",
+        "name": "AM 860",
+        "id": 244331679,
+        "id_str": "244331679",
+        "indices": [
+          59,
+          67
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

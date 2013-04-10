@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Jun 20 04:31:23 +0000 2012",
+  "id": 215300791064477697,
+  "id_str": "215300791064477697",
+  "text": "Can learning scale? http://t.co/QNxQzi9C Yes, but it will be neither cheap nor easy, a post inspired by this week at #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14076490,
+    "id_str": "14076490",
+    "name": "Erik Palmer",
+    "screen_name": "erikpalmer",
+    "location": "PDX - MFR",
+    "description": "Assistant Professor at Southern Oregon University. Visual communication, social media, community journalism. Sometimes I make pictures.",
+    "url": "http://erikpalmer.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://erikpalmer.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 258,
+    "friends_count": 395,
+    "listed_count": 13,
+    "created_at": "Tue Mar 04 05:23:24 +0000 2008",
+    "favourites_count": 4,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1794,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/781391571/7dd165eed3045575dd2f7e79c182d495.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/781391571/7dd165eed3045575dd2f7e79c182d495.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/931644610/photo_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/931644610/photo_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          117,
+          121
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/QNxQzi9C",
+        "expanded_url": "http://bit.ly/Mp1RrG",
+        "display_url": "bit.ly/Mp1RrG",
+        "indices": [
+          20,
+          40
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

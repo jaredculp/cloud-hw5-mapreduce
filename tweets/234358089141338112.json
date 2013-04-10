@@ -1,0 +1,113 @@
+{
+  "created_at": "Sat Aug 11 18:38:17 +0000 2012",
+  "id": 234358089141338112,
+  "id_str": "234358089141338112",
+  "text": "RT @UVA: This sounds fun: #UVa, JPA neighbors sponsoring farmer's market &amp; family fun day next Sat., 8/18., on JPA. http://t.co/9avjhPEt",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 375481983,
+    "id_str": "375481983",
+    "name": "haute pasture",
+    "screen_name": "hautepasture",
+    "location": "Charlottesville Virginia, USA",
+    "description": "Spreading the word on the benefits for humans, animals, and the environment of eating local, humanely raised meat and animal products.",
+    "url": "http://hautepasture.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://hautepasture.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 152,
+    "friends_count": 290,
+    "listed_count": 3,
+    "created_at": "Sun Sep 18 06:23:58 +0000 2011",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 867,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/333076236/sheep.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/333076236/sheep.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2320089876/dmdsyi18myhebb5dhgdl_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2320089876/dmdsyi18myhebb5dhgdl_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          26,
+          30
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/9avjhPEt",
+        "expanded_url": "http://bit.ly/N3Nyre",
+        "display_url": "bit.ly/N3Nyre",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          3,
+          7
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

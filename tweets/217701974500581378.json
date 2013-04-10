@@ -1,0 +1,115 @@
+{
+  "created_at": "Tue Jun 26 19:32:50 +0000 2012",
+  "id": 217701974500581378,
+  "id_str": "217701974500581378",
+  "text": "RT @CavsJournal Down goes Dragas's power play RT @UVA: #Uva roll call: SULLIVAN REINSTATED 15-0!",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 61197773,
+    "id_str": "61197773",
+    "name": "Ben Arnold",
+    "screen_name": "TechBarnold",
+    "location": "DC/VA",
+    "description": "Director, Industry Analyst for Consumer Technology at The NPD Group. Blogger-at-large. Views expressed are solely mine.",
+    "url": "http://techbarnold.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://techbarnold.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 563,
+    "friends_count": 569,
+    "listed_count": 31,
+    "created_at": "Wed Jul 29 13:47:02 +0000 2009",
+    "favourites_count": 94,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1600,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "241526",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/320182577/x98a2723a9995542c3126318c26dfb86.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/320182577/x98a2723a9995542c3126318c26dfb86.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2930201414/329ff37854de8dea775a7d44c66b6b19_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2930201414/329ff37854de8dea775a7d44c66b6b19_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/61197773/1354941612",
+    "profile_link_color": "A69821",
+    "profile_sidebar_border_color": "005F66",
+    "profile_sidebar_fill_color": "65800D",
+    "profile_text_color": "591B4E",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Uva",
+        "indices": [
+          55,
+          59
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CavsJournal",
+        "name": "Mark Giannotto",
+        "id": 61822290,
+        "id_str": "61822290",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          49,
+          53
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

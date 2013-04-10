@@ -1,0 +1,115 @@
+{
+  "created_at": "Fri Aug 10 20:40:12 +0000 2012",
+  "id": 234026381615460352,
+  "id_str": "234026381615460352",
+  "text": "Imagine that! RT @HuffPostCollege #UVA Leader Not A Fan Of Lady Gaga Class http://t.co/al4L9JZX",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 214547488,
+    "id_str": "214547488",
+    "name": "Hanover Research",
+    "screen_name": "HanoverHigherEd",
+    "location": "Washington, DC",
+    "description": "The Academy Administration Practice provides its higher education partners with unlimited on-demand, customized research.",
+    "url": "http://t.co/CPy5n9L3",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/CPy5n9L3",
+            "expanded_url": "http://www.hanoverresearch.com/category/blog/higher-education-blog/",
+            "display_url": "hanoverresearch.com/category/blog/…",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1735,
+    "friends_count": 1925,
+    "listed_count": 105,
+    "created_at": "Thu Nov 11 17:20:37 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3404,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "750B0B",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/174193019/twitterHE.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/174193019/twitterHE.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3082608294/a04a18b299289d44a0a31bbf40056b56_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3082608294/a04a18b299289d44a0a31bbf40056b56_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/214547488/1357660725",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/al4L9JZX",
+        "expanded_url": "http://huff.to/P5svqI",
+        "display_url": "huff.to/P5svqI",
+        "indices": [
+          75,
+          95
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "HuffPostCollege",
+        "name": "HuffPost College",
+        "id": 101896529,
+        "id_str": "101896529",
+        "indices": [
+          17,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

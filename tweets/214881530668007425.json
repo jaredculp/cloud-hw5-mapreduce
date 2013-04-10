@@ -1,0 +1,96 @@
+{
+  "created_at": "Tue Jun 19 00:45:23 +0000 2012",
+  "id": 214881530668007425,
+  "id_str": "214881530668007425",
+  "text": "If someone on grounds sees the BOV send either black or white smoke through a chimney, please tweet to the rest of us. #sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14165740,
+    "id_str": "14165740",
+    "name": "Bob DuCharme",
+    "screen_name": "bobdc",
+    "location": "Charlottesville, Virginia",
+    "description": "Semantic web guy at TopQuadrant, author of O'Reilly's 'Learning SPARQL.' Likes doing interesting things with semi-structured data and metadata. Follows you.",
+    "url": "http://www.snee.com/bob",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.snee.com/bob",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1163,
+    "friends_count": 156,
+    "listed_count": 136,
+    "created_at": "Mon Mar 17 20:47:01 +0000 2008",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1884,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D0D7D7",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/171259211/rothko2000x1024.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/171259211/rothko2000x1024.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/59562375/128x128_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/59562375/128x128_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14165740/1355511932",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "ECEFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 4,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sullivan",
+        "indices": [
+          119,
+          128
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

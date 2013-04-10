@@ -1,0 +1,147 @@
+{
+  "created_at": "Tue Aug 07 20:13:15 +0000 2012",
+  "id": 232932435854237697,
+  "id_str": "232932435854237697",
+  "text": "Thats my roomate!!! #UVA RT @UVARowing: Sarah Borchelt named a conference NCAA Woman of the Year honoree! http://t.co/qoLzKc4Q”",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 304736155,
+    "id_str": "304736155",
+    "name": "Kim Kastuk",
+    "screen_name": "KimmykUVA",
+    "location": "Virginia/New York",
+    "description": "My lifes about pursuing dreams, enjoying the journey, & learning how to succeed & fail w/ confidence. University of Virginia student-athlete. Phillipians 4:13",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 231,
+    "friends_count": 199,
+    "listed_count": 2,
+    "created_at": "Wed May 25 01:16:10 +0000 2011",
+    "favourites_count": 282,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1581,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "81BEDB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/298943624/1.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/298943624/1.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3069295335/3f1ed358eae1a247f37e06a6a4f53fd4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3069295335/3f1ed358eae1a247f37e06a6a4f53fd4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/304736155/1353641933",
+    "profile_link_color": "CC6104",
+    "profile_sidebar_border_color": "EB800E",
+    "profile_sidebar_fill_color": "1923E0",
+    "profile_text_color": "D98B04",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      40.68746313,
+      -73.42769005
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -73.42769005,
+      40.68746313
+    ]
+  },
+  "place": {
+    "id": "b52736240ef42f93",
+    "url": "https://api.twitter.com/1.1/geo/id/b52736240ef42f93.json",
+    "place_type": "city",
+    "name": "East Massapequa",
+    "full_name": "East Massapequa, NY",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.454047,
+            40.650186
+          ],
+          [
+            -73.423253,
+            40.650186
+          ],
+          [
+            -73.423253,
+            40.706699
+          ],
+          [
+            -73.454047,
+            40.706699
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/qoLzKc4Q",
+        "expanded_url": "http://bit.ly/P4ddEg",
+        "display_url": "bit.ly/P4ddEg",
+        "indices": [
+          106,
+          126
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVARowing",
+        "name": "UVA Rowing",
+        "id": 43104032,
+        "id_str": "43104032",
+        "indices": [
+          28,
+          38
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 19 22:16:09 +0000 2012",
+  "id": 215206362853027841,
+  "id_str": "215206362853027841",
+  "text": ".@BobMcDonnell: Call for an investigation of the #UVa BoV &amp; the resignation of Rector Dragas: http://t.co/zNLOhleI",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 72952673,
+    "id_str": "72952673",
+    "name": "Rebecca Boyd",
+    "screen_name": "EponaInSpace",
+    "location": "",
+    "description": "I live in a house that is held up by magic.  I have a weakness for grapefruit juice.",
+    "url": "http://wisemare.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://wisemare.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 66,
+    "friends_count": 103,
+    "listed_count": 3,
+    "created_at": "Wed Sep 09 21:13:43 +0000 2009",
+    "favourites_count": 125,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 445,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/98851486/DSC_0074.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/98851486/DSC_0074.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1094050522/Photo_61_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1094050522/Photo_61_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          49,
+          53
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/zNLOhleI",
+        "expanded_url": "http://chn.ge/TheBoV",
+        "display_url": "chn.ge/TheBoV",
+        "indices": [
+          98,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          1,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

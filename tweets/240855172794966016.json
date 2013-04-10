@@ -1,0 +1,137 @@
+{
+  "created_at": "Wed Aug 29 16:55:22 +0000 2012",
+  "id": 240855172794966016,
+  "id_str": "240855172794966016",
+  "text": "Gotta love running into old college baseball teammates on random NYC streets. PMac lookin good. Best of luck at the doc. #UVa @UVABaseball",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 151993459,
+    "id_str": "151993459",
+    "name": "Jeff Kamrath",
+    "screen_name": "HooRayKam",
+    "location": "New York City",
+    "description": "Mobile app, stat rat, baseball circles, guru.  AKA, not a lawyer.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 211,
+    "friends_count": 511,
+    "listed_count": 12,
+    "created_at": "Fri Jun 04 19:59:30 +0000 2010",
+    "favourites_count": 106,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1644,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/108611344/5005_108936403293_600453293_2789293_2431303_n.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/108611344/5005_108936403293_600453293_2789293_2431303_n.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1508673608/n7906154_39385446_4157_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1508673608/n7906154_39385446_4157_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      40.73709064,
+      -73.99023452
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -73.99023452,
+      40.73709064
+    ]
+  },
+  "place": {
+    "id": "086752cb03de1d5d",
+    "url": "https://api.twitter.com/1.1/geo/id/086752cb03de1d5d.json",
+    "place_type": "city",
+    "name": "Manhattan",
+    "full_name": "Manhattan, NY",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.047285,
+            40.679548
+          ],
+          [
+            -73.907,
+            40.679548
+          ],
+          [
+            -73.907,
+            40.882214
+          ],
+          [
+            -74.047285,
+            40.882214
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          121,
+          125
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVABaseball",
+        "name": "Virginia Baseball",
+        "id": 172742915,
+        "id_str": "172742915",
+        "indices": [
+          126,
+          138
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Jul 04 08:00:53 +0000 2012",
+  "id": 220426942338445314,
+  "id_str": "220426942338445314",
+  "text": "Come sarà l'annata 2012? Ecco come capirlo... http://t.co/grwuhcRt e voi, come fate? #vino #uva",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 485577178,
+    "id_str": "485577178",
+    "name": "Borgoluce",
+    "screen_name": "Borgoluce",
+    "location": "Località Musile - Susegana",
+    "description": "Nel cuore del Veneto un ambiente protetto, una terra generosa, prodotti dalla genuinità tracciabile. Scopri Borgoluce.",
+    "url": "http://www.borgoluce.it/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.borgoluce.it/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 303,
+    "friends_count": 584,
+    "listed_count": 11,
+    "created_at": "Tue Feb 07 10:44:01 +0000 2012",
+    "favourites_count": 18,
+    "utc_offset": 3600,
+    "time_zone": "Rome",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 318,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/729020761/8ded217a3d0afb533f58bf18df06d82a.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/729020761/8ded217a3d0afb533f58bf18df06d82a.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1810484171/borgoluce_twitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1810484171/borgoluce_twitter_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/485577178/1357557908",
+    "profile_link_color": "9C843B",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "vino",
+        "indices": [
+          85,
+          90
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          91,
+          95
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/grwuhcRt",
+        "expanded_url": "http://ow.ly/c0u4A",
+        "display_url": "ow.ly/c0u4A",
+        "indices": [
+          46,
+          66
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,180 @@
+{
+  "created_at": "Tue Jun 26 02:41:06 +0000 2012",
+  "id": 217447365508997120,
+  "id_str": "217447365508997120",
+  "text": "@E3NYC @WhizChem @nytimes @washingtonpost @gop @mittromney @saltlakenews hilarious summary of #UVa #McDonnell scandal http://t.co/C1SG4Eix",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216569166986088448,
+  "in_reply_to_status_id_str": "216569166986088448",
+  "in_reply_to_user_id": 61632775,
+  "in_reply_to_user_id_str": "61632775",
+  "in_reply_to_screen_name": "E3NYC",
+  "user": {
+    "id": 190296269,
+    "id_str": "190296269",
+    "name": "Tom Glendening",
+    "screen_name": "e3blue",
+    "location": "NYC, NY",
+    "description": "urban innovation",
+    "url": "http://www.glendening.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.glendening.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 43,
+    "friends_count": 41,
+    "listed_count": 0,
+    "created_at": "Mon Sep 13 16:00:56 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 965,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409336909/TT-Motherboard-Small.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2345945037/r5mdxro3u7j3w5e5gcbh_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          94,
+          98
+        ]
+      },
+      {
+        "text": "McDonnell",
+        "indices": [
+          99,
+          109
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/C1SG4Eix",
+        "expanded_url": "http://youtu.be/Kt04qRTib2M",
+        "display_url": "youtu.be/Kt04qRTib2M",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "E3NYC",
+        "name": "Team E3NYC",
+        "id": 61632775,
+        "id_str": "61632775",
+        "indices": [
+          0,
+          6
+        ]
+      },
+      {
+        "screen_name": "WhizChem",
+        "name": "Old Alchemist",
+        "id": 49633388,
+        "id_str": "49633388",
+        "indices": [
+          7,
+          16
+        ]
+      },
+      {
+        "screen_name": "nytimes",
+        "name": "The New York Times",
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          17,
+          25
+        ]
+      },
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          26,
+          41
+        ]
+      },
+      {
+        "screen_name": "GOP",
+        "name": "RNC",
+        "id": 11134252,
+        "id_str": "11134252",
+        "indices": [
+          42,
+          46
+        ]
+      },
+      {
+        "screen_name": "MittRomney",
+        "name": "Mitt Romney",
+        "id": 50055701,
+        "id_str": "50055701",
+        "indices": [
+          47,
+          58
+        ]
+      },
+      {
+        "screen_name": "SaltLakeNews",
+        "name": "Salt Lake City News",
+        "id": 28288952,
+        "id_str": "28288952",
+        "indices": [
+          59,
+          72
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

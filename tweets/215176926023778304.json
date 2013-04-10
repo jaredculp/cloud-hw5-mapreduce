@@ -1,0 +1,95 @@
+{
+  "created_at": "Tue Jun 19 20:19:11 +0000 2012",
+  "id": 215176926023778304,
+  "id_str": "215176926023778304",
+  "text": "Pray for #UVA.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 116038005,
+    "id_str": "116038005",
+    "name": "Heather Klein",
+    "screen_name": "hklein11",
+    "location": "",
+    "description": "Innovation Associate at Prophet, Experience Designer, Creative Technologist, Chocolate Enthusiast, Painter, Runner, Servant of God",
+    "url": "http://www.whoisheatherklein.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.whoisheatherklein.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 399,
+    "friends_count": 1204,
+    "listed_count": 26,
+    "created_at": "Sat Feb 20 22:51:12 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 355,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/216632157/twitter.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/216632157/twitter.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1270149757/hklogo_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1270149757/hklogo_normal.png",
+    "profile_link_color": "990066",
+    "profile_sidebar_border_color": "3A6CD1",
+    "profile_sidebar_fill_color": "F7F7F7",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          9,
+          13
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

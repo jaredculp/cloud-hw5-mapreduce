@@ -1,0 +1,99 @@
+{
+  "created_at": "Thu Jun 21 18:25:35 +0000 2012",
+  "id": 215873113076932608,
+  "id_str": "215873113076932608",
+  "text": "The leader who rattled #UVA: Rector Helen E. #Dragas.  http://t.co/XbVfGrQp",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 37564255,
+    "id_str": "37564255",
+    "name": "Nick Anderson",
+    "screen_name": "wpnick",
+    "location": "Washington DC or thereabouts",
+    "description": "Washington Post higher education writer",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 6704,
+    "friends_count": 104,
+    "listed_count": 406,
+    "created_at": "Mon May 04 01:54:18 +0000 2009",
+    "favourites_count": 3,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 970,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/614560471/andersonnick_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/614560471/andersonnick_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          23,
+          27
+        ]
+      },
+      {
+        "text": "Dragas",
+        "indices": [
+          45,
+          52
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/XbVfGrQp",
+        "expanded_url": "http://wapo.st/NnYe69",
+        "display_url": "wapo.st/NnYe69",
+        "indices": [
+          55,
+          75
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,109 @@
+{
+  "created_at": "Fri Jun 22 02:00:48 +0000 2012",
+  "id": 215987670680207361,
+  "id_str": "215987670680207361",
+  "text": ".@SNguyen14 creates #infographic on Hoo is Hoo in the #UVA Sullivan ouster. @cavalierdaily https://t.co/vfjEpgBL",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 127713630,
+    "id_str": "127713630",
+    "name": "Anna Xie",
+    "screen_name": "annameliorate",
+    "location": "Fairfax / Charlottesville",
+    "description": "@mcintireuva student. Former @cavalierdaily CFO. Photographer. Aspiring consultant and IT specialist.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 228,
+    "friends_count": 414,
+    "listed_count": 4,
+    "created_at": "Tue Mar 30 01:29:16 +0000 2010",
+    "favourites_count": 542,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4024,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3186148867/c5617fe04010ac35b6ddd8ba7a813a25_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3186148867/c5617fe04010ac35b6ddd8ba7a813a25_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/127713630/1359596499",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "infographic",
+        "indices": [
+          20,
+          32
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          54,
+          58
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/vfjEpgBL",
+        "expanded_url": "https://www.facebook.com/photo.php?fbid=3320915313062&set=a.1248811831770.2032970.1573680111&type=1&ref=nf",
+        "display_url": "facebook.com/photo.php?fbid…",
+        "indices": [
+          91,
+          112
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          76,
+          90
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,96 @@
+{
+  "created_at": "Tue Jun 19 20:33:05 +0000 2012",
+  "id": 215180422341083136,
+  "id_str": "215180422341083136",
+  "text": "E esse site da #UVA tá uma lerdeza e não quer entrar -'-",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 191121171,
+    "id_str": "191121171",
+    "name": "Jéssica CRF",
+    "screen_name": "crfjessicasilva",
+    "location": "Rio de Janeiro, RJ",
+    "description": "1.8, carioca, flamenguista, taurina (03/05), mangueirense!\r\nINSTAGRAM: crfjessicasilva\r\n",
+    "url": "https://www.facebook.com/crfjessicasilva",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://www.facebook.com/crfjessicasilva",
+            "expanded_url": null,
+            "indices": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 529,
+    "friends_count": 495,
+    "listed_count": 22,
+    "created_at": "Wed Sep 15 17:16:31 +0000 2010",
+    "favourites_count": 12,
+    "utc_offset": -14400,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 54546,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/779683588/b97cbb1db9540aba6e351d8110b92dbc.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/779683588/b97cbb1db9540aba6e351d8110b92dbc.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3159744418/3d812ffae4bc7e40129d57e196e9ca8c_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3159744418/3d812ffae4bc7e40129d57e196e9ca8c_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/191121171/1359767849",
+    "profile_link_color": "FA73F5",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          15,
+          19
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

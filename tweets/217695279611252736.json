@@ -1,0 +1,143 @@
+{
+  "created_at": "Tue Jun 26 19:06:13 +0000 2012",
+  "id": 217695279611252736,
+  "id_str": "217695279611252736",
+  "text": "Quite the interesting event “@GlobalHigherEd: Live stream of #UVA #BOV meeting: http://t.co/DmxfSxYp #UVa #Sullivan #DoTheRightThing”",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 438837594,
+    "id_str": "438837594",
+    "name": "David Gaston",
+    "screen_name": "DavidGastonKU",
+    "location": "Lawrence, KS",
+    "description": "University administrator with experience and expertise in global career services, communications and leadership at the University of Kansas",
+    "url": "http://t.co/GRMauYCk",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/GRMauYCk",
+            "expanded_url": "http://davidgaston.wordpress.com",
+            "display_url": "davidgaston.wordpress.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 95,
+    "friends_count": 219,
+    "listed_count": 6,
+    "created_at": "Sat Dec 17 02:36:19 +0000 2011",
+    "favourites_count": 25,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 642,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2586205611/hmru694q4154xx4t6jby_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2586205611/hmru694q4154xx4t6jby_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/438837594/1350934379",
+    "profile_link_color": "086F94",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          61,
+          65
+        ]
+      },
+      {
+        "text": "BOV",
+        "indices": [
+          66,
+          70
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          101,
+          105
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          106,
+          115
+        ]
+      },
+      {
+        "text": "DoTheRightThing",
+        "indices": [
+          116,
+          132
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/DmxfSxYp",
+        "expanded_url": "http://bit.ly/MTTu3G",
+        "display_url": "bit.ly/MTTu3G",
+        "indices": [
+          80,
+          100
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GlobalHigherEd",
+        "name": "GlobalHigherEd",
+        "id": 20961822,
+        "id_str": "20961822",
+        "indices": [
+          29,
+          44
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,145 @@
+{
+  "created_at": "Tue Aug 14 18:26:31 +0000 2012",
+  "id": 235442293694402560,
+  "id_str": "235442293694402560",
+  "text": "#UVA emails released by @DailyProgress, posted by @cavalierdaily 7/31: http://t.co/qo3LbSkV #Sullivan #highered",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19784501,
+    "id_str": "19784501",
+    "name": "Sean M. Kennedy",
+    "screen_name": "slicksean",
+    "location": "East Village and the world",
+    "description": "Writer, critical inquirer, PhD student in English @CUNYGradCenter. Former journo. UVA undergrad, Rutgers MFA. My research Tumblr: http://t.co/a3ffL9sf",
+    "url": "http://www.sean-kennedy.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.sean-kennedy.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/a3ffL9sf",
+            "expanded_url": "http://bit.ly/P9zmNR",
+            "display_url": "bit.ly/P9zmNR",
+            "indices": [
+              130,
+              150
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1382,
+    "friends_count": 419,
+    "listed_count": 122,
+    "created_at": "Fri Jan 30 19:49:49 +0000 2009",
+    "favourites_count": 100,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 27320,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/70907895/Twitter.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/70907895/Twitter.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1693628082/IMG_9502_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1693628082/IMG_9502_normal.jpg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          92,
+          101
+        ]
+      },
+      {
+        "text": "highered",
+        "indices": [
+          102,
+          111
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/qo3LbSkV",
+        "expanded_url": "http://bit.ly/MXx5cH",
+        "display_url": "bit.ly/MXx5cH",
+        "indices": [
+          71,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DailyProgress",
+        "name": "The Daily Progress",
+        "id": 17136814,
+        "id_str": "17136814",
+        "indices": [
+          24,
+          38
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          50,
+          64
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

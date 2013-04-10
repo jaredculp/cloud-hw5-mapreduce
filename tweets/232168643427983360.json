@@ -1,0 +1,146 @@
+{
+  "created_at": "Sun Aug 05 17:38:12 +0000 2012",
+  "id": 232168643427983360,
+  "id_str": "232168643427983360",
+  "text": "#UVa target. Cavs looked like a lock for an official. MT @ebosshoops: 2013 PF Schuyler Rimmer has committed to Florida per his summer coach.",
+  "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 287150318,
+    "id_str": "287150318",
+    "name": "Brad Franklin",
+    "screen_name": "Cavs_Corner",
+    "location": "Virginia",
+    "description": "Official Twitter feed of http://t.co/0lhSbopL, covering UVa sports and recruiting as part of the Rivals network.",
+    "url": "http://virginia.rivals.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://virginia.rivals.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/0lhSbopL",
+            "expanded_url": "http://CavsCorner.com",
+            "display_url": "CavsCorner.com",
+            "indices": [
+              25,
+              45
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1549,
+    "friends_count": 271,
+    "listed_count": 60,
+    "created_at": "Sun Apr 24 12:18:09 +0000 2011",
+    "favourites_count": 145,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9664,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FBFBFB",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/528823890/twitter_background.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/528823890/twitter_background.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2147556465/C62F8F52-77AF-4E3B-B359-3DF251D4DA20_normal",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2147556465/C62F8F52-77AF-4E3B-B359-3DF251D4DA20_normal",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/287150318/1359662519",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "b49dacd1097b492f",
+    "url": "https://api.twitter.com/1.1/geo/id/b49dacd1097b492f.json",
+    "place_type": "city",
+    "name": "Tuckahoe",
+    "full_name": "Tuckahoe, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.654337,
+            37.555408
+          ],
+          [
+            -77.525838,
+            37.555408
+          ],
+          [
+            -77.525838,
+            37.633604
+          ],
+          [
+            -77.654337,
+            37.633604
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ebosshoops",
+        "name": "Eric Bossi",
+        "id": 26419007,
+        "id_str": "26419007",
+        "indices": [
+          57,
+          68
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

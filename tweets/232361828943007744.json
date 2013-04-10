@@ -1,0 +1,128 @@
+{
+  "created_at": "Mon Aug 06 06:25:51 +0000 2012",
+  "id": 232361828943007744,
+  "id_str": "232361828943007744",
+  "text": "GRAPE ATTRACTION convoca su 2ª edición en el marco de la Feria Fruit Attraction @FruitAttraction &gt; http://t.co/sSnerfY0 #uva #grape #wine",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 260377464,
+    "id_str": "260377464",
+    "name": "CHIL",
+    "screen_name": "red_chil",
+    "location": "España",
+    "description": "Red Profesional sobre #agro-#alimentación, medio ambiente, mundo #rural... Iniciativa sin ánimo de lucro que busca crear sinergias ¿Nos acompañas?  #innovando",
+    "url": "http://www.chil.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.chil.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3178,
+    "friends_count": 1365,
+    "listed_count": 132,
+    "created_at": "Thu Mar 03 19:32:10 +0000 2011",
+    "favourites_count": 6283,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15511,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "D9D9D9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/670763659/6d133b568a3b5d73bd66fbf0602e3fe2.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/670763659/6d133b568a3b5d73bd66fbf0602e3fe2.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3085275254/c1111080fd38d0befac02a34e55cd1af_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3085275254/c1111080fd38d0befac02a34e55cd1af_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/260377464/1348759237",
+    "profile_link_color": "3B4874",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "D1F0DC",
+    "profile_text_color": "424142",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          123,
+          127
+        ]
+      },
+      {
+        "text": "grape",
+        "indices": [
+          128,
+          134
+        ]
+      },
+      {
+        "text": "wine",
+        "indices": [
+          135,
+          140
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/sSnerfY0",
+        "expanded_url": "http://www.chil.org/news/1468",
+        "display_url": "chil.org/news/1468",
+        "indices": [
+          102,
+          122
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "FruitAttraction",
+        "name": "Fruit Attraction",
+        "id": 325429204,
+        "id_str": "325429204",
+        "indices": [
+          80,
+          96
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

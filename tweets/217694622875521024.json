@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue Jun 26 19:03:38 +0000 2012",
+  "id": 217694622875521024,
+  "id_str": "217694622875521024",
+  "text": "#UVA BOV 8437 Viewers Live http://t.co/IrFPs8Qv",
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 583919746,
+    "id_str": "583919746",
+    "name": "Cheryl Lynn Collins ",
+    "screen_name": "CherylCollins56",
+    "location": "Virginia ",
+    "description": "A tall gal who loves life, family and friends, and a glass of vino at the end of the day. Work hard, play harder! visit www.petersburglibraryfoundation.org ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 55,
+    "friends_count": 205,
+    "listed_count": 2,
+    "created_at": "Fri May 18 15:43:37 +0000 2012",
+    "favourites_count": 29,
+    "utc_offset": -36000,
+    "time_zone": "Hawaii",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 781,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2229395041/Birthday_Party_026__2__normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2229395041/Birthday_Party_026__2__normal.jpg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 217694622879715329,
+        "id_str": "217694622879715329",
+        "indices": [
+          27,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/media/AwVoGypCEAExFg2.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/AwVoGypCEAExFg2.jpg",
+        "url": "http://t.co/IrFPs8Qv",
+        "display_url": "pic.twitter.com/IrFPs8Qv",
+        "expanded_url": "http://twitter.com/CherylCollins56/status/217694622875521024/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 450,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 255,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 480,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

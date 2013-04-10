@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue Jun 26 19:28:48 +0000 2012",
+  "id": 217700960389181440,
+  "id_str": "217700960389181440",
+  "text": "RT @chronicle: Teresa Sullivan is reinstated at #UVa: http://t.co/MeujRkTy Complete coverage: http://t.co/SMRAMpyG",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15808633,
+    "id_str": "15808633",
+    "name": "Chris P.",
+    "screen_name": "ICchris",
+    "location": "Ithaca, NY",
+    "description": "Dir. of advancement communications at Ithaca College. Interested in development, alumni relations, corporate communications, marketing. Georgetown grad.",
+    "url": "http://www.ithaca.edu/giving",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.ithaca.edu/giving",
+            "expanded_url": null,
+            "indices": [
+              0,
+              28
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1041,
+    "friends_count": 1058,
+    "listed_count": 86,
+    "created_at": "Mon Aug 11 14:30:05 +0000 2008",
+    "favourites_count": 124,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10990,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4C477B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/291971930/Disc_golf_photo_CROP_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/291971930/Disc_golf_photo_CROP_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "2A283E",
+    "profile_sidebar_fill_color": "FFF1CC",
+    "profile_text_color": "303030",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/MeujRkTy",
+        "expanded_url": "http://chroni.cl/QdqIiN",
+        "display_url": "chroni.cl/QdqIiN",
+        "indices": [
+          54,
+          74
+        ]
+      },
+      {
+        "url": "http://t.co/SMRAMpyG",
+        "expanded_url": "http://chroni.cl/Mwk9Y8",
+        "display_url": "chroni.cl/Mwk9Y8",
+        "indices": [
+          94,
+          114
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

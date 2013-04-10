@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed Aug 29 19:39:23 +0000 2012",
+  "id": 240896449804652544,
+  "id_str": "240896449804652544",
+  "text": "Wahoo-wah! RT @AP_Ken_Thomas: #Obama in Charlottesville: \"I still don't know what a Wahoo is. I know we've got some here today.\" #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15175887,
+    "id_str": "15175887",
+    "name": "trish anderton",
+    "screen_name": "trishanderton",
+    "location": "ÜT: -6.217502,106.811332",
+    "description": "Multimedian, writer, listener; Red Sox fan and amateur streetfoodologist.",
+    "url": "http://trishanderton.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://trishanderton.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 903,
+    "friends_count": 1190,
+    "listed_count": 62,
+    "created_at": "Fri Jun 20 02:46:04 +0000 2008",
+    "favourites_count": 821,
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11413,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F4F0CA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/409621106/xab7d2470f81d1071ce06f5957115e9f.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/409621106/xab7d2470f81d1071ce06f5957115e9f.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1680380660/profile_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1680380660/profile_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/15175887/1354478735",
+    "profile_link_color": "79308D",
+    "profile_sidebar_border_color": "05020B",
+    "profile_sidebar_fill_color": "E5EEE2",
+    "profile_text_color": "508F88",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Obama",
+        "indices": [
+          30,
+          36
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          129,
+          133
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AP_Ken_Thomas",
+        "name": "Ken Thomas",
+        "id": 15463486,
+        "id_str": "15463486",
+        "indices": [
+          14,
+          28
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue Aug 28 16:00:54 +0000 2012",
+  "id": 240479074806558720,
+  "id_str": "240479074806558720",
+  "text": "I love it here #UVA  http://t.co/YZRtG1mN",
+  "source": "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">Twitter MMS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 100023926,
+    "id_str": "100023926",
+    "name": "Andrew Kovalenko",
+    "screen_name": "andrewajk1",
+    "location": "",
+    "description": "I do what I want.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 175,
+    "friends_count": 224,
+    "listed_count": 0,
+    "created_at": "Mon Dec 28 19:11:08 +0000 2009",
+    "favourites_count": 390,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6181,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1327992991/38023_1526080757039_1385251050_31356876_7232995_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1327992991/38023_1526080757039_1385251050_31356876_7232995_n_normal.jpg",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          15,
+          19
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 240479074810753025,
+        "id_str": "240479074810753025",
+        "indices": [
+          21,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/A1ZaccYCcAEasvs.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A1ZaccYCcAEasvs.jpg",
+        "url": "http://t.co/YZRtG1mN",
+        "display_url": "pic.twitter.com/YZRtG1mN",
+        "expanded_url": "http://twitter.com/andrewajk1/status/240479074806558720/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 450,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 768,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 255,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,108 @@
+{
+  "created_at": "Thu Jun 21 13:24:57 +0000 2012",
+  "id": 215797456913432577,
+  "id_str": "215797456913432577",
+  "text": "Thanks for following us @katiecouric! It was always fun to stumble upon your byline in the @cavalierdaily archives.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 208579166,
+    "id_str": "208579166",
+    "name": "Cav Daily Alumni",
+    "screen_name": "cavdailyalumni",
+    "location": "",
+    "description": "Serving The Cavalier Daily and its alumni since 1983.",
+    "url": "http://www.cdalumni.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cdalumni.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 175,
+    "friends_count": 158,
+    "listed_count": 2,
+    "created_at": "Wed Oct 27 14:46:25 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 258,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1154575841/cdaaban2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1154575841/cdaaban2_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "katiecouric",
+        "name": "Katie Couric",
+        "id": 18812301,
+        "id_str": "18812301",
+        "indices": [
+          24,
+          36
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          91,
+          105
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

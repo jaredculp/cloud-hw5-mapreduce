@@ -1,0 +1,130 @@
+{
+  "created_at": "Fri Jun 22 14:01:13 +0000 2012",
+  "id": 216168968963100672,
+  "id_str": "216168968963100672",
+  "text": "RT @GlobalHigherEd: #UVa Rector's statement http://t.co/YiT9G2N1 authored by Hill &amp; Knowlton strategist #JohnUllyot  http://t.co/SPmDfuUt",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 252132568,
+    "id_str": "252132568",
+    "name": "GT C21U",
+    "screen_name": "C21U",
+    "location": "Atlanta, GA",
+    "description": "The Center for 21st Century Universities (C21U) is Georgia Tech's living laboratory for fundamental change in higher education.",
+    "url": "http://www.c21u.gatech.edu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.c21u.gatech.edu",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1008,
+    "friends_count": 559,
+    "listed_count": 83,
+    "created_at": "Mon Feb 14 15:20:29 +0000 2011",
+    "favourites_count": 44,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4112,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C4CBD3",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/612521220/7ghyrcf3t2syladw88hl.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/612521220/7ghyrcf3t2syladw88hl.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2414533240/utbr3i39blkxy664heg4_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2414533240/utbr3i39blkxy664heg4_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/252132568/1353076531",
+    "profile_link_color": "005A8C",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          20,
+          24
+        ]
+      },
+      {
+        "text": "JohnUllyot",
+        "indices": [
+          108,
+          119
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/YiT9G2N1",
+        "expanded_url": "http://bit.ly/Np8Hy8",
+        "display_url": "bit.ly/Np8Hy8",
+        "indices": [
+          44,
+          64
+        ]
+      },
+      {
+        "url": "http://t.co/SPmDfuUt",
+        "expanded_url": "http://twitpic.com/9z3ptg",
+        "display_url": "twitpic.com/9z3ptg",
+        "indices": [
+          121,
+          141
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GlobalHigherEd",
+        "name": "GlobalHigherEd",
+        "id": 20961822,
+        "id_str": "20961822",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

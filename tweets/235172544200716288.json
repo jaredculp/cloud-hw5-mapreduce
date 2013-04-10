@@ -1,0 +1,131 @@
+{
+  "created_at": "Tue Aug 14 00:34:39 +0000 2012",
+  "id": 235172544200716288,
+  "id_str": "235172544200716288",
+  "text": "Such a WARM welcome in Charlottesville by @uvafieldhockey   Love my TEAM! #UVa http://t.co/7bozutiC",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 59175902,
+    "id_str": "59175902",
+    "name": "Michelle Vittese",
+    "screen_name": "MichelleVitt55",
+    "location": "Charlottesville, Va",
+    "description": "Student athlete at the University of Virginia.  \r\nMember of USA Field Hockey Team.\r\n2012 Olympian\r\n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1685,
+    "friends_count": 789,
+    "listed_count": 52,
+    "created_at": "Wed Jul 22 16:46:03 +0000 2009",
+    "favourites_count": 800,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 1906,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2598232609/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2598232609/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 5,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          74,
+          78
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "uvafieldhockey",
+        "name": "Virginia Hockey",
+        "id": 44694811,
+        "id_str": "44694811",
+        "indices": [
+          42,
+          57
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 235172544204910593,
+        "id_str": "235172544204910593",
+        "indices": [
+          79,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/A0OALtZCMAEQ4lM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/A0OALtZCMAEQ4lM.jpg",
+        "url": "http://t.co/7bozutiC",
+        "display_url": "pic.twitter.com/7bozutiC",
+        "expanded_url": "http://twitter.com/MichelleVitt55/status/235172544200716288/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 765,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 254,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 448,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

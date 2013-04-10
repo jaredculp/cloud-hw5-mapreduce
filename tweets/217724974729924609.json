@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Jun 26 21:04:13 +0000 2012",
+  "id": 217724974729924609,
+  "id_str": "217724974729924609",
+  "text": "@LarrySabato we are now celebrating the sesquicentennial of the next-most-recent unpleasantness. Virginians are a hard people.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 217724150003941376,
+  "in_reply_to_status_id_str": "217724150003941376",
+  "in_reply_to_user_id": 21313053,
+  "in_reply_to_user_id_str": "21313053",
+  "in_reply_to_screen_name": "LarrySabato",
+  "user": {
+    "id": 35643290,
+    "id_str": "35643290",
+    "name": "Luigi de Guzman",
+    "screen_name": "ouij",
+    "location": "Washington, DC",
+    "description": "A little learning is a dangerous thing.\r\nFor non-Nats stuff, see http://t.co/YScmLHYC",
+    "url": "http://natstradamus.wordpress.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://natstradamus.wordpress.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/YScmLHYC",
+            "expanded_url": "http://latverianus.tumblr.com",
+            "display_url": "latverianus.tumblr.com",
+            "indices": [
+              65,
+              85
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 536,
+    "friends_count": 564,
+    "listed_count": 28,
+    "created_at": "Mon Apr 27 02:32:02 +0000 2009",
+    "favourites_count": 716,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 41259,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2601209272/19r5v2ihoc9xrgp2ep5j_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2601209272/19r5v2ihoc9xrgp2ep5j_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

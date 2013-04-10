@@ -1,0 +1,135 @@
+{
+  "created_at": "Sat Aug 04 16:25:56 +0000 2012",
+  "id": 231788066342313984,
+  "id_str": "231788066342313984",
+  "text": "GRAPE ATTRACTION convoca su 2ª edición @FruitAttraction #FA12 &gt; http://t.co/Fy9rmjPl #uva #fruta #fruit",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 443774751,
+    "id_str": "443774751",
+    "name": "IDEAGRO",
+    "screen_name": "ideagro",
+    "location": "Murcia",
+    "description": "Investigación y Desarrollo Agro-alimentario. ¿Innovamos juntos? Te ayudamos a hacer mejor lo que ya sabes hacer. Innovate through outsourcing your R&D. ",
+    "url": "http://ideagro.es",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://ideagro.es",
+            "expanded_url": null,
+            "indices": [
+              0,
+              17
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1647,
+    "friends_count": 678,
+    "listed_count": 48,
+    "created_at": "Thu Dec 22 14:41:02 +0000 2011",
+    "favourites_count": 1717,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2473,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/432497465/post.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/432497465/post.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1845506673/i_d_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1845506673/i_d_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/443774751/1348766895",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FA12",
+        "indices": [
+          56,
+          61
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          88,
+          92
+        ]
+      },
+      {
+        "text": "fruta",
+        "indices": [
+          93,
+          99
+        ]
+      },
+      {
+        "text": "fruit",
+        "indices": [
+          100,
+          106
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Fy9rmjPl",
+        "expanded_url": "http://www.chil.org/innova/group/ideagro/news/2012/08/04/grape-attraction-convoca-su-2c2aa-edicion-en-el-marco-de-la-feria-fruit-attraction#",
+        "display_url": "chil.org/innova/group/i…",
+        "indices": [
+          67,
+          87
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "FruitAttraction",
+        "name": "Fruit Attraction",
+        "id": 325429204,
+        "id_str": "325429204",
+        "indices": [
+          39,
+          55
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

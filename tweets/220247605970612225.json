@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jul 03 20:08:15 +0000 2012",
+  "id": 220247605970612225,
+  "id_str": "220247605970612225",
+  "text": "#10FavouriteBands #Sullivan",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 83518440,
+    "id_str": "83518440",
+    "name": "Gio Imántada",
+    "screen_name": "UnaTalGiovis",
+    "location": "",
+    "description": "Soy Normalmente anormal, Una loca fan más de @LOSCALIGARIS @ntvgoficial @loveoflesbian MÚSICA LLENAS MI ALMA ♥",
+    "url": "https://t.co/V0bUfWw1",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/V0bUfWw1",
+            "expanded_url": "https://www.facebook.com/GiOskaligari",
+            "display_url": "facebook.com/GiOskaligari",
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 499,
+    "friends_count": 951,
+    "listed_count": 1,
+    "created_at": "Mon Oct 19 04:04:08 +0000 2009",
+    "favourites_count": 132,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 25804,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/760639314/340bc18e615446c6cf194c2961f9f10c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/760639314/340bc18e615446c6cf194c2961f9f10c.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3188625924/362860f59934289ac23de257d0a774e9_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3188625924/362860f59934289ac23de257d0a774e9_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/83518440/1360047388",
+    "profile_link_color": "F50A68",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "21C3E0",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "10FavouriteBands",
+        "indices": [
+          0,
+          17
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          18,
+          27
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

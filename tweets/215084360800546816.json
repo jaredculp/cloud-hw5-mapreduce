@@ -1,0 +1,99 @@
+{
+  "created_at": "Tue Jun 19 14:11:22 +0000 2012",
+  "id": 215084360800546816,
+  "id_str": "215084360800546816",
+  "text": "@bobmcdonnell, your impotence has cost #UVA a great leader in Teresa #Sullivan, and it may ultimately cost our university its greatness",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 14738157,
+  "in_reply_to_user_id_str": "14738157",
+  "in_reply_to_screen_name": "BobMcDonnell",
+  "user": {
+    "id": 42670111,
+    "id_str": "42670111",
+    "name": "Chris Spangler",
+    "screen_name": "cnspangler",
+    "location": "Charlottesville, VA",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 52,
+    "friends_count": 175,
+    "listed_count": 1,
+    "created_at": "Tue May 26 17:19:40 +0000 2009",
+    "favourites_count": 1,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 232,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/231882456/christwitter_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/231882456/christwitter_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          39,
+          43
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          69,
+          78
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

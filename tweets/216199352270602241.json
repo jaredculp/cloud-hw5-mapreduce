@@ -1,0 +1,105 @@
+{
+  "created_at": "Fri Jun 22 16:01:57 +0000 2012",
+  "id": 216199352270602241,
+  "id_str": "216199352270602241",
+  "text": "#UVA datapoint: Since 2000, state funding/student has declined from $15,300 to $8,300 per student in constant dollars http://t.co/tnxLZCrp",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18978447,
+    "id_str": "18978447",
+    "name": "Robert Puentes",
+    "screen_name": "rpuentes",
+    "location": "Metropolitan Washington DC",
+    "description": "Robert Puentes focuses on the broad array of policies and issues related to metropolitan growth and development.",
+    "url": "http://www.brookings.edu/experts/puentesr.aspx",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.brookings.edu/experts/puentesr.aspx",
+            "expanded_url": null,
+            "indices": [
+              0,
+              46
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1339,
+    "friends_count": 355,
+    "listed_count": 76,
+    "created_at": "Wed Jan 14 14:51:12 +0000 2009",
+    "favourites_count": 8,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1622,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4D8F2C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/696850402/ddea934c1527344b850b0cb586d680a6.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/696850402/ddea934c1527344b850b0cb586d680a6.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/267477693/rpuentes3_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/267477693/rpuentes3_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/18978447/1354041450",
+    "profile_link_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "0084B4",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/tnxLZCrp",
+        "expanded_url": "http://twitter.com/danamagliola/status/216198314666889217/photo/1",
+        "display_url": "pic.twitter.com/tnxLZCrp",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

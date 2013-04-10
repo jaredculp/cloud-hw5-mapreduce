@@ -1,0 +1,101 @@
+{
+  "created_at": "Wed Jun 20 16:20:17 +0000 2012",
+  "id": 215479191880208385,
+  "id_str": "215479191880208385",
+  "text": "This gets even better when read in voice of NPR hosts. RT @kjhealy The BoV Declaration of Independence: http://t.co/yJcqyEQF… #UVa",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 640983,
+    "id_str": "640983",
+    "name": "Alan",
+    "screen_name": "schussman",
+    "location": "Flagstaffsbürg and thereabouts",
+    "description": "Sociologist errant now working in IT. Dad, garage-cleaner, guitar-aspirant, coffee operator. Dad.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 333,
+    "friends_count": 189,
+    "listed_count": 32,
+    "created_at": "Mon Jan 15 22:59:13 +0000 2007",
+    "favourites_count": 161,
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8372,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0D1030",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/80504795/2539543910_0d52400b89_m_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/80504795/2539543910_0d52400b89_m_normal.jpg",
+    "profile_link_color": "264B22",
+    "profile_sidebar_border_color": "10143D",
+    "profile_sidebar_fill_color": "B7A8A8",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          126,
+          130
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/yJcqyEQF",
+        "expanded_url": "http://kieranhealy.org/blog/archives/",
+        "display_url": "kieranhealy.org/blog/archives/",
+        "indices": [
+          104,
+          124
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kjhealy",
+        "name": "Kieran Healy",
+        "id": 782325,
+        "id_str": "782325",
+        "indices": [
+          58,
+          66
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

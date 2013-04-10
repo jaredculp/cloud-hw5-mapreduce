@@ -1,0 +1,149 @@
+{
+  "created_at": "Tue Jun 26 14:15:51 +0000 2012",
+  "id": 217622202726617088,
+  "id_str": "217622202726617088",
+  "text": "Donna Shalala: Easier to run a huge fed agency than the U of Wisconsin, http://t.co/d9MyrYIn #UVa",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14165069,
+    "id_str": "14165069",
+    "name": "Gardner Selby",
+    "screen_name": "gardnerselby",
+    "location": "Austin, TX",
+    "description": "Editor, PolitiFact Texas, Austin American-Statesman, Saturday basketballer, knees and pals willing",
+    "url": "http://www.politifacttexas.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.politifacttexas.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3716,
+    "friends_count": 1899,
+    "listed_count": 238,
+    "created_at": "Mon Mar 17 18:56:49 +0000 2008",
+    "favourites_count": 66,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3924,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/699292218/gardnerbrand_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/699292218/gardnerbrand_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      30.26296958,
+      -97.72702974
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -97.72702974,
+      30.26296958
+    ]
+  },
+  "place": {
+    "id": "c3f37afa9efcf94b",
+    "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
+    "place_type": "city",
+    "name": "Austin",
+    "full_name": "Austin, TX",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -97.938383,
+            30.098659
+          ],
+          [
+            -97.56842,
+            30.098659
+          ],
+          [
+            -97.56842,
+            30.49685
+          ],
+          [
+            -97.938383,
+            30.49685
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          93,
+          97
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/d9MyrYIn",
+        "expanded_url": "http://bit.ly/LNAiXI",
+        "display_url": "bit.ly/LNAiXI",
+        "indices": [
+          72,
+          92
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

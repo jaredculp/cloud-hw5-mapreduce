@@ -1,0 +1,123 @@
+{
+  "created_at": "Wed Jun 27 23:06:43 +0000 2012",
+  "id": 218118191442964480,
+  "id_str": "218118191442964480",
+  "text": "RT @washingtonpost Gov. @BobMcDonnell: Firing threat helped end #UVA crisis: http://t.co/4Mtm1e9N",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 52070315,
+    "id_str": "52070315",
+    "name": "F&E Intelligence",
+    "screen_name": "FEIntelligence",
+    "location": "New York City",
+    "description": "Foundation & Endowment Intelligence delivers info on investment strategies of foundations and endowments. A Euromoney Institutional Investor publication.",
+    "url": "http://www.foundationendowment.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.foundationendowment.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 229,
+    "friends_count": 174,
+    "listed_count": 9,
+    "created_at": "Mon Jun 29 14:25:40 +0000 2009",
+    "favourites_count": 4,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 828,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1677829883/FEI_twitter_72_normal.gif",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1677829883/FEI_twitter_72_normal.gif",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          64,
+          68
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/4Mtm1e9N",
+        "expanded_url": "http://wapo.st/OyFJPh",
+        "display_url": "wapo.st/OyFJPh",
+        "indices": [
+          77,
+          97
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          24,
+          37
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

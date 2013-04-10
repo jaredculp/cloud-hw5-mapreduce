@@ -1,0 +1,113 @@
+{
+  "created_at": "Tue Jun 19 03:59:50 +0000 2012",
+  "id": 214930463557550081,
+  "id_str": "214930463557550081",
+  "text": "For anyone following the #uva #sullivan broohaha, this is some funny shit: http://t.co/Bmk5yZbv",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 460484744,
+    "id_str": "460484744",
+    "name": "Amomynous",
+    "screen_name": "A_momynous",
+    "location": "Internet Friendship Store",
+    "description": "If you haven't got anything nice to say, come sit by me.",
+    "url": "http://t.co/lnpf6ykp",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/lnpf6ykp",
+            "expanded_url": "http://amomynity.com/",
+            "display_url": "amomynity.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 540,
+    "friends_count": 781,
+    "listed_count": 8,
+    "created_at": "Tue Jan 10 20:20:57 +0000 2012",
+    "favourites_count": 3345,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2292,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2307627950/6mrflj8zg2dghxg6ha4b_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2307627950/6mrflj8zg2dghxg6ha4b_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/460484744/1353092667",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          25,
+          29
+        ]
+      },
+      {
+        "text": "sullivan",
+        "indices": [
+          30,
+          39
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Bmk5yZbv",
+        "expanded_url": "http://cvillenews.com/2012/06/18/dragas-statement-translated/",
+        "display_url": "cvillenews.com/2012/06/18/dra…",
+        "indices": [
+          75,
+          95
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

@@ -1,0 +1,141 @@
+{
+  "created_at": "Wed Jun 20 20:23:08 +0000 2012",
+  "id": 215540304676270080,
+  "id_str": "215540304676270080",
+  "text": "Sabiam que o #Prosecco legitimo é produzido a partir de uma #uva só, do mesmo nome? http://t.co/fpUrDmif",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 118863382,
+    "id_str": "118863382",
+    "name": "Zucco Restaurante ",
+    "screen_name": "zuccorestaurant",
+    "location": "São Paulo - SP - Brasil",
+    "description": "Instalado à rua Haddock Lobo 1416, o Zucco Restaurante é um italiano que mescla a culinária clássica com detalhes modernos e saborosíssimos.",
+    "url": "http://www.zuccorestaurante.com.br",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.zuccorestaurante.com.br",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 52,
+    "friends_count": 35,
+    "listed_count": 1,
+    "created_at": "Mon Mar 01 23:39:17 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 377,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "37251B",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/726543105/ass_04_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/726543105/ass_04_normal.jpg",
+    "profile_link_color": "9D611C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "37251B",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Prosecco",
+        "indices": [
+          13,
+          22
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          60,
+          64
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ],
+    "media": [
+      {
+        "id": 215540304693047296,
+        "id_str": "215540304693047296",
+        "indices": [
+          84,
+          104
+        ],
+        "media_url": "http://pbs.twimg.com/media/Av3Aw-ACMAAGPz6.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Av3Aw-ACMAAGPz6.jpg",
+        "url": "http://t.co/fpUrDmif",
+        "display_url": "pic.twitter.com/fpUrDmif",
+        "expanded_url": "http://twitter.com/zuccorestaurant/status/215540304676270080/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 320,
+            "h": 480,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 320,
+            "h": 480,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 320,
+            "h": 480,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

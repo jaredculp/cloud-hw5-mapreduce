@@ -1,0 +1,130 @@
+{
+  "created_at": "Sun Jun 24 20:20:07 +0000 2012",
+  "id": 216989100878737408,
+  "id_str": "216989100878737408",
+  "text": "Social Re-search Ex: MT @bwgleason @chronicle #UVA creates online archive of Pres resignation: photos, tweets http://t.co/WvFiLaSD  #MSUepet",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 22065128,
+    "id_str": "22065128",
+    "name": "Christine Greenhow",
+    "screen_name": "chrisgreenhow",
+    "location": " MN, MI",
+    "description": "Social Media & Education Professor/Researcher @MSUCollegeofEd Comm Director, Div C @AERA_EdResearch; \r\ngreenhow@msu.edu",
+    "url": "http://www.cgreenhow.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.cgreenhow.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1084,
+    "friends_count": 825,
+    "listed_count": 94,
+    "created_at": "Thu Feb 26 21:30:58 +0000 2009",
+    "favourites_count": 79,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1066,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/83581239/GreenhowHeadshot_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/83581239/GreenhowHeadshot_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          46,
+          50
+        ]
+      },
+      {
+        "text": "MSUepet",
+        "indices": [
+          132,
+          140
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/WvFiLaSD",
+        "expanded_url": "http://chroni.cl/O64npY",
+        "display_url": "chroni.cl/O64npY",
+        "indices": [
+          110,
+          130
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BWGleason",
+        "name": "Benjamin Gleason",
+        "id": 21514241,
+        "id_str": "21514241",
+        "indices": [
+          24,
+          34
+        ]
+      },
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          35,
+          45
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

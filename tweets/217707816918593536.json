@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:56:03 +0000 2012",
+  "id": 217707816918593536,
+  "id_str": "217707816918593536",
+  "text": "“@blakesinyard: 13,000+ people just tuned into that BOV meeting. At least we care...#UVA” I just waited for the 13,000 texts to hit my phone",
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 93569748,
+    "id_str": "93569748",
+    "name": "John Thackston",
+    "screen_name": "johnthackston",
+    "location": "",
+    "description": "I play music. Let me know what you think.",
+    "url": "http://johnthackston.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://johnthackston.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 282,
+    "friends_count": 86,
+    "listed_count": 2,
+    "created_at": "Mon Nov 30 05:39:23 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 827,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/158885692/tallbackground_small.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/158885692/tallbackground_small.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1506909189/johnanderson-0026-small_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1506909189/johnanderson-0026-small_normal.jpg",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          84,
+          88
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "blakesinyard",
+        "name": "Blake Sinyard",
+        "id": 254434787,
+        "id_str": "254434787",
+        "indices": [
+          1,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

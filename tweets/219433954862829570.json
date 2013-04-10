@@ -1,0 +1,148 @@
+{
+  "created_at": "Sun Jul 01 14:15:06 +0000 2012",
+  "id": 219433954862829570,
+  "id_str": "219433954862829570",
+  "text": "“@Cavs_Corner: HUGE #UVa hoops news as Devon Hall will reclassify to 2013 and has committed to the Cavaliers.” @TimMelson",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 391086006,
+    "id_str": "391086006",
+    "name": "LUNCH in your BOX",
+    "screen_name": "helloladies24",
+    "location": "",
+    "description": "if you can dodge a wrench, you can dodge a ball",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 64,
+    "friends_count": 111,
+    "listed_count": 1,
+    "created_at": "Sat Oct 15 01:17:09 +0000 2011",
+    "favourites_count": 127,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2270,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2675294846/c8c03016c55dee51d6b56f1dac931a70_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2675294846/c8c03016c55dee51d6b56f1dac931a70_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/391086006/1349233565",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.05874012,
+      -77.78954412
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.78954412,
+      38.05874012
+    ]
+  },
+  "place": {
+    "id": "abaa4660736d0b6a",
+    "url": "https://api.twitter.com/1.1/geo/id/abaa4660736d0b6a.json",
+    "place_type": "city",
+    "name": "Cuckoo",
+    "full_name": "Cuckoo, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.986645,
+            37.860171
+          ],
+          [
+            -77.763987,
+            37.860171
+          ],
+          [
+            -77.763987,
+            38.079692
+          ],
+          [
+            -77.986645,
+            38.079692
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          20,
+          24
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Cavs_Corner",
+        "name": "Brad Franklin",
+        "id": 287150318,
+        "id_str": "287150318",
+        "indices": [
+          1,
+          13
+        ]
+      },
+      {
+        "screen_name": "TimMelson",
+        "name": "Tim Melson",
+        "id": 176864313,
+        "id_str": "176864313",
+        "indices": [
+          111,
+          121
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

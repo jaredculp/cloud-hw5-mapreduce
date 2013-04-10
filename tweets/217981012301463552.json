@@ -1,0 +1,134 @@
+{
+  "created_at": "Wed Jun 27 14:01:37 +0000 2012",
+  "id": 217981012301463552,
+  "id_str": "217981012301463552",
+  "text": "RT @aceducation: #UVA coverage from @CBSEveningNews, including @ACEducation's Molly Broad: http://t.co/oiQ29msB",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 23626407,
+    "id_str": "23626407",
+    "name": "SSRC",
+    "screen_name": "SSRC_org",
+    "location": "Brooklyn, NY",
+    "description": "The Social Science Research Council is an independent, non-profit research organization that uses social science research to address critical social issues. ",
+    "url": "http://www.ssrc.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.ssrc.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              19
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 13673,
+    "friends_count": 4346,
+    "listed_count": 797,
+    "created_at": "Tue Mar 10 18:16:21 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6843,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/670795739/5e079d8975334b18a11211f417ffce97.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/670795739/5e079d8975334b18a11211f417ffce97.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/92122615/ssrcorg_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/92122615/ssrcorg_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/23626407/1354555746",
+    "profile_link_color": "B5B5B5",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C6E2EE",
+    "profile_text_color": "7890A6",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          17,
+          21
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/oiQ29msB",
+        "expanded_url": "http://m.cbsnews.com/postwatch.rbml?pageType=video&cbsID=7413046",
+        "display_url": "m.cbsnews.com/postwatch.rbml…",
+        "indices": [
+          91,
+          111
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ACEducation",
+        "name": "ACE",
+        "id": 119235720,
+        "id_str": "119235720",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "CBSEveningNews",
+        "name": "CBS Evening News",
+        "id": 42958829,
+        "id_str": "42958829",
+        "indices": [
+          36,
+          51
+        ]
+      },
+      {
+        "screen_name": "ACEducation",
+        "name": "ACE",
+        "id": 119235720,
+        "id_str": "119235720",
+        "indices": [
+          63,
+          75
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

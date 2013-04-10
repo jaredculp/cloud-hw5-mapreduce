@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 26 19:22:25 +0000 2012",
+  "id": 217699356722208769,
+  "id_str": "217699356722208769",
+  "text": "Sounds like Terry Sullivan, formerly of @UTSystem, is going to get her job back running #UVa.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 20531221,
+    "id_str": "20531221",
+    "name": "Holly Hacker",
+    "screen_name": "hollyhacker",
+    "location": "Dallas, TX",
+    "description": "Education reporter & data evangelist at @dallasnews I love a good scatterplot. hhacker@dallasnews.com",
+    "url": "http://www.dallasnews.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.dallasnews.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2692,
+    "friends_count": 673,
+    "listed_count": 206,
+    "created_at": "Tue Feb 10 18:10:47 +0000 2009",
+    "favourites_count": 2,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1562,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/675712890/twitterpic_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/675712890/twitterpic_normal.jpg",
+    "profile_link_color": "3B4BFF",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          88,
+          92
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "utsystem",
+        "name": "Univ of Texas System",
+        "id": 193028483,
+        "id_str": "193028483",
+        "indices": [
+          40,
+          49
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

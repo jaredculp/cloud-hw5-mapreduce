@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Jun 19 17:43:20 +0000 2012",
+  "id": 215137703409352706,
+  "id_str": "215137703409352706",
+  "text": "Wonder if @BobMcDonnell will stop the exodus RT RT @cavalierdaily: Comp. Sci. Prof. Bill Wulf has reportedly resigned from #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17119688,
+    "id_str": "17119688",
+    "name": "Zach Carter",
+    "screen_name": "zachdcarter",
+    "location": "Washington, DC",
+    "description": "Senior Political Economy Reporter for The Huffington Post. Producer/Host for HuffPost Live. My dog is awesome.",
+    "url": "http://www.huffingtonpost.com/zach-carter",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.huffingtonpost.com/zach-carter",
+            "expanded_url": null,
+            "indices": [
+              0,
+              41
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2604,
+    "friends_count": 1021,
+    "listed_count": 138,
+    "created_at": "Sun Nov 02 20:56:57 +0000 2008",
+    "favourites_count": 7,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5192,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2389094821/nsbva59dv9icod4iqgq1_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2389094821/nsbva59dv9icod4iqgq1_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          123,
+          127
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BobMcDonnell",
+        "name": "Bob McDonnell",
+        "id": 14738157,
+        "id_str": "14738157",
+        "indices": [
+          10,
+          23
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          51,
+          65
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

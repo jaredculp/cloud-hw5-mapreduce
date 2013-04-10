@@ -1,0 +1,103 @@
+{
+  "created_at": "Sat Jun 23 13:58:06 +0000 2012",
+  "id": 216530573999616001,
+  "id_str": "216530573999616001",
+  "text": "@wyethwire @LarrySabato As with so much of the messy marketplace, eh? #uppers",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216529103392751616,
+  "in_reply_to_status_id_str": "216529103392751616",
+  "in_reply_to_user_id": 21613853,
+  "in_reply_to_user_id_str": "21613853",
+  "in_reply_to_screen_name": "wyethwire",
+  "user": {
+    "id": 203672578,
+    "id_str": "203672578",
+    "name": "S",
+    "screen_name": "textygirlredux",
+    "location": "",
+    "description": "Books and Babies. Native New Yorker longing for home. My Moscow. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 370,
+    "friends_count": 386,
+    "listed_count": 10,
+    "created_at": "Sat Oct 16 20:50:24 +0000 2010",
+    "favourites_count": 2059,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5880,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/162569013/x978ae1704f5bf6366e53da66bb6fc37.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/162569013/x978ae1704f5bf6366e53da66bb6fc37.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2858124469/798504d7453807779248325664a721cc_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2858124469/798504d7453807779248325664a721cc_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/203672578/1356017117",
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uppers",
+        "indices": [
+          70,
+          77
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wyethwire",
+        "name": "Wyeth Ruthven",
+        "id": 21613853,
+        "id_str": "21613853",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "LarrySabato",
+        "name": "Larry Sabato",
+        "id": 21313053,
+        "id_str": "21313053",
+        "indices": [
+          11,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

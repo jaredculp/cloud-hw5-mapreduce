@@ -1,0 +1,123 @@
+{
+  "created_at": "Mon Aug 13 16:43:13 +0000 2012",
+  "id": 235053908567941120,
+  "id_str": "235053908567941120",
+  "text": "@UVAMensHoops Props to @CoachWillyUVA for eating a snail...without mountain dew! #adventurous #WheninParis #UVA #EuroTour",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 634710797,
+  "in_reply_to_user_id_str": "634710797",
+  "in_reply_to_screen_name": "UVAMensHoops",
+  "user": {
+    "id": 198009716,
+    "id_str": "198009716",
+    "name": "Johnny Carpenter",
+    "screen_name": "JonayOnTheSpot",
+    "location": "",
+    "description": "UVA Basketball Manager, Gonna do it big in sports! Jesus is my rock! #Wahoos #AbbeyLove #WWJD ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 158,
+    "friends_count": 177,
+    "listed_count": 4,
+    "created_at": "Sun Oct 03 02:50:05 +0000 2010",
+    "favourites_count": 86,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 474,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/338783031/images.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/338783031/images.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2213375575/Photo_244_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2213375575/Photo_244_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "adventurous",
+        "indices": [
+          81,
+          93
+        ]
+      },
+      {
+        "text": "WheninParis",
+        "indices": [
+          94,
+          106
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          107,
+          111
+        ]
+      },
+      {
+        "text": "EuroTour",
+        "indices": [
+          112,
+          121
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVAMensHoops",
+        "name": "Virginia Basketball",
+        "id": 634710797,
+        "id_str": "634710797",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "CoachWillyUVA",
+        "name": "Jason Williford",
+        "id": 179990610,
+        "id_str": "179990610",
+        "indices": [
+          23,
+          37
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

@@ -1,0 +1,199 @@
+{
+  "created_at": "Sun Aug 12 01:06:34 +0000 2012",
+  "id": 234455806857326592,
+  "id_str": "234455806857326592",
+  "text": "Yay! \"@PRocque: Setting up shop on the #UVA #Corner. #Hoos excited? @camimutoni @rklarman #vaisfororganizers http://t.co/99WPRbub\"",
+  "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 249808556,
+    "id_str": "249808556",
+    "name": "Rachael Klarman",
+    "screen_name": "rklarman",
+    "location": "Richmond, Va",
+    "description": "Youth and Women Vote Director #OFA_VA",
+    "url": "http://barackobama.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://barackobama.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 228,
+    "friends_count": 205,
+    "listed_count": 9,
+    "created_at": "Wed Feb 09 20:41:48 +0000 2011",
+    "favourites_count": 17,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 456,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1429086365/155737_1251221171669_1563690103_30860811_301558_n_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1429086365/155737_1251221171669_1563690103_30860811_301558_n_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      37.54721798,
+      -77.45339743
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -77.45339743,
+      37.54721798
+    ]
+  },
+  "place": {
+    "id": "04037ce87a99ba8e",
+    "url": "https://api.twitter.com/1.1/geo/id/04037ce87a99ba8e.json",
+    "place_type": "city",
+    "name": "Richmond",
+    "full_name": "Richmond, VA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.601011,
+            37.446553
+          ],
+          [
+            -77.385303,
+            37.446553
+          ],
+          [
+            -77.385303,
+            37.602445
+          ],
+          [
+            -77.601011,
+            37.602445
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          39,
+          43
+        ]
+      },
+      {
+        "text": "Corner",
+        "indices": [
+          44,
+          51
+        ]
+      },
+      {
+        "text": "Hoos",
+        "indices": [
+          53,
+          58
+        ]
+      },
+      {
+        "text": "vaisfororganizers",
+        "indices": [
+          90,
+          108
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/99WPRbub",
+        "expanded_url": "http://twitter.com/PRocque/status/234403681297104898/photo/1",
+        "display_url": "pic.twitter.com/99WPRbub",
+        "indices": [
+          109,
+          129
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "PRocque",
+        "name": "Patrick Hanley",
+        "id": 142355988,
+        "id_str": "142355988",
+        "indices": [
+          6,
+          14
+        ]
+      },
+      {
+        "screen_name": "camimutoni",
+        "name": "Camilla Griffiths",
+        "id": 517080424,
+        "id_str": "517080424",
+        "indices": [
+          68,
+          79
+        ]
+      },
+      {
+        "screen_name": "rklarman",
+        "name": "Rachael Klarman",
+        "id": 249808556,
+        "id_str": "249808556",
+        "indices": [
+          80,
+          89
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

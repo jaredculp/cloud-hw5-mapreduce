@@ -1,0 +1,111 @@
+{
+  "created_at": "Mon Aug 06 12:47:47 +0000 2012",
+  "id": 232457945613467648,
+  "id_str": "232457945613467648",
+  "text": "La Escuela de Ingenierías de la #UVA ofrece ocho másteres oficiales #Valladolid http://t.co/f1xo3m92",
+  "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 125335691,
+    "id_str": "125335691",
+    "name": "I love Valladolid",
+    "screen_name": "ilovevalladolid",
+    "location": "Valladolid, España",
+    "description": "¡Amamos a nuestra ciudad!",
+    "url": "http://www.elperez.es",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.elperez.es",
+            "expanded_url": null,
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1276,
+    "friends_count": 444,
+    "listed_count": 47,
+    "created_at": "Mon Mar 22 13:45:47 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -36000,
+    "time_zone": "Hawaii",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1985,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/86317801/ilovevalladolid.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/86317801/ilovevalladolid.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/776558947/ilovevalladolid_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/776558947/ilovevalladolid_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          32,
+          36
+        ]
+      },
+      {
+        "text": "Valladolid",
+        "indices": [
+          68,
+          79
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/f1xo3m92",
+        "expanded_url": "http://fb.me/1Xs1k6YUj",
+        "display_url": "fb.me/1Xs1k6YUj",
+        "indices": [
+          80,
+          100
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

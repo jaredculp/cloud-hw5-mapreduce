@@ -1,0 +1,102 @@
+{
+  "created_at": "Sun Jun 24 14:04:17 +0000 2012",
+  "id": 216894519914934272,
+  "id_str": "216894519914934272",
+  "text": "@AmericanMav And @McDonnell is doing nothing! You see, this isn't an issue of right and left, it is an issue of honor and higher ed. #uva",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 216893751723962369,
+  "in_reply_to_status_id_str": "216893751723962369",
+  "in_reply_to_user_id": 456339833,
+  "in_reply_to_user_id_str": "456339833",
+  "in_reply_to_screen_name": "AmericanMav",
+  "user": {
+    "id": 612589878,
+    "id_str": "612589878",
+    "name": "Emily Fenichel",
+    "screen_name": "EmilyFenichel",
+    "location": "",
+    "description": "The arts...define who we are as a people and provide an account of our history for the next generation. - Michelle Obama",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 11,
+    "friends_count": 71,
+    "listed_count": 2,
+    "created_at": "Tue Jun 19 12:18:02 +0000 2012",
+    "favourites_count": 0,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 181,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2322242843/bruges_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2322242843/bruges_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "uva",
+        "indices": [
+          133,
+          137
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AmericanMav",
+        "name": "American Maverick",
+        "id": 456339833,
+        "id_str": "456339833",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "mcdonnell",
+        "name": "mcdonnell",
+        "id": 16684326,
+        "id_str": "16684326",
+        "indices": [
+          17,
+          27
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

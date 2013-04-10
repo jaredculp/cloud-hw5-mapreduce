@@ -1,0 +1,123 @@
+{
+  "created_at": "Tue Jun 26 08:16:08 +0000 2012",
+  "id": 217531677143089152,
+  "id_str": "217531677143089152",
+  "text": "\"@Adejeinforma: Cursos #UVA 2012 - Tendencias en actividades físicas dirigidas - http://t.co/dcrI8yce\"",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 587828242,
+    "id_str": "587828242",
+    "name": "Sur de Tenerife",
+    "screen_name": "surdetenerife",
+    "location": "",
+    "description": "Visita nuestra Fan Page en Facebook. Buscanos como Yo vivo en el Sur de Tenerife https://t.co/NOAAorIR",
+    "url": "http://t.co/CniRVCAW",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/CniRVCAW",
+            "expanded_url": "http://sur-de-tenerife.blogspot.com.es/",
+            "display_url": "sur-de-tenerife.blogspot.com.es",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/NOAAorIR",
+            "expanded_url": "https://www.facebook.com/pages/Yo-vivo-en-el-sur-de-Tenerife/64422307119",
+            "display_url": "facebook.com/pages/Yo-vivo-…",
+            "indices": [
+              81,
+              102
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1057,
+    "friends_count": 319,
+    "listed_count": 11,
+    "created_at": "Tue May 22 23:12:27 +0000 2012",
+    "favourites_count": 124,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4971,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FAFAFA",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/562175818/Fondo_Twitter.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/562175818/Fondo_Twitter.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2242050580/Imagen_perfil_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2242050580/Imagen_perfil_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/587828242/1348053907",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          23,
+          27
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dcrI8yce",
+        "expanded_url": "http://ow.ly/bxt0i",
+        "display_url": "ow.ly/bxt0i",
+        "indices": [
+          81,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "adejeinforma",
+        "name": "Adeje Informa",
+        "id": 857034672,
+        "id_str": "857034672",
+        "indices": [
+          1,
+          14
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

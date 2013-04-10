@@ -1,0 +1,124 @@
+{
+  "created_at": "Fri Jun 22 15:00:16 +0000 2012",
+  "id": 216183832100077568,
+  "id_str": "216183832100077568",
+  "text": "Would she accept? RT @washingtonpost: Fmr VA Gov. @TimKaine: \"They should offer to reinstate President Sullivan.\" http://t.co/jGj7v6MO #UVA",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 23083547,
+    "id_str": "23083547",
+    "name": "Liz C. Taylor",
+    "screen_name": "lizctaylor",
+    "location": "Charlottesville, Virginia",
+    "description": "Life is short. Make it red hot. And no, I'm not obsessed with Rick Springfield. It's an affair of the heart. 30 years and counting, baby.",
+    "url": "http://www.redhotand40plus.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.redhotand40plus.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1270,
+    "friends_count": 1898,
+    "listed_count": 29,
+    "created_at": "Fri Mar 06 16:27:02 +0000 2009",
+    "favourites_count": 63,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3653,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5ECAE",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/348040674/red-hot.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/348040674/red-hot.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3070133841/163e656ed75873b468e51155d5a0585a_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3070133841/163e656ed75873b468e51155d5a0585a_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/23083547/1355410463",
+    "profile_link_color": "0D0D0D",
+    "profile_sidebar_border_color": "C49435",
+    "profile_sidebar_fill_color": "F5F3C9",
+    "profile_text_color": "61605D",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/jGj7v6MO",
+        "expanded_url": "http://wapo.st/KXbJGP",
+        "display_url": "wapo.st/KXbJGP",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "washingtonpost",
+        "name": "The Washington Post",
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          21,
+          36
+        ]
+      },
+      {
+        "screen_name": "timkaine",
+        "name": "Senator Tim Kaine",
+        "id": 172858784,
+        "id_str": "172858784",
+        "indices": [
+          50,
+          59
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

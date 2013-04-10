@@ -1,0 +1,145 @@
+{
+  "created_at": "Mon Aug 06 19:52:07 +0000 2012",
+  "id": 232564731171454976,
+  "id_str": "232564731171454976",
+  "text": "RT @celisalazar: #UDEM #sisters #instagood  http://t.co/kSkEYQRH // Saludos a todos los alumnos de @PrepaUDEM #UVA. ¡Bienvenidos!",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 30902791,
+    "id_str": "30902791",
+    "name": "UDEM - Monterrey",
+    "screen_name": "GenteUDEM",
+    "location": "San Pedro Garza García, N. L.",
+    "description": "Excelentes profesionistas, extraordinarias personas",
+    "url": "http://www.udem.edu.mx",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.udem.edu.mx",
+            "expanded_url": null,
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 10228,
+    "friends_count": 9674,
+    "listed_count": 121,
+    "created_at": "Mon Apr 13 16:58:43 +0000 2009",
+    "favourites_count": 41,
+    "utc_offset": -21600,
+    "time_zone": "Monterrey",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6324,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/688736608/fc5ad513c5c16e22b763f06adf712d9e.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/688736608/fc5ad513c5c16e22b763f06adf712d9e.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2626948665/o2xxxlvd6kmdjwysdtfy_normal.png",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2626948665/o2xxxlvd6kmdjwysdtfy_normal.png",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/30902791/1350685160",
+    "profile_link_color": "9C6B1B",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FDD51B",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UDEM",
+        "indices": [
+          17,
+          22
+        ]
+      },
+      {
+        "text": "sisters",
+        "indices": [
+          23,
+          31
+        ]
+      },
+      {
+        "text": "instagood",
+        "indices": [
+          32,
+          42
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          110,
+          114
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/kSkEYQRH",
+        "expanded_url": "http://instagr.am/p/N_54Wiv-Wp/",
+        "display_url": "instagr.am/p/N_54Wiv-Wp/",
+        "indices": [
+          44,
+          64
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "celisalazar",
+        "name": "Celina Salazar",
+        "id": 314809432,
+        "id_str": "314809432",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "PrepaUDEM",
+        "name": "PrepaUDEM",
+        "id": 180424596,
+        "id_str": "180424596",
+        "indices": [
+          99,
+          109
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

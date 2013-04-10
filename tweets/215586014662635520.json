@@ -1,0 +1,101 @@
+{
+  "created_at": "Wed Jun 20 23:24:45 +0000 2012",
+  "id": 215586014662635520,
+  "id_str": "215586014662635520",
+  "text": "#UVA Did Greenwich tycoons take down a major university president? - GreenwichTime http://t.co/7UOouonL via @GreenwichTime",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 31630020,
+    "id_str": "31630020",
+    "name": "Liza",
+    "screen_name": "ebw123",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 31,
+    "friends_count": 82,
+    "listed_count": 0,
+    "created_at": "Thu Apr 16 03:38:03 +0000 2009",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 18,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/197546187/Castor_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/197546187/Castor_normal.jpg",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/7UOouonL",
+        "expanded_url": "http://www.greenwichtime.com/news/article/Did-Greenwich-tycoons-take-down-a-major-3646232.php?cmpid=twitter",
+        "display_url": "greenwichtime.com/news/article/D…",
+        "indices": [
+          83,
+          103
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GreenwichTime",
+        "name": "Greenwich Time",
+        "id": 40941232,
+        "id_str": "40941232",
+        "indices": [
+          108,
+          122
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

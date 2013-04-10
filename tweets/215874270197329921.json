@@ -1,0 +1,113 @@
+{
+  "created_at": "Thu Jun 21 18:30:11 +0000 2012",
+  "id": 215874270197329921,
+  "id_str": "215874270197329921",
+  "text": "Did online education initiatives at other top universities lead to #UVA president's ouster? @kwerb, shocked, reflects\nhttp://t.co/dCgHe6NJ",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 166361173,
+    "id_str": "166361173",
+    "name": "Barbara van Schewick",
+    "screen_name": "vanschewick",
+    "location": "Stanford, CA.",
+    "description": "Law Professor, Stanford Law School. Director, Stanford Center for Internet and Society (@stanfordcis). Author, Internet Architecture and Innovation.",
+    "url": "http://netarchitecture.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://netarchitecture.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 970,
+    "friends_count": 43,
+    "listed_count": 74,
+    "created_at": "Tue Jul 13 23:48:55 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 601,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/182350309/barbara-bg.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/182350309/barbara-bg.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1192779869/vanschewick_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1192779869/vanschewick_normal.jpg",
+    "profile_link_color": "1E5080",
+    "profile_sidebar_border_color": "020405",
+    "profile_sidebar_fill_color": "EDEFF2",
+    "profile_text_color": "262326",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          67,
+          71
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/dCgHe6NJ",
+        "expanded_url": "http://werblog.com/2012/06/uva-business-tech/",
+        "display_url": "werblog.com/2012/06/uva-bu…",
+        "indices": [
+          118,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "kwerb",
+        "name": "Kevin Werbach",
+        "id": 817970,
+        "id_str": "817970",
+        "indices": [
+          92,
+          98
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

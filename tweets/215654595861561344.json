@@ -1,0 +1,124 @@
+{
+  "created_at": "Thu Jun 21 03:57:16 +0000 2012",
+  "id": 215654595861561344,
+  "id_str": "215654595861561344",
+  "text": "Wow. MT @katypearce: MT @jmittell #UVA University Professor of Computer Science Bill Wulf's resignation letter http://t.co/Ez1HJ5Bp",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17971620,
+    "id_str": "17971620",
+    "name": "Ashley Fitch Blair",
+    "screen_name": "afblair",
+    "location": "Jackson, TN",
+    "description": "A geeky college professor enamored with how the world communicates",
+    "url": "http://t.co/jPNw6PIY",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/jPNw6PIY",
+            "expanded_url": "http://www.ashleyfblair.com",
+            "display_url": "ashleyfblair.com",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 564,
+    "friends_count": 543,
+    "listed_count": 67,
+    "created_at": "Mon Dec 08 20:04:03 +0000 2008",
+    "favourites_count": 541,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8651,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2395338686/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2395338686/image_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          34,
+          38
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/Ez1HJ5Bp",
+        "expanded_url": "http://bit.ly/MtjQJm",
+        "display_url": "bit.ly/MtjQJm",
+        "indices": [
+          111,
+          131
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "katypearce",
+        "name": "Katy Pearce",
+        "id": 93782410,
+        "id_str": "93782410",
+        "indices": [
+          8,
+          19
+        ]
+      },
+      {
+        "screen_name": "jmittell",
+        "name": "Jason Mittell",
+        "id": 35295295,
+        "id_str": "35295295",
+        "indices": [
+          24,
+          33
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

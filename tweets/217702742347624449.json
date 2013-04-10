@@ -1,0 +1,93 @@
+{
+  "created_at": "Tue Jun 26 19:35:53 +0000 2012",
+  "id": 217702742347624449,
+  "id_str": "217702742347624449",
+  "text": "Wahoowa! #UVA RT @CBS19: Unanimous vote \"yes\" to reinstate Sullivan",
+  "source": "<a href=\"http://rowiapp.com\" rel=\"nofollow\">rowi for Windows Phone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 45643582,
+    "id_str": "45643582",
+    "name": "Alyson Murphy",
+    "screen_name": "AlysonMurphy",
+    "location": "Seattle, WA",
+    "description": "Web analyst and SEO studying Data Science at UW and generally exploring Seattle.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 301,
+    "friends_count": 355,
+    "listed_count": 13,
+    "created_at": "Mon Jun 08 19:15:04 +0000 2009",
+    "favourites_count": 12,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1128,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3002747466/9cf6945e6d17574a5edb5cb2734bcc21_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3002747466/9cf6945e6d17574a5edb5cb2734bcc21_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/45643582/1357141373",
+    "profile_link_color": "E60707",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          9,
+          13
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CBS19",
+        "name": "WCAV CBS19",
+        "id": 18235216,
+        "id_str": "18235216",
+        "indices": [
+          17,
+          23
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

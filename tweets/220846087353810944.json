@@ -1,0 +1,130 @@
+{
+  "created_at": "Thu Jul 05 11:46:25 +0000 2012",
+  "id": 220846087353810944,
+  "id_str": "220846087353810944",
+  "text": "José Vicente de los Mozos toma posesión como nuevo presidente del Consejo Social de la #UVa http://t.co/rWijaqLb @UVa_es @Renault_Live #cyl",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 226909192,
+    "id_str": "226909192",
+    "name": "Noticias CyL",
+    "screen_name": "noticiascyl",
+    "location": "Valladolid",
+    "description": "Diario regional independiente. #Noticias sobre #CastillayLeón, #Ávila, #Burgos, #León, #Palencia, #Salamanca, #Segovia, #Soria, #Valladolid y #Zamora",
+    "url": "http://www.noticiascastillayleon.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.noticiascastillayleon.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 3416,
+    "friends_count": 416,
+    "listed_count": 105,
+    "created_at": "Wed Dec 15 11:47:45 +0000 2010",
+    "favourites_count": 1,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 19196,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0A0001",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/447935951/ncyl.cuadr.jpg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/447935951/ncyl.cuadr.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1666243559/ncyl.cuadr_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1666243559/ncyl.cuadr_normal.jpg",
+    "profile_link_color": "690606",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          87,
+          91
+        ]
+      },
+      {
+        "text": "cyl",
+        "indices": [
+          135,
+          139
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/rWijaqLb",
+        "expanded_url": "http://goo.gl/jrjVd",
+        "display_url": "goo.gl/jrjVd",
+        "indices": [
+          92,
+          112
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_es",
+        "name": "Univ. de Valladolid",
+        "id": 385843469,
+        "id_str": "385843469",
+        "indices": [
+          113,
+          120
+        ]
+      },
+      {
+        "screen_name": "Renault_Live",
+        "name": "Renault",
+        "id": 16144151,
+        "id_str": "16144151",
+        "indices": [
+          121,
+          134
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

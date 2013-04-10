@@ -1,0 +1,96 @@
+{
+  "created_at": "Wed Jun 20 19:51:53 +0000 2012",
+  "id": 215532443309060096,
+  "id_str": "215532443309060096",
+  "text": "@haaspolicy @cavalierdaily This is not the University of Phoenix. This will provide quick cash, but orchestrate a long-term decline.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 215531100079005697,
+  "in_reply_to_status_id_str": "215531100079005697",
+  "in_reply_to_user_id": 39143159,
+  "in_reply_to_user_id_str": "39143159",
+  "in_reply_to_screen_name": "haaspolicy",
+  "user": {
+    "id": 36998565,
+    "id_str": "36998565",
+    "name": "Kirsten Schofield",
+    "screen_name": "ennuigo",
+    "location": "Louisville",
+    "description": "Narrative opportunist, flaneur, glutton, pistol. ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 585,
+    "friends_count": 501,
+    "listed_count": 23,
+    "created_at": "Fri May 01 17:51:04 +0000 2009",
+    "favourites_count": 259,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 17321,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "BADFCD",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1110601961/kazakh_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1110601961/kazakh_normal.jpg",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "F2E195",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "haaspolicy",
+        "name": "Haas Policy",
+        "id": 39143159,
+        "id_str": "39143159",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          12,
+          26
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

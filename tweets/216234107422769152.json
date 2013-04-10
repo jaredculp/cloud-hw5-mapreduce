@@ -1,0 +1,112 @@
+{
+  "created_at": "Fri Jun 22 18:20:03 +0000 2012",
+  "id": 216234107422769152,
+  "id_str": "216234107422769152",
+  "text": "#Wahoowa. RT @UVa_Alumni: Printout of the nearly 5500 alumni comments going to BOV today (also emailing file to BOV) #UVA",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14750959,
+    "id_str": "14750959",
+    "name": "Mrudula Venigalla",
+    "screen_name": "oldnonsense",
+    "location": "Northern Virginia",
+    "description": "I guess I just like liking things.",
+    "url": "http://about.me/mrudulavenigalla",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://about.me/mrudulavenigalla",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 199,
+    "friends_count": 469,
+    "listed_count": 8,
+    "created_at": "Mon May 12 22:33:33 +0000 2008",
+    "favourites_count": 667,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3916,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "A3A3A3",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/772618657/2b85fa3dc8ff05d73095a2001d8b647c.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/772618657/2b85fa3dc8ff05d73095a2001d8b647c.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1549533607/DSCN0651_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1549533607/DSCN0651_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/14750959/1359086988",
+    "profile_link_color": "827972",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "061127",
+    "profile_text_color": "52555C",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Wahoowa",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          117,
+          121
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVa_Alumni",
+        "name": "U.Va. Alumni",
+        "id": 17592789,
+        "id_str": "17592789",
+        "indices": [
+          13,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

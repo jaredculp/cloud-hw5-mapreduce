@@ -1,0 +1,107 @@
+{
+  "created_at": "Fri Jun 22 14:47:00 +0000 2012",
+  "id": 216180493698342912,
+  "id_str": "216180493698342912",
+  "text": "Great work coming from my college paper, @cavalierdaily. Glad to see them getting recognition. http://t.co/CbA3K5J5",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 368606654,
+    "id_str": "368606654",
+    "name": "Eric Kolenich",
+    "screen_name": "EricKolenichRTD",
+    "location": "Richmond, VA",
+    "description": "High school sports reporter for the Richmond Times-Dispatch.",
+    "url": "http://www2.timesdispatch.com/staff/23373/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www2.timesdispatch.com/staff/23373/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              42
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 573,
+    "friends_count": 257,
+    "listed_count": 19,
+    "created_at": "Mon Sep 05 22:42:23 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -10800,
+    "time_zone": "Georgetown",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3086,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1531579813/head_shot_low_res_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1531579813/head_shot_low_res_normal.jpg",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/CbA3K5J5",
+        "expanded_url": "http://hamptonroads.com/2012/06/show-character-140-characters",
+        "display_url": "hamptonroads.com/2012/06/show-c…",
+        "indices": [
+          95,
+          115
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cavalierdaily",
+        "name": "The Cavalier Daily",
+        "id": 24296023,
+        "id_str": "24296023",
+        "indices": [
+          41,
+          55
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

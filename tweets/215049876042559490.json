@@ -1,0 +1,91 @@
+{
+  "created_at": "Tue Jun 19 11:54:20 +0000 2012",
+  "id": 215049876042559490,
+  "id_str": "215049876042559490",
+  "text": "'Look, official stadium development plans!' #BOV #DOSOMEWORK",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 401526744,
+    "id_str": "401526744",
+    "name": "Bernice",
+    "screen_name": "Bernice_Foster",
+    "location": "",
+    "description": "Life. Oh life.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 75,
+    "friends_count": 198,
+    "listed_count": 0,
+    "created_at": "Sun Oct 30 17:43:16 +0000 2011",
+    "favourites_count": 53,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 825,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2932830530/b812bb5218c8fafe67514bc48c380b09_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2932830530/b812bb5218c8fafe67514bc48c380b09_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/401526744/1348430443",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          44,
+          48
+        ]
+      },
+      {
+        "text": "DOSOMEWORK",
+        "indices": [
+          49,
+          60
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

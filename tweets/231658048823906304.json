@@ -1,0 +1,177 @@
+{
+  "created_at": "Sat Aug 04 07:49:17 +0000 2012",
+  "id": 231658048823906304,
+  "id_str": "231658048823906304",
+  "text": "Ett bra år för #krusbär. #stickelbär #gooseberry #ribes #uva-crispa  @ Mötesbron http://t.co/uPlJgiSc",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 293619757,
+    "id_str": "293619757",
+    "name": "Henrik Persson",
+    "screen_name": "4slash7",
+    "location": "Borås",
+    "description": "Product Area Specialist at NetOnNet AB. Tweeting about interesting news, personal thoughts and interests.",
+    "url": "http://www.facebook.com/henrik77",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.facebook.com/henrik77",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 15,
+    "friends_count": 33,
+    "listed_count": 0,
+    "created_at": "Thu May 05 17:32:06 +0000 2011",
+    "favourites_count": 20,
+    "utc_offset": 3600,
+    "time_zone": "Stockholm",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 80,
+    "lang": "sv",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2636490163/b2da169160ed773a700b8a98e7c0cfee_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2636490163/b2da169160ed773a700b8a98e7c0cfee_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      57.78617477,
+      12.85212421
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      12.85212421,
+      57.78617477
+    ]
+  },
+  "place": {
+    "id": "c238ebe8b6909ac1",
+    "url": "https://api.twitter.com/1.1/geo/id/c238ebe8b6909ac1.json",
+    "place_type": "city",
+    "name": "Borås",
+    "full_name": "Borås, Västra Götaland",
+    "country_code": "SE",
+    "country": "Sweden",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            12.632971,
+            57.554677
+          ],
+          [
+            13.30905,
+            57.554677
+          ],
+          [
+            13.30905,
+            57.941725
+          ],
+          [
+            12.632971,
+            57.941725
+          ]
+        ]
+      ]
+    },
+    "attributes": {
+    }
+  },
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "krusbär",
+        "indices": [
+          15,
+          23
+        ]
+      },
+      {
+        "text": "stickelbär",
+        "indices": [
+          25,
+          36
+        ]
+      },
+      {
+        "text": "gooseberry",
+        "indices": [
+          37,
+          48
+        ]
+      },
+      {
+        "text": "ribes",
+        "indices": [
+          49,
+          55
+        ]
+      },
+      {
+        "text": "uva",
+        "indices": [
+          56,
+          60
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/uPlJgiSc",
+        "expanded_url": "http://instagr.am/p/N5fvSTrLDf/",
+        "display_url": "instagr.am/p/N5fvSTrLDf/",
+        "indices": [
+          81,
+          101
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

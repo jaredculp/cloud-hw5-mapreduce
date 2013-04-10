@@ -1,0 +1,130 @@
+{
+  "created_at": "Fri Jun 22 02:09:31 +0000 2012",
+  "id": 215989866931044353,
+  "id_str": "215989866931044353",
+  "text": "RT @msnbc_us: Ouster of popular president #Sullivan roils #University of Virginia http://t.co/8pNun56j via @msnbc_us",
+  "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 333808020,
+    "id_str": "333808020",
+    "name": "Danny Blair",
+    "screen_name": "synoptictyper",
+    "location": "University of Winnipeg",
+    "description": "",
+    "url": "http://dannyblair.uwinnipeg.ca/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://dannyblair.uwinnipeg.ca/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              31
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 51,
+    "friends_count": 32,
+    "listed_count": 2,
+    "created_at": "Tue Jul 12 03:35:19 +0000 2011",
+    "favourites_count": 54,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 667,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1654474699/image_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1654474699/image_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sullivan",
+        "indices": [
+          42,
+          51
+        ]
+      },
+      {
+        "text": "University",
+        "indices": [
+          58,
+          69
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/8pNun56j",
+        "expanded_url": "http://on.msnbc.com/MlLF8g",
+        "display_url": "on.msnbc.com/MlLF8g",
+        "indices": [
+          82,
+          102
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "msnbc_us",
+        "name": "msnbc_us",
+        "id": 636933334,
+        "id_str": "636933334",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "msnbc_us",
+        "name": "msnbc_us",
+        "id": 636933334,
+        "id_str": "636933334",
+        "indices": [
+          107,
+          116
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

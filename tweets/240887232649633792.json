@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed Aug 29 19:02:46 +0000 2012",
+  "id": 240887232649633792,
+  "id_str": "240887232649633792",
+  "text": "Wie is er morgen nog meer bij de Naplaatsingsdag van de #UvA?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 95985183,
+    "id_str": "95985183",
+    "name": "Hoogstrate",
+    "screen_name": "hoogstrate",
+    "location": "ÜT: 52.315793,4.97887",
+    "description": "Master New Media & Digital Cultures | http://t.co/SGCQBOZZ | http://t.co/LeW2MQWN ",
+    "url": "http://t.co/5gjtItDt",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/5gjtItDt",
+            "expanded_url": "http://www.basrihoogstrate.nl",
+            "display_url": "basrihoogstrate.nl",
+            "indices": [
+              0,
+              20
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/SGCQBOZZ",
+            "expanded_url": "http://www.thisiswhatyouaremissing.com",
+            "display_url": "thisiswhatyouaremissing.com",
+            "indices": [
+              38,
+              58
+            ]
+          },
+          {
+            "url": "http://t.co/LeW2MQWN",
+            "expanded_url": "http://www.dutchwebshark.com",
+            "display_url": "dutchwebshark.com",
+            "indices": [
+              61,
+              81
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 219,
+    "friends_count": 331,
+    "listed_count": 8,
+    "created_at": "Thu Dec 10 21:15:46 +0000 2009",
+    "favourites_count": 65,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4859,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/657946388/2deg7ixsmi9mnvlv78ga.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/657946388/2deg7ixsmi9mnvlv78ga.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2775057591/7c25857523371890b1a42340e73a24c5_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2775057591/7c25857523371890b1a42340e73a24c5_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/95985183/1351031007",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UvA",
+        "indices": [
+          56,
+          60
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

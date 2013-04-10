@@ -1,0 +1,93 @@
+{
+  "created_at": "Wed Jun 20 22:31:45 +0000 2012",
+  "id": 215572673177202688,
+  "id_str": "215572673177202688",
+  "text": "This whole situation is mad sketchy... \"@UVA: #UVa Process that led to Sullivan's resignation \"deeply flawed\" -- Zeithaml\"",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 467766540,
+    "id_str": "467766540",
+    "name": "Craig Schwartz",
+    "screen_name": "cschwartz525",
+    "location": "Charlottesville, VA",
+    "description": "#UVA student, #NY born and raised.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 66,
+    "friends_count": 205,
+    "listed_count": 0,
+    "created_at": "Wed Jan 18 20:37:37 +0000 2012",
+    "favourites_count": 6,
+    "utc_offset": -36000,
+    "time_zone": "Hawaii",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 169,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3016857797/1c2b9d08ef4748e697d66558d7a352de_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3016857797/1c2b9d08ef4748e697d66558d7a352de_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/467766540/1355505850",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          46,
+          50
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "UVA",
+        "name": "UVA",
+        "id": 1910771,
+        "id_str": "1910771",
+        "indices": [
+          40,
+          44
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

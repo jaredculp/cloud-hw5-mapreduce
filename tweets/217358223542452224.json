@@ -1,0 +1,136 @@
+{
+  "created_at": "Mon Jun 25 20:46:53 +0000 2012",
+  "id": 217358223542452224,
+  "id_str": "217358223542452224",
+  "text": "RT @chronicle: The right way to lead #highered through the #digital age: http://t.co/SpMeuRqI #UVA #Sullivan #Dragas #education",
+  "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 325126593,
+    "id_str": "325126593",
+    "name": "J. Chris Pires",
+    "screen_name": "JChrisPires",
+    "location": "Columbia, MO",
+    "description": "Biology professor @Mizzou studying #plant #genome #evolution & #bioinformatics, walker of #dog, tender of rain #garden, #scuba #diver & alum of @Cal @Wisconsin ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 1543,
+    "friends_count": 1974,
+    "listed_count": 102,
+    "created_at": "Mon Jun 27 19:43:37 +0000 2011",
+    "favourites_count": 14306,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15405,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/1416048607/jcp_2011_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/1416048607/jcp_2011_normal.jpg",
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 2,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "highered",
+        "indices": [
+          37,
+          46
+        ]
+      },
+      {
+        "text": "digital",
+        "indices": [
+          59,
+          67
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          94,
+          98
+        ]
+      },
+      {
+        "text": "Sullivan",
+        "indices": [
+          99,
+          108
+        ]
+      },
+      {
+        "text": "Dragas",
+        "indices": [
+          109,
+          116
+        ]
+      },
+      {
+        "text": "education",
+        "indices": [
+          117,
+          127
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/SpMeuRqI",
+        "expanded_url": "http://chroni.cl/MTHJKO",
+        "display_url": "chroni.cl/MTHJKO",
+        "indices": [
+          73,
+          93
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "chronicle",
+        "name": "Chronicle",
+        "id": 12413032,
+        "id_str": "12413032",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

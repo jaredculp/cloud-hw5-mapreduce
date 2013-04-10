@@ -1,0 +1,140 @@
+{
+  "created_at": "Wed Jun 20 19:32:27 +0000 2012",
+  "id": 215527553283272704,
+  "id_str": "215527553283272704",
+  "text": "VA Senator @CreighDeeds up next re; future governance of #UVA. Listen; http://t.co/xXHJh5N1 @WLEE990 @WCHVNews #Virginia",
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 163498023,
+    "id_str": "163498023",
+    "name": "AFTCONST",
+    "screen_name": "AFTCONST",
+    "location": "Virginia",
+    "description": "Unique and honest syndicated talk radio in Richmond and Roanoke (so-far) from the home of the Declaration & Constitution, Charlottesville, VA!",
+    "url": "http://www.theafternoonconstitutional.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.theafternoonconstitutional.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              41
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 262,
+    "friends_count": 645,
+    "listed_count": 5,
+    "created_at": "Tue Jul 06 15:33:44 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3048,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2428936868/8sg19e9kjswzhswf9jiq_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2428936868/8sg19e9kjswzhswf9jiq_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          57,
+          61
+        ]
+      },
+      {
+        "text": "Virginia",
+        "indices": [
+          111,
+          120
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/xXHJh5N1",
+        "expanded_url": "http://ht.ly/bIpKR",
+        "display_url": "ht.ly/bIpKR",
+        "indices": [
+          71,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "CreighDeeds",
+        "name": "Creigh Deeds",
+        "id": 19991326,
+        "id_str": "19991326",
+        "indices": [
+          11,
+          23
+        ]
+      },
+      {
+        "screen_name": "WLEE990",
+        "name": "WLEE News Talk 990",
+        "id": 105180609,
+        "id_str": "105180609",
+        "indices": [
+          92,
+          100
+        ]
+      },
+      {
+        "screen_name": "WCHVNEWS",
+        "name": "WCHV NEWS",
+        "id": 22610917,
+        "id_str": "22610917",
+        "indices": [
+          101,
+          110
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

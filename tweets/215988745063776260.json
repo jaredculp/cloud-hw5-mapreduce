@@ -1,0 +1,157 @@
+{
+  "created_at": "Fri Jun 22 02:05:04 +0000 2012",
+  "id": 215988745063776260,
+  "id_str": "215988745063776260",
+  "text": "Read #CorpGov Bulletin featuring @ampressman @BobTannous @LucyMarcus @Directorship http://t.co/50sS9wOB #CSR #UVa",
+  "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 46903629,
+    "id_str": "46903629",
+    "name": "Alice Korngold",
+    "screen_name": "alicekorngold",
+    "location": "New York",
+    "description": "CEO, Korngold Consulting. Author, Leveraging Good Will. Place biz execs on NGO boards. Blog @FastCompany @HuffPostImpact #CSR #corpgov Curiouser&curiouser    ",
+    "url": "http://www.korngoldconsulting.com/",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.korngoldconsulting.com/",
+            "expanded_url": null,
+            "indices": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4202,
+    "friends_count": 846,
+    "listed_count": 354,
+    "created_at": "Sat Jun 13 15:26:20 +0000 2009",
+    "favourites_count": 120,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6565,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "292421",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/17919588/korngold_main_logo.gif",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/17919588/korngold_main_logo.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2374057450/bqgmcggkwatlbh7h5qtg_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2374057450/bqgmcggkwatlbh7h5qtg_normal.jpeg",
+    "profile_link_color": "362D2B",
+    "profile_sidebar_border_color": "292421",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "F05A28",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "CorpGov",
+        "indices": [
+          5,
+          13
+        ]
+      },
+      {
+        "text": "CSR",
+        "indices": [
+          104,
+          108
+        ]
+      },
+      {
+        "text": "UVa",
+        "indices": [
+          109,
+          113
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/50sS9wOB",
+        "expanded_url": "http://paper.li/CorpGovBulletin/1325847937",
+        "display_url": "paper.li/CorpGovBulleti…",
+        "indices": [
+          83,
+          103
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ampressman",
+        "name": "Aaron Pressman",
+        "id": 14626496,
+        "id_str": "14626496",
+        "indices": [
+          33,
+          44
+        ]
+      },
+      {
+        "screen_name": "BobTannous",
+        "name": "Robert J. Tannous",
+        "id": 146716774,
+        "id_str": "146716774",
+        "indices": [
+          45,
+          56
+        ]
+      },
+      {
+        "screen_name": "lucymarcus",
+        "name": "Lucy P. Marcus",
+        "id": 27937612,
+        "id_str": "27937612",
+        "indices": [
+          57,
+          68
+        ]
+      },
+      {
+        "screen_name": "Directorship",
+        "name": "Directorship",
+        "id": 19657151,
+        "id_str": "19657151",
+        "indices": [
+          69,
+          82
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

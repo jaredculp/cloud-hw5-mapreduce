@@ -1,0 +1,83 @@
+{
+  "created_at": "Fri Jun 22 08:46:52 +0000 2012",
+  "id": 216089860824498176,
+  "id_str": "216089860824498176",
+  "text": "#BOV",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 398262745,
+    "id_str": "398262745",
+    "name": "Progression",
+    "screen_name": "RealJA1",
+    "location": "London",
+    "description": "God.Family.Football.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 361,
+    "friends_count": 201,
+    "listed_count": 0,
+    "created_at": "Tue Oct 25 20:22:09 +0000 2011",
+    "favourites_count": 532,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5962,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/672777872/1cb35d97321df3898220e19dc3286773.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/672777872/1cb35d97321df3898220e19dc3286773.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3097006675/d23f1e1417b194a42a01c917f3e4f3d7_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3097006675/d23f1e1417b194a42a01c917f3e4f3d7_normal.jpeg",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BOV",
+        "indices": [
+          0,
+          4
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

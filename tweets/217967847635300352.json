@@ -1,0 +1,127 @@
+{
+  "created_at": "Wed Jun 27 13:09:19 +0000 2012",
+  "id": 217967847635300352,
+  "id_str": "217967847635300352",
+  "text": "MT @sivavaid When #UT Appeared to Be in #UVA's Shoes, Many Spoke Out http://t.co/quGntJYU #hookem",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16629184,
+    "id_str": "16629184",
+    "name": "Doug Eskew",
+    "screen_name": "eskew",
+    "location": "Pueblo. Colorado",
+    "description": "Father. Husband. Professor. Lefty.",
+    "url": "http://www.dougeskew.org",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.dougeskew.org",
+            "expanded_url": null,
+            "indices": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 71,
+    "friends_count": 88,
+    "listed_count": 1,
+    "created_at": "Tue Oct 07 13:07:46 +0000 2008",
+    "favourites_count": 8,
+    "utc_offset": -25200,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 618,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/24197522/428px-Red_flag_II.svg.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/24197522/428px-Red_flag_II.svg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/277902836/IMG_0292_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/277902836/IMG_0292_normal.jpg",
+    "profile_link_color": "D02B55",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UT",
+        "indices": [
+          18,
+          21
+        ]
+      },
+      {
+        "text": "UVA",
+        "indices": [
+          40,
+          44
+        ]
+      },
+      {
+        "text": "hookem",
+        "indices": [
+          90,
+          97
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/quGntJYU",
+        "expanded_url": "http://trib.it/MT3o9h",
+        "display_url": "trib.it/MT3o9h",
+        "indices": [
+          69,
+          89
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "sivavaid",
+        "name": "Siva Vaidhyanathan",
+        "id": 20406724,
+        "id_str": "20406724",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}

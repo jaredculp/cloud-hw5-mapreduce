@@ -1,0 +1,103 @@
+{
+  "created_at": "Sun Aug 12 06:06:33 +0000 2012",
+  "id": 234531297312247809,
+  "id_str": "234531297312247809",
+  "text": "@Greg_Strine @Just__Stop Opening doors is too mainstream, I close them much more #Hipster",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": 234530058545553411,
+  "in_reply_to_status_id_str": "234530058545553411",
+  "in_reply_to_user_id": 390790897,
+  "in_reply_to_user_id_str": "390790897",
+  "in_reply_to_screen_name": "Greg_Strine",
+  "user": {
+    "id": 461574103,
+    "id_str": "461574103",
+    "name": "Jake Swope",
+    "screen_name": "JakeSwope",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 335,
+    "friends_count": 298,
+    "listed_count": 0,
+    "created_at": "Wed Jan 11 23:21:13 +0000 2012",
+    "favourites_count": 1423,
+    "utc_offset": -14400,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5568,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/567545514/y31zzcifo96mgs78z6n4.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/567545514/y31zzcifo96mgs78z6n4.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3204322527/a2e0a8927ecfa95632570c126fdb19e6_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3204322527/a2e0a8927ecfa95632570c126fdb19e6_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/461574103/1358708231",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Hipster",
+        "indices": [
+          81,
+          89
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Greg_Strine",
+        "name": "Greg Strine",
+        "id": 390790897,
+        "id_str": "390790897",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "Just__Stop",
+        "name": "James♕Roberts",
+        "id": 590213595,
+        "id_str": "590213595",
+        "indices": [
+          13,
+          24
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

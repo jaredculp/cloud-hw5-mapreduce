@@ -1,0 +1,115 @@
+{
+  "created_at": "Tue Jun 26 21:05:16 +0000 2012",
+  "id": 217725238572617728,
+  "id_str": "217725238572617728",
+  "text": ".RT from @wildcatatl re #UVa \"@wiffledust it's a bold message to big university donors that they can't and don't always get what they want.\"",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 34684365,
+    "id_str": "34684365",
+    "name": "Lisa Wiffledust",
+    "screen_name": "wiffledust",
+    "location": "united states",
+    "description": "creator of wiffledust, a community for creative folks & indie arts. designer, writer, musician, artist who wll advocate for and insist upon independent thinking",
+    "url": "http://www.worldofwiffledust.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.worldofwiffledust.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              32
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 324,
+    "friends_count": 789,
+    "listed_count": 1,
+    "created_at": "Thu Apr 23 18:17:15 +0000 2009",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3318,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0C0D0D",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/754429742/5a045982840a18726e33ec1fe1765180.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/754429742/5a045982840a18726e33ec1fe1765180.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3057803485/5892184da6e6fbbc777c4a6dd1c2306f_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3057803485/5892184da6e6fbbc777c4a6dd1c2306f_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/34684365/1357232244",
+    "profile_link_color": "FA0A42",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F2EDEF",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 1,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVa",
+        "indices": [
+          24,
+          28
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "wildcatatl",
+        "name": "Will Pollock",
+        "id": 14253400,
+        "id_str": "14253400",
+        "indices": [
+          9,
+          20
+        ]
+      },
+      {
+        "screen_name": "wiffledust",
+        "name": "Lisa Wiffledust",
+        "id": 34684365,
+        "id_str": "34684365",
+        "indices": [
+          30,
+          41
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

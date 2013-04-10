@@ -1,0 +1,95 @@
+{
+  "created_at": "Mon Jun 25 01:31:01 +0000 2012",
+  "id": 217067339278057472,
+  "id_str": "217067339278057472",
+  "text": "Wait - a professor at the #UVA protests claims to have been appointed to speak on behalf of Jefferson? Wow.",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 36935592,
+    "id_str": "36935592",
+    "name": "Ben Kennedy",
+    "screen_name": "blkenn",
+    "location": "A Bay Area",
+    "description": "Writer, editor, W&Mer, musician, civically minded sort of person. (I have a Twitter impersonator, also; be careful.)",
+    "url": "http://www.ben-kennedy.com",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://www.ben-kennedy.com",
+            "expanded_url": null,
+            "indices": [
+              0,
+              26
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 384,
+    "friends_count": 754,
+    "listed_count": 19,
+    "created_at": "Fri May 01 12:50:42 +0000 2009",
+    "favourites_count": 23,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4933,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EAB75C",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/573294372/xb7e162de1c5c71fd5d5de6ebb802bbb.png",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/573294372/xb7e162de1c5c71fd5d5de6ebb802bbb.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3167191710/c1543cda1bed33a2405b3c51a46aefcb_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3167191710/c1543cda1bed33a2405b3c51a46aefcb_normal.jpeg",
+    "profile_link_color": "860E0E",
+    "profile_sidebar_border_color": "697760",
+    "profile_sidebar_fill_color": "1F1E1A",
+    "profile_text_color": "D17C29",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          26,
+          30
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

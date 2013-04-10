@@ -1,0 +1,97 @@
+{
+  "created_at": "Tue Jun 26 19:41:37 +0000 2012",
+  "id": 217704188308758528,
+  "id_str": "217704188308758528",
+  "text": "So was that #UVA thing a MOOM?",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 176798444,
+    "id_str": "176798444",
+    "name": "Jen",
+    "screen_name": "injenuity",
+    "location": "Pacific Northwest",
+    "description": "",
+    "url": "https://t.co/GyYg7oaP",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/GyYg7oaP",
+            "expanded_url": "https://www.linkedin.com/in/jenniferdalby/",
+            "display_url": "linkedin.com/in/jenniferdal…",
+            "indices": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 696,
+    "friends_count": 512,
+    "listed_count": 52,
+    "created_at": "Tue Aug 10 13:28:58 +0000 2010",
+    "favourites_count": 28,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 18194,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "050117",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/672853729/44889530e35a4d579274958fe69a7f48.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/672853729/44889530e35a4d579274958fe69a7f48.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://a0.twimg.com/profile_images/3165844436/0863a4cf07e9850699c66a8f0b777703_normal.jpeg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/3165844436/0863a4cf07e9850699c66a8f0b777703_normal.jpeg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/176798444/1348971264",
+    "profile_link_color": "312D37",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "FBF7FF",
+    "profile_text_color": "433D5A",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          12,
+          16
+        ]
+      }
+    ],
+    "urls": [
+
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false
+}

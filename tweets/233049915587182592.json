@@ -1,0 +1,109 @@
+{
+  "created_at": "Wed Aug 08 04:00:04 +0000 2012",
+  "id": 233049915587182592,
+  "id_str": "233049915587182592",
+  "text": "great article about #UVA WR @djennings_cav6. No doubt he is poised for a big season! http://t.co/h75G67Bh #Wahoowa",
+  "source": "web",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 94466716,
+    "id_str": "94466716",
+    "name": "Kyle King",
+    "screen_name": "King_UVA",
+    "location": "",
+    "description": "Current UVA Student and Football Office Employee, William Byrd HS alum",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 168,
+    "friends_count": 570,
+    "listed_count": 3,
+    "created_at": "Fri Dec 04 02:08:32 +0000 2009",
+    "favourites_count": 185,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4857,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/675239386/7b6c27000b381798d04e3b802500c588.jpeg",
+    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/675239386/7b6c27000b381798d04e3b802500c588.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://a0.twimg.com/profile_images/2464530470/Tiger_2_normal.jpg",
+    "profile_image_url_https": "https://si0.twimg.com/profile_images/2464530470/Tiger_2_normal.jpg",
+    "profile_banner_url": "https://si0.twimg.com/profile_banners/94466716/1353194999",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 3,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UVA",
+        "indices": [
+          20,
+          24
+        ]
+      },
+      {
+        "text": "Wahoowa",
+        "indices": [
+          106,
+          114
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/h75G67Bh",
+        "expanded_url": "http://www2.cavalierinsider.com/sports/2012/aug/07/ratcliffe-sky-limit-darius-jennings-ar-2115596/",
+        "display_url": "www2.cavalierinsider.com/sports/2012/au…",
+        "indices": [
+          85,
+          105
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "djennings_cav6",
+        "name": "Darius Jennings",
+        "id": 324654812,
+        "id_str": "324654812",
+        "indices": [
+          28,
+          43
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false
+}
