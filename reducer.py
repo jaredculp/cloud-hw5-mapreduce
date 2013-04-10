@@ -5,7 +5,8 @@ import sys
 
 current_date = None
 current_who = None
-current_count = 0
+d_count = 0
+s_count = 0
 date = None
 who = None
 
@@ -23,15 +24,25 @@ for line in sys.stdin:
 
     # this IF-switch only works because Hadoop sorts map output
     # by key (here: word) before it is passed to the reducer
-    if current_date == date and current_who == who:
-        current_count += count
+    if current_date == date:
+        if who == "d":
+            d_count += count
+        if who == "s":
+            s_count += count
     else:
-        if current_date and current_who:
-            print '%s\t%s\t%s' % (current_date, current_who, current_count)
-        current_count = count
+        if current_date:
+            print '%s\td\t%s' % (current_date, d_count)
+            print '%s\ts\t%s' % (current_date, s_count)
+        if who == "d":
+            d_count = count
+        if who == "s":
+            s_count = count
         current_date = date
         current_who = who
 
 # do not forget to output the last word if needed!
-if current_date == date and current_who == who:
-    print '%s\t%s\t%s' % (current_date, current_who, current_count)
+if current_date == date:
+    if current_who == "d":
+        print '%s\td\t%s' % (current_date, d_count)
+    if current_who == "s":
+        print '%s\ts\t%s' % (current_date, s_count)
