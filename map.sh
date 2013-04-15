@@ -8,9 +8,9 @@ do
     then
         echo $num
     fi
-    cat ./tweets/$i | ./mapper.py > ./tmp/mapper-$i.txt ;
-    if [ ! -s ./tmp/mapper-$i.txt ]
+    cat ./tweets/$i | ./$1 > ./tmp/$1-$i.txt ;
+    if [ ! -s ./tmp/$1-$i.txt ]
     then
-        rm -f ./tmp/mapper-$i.txt
+        rm -f ./tmp/$1-$i.txt
     fi
 done

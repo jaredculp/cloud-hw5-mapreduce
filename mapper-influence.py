@@ -26,7 +26,7 @@ positive_file.close
 # read in negative words
 negative_file = open('negative.txt', 'r')
 for line in negative_file:
-    lookup_words['neg'][line.strip()] = 1p
+    lookup_words['neg'][line.strip()] = 1
 negative_file.close
 
 # we only need the tweet and the date
@@ -37,11 +37,12 @@ date = date[1] + " " + date[2]
 tweet = raw["text"].encode('utf-8') # remove unicode warning
 
 # grab some other relevant data
-followers = raw["followers_count"]
-faves = raw["favourites_count"]
+followers = raw["user"]["followers_count"]
+followers = followers + 1 # prevent div by 0
+faves = raw["user"]["favourites_count"]
 rts = raw["retweet_count"]
 
-factor = (rts + faves) / (followers / 100)
+factor = (rts + faves) / (followers / 100.0)
 
 words = tweet.split()
 
